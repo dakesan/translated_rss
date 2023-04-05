@@ -1,0 +1,40 @@
+
+name: Python package
+
+on:
+  schedule:
+  - cron: '0 */12 * * *'
+env:
+  DEEPL_KEY: ${{secrets.DEEPL_KEY}}
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        python-version: ["3.10"]
+
+    steps:
+    - uses: actions/checkout@v3
+    - name: Set up Python ${{ matrix.python-version }}
+      uses: actions/setup-python@v3
+      with:
+        python-version: ${{ matrix.python-version }}
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        python -m pip install flake8 pytest deepl
+        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+    - name: Translate
+      run: |
+        python translate.py
+    - name: push
+      run: |
+        git remote set-url origin https://github-actions:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}
+        git config --global user.name "${GITHUB_ACTOR}"
+        git config --global user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+        if (git diff --shortstat | grep '[0-9]'); then \
+          git add .; \
+          git commit -m "GitHub Actions から差分を Push"; \
+          git push origin HEAD:${GITHUB_REF}; \
+        fi
