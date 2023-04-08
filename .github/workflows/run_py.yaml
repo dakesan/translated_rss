@@ -29,20 +29,21 @@ jobs:
       run: |
         python translate.py
     - name: push
-      premissions:
-        actions: write
-        checks: write
-        contents: write
-        deployments: write
-        issues: write
-        packages: write
-        pull-requests: write
-        repository-projects: write
-        security-events: write
-        statuses: write
       run: |
         git config --global user.name "snitch0"
         git config --global user.email "snitch0@excel2rlang.com"
         git add .
         git commit -m "update"
         git push
+
+permissions:
+  actions: write
+  checks: write
+  contents: write
+  deployments: write
+  issues: write
+  packages: write
+  pull-requests: write
+  repository-projects: write
+  security-events: write
+  statuses: write
