@@ -18,11 +18,35 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01017-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01027-8"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01018-9"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01002-3"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01014-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-00995-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-00996-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-00984-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-00991-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01011-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-00978-2"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-05999-5"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06043-2"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01006-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-00904-6"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-00907-3"/>
                 
@@ -108,8 +132,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-00910-8"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-00904-6"/>
-                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-00992-4"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-00990-6"/>
@@ -146,28 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-00898-1"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-00941-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-00925-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-00960-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-00937-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-00923-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-00966-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-00900-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06001-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-05949-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-00826-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-00928-y"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,171 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01017-w">
+            <title><![CDATA[Understanding the difference between the mind and the brain ]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01017-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 07 April 2023; <a href="https://www.nature.com/articles/d41586-023-01017-w">doi:10.1038/d41586-023-01017-w</a></p>Neuroscientist Chantel Prat is keen to understand why, despite a growing awareness of diversity and its importance, we still sometimes struggle to accept different perspectives.]]></content:encoded>
+            <dc:title><![CDATA[Understanding the difference between the mind and the brain ]]></dc:title>
+            <dc:creator>Dom Byrne</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01017-w</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-07; | doi:10.1038/d41586-023-01017-w</dc:source>
+            <dc:date>2023-04-07</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01017-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01017-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01027-8">
+            <title><![CDATA[The good side of science: why I tweeted 31 reasons to love your career]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01027-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 07 April 2023; <a href="https://www.nature.com/articles/d41586-023-01027-8">doi:10.1038/d41586-023-01027-8</a></p>Jeffrey Rathmell took to Twitter after encountering negativity on social media about research careers. He was surprised by the experience, and the overwhelmingly positive response.]]></content:encoded>
+            <dc:title><![CDATA[The good side of science: why I tweeted 31 reasons to love your career]]></dc:title>
+            <dc:creator>Jeffrey Rathmell</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01027-8</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-07; | doi:10.1038/d41586-023-01027-8</dc:source>
+            <dc:date>2023-04-07</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01027-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01027-8</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01018-9">
+            <title><![CDATA[Death threats, trolling and sexist abuse: climate scientists report online attacks]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01018-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 April 2023; <a href="https://www.nature.com/articles/d41586-023-01018-9">doi:10.1038/d41586-023-01018-9</a></p>Survey highlights experiences of dozens of climate researchers who have endured online harassment related to their work.]]></content:encoded>
+            <dc:title><![CDATA[Death threats, trolling and sexist abuse: climate scientists report online attacks]]></dc:title>
+            <dc:creator>Myriam Vidal Valero</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01018-9</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-06; | doi:10.1038/d41586-023-01018-9</dc:source>
+            <dc:date>2023-04-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01018-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01018-9</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01002-3">
+            <title><![CDATA[Crazy ants’ strange genomes are a biological first]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01002-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 April 2023; <a href="https://www.nature.com/articles/d41586-023-01002-3">doi:10.1038/d41586-023-01002-3</a></p>Males of the notorious yellow crazy ant carry a mixture of genomes, a phenomenon unseen in other animals.]]></content:encoded>
+            <dc:title><![CDATA[Crazy ants’ strange genomes are a biological first]]></dc:title>
+            <dc:creator>Ewen Callaway</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01002-3</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-06; | doi:10.1038/d41586-023-01002-3</dc:source>
+            <dc:date>2023-04-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01002-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01002-3</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01014-z">
+            <title><![CDATA[Researchers back African Union to join G20 group of largest economic powers]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01014-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 April 2023; <a href="https://www.nature.com/articles/d41586-023-01014-z">doi:10.1038/d41586-023-01014-z</a></p>Including African Union in the G20 is a matter of ethics and fairness, researchers say.]]></content:encoded>
+            <dc:title><![CDATA[Researchers back African Union to join G20 group of largest economic powers]]></dc:title>
+            <dc:creator>T.V. Padma</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01014-z</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-06; | doi:10.1038/d41586-023-01014-z</dc:source>
+            <dc:date>2023-04-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01014-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01014-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-00995-1">
+            <title><![CDATA[Global scholars decry funding ban on influential Indian research centre]]></title>
+            <link>https://www.nature.com/articles/d41586-023-00995-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 April 2023; <a href="https://www.nature.com/articles/d41586-023-00995-1">doi:10.1038/d41586-023-00995-1</a></p>International dismay after New Delhi-based Centre for Policy Research funding suspended.]]></content:encoded>
+            <dc:title><![CDATA[Global scholars decry funding ban on influential Indian research centre]]></dc:title>
+            <dc:creator>Dyani Lewis</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-00995-1</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-06; | doi:10.1038/d41586-023-00995-1</dc:source>
+            <dc:date>2023-04-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-00995-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-00995-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-00996-0">
+            <title><![CDATA[Stem-cell derived ‘embryos’ implanted in monkeys]]></title>
+            <link>https://www.nature.com/articles/d41586-023-00996-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 April 2023; <a href="https://www.nature.com/articles/d41586-023-00996-0">doi:10.1038/d41586-023-00996-0</a></p>An embryo-like ball of cells offers a way to study pregnancy and its complications without the typical ethical dilemmas.]]></content:encoded>
+            <dc:title><![CDATA[Stem-cell derived ‘embryos’ implanted in monkeys]]></dc:title>
+            <dc:creator>Gemma Conroy</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-00996-0</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-06; | doi:10.1038/d41586-023-00996-0</dc:source>
+            <dc:date>2023-04-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-00996-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-00996-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-00984-4">
+            <title><![CDATA[Sounds of science: how music at work can fine-tune your research]]></title>
+            <link>https://www.nature.com/articles/d41586-023-00984-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 April 2023; <a href="https://www.nature.com/articles/d41586-023-00984-4">doi:10.1038/d41586-023-00984-4</a></p>Researchers describe how listening to music at work can boost (or hamper) productivity, and share the tunes that keep them focused.]]></content:encoded>
+            <dc:title><![CDATA[Sounds of science: how music at work can fine-tune your research]]></dc:title>
+            <dc:creator>Nikki Forrester</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-00984-4</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-06; | doi:10.1038/d41586-023-00984-4</dc:source>
+            <dc:date>2023-04-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-00984-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-00984-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-00991-5">
+            <title><![CDATA[How to have two careers, and be happy with both]]></title>
+            <link>https://www.nature.com/articles/d41586-023-00991-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 April 2023; <a href="https://www.nature.com/articles/d41586-023-00991-5">doi:10.1038/d41586-023-00991-5</a></p>Touring the world as a bass player in a heavy-metal band alongside being a full-time physicist requires career compromises, says Alessandro Sala.]]></content:encoded>
+            <dc:title><![CDATA[How to have two careers, and be happy with both]]></dc:title>
+            <dc:creator>Alessandro Sala</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-00991-5</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-06; | doi:10.1038/d41586-023-00991-5</dc:source>
+            <dc:date>2023-04-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-00991-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-00991-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01011-2">
+            <title><![CDATA[Searching the web for science: how small mistakes create big problems]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01011-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 April 2023; <a href="https://www.nature.com/articles/d41586-023-01011-2">doi:10.1038/d41586-023-01011-2</a></p>Typos, acronyms and authors’ names all present issues when trawling the literature. Can next-generation search engines do better?]]></content:encoded>
+            <dc:title><![CDATA[Searching the web for science: how small mistakes create big problems]]></dc:title>
+            <dc:creator>Jack Leeming</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01011-2</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-06; | doi:10.1038/d41586-023-01011-2</dc:source>
+            <dc:date>2023-04-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01011-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01011-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-00978-2">
+            <title><![CDATA[How to make lithium extraction cleaner, faster and cheaper — in six steps]]></title>
+            <link>https://www.nature.com/articles/d41586-023-00978-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 April 2023; <a href="https://www.nature.com/articles/d41586-023-00978-2">doi:10.1038/d41586-023-00978-2</a></p>Demand for lithium for batteries and other green technologies is exploding. The industry must develop sustainable methods to remove and process the element from ores and brines to avoid environmental damage.]]></content:encoded>
+            <dc:title><![CDATA[How to make lithium extraction cleaner, faster and cheaper — in six steps]]></dc:title>
+            <dc:creator>Andrew Z. Haddad</dc:creator><dc:creator>Lukas Hackl</dc:creator><dc:creator>Bilen Akuzum</dc:creator><dc:creator>Garrett Pohlman</dc:creator><dc:creator>Jean-François Magnan</dc:creator><dc:creator>Robert Kostecki</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-00978-2</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-06; | doi:10.1038/d41586-023-00978-2</dc:source>
+            <dc:date>2023-04-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-00978-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-00978-2</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-05999-5">
             <title><![CDATA[Author Correction: Basin-scale reconstruction of euxinia and Late Devonian mass extinctions]]></title>
@@ -220,6 +385,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01006-z</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01006-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-00904-6">
+            <title><![CDATA[Finery in an Anglo-Saxon grave came from African ivory]]></title>
+            <link>https://www.nature.com/articles/d41586-023-00904-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 05 April 2023; <a href="https://www.nature.com/articles/d41586-023-00904-6">doi:10.1038/d41586-023-00904-6</a></p>An ornament buried with an elite woman from the fifth or sixth century ad was probably made in an East African workshop.]]></content:encoded>
+            <dc:title><![CDATA[Finery in an Anglo-Saxon grave came from African ivory]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-00904-6</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-05; | doi:10.1038/d41586-023-00904-6</dc:source>
+            <dc:date>2023-04-05</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-00904-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-00904-6</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-00907-3">
@@ -852,21 +1032,6 @@
             <prism:url>https://www.nature.com/articles/d41586-023-00910-8</prism:url>
         </item>
     
-        <item rdf:about="https://www.nature.com/articles/d41586-023-00904-6">
-            <title><![CDATA[Finery in an Anglo-Saxon grave came from African ivory]]></title>
-            <link>https://www.nature.com/articles/d41586-023-00904-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 04 April 2023; <a href="https://www.nature.com/articles/d41586-023-00904-6">doi:10.1038/d41586-023-00904-6</a></p>An ornament buried with an elite woman from the fifth or sixth century ad was probably made in an East African workshop.]]></content:encoded>
-            <dc:title><![CDATA[Finery in an Anglo-Saxon grave came from African ivory]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-00904-6</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-04; | doi:10.1038/d41586-023-00904-6</dc:source>
-            <dc:date>2023-04-04</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-00904-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-00904-6</prism:url>
-        </item>
-    
         <item rdf:about="https://www.nature.com/articles/d41586-023-00992-4">
             <title><![CDATA[Dear scientists: stop calling America the ‘New World’]]></title>
             <link>https://www.nature.com/articles/d41586-023-00992-4</link>
@@ -1135,171 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-00898-1</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-00898-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-00941-1">
-            <title><![CDATA[Ancient DNA illuminates Swahili culture’s origins]]></title>
-            <link>https://www.nature.com/articles/d41586-023-00941-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 31 March 2023; <a href="https://www.nature.com/articles/d41586-023-00941-1">doi:10.1038/d41586-023-00941-1</a></p>Genomes uncovered from centuries-old East African towns revise conclusions of colonial science.]]></content:encoded>
-            <dc:title><![CDATA[Ancient DNA illuminates Swahili culture’s origins]]></dc:title>
-            <dc:creator>Ewen Callaway</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-00941-1</dc:identifier>
-            <dc:source>Nature, Published online: 2023-03-31; | doi:10.1038/d41586-023-00941-1</dc:source>
-            <dc:date>2023-03-31</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-00941-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-00941-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-00925-1">
-            <title><![CDATA[Alien sand dunes and a record-breaking cyclone — March’s best science images]]></title>
-            <link>https://www.nature.com/articles/d41586-023-00925-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 31 March 2023; <a href="https://www.nature.com/articles/d41586-023-00925-1">doi:10.1038/d41586-023-00925-1</a></p>The month’s sharpest science shots, selected by Nature’s photo team.]]></content:encoded>
-            <dc:title><![CDATA[Alien sand dunes and a record-breaking cyclone — March’s best science images]]></dc:title>
-            <dc:creator>Emma Stoye</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-00925-1</dc:identifier>
-            <dc:source>Nature, Published online: 2023-03-31; | doi:10.1038/d41586-023-00925-1</dc:source>
-            <dc:date>2023-03-31</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-00925-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-00925-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-00960-y">
-            <title><![CDATA[The hospital conversation that set a young epilepsy patient on the neuroscience career path]]></title>
-            <link>https://www.nature.com/articles/d41586-023-00960-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 31 March 2023; <a href="https://www.nature.com/articles/d41586-023-00960-y">doi:10.1038/d41586-023-00960-y</a></p>Epilepsy researcher Christin Godale credits a child neurologist for spotting her curiosity about the the human brain and her medical condition.]]></content:encoded>
-            <dc:title><![CDATA[The hospital conversation that set a young epilepsy patient on the neuroscience career path]]></dc:title>
-            <dc:creator>Dom Byrne</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-00960-y</dc:identifier>
-            <dc:source>Nature, Published online: 2023-03-31; | doi:10.1038/d41586-023-00960-y</dc:source>
-            <dc:date>2023-03-31</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-00960-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-00960-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-00937-x">
-            <title><![CDATA[What the science says about California’s record–setting snow]]></title>
-            <link>https://www.nature.com/articles/d41586-023-00937-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 31 March 2023; <a href="https://www.nature.com/articles/d41586-023-00937-x">doi:10.1038/d41586-023-00937-x</a></p>A relentless series of ‘rivers in the sky’ is creating extreme conditions across the state, but a role for climate change is unclear.]]></content:encoded>
-            <dc:title><![CDATA[What the science says about California’s record–setting snow]]></dc:title>
-            <dc:creator>Gemma Conroy</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-00937-x</dc:identifier>
-            <dc:source>Nature, Published online: 2023-03-31; | doi:10.1038/d41586-023-00937-x</dc:source>
-            <dc:date>2023-03-31</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-00937-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-00937-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-00923-3">
-            <title><![CDATA[I’m a trans scientist — here’s my advice for navigating academia]]></title>
-            <link>https://www.nature.com/articles/d41586-023-00923-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 31 March 2023; <a href="https://www.nature.com/articles/d41586-023-00923-3">doi:10.1038/d41586-023-00923-3</a></p>Facing microaggressions and harassment has left me exhausted, yet empowered with insight. Here’s what I’ve learnt.]]></content:encoded>
-            <dc:title><![CDATA[I’m a trans scientist — here’s my advice for navigating academia]]></dc:title>
-            <dc:creator>Atom J. Lesiak</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-00923-3</dc:identifier>
-            <dc:source>Nature, Published online: 2023-03-31; | doi:10.1038/d41586-023-00923-3</dc:source>
-            <dc:date>2023-03-31</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-00923-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-00923-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-00966-6">
-            <title><![CDATA[Daily briefing: Stressed plants make noises]]></title>
-            <link>https://www.nature.com/articles/d41586-023-00966-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 31 March 2023; <a href="https://www.nature.com/articles/d41586-023-00966-6">doi:10.1038/d41586-023-00966-6</a></p>Thirsty or injured plants make ultrasonic clicks. Plus, a biodegradable glass made from proteins, and Tyrannosaurus rex had lips.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: Stressed plants make noises]]></dc:title>
-            <dc:creator>Flora Graham</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-00966-6</dc:identifier>
-            <dc:source>Nature, Published online: 2023-03-31; | doi:10.1038/d41586-023-00966-6</dc:source>
-            <dc:date>2023-03-31</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-00966-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-00966-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-00900-w">
-            <title><![CDATA[Long COVID exercise trials proposed by NIH raise alarm]]></title>
-            <link>https://www.nature.com/articles/d41586-023-00900-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 31 March 2023; <a href="https://www.nature.com/articles/d41586-023-00900-w">doi:10.1038/d41586-023-00900-w</a></p>Advocates ask the US biomedical agency to rethink the design of its RECOVER initiative, citing possible harm and funding waste.]]></content:encoded>
-            <dc:title><![CDATA[Long COVID exercise trials proposed by NIH raise alarm]]></dc:title>
-            <dc:creator>Rachel Fairbank</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-00900-w</dc:identifier>
-            <dc:source>Nature, Published online: 2023-03-31; | doi:10.1038/d41586-023-00900-w</dc:source>
-            <dc:date>2023-03-31</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-00900-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-00900-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06001-y">
-            <title><![CDATA[Copper-Catalyzed Enantioconvergent Alkylation of Oxygen Nucleophiles]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06001-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 30 March 2023; <a href="https://www.nature.com/articles/s41586-023-06001-y">doi:10.1038/s41586-023-06001-y</a></p>Copper-Catalyzed Enantioconvergent Alkylation of Oxygen Nucleophiles]]></content:encoded>
-            <dc:title><![CDATA[Copper-Catalyzed Enantioconvergent Alkylation of Oxygen Nucleophiles]]></dc:title>
-            <dc:creator>Caiyou Chen</dc:creator><dc:creator>Gregory C. Fu</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06001-y</dc:identifier>
-            <dc:source>Nature, Published online: 2023-03-30; | doi:10.1038/s41586-023-06001-y</dc:source>
-            <dc:date>2023-03-30</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06001-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06001-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-05949-1">
-            <title><![CDATA[Adeno-associated virus type 2 in US children with acute severe hepatitis]]></title>
-            <link>https://www.nature.com/articles/s41586-023-05949-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 30 March 2023; <a href="https://www.nature.com/articles/s41586-023-05949-1">doi:10.1038/s41586-023-05949-1</a></p>Adeno-associated virus type 2 in US children with acute severe hepatitis]]></content:encoded>
-            <dc:title><![CDATA[Adeno-associated virus type 2 in US children with acute severe hepatitis]]></dc:title>
-            <dc:creator>Venice Servellita</dc:creator><dc:creator>Alicia Sotomayor Gonzalez</dc:creator><dc:creator>Daryl M. Lamson</dc:creator><dc:creator>Abiodun Foresythe</dc:creator><dc:creator>Hee Jae Huh</dc:creator><dc:creator>Adam L. Bazinet</dc:creator><dc:creator>Nicholas H. Bergman</dc:creator><dc:creator>Robert L. Bull</dc:creator><dc:creator>Karla Y. Garcia</dc:creator><dc:creator>Jennifer S. Goodrich</dc:creator><dc:creator>Sean P. Lovett</dc:creator><dc:creator>Kisha Parker</dc:creator><dc:creator>Diana Radune</dc:creator><dc:creator>April Hatada</dc:creator><dc:creator>Chao-Yang Pan</dc:creator><dc:creator>Kyle Rizzo</dc:creator><dc:creator>J. Bradford Bertumen</dc:creator><dc:creator>Christina Morales</dc:creator><dc:creator>Paul E. Oluniyi</dc:creator><dc:creator>Jenny Nguyen</dc:creator><dc:creator>Jessica Tan</dc:creator><dc:creator>Doug Stryke</dc:creator><dc:creator>Rayah Jaber</dc:creator><dc:creator>Matthew T. Leslie</dc:creator><dc:creator>Zin Lyons</dc:creator><dc:creator>Hayden D. Hedman</dc:creator><dc:creator>Umesh Parashar</dc:creator><dc:creator>Maureen Sullivan</dc:creator><dc:creator>Kelly Wroblewski</dc:creator><dc:creator>M. Steven Oberste</dc:creator><dc:creator>Jacqueline E. Tate</dc:creator><dc:creator>Julia M. Baker</dc:creator><dc:creator>David Sugerman</dc:creator><dc:creator>Caelin Potts</dc:creator><dc:creator>Xiaoyan Lu</dc:creator><dc:creator>Preeti Chhabra</dc:creator><dc:creator>Olivia Almendares</dc:creator><dc:creator>Neha Balachandran</dc:creator><dc:creator>Jordan E. Cates</dc:creator><dc:creator>Brandi Freeman</dc:creator><dc:creator>Anita Kambhampati</dc:creator><dc:creator>Rachel Marine</dc:creator><dc:creator>Everardo Vega</dc:creator><dc:creator>Mary E. Wikswo</dc:creator><dc:creator>Erin R. McKeever</dc:creator><dc:creator>David Kelly</dc:creator><dc:creator>A. Julie</dc:creator><dc:creator>Leila C. Sahni</dc:creator><dc:creator>Janet A. Englund</dc:creator><dc:creator>Eileen J. Klein</dc:creator><dc:creator>Mary A. Staat</dc:creator><dc:creator>Maeve Marsh</dc:creator><dc:creator>Erin Ricketts</dc:creator><dc:creator>Joshua L. Clayton</dc:creator><dc:creator>Natalia Cano</dc:creator><dc:creator>Miriam Oseguera</dc:creator><dc:creator>Robert Blattner</dc:creator><dc:creator>L. Amanda Ingram</dc:creator><dc:creator>Henry Shiau</dc:creator><dc:creator>William Britt</dc:creator><dc:creator>Luz Helena Gutierrez Sanchez</dc:creator><dc:creator>Caroline Ciric</dc:creator><dc:creator>Christina A. Rostad</dc:creator><dc:creator>Jan Vinjé</dc:creator><dc:creator>Hannah L. Kirking</dc:creator><dc:creator>Debra A. Wadford</dc:creator><dc:creator>R. Taylor Raborn</dc:creator><dc:creator>Kirsten St. George</dc:creator><dc:creator>Charles Y. Chiu</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-05949-1</dc:identifier>
-            <dc:source>Nature, Published online: 2023-03-30; | doi:10.1038/s41586-023-05949-1</dc:source>
-            <dc:date>2023-03-30</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-05949-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-05949-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-00826-3">
-            <title><![CDATA[3D-printable glass is made from proteins and biodegrades]]></title>
-            <link>https://www.nature.com/articles/d41586-023-00826-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 30 March 2023; <a href="https://www.nature.com/articles/d41586-023-00826-3">doi:10.1038/d41586-023-00826-3</a></p>Chemically modifying the ends of the molecules opens the door to glass that could decompose with organic waste.]]></content:encoded>
-            <dc:title><![CDATA[3D-printable glass is made from proteins and biodegrades]]></dc:title>
-            <dc:creator>Jude Coleman</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-00826-3</dc:identifier>
-            <dc:source>Nature, Published online: 2023-03-30; | doi:10.1038/d41586-023-00826-3</dc:source>
-            <dc:date>2023-03-30</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-00826-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-00826-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-00928-y">
-            <title><![CDATA[Facelift for <i>T. rex</i>: analysis suggests teeth were covered by thin lips]]></title>
-            <link>https://www.nature.com/articles/d41586-023-00928-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 30 March 2023; <a href="https://www.nature.com/articles/d41586-023-00928-y">doi:10.1038/d41586-023-00928-y</a></p>Crocodiles and Komodo dragons provide evidence to support the idea of a scaly cover over the teeth of dinosaur Tyrannosaurus rex.]]></content:encoded>
-            <dc:title><![CDATA[Facelift for <i>T. rex</i>: analysis suggests teeth were covered by thin lips]]></dc:title>
-            <dc:creator>Dyani Lewis</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-00928-y</dc:identifier>
-            <dc:source>Nature, Published online: 2023-03-30; | doi:10.1038/d41586-023-00928-y</dc:source>
-            <dc:date>2023-03-30</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-00928-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-00928-y</prism:url>
         </item>
     
 </rdf:RDF>
