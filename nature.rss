@@ -18,6 +18,10 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-00985-3"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-00977-3"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01017-w"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01027-8"/>
@@ -164,10 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-00940-2"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-00905-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-00898-1"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,36 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-00985-3">
+            <title><![CDATA[I analyse ‘extremophile’ microbes to understand life’s origins]]></title>
+            <link>https://www.nature.com/articles/d41586-023-00985-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 10 April 2023; <a href="https://www.nature.com/articles/d41586-023-00985-3">doi:10.1038/d41586-023-00985-3</a></p>Microbiologist Gaël Erauso studies microorganisms from the deep ocean to learn how they evolved from prebiotic organic molecules billions of years ago.]]></content:encoded>
+            <dc:title><![CDATA[I analyse ‘extremophile’ microbes to understand life’s origins]]></dc:title>
+            <dc:creator>Hannah Docter-Loeb</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-00985-3</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-10; | doi:10.1038/d41586-023-00985-3</dc:source>
+            <dc:date>2023-04-10</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-00985-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-00985-3</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-00977-3">
+            <title><![CDATA[How Stephen Hawking flip-flopped on whether the Universe has a beginning]]></title>
+            <link>https://www.nature.com/articles/d41586-023-00977-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 10 April 2023; <a href="https://www.nature.com/articles/d41586-023-00977-3">doi:10.1038/d41586-023-00977-3</a></p>The question of what the Big Bang really represented still bamboozles cosmologists — and Hawking provided more than one answer.]]></content:encoded>
+            <dc:title><![CDATA[How Stephen Hawking flip-flopped on whether the Universe has a beginning]]></dc:title>
+            <dc:creator>Robert P. Crease</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-00977-3</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-10; | doi:10.1038/d41586-023-00977-3</dc:source>
+            <dc:date>2023-04-10</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-00977-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-00977-3</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-01017-w">
             <title><![CDATA[Understanding the difference between the mind and the brain ]]></title>
@@ -1270,36 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-00940-2</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-00940-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-00905-5">
-            <title><![CDATA[Algal enzyme fed just the right diet churns out green fuel]]></title>
-            <link>https://www.nature.com/articles/d41586-023-00905-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 31 March 2023; <a href="https://www.nature.com/articles/d41586-023-00905-5">doi:10.1038/d41586-023-00905-5</a></p>An enzyme rapidly makes hydrocarbons found in petrol if it has the right fatty acid as a reagent.]]></content:encoded>
-            <dc:title><![CDATA[Algal enzyme fed just the right diet churns out green fuel]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-00905-5</dc:identifier>
-            <dc:source>Nature, Published online: 2023-03-31; | doi:10.1038/d41586-023-00905-5</dc:source>
-            <dc:date>2023-03-31</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-00905-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-00905-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-00898-1">
-            <title><![CDATA[Audio long read: What Turkey’s earthquake tells us about the science of seismic forecasting]]></title>
-            <link>https://www.nature.com/articles/d41586-023-00898-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 31 March 2023; <a href="https://www.nature.com/articles/d41586-023-00898-1">doi:10.1038/d41586-023-00898-1</a></p>Despite decades of research, predicting exactly where an earthquake will strike remains practically impossible.]]></content:encoded>
-            <dc:title><![CDATA[Audio long read: What Turkey’s earthquake tells us about the science of seismic forecasting]]></dc:title>
-            <dc:creator>Shannon Hall</dc:creator><dc:creator>Benjamin Thompson</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-00898-1</dc:identifier>
-            <dc:source>Nature, Published online: 2023-03-31; | doi:10.1038/d41586-023-00898-1</dc:source>
-            <dc:date>2023-03-31</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-00898-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-00898-1</prism:url>
         </item>
     
 </rdf:RDF>
