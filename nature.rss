@@ -24,11 +24,21 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01003-2"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-00981-7"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01004-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01032-x"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-00973-7"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-00974-6"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01043-8"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-00975-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01044-7"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-00985-3"/>
                 
@@ -158,16 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-00951-z"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-00954-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06025-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-00957-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-00906-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-00909-1"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -222,6 +222,21 @@
             <prism:url>https://www.nature.com/articles/d41586-023-01003-2</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-023-00981-7">
+            <title><![CDATA[From the archive: new words to describe human–machine relationships, and a demonstration of the perceptual abilities of butterflies]]></title>
+            <link>https://www.nature.com/articles/d41586-023-00981-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 11 April 2023; <a href="https://www.nature.com/articles/d41586-023-00981-7">doi:10.1038/d41586-023-00981-7</a></p>Snippets from Nature’s past.]]></content:encoded>
+            <dc:title><![CDATA[From the archive: new words to describe human–machine relationships, and a demonstration of the perceptual abilities of butterflies]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-00981-7</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-11; | doi:10.1038/d41586-023-00981-7</dc:source>
+            <dc:date>2023-04-11</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-00981-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-00981-7</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-023-01004-1">
             <title><![CDATA[NIH funding: hone efforts to tackle structural racism]]></title>
             <link>https://www.nature.com/articles/d41586-023-01004-1</link>
@@ -235,6 +250,36 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01004-1</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01004-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01032-x">
+            <title><![CDATA[Hair buried in a cave shows hallucinogen use in ancient Europe]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01032-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 11 April 2023; <a href="https://www.nature.com/articles/d41586-023-01032-x">doi:10.1038/d41586-023-01032-x</a></p>Ritually shorn strands suggest that people living some 3,000 years ago consumed plants with mind-altering properties.]]></content:encoded>
+            <dc:title><![CDATA[Hair buried in a cave shows hallucinogen use in ancient Europe]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-01032-x</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-11; | doi:10.1038/d41586-023-01032-x</dc:source>
+            <dc:date>2023-04-11</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01032-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01032-x</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-00973-7">
+            <title><![CDATA[Why <i>Nature</i> is updating its advice to authors on reporting race or ethnicity]]></title>
+            <link>https://www.nature.com/articles/d41586-023-00973-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 11 April 2023; <a href="https://www.nature.com/articles/d41586-023-00973-7">doi:10.1038/d41586-023-00973-7</a></p>Nature’s updated advice is a small step towards ensuring that research does not inadvertently end up harming under-represented groups.]]></content:encoded>
+            <dc:title><![CDATA[Why <i>Nature</i> is updating its advice to authors on reporting race or ethnicity]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-00973-7</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-11; | doi:10.1038/d41586-023-00973-7</dc:source>
+            <dc:date>2023-04-11</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-00973-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-00973-7</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-00974-6">
@@ -252,6 +297,21 @@
             <prism:url>https://www.nature.com/articles/d41586-023-00974-6</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01043-8">
+            <title><![CDATA[Wheat disease’s global spread concerns researchers]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01043-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 11 April 2023; <a href="https://www.nature.com/articles/d41586-023-01043-8">doi:10.1038/d41586-023-01043-8</a></p>Genomic analysis reveals that the wheat blast fungus spread independently from South America to two other continents.]]></content:encoded>
+            <dc:title><![CDATA[Wheat disease’s global spread concerns researchers]]></dc:title>
+            <dc:creator>Ewen Callaway</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01043-8</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-11; | doi:10.1038/d41586-023-01043-8</dc:source>
+            <dc:date>2023-04-11</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01043-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01043-8</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-023-00975-5">
             <title><![CDATA[Three ways to solve the plastics pollution crisis]]></title>
             <link>https://www.nature.com/articles/d41586-023-00975-5</link>
@@ -265,6 +325,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-00975-5</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-00975-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01044-7">
+            <title><![CDATA[Abortion-pill ruling threatens FDA’s authority, say drug firms]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01044-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 11 April 2023; <a href="https://www.nature.com/articles/d41586-023-01044-7">doi:10.1038/d41586-023-01044-7</a></p>A US judge’s decision to overturn the approval of mifepristone could put other drugs at risk, pharmaceutical industry executives warn.]]></content:encoded>
+            <dc:title><![CDATA[Abortion-pill ruling threatens FDA’s authority, say drug firms]]></dc:title>
+            <dc:creator>Mariana Lenharo</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01044-7</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-11; | doi:10.1038/d41586-023-01044-7</dc:source>
+            <dc:date>2023-04-11</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01044-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01044-7</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-00985-3">
@@ -1225,81 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-00951-z</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-00951-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-00954-w">
-            <title><![CDATA[Conquering Alzheimer’s: a look at the therapies of the future]]></title>
-            <link>https://www.nature.com/articles/d41586-023-00954-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 04 April 2023; <a href="https://www.nature.com/articles/d41586-023-00954-w">doi:10.1038/d41586-023-00954-w</a></p>Researchers are looking to drug combinations, vaccines and gene therapy as they forge the next generation of treatments for the condition.]]></content:encoded>
-            <dc:title><![CDATA[Conquering Alzheimer’s: a look at the therapies of the future]]></dc:title>
-            <dc:creator>Alison Abbott</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-00954-w</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-04; | doi:10.1038/d41586-023-00954-w</dc:source>
-            <dc:date>2023-04-04</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-00954-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-00954-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06025-4">
-            <title><![CDATA[SARS-CoV-2 Omicron boosting induces <i>de novo</i> B cell response in humans]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06025-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 03 April 2023; <a href="https://www.nature.com/articles/s41586-023-06025-4">doi:10.1038/s41586-023-06025-4</a></p>SARS-CoV-2 Omicron boosting induces <i>de novo</i> B cell response in humans]]></content:encoded>
-            <dc:title><![CDATA[SARS-CoV-2 Omicron boosting induces <i>de novo</i> B cell response in humans]]></dc:title>
-            <dc:creator>Wafaa B. Alsoussi</dc:creator><dc:creator>Sameer Kumar Malladi</dc:creator><dc:creator>Julian Q. Zhou</dc:creator><dc:creator>Zhuoming Liu</dc:creator><dc:creator>Baoling Ying</dc:creator><dc:creator>Wooseob Kim</dc:creator><dc:creator>Aaron J. Schmitz</dc:creator><dc:creator>Tingting Lei</dc:creator><dc:creator>Stephen C. Horvath</dc:creator><dc:creator>Alexandria J. Sturtz</dc:creator><dc:creator>Katherine M. McIntire</dc:creator><dc:creator>Birk Evavold</dc:creator><dc:creator>Fangjie Han</dc:creator><dc:creator>Suzanne M. Scheaffer</dc:creator><dc:creator>Isabella F. Fox</dc:creator><dc:creator>Senaa F. Mirza</dc:creator><dc:creator>Luis Parra-Rodriguez</dc:creator><dc:creator>Raffael Nachbagauer</dc:creator><dc:creator>Biliana Nestorova</dc:creator><dc:creator>Spyros Chalkias</dc:creator><dc:creator>Christopher W. Farnsworth</dc:creator><dc:creator>Michael K. Klebert</dc:creator><dc:creator>Iskra Pusic</dc:creator><dc:creator>Benjamin S. Strnad</dc:creator><dc:creator>William D. Middleton</dc:creator><dc:creator>Sharlene A. Teefey</dc:creator><dc:creator>Sean P. J. Whelan</dc:creator><dc:creator>Michael S. Diamond</dc:creator><dc:creator>Robert Paris</dc:creator><dc:creator>Jane A. O’Halloran</dc:creator><dc:creator>Rachel M. Presti</dc:creator><dc:creator>Jackson S. Turner</dc:creator><dc:creator>Ali H. Ellebedy</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06025-4</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-03; | doi:10.1038/s41586-023-06025-4</dc:source>
-            <dc:date>2023-04-03</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06025-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06025-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-00957-7">
-            <title><![CDATA[Cultivating cannabis in the shadow of a volcano]]></title>
-            <link>https://www.nature.com/articles/d41586-023-00957-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 03 April 2023; <a href="https://www.nature.com/articles/d41586-023-00957-7">doi:10.1038/d41586-023-00957-7</a></p>Agriculturist Rohan McDonald is rebuilding a medical-cannabis laboratory after an eruption destroyed his team’s work.]]></content:encoded>
-            <dc:title><![CDATA[Cultivating cannabis in the shadow of a volcano]]></dc:title>
-            <dc:creator>James Mitchell Crow</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-00957-7</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-03; | doi:10.1038/d41586-023-00957-7</dc:source>
-            <dc:date>2023-04-03</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-00957-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-00957-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-00906-4">
-            <title><![CDATA[High-precision genomic tool tackles deadly mutation]]></title>
-            <link>https://www.nature.com/articles/d41586-023-00906-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 03 April 2023; <a href="https://www.nature.com/articles/d41586-023-00906-4">doi:10.1038/d41586-023-00906-4</a></p>Genome editing raises levels of a protein that is scarce in people with spinal muscular atrophy.]]></content:encoded>
-            <dc:title><![CDATA[High-precision genomic tool tackles deadly mutation]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-00906-4</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-03; | doi:10.1038/d41586-023-00906-4</dc:source>
-            <dc:date>2023-04-03</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-00906-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-00906-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-00909-1">
-            <title><![CDATA[Hello, baby: genes involved in timing of birth are identified]]></title>
-            <link>https://www.nature.com/articles/d41586-023-00909-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 03 April 2023; <a href="https://www.nature.com/articles/d41586-023-00909-1">doi:10.1038/d41586-023-00909-1</a></p>Some genes that influence the length of a pregnancy also hold sway over fetal growth rates.]]></content:encoded>
-            <dc:title><![CDATA[Hello, baby: genes involved in timing of birth are identified]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-00909-1</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-03; | doi:10.1038/d41586-023-00909-1</dc:source>
-            <dc:date>2023-04-03</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-00909-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-00909-1</prism:url>
         </item>
     
 </rdf:RDF>
