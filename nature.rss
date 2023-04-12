@@ -18,6 +18,12 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01030-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-00976-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01026-9"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01007-y"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01005-0"/>
@@ -36,6 +42,8 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01043-8"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01049-2"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-00975-5"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01044-7"/>
@@ -51,6 +59,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01018-9"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01002-3"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01042-9"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01014-z"/>
                 
@@ -148,6 +158,8 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-00810-x"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01016-x"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06021-8"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-00849-w"/>
@@ -155,18 +167,6 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-00908-2"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-00967-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-00910-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-00992-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-00990-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-00953-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01001-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-00951-z"/>
                 
             </rdf:Seq>
         </items>
@@ -176,6 +176,51 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01030-z">
+            <title><![CDATA[A glacier’s catastrophic collapse is linked to global warming]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01030-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 12 April 2023; <a href="https://www.nature.com/articles/d41586-023-01030-z">doi:10.1038/d41586-023-01030-z</a></p>Eleven hikers died after weeks of unusually warm weather led to melting of the Marmolada Glacier in the Alps.]]></content:encoded>
+            <dc:title><![CDATA[A glacier’s catastrophic collapse is linked to global warming]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-01030-z</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-12; | doi:10.1038/d41586-023-01030-z</dc:source>
+            <dc:date>2023-04-12</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01030-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01030-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-00976-4">
+            <title><![CDATA[The Arctic after dark: a secret world of hidden life]]></title>
+            <link>https://www.nature.com/articles/d41586-023-00976-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 12 April 2023; <a href="https://www.nature.com/articles/d41586-023-00976-4">doi:10.1038/d41586-023-00976-4</a></p>An international team braved the far north in January to unlock secrets of how marine organisms tell day from night during the polar winter.]]></content:encoded>
+            <dc:title><![CDATA[The Arctic after dark: a secret world of hidden life]]></dc:title>
+            <dc:creator>Randall Hyman</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-00976-4</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-12; | doi:10.1038/d41586-023-00976-4</dc:source>
+            <dc:date>2023-04-12</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-00976-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-00976-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01026-9">
+            <title><![CDATA[How I use ChatGPT responsibly in my teaching]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01026-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 12 April 2023; <a href="https://www.nature.com/articles/d41586-023-01026-9">doi:10.1038/d41586-023-01026-9</a></p>Large language models are here to stay. Here’s how I’m incorporating them, writes Hong Yang.]]></content:encoded>
+            <dc:title><![CDATA[How I use ChatGPT responsibly in my teaching]]></dc:title>
+            <dc:creator>Hong Yang</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01026-9</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-12; | doi:10.1038/d41586-023-01026-9</dc:source>
+            <dc:date>2023-04-12</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01026-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01026-9</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-01007-y">
             <title><![CDATA[Postdoc unions can help secure a brighter future]]></title>
@@ -312,6 +357,21 @@
             <prism:url>https://www.nature.com/articles/d41586-023-01043-8</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01049-2">
+            <title><![CDATA[Daily briefing: Advice for the WHO at 75]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01049-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 11 April 2023; <a href="https://www.nature.com/articles/d41586-023-01049-2">doi:10.1038/d41586-023-01049-2</a></p>The World Health Organization can emerge stronger and wiser from the pandemic. Plus, medieval accounts of eclipses shine a light on ancient eruptions and stem-cell derived ‘embryos’ are implanted in monkeys.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Advice for the WHO at 75]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01049-2</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-11; | doi:10.1038/d41586-023-01049-2</dc:source>
+            <dc:date>2023-04-11</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01049-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01049-2</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-023-00975-5">
             <title><![CDATA[Three ways to solve the plastics pollution crisis]]></title>
             <link>https://www.nature.com/articles/d41586-023-00975-5</link>
@@ -430,6 +490,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01002-3</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01002-3</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01042-9">
+            <title><![CDATA[Daily briefing: Scientists respond to COVID-origins data]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01042-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 April 2023; <a href="https://www.nature.com/articles/d41586-023-01042-9">doi:10.1038/d41586-023-01042-9</a></p>Swabs collected at a Wuhan market early in the pandemic contained genetic material from wild animals and tested positive for SARS-CoV-2. Plus, the first CRISPR-based therapy is submitted for FDA approval and the state of fusion power research.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Scientists respond to COVID-origins data]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01042-9</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-06; | doi:10.1038/d41586-023-01042-9</dc:source>
+            <dc:date>2023-04-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01042-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01042-9</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-01014-z">
@@ -1152,6 +1227,21 @@
             <prism:url>https://www.nature.com/articles/d41586-023-00810-x</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01016-x">
+            <title><![CDATA[Daily briefing: The nine wild animals that could help lock away carbon]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01016-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 05 April 2023; <a href="https://www.nature.com/articles/d41586-023-01016-x">doi:10.1038/d41586-023-01016-x</a></p>Boosting populations of elephants, wolves, sharks and others could increase the carbon dioxide storage potential of plants and soil. Plus, virtual brains could transform epilepsy surgery and how to land a spacecraft without gravity.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: The nine wild animals that could help lock away carbon]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01016-x</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-05; | doi:10.1038/d41586-023-01016-x</dc:source>
+            <dc:date>2023-04-05</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01016-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01016-x</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/s41586-023-06021-8">
             <title><![CDATA[General Access to Cubanes as Benzene Bioisosteres]]></title>
             <link>https://www.nature.com/articles/s41586-023-06021-8</link>
@@ -1210,96 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-00967-5</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-00967-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-00910-8">
-            <title><![CDATA[Himalayan glaciers are losing weight faster than thought]]></title>
-            <link>https://www.nature.com/articles/d41586-023-00910-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 04 April 2023; <a href="https://www.nature.com/articles/d41586-023-00910-8">doi:10.1038/d41586-023-00910-8</a></p>Sensor-laden research vessels help to measure how much ice is being lost under lake surfaces.]]></content:encoded>
-            <dc:title><![CDATA[Himalayan glaciers are losing weight faster than thought]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-00910-8</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-04; | doi:10.1038/d41586-023-00910-8</dc:source>
-            <dc:date>2023-04-04</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-00910-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-00910-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-00992-4">
-            <title><![CDATA[Dear scientists: stop calling America the ‘New World’]]></title>
-            <link>https://www.nature.com/articles/d41586-023-00992-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 04 April 2023; <a href="https://www.nature.com/articles/d41586-023-00992-4">doi:10.1038/d41586-023-00992-4</a></p>It’s new to you — but not to me or anyone else who grew up here, writes Fernanda Adame.]]></content:encoded>
-            <dc:title><![CDATA[Dear scientists: stop calling America the ‘New World’]]></dc:title>
-            <dc:creator>Fernanda Adame</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-00992-4</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-04; | doi:10.1038/d41586-023-00992-4</dc:source>
-            <dc:date>2023-04-04</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-00992-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-00992-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-00990-6">
-            <title><![CDATA[How virtual models of the brain could transform epilepsy surgery]]></title>
-            <link>https://www.nature.com/articles/d41586-023-00990-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 04 April 2023; <a href="https://www.nature.com/articles/d41586-023-00990-6">doi:10.1038/d41586-023-00990-6</a></p>An ongoing clinical trial aims to test whether digital models built using brain-scan data can help to identify where seizures originate.]]></content:encoded>
-            <dc:title><![CDATA[How virtual models of the brain could transform epilepsy surgery]]></dc:title>
-            <dc:creator>Miryam Naddaf</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-00990-6</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-04; | doi:10.1038/d41586-023-00990-6</dc:source>
-            <dc:date>2023-04-04</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-00990-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-00990-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-00953-x">
-            <title><![CDATA[Carbon dioxide removal is not a current climate solution — we need to change the narrative]]></title>
-            <link>https://www.nature.com/articles/d41586-023-00953-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 04 April 2023; <a href="https://www.nature.com/articles/d41586-023-00953-x">doi:10.1038/d41586-023-00953-x</a></p>Drastically reduce emissions first, or carbon dioxide removal will be next to useless.]]></content:encoded>
-            <dc:title><![CDATA[Carbon dioxide removal is not a current climate solution — we need to change the narrative]]></dc:title>
-            <dc:creator>David T. Ho</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-00953-x</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-04; | doi:10.1038/d41586-023-00953-x</dc:source>
-            <dc:date>2023-04-04</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-00953-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-00953-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01001-4">
-            <title><![CDATA[Daily briefing: The billion-dollar plan to return rocks from Mars]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01001-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 04 April 2023; <a href="https://www.nature.com/articles/d41586-023-01001-4">doi:10.1038/d41586-023-01001-4</a></p>Samples collected by the Perseverance rover await a challenging retrieval. Plus, a worrying rise in banned ozone-killing chemicals and how light waves squeezed through ‘slits in time’.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: The billion-dollar plan to return rocks from Mars]]></dc:title>
-            <dc:creator>Flora Graham</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01001-4</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-04; | doi:10.1038/d41586-023-01001-4</dc:source>
-            <dc:date>2023-04-04</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01001-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01001-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-00951-z">
-            <title><![CDATA[European backsliding on electric vehicles is bad news for the climate]]></title>
-            <link>https://www.nature.com/articles/d41586-023-00951-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 04 April 2023; <a href="https://www.nature.com/articles/d41586-023-00951-z">doi:10.1038/d41586-023-00951-z</a></p>Attempts to put a brake on the transition to electrification and allow ‘climate neutral’ fuels after 2035 ignore the science — what’s needed is policy clarity now.]]></content:encoded>
-            <dc:title><![CDATA[European backsliding on electric vehicles is bad news for the climate]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-00951-z</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-04; | doi:10.1038/d41586-023-00951-z</dc:source>
-            <dc:date>2023-04-04</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-00951-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-00951-z</prism:url>
         </item>
     
 </rdf:RDF>
