@@ -18,6 +18,14 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01285-6"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01298-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01039-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01299-0"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01269-6"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-00899-0"/>
@@ -160,14 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-00977-3"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01017-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01027-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01018-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01002-3"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,66 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01285-6">
+            <title><![CDATA[Did the Black Death break feudalism and make capitalism? Maybe, maybe not]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01285-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 17 April 2023; <a href="https://www.nature.com/articles/d41586-023-01285-6">doi:10.1038/d41586-023-01285-6</a></p>Pathogens and pandemics have played a huge part in shaping human history right up to COVID-19 — but their exact effects remain highly debatable.]]></content:encoded>
+            <dc:title><![CDATA[Did the Black Death break feudalism and make capitalism? Maybe, maybe not]]></dc:title>
+            <dc:creator>Hugh Pennington</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01285-6</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-17; | doi:10.1038/d41586-023-01285-6</dc:source>
+            <dc:date>2023-04-17</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01285-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01285-6</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01298-1">
+            <title><![CDATA[How sketches of the womb have empowered and oppressed women over the ages]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01298-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 17 April 2023; <a href="https://www.nature.com/articles/d41586-023-01298-1">doi:10.1038/d41586-023-01298-1</a></p>Depictions of fetuses have helped to teach safer birthing practices and saved lives — but they can also be used to erase the person giving birth.]]></content:encoded>
+            <dc:title><![CDATA[How sketches of the womb have empowered and oppressed women over the ages]]></dc:title>
+            <dc:creator>Josie Glausiusz</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01298-1</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-17; | doi:10.1038/d41586-023-01298-1</dc:source>
+            <dc:date>2023-04-17</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01298-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01298-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01039-4">
+            <title><![CDATA[Hotly anticipated ALS drug could pave way for more brain treatments]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01039-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 17 April 2023; <a href="https://www.nature.com/articles/d41586-023-01039-4">doi:10.1038/d41586-023-01039-4</a></p>A thumbs-up for tofersen from the US Food and Drug Administration would reinforce the agency’s shifting approach to neurological drugs.]]></content:encoded>
+            <dc:title><![CDATA[Hotly anticipated ALS drug could pave way for more brain treatments]]></dc:title>
+            <dc:creator>Asher Mullard</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01039-4</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-17; | doi:10.1038/d41586-023-01039-4</dc:source>
+            <dc:date>2023-04-17</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01039-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01039-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01299-0">
+            <title><![CDATA[Leaving academia for industry? Here’s how to handle salary negotiations]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01299-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 17 April 2023; <a href="https://www.nature.com/articles/d41586-023-01299-0">doi:10.1038/d41586-023-01299-0</a></p>Don’t sell yourself short when talking about pay, annual leave and other benefits, say scientists who have made the move.]]></content:encoded>
+            <dc:title><![CDATA[Leaving academia for industry? Here’s how to handle salary negotiations]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-01299-0</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-17; | doi:10.1038/d41586-023-01299-0</dc:source>
+            <dc:date>2023-04-17</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01299-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01299-0</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-01269-6">
             <title><![CDATA[Why incentives work — or don’t, and more: Books in brief]]></title>
@@ -1240,66 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-00977-3</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-00977-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01017-w">
-            <title><![CDATA[Understanding the difference between the mind and the brain]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01017-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 07 April 2023; <a href="https://www.nature.com/articles/d41586-023-01017-w">doi:10.1038/d41586-023-01017-w</a></p>Neuroscientist Chantel Prat is keen to understand why, despite a growing awareness of diversity and its importance, we still sometimes struggle to accept different perspectives.]]></content:encoded>
-            <dc:title><![CDATA[Understanding the difference between the mind and the brain]]></dc:title>
-            <dc:creator>Dom Byrne</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01017-w</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-07; | doi:10.1038/d41586-023-01017-w</dc:source>
-            <dc:date>2023-04-07</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01017-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01017-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01027-8">
-            <title><![CDATA[The good side of science: why I tweeted 31 reasons to love your career]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01027-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 07 April 2023; <a href="https://www.nature.com/articles/d41586-023-01027-8">doi:10.1038/d41586-023-01027-8</a></p>Jeffrey Rathmell took to Twitter after encountering negativity on social media about research careers. He was surprised by the experience, and the overwhelmingly positive response.]]></content:encoded>
-            <dc:title><![CDATA[The good side of science: why I tweeted 31 reasons to love your career]]></dc:title>
-            <dc:creator>Jeffrey Rathmell</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01027-8</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-07; | doi:10.1038/d41586-023-01027-8</dc:source>
-            <dc:date>2023-04-07</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01027-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01027-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01018-9">
-            <title><![CDATA[Death threats, trolling and sexist abuse: climate scientists report online attacks]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01018-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 06 April 2023; <a href="https://www.nature.com/articles/d41586-023-01018-9">doi:10.1038/d41586-023-01018-9</a></p>Survey highlights experiences of dozens of climate researchers who have endured online harassment related to their work.]]></content:encoded>
-            <dc:title><![CDATA[Death threats, trolling and sexist abuse: climate scientists report online attacks]]></dc:title>
-            <dc:creator>Myriam Vidal Valero</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01018-9</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-06; | doi:10.1038/d41586-023-01018-9</dc:source>
-            <dc:date>2023-04-06</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01018-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01018-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01002-3">
-            <title><![CDATA[Crazy ants’ strange genomes are a biological first]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01002-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 06 April 2023; <a href="https://www.nature.com/articles/d41586-023-01002-3">doi:10.1038/d41586-023-01002-3</a></p>Males of the notorious yellow crazy ant carry a mixture of genomes, a phenomenon unseen in other animals.]]></content:encoded>
-            <dc:title><![CDATA[Crazy ants’ strange genomes are a biological first]]></dc:title>
-            <dc:creator>Ewen Callaway</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01002-3</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-06; | doi:10.1038/d41586-023-01002-3</dc:source>
-            <dc:date>2023-04-06</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01002-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01002-3</prism:url>
         </item>
     
 </rdf:RDF>
