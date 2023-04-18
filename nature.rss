@@ -18,13 +18,27 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06048-x"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01301-9"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-05903-1"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01285-6"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01298-1"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01267-8"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01039-4"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01022-z"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01299-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01306-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01273-w"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01269-6"/>
                 
@@ -35,6 +49,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01266-9"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01292-7"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01304-6"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01272-x"/>
                 
@@ -152,22 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01032-x"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-00973-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-00974-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01043-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01049-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-00975-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01044-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-00985-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-00977-3"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,51 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-023-06048-x">
+            <title><![CDATA[Retraction Note: The hypoxic cancer secretome induces pre-metastatic bone lesions through lysyl oxidase]]></title>
+            <link>https://www.nature.com/articles/s41586-023-06048-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 17 April 2023; <a href="https://www.nature.com/articles/s41586-023-06048-x">doi:10.1038/s41586-023-06048-x</a></p>Retraction Note: The hypoxic cancer secretome induces pre-metastatic bone lesions through lysyl oxidase]]></content:encoded>
+            <dc:title><![CDATA[Retraction Note: The hypoxic cancer secretome induces pre-metastatic bone lesions through lysyl oxidase]]></dc:title>
+            <dc:creator>Thomas R. Cox</dc:creator><dc:creator>Robin M. H. Rumney</dc:creator><dc:creator>Erwin M. Schoof</dc:creator><dc:creator>Lara Perryman</dc:creator><dc:creator>Anette M. Høye</dc:creator><dc:creator>Ankita Agrawal</dc:creator><dc:creator>Demelza Bird</dc:creator><dc:creator>Norain Ab Latif</dc:creator><dc:creator>Hamish Forrest</dc:creator><dc:creator>Holly R. Evans</dc:creator><dc:creator>Iain D. Huggins</dc:creator><dc:creator>Georgina Lang</dc:creator><dc:creator>Rune Linding</dc:creator><dc:creator>Alison Gartland</dc:creator><dc:creator>Janine T. Erler</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-023-06048-x</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-17; | doi:10.1038/s41586-023-06048-x</dc:source>
+            <dc:date>2023-04-17</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-023-06048-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-023-06048-x</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01301-9">
+            <title><![CDATA[Recreating the fragrance of the Moon in a lab]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01301-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 17 April 2023; <a href="https://www.nature.com/articles/d41586-023-01301-9">doi:10.1038/d41586-023-01301-9</a></p>Scent sculptor Michael Moisseeff simulates all manner of aromas from the everyday and historical to the extraterrestrial.]]></content:encoded>
+            <dc:title><![CDATA[Recreating the fragrance of the Moon in a lab]]></dc:title>
+            <dc:creator>Nic Fleming</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01301-9</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-17; | doi:10.1038/d41586-023-01301-9</dc:source>
+            <dc:date>2023-04-17</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01301-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01301-9</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-023-05903-1">
+            <title><![CDATA[Human-induced weakening of the Northern Hemisphere tropical circulation]]></title>
+            <link>https://www.nature.com/articles/s41586-023-05903-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 17 April 2023; <a href="https://www.nature.com/articles/s41586-023-05903-1">doi:10.1038/s41586-023-05903-1</a></p>Analysis of sea-level pressure measurements shows that, in agreement with the latest suite of climate models, the Hadley circulation has considerably weakened in the Northern Hemisphere over recent decades, driven by anthropogenic emissions.]]></content:encoded>
+            <dc:title><![CDATA[Human-induced weakening of the Northern Hemisphere tropical circulation]]></dc:title>
+            <dc:creator>Rei Chemke</dc:creator><dc:creator>Janni Yuval</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-023-05903-1</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-17; | doi:10.1038/s41586-023-05903-1</dc:source>
+            <dc:date>2023-04-17</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-023-05903-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-023-05903-1</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-01285-6">
             <title><![CDATA[Did the Black Death break feudalism and make capitalism? Maybe, maybe not]]></title>
@@ -207,6 +252,21 @@
             <prism:url>https://www.nature.com/articles/d41586-023-01298-1</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01267-8">
+            <title><![CDATA[‘Democracy in microscopy’: cheap light microscope delivers super-resolution images]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01267-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 17 April 2023; <a href="https://www.nature.com/articles/d41586-023-01267-8">doi:10.1038/d41586-023-01267-8</a></p>Technique pushes the instruments to beat the resolving power of multi-million-dollar machines.]]></content:encoded>
+            <dc:title><![CDATA[‘Democracy in microscopy’: cheap light microscope delivers super-resolution images]]></dc:title>
+            <dc:creator>Ewen Callaway</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01267-8</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-17; | doi:10.1038/d41586-023-01267-8</dc:source>
+            <dc:date>2023-04-17</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01267-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01267-8</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-023-01039-4">
             <title><![CDATA[Hotly anticipated ALS drug could pave way for more brain treatments]]></title>
             <link>https://www.nature.com/articles/d41586-023-01039-4</link>
@@ -222,6 +282,21 @@
             <prism:url>https://www.nature.com/articles/d41586-023-01039-4</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01022-z">
+            <title><![CDATA[Africa-led group generates lablab crop genome]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01022-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 17 April 2023; <a href="https://www.nature.com/articles/d41586-023-01022-z">doi:10.1038/d41586-023-01022-z</a></p>Lablab is a key crop in the tropics. A high-quality genome sequence for the plant, produced in Kenya, provides insights that could boost breeding programmes and pave the way for more African crops to be sequenced in African laboratories.]]></content:encoded>
+            <dc:title><![CDATA[Africa-led group generates lablab crop genome]]></dc:title>
+            <dc:creator>Damaris A. Odeny</dc:creator><dc:creator>Molly A. Okoth</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01022-z</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-17; | doi:10.1038/d41586-023-01022-z</dc:source>
+            <dc:date>2023-04-17</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01022-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01022-z</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-023-01299-0">
             <title><![CDATA[Leaving academia for industry? Here’s how to handle salary negotiations]]></title>
             <link>https://www.nature.com/articles/d41586-023-01299-0</link>
@@ -235,6 +310,36 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01299-0</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01299-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01306-4">
+            <title><![CDATA[Mega rocket Starship could enable new types of astrophysics]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01306-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 17 April 2023; <a href="https://www.nature.com/articles/d41586-023-01306-4">doi:10.1038/d41586-023-01306-4</a></p>SpaceX’s Starship is poised to launch. As well as ferrying astronauts to the Moon and one day Mars, it could launch heavy science payloads, such as telescopes.]]></content:encoded>
+            <dc:title><![CDATA[Mega rocket Starship could enable new types of astrophysics]]></dc:title>
+            <dc:creator>Alexandra Witze</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01306-4</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-17; | doi:10.1038/d41586-023-01306-4</dc:source>
+            <dc:date>2023-04-17</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01306-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01306-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01273-w">
+            <title><![CDATA[AI science search engines are exploding in number — are they any good?]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01273-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 17 April 2023; <a href="https://www.nature.com/articles/d41586-023-01273-w">doi:10.1038/d41586-023-01273-w</a></p>Several search tools claim to help researchers do science.]]></content:encoded>
+            <dc:title><![CDATA[AI science search engines are exploding in number — are they any good?]]></dc:title>
+            <dc:creator>Katharine Sanderson</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01273-w</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-17; | doi:10.1038/d41586-023-01273-w</dc:source>
+            <dc:date>2023-04-17</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01273-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01273-w</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-01269-6">
@@ -310,6 +415,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01292-7</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01292-7</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01304-6">
+            <title><![CDATA[Daily briefing: Stephen Hawking’s final theory]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01304-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 14 April 2023; <a href="https://www.nature.com/articles/d41586-023-01304-6">doi:10.1038/d41586-023-01304-6</a></p>Hawking flip-flopped on whether the Universe has a beginning, writes Thomas Hertog in On the Origin of Time. Plus, NASA’s JUICE mission heads to Jupiter’s moons and six steps to cleaner lithium extraction.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Stephen Hawking’s final theory]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01304-6</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-14; | doi:10.1038/d41586-023-01304-6</dc:source>
+            <dc:date>2023-04-14</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01304-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01304-6</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-01272-x">
@@ -1180,126 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01032-x</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01032-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-00973-7">
-            <title><![CDATA[Why <i>Nature</i> is updating its advice to authors on reporting race or ethnicity]]></title>
-            <link>https://www.nature.com/articles/d41586-023-00973-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 11 April 2023; <a href="https://www.nature.com/articles/d41586-023-00973-7">doi:10.1038/d41586-023-00973-7</a></p>Nature’s updated advice is a small step towards ensuring that research does not inadvertently end up harming under-represented groups.]]></content:encoded>
-            <dc:title><![CDATA[Why <i>Nature</i> is updating its advice to authors on reporting race or ethnicity]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-00973-7</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-11; | doi:10.1038/d41586-023-00973-7</dc:source>
-            <dc:date>2023-04-11</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-00973-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-00973-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-00974-6">
-            <title><![CDATA[University ethics boards are not ready for Indigenous scholars]]></title>
-            <link>https://www.nature.com/articles/d41586-023-00974-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 11 April 2023; <a href="https://www.nature.com/articles/d41586-023-00974-6">doi:10.1038/d41586-023-00974-6</a></p>Ethics review processes routinely impede Indigenous academics’ research with Indigenous communities.]]></content:encoded>
-            <dc:title><![CDATA[University ethics boards are not ready for Indigenous scholars]]></dc:title>
-            <dc:creator>Jennifer Grenz</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-00974-6</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-11; | doi:10.1038/d41586-023-00974-6</dc:source>
-            <dc:date>2023-04-11</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-00974-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-00974-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01043-8">
-            <title><![CDATA[Wheat disease’s global spread concerns researchers]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01043-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 11 April 2023; <a href="https://www.nature.com/articles/d41586-023-01043-8">doi:10.1038/d41586-023-01043-8</a></p>Genomic analysis reveals that the wheat blast fungus spread independently from South America to two other continents.]]></content:encoded>
-            <dc:title><![CDATA[Wheat disease’s global spread concerns researchers]]></dc:title>
-            <dc:creator>Ewen Callaway</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01043-8</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-11; | doi:10.1038/d41586-023-01043-8</dc:source>
-            <dc:date>2023-04-11</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01043-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01043-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01049-2">
-            <title><![CDATA[Daily briefing: Advice for the WHO at 75]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01049-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 11 April 2023; <a href="https://www.nature.com/articles/d41586-023-01049-2">doi:10.1038/d41586-023-01049-2</a></p>The World Health Organization can emerge stronger and wiser from the pandemic. Plus, medieval accounts of eclipses shine a light on ancient eruptions and stem-cell derived ‘embryos’ are implanted in monkeys.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: Advice for the WHO at 75]]></dc:title>
-            <dc:creator>Flora Graham</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01049-2</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-11; | doi:10.1038/d41586-023-01049-2</dc:source>
-            <dc:date>2023-04-11</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01049-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01049-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-00975-5">
-            <title><![CDATA[Three ways to solve the plastics pollution crisis]]></title>
-            <link>https://www.nature.com/articles/d41586-023-00975-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 11 April 2023; <a href="https://www.nature.com/articles/d41586-023-00975-5">doi:10.1038/d41586-023-00975-5</a></p>Researchers are studying how more-sophisticated policies, smarter recycling and new materials could stem the tide of waste.]]></content:encoded>
-            <dc:title><![CDATA[Three ways to solve the plastics pollution crisis]]></dc:title>
-            <dc:creator>Diana Kwon</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-00975-5</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-11; | doi:10.1038/d41586-023-00975-5</dc:source>
-            <dc:date>2023-04-11</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-00975-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-00975-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01044-7">
-            <title><![CDATA[Abortion-pill ruling threatens FDA’s authority, say drug firms]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01044-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 11 April 2023; <a href="https://www.nature.com/articles/d41586-023-01044-7">doi:10.1038/d41586-023-01044-7</a></p>A US judge’s decision to overturn the approval of mifepristone could put other drugs at risk, pharmaceutical-industry executives warn.]]></content:encoded>
-            <dc:title><![CDATA[Abortion-pill ruling threatens FDA’s authority, say drug firms]]></dc:title>
-            <dc:creator>Mariana Lenharo</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01044-7</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-11; | doi:10.1038/d41586-023-01044-7</dc:source>
-            <dc:date>2023-04-11</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01044-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01044-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-00985-3">
-            <title><![CDATA[I analyse ‘extremophile’ microbes to understand life’s origins]]></title>
-            <link>https://www.nature.com/articles/d41586-023-00985-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 10 April 2023; <a href="https://www.nature.com/articles/d41586-023-00985-3">doi:10.1038/d41586-023-00985-3</a></p>Microbiologist Gaël Erauso studies microorganisms from the deep ocean to learn how they evolved from prebiotic organic molecules billions of years ago.]]></content:encoded>
-            <dc:title><![CDATA[I analyse ‘extremophile’ microbes to understand life’s origins]]></dc:title>
-            <dc:creator>Hannah Docter-Loeb</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-00985-3</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-10; | doi:10.1038/d41586-023-00985-3</dc:source>
-            <dc:date>2023-04-10</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-00985-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-00985-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-00977-3">
-            <title><![CDATA[How Stephen Hawking flip-flopped on whether the Universe has a beginning]]></title>
-            <link>https://www.nature.com/articles/d41586-023-00977-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 10 April 2023; <a href="https://www.nature.com/articles/d41586-023-00977-3">doi:10.1038/d41586-023-00977-3</a></p>The question of what the Big Bang really represented still bamboozles cosmologists — and Hawking provided more than one answer.]]></content:encoded>
-            <dc:title><![CDATA[How Stephen Hawking flip-flopped on whether the Universe has a beginning]]></dc:title>
-            <dc:creator>Robert P. Crease</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-00977-3</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-10; | doi:10.1038/d41586-023-00977-3</dc:source>
-            <dc:date>2023-04-10</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-00977-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-00977-3</prism:url>
         </item>
     
 </rdf:RDF>
