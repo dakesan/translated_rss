@@ -18,6 +18,18 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01276-7"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01274-9"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01275-8"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01045-6"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01295-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01300-w"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06048-x"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01301-9"/>
@@ -156,18 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-00982-6"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01007-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01005-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01003-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-00981-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01004-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01032-x"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,96 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01276-7">
+            <title><![CDATA[Rethink changing species names that honour real people]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01276-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 18 April 2023; <a href="https://www.nature.com/articles/d41586-023-01276-7">doi:10.1038/d41586-023-01276-7</a></p>Rethink changing species names that honour real people]]></content:encoded>
+            <dc:title><![CDATA[Rethink changing species names that honour real people]]></dc:title>
+            <dc:creator>Guilherme S. T. Garbino</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01276-7</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-18; | doi:10.1038/d41586-023-01276-7</dc:source>
+            <dc:date>2023-04-18</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01276-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01276-7</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01274-9">
+            <title><![CDATA[Kurdistan’s boost for science and higher education]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01274-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 18 April 2023; <a href="https://www.nature.com/articles/d41586-023-01274-9">doi:10.1038/d41586-023-01274-9</a></p>Kurdistan’s boost for science and higher education]]></content:encoded>
+            <dc:title><![CDATA[Kurdistan’s boost for science and higher education]]></dc:title>
+            <dc:creator>Amir Chali</dc:creator><dc:creator>Ebrahim Karimi</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01274-9</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-18; | doi:10.1038/d41586-023-01274-9</dc:source>
+            <dc:date>2023-04-18</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01274-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01274-9</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01275-8">
+            <title><![CDATA[Stat checkers: make reproducible computer code mandatory]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01275-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 18 April 2023; <a href="https://www.nature.com/articles/d41586-023-01275-8">doi:10.1038/d41586-023-01275-8</a></p>Stat checkers: make reproducible computer code mandatory]]></content:encoded>
+            <dc:title><![CDATA[Stat checkers: make reproducible computer code mandatory]]></dc:title>
+            <dc:creator>Dominic Guitard</dc:creator><dc:creator>Sylvain Fiset</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01275-8</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-18; | doi:10.1038/d41586-023-01275-8</dc:source>
+            <dc:date>2023-04-18</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01275-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01275-8</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01045-6">
+            <title><![CDATA[Private companies are flocking to the Moon — what does that mean for science?]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01045-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 18 April 2023; <a href="https://www.nature.com/articles/d41586-023-01045-6">doi:10.1038/d41586-023-01045-6</a></p>A raft of commercial lunar missions are taking off in 2023. The first lander is set to touch down this month, signalling a new era for Moon science and exploration.]]></content:encoded>
+            <dc:title><![CDATA[Private companies are flocking to the Moon — what does that mean for science?]]></dc:title>
+            <dc:creator>Alexandra Witze</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01045-6</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-18; | doi:10.1038/d41586-023-01045-6</dc:source>
+            <dc:date>2023-04-18</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01045-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01045-6</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01295-4">
+            <title><![CDATA[Why open-source generative AI models are an ethical way forward for science]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01295-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 18 April 2023; <a href="https://www.nature.com/articles/d41586-023-01295-4">doi:10.1038/d41586-023-01295-4</a></p>Researchers should avoid the lure of proprietary models and develop transparent large language models to ensure reproducibility.]]></content:encoded>
+            <dc:title><![CDATA[Why open-source generative AI models are an ethical way forward for science]]></dc:title>
+            <dc:creator>Arthur Spirling</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01295-4</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-18; | doi:10.1038/d41586-023-01295-4</dc:source>
+            <dc:date>2023-04-18</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01295-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01295-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01300-w">
+            <title><![CDATA[Every base everywhere all at once: pangenomics comes of age]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01300-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 18 April 2023; <a href="https://www.nature.com/articles/d41586-023-01300-w">doi:10.1038/d41586-023-01300-w</a></p>Multi-genome assemblies called pangenomes can capture genetic diversity in a species, but researchers are still working out how best to build and explore them.]]></content:encoded>
+            <dc:title><![CDATA[Every base everywhere all at once: pangenomics comes of age]]></dc:title>
+            <dc:creator>Michael Eisenstein</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01300-w</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-18; | doi:10.1038/d41586-023-01300-w</dc:source>
+            <dc:date>2023-04-18</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01300-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01300-w</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06048-x">
             <title><![CDATA[Retraction Note: The hypoxic cancer secretome induces pre-metastatic bone lesions through lysyl oxidase]]></title>
@@ -303,7 +393,7 @@
             <content:encoded>
                 <![CDATA[<p>Nature, Published online: 17 April 2023; <a href="https://www.nature.com/articles/d41586-023-01299-0">doi:10.1038/d41586-023-01299-0</a></p>Don’t sell yourself short when talking about pay, annual leave and other benefits, say scientists who have made the move.]]></content:encoded>
             <dc:title><![CDATA[Leaving academia for industry? Here’s how to handle salary negotiations]]></dc:title>
-            
+            <dc:creator>Sarah Wild</dc:creator>
             <dc:identifier>doi:10.1038/d41586-023-01299-0</dc:identifier>
             <dc:source>Nature, Published online: 2023-04-17; | doi:10.1038/d41586-023-01299-0</dc:source>
             <dc:date>2023-04-17</dc:date>
@@ -1210,96 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-00982-6</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-00982-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01007-y">
-            <title><![CDATA[Postdoc unions can help secure a brighter future]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01007-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 11 April 2023; <a href="https://www.nature.com/articles/d41586-023-01007-y">doi:10.1038/d41586-023-01007-y</a></p>Postdoc unions can help secure a brighter future]]></content:encoded>
-            <dc:title><![CDATA[Postdoc unions can help secure a brighter future]]></dc:title>
-            <dc:creator>Neal Sweeney</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01007-y</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-11; | doi:10.1038/d41586-023-01007-y</dc:source>
-            <dc:date>2023-04-11</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01007-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01007-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01005-0">
-            <title><![CDATA[<i>eLife</i>: community support for a new publishing model]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01005-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 11 April 2023; <a href="https://www.nature.com/articles/d41586-023-01005-0">doi:10.1038/d41586-023-01005-0</a></p><i>eLife</i>: community support for a new publishing model]]></content:encoded>
-            <dc:title><![CDATA[<i>eLife</i>: community support for a new publishing model]]></dc:title>
-            <dc:creator>Lara Urban</dc:creator><dc:creator>Devang Mehta</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01005-0</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-11; | doi:10.1038/d41586-023-01005-0</dc:source>
-            <dc:date>2023-04-11</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01005-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01005-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01003-2">
-            <title><![CDATA[A boost for south–south collaboration]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01003-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 11 April 2023; <a href="https://www.nature.com/articles/d41586-023-01003-2">doi:10.1038/d41586-023-01003-2</a></p>A boost for south–south collaboration]]></content:encoded>
-            <dc:title><![CDATA[A boost for south–south collaboration]]></dc:title>
-            <dc:creator>Franco M. Cabrerizo</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01003-2</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-11; | doi:10.1038/d41586-023-01003-2</dc:source>
-            <dc:date>2023-04-11</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01003-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01003-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-00981-7">
-            <title><![CDATA[From the archive: new words to describe human–machine relationships, and a demonstration of the perceptual abilities of butterflies]]></title>
-            <link>https://www.nature.com/articles/d41586-023-00981-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 11 April 2023; <a href="https://www.nature.com/articles/d41586-023-00981-7">doi:10.1038/d41586-023-00981-7</a></p>Snippets from Nature’s past.]]></content:encoded>
-            <dc:title><![CDATA[From the archive: new words to describe human–machine relationships, and a demonstration of the perceptual abilities of butterflies]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-00981-7</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-11; | doi:10.1038/d41586-023-00981-7</dc:source>
-            <dc:date>2023-04-11</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-00981-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-00981-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01004-1">
-            <title><![CDATA[NIH funding: hone efforts to tackle structural racism]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01004-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 11 April 2023; <a href="https://www.nature.com/articles/d41586-023-01004-1">doi:10.1038/d41586-023-01004-1</a></p>NIH funding: hone efforts to tackle structural racism]]></content:encoded>
-            <dc:title><![CDATA[NIH funding: hone efforts to tackle structural racism]]></dc:title>
-            <dc:creator>Adesuwa Akhetuamhen</dc:creator><dc:creator>Eseosa T. Ighodaro</dc:creator><dc:creator>Kortney F. James</dc:creator><dc:creator>Nora Franco</dc:creator><dc:creator>Renee Hsia</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01004-1</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-11; | doi:10.1038/d41586-023-01004-1</dc:source>
-            <dc:date>2023-04-11</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01004-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01004-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01032-x">
-            <title><![CDATA[Hair buried in a cave shows hallucinogen use in ancient Europe]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01032-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 11 April 2023; <a href="https://www.nature.com/articles/d41586-023-01032-x">doi:10.1038/d41586-023-01032-x</a></p>Ritually shorn strands suggest that people living some 3,000 years ago consumed plants with mind-altering properties.]]></content:encoded>
-            <dc:title><![CDATA[Hair buried in a cave shows hallucinogen use in ancient Europe]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-01032-x</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-11; | doi:10.1038/d41586-023-01032-x</dc:source>
-            <dc:date>2023-04-11</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01032-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01032-x</prism:url>
         </item>
     
 </rdf:RDF>
