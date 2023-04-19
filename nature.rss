@@ -24,11 +24,23 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01275-8"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01021-0"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01045-6"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01295-4"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01307-3"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01024-x"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01293-6"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01300-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01308-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01047-4"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06048-x"/>
                 
@@ -47,6 +59,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01022-z"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01299-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01310-8"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01306-4"/>
                 
@@ -154,20 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-00979-1"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-00934-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01255-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-00192-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01010-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01256-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01037-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-00982-6"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -222,6 +222,21 @@
             <prism:url>https://www.nature.com/articles/d41586-023-01275-8</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01021-0">
+            <title><![CDATA[From the archive: essays reviewing the stages of the atomic model, and a heap of glowing wood]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01021-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 18 April 2023; <a href="https://www.nature.com/articles/d41586-023-01021-0">doi:10.1038/d41586-023-01021-0</a></p>Snippets from Nature’s past.]]></content:encoded>
+            <dc:title><![CDATA[From the archive: essays reviewing the stages of the atomic model, and a heap of glowing wood]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-01021-0</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-18; | doi:10.1038/d41586-023-01021-0</dc:source>
+            <dc:date>2023-04-18</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01021-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01021-0</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-023-01045-6">
             <title><![CDATA[Private companies are flocking to the Moon — what does that mean for science?]]></title>
             <link>https://www.nature.com/articles/d41586-023-01045-6</link>
@@ -252,6 +267,51 @@
             <prism:url>https://www.nature.com/articles/d41586-023-01295-4</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01307-3">
+            <title><![CDATA[Why Earth’s giant kelp forests are worth $500 billion a year]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01307-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 18 April 2023; <a href="https://www.nature.com/articles/d41586-023-01307-3">doi:10.1038/d41586-023-01307-3</a></p>Analysis estimates that kelp forests are at least three times more valuable for food and the planet than previously thought.]]></content:encoded>
+            <dc:title><![CDATA[Why Earth’s giant kelp forests are worth $500 billion a year]]></dc:title>
+            <dc:creator>Gemma Conroy</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01307-3</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-18; | doi:10.1038/d41586-023-01307-3</dc:source>
+            <dc:date>2023-04-18</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01307-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01307-3</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01024-x">
+            <title><![CDATA[Learning the metabolic language of cancer]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01024-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 18 April 2023; <a href="https://www.nature.com/articles/d41586-023-01024-x">doi:10.1038/d41586-023-01024-x</a></p>The conversion of dietary sugar to the molecule lactate is a hallmark of many cancers. The discovery of a new binding partner of lactate provides insight into how cells link nutrient metabolism to the decision to divide.]]></content:encoded>
+            <dc:title><![CDATA[Learning the metabolic language of cancer]]></dc:title>
+            <dc:creator>Minervo Perez</dc:creator><dc:creator>Jordan L. Meier</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01024-x</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-18; | doi:10.1038/d41586-023-01024-x</dc:source>
+            <dc:date>2023-04-18</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01024-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01024-x</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01293-6">
+            <title><![CDATA[Is Africa’s Great Green Wall project withering?]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01293-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 18 April 2023; <a href="https://www.nature.com/articles/d41586-023-01293-6">doi:10.1038/d41586-023-01293-6</a></p>The plan to re-green a 7,000-kilometre swathe south of the Sahara is at risk of losing its pan-African vision and ambition.]]></content:encoded>
+            <dc:title><![CDATA[Is Africa’s Great Green Wall project withering?]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-01293-6</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-18; | doi:10.1038/d41586-023-01293-6</dc:source>
+            <dc:date>2023-04-18</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01293-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01293-6</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-023-01300-w">
             <title><![CDATA[Every base everywhere all at once: pangenomics comes of age]]></title>
             <link>https://www.nature.com/articles/d41586-023-01300-w</link>
@@ -265,6 +325,36 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01300-w</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01300-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01308-2">
+            <title><![CDATA[How I found a broader impact as a PhD student through podcasting]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01308-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 18 April 2023; <a href="https://www.nature.com/articles/d41586-023-01308-2">doi:10.1038/d41586-023-01308-2</a></p>I’ve learnt new skills and communicated science further afield through my immunology podcast, Inflammatory Content, says Kellen Cavagnero.]]></content:encoded>
+            <dc:title><![CDATA[How I found a broader impact as a PhD student through podcasting]]></dc:title>
+            <dc:creator>Kellen J. Cavagnero</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01308-2</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-18; | doi:10.1038/d41586-023-01308-2</dc:source>
+            <dc:date>2023-04-18</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01308-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01308-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01047-4">
+            <title><![CDATA[How a rural school teacher became a top COVID sleuth]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01047-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 18 April 2023; <a href="https://www.nature.com/articles/d41586-023-01047-4">doi:10.1038/d41586-023-01047-4</a></p>A self-taught Indiana man is among a cadre of community scientists who scour the SARS-CoV-2 genome for problematic mutations.]]></content:encoded>
+            <dc:title><![CDATA[How a rural school teacher became a top COVID sleuth]]></dc:title>
+            <dc:creator>Max Kozlov</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01047-4</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-18; | doi:10.1038/d41586-023-01047-4</dc:source>
+            <dc:date>2023-04-18</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01047-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01047-4</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06048-x">
@@ -400,6 +490,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01299-0</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01299-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01310-8">
+            <title><![CDATA[Daily briefing: How to fine-tune your scientific searches]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01310-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 17 April 2023; <a href="https://www.nature.com/articles/d41586-023-01310-8">doi:10.1038/d41586-023-01310-8</a></p>Top tips for honing your Google-fu. Plus, how the Tonga eruption triggered a ‘mega-tsunami’ and why Brazil will breed billions of mosquitoes to combat dengue.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: How to fine-tune your scientific searches]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01310-8</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-17; | doi:10.1038/d41586-023-01310-8</dc:source>
+            <dc:date>2023-04-17</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01310-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01310-8</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-01306-4">
@@ -1195,111 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-00979-1</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-00979-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-00934-0">
-            <title><![CDATA[Molecular portraits of lung cancer evolution]]></title>
-            <link>https://www.nature.com/articles/d41586-023-00934-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 12 April 2023; <a href="https://www.nature.com/articles/d41586-023-00934-0">doi:10.1038/d41586-023-00934-0</a></p>Assessing the genetic and cellular changes that underlie human lung cancer as it evolves could aid the development of treatments. The TRACERx project reports data from studies tracking the disease.]]></content:encoded>
-            <dc:title><![CDATA[Molecular portraits of lung cancer evolution]]></dc:title>
-            <dc:creator>Tikvah K. Hayes</dc:creator><dc:creator>Matthew Meyerson</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-00934-0</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-12; | doi:10.1038/d41586-023-00934-0</dc:source>
-            <dc:date>2023-04-12</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-00934-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-00934-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01255-y">
-            <title><![CDATA[US aims for electric-car revolution — will it work?]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01255-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 12 April 2023; <a href="https://www.nature.com/articles/d41586-023-01255-y">doi:10.1038/d41586-023-01255-y</a></p>The Environmental Protection Agency has released draft regulations that set the stage for a huge transition to electric vehicles.]]></content:encoded>
-            <dc:title><![CDATA[US aims for electric-car revolution — will it work?]]></dc:title>
-            <dc:creator>Jeff Tollefson</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01255-y</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-12; | doi:10.1038/d41586-023-01255-y</dc:source>
-            <dc:date>2023-04-12</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01255-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01255-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-00192-0">
-            <title><![CDATA[Genome reveals how the skate got its wings]]></title>
-            <link>https://www.nature.com/articles/d41586-023-00192-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 12 April 2023; <a href="https://www.nature.com/articles/d41586-023-00192-0">doi:10.1038/d41586-023-00192-0</a></p>Genome sequencing, combined with methods for deducing how genomic regions interact, have now provided insight into how the wings that give skates and rays their characteristic shapes evolved more than 200 million years ago.]]></content:encoded>
-            <dc:title><![CDATA[Genome reveals how the skate got its wings]]></dc:title>
-            <dc:creator>Chris Amemiya</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-00192-0</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-12; | doi:10.1038/d41586-023-00192-0</dc:source>
-            <dc:date>2023-04-12</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-00192-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-00192-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01010-3">
-            <title><![CDATA[How octopuses taste with their arms]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01010-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 12 April 2023; <a href="https://www.nature.com/articles/d41586-023-01010-3">doi:10.1038/d41586-023-01010-3</a></p>Ultra-specialized proteins enable octopuses and squids to taste surfaces with their suckers — and these proteins are tailored to each animal’s way of life.]]></content:encoded>
-            <dc:title><![CDATA[How octopuses taste with their arms]]></dc:title>
-            <dc:creator>Sara Reardon</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01010-3</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-12; | doi:10.1038/d41586-023-01010-3</dc:source>
-            <dc:date>2023-04-12</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01010-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01010-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01256-x">
-            <title><![CDATA[Jupiter mission will be first to orbit moon of another planet]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01256-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 12 April 2023; <a href="https://www.nature.com/articles/d41586-023-01256-x">doi:10.1038/d41586-023-01256-x</a></p>Europe’s JUICE spacecraft will study three of Jupiter’s four Galilean moons: Ganymede, Callisto and Europa.]]></content:encoded>
-            <dc:title><![CDATA[Jupiter mission will be first to orbit moon of another planet]]></dc:title>
-            <dc:creator>Davide Castelvecchi</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01256-x</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-12; | doi:10.1038/d41586-023-01256-x</dc:source>
-            <dc:date>2023-04-12</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01256-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01256-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01037-6">
-            <title><![CDATA[Plastic waste found chemically bonded to rocks in China]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01037-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 12 April 2023; <a href="https://www.nature.com/articles/d41586-023-01037-6">doi:10.1038/d41586-023-01037-6</a></p>Researchers discover ‘plastic rocks’, probably formed from bags and other litter, in a freshwater creek.]]></content:encoded>
-            <dc:title><![CDATA[Plastic waste found chemically bonded to rocks in China]]></dc:title>
-            <dc:creator>Katherine Bourzac</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01037-6</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-12; | doi:10.1038/d41586-023-01037-6</dc:source>
-            <dc:date>2023-04-12</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01037-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01037-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-00982-6">
-            <title><![CDATA[Extrachromosomal DNA appears before cancer forms]]></title>
-            <link>https://www.nature.com/articles/d41586-023-00982-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 12 April 2023; <a href="https://www.nature.com/articles/d41586-023-00982-6">doi:10.1038/d41586-023-00982-6</a></p>A type of circular DNA called extrachromosomal DNA was thought to be found exclusively in cancer. Its discovery in non-cancerous tissue suggests that it might have an early active role in malignant transformation.]]></content:encoded>
-            <dc:title><![CDATA[Extrachromosomal DNA appears before cancer forms]]></dc:title>
-            <dc:creator>David H. Wang</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-00982-6</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-12; | doi:10.1038/d41586-023-00982-6</dc:source>
-            <dc:date>2023-04-12</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-00982-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-00982-6</prism:url>
         </item>
     
 </rdf:RDF>
