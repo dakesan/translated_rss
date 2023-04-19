@@ -18,6 +18,12 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01296-3"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01291-8"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01294-5"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01276-7"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01274-9"/>
@@ -162,12 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01026-9"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01271-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-00971-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-00979-1"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,51 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01296-3">
+            <title><![CDATA[US could soon approve MDMA therapy — opening an era of psychedelic medicine]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01296-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 19 April 2023; <a href="https://www.nature.com/articles/d41586-023-01296-3">doi:10.1038/d41586-023-01296-3</a></p>Perceptions have shifted dramatically in the past few years on the therapeutic value of illicit drugs such as ecstasy. But questions still linger about what FDA approval might look like.]]></content:encoded>
+            <dc:title><![CDATA[US could soon approve MDMA therapy — opening an era of psychedelic medicine]]></dc:title>
+            <dc:creator>Sara Reardon</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01296-3</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-19; | doi:10.1038/d41586-023-01296-3</dc:source>
+            <dc:date>2023-04-19</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01296-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01296-3</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01291-8">
+            <title><![CDATA[Science strengthened banks — but how long will stability last?]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01291-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 19 April 2023; <a href="https://www.nature.com/articles/d41586-023-01291-8">doi:10.1038/d41586-023-01291-8</a></p>The results of influential studies are being used to monitor the world’s banking system amid continuing concerns over bank failures.]]></content:encoded>
+            <dc:title><![CDATA[Science strengthened banks — but how long will stability last?]]></dc:title>
+            <dc:creator>Mark Buchanan</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01291-8</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-19; | doi:10.1038/d41586-023-01291-8</dc:source>
+            <dc:date>2023-04-19</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01291-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01291-8</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01294-5">
+            <title><![CDATA[Strengthen links between science and high finance]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01294-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 19 April 2023; <a href="https://www.nature.com/articles/d41586-023-01294-5">doi:10.1038/d41586-023-01294-5</a></p>Influential studies have helped regulators to spot problems at banks and step in before they spread. But, as the events of the past month show, stability must not be allowed to breed complacency.]]></content:encoded>
+            <dc:title><![CDATA[Strengthen links between science and high finance]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-01294-5</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-19; | doi:10.1038/d41586-023-01294-5</dc:source>
+            <dc:date>2023-04-19</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01294-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01294-5</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-01276-7">
             <title><![CDATA[Rethink changing species names that honour real people]]></title>
@@ -1255,51 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01026-9</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01026-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01271-y">
-            <title><![CDATA[Daily briefing: How to stem the tide of plastic waste]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01271-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 12 April 2023; <a href="https://www.nature.com/articles/d41586-023-01271-y">doi:10.1038/d41586-023-01271-y</a></p>More-sophisticated policies, smarter recycling and new materials could solve the plastics pollution crisis. Plus, crazy ants’ strange genomes are a biological first and US drug firms say that an abortion-pill ruling threatens the FDA’s authority.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: How to stem the tide of plastic waste]]></dc:title>
-            <dc:creator>Flora Graham</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01271-y</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-12; | doi:10.1038/d41586-023-01271-y</dc:source>
-            <dc:date>2023-04-12</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01271-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01271-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-00971-9">
-            <title><![CDATA[The forever family]]></title>
-            <link>https://www.nature.com/articles/d41586-023-00971-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 12 April 2023; <a href="https://www.nature.com/articles/d41586-023-00971-9">doi:10.1038/d41586-023-00971-9</a></p>A place to be happy?]]></content:encoded>
-            <dc:title><![CDATA[The forever family]]></dc:title>
-            <dc:creator>Shari Garmise</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-00971-9</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-12; | doi:10.1038/d41586-023-00971-9</dc:source>
-            <dc:date>2023-04-12</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-00971-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-00971-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-00979-1">
-            <title><![CDATA[Earth’s molten youth had long-lasting consequences]]></title>
-            <link>https://www.nature.com/articles/d41586-023-00979-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 12 April 2023; <a href="https://www.nature.com/articles/d41586-023-00979-1">doi:10.1038/d41586-023-00979-1</a></p>A model shows that key physical properties of our planet, from the density of its iron core to its water, could have been set by interactions between a magma ocean and an early hydrogen atmosphere that was lost to space.]]></content:encoded>
-            <dc:title><![CDATA[Earth’s molten youth had long-lasting consequences]]></dc:title>
-            <dc:creator>Sean N. Raymond</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-00979-1</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-12; | doi:10.1038/d41586-023-00979-1</dc:source>
-            <dc:date>2023-04-12</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-00979-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-00979-1</prism:url>
         </item>
     
 </rdf:RDF>
