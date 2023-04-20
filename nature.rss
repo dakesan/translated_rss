@@ -18,6 +18,8 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01317-1"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06075-8"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-05865-4"/>
@@ -166,8 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01040-x"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01262-z"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,21 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01317-1">
+            <title><![CDATA[Disasters happen — here’s how to soften their blow in the lab]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01317-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 20 April 2023; <a href="https://www.nature.com/articles/d41586-023-01317-1">doi:10.1038/d41586-023-01317-1</a></p>Preparation and flexibility are key to a smooth recovery.]]></content:encoded>
+            <dc:title><![CDATA[Disasters happen — here’s how to soften their blow in the lab]]></dc:title>
+            <dc:creator>Alla Katsnelson</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01317-1</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-20; | doi:10.1038/d41586-023-01317-1</dc:source>
+            <dc:date>2023-04-20</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01317-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01317-1</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06075-8">
             <title><![CDATA[Strain-promoted reactions of 1,2,3-cyclohexatriene and its derivatives]]></title>
@@ -451,7 +466,7 @@
             <title><![CDATA[Racial inequalities deepened in US prisons during COVID]]></title>
             <link>https://www.nature.com/articles/d41586-023-01311-7</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 19 April 2023; <a href="https://www.nature.com/articles/d41586-023-01311-7">doi:10.1038/d41586-023-01311-7</a></p>The proportion of incarcerated people who were Black and Latino increased during the pandemic, mainly because of sentencing differences.]]></content:encoded>
+                <![CDATA[<p>Nature, Published online: 19 April 2023; <a href="https://www.nature.com/articles/d41586-023-01311-7">doi:10.1038/d41586-023-01311-7</a></p>The proportion of incarcerated people who were Black or Latino increased during the pandemic, mainly because of sentencing differences.]]></content:encoded>
             <dc:title><![CDATA[Racial inequalities deepened in US prisons during COVID]]></dc:title>
             <dc:creator>Myriam Vidal Valero</dc:creator>
             <dc:identifier>doi:10.1038/d41586-023-01311-7</dc:identifier>
@@ -1285,21 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01040-x</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01040-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01262-z">
-            <title><![CDATA[Octopuses hunt by ‘tasting’ with their suckers]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01262-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 12 April 2023; <a href="https://www.nature.com/articles/d41586-023-01262-z">doi:10.1038/d41586-023-01262-z</a></p>The receptors that help octopuses sense by touch, plus a round-up of stories from the Nature Briefing.]]></content:encoded>
-            <dc:title><![CDATA[Octopuses hunt by ‘tasting’ with their suckers]]></dc:title>
-            <dc:creator>Benjamin Thompson</dc:creator><dc:creator>Nick Petrić Howe</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01262-z</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-12; | doi:10.1038/d41586-023-01262-z</dc:source>
-            <dc:date>2023-04-12</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01262-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01262-z</prism:url>
         </item>
     
 </rdf:RDF>
