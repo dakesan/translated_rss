@@ -18,7 +18,23 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01281-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01280-x"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01349-7"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01378-2"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01317-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01376-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01379-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01381-7"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01377-3"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06075-8"/>
                 
@@ -59,6 +75,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01311-7"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-00918-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01319-z"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01302-8"/>
                 
@@ -110,6 +128,8 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01301-9"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01282-9"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-05903-1"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01285-6"/>
@@ -148,26 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01297-2"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01029-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01031-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01035-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-05776-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01290-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01286-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01268-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-05871-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01033-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01040-x"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,66 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01281-w">
+            <title><![CDATA[How CubeSats could harm the ozone layer]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01281-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 20 April 2023; <a href="https://www.nature.com/articles/d41586-023-01281-w">doi:10.1038/d41586-023-01281-w</a></p>The proliferation of miniature satellites — and a possible switch to iodine exhaust — could have unintended consequences.]]></content:encoded>
+            <dc:title><![CDATA[How CubeSats could harm the ozone layer]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-01281-w</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-20; | doi:10.1038/d41586-023-01281-w</dc:source>
+            <dc:date>2023-04-20</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01281-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01281-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01280-x">
+            <title><![CDATA[Floods claim more lives where inequality reigns]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01280-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 20 April 2023; <a href="https://www.nature.com/articles/d41586-023-01280-x">doi:10.1038/d41586-023-01280-x</a></p>Flood mortality rates are far higher in countries with larger income disparities.]]></content:encoded>
+            <dc:title><![CDATA[Floods claim more lives where inequality reigns]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-01280-x</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-20; | doi:10.1038/d41586-023-01280-x</dc:source>
+            <dc:date>2023-04-20</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01280-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01280-x</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01349-7">
+            <title><![CDATA[Tasmanian devils’ contagious cancers sequenced for first time]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01349-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 20 April 2023; <a href="https://www.nature.com/articles/d41586-023-01349-7">doi:10.1038/d41586-023-01349-7</a></p>Detailed genetic map pinpoints the tumours’ origins, and hints at their future evolution.]]></content:encoded>
+            <dc:title><![CDATA[Tasmanian devils’ contagious cancers sequenced for first time]]></dc:title>
+            <dc:creator>Gemma Conroy</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01349-7</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-20; | doi:10.1038/d41586-023-01349-7</dc:source>
+            <dc:date>2023-04-20</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01349-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01349-7</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01378-2">
+            <title><![CDATA[White House to tap cancer leader Monica Bertagnolli as new NIH director]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01378-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 20 April 2023; <a href="https://www.nature.com/articles/d41586-023-01378-2">doi:10.1038/d41586-023-01378-2</a></p>Long-awaited choice comes more than a year after Francis Collins resigned as director of the largest public funder of biomedical research in the world.]]></content:encoded>
+            <dc:title><![CDATA[White House to tap cancer leader Monica Bertagnolli as new NIH director]]></dc:title>
+            <dc:creator>Max Kozlov</dc:creator><dc:creator>Heidi Ledford</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01378-2</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-20; | doi:10.1038/d41586-023-01378-2</dc:source>
+            <dc:date>2023-04-20</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01378-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01378-2</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-01317-1">
             <title><![CDATA[Disasters happen — here’s how to soften their blow in the lab]]></title>
@@ -190,6 +250,66 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01317-1</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01317-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01376-4">
+            <title><![CDATA[Drugs give biology's favourite worms the munchies too]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01376-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 20 April 2023; <a href="https://www.nature.com/articles/d41586-023-01376-4">doi:10.1038/d41586-023-01376-4</a></p>Experiments with C. elegans suggest that the mechanism by which cannabis affects appetite evolved 500 million years ago.]]></content:encoded>
+            <dc:title><![CDATA[Drugs give biology's favourite worms the munchies too]]></dc:title>
+            <dc:creator>Elissa Welle</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01376-4</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-20; | doi:10.1038/d41586-023-01376-4</dc:source>
+            <dc:date>2023-04-20</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01376-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01376-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01379-1">
+            <title><![CDATA[Australian researchers welcome plan to curb politicians’ power to veto grants]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01379-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 20 April 2023; <a href="https://www.nature.com/articles/d41586-023-01379-1">doi:10.1038/d41586-023-01379-1</a></p>Under new proposals, ministerial intervention would be limited to projects where national security is at stake.]]></content:encoded>
+            <dc:title><![CDATA[Australian researchers welcome plan to curb politicians’ power to veto grants]]></dc:title>
+            <dc:creator>Dyani Lewis</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01379-1</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-20; | doi:10.1038/d41586-023-01379-1</dc:source>
+            <dc:date>2023-04-20</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01379-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01379-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01381-7">
+            <title><![CDATA[Comb jellies’ unique fused neurons challenge evolution ideas]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01381-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 20 April 2023; <a href="https://www.nature.com/articles/d41586-023-01381-7">doi:10.1038/d41586-023-01381-7</a></p>Fused neurons suggest ctenophores’ nervous system evolved independently of that in other animals.]]></content:encoded>
+            <dc:title><![CDATA[Comb jellies’ unique fused neurons challenge evolution ideas]]></dc:title>
+            <dc:creator>Mariana Lenharo</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01381-7</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-20; | doi:10.1038/d41586-023-01381-7</dc:source>
+            <dc:date>2023-04-20</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01381-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01381-7</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01377-3">
+            <title><![CDATA[SpaceX Starship: launch of biggest-ever rocket ends with explosion]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01377-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 20 April 2023; <a href="https://www.nature.com/articles/d41586-023-01377-3">doi:10.1038/d41586-023-01377-3</a></p>The SpaceX rocket made it partially through its first full test. It could change astrophysics and astronomy, as well as ferry people to the Moon and Mars.]]></content:encoded>
+            <dc:title><![CDATA[SpaceX Starship: launch of biggest-ever rocket ends with explosion]]></dc:title>
+            <dc:creator>Alexandra Witze</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01377-3</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-20; | doi:10.1038/d41586-023-01377-3</dc:source>
+            <dc:date>2023-04-20</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01377-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01377-3</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06075-8">
@@ -490,6 +610,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-00918-0</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-00918-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01319-z">
+            <title><![CDATA[Daily briefing: Immunize the financial system against ‘superspreader’ bank failures]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01319-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 19 April 2023; <a href="https://www.nature.com/articles/d41586-023-01319-z">doi:10.1038/d41586-023-01319-z</a></p>Ecology and infectious-disease science can help avert financial crises. Plus, Earth’s giant kelp forests are worth $500 billion a year and the amateur variant-sleuths helping scientists to track SARS-CoV-2.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Immunize the financial system against ‘superspreader’ bank failures]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01319-z</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-19; | doi:10.1038/d41586-023-01319-z</dc:source>
+            <dc:date>2023-04-19</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01319-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01319-z</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-01302-8">
@@ -867,6 +1002,21 @@
             <prism:url>https://www.nature.com/articles/d41586-023-01301-9</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01282-9">
+            <title><![CDATA[Amber reveals beetles with a fluffy diet: dinosaur feathers]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01282-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 17 April 2023; <a href="https://www.nature.com/articles/d41586-023-01282-9">doi:10.1038/d41586-023-01282-9</a></p>Larvae that fed on ancient plumage reveal the deep roots of keratin-eating insects.]]></content:encoded>
+            <dc:title><![CDATA[Amber reveals beetles with a fluffy diet: dinosaur feathers]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-01282-9</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-17; | doi:10.1038/d41586-023-01282-9</dc:source>
+            <dc:date>2023-04-17</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01282-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01282-9</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/s41586-023-05903-1">
             <title><![CDATA[Human-induced weakening of the Northern Hemisphere tropical circulation]]></title>
             <link>https://www.nature.com/articles/s41586-023-05903-1</link>
@@ -1150,156 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01297-2</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01297-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01029-6">
-            <title><![CDATA[Physicists’ advice on how to swing high at the playground]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01029-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 April 2023; <a href="https://www.nature.com/articles/d41586-023-01029-6">doi:10.1038/d41586-023-01029-6</a></p>Models and laboratory swings show the precise motions needed to maximize movement.]]></content:encoded>
-            <dc:title><![CDATA[Physicists’ advice on how to swing high at the playground]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-01029-6</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-13; | doi:10.1038/d41586-023-01029-6</dc:source>
-            <dc:date>2023-04-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01029-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01029-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01031-y">
-            <title><![CDATA[Sunshine is transformed into green hydrogen on an ambitious scale]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01031-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 April 2023; <a href="https://www.nature.com/articles/d41586-023-01031-y">doi:10.1038/d41586-023-01031-y</a></p>Prototype facility smashes record for converting solar power to hydrogen for its technology category.]]></content:encoded>
-            <dc:title><![CDATA[Sunshine is transformed into green hydrogen on an ambitious scale]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-01031-y</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-13; | doi:10.1038/d41586-023-01031-y</dc:source>
-            <dc:date>2023-04-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01031-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01031-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01035-8">
-            <title><![CDATA[Lab-grown fat with texture like the real thing could enrich cultured meat]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01035-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 April 2023; <a href="https://www.nature.com/articles/d41586-023-01035-8">doi:10.1038/d41586-023-01035-8</a></p>Approach could make it easier to scale up production of cultivated meat.]]></content:encoded>
-            <dc:title><![CDATA[Lab-grown fat with texture like the real thing could enrich cultured meat]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-01035-8</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-13; | doi:10.1038/d41586-023-01035-8</dc:source>
-            <dc:date>2023-04-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01035-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01035-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-05776-4">
-            <title><![CDATA[Tracking early lung cancer metastatic dissemination in TRACERx using ctDNA]]></title>
-            <link>https://www.nature.com/articles/s41586-023-05776-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 April 2023; <a href="https://www.nature.com/articles/s41586-023-05776-4">doi:10.1038/s41586-023-05776-4</a></p>Measurements of subclonal expansion of ctDNA in the plasma before surgery may enable the prediction of future metastatic subclones, offering the possibility for early intervention in patients with non-small-cell lung cancer.]]></content:encoded>
-            <dc:title><![CDATA[Tracking early lung cancer metastatic dissemination in TRACERx using ctDNA]]></dc:title>
-            <dc:creator>Christopher Abbosh</dc:creator><dc:creator>Alexander M. Frankell</dc:creator><dc:creator>Thomas Harrison</dc:creator><dc:creator>Judit Kisistok</dc:creator><dc:creator>Aaron Garnett</dc:creator><dc:creator>Laura Johnson</dc:creator><dc:creator>Selvaraju Veeriah</dc:creator><dc:creator>Mike Moreau</dc:creator><dc:creator>Adrian Chesh</dc:creator><dc:creator>Tafadzwa L. Chaunzwa</dc:creator><dc:creator>Jakob Weiss</dc:creator><dc:creator>Morgan R. Schroeder</dc:creator><dc:creator>Sophia Ward</dc:creator><dc:creator>Kristiana Grigoriadis</dc:creator><dc:creator>Aamir Shahpurwalla</dc:creator><dc:creator>Kevin Litchfield</dc:creator><dc:creator>Clare Puttick</dc:creator><dc:creator>Dhruva Biswas</dc:creator><dc:creator>Takahiro Karasaki</dc:creator><dc:creator>James R. M. Black</dc:creator><dc:creator>Carlos Martínez-Ruiz</dc:creator><dc:creator>Maise Al Bakir</dc:creator><dc:creator>Oriol Pich</dc:creator><dc:creator>Thomas B. K. Watkins</dc:creator><dc:creator>Emilia L. Lim</dc:creator><dc:creator>Ariana Huebner</dc:creator><dc:creator>David A. Moore</dc:creator><dc:creator>Nadia Godin-Heymann</dc:creator><dc:creator>Anne L’Hernault</dc:creator><dc:creator>Hannah Bye</dc:creator><dc:creator>Aaron Odell</dc:creator><dc:creator>Paula Roberts</dc:creator><dc:creator>Fabio Gomes</dc:creator><dc:creator>Akshay J. Patel</dc:creator><dc:creator>Elizabeth Manzano</dc:creator><dc:creator>Crispin T. Hiley</dc:creator><dc:creator>Nicolas Carey</dc:creator><dc:creator>Joan Riley</dc:creator><dc:creator>Daniel E. Cook</dc:creator><dc:creator>Darren Hodgson</dc:creator><dc:creator>Daniel Stetson</dc:creator><dc:creator>J. Carl Barrett</dc:creator><dc:creator>Roderik M. Kortlever</dc:creator><dc:creator>Gerard I. Evan</dc:creator><dc:creator>Allan Hackshaw</dc:creator><dc:creator>Robert D. Daber</dc:creator><dc:creator>Jacqui A. Shaw</dc:creator><dc:creator>Hugo J. W. L. Aerts</dc:creator><dc:creator>Abel Licon</dc:creator><dc:creator>Josh Stahl</dc:creator><dc:creator>Mariam Jamal-Hanjani</dc:creator><dc:creator>Jason F. Lester</dc:creator><dc:creator>Amrita Bajaj</dc:creator><dc:creator>Apostolos Nakas</dc:creator><dc:creator>Azmina Sodha-Ramdeen</dc:creator><dc:creator>Keng Ang</dc:creator><dc:creator>Mohamad Tufail</dc:creator><dc:creator>Mohammed Fiyaz Chowdhry</dc:creator><dc:creator>Molly Scotland</dc:creator><dc:creator>Rebecca Boyles</dc:creator><dc:creator>Sridhar Rathinam</dc:creator><dc:creator>Claire Wilson</dc:creator><dc:creator>Domenic Marrone</dc:creator><dc:creator>Sean Dulloo</dc:creator><dc:creator>Dean A. Fennell</dc:creator><dc:creator>Gurdeep Matharu</dc:creator><dc:creator>Lindsay Primrose</dc:creator><dc:creator>Ekaterini Boleti</dc:creator><dc:creator>Heather Cheyne</dc:creator><dc:creator>Mohammed Khalil</dc:creator><dc:creator>Shirley Richardson</dc:creator><dc:creator>Tracey Cruickshank</dc:creator><dc:creator>Gillian Price</dc:creator><dc:creator>Keith M. Kerr</dc:creator><dc:creator>Sarah Benafif</dc:creator><dc:creator>Kayleigh Gilbert</dc:creator><dc:creator>Babu Naidu</dc:creator><dc:creator>Aya Osman</dc:creator><dc:creator>Christer Lacson</dc:creator><dc:creator>Gerald Langman</dc:creator><dc:creator>Helen Shackleford</dc:creator><dc:creator>Madava Djearaman</dc:creator><dc:creator>Salma Kadiri</dc:creator><dc:creator>Gary Middleton</dc:creator><dc:creator>Angela Leek</dc:creator><dc:creator>Jack Davies Hodgkinson</dc:creator><dc:creator>Nicola Totten</dc:creator><dc:creator>Angeles Montero</dc:creator><dc:creator>Elaine Smith</dc:creator><dc:creator>Eustace Fontaine</dc:creator><dc:creator>Felice Granato</dc:creator><dc:creator>Helen Doran</dc:creator><dc:creator>Juliette Novasio</dc:creator><dc:creator>Kendadai Rammohan</dc:creator><dc:creator>Leena Joseph</dc:creator><dc:creator>Paul Bishop</dc:creator><dc:creator>Rajesh Shah</dc:creator><dc:creator>Stuart Moss</dc:creator><dc:creator>Vijay Joshi</dc:creator><dc:creator>Philip Crosbie</dc:creator><dc:creator>Kate Brown</dc:creator><dc:creator>Mathew Carter</dc:creator><dc:creator>Anshuman Chaturvedi</dc:creator><dc:creator>Lynsey Priest</dc:creator><dc:creator>Pedro Oliveira</dc:creator><dc:creator>Colin R. Lindsay</dc:creator><dc:creator>Fiona H. Blackhall</dc:creator><dc:creator>Matthew G. Krebs</dc:creator><dc:creator>Yvonne Summers</dc:creator><dc:creator>Alexandra Clipson</dc:creator><dc:creator>Jonathan Tugwood</dc:creator><dc:creator>Alastair Kerr</dc:creator><dc:creator>Dominic G. Rothwell</dc:creator><dc:creator>Elaine Kilgour</dc:creator><dc:creator>Caroline Dive</dc:creator><dc:creator>Roland F. Schwarz</dc:creator><dc:creator>Tom L. Kaufmann</dc:creator><dc:creator>Gareth A. Wilson</dc:creator><dc:creator>Rachel Rosenthal</dc:creator><dc:creator>Peter Van Loo</dc:creator><dc:creator>Zoltan Szallasi</dc:creator><dc:creator>Mateo Sokac</dc:creator><dc:creator>Roberto Salgado</dc:creator><dc:creator>Miklos Diossy</dc:creator><dc:creator>Jonas Demeulemeester</dc:creator><dc:creator>Abigail Bunkum</dc:creator><dc:creator>Aengus Stewart</dc:creator><dc:creator>Alastair Magness</dc:creator><dc:creator>Andrew Rowan</dc:creator><dc:creator>Angeliki Karamani</dc:creator><dc:creator>Antonia Toncheva</dc:creator><dc:creator>Benny Chain</dc:creator><dc:creator>Brittany B. Campbell</dc:creator><dc:creator>Carla Castignani</dc:creator><dc:creator>Chris Bailey</dc:creator><dc:creator>Clare E. Weeden</dc:creator><dc:creator>Claudia Lee</dc:creator><dc:creator>Corentin Richard</dc:creator><dc:creator>Cristina Naceur-Lombardelli</dc:creator><dc:creator>David R. Pearce</dc:creator><dc:creator>Despoina Karagianni</dc:creator><dc:creator>Dina Levi</dc:creator><dc:creator>Elena Hoxha</dc:creator><dc:creator>Elizabeth Larose Cadieux</dc:creator><dc:creator>Emma Colliver</dc:creator><dc:creator>Emma Nye</dc:creator><dc:creator>Eva Grönroos</dc:creator><dc:creator>Felip Gálvez-Cancino</dc:creator><dc:creator>Foteini Athanasopoulou</dc:creator><dc:creator>Francisco Gimeno-Valiente</dc:creator><dc:creator>George Kassiotis</dc:creator><dc:creator>Georgia Stavrou</dc:creator><dc:creator>Gerasimos Mastrokalos</dc:creator><dc:creator>Haoran Zhai</dc:creator><dc:creator>Helen L. Lowe</dc:creator><dc:creator>Ignacio Matos</dc:creator><dc:creator>Jacki Goldman</dc:creator><dc:creator>James L. Reading</dc:creator><dc:creator>Javier Herrero</dc:creator><dc:creator>Jayant K. Rane</dc:creator><dc:creator>Jerome Nicod</dc:creator><dc:creator>Jie Min Lam</dc:creator><dc:creator>John A. Hartley</dc:creator><dc:creator>Karl S. Peggs</dc:creator><dc:creator>Katey S. S. Enfield</dc:creator><dc:creator>Kayalvizhi Selvaraju</dc:creator><dc:creator>Kerstin Thol</dc:creator><dc:creator>Kevin W. Ng</dc:creator><dc:creator>Kezhong Chen</dc:creator><dc:creator>Krijn Dijkstra</dc:creator><dc:creator>Krupa Thakkar</dc:creator><dc:creator>Leah Ensell</dc:creator><dc:creator>Mansi Shah</dc:creator><dc:creator>Marcos Vasquez</dc:creator><dc:creator>Maria Litovchenko</dc:creator><dc:creator>Mariana Werner Sunderland</dc:creator><dc:creator>Mark S. Hill</dc:creator><dc:creator>Michelle Dietzen</dc:creator><dc:creator>Michelle Leung</dc:creator><dc:creator>Mickael Escudero</dc:creator><dc:creator>Mihaela Angelova</dc:creator><dc:creator>Miljana Tanić</dc:creator><dc:creator>Monica Sivakumar</dc:creator><dc:creator>Nnennaya Kanu</dc:creator><dc:creator>Olga Chervova</dc:creator><dc:creator>Olivia Lucas</dc:creator><dc:creator>Othman Al-Sawaf</dc:creator><dc:creator>Paulina Prymas</dc:creator><dc:creator>Philip Hobson</dc:creator><dc:creator>Piotr Pawlik</dc:creator><dc:creator>Richard Kevin Stone</dc:creator><dc:creator>Robert Bentham</dc:creator><dc:creator>Robert E. Hynds</dc:creator><dc:creator>Roberto Vendramin</dc:creator><dc:creator>Sadegh Saghafinia</dc:creator><dc:creator>Saioa López</dc:creator><dc:creator>Samuel Gamble</dc:creator><dc:creator>Seng Kuong Anakin Ung</dc:creator><dc:creator>Sergio A. Quezada</dc:creator><dc:creator>Sharon Vanloo</dc:creator><dc:creator>Simone Zaccaria</dc:creator><dc:creator>Sonya Hessey</dc:creator><dc:creator>Stefan Boeing</dc:creator><dc:creator>Stephan Beck</dc:creator><dc:creator>Supreet Kaur Bola</dc:creator><dc:creator>Tamara Denner</dc:creator><dc:creator>Teresa Marafioti</dc:creator><dc:creator>Thanos P. Mourikis</dc:creator><dc:creator>Victoria Spanswick</dc:creator><dc:creator>Vittorio Barbè</dc:creator><dc:creator>Wei-Ting Lu</dc:creator><dc:creator>William Hill</dc:creator><dc:creator>Wing Kin Liu</dc:creator><dc:creator>Yin Wu</dc:creator><dc:creator>Yutaka Naito</dc:creator><dc:creator>Zoe Ramsden</dc:creator><dc:creator>Catarina Veiga</dc:creator><dc:creator>Gary Royle</dc:creator><dc:creator>Charles-Antoine Collins-Fekete</dc:creator><dc:creator>Francesco Fraioli</dc:creator><dc:creator>Paul Ashford</dc:creator><dc:creator>Tristan Clark</dc:creator><dc:creator>Martin D. Forster</dc:creator><dc:creator>Siow Ming Lee</dc:creator><dc:creator>Elaine Borg</dc:creator><dc:creator>Mary Falzon</dc:creator><dc:creator>Dionysis Papadatos-Pastos</dc:creator><dc:creator>James Wilson</dc:creator><dc:creator>Tanya Ahmad</dc:creator><dc:creator>Alexander James Procter</dc:creator><dc:creator>Asia Ahmed</dc:creator><dc:creator>Magali N. Taylor</dc:creator><dc:creator>Arjun Nair</dc:creator><dc:creator>David Lawrence</dc:creator><dc:creator>Davide Patrini</dc:creator><dc:creator>Neal Navani</dc:creator><dc:creator>Ricky M. Thakrar</dc:creator><dc:creator>Sam M. Janes</dc:creator><dc:creator>Emilie Martinoni Hoogenboom</dc:creator><dc:creator>Fleur Monk</dc:creator><dc:creator>James W. Holding</dc:creator><dc:creator>Junaid Choudhary</dc:creator><dc:creator>Kunal Bhakhri</dc:creator><dc:creator>Marco Scarci</dc:creator><dc:creator>Martin Hayward</dc:creator><dc:creator>Nikolaos Panagiotopoulos</dc:creator><dc:creator>Pat Gorman</dc:creator><dc:creator>Reena Khiroya</dc:creator><dc:creator>Robert CM. Stephens</dc:creator><dc:creator>Yien Ning Sophia Wong</dc:creator><dc:creator>Steve Bandula</dc:creator><dc:creator>Abigail Sharp</dc:creator><dc:creator>Sean Smith</dc:creator><dc:creator>Nicole Gower</dc:creator><dc:creator>Harjot Kaur Dhanda</dc:creator><dc:creator>Kitty Chan</dc:creator><dc:creator>Camilla Pilotti</dc:creator><dc:creator>Rachel Leslie</dc:creator><dc:creator>Anca Grapa</dc:creator><dc:creator>Hanyun Zhang</dc:creator><dc:creator>Khalid AbdulJabbar</dc:creator><dc:creator>Xiaoxi Pan</dc:creator><dc:creator>Yinyin Yuan</dc:creator><dc:creator>David Chuter</dc:creator><dc:creator>Mairead MacKenzie</dc:creator><dc:creator>Serena Chee</dc:creator><dc:creator>Aiman Alzetani</dc:creator><dc:creator>Judith Cave</dc:creator><dc:creator>Lydia Scarlett</dc:creator><dc:creator>Jennifer Richards</dc:creator><dc:creator>Papawadee Ingram</dc:creator><dc:creator>Silvia Austin</dc:creator><dc:creator>Eric Lim</dc:creator><dc:creator>Paulo De Sousa</dc:creator><dc:creator>Simon Jordan</dc:creator><dc:creator>Alexandra Rice</dc:creator><dc:creator>Hilgardt Raubenheimer</dc:creator><dc:creator>Harshil Bhayani</dc:creator><dc:creator>Lyn Ambrose</dc:creator><dc:creator>Anand Devaraj</dc:creator><dc:creator>Hema Chavan</dc:creator><dc:creator>Sofina Begum</dc:creator><dc:creator>Silviu I. Buderi</dc:creator><dc:creator>Daniel Kaniu</dc:creator><dc:creator>Mpho Malima</dc:creator><dc:creator>Sarah Booth</dc:creator><dc:creator>Andrew G. Nicholson</dc:creator><dc:creator>Nadia Fernandes</dc:creator><dc:creator>Pratibha Shah</dc:creator><dc:creator>Chiara Proli</dc:creator><dc:creator>Madeleine Hewish</dc:creator><dc:creator>Sarah Danson</dc:creator><dc:creator>Michael J. Shackcloth</dc:creator><dc:creator>Lily Robinson</dc:creator><dc:creator>Peter Russell</dc:creator><dc:creator>Kevin G. Blyth</dc:creator><dc:creator>Craig Dick</dc:creator><dc:creator>John Le Quesne</dc:creator><dc:creator>Alan Kirk</dc:creator><dc:creator>Mo Asif</dc:creator><dc:creator>Rocco Bilancia</dc:creator><dc:creator>Nikos Kostoulas</dc:creator><dc:creator>Mathew Thomas</dc:creator><dc:creator>Nicolai J. Birkbak</dc:creator><dc:creator>Nicholas McGranahan</dc:creator><dc:creator>Charles Swanton</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-05776-4</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-13; | doi:10.1038/s41586-023-05776-4</dc:source>
-            <dc:date>2023-04-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-05776-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-05776-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01290-9">
-            <title><![CDATA[Daily briefing: A cellular cause of ageing (and how to reverse it)]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01290-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 April 2023; <a href="https://www.nature.com/articles/d41586-023-01290-9">doi:10.1038/d41586-023-01290-9</a></p>Ageing speeds up RNA ‘transcription’ — and slowing it down seems to make animals live longer. Plus, how octopuses taste with their arms and hidden life in the Arctic after dark.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: A cellular cause of ageing (and how to reverse it)]]></dc:title>
-            <dc:creator>Flora Graham</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01290-9</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-13; | doi:10.1038/d41586-023-01290-9</dc:source>
-            <dc:date>2023-04-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01290-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01290-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01286-5">
-            <title><![CDATA[University of Groningen faces growing calls to reinstate sacked gender-equality researcher]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01286-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 April 2023; <a href="https://www.nature.com/articles/d41586-023-01286-5">doi:10.1038/d41586-023-01286-5</a></p>Supporters of Susanne Täuber say her dismissal is a blow for academic freedom, with thousands signing a petition demanding she be allowed to return to work.]]></content:encoded>
-            <dc:title><![CDATA[University of Groningen faces growing calls to reinstate sacked gender-equality researcher]]></dc:title>
-            <dc:creator>Anne Gulland</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01286-5</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-13; | doi:10.1038/d41586-023-01286-5</dc:source>
-            <dc:date>2023-04-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01286-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01286-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01268-7">
-            <title><![CDATA[European Union appeals for interdisciplinary collaboration in new funding model]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01268-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 April 2023; <a href="https://www.nature.com/articles/d41586-023-01268-7">doi:10.1038/d41586-023-01268-7</a></p>Brussels hopes that getting scientists from different fields to work together on big issues will bring innovations such as viable hydrogen energy infrastructure to the market more quickly.]]></content:encoded>
-            <dc:title><![CDATA[European Union appeals for interdisciplinary collaboration in new funding model]]></dc:title>
-            <dc:creator>Charles Ebikeme</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01268-7</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-13; | doi:10.1038/d41586-023-01268-7</dc:source>
-            <dc:date>2023-04-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01268-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01268-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-05871-6">
-            <title><![CDATA[On the evidence of a trend in the CO<sub>2</sub> airborne fraction]]></title>
-            <link>https://www.nature.com/articles/s41586-023-05871-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 12 April 2023; <a href="https://www.nature.com/articles/s41586-023-05871-6">doi:10.1038/s41586-023-05871-6</a></p>On the evidence of a trend in the CO<sub>2</sub> airborne fraction]]></content:encoded>
-            <dc:title><![CDATA[On the evidence of a trend in the CO<sub>2</sub> airborne fraction]]></dc:title>
-            <dc:creator>Mikkel Bennedsen</dc:creator><dc:creator>Eric Hillebrand</dc:creator><dc:creator>Siem Jan Koopman</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-05871-6</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-12; | doi:10.1038/s41586-023-05871-6</dc:source>
-            <dc:date>2023-04-12</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-05871-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-05871-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01033-w">
-            <title><![CDATA[Better than Chanel: perfumed male bees draw more mates]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01033-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 12 April 2023; <a href="https://www.nature.com/articles/d41586-023-01033-w">doi:10.1038/d41586-023-01033-w</a></p>A daub of floral scent gives male orchid bees a leg-up on fathering offspring.]]></content:encoded>
-            <dc:title><![CDATA[Better than Chanel: perfumed male bees draw more mates]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-01033-w</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-12; | doi:10.1038/d41586-023-01033-w</dc:source>
-            <dc:date>2023-04-12</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01033-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01033-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01040-x">
-            <title><![CDATA[Ageing studies in five animals suggest how to reverse decline]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01040-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 12 April 2023; <a href="https://www.nature.com/articles/d41586-023-01040-x">doi:10.1038/d41586-023-01040-x</a></p>Smoothing the speed bumps in an important cellular pathway seems to be implicated in ageing.]]></content:encoded>
-            <dc:title><![CDATA[Ageing studies in five animals suggest how to reverse decline]]></dc:title>
-            <dc:creator>Gemma Conroy</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01040-x</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-12; | doi:10.1038/d41586-023-01040-x</dc:source>
-            <dc:date>2023-04-12</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01040-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01040-x</prism:url>
         </item>
     
 </rdf:RDF>
