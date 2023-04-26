@@ -18,6 +18,14 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01441-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01370-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01371-9"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01318-0"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01427-w"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01394-2"/>
@@ -59,6 +67,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01423-0"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01430-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01438-7"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01284-7"/>
                 
@@ -158,16 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01276-7"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01274-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01275-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01021-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01045-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01295-4"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,66 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01441-y">
+            <title><![CDATA[Private ispace Moon landing fails: researchers are investigating]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01441-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 26 April 2023; <a href="https://www.nature.com/articles/d41586-023-01441-y">doi:10.1038/d41586-023-01441-y</a></p>Mission control have been unable to re-establish contact with the M1 spacecraft, but early signs suggest it crash landed on the lunar surface.]]></content:encoded>
+            <dc:title><![CDATA[Private ispace Moon landing fails: researchers are investigating]]></dc:title>
+            <dc:creator>Gemma Conroy</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01441-y</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-26; | doi:10.1038/d41586-023-01441-y</dc:source>
+            <dc:date>2023-04-26</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01441-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01441-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01370-w">
+            <title><![CDATA[Rewilding the planet: how seven artificial islands could help a dying Dutch lake]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01370-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 26 April 2023; <a href="https://www.nature.com/articles/d41586-023-01370-w">doi:10.1038/d41586-023-01370-w</a></p>An archipelago constructed of sand and mud is bringing new life to a dead lake but can this bold experiment have a lasting impact?]]></content:encoded>
+            <dc:title><![CDATA[Rewilding the planet: how seven artificial islands could help a dying Dutch lake]]></dc:title>
+            <dc:creator>Aisling Irwin</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01370-w</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-26; | doi:10.1038/d41586-023-01370-w</dc:source>
+            <dc:date>2023-04-26</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01370-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01370-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01371-9">
+            <title><![CDATA[Are repeat COVID infections dangerous? What the science says]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01371-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 26 April 2023; <a href="https://www.nature.com/articles/d41586-023-01371-9">doi:10.1038/d41586-023-01371-9</a></p>Researchers disagree over how bad it is to be reinfected, and whether COVID-19 can cause lasting changes to the immune system.]]></content:encoded>
+            <dc:title><![CDATA[Are repeat COVID infections dangerous? What the science says]]></dc:title>
+            <dc:creator>Cassandra Willyard</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01371-9</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-26; | doi:10.1038/d41586-023-01371-9</dc:source>
+            <dc:date>2023-04-26</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01371-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01371-9</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01318-0">
+            <title><![CDATA[Change YourView]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01318-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 26 April 2023; <a href="https://www.nature.com/articles/d41586-023-01318-0">doi:10.1038/d41586-023-01318-0</a></p>The world is just enough.]]></content:encoded>
+            <dc:title><![CDATA[Change YourView]]></dc:title>
+            <dc:creator>Matt Tighe</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01318-0</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-26; | doi:10.1038/d41586-023-01318-0</dc:source>
+            <dc:date>2023-04-26</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01318-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01318-0</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-01427-w">
             <title><![CDATA[Goldfish headgear reveals secrets of fish navigation]]></title>
@@ -490,6 +550,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01430-1</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01430-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01438-7">
+            <title><![CDATA[Daily briefing: First close-up images of tiny Mars moonlet]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01438-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 24 April 2023; <a href="https://www.nature.com/articles/d41586-023-01438-7">doi:10.1038/d41586-023-01438-7</a></p>Stunning shots of Mars’s moon Deimos hint at secrets of its formation. Plus, a milestone in ancient-human DNA and scientists taught parrots to video call each other.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: First close-up images of tiny Mars moonlet]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01438-7</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-24; | doi:10.1038/d41586-023-01438-7</dc:source>
+            <dc:date>2023-04-24</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01438-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01438-7</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-01284-7">
@@ -1225,81 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01276-7</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01276-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01274-9">
-            <title><![CDATA[Kurdistan’s boost for science and higher education]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01274-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 18 April 2023; <a href="https://www.nature.com/articles/d41586-023-01274-9">doi:10.1038/d41586-023-01274-9</a></p>Kurdistan’s boost for science and higher education]]></content:encoded>
-            <dc:title><![CDATA[Kurdistan’s boost for science and higher education]]></dc:title>
-            <dc:creator>Amir Chali</dc:creator><dc:creator>Ebrahim Karimi</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01274-9</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-18; | doi:10.1038/d41586-023-01274-9</dc:source>
-            <dc:date>2023-04-18</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01274-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01274-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01275-8">
-            <title><![CDATA[Stat checkers: make reproducible computer code mandatory]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01275-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 18 April 2023; <a href="https://www.nature.com/articles/d41586-023-01275-8">doi:10.1038/d41586-023-01275-8</a></p>Stat checkers: make reproducible computer code mandatory]]></content:encoded>
-            <dc:title><![CDATA[Stat checkers: make reproducible computer code mandatory]]></dc:title>
-            <dc:creator>Dominic Guitard</dc:creator><dc:creator>Sylvain Fiset</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01275-8</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-18; | doi:10.1038/d41586-023-01275-8</dc:source>
-            <dc:date>2023-04-18</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01275-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01275-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01021-0">
-            <title><![CDATA[From the archive: essays reviewing the stages of the atomic model, and a heap of glowing wood]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01021-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 18 April 2023; <a href="https://www.nature.com/articles/d41586-023-01021-0">doi:10.1038/d41586-023-01021-0</a></p>Snippets from Nature’s past.]]></content:encoded>
-            <dc:title><![CDATA[From the archive: essays reviewing the stages of the atomic model, and a heap of glowing wood]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-01021-0</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-18; | doi:10.1038/d41586-023-01021-0</dc:source>
-            <dc:date>2023-04-18</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01021-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01021-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01045-6">
-            <title><![CDATA[Private companies are flocking to the Moon — what does that mean for science?]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01045-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 18 April 2023; <a href="https://www.nature.com/articles/d41586-023-01045-6">doi:10.1038/d41586-023-01045-6</a></p>A raft of commercial lunar missions are taking off in 2023. The first lander is set to touch down this month, signalling a new era for Moon science and exploration.]]></content:encoded>
-            <dc:title><![CDATA[Private companies are flocking to the Moon — what does that mean for science?]]></dc:title>
-            <dc:creator>Alexandra Witze</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01045-6</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-18; | doi:10.1038/d41586-023-01045-6</dc:source>
-            <dc:date>2023-04-18</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01045-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01045-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01295-4">
-            <title><![CDATA[Why open-source generative AI models are an ethical way forward for science]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01295-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 18 April 2023; <a href="https://www.nature.com/articles/d41586-023-01295-4">doi:10.1038/d41586-023-01295-4</a></p>Researchers should avoid the lure of proprietary models and develop transparent large language models to ensure reproducibility.]]></content:encoded>
-            <dc:title><![CDATA[Why open-source generative AI models are an ethical way forward for science]]></dc:title>
-            <dc:creator>Arthur Spirling</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01295-4</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-18; | doi:10.1038/d41586-023-01295-4</dc:source>
-            <dc:date>2023-04-18</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01295-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01295-4</prism:url>
         </item>
     
 </rdf:RDF>
