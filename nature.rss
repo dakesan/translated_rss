@@ -18,13 +18,25 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01427-w"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01394-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01354-w"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01392-4"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01393-3"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01412-3"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01389-z"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01369-3"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01390-6"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01313-5"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-05997-7"/>
                 
@@ -156,18 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01295-4"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01307-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01024-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01314-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01293-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01300-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01308-2"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,21 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01427-w">
+            <title><![CDATA[Goldfish headgear reveals secrets of fish navigation]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01427-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 25 April 2023; <a href="https://www.nature.com/articles/d41586-023-01427-w">doi:10.1038/d41586-023-01427-w</a></p>Unprecedented pattern of brain activity is recorded in freely swimming fish.]]></content:encoded>
+            <dc:title><![CDATA[Goldfish headgear reveals secrets of fish navigation]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-01427-w</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-25; | doi:10.1038/d41586-023-01427-w</dc:source>
+            <dc:date>2023-04-25</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01427-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01427-w</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-01394-2">
             <title><![CDATA[Full closure of high seas would triple the benefits]]></title>
@@ -190,6 +205,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01394-2</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01394-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01354-w">
+            <title><![CDATA[From the archive: how several artists’ works mimic impressions made on the eye’s retina, and the curious effects of blue glass on colour]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01354-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 25 April 2023; <a href="https://www.nature.com/articles/d41586-023-01354-w">doi:10.1038/d41586-023-01354-w</a></p>Snippets from Nature’s past.]]></content:encoded>
+            <dc:title><![CDATA[From the archive: how several artists’ works mimic impressions made on the eye’s retina, and the curious effects of blue glass on colour]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-01354-w</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-25; | doi:10.1038/d41586-023-01354-w</dc:source>
+            <dc:date>2023-04-25</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01354-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01354-w</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-01392-4">
@@ -222,6 +252,36 @@
             <prism:url>https://www.nature.com/articles/d41586-023-01393-3</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01412-3">
+            <title><![CDATA[Ancient Norse on Greenland imported wood from distant shores]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01412-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 25 April 2023; <a href="https://www.nature.com/articles/d41586-023-01412-3">doi:10.1038/d41586-023-01412-3</a></p>Settlers brought in hemlock and other types of timber much earlier than previously realized.]]></content:encoded>
+            <dc:title><![CDATA[Ancient Norse on Greenland imported wood from distant shores]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-01412-3</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-25; | doi:10.1038/d41586-023-01412-3</dc:source>
+            <dc:date>2023-04-25</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01412-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01412-3</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01389-z">
+            <title><![CDATA[The gene-therapy revolution risks stalling if we don’t talk about drug pricing]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01389-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 25 April 2023; <a href="https://www.nature.com/articles/d41586-023-01389-z">doi:10.1038/d41586-023-01389-z</a></p>Regulation and new intellectual property laws are needed to reduce the cost of gene-editing treatments and fulfil their promise to improve human health.]]></content:encoded>
+            <dc:title><![CDATA[The gene-therapy revolution risks stalling if we don’t talk about drug pricing]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-01389-z</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-25; | doi:10.1038/d41586-023-01389-z</dc:source>
+            <dc:date>2023-04-25</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01389-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01389-z</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-023-01369-3">
             <title><![CDATA[Suburbs are a climate disaster, but they can be redeemed]]></title>
             <link>https://www.nature.com/articles/d41586-023-01369-3</link>
@@ -235,6 +295,36 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01369-3</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01369-3</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01390-6">
+            <title><![CDATA[How Rosalind Franklin was let down by DNA’s dysfunctional team]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01390-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 25 April 2023; <a href="https://www.nature.com/articles/d41586-023-01390-6">doi:10.1038/d41586-023-01390-6</a></p>The story of how the structure of DNA was found is one of team science from which one member was unforgivably excluded.]]></content:encoded>
+            <dc:title><![CDATA[How Rosalind Franklin was let down by DNA’s dysfunctional team]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-01390-6</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-25; | doi:10.1038/d41586-023-01390-6</dc:source>
+            <dc:date>2023-04-25</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01390-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01390-6</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01313-5">
+            <title><![CDATA[What Rosalind Franklin truly contributed to the discovery of DNA’s structure]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01313-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 25 April 2023; <a href="https://www.nature.com/articles/d41586-023-01313-5">doi:10.1038/d41586-023-01313-5</a></p>Franklin was no victim in how the DNA double helix was solved. An overlooked letter and an unpublished news article, both written in 1953, reveal that she was an equal player.]]></content:encoded>
+            <dc:title><![CDATA[What Rosalind Franklin truly contributed to the discovery of DNA’s structure]]></dc:title>
+            <dc:creator>Matthew  Cobb</dc:creator><dc:creator>Nathaniel   Comfort</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01313-5</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-25; | doi:10.1038/d41586-023-01313-5</dc:source>
+            <dc:date>2023-04-25</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01313-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01313-5</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-05997-7">
@@ -1210,96 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01295-4</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01295-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01307-3">
-            <title><![CDATA[Why Earth’s giant kelp forests are worth $500 billion a year]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01307-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 18 April 2023; <a href="https://www.nature.com/articles/d41586-023-01307-3">doi:10.1038/d41586-023-01307-3</a></p>Analysis estimates that kelp forests are at least three times more valuable for food and the planet than previously thought.]]></content:encoded>
-            <dc:title><![CDATA[Why Earth’s giant kelp forests are worth $500 billion a year]]></dc:title>
-            <dc:creator>Gemma Conroy</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01307-3</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-18; | doi:10.1038/d41586-023-01307-3</dc:source>
-            <dc:date>2023-04-18</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01307-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01307-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01024-x">
-            <title><![CDATA[Learning the metabolic language of cancer]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01024-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 18 April 2023; <a href="https://www.nature.com/articles/d41586-023-01024-x">doi:10.1038/d41586-023-01024-x</a></p>The conversion of dietary sugar to the molecule lactate is a hallmark of many cancers. The discovery of a new binding partner of lactate provides insight into how cells link nutrient metabolism to the decision to divide.]]></content:encoded>
-            <dc:title><![CDATA[Learning the metabolic language of cancer]]></dc:title>
-            <dc:creator>Minervo Perez</dc:creator><dc:creator>Jordan L. Meier</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01024-x</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-18; | doi:10.1038/d41586-023-01024-x</dc:source>
-            <dc:date>2023-04-18</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01024-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01024-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01314-4">
-            <title><![CDATA[Daily briefing: Creatures are breeding in the Pacific garbage patch]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01314-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 18 April 2023; <a href="https://www.nature.com/articles/d41586-023-01314-4">doi:10.1038/d41586-023-01314-4</a></p>Floating rafts of garbage are becoming habitats for a bizarre array of coastal and marine species. Plus, cheap light microscopes deliver super-resolution images and how to handle salary negotiations in industry.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: Creatures are breeding in the Pacific garbage patch]]></dc:title>
-            <dc:creator>Flora Graham</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01314-4</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-18; | doi:10.1038/d41586-023-01314-4</dc:source>
-            <dc:date>2023-04-18</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01314-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01314-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01293-6">
-            <title><![CDATA[Is Africa’s Great Green Wall project withering?]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01293-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 18 April 2023; <a href="https://www.nature.com/articles/d41586-023-01293-6">doi:10.1038/d41586-023-01293-6</a></p>The plan to re-green a 7,000-kilometre swathe south of the Sahara is at risk of losing its pan-African vision and ambition.]]></content:encoded>
-            <dc:title><![CDATA[Is Africa’s Great Green Wall project withering?]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-01293-6</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-18; | doi:10.1038/d41586-023-01293-6</dc:source>
-            <dc:date>2023-04-18</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01293-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01293-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01300-w">
-            <title><![CDATA[Every base everywhere all at once: pangenomics comes of age]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01300-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 18 April 2023; <a href="https://www.nature.com/articles/d41586-023-01300-w">doi:10.1038/d41586-023-01300-w</a></p>Multi-genome assemblies called pangenomes can capture genetic diversity in a species, but researchers are still working out how best to build and explore them.]]></content:encoded>
-            <dc:title><![CDATA[Every base everywhere all at once: pangenomics comes of age]]></dc:title>
-            <dc:creator>Michael Eisenstein</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01300-w</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-18; | doi:10.1038/d41586-023-01300-w</dc:source>
-            <dc:date>2023-04-18</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01300-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01300-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01308-2">
-            <title><![CDATA[How I found a broader impact as a PhD student through podcasting]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01308-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 18 April 2023; <a href="https://www.nature.com/articles/d41586-023-01308-2">doi:10.1038/d41586-023-01308-2</a></p>I’ve learnt new skills and communicated science further afield through my immunology podcast, Inflammatory Content, says Kellen Cavagnero.]]></content:encoded>
-            <dc:title><![CDATA[How I found a broader impact as a PhD student through podcasting]]></dc:title>
-            <dc:creator>Kellen J. Cavagnero</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01308-2</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-18; | doi:10.1038/d41586-023-01308-2</dc:source>
-            <dc:date>2023-04-18</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01308-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01308-2</prism:url>
         </item>
     
 </rdf:RDF>
