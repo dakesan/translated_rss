@@ -18,6 +18,14 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01351-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01466-3"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01395-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01457-4"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01417-y"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01415-0"/>
@@ -160,14 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01373-7"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01423-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01430-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01284-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01278-5"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,66 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01351-z">
+            <title><![CDATA[Audio long read: Conquering Alzheimer’s — a look at the therapies of the future]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01351-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 April 2023; <a href="https://www.nature.com/articles/d41586-023-01351-z">doi:10.1038/d41586-023-01351-z</a></p>Trial successes have raised hopes that the condition might eventually be preventable.]]></content:encoded>
+            <dc:title><![CDATA[Audio long read: Conquering Alzheimer’s — a look at the therapies of the future]]></dc:title>
+            <dc:creator>Alison Abbott</dc:creator><dc:creator>Benjamin Thompson</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01351-z</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-28; | doi:10.1038/d41586-023-01351-z</dc:source>
+            <dc:date>2023-04-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01351-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01351-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01466-3">
+            <title><![CDATA[A new view of our senses, and the founding of Yosemite: Books in brief]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01466-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 April 2023; <a href="https://www.nature.com/articles/d41586-023-01466-3">doi:10.1038/d41586-023-01466-3</a></p>Andrew Robinson reviews five of the best science picks.]]></content:encoded>
+            <dc:title><![CDATA[A new view of our senses, and the founding of Yosemite: Books in brief]]></dc:title>
+            <dc:creator>Andrew Robinson</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01466-3</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-28; | doi:10.1038/d41586-023-01466-3</dc:source>
+            <dc:date>2023-04-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01466-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01466-3</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01395-1">
+            <title><![CDATA[How to keep Ukraine’s research hopes alive]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01395-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 April 2023; <a href="https://www.nature.com/articles/d41586-023-01395-1">doi:10.1038/d41586-023-01395-1</a></p>Ukrainian scientists reflect on their country’s invasion by Russia, how to halt a postwar brain drain, and how collaborations with Russian colleagues have suffered.]]></content:encoded>
+            <dc:title><![CDATA[How to keep Ukraine’s research hopes alive]]></dc:title>
+            <dc:creator>Adam Levy</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01395-1</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-28; | doi:10.1038/d41586-023-01395-1</dc:source>
+            <dc:date>2023-04-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01395-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01395-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01457-4">
+            <title><![CDATA[Racial inequalities in journals highlighted in giant study]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01457-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 April 2023; <a href="https://www.nature.com/articles/d41586-023-01457-4">doi:10.1038/d41586-023-01457-4</a></p>Discrimination against members of under-represented groups in academic publishing leads to lower citation rates, fewer editorial-board positions and longer manuscript-review periods.]]></content:encoded>
+            <dc:title><![CDATA[Racial inequalities in journals highlighted in giant study]]></dc:title>
+            <dc:creator>Amanda Heidt</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01457-4</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-28; | doi:10.1038/d41586-023-01457-4</dc:source>
+            <dc:date>2023-04-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01457-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01457-4</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-01417-y">
             <title><![CDATA[Airborne sonar spies on what lies beneath the waves]]></title>
@@ -283,11 +343,11 @@
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-01454-7">
-            <title><![CDATA[Why is landing safely on the Moon so hard?]]></title>
+            <title><![CDATA[Why is landing on the Moon safely so hard?]]></title>
             <link>https://www.nature.com/articles/d41586-023-01454-7</link>
             <content:encoded>
                 <![CDATA[<p>Nature, Published online: 27 April 2023; <a href="https://www.nature.com/articles/d41586-023-01454-7">doi:10.1038/d41586-023-01454-7</a></p>The failure of the ispace lunar lander highlights the challenges, in particular for nascent private companies.]]></content:encoded>
-            <dc:title><![CDATA[Why is landing safely on the Moon so hard?]]></dc:title>
+            <dc:title><![CDATA[Why is landing on the Moon safely so hard?]]></dc:title>
             <dc:creator>Alexandra Witze</dc:creator>
             <dc:identifier>doi:10.1038/d41586-023-01454-7</dc:identifier>
             <dc:source>Nature, Published online: 2023-04-27; | doi:10.1038/d41586-023-01454-7</dc:source>
@@ -1240,66 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01373-7</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01373-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01423-0">
-            <title><![CDATA[Private Moon mission prepares for historic landing attempt]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01423-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 24 April 2023; <a href="https://www.nature.com/articles/d41586-023-01423-0">doi:10.1038/d41586-023-01423-0</a></p>The Japanese-built ispace lander, carrying a rover from the United Arab Emirates, could be the first private venture to land on the lunar surface.]]></content:encoded>
-            <dc:title><![CDATA[Private Moon mission prepares for historic landing attempt]]></dc:title>
-            <dc:creator>Miryam Naddaf</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01423-0</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-24; | doi:10.1038/d41586-023-01423-0</dc:source>
-            <dc:date>2023-04-24</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01423-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01423-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01430-1">
-            <title><![CDATA[Daily briefing: Neuroscience editors resign over cost of APCs]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01430-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 24 April 2023; <a href="https://www.nature.com/articles/d41586-023-01430-1">doi:10.1038/d41586-023-01430-1</a></p>More than 40 editors from two neuroscience journals quit in protest against author fees. Plus, Tasmanian devil facial tumours emerged a decade before detection and why we all misremember the same stuff.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: Neuroscience editors resign over cost of APCs]]></dc:title>
-            <dc:creator>Flora Graham</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01430-1</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-24; | doi:10.1038/d41586-023-01430-1</dc:source>
-            <dc:date>2023-04-24</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01430-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01430-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01284-7">
-            <title><![CDATA[An easy-to-swallow pill monitors X-ray dosage]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01284-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 21 April 2023; <a href="https://www.nature.com/articles/d41586-023-01284-7">doi:10.1038/d41586-023-01284-7</a></p>Device could enable doctors to calibrate the treatment of people receiving radiotherapy for certain tumours.]]></content:encoded>
-            <dc:title><![CDATA[An easy-to-swallow pill monitors X-ray dosage]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-01284-7</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-21; | doi:10.1038/d41586-023-01284-7</dc:source>
-            <dc:date>2023-04-21</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01284-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01284-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01278-5">
-            <title><![CDATA[Flu edges closer to spilling from dogs into humans]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01278-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 21 April 2023; <a href="https://www.nature.com/articles/d41586-023-01278-5">doi:10.1038/d41586-023-01278-5</a></p>Some H3N2 strains of influenza infecting dogs in Asia have developed ominous mutations.]]></content:encoded>
-            <dc:title><![CDATA[Flu edges closer to spilling from dogs into humans]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-01278-5</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-21; | doi:10.1038/d41586-023-01278-5</dc:source>
-            <dc:date>2023-04-21</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01278-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01278-5</prism:url>
         </item>
     
 </rdf:RDF>
