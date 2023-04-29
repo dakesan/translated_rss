@@ -18,11 +18,21 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01448-5"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01351-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01449-4"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01466-3"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01476-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01453-8"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01395-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01478-z"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01457-4"/>
                 
@@ -35,6 +45,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01416-z"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01414-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01455-6"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01446-7"/>
                 
@@ -112,6 +124,8 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01324-2"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01451-w"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01352-y"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01435-w"/>
@@ -154,20 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01422-1"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01374-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-05875-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01372-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01403-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01356-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01418-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01373-7"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,21 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01448-5">
+            <title><![CDATA[Fund research on racism’s health impacts, says European group]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01448-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 April 2023; <a href="https://www.nature.com/articles/d41586-023-01448-5">doi:10.1038/d41586-023-01448-5</a></p>A network of organizations urges the European Commission to recognize that discrimination can harm people’s well-being.]]></content:encoded>
+            <dc:title><![CDATA[Fund research on racism’s health impacts, says European group]]></dc:title>
+            <dc:creator>Layal Liverpool</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01448-5</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-28; | doi:10.1038/d41586-023-01448-5</dc:source>
+            <dc:date>2023-04-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01448-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01448-5</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-01351-z">
             <title><![CDATA[Audio long read: Conquering Alzheimer’s — a look at the therapies of the future]]></title>
@@ -190,6 +205,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01351-z</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01351-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01449-4">
+            <title><![CDATA[A foggy future for the Arctic means slower ship journeys]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01449-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 April 2023; <a href="https://www.nature.com/articles/d41586-023-01449-4">doi:10.1038/d41586-023-01449-4</a></p>Climate change is shrinking ice, fuelling fog formation over the Arctic Ocean.]]></content:encoded>
+            <dc:title><![CDATA[A foggy future for the Arctic means slower ship journeys]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-01449-4</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-28; | doi:10.1038/d41586-023-01449-4</dc:source>
+            <dc:date>2023-04-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01449-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01449-4</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-01466-3">
@@ -207,6 +237,36 @@
             <prism:url>https://www.nature.com/articles/d41586-023-01466-3</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01476-1">
+            <title><![CDATA[Wind turbines are tough to recycle – this new chemistry could help]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01476-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 April 2023; <a href="https://www.nature.com/articles/d41586-023-01476-1">doi:10.1038/d41586-023-01476-1</a></p>A method for breaking down epoxies could stop wind turbine blades ending up in landfill.]]></content:encoded>
+            <dc:title><![CDATA[Wind turbines are tough to recycle – this new chemistry could help]]></dc:title>
+            <dc:creator>Shamini Bundell</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01476-1</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-28; | doi:10.1038/d41586-023-01476-1</dc:source>
+            <dc:date>2023-04-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01476-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01476-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01453-8">
+            <title><![CDATA[Canadian PhD students and postgrads plan mass walkout over low pay]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01453-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 April 2023; <a href="https://www.nature.com/articles/d41586-023-01453-8">doi:10.1038/d41586-023-01453-8</a></p>Academics are demanding a significant boost to government-sponsored fellowships and scholarships, which haven’t changed for decades.]]></content:encoded>
+            <dc:title><![CDATA[Canadian PhD students and postgrads plan mass walkout over low pay]]></dc:title>
+            <dc:creator>Brian Owens</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01453-8</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-28; | doi:10.1038/d41586-023-01453-8</dc:source>
+            <dc:date>2023-04-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01453-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01453-8</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-023-01395-1">
             <title><![CDATA[How to keep Ukraine’s research hopes alive]]></title>
             <link>https://www.nature.com/articles/d41586-023-01395-1</link>
@@ -220,6 +280,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01395-1</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01395-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01478-z">
+            <title><![CDATA[‘Armed groups entered the lab’: Sudan’s researchers flee violent military conflict]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01478-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 April 2023; <a href="https://www.nature.com/articles/d41586-023-01478-z">doi:10.1038/d41586-023-01478-z</a></p>Clashes have left hospitals and universities without water and power — and vulnerable to takeover by armed groups.]]></content:encoded>
+            <dc:title><![CDATA[‘Armed groups entered the lab’: Sudan’s researchers flee violent military conflict]]></dc:title>
+            <dc:creator>Miryam Naddaf</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01478-z</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-28; | doi:10.1038/d41586-023-01478-z</dc:source>
+            <dc:date>2023-04-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01478-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01478-z</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-01457-4">
@@ -312,11 +387,26 @@
             <prism:url>https://www.nature.com/articles/d41586-023-01414-1</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01455-6">
+            <title><![CDATA[Daily briefing: The biggest Schrödinger’s cat ever]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01455-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 27 April 2023; <a href="https://www.nature.com/articles/d41586-023-01455-6">doi:10.1038/d41586-023-01455-6</a></p>A sapphire crystal close to half the mass of an eyelash has been put in a quantum superposition state. Plus, black-hole image reveals turmoil around the abyss and how a human-made archipelago reveals the limits of rewilding.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: The biggest Schrödinger’s cat ever]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01455-6</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-27; | doi:10.1038/d41586-023-01455-6</dc:source>
+            <dc:date>2023-04-27</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01455-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01455-6</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-023-01446-7">
             <title><![CDATA[Huge cache of mammal genomes offers fresh insights on human evolution]]></title>
             <link>https://www.nature.com/articles/d41586-023-01446-7</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 27 April 2023; <a href="https://www.nature.com/articles/d41586-023-01446-7">doi:10.1038/d41586-023-01446-7</a></p>The Zoonomia Project is helping to pinpoint genes responsible for animal brain size and for human disease.]]></content:encoded>
+                <![CDATA[<p>Nature, Published online: 27 April 2023; <a href="https://www.nature.com/articles/d41586-023-01446-7">doi:10.1038/d41586-023-01446-7</a></p>The Zoonomia Project is helping to pinpoint genes responsible for animal-brain size and for human disease.]]></content:encoded>
             <dc:title><![CDATA[Huge cache of mammal genomes offers fresh insights on human evolution]]></dc:title>
             <dc:creator>Max Kozlov</dc:creator>
             <dc:identifier>doi:10.1038/d41586-023-01446-7</dc:identifier>
@@ -343,11 +433,11 @@
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-01454-7">
-            <title><![CDATA[Why is landing on the Moon safely so hard?]]></title>
+            <title><![CDATA[Moon mission failure: why is it so hard to pull off a lunar landing?]]></title>
             <link>https://www.nature.com/articles/d41586-023-01454-7</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 27 April 2023; <a href="https://www.nature.com/articles/d41586-023-01454-7">doi:10.1038/d41586-023-01454-7</a></p>The failure of the ispace lunar lander highlights the challenges, in particular for nascent private companies.]]></content:encoded>
-            <dc:title><![CDATA[Why is landing on the Moon safely so hard?]]></dc:title>
+                <![CDATA[<p>Nature, Published online: 27 April 2023; <a href="https://www.nature.com/articles/d41586-023-01454-7">doi:10.1038/d41586-023-01454-7</a></p>The ispace lander's failed touchdown highlights the challenges Moon landings pose, especially for private companies.]]></content:encoded>
+            <dc:title><![CDATA[Moon mission failure: why is it so hard to pull off a lunar landing?]]></dc:title>
             <dc:creator>Alexandra Witze</dc:creator>
             <dc:identifier>doi:10.1038/d41586-023-01454-7</dc:identifier>
             <dc:source>Nature, Published online: 2023-04-27; | doi:10.1038/d41586-023-01454-7</dc:source>
@@ -882,6 +972,21 @@
             <prism:url>https://www.nature.com/articles/d41586-023-01324-2</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01451-w">
+            <title><![CDATA[Daily briefing: Moon lander has been lost]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01451-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 26 April 2023; <a href="https://www.nature.com/articles/d41586-023-01451-w">doi:10.1038/d41586-023-01451-w</a></p>The lunar lander by Japanese firm ispace appears to have crash-landed. Plus, the risks of repeat COVID infections and a surprising galaxy with the ingredients for planet formation.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Moon lander has been lost]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01451-w</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-26; | doi:10.1038/d41586-023-01451-w</dc:source>
+            <dc:date>2023-04-26</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01451-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01451-w</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-023-01352-y">
             <title><![CDATA[Mixed plastics upcycled dynamically]]></title>
             <link>https://www.nature.com/articles/d41586-023-01352-y</link>
@@ -1195,111 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01422-1</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01422-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01374-6">
-            <title><![CDATA[I explore my people’s sacred space to protect biodiversity]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01374-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 24 April 2023; <a href="https://www.nature.com/articles/d41586-023-01374-6">doi:10.1038/d41586-023-01374-6</a></p>Zoleka Filander leads research in South African waters to shield vulnerable marine life and honour her Indigenous community.]]></content:encoded>
-            <dc:title><![CDATA[I explore my people’s sacred space to protect biodiversity]]></dc:title>
-            <dc:creator>James Mitchell Crow</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01374-6</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-24; | doi:10.1038/d41586-023-01374-6</dc:source>
-            <dc:date>2023-04-24</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01374-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01374-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-05875-2">
-            <title><![CDATA[Bipolar impact and phasing of Heinrich-type climate variability]]></title>
-            <link>https://www.nature.com/articles/s41586-023-05875-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 24 April 2023; <a href="https://www.nature.com/articles/s41586-023-05875-2">doi:10.1038/s41586-023-05875-2</a></p>Ice-core data show that extreme iceberg discharge events in the North Atlantic had no detectable impact on Greenland temperatures but are synchronous with abrupt acceleration of Antarctic warming.]]></content:encoded>
-            <dc:title><![CDATA[Bipolar impact and phasing of Heinrich-type climate variability]]></dc:title>
-            <dc:creator>Kaden C. Martin</dc:creator><dc:creator>Christo Buizert</dc:creator><dc:creator>Jon S. Edwards</dc:creator><dc:creator>Michael L. Kalk</dc:creator><dc:creator>Ben Riddell-Young</dc:creator><dc:creator>Edward J. Brook</dc:creator><dc:creator>Ross Beaudette</dc:creator><dc:creator>Jeffrey P. Severinghaus</dc:creator><dc:creator>Todd A. Sowers</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-05875-2</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-24; | doi:10.1038/s41586-023-05875-2</dc:source>
-            <dc:date>2023-04-24</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-05875-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-05875-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01372-8">
-            <title><![CDATA[Diving deep: the centuries-long quest to explore the deepest ocean]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01372-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 24 April 2023; <a href="https://www.nature.com/articles/d41586-023-01372-8">doi:10.1038/d41586-023-01372-8</a></p>Schemes to dive to the bottom of the sea have a surprisingly long history — but a book shows how science has rarely been the motivation.]]></content:encoded>
-            <dc:title><![CDATA[Diving deep: the centuries-long quest to explore the deepest ocean]]></dc:title>
-            <dc:creator>Alexandra Witze</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01372-8</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-24; | doi:10.1038/d41586-023-01372-8</dc:source>
-            <dc:date>2023-04-24</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01372-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01372-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01403-4">
-            <title><![CDATA[‘Truly gobsmacked’: Ancient-human genome count surpasses 10,000]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01403-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 24 April 2023; <a href="https://www.nature.com/articles/d41586-023-01403-4">doi:10.1038/d41586-023-01403-4</a></p>The majority of sequences come from people who lived in Western Eurasia, but samples from other regions are on the rise.]]></content:encoded>
-            <dc:title><![CDATA[‘Truly gobsmacked’: Ancient-human genome count surpasses 10,000]]></dc:title>
-            <dc:creator>Ewen Callaway</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01403-4</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-24; | doi:10.1038/d41586-023-01403-4</dc:source>
-            <dc:date>2023-04-24</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01403-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01403-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01356-8">
-            <title><![CDATA[An evolutionary route to warning coloration]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01356-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 24 April 2023; <a href="https://www.nature.com/articles/d41586-023-01356-8">doi:10.1038/d41586-023-01356-8</a></p>Bright colours that signal toxicity can deter predators, but how such colours initially evolve without first endangering conspicuous organisms is a contentious issue. Analysis of amphibians offers an answer to the puzzle.]]></content:encoded>
-            <dc:title><![CDATA[An evolutionary route to warning coloration]]></dc:title>
-            <dc:creator>Tim  Caro</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01356-8</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-24; | doi:10.1038/d41586-023-01356-8</dc:source>
-            <dc:date>2023-04-24</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01356-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01356-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01418-x">
-            <title><![CDATA[JWST spots planetary building blocks in a surprising galaxy]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01418-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 24 April 2023; <a href="https://www.nature.com/articles/d41586-023-01418-x">doi:10.1038/d41586-023-01418-x</a></p>Planets might be more common throughout the Universe than previously thought, suggest results from the James Webb Space Telescope.]]></content:encoded>
-            <dc:title><![CDATA[JWST spots planetary building blocks in a surprising galaxy]]></dc:title>
-            <dc:creator>Myriam Vidal Valero</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01418-x</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-24; | doi:10.1038/d41586-023-01418-x</dc:source>
-            <dc:date>2023-04-24</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01418-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01418-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01373-7">
-            <title><![CDATA[Say what? The principal investigators who pass down wisdom through humour]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01373-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 24 April 2023; <a href="https://www.nature.com/articles/d41586-023-01373-7">doi:10.1038/d41586-023-01373-7</a></p>Wit can convey important truths about critical thinking and the scientific method, especially when group leaders poke fun at themselves in the process.]]></content:encoded>
-            <dc:title><![CDATA[Say what? The principal investigators who pass down wisdom through humour]]></dc:title>
-            <dc:creator>Amanda Heidt</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01373-7</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-24; | doi:10.1038/d41586-023-01373-7</dc:source>
-            <dc:date>2023-04-24</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01373-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01373-7</prism:url>
         </item>
     
 </rdf:RDF>
