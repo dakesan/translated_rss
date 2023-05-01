@@ -18,7 +18,17 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01468-1"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01452-9"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01467-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01437-8"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01411-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01469-0"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01425-y"/>
                 
@@ -158,16 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01412-3"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01389-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01369-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01390-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01438-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01313-5"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,21 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01468-1">
+            <title><![CDATA[I helped to build Taiwan’s Silicon Valley]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01468-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 01 May 2023; <a href="https://www.nature.com/articles/d41586-023-01468-1">doi:10.1038/d41586-023-01468-1</a></p>Miin Wu, whose company, Macronix International, has played a seminal part in Taiwan’s semiconductor industry, explains why dust and vibration pose enormous challenges for running his factory.]]></content:encoded>
+            <dc:title><![CDATA[I helped to build Taiwan’s Silicon Valley]]></dc:title>
+            <dc:creator>Margaret  Simons</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01468-1</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-01; | doi:10.1038/d41586-023-01468-1</dc:source>
+            <dc:date>2023-05-01</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01468-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01468-1</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-01452-9">
             <title><![CDATA[Air pollution in China is falling — but there is a long way to go]]></title>
@@ -190,6 +205,66 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01452-9</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01452-9</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01467-2">
+            <title><![CDATA[What it’s like to be in the minority at a conference]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01467-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 01 May 2023; <a href="https://www.nature.com/articles/d41586-023-01467-2">doi:10.1038/d41586-023-01467-2</a></p>Female and Black researchers describe the impacts of sexism and racism at conferences]]></content:encoded>
+            <dc:title><![CDATA[What it’s like to be in the minority at a conference]]></dc:title>
+            <dc:creator>Nic Fleming</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01467-2</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-01; | doi:10.1038/d41586-023-01467-2</dc:source>
+            <dc:date>2023-05-01</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01467-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01467-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01437-8">
+            <title><![CDATA[COVID's future: mini-waves rather than seasonal surges]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01437-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 01 May 2023; <a href="https://www.nature.com/articles/d41586-023-01437-8">doi:10.1038/d41586-023-01437-8</a></p>Three years after the start of the pandemic, SARS-CoV-2 shows no signs of settling into a seasonal pattern of spread, like influenza has.]]></content:encoded>
+            <dc:title><![CDATA[COVID's future: mini-waves rather than seasonal surges]]></dc:title>
+            <dc:creator>Ewen Callaway</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01437-8</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-01; | doi:10.1038/d41586-023-01437-8</dc:source>
+            <dc:date>2023-05-01</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01437-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01437-8</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01411-4">
+            <title><![CDATA[Online tools help large language models to solve problems through reasoning]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01411-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 01 May 2023; <a href="https://www.nature.com/articles/d41586-023-01411-4">doi:10.1038/d41586-023-01411-4</a></p>The large language models popularized by chatbots are being taught to alternate reasoning with calls to external tools, such as Wikipedia, to boost their accuracy. The strategy could improve fact-finding outcomes, as well as online shopping.]]></content:encoded>
+            <dc:title><![CDATA[Online tools help large language models to solve problems through reasoning]]></dc:title>
+            <dc:creator>Aleksandra  Piktus</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01411-4</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-01; | doi:10.1038/d41586-023-01411-4</dc:source>
+            <dc:date>2023-05-01</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01411-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01411-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01469-0">
+            <title><![CDATA[The sleight-of-hand trick that can simplify scientific computing]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01469-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 01 May 2023; <a href="https://www.nature.com/articles/d41586-023-01469-0">doi:10.1038/d41586-023-01469-0</a></p>Computational environments and the tools to manage them can help researchers to deliver code that is reproducible, documented and shareable.]]></content:encoded>
+            <dc:title><![CDATA[The sleight-of-hand trick that can simplify scientific computing]]></dc:title>
+            <dc:creator>Jeffrey M. Perkel</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01469-0</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-01; | doi:10.1038/d41586-023-01469-0</dc:source>
+            <dc:date>2023-05-01</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01469-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01469-0</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-01425-y">
@@ -1225,81 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01412-3</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01412-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01389-z">
-            <title><![CDATA[The gene-therapy revolution risks stalling if we don’t talk about drug pricing]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01389-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 25 April 2023; <a href="https://www.nature.com/articles/d41586-023-01389-z">doi:10.1038/d41586-023-01389-z</a></p>Regulation and new intellectual property laws are needed to reduce the cost of gene-editing treatments and fulfil their promise to improve human health.]]></content:encoded>
-            <dc:title><![CDATA[The gene-therapy revolution risks stalling if we don’t talk about drug pricing]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-01389-z</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-25; | doi:10.1038/d41586-023-01389-z</dc:source>
-            <dc:date>2023-04-25</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01389-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01389-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01369-3">
-            <title><![CDATA[Suburbs are a climate disaster, but they can be redeemed]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01369-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 25 April 2023; <a href="https://www.nature.com/articles/d41586-023-01369-3">doi:10.1038/d41586-023-01369-3</a></p>With a radical approach to planning, suburbs in the United States can be made affordable, liveable and climate friendly.]]></content:encoded>
-            <dc:title><![CDATA[Suburbs are a climate disaster, but they can be redeemed]]></dc:title>
-            <dc:creator>Dana  Cuff</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01369-3</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-25; | doi:10.1038/d41586-023-01369-3</dc:source>
-            <dc:date>2023-04-25</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01369-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01369-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01390-6">
-            <title><![CDATA[How Rosalind Franklin was let down by DNA’s dysfunctional team]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01390-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 25 April 2023; <a href="https://www.nature.com/articles/d41586-023-01390-6">doi:10.1038/d41586-023-01390-6</a></p>The story of how the structure of DNA was found is one of team science from which one member was unforgivably excluded.]]></content:encoded>
-            <dc:title><![CDATA[How Rosalind Franklin was let down by DNA’s dysfunctional team]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-01390-6</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-25; | doi:10.1038/d41586-023-01390-6</dc:source>
-            <dc:date>2023-04-25</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01390-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01390-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01438-7">
-            <title><![CDATA[Daily briefing: First close-up images of tiny Mars moonlet]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01438-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 25 April 2023; <a href="https://www.nature.com/articles/d41586-023-01438-7">doi:10.1038/d41586-023-01438-7</a></p>Stunning shots of Mars’s moon Deimos hint at secrets of its formation. Plus, a milestone in ancient-human DNA and scientists taught parrots to video call each other.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: First close-up images of tiny Mars moonlet]]></dc:title>
-            <dc:creator>Flora Graham</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01438-7</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-25; | doi:10.1038/d41586-023-01438-7</dc:source>
-            <dc:date>2023-04-25</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01438-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01438-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01313-5">
-            <title><![CDATA[What Rosalind Franklin truly contributed to the discovery of DNA’s structure]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01313-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 25 April 2023; <a href="https://www.nature.com/articles/d41586-023-01313-5">doi:10.1038/d41586-023-01313-5</a></p>Franklin was no victim in how the DNA double helix was solved. An overlooked letter and an unpublished news article, both written in 1953, reveal that she was an equal player.]]></content:encoded>
-            <dc:title><![CDATA[What Rosalind Franklin truly contributed to the discovery of DNA’s structure]]></dc:title>
-            <dc:creator>Matthew  Cobb</dc:creator><dc:creator>Nathaniel   Comfort</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01313-5</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-25; | doi:10.1038/d41586-023-01313-5</dc:source>
-            <dc:date>2023-04-25</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01313-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01313-5</prism:url>
         </item>
     
 </rdf:RDF>
