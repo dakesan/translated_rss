@@ -18,6 +18,10 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01452-9"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01425-y"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01448-5"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01351-z"/>
@@ -164,10 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01313-5"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-05997-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01422-1"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,36 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01452-9">
+            <title><![CDATA[Air pollution in China is falling — but there is a long way to go]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01452-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 01 May 2023; <a href="https://www.nature.com/articles/d41586-023-01452-9">doi:10.1038/d41586-023-01452-9</a></p>Easy gains from upgrading power-plant smokestacks will be strengthened only by deeper policy changes.]]></content:encoded>
+            <dc:title><![CDATA[Air pollution in China is falling — but there is a long way to go]]></dc:title>
+            <dc:creator>Dyani Lewis</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01452-9</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-01; | doi:10.1038/d41586-023-01452-9</dc:source>
+            <dc:date>2023-05-01</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01452-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01452-9</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01425-y">
+            <title><![CDATA[‘Intention is not action’: brain-research centre steps up quest for equality]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01425-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 30 April 2023; <a href="https://www.nature.com/articles/d41586-023-01425-y">doi:10.1038/d41586-023-01425-y</a></p>New institute aims to enshrine inclusivity in all aspects of neuroscience and psychology research.]]></content:encoded>
+            <dc:title><![CDATA[‘Intention is not action’: brain-research centre steps up quest for equality]]></dc:title>
+            <dc:creator>Miryam Naddaf</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01425-y</dc:identifier>
+            <dc:source>Nature, Published online: 2023-04-30; | doi:10.1038/d41586-023-01425-y</dc:source>
+            <dc:date>2023-04-30</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01425-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01425-y</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-01448-5">
             <title><![CDATA[Fund research on racism’s health impacts, says European group]]></title>
@@ -1270,36 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01313-5</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01313-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-05997-7">
-            <title><![CDATA[Addendum: Agrochemicals interact synergistically to increase bee mortality]]></title>
-            <link>https://www.nature.com/articles/s41586-023-05997-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 24 April 2023; <a href="https://www.nature.com/articles/s41586-023-05997-7">doi:10.1038/s41586-023-05997-7</a></p>Addendum: Agrochemicals interact synergistically to increase bee mortality]]></content:encoded>
-            <dc:title><![CDATA[Addendum: Agrochemicals interact synergistically to increase bee mortality]]></dc:title>
-            <dc:creator>Harry Siviter</dc:creator><dc:creator>Emily J. Bailes</dc:creator><dc:creator>Callum D. Martin</dc:creator><dc:creator>Thomas R. Oliver</dc:creator><dc:creator>Julia Koricheva</dc:creator><dc:creator>Ellouise Leadbeater</dc:creator><dc:creator>Mark J. F. Brown</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-05997-7</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-24; | doi:10.1038/s41586-023-05997-7</dc:source>
-            <dc:date>2023-04-24</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-05997-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-05997-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01422-1">
-            <title><![CDATA[First up-close images of Mars’s little-known moon Deimos]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01422-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 24 April 2023; <a href="https://www.nature.com/articles/d41586-023-01422-1">doi:10.1038/d41586-023-01422-1</a></p>Images from the UAE’s Hope mission suggest that the moonlet’s composition is similar to that of the red planet’s surface.]]></content:encoded>
-            <dc:title><![CDATA[First up-close images of Mars’s little-known moon Deimos]]></dc:title>
-            <dc:creator>Davide Castelvecchi</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01422-1</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-24; | doi:10.1038/d41586-023-01422-1</dc:source>
-            <dc:date>2023-04-24</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01422-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01422-1</prism:url>
         </item>
     
 </rdf:RDF>
