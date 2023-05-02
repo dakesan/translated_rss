@@ -22,6 +22,8 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01452-9"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01038-5"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01467-2"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01437-8"/>
@@ -166,8 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01393-3"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01412-3"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -205,6 +205,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01452-9</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01452-9</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01038-5">
+            <title><![CDATA[Mexico is seeding clouds to make rain — scientists aren’t sure it works]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01038-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 01 May 2023; <a href="https://www.nature.com/articles/d41586-023-01038-5">doi:10.1038/d41586-023-01038-5</a></p>Researchers question the government’s investment, given uncertainties about the technology.]]></content:encoded>
+            <dc:title><![CDATA[Mexico is seeding clouds to make rain — scientists aren’t sure it works]]></dc:title>
+            <dc:creator>Myriam Vidal Valero</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01038-5</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-01; | doi:10.1038/d41586-023-01038-5</dc:source>
+            <dc:date>2023-05-01</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01038-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01038-5</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-01467-2">
@@ -1285,21 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01393-3</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01393-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01412-3">
-            <title><![CDATA[Ancient Norse on Greenland imported wood from distant shores]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01412-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 25 April 2023; <a href="https://www.nature.com/articles/d41586-023-01412-3">doi:10.1038/d41586-023-01412-3</a></p>Settlers brought in hemlock and other types of timber much earlier than previously realized.]]></content:encoded>
-            <dc:title><![CDATA[Ancient Norse on Greenland imported wood from distant shores]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-01412-3</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-25; | doi:10.1038/d41586-023-01412-3</dc:source>
-            <dc:date>2023-04-25</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01412-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01412-3</prism:url>
         </item>
     
 </rdf:RDF>
