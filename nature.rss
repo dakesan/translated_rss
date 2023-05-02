@@ -18,6 +18,14 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01479-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01481-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01480-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01470-7"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01468-1"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01452-9"/>
@@ -160,14 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01427-w"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01394-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01354-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01392-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01393-3"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,66 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01479-y">
+            <title><![CDATA[African American genomes don’t capture Africa’s genetic diversity]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01479-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 02 May 2023; <a href="https://www.nature.com/articles/d41586-023-01479-y">doi:10.1038/d41586-023-01479-y</a></p>African American genomes don’t capture Africa’s genetic diversity]]></content:encoded>
+            <dc:title><![CDATA[African American genomes don’t capture Africa’s genetic diversity]]></dc:title>
+            <dc:creator>Segun  Fatumo</dc:creator><dc:creator>Ananyo  Choudhury</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01479-y</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-02; | doi:10.1038/d41586-023-01479-y</dc:source>
+            <dc:date>2023-05-02</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01479-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01479-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01481-4">
+            <title><![CDATA[Ecology: correct the digital data divide]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01481-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 02 May 2023; <a href="https://www.nature.com/articles/d41586-023-01481-4">doi:10.1038/d41586-023-01481-4</a></p>Ecology: correct the digital data divide]]></content:encoded>
+            <dc:title><![CDATA[Ecology: correct the digital data divide]]></dc:title>
+            <dc:creator>Sarab  Sethi</dc:creator><dc:creator>Robert M.  Ewers</dc:creator><dc:creator>Rohini  Balakrishnan</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01481-4</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-02; | doi:10.1038/d41586-023-01481-4</dc:source>
+            <dc:date>2023-05-02</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01481-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01481-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01480-5">
+            <title><![CDATA[Strengthen scientific review of research protocols]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01480-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 02 May 2023; <a href="https://www.nature.com/articles/d41586-023-01480-5">doi:10.1038/d41586-023-01480-5</a></p>Strengthen scientific review of research protocols]]></content:encoded>
+            <dc:title><![CDATA[Strengthen scientific review of research protocols]]></dc:title>
+            <dc:creator>John H.   Powers</dc:creator><dc:creator>Jie   Min</dc:creator><dc:creator>David   Tribble</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01480-5</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-02; | doi:10.1038/d41586-023-01480-5</dc:source>
+            <dc:date>2023-05-02</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01480-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01480-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01470-7">
+            <title><![CDATA[Every nation needs a space agency]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01470-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 02 May 2023; <a href="https://www.nature.com/articles/d41586-023-01470-7">doi:10.1038/d41586-023-01470-7</a></p>As commercial firms transform the global space economy, each country’s space governance will shape its opportunities for decades to come.]]></content:encoded>
+            <dc:title><![CDATA[Every nation needs a space agency]]></dc:title>
+            <dc:creator>Carissa Bryce Christensen</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01470-7</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-02; | doi:10.1038/d41586-023-01470-7</dc:source>
+            <dc:date>2023-05-02</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01470-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01470-7</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-01468-1">
             <title><![CDATA[I helped to build Taiwan’s Silicon Valley]]></title>
@@ -1240,66 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01427-w</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01427-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01394-2">
-            <title><![CDATA[Full closure of high seas would triple the benefits]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01394-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 25 April 2023; <a href="https://www.nature.com/articles/d41586-023-01394-2">doi:10.1038/d41586-023-01394-2</a></p>Full closure of high seas would triple the benefits]]></content:encoded>
-            <dc:title><![CDATA[Full closure of high seas would triple the benefits]]></dc:title>
-            <dc:creator>Crow  White</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01394-2</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-25; | doi:10.1038/d41586-023-01394-2</dc:source>
-            <dc:date>2023-04-25</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01394-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01394-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01354-w">
-            <title><![CDATA[From the archive: how several artists’ works mimic impressions made on the eye’s retina, and the curious effects of blue glass on colour]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01354-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 25 April 2023; <a href="https://www.nature.com/articles/d41586-023-01354-w">doi:10.1038/d41586-023-01354-w</a></p>Snippets from Nature’s past.]]></content:encoded>
-            <dc:title><![CDATA[From the archive: how several artists’ works mimic impressions made on the eye’s retina, and the curious effects of blue glass on colour]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-01354-w</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-25; | doi:10.1038/d41586-023-01354-w</dc:source>
-            <dc:date>2023-04-25</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01354-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01354-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01392-4">
-            <title><![CDATA[IPCC: expand into a panel on sustainability]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01392-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 25 April 2023; <a href="https://www.nature.com/articles/d41586-023-01392-4">doi:10.1038/d41586-023-01392-4</a></p>IPCC: expand into a panel on sustainability]]></content:encoded>
-            <dc:title><![CDATA[IPCC: expand into a panel on sustainability]]></dc:title>
-            <dc:creator>Thomas  Schaubroeck</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01392-4</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-25; | doi:10.1038/d41586-023-01392-4</dc:source>
-            <dc:date>2023-04-25</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01392-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01392-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01393-3">
-            <title><![CDATA[Green transition: create a European energy agency]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01393-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 25 April 2023; <a href="https://www.nature.com/articles/d41586-023-01393-3">doi:10.1038/d41586-023-01393-3</a></p>Green transition: create a European energy agency]]></content:encoded>
-            <dc:title><![CDATA[Green transition: create a European energy agency]]></dc:title>
-            <dc:creator>Simone  Tagliapietra</dc:creator><dc:creator>Georg  Zachmann</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01393-3</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-25; | doi:10.1038/d41586-023-01393-3</dc:source>
-            <dc:date>2023-04-25</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01393-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01393-3</prism:url>
         </item>
     
 </rdf:RDF>
