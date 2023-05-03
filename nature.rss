@@ -18,11 +18,27 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06127-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01384-4"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01479-y"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01481-4"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01480-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01471-6"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01434-x"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01486-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01465-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01401-6"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01487-y"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01470-7"/>
                 
@@ -152,22 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01352-y"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01435-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01371-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01442-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01355-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01327-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01318-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01433-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01427-w"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,36 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-023-06127-z">
+            <title><![CDATA[Algorithm for Optimized mRNA Design Improves Stability and Immunogenicity]]></title>
+            <link>https://www.nature.com/articles/s41586-023-06127-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 02 May 2023; <a href="https://www.nature.com/articles/s41586-023-06127-z">doi:10.1038/s41586-023-06127-z</a></p>Algorithm for Optimized mRNA Design Improves Stability and Immunogenicity]]></content:encoded>
+            <dc:title><![CDATA[Algorithm for Optimized mRNA Design Improves Stability and Immunogenicity]]></dc:title>
+            <dc:creator>He Zhang</dc:creator><dc:creator>Liang Zhang</dc:creator><dc:creator>Ang Lin</dc:creator><dc:creator>Congcong Xu</dc:creator><dc:creator>Ziyu Li</dc:creator><dc:creator>Kaibo Liu</dc:creator><dc:creator>Boxiang Liu</dc:creator><dc:creator>Xiaopin Ma</dc:creator><dc:creator>Fanfan Zhao</dc:creator><dc:creator>Huiling Jiang</dc:creator><dc:creator>Chunxiu Chen</dc:creator><dc:creator>Haifa Shen</dc:creator><dc:creator>Hangwen Li</dc:creator><dc:creator>David H. Mathews</dc:creator><dc:creator>Yujian Zhang</dc:creator><dc:creator>Liang Huang</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-023-06127-z</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-02; | doi:10.1038/s41586-023-06127-z</dc:source>
+            <dc:date>2023-05-02</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-023-06127-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-023-06127-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01384-4">
+            <title><![CDATA[From the archive: socially responsible physicists, and aimless wandering in circles]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01384-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 02 May 2023; <a href="https://www.nature.com/articles/d41586-023-01384-4">doi:10.1038/d41586-023-01384-4</a></p>Snippets from Nature’s past.]]></content:encoded>
+            <dc:title><![CDATA[From the archive: socially responsible physicists, and aimless wandering in circles]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-01384-4</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-02; | doi:10.1038/d41586-023-01384-4</dc:source>
+            <dc:date>2023-05-02</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01384-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01384-4</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-01479-y">
             <title><![CDATA[African American genomes don’t capture Africa’s genetic diversity]]></title>
@@ -220,6 +250,96 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01480-5</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01480-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01471-6">
+            <title><![CDATA[UK scientists are right to say no to ‘Plan B’ for post-Brexit research]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01471-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 02 May 2023; <a href="https://www.nature.com/articles/d41586-023-01471-6">doi:10.1038/d41586-023-01471-6</a></p>The United Kingdom’s alternative to EU Horizon Europe funding is near-silent on maintaining the collaborations needed to meet crucial global goals on climate and sustainability.]]></content:encoded>
+            <dc:title><![CDATA[UK scientists are right to say no to ‘Plan B’ for post-Brexit research]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-01471-6</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-02; | doi:10.1038/d41586-023-01471-6</dc:source>
+            <dc:date>2023-05-02</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01471-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01471-6</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01434-x">
+            <title><![CDATA[The deepest fish ever recorded and more — April’s best science images]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01434-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 02 May 2023; <a href="https://www.nature.com/articles/d41586-023-01434-x">doi:10.1038/d41586-023-01434-x</a></p>The month’s sharpest science shots, selected by Nature’s photo team.]]></content:encoded>
+            <dc:title><![CDATA[The deepest fish ever recorded and more — April’s best science images]]></dc:title>
+            <dc:creator>Emma Stoye</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01434-x</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-02; | doi:10.1038/d41586-023-01434-x</dc:source>
+            <dc:date>2023-05-02</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01434-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01434-x</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01486-z">
+            <title><![CDATA[Mind-reading machines are here: is it time to worry?]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01486-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 02 May 2023; <a href="https://www.nature.com/articles/d41586-023-01486-z">doi:10.1038/d41586-023-01486-z</a></p>Neuroethicists are split on whether a study that uses brain scans and AI to decode imagined speech poses a threat to mental privacy.]]></content:encoded>
+            <dc:title><![CDATA[Mind-reading machines are here: is it time to worry?]]></dc:title>
+            <dc:creator>Sara Reardon</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01486-z</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-02; | doi:10.1038/d41586-023-01486-z</dc:source>
+            <dc:date>2023-05-02</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01486-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01486-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01465-4">
+            <title><![CDATA[Address the growing urgency of fungal disease in crops]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01465-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 02 May 2023; <a href="https://www.nature.com/articles/d41586-023-01465-4">doi:10.1038/d41586-023-01465-4</a></p>More political and public awareness of the plight of the world’s crops when it comes to fungal disease is crucial to stave off a major threat to global food security.]]></content:encoded>
+            <dc:title><![CDATA[Address the growing urgency of fungal disease in crops]]></dc:title>
+            <dc:creator>Eva  Stukenbrock</dc:creator><dc:creator>Sarah  Gurr</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01465-4</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-02; | doi:10.1038/d41586-023-01465-4</dc:source>
+            <dc:date>2023-05-02</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01465-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01465-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01401-6">
+            <title><![CDATA[5G networks enable automated control of train traffic]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01401-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 02 May 2023; <a href="https://www.nature.com/articles/d41586-023-01401-6">doi:10.1038/d41586-023-01401-6</a></p>Key tasks for ensuring railway safety have been performed automatically using fifth-generation (5G) mobile networks. The trial forms part of a Europe-wide scheme to test the feasibility of automating transport.]]></content:encoded>
+            <dc:title><![CDATA[5G networks enable automated control of train traffic]]></dc:title>
+            <dc:creator>Toktam Mahmoodi</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01401-6</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-02; | doi:10.1038/d41586-023-01401-6</dc:source>
+            <dc:date>2023-05-02</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01401-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01401-6</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01487-y">
+            <title><![CDATA[‘Remarkable’ AI tool designs mRNA vaccines that are more potent and stable]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01487-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 02 May 2023; <a href="https://www.nature.com/articles/d41586-023-01487-y">doi:10.1038/d41586-023-01487-y</a></p>Software from Baidu Research yields jabs for COVID that have greater shelf stability and that trigger a larger antibody response in mice than conventionally designed shots.]]></content:encoded>
+            <dc:title><![CDATA[‘Remarkable’ AI tool designs mRNA vaccines that are more potent and stable]]></dc:title>
+            <dc:creator>Elie Dolgin</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01487-y</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-02; | doi:10.1038/d41586-023-01487-y</dc:source>
+            <dc:date>2023-05-02</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01487-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01487-y</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-01470-7">
@@ -1180,126 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01352-y</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01352-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01435-w">
-            <title><![CDATA[Chemist Charles Lieber avoids further prison time for lying about China ties]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01435-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 26 April 2023; <a href="https://www.nature.com/articles/d41586-023-01435-w">doi:10.1038/d41586-023-01435-w</a></p>Ex-Harvard researcher was among the first academics tried under the now-defunct US China Initiative.]]></content:encoded>
-            <dc:title><![CDATA[Chemist Charles Lieber avoids further prison time for lying about China ties]]></dc:title>
-            <dc:creator>Natasha Gilbert</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01435-w</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-26; | doi:10.1038/d41586-023-01435-w</dc:source>
-            <dc:date>2023-04-26</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01435-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01435-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01371-9">
-            <title><![CDATA[Are repeat COVID infections dangerous? What the science says]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01371-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 26 April 2023; <a href="https://www.nature.com/articles/d41586-023-01371-9">doi:10.1038/d41586-023-01371-9</a></p>Researchers disagree over how bad it is to be reinfected, and whether COVID-19 can cause lasting changes to the immune system.]]></content:encoded>
-            <dc:title><![CDATA[Are repeat COVID infections dangerous? What the science says]]></dc:title>
-            <dc:creator>Cassandra Willyard</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01371-9</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-26; | doi:10.1038/d41586-023-01371-9</dc:source>
-            <dc:date>2023-04-26</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01371-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01371-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01442-x">
-            <title><![CDATA[Black-hole image reveals details of turmoil around the abyss]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01442-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 26 April 2023; <a href="https://www.nature.com/articles/d41586-023-01442-x">doi:10.1038/d41586-023-01442-x</a></p>Observations of galaxy M87 show how the black hole at its centre relates to a long-seen stream of superheated matter.]]></content:encoded>
-            <dc:title><![CDATA[Black-hole image reveals details of turmoil around the abyss]]></dc:title>
-            <dc:creator>Davide Castelvecchi</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01442-x</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-26; | doi:10.1038/d41586-023-01442-x</dc:source>
-            <dc:date>2023-04-26</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01442-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01442-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01355-9">
-            <title><![CDATA[An unexpected timer for cell division]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01355-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 26 April 2023; <a href="https://www.nature.com/articles/d41586-023-01355-9">doi:10.1038/d41586-023-01355-9</a></p>A serendipitous observation has revealed that cells make several versions of a key protein needed for cell division. The ratio of these protein isoforms influences how long division can be delayed when errors arise.]]></content:encoded>
-            <dc:title><![CDATA[An unexpected timer for cell division]]></dc:title>
-            <dc:creator>Silke  Hauf</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01355-9</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-26; | doi:10.1038/d41586-023-01355-9</dc:source>
-            <dc:date>2023-04-26</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01355-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01355-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01327-z">
-            <title><![CDATA[Step-by-step assembly of a β-barrel protein in a bacterial membrane]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01327-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 26 April 2023; <a href="https://www.nature.com/articles/d41586-023-01327-z">doi:10.1038/d41586-023-01327-z</a></p>Gram-negative bacteria that are resistant to multiple drugs cannot survive without the cell-surface machinery that builds a β-barrel pore structure from outer membrane proteins. Snapshots of different stages in the assembly process provide insights into this crucial mechanism, and could lead to the development of new antibiotics.]]></content:encoded>
-            <dc:title><![CDATA[Step-by-step assembly of a β-barrel protein in a bacterial membrane]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-01327-z</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-26; | doi:10.1038/d41586-023-01327-z</dc:source>
-            <dc:date>2023-04-26</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01327-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01327-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01318-0">
-            <title><![CDATA[Change YourView]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01318-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 26 April 2023; <a href="https://www.nature.com/articles/d41586-023-01318-0">doi:10.1038/d41586-023-01318-0</a></p>The world is just enough.]]></content:encoded>
-            <dc:title><![CDATA[Change YourView]]></dc:title>
-            <dc:creator>Matt Tighe</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01318-0</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-26; | doi:10.1038/d41586-023-01318-0</dc:source>
-            <dc:date>2023-04-26</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01318-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01318-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01433-y">
-            <title><![CDATA[How trauma’s effects can pass from generation to generation]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01433-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 26 April 2023; <a href="https://www.nature.com/articles/d41586-023-01433-y">doi:10.1038/d41586-023-01433-y</a></p>Neuroepigenetics researcher Isabelle Mansuy investigates how life life experiences and environmental factors can shape not only us, but also our descendants.]]></content:encoded>
-            <dc:title><![CDATA[How trauma’s effects can pass from generation to generation]]></dc:title>
-            <dc:creator>Dom Byrne</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01433-y</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-26; | doi:10.1038/d41586-023-01433-y</dc:source>
-            <dc:date>2023-04-26</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01433-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01433-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01427-w">
-            <title><![CDATA[Goldfish headgear reveals secrets of fish navigation]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01427-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 25 April 2023; <a href="https://www.nature.com/articles/d41586-023-01427-w">doi:10.1038/d41586-023-01427-w</a></p>Unprecedented pattern of brain activity is recorded in freely swimming fish.]]></content:encoded>
-            <dc:title><![CDATA[Goldfish headgear reveals secrets of fish navigation]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-01427-w</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-25; | doi:10.1038/d41586-023-01427-w</dc:source>
-            <dc:date>2023-04-25</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01427-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01427-w</prism:url>
         </item>
     
 </rdf:RDF>
