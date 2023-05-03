@@ -18,6 +18,18 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01460-9"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01474-3"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01472-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01475-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01473-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01405-2"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06127-z"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01384-4"/>
@@ -27,6 +39,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01481-4"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01480-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01464-5"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01471-6"/>
                 
@@ -154,20 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01370-w"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01330-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01441-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01333-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01321-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01324-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01451-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01352-y"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,96 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01460-9">
+            <title><![CDATA[Wearable sensor gives a glimpse of ‘invisible’ light]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01460-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 03 May 2023; <a href="https://www.nature.com/articles/d41586-023-01460-9">doi:10.1038/d41586-023-01460-9</a></p>A device that transforms infrared light into a visible image could be used for anti-surveillance purposes.]]></content:encoded>
+            <dc:title><![CDATA[Wearable sensor gives a glimpse of ‘invisible’ light]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-01460-9</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-03; | doi:10.1038/d41586-023-01460-9</dc:source>
+            <dc:date>2023-05-03</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01460-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01460-9</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01474-3">
+            <title><![CDATA[How menopause reshapes the brain]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01474-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 03 May 2023; <a href="https://www.nature.com/articles/d41586-023-01474-3">doi:10.1038/d41586-023-01474-3</a></p>Researchers are starting to learn how the early stages of menopause affect brain health — and what that could mean for treatment.]]></content:encoded>
+            <dc:title><![CDATA[How menopause reshapes the brain]]></dc:title>
+            <dc:creator>Heidi Ledford</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01474-3</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-03; | doi:10.1038/d41586-023-01474-3</dc:source>
+            <dc:date>2023-05-03</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01474-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01474-3</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01472-5">
+            <title><![CDATA[Women’s health: end the disparity in funding]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01472-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 03 May 2023; <a href="https://www.nature.com/articles/d41586-023-01472-5">doi:10.1038/d41586-023-01472-5</a></p>Funding for research on women’s health is still a fraction of that available for men’s health.]]></content:encoded>
+            <dc:title><![CDATA[Women’s health: end the disparity in funding]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-01472-5</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-03; | doi:10.1038/d41586-023-01472-5</dc:source>
+            <dc:date>2023-05-03</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01472-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01472-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01475-2">
+            <title><![CDATA[Women’s health research lacks funding — in a series of charts]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01475-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 03 May 2023; <a href="https://www.nature.com/articles/d41586-023-01475-2">doi:10.1038/d41586-023-01475-2</a></p>Conditions that affect women more than men garner less funding. But boosting investment could reap big rewards.]]></content:encoded>
+            <dc:title><![CDATA[Women’s health research lacks funding — in a series of charts]]></dc:title>
+            <dc:creator>Kerri Smith</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01475-2</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-03; | doi:10.1038/d41586-023-01475-2</dc:source>
+            <dc:date>2023-05-03</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01475-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01475-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01473-4">
+            <title><![CDATA[Is the world ready for ChatGPT therapists?]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01473-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 03 May 2023; <a href="https://www.nature.com/articles/d41586-023-01473-4">doi:10.1038/d41586-023-01473-4</a></p>The current landscape of mobile mental-health apps is the result of a 70-year search to automate therapy. Now, advanced AIs pose fresh ethical questions.]]></content:encoded>
+            <dc:title><![CDATA[Is the world ready for ChatGPT therapists?]]></dc:title>
+            <dc:creator>Ian  Graber-Stiehl</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01473-4</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-03; | doi:10.1038/d41586-023-01473-4</dc:source>
+            <dc:date>2023-05-03</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01473-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01473-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01405-2">
+            <title><![CDATA[Dad and Ick]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01405-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 03 May 2023; <a href="https://www.nature.com/articles/d41586-023-01405-2">doi:10.1038/d41586-023-01405-2</a></p>Machine learning.]]></content:encoded>
+            <dc:title><![CDATA[Dad and Ick]]></dc:title>
+            <dc:creator>Susan Taitel</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01405-2</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-03; | doi:10.1038/d41586-023-01405-2</dc:source>
+            <dc:date>2023-05-03</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01405-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01405-2</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06127-z">
             <title><![CDATA[Algorithm for Optimized mRNA Design Improves Stability and Immunogenicity]]></title>
@@ -250,6 +340,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01480-5</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01480-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01464-5">
+            <title><![CDATA[What drives a scavenger’s diet? Vulture culture]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01464-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 02 May 2023; <a href="https://www.nature.com/articles/d41586-023-01464-5">doi:10.1038/d41586-023-01464-5</a></p>Griffon vultures in northern Spain fill up at landfills, but their southern brethren prefer the carcasses of wild animals.]]></content:encoded>
+            <dc:title><![CDATA[What drives a scavenger’s diet? Vulture culture]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-01464-5</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-02; | doi:10.1038/d41586-023-01464-5</dc:source>
+            <dc:date>2023-05-02</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01464-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01464-5</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-01471-6">
@@ -1195,111 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01370-w</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01370-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01330-4">
-            <title><![CDATA[Copper catalyses changes in cell state]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01330-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 26 April 2023; <a href="https://www.nature.com/articles/d41586-023-01330-4">doi:10.1038/d41586-023-01330-4</a></p>It emerges that copper ions found in cell organelles called mitochondria regulate the cellular changes that underlie transitions in cell state. A small molecule that inhibits copper-mediated catalysis can suppress the activation of immune cells called macrophages, conferring therapeutic benefits in models of acute inflammation.]]></content:encoded>
-            <dc:title><![CDATA[Copper catalyses changes in cell state]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-01330-4</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-26; | doi:10.1038/d41586-023-01330-4</dc:source>
-            <dc:date>2023-04-26</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01330-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01330-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01441-y">
-            <title><![CDATA[Private ispace Moon landing fails: researchers are investigating]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01441-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 26 April 2023; <a href="https://www.nature.com/articles/d41586-023-01441-y">doi:10.1038/d41586-023-01441-y</a></p>Mission control was unable to re-establish contact with the M1 spacecraft, and early signs suggest it crash-landed on the lunar surface.]]></content:encoded>
-            <dc:title><![CDATA[Private ispace Moon landing fails: researchers are investigating]]></dc:title>
-            <dc:creator>Gemma Conroy</dc:creator><dc:creator>Miryam Naddaf</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01441-y</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-26; | doi:10.1038/d41586-023-01441-y</dc:source>
-            <dc:date>2023-04-26</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01441-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01441-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01333-1">
-            <title><![CDATA[How flies remember a rich experience from its individual components]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01333-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 26 April 2023; <a href="https://www.nature.com/articles/d41586-023-01333-1">doi:10.1038/d41586-023-01333-1</a></p>Multisensory information improves subsequent memory performance. In Drosophila flies, learning re-routes activity through neuronal networks in the brain such that individual components of a multisensory experience can trigger retrieval of the memory of the whole event. As a result, memory performance for both the combined and individual components of the experience is improved.]]></content:encoded>
-            <dc:title><![CDATA[How flies remember a rich experience from its individual components]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-01333-1</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-26; | doi:10.1038/d41586-023-01333-1</dc:source>
-            <dc:date>2023-04-26</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01333-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01333-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01321-5">
-            <title><![CDATA[Tree diversity enhances soil carbon and nitrogen sequestration in natural forests]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01321-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 26 April 2023; <a href="https://www.nature.com/articles/d41586-023-01321-5">doi:10.1038/d41586-023-01321-5</a></p>Biodiversity experiments show that a high diversity of plants increases the accumulation of soil carbon and nitrogen, but whether such conclusions hold in natural ecosystems is debated. An analysis of Canada’s National Forest Inventory provides strong evidence that the build-up of soil carbon and nitrogen on a decadal timescale increased with improved tree diversity in natural forest ecosystems.]]></content:encoded>
-            <dc:title><![CDATA[Tree diversity enhances soil carbon and nitrogen sequestration in natural forests]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-01321-5</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-26; | doi:10.1038/d41586-023-01321-5</dc:source>
-            <dc:date>2023-04-26</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01321-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01321-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01324-2">
-            <title><![CDATA[New protein–protein interactions designed by a computer]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01324-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 26 April 2023; <a href="https://www.nature.com/articles/d41586-023-01324-2">doi:10.1038/d41586-023-01324-2</a></p>Creating protein interactions through computational design is a key challenge in the fields of both basic and translational biology. An approach that uses the machine-learned fingerprints of protein-surface features was used to produce synthetic proteins that engage immunotherapeutic or viral targets with binding affinities comparable to those of naturally occurring proteins.]]></content:encoded>
-            <dc:title><![CDATA[New protein–protein interactions designed by a computer]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-01324-2</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-26; | doi:10.1038/d41586-023-01324-2</dc:source>
-            <dc:date>2023-04-26</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01324-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01324-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01451-w">
-            <title><![CDATA[Daily briefing: Moon lander has been lost]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01451-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 26 April 2023; <a href="https://www.nature.com/articles/d41586-023-01451-w">doi:10.1038/d41586-023-01451-w</a></p>The lunar lander by Japanese firm ispace appears to have crash-landed. Plus, the risks of repeat COVID infections and a surprising galaxy with the ingredients for planet formation.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: Moon lander has been lost]]></dc:title>
-            <dc:creator>Flora Graham</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01451-w</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-26; | doi:10.1038/d41586-023-01451-w</dc:source>
-            <dc:date>2023-04-26</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01451-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01451-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01352-y">
-            <title><![CDATA[Mixed plastics upcycled dynamically]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01352-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 26 April 2023; <a href="https://www.nature.com/articles/d41586-023-01352-y">doi:10.1038/d41586-023-01352-y</a></p>Waste plastics contain immiscible polymers, making recycling challenging. A new additive enables the thermal reprocessing of mixed plastics into recyclable, high-performance materials.]]></content:encoded>
-            <dc:title><![CDATA[Mixed plastics upcycled dynamically]]></dc:title>
-            <dc:creator>Mathieu L. Lepage</dc:creator><dc:creator>Jeremy E. Wulff</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01352-y</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-26; | doi:10.1038/d41586-023-01352-y</dc:source>
-            <dc:date>2023-04-26</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01352-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01352-y</prism:url>
         </item>
     
 </rdf:RDF>
