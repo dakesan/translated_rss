@@ -18,6 +18,14 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06115-3"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06126-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01483-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01518-8"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06093-6"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01462-7"/>
@@ -124,6 +132,8 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01471-6"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01519-7"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01434-x"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01486-z"/>
@@ -158,16 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01449-4"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01466-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01476-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01453-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01395-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01478-z"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,66 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-023-06115-3">
+            <title><![CDATA[Author Correction: CFTR function, pathology and pharmacology at single-molecule resolution]]></title>
+            <link>https://www.nature.com/articles/s41586-023-06115-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 04 May 2023; <a href="https://www.nature.com/articles/s41586-023-06115-3">doi:10.1038/s41586-023-06115-3</a></p>Author Correction: CFTR function, pathology and pharmacology at single-molecule resolution]]></content:encoded>
+            <dc:title><![CDATA[Author Correction: CFTR function, pathology and pharmacology at single-molecule resolution]]></dc:title>
+            <dc:creator>Jesper Levring</dc:creator><dc:creator>Daniel S. Terry</dc:creator><dc:creator>Zeliha Kilic</dc:creator><dc:creator>Gabriel Fitzgerald</dc:creator><dc:creator>Scott C. Blanchard</dc:creator><dc:creator>Jue Chen</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-023-06115-3</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-04; | doi:10.1038/s41586-023-06115-3</dc:source>
+            <dc:date>2023-05-04</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-023-06115-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-023-06115-3</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-023-06126-0">
+            <title><![CDATA[Author Correction: Population dynamics of head-direction neurons during drift and reorientation]]></title>
+            <link>https://www.nature.com/articles/s41586-023-06126-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 04 May 2023; <a href="https://www.nature.com/articles/s41586-023-06126-0">doi:10.1038/s41586-023-06126-0</a></p>Author Correction: Population dynamics of head-direction neurons during drift and reorientation]]></content:encoded>
+            <dc:title><![CDATA[Author Correction: Population dynamics of head-direction neurons during drift and reorientation]]></dc:title>
+            <dc:creator>Zaki Ajabi</dc:creator><dc:creator>Alexandra T. Keinath</dc:creator><dc:creator>Xue-Xin Wei</dc:creator><dc:creator>Mark P. Brandon</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-023-06126-0</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-04; | doi:10.1038/s41586-023-06126-0</dc:source>
+            <dc:date>2023-05-04</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-023-06126-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-023-06126-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01483-2">
+            <title><![CDATA[Wuhan market samples fail to shed further light on COVID origins]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01483-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 04 May 2023; <a href="https://www.nature.com/articles/d41586-023-01483-2">doi:10.1038/d41586-023-01483-2</a></p>New analysis of genomic data from market swabs highlights their limitations.]]></content:encoded>
+            <dc:title><![CDATA[Wuhan market samples fail to shed further light on COVID origins]]></dc:title>
+            <dc:creator>Dyani Lewis</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01483-2</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-04; | doi:10.1038/d41586-023-01483-2</dc:source>
+            <dc:date>2023-05-04</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01483-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01483-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01518-8">
+            <title><![CDATA[New cellular ‘organelle’ discovered inside fruit-fly intestines]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01518-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 04 May 2023; <a href="https://www.nature.com/articles/d41586-023-01518-8">doi:10.1038/d41586-023-01518-8</a></p>Fruit-fly cells use previously unknown complex cellular structures to store phosphate, a molecule essential to life]]></content:encoded>
+            <dc:title><![CDATA[New cellular ‘organelle’ discovered inside fruit-fly intestines]]></dc:title>
+            <dc:creator>Gemma Conroy</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01518-8</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-04; | doi:10.1038/d41586-023-01518-8</dc:source>
+            <dc:date>2023-05-04</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01518-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01518-8</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06093-6">
             <title><![CDATA[Publisher Correction: 2D fin field-effect transistors integrated with epitaxial high-<i>k</i> gate oxide]]></title>
@@ -748,11 +808,11 @@
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-01475-2">
-            <title><![CDATA[Women’s health research lacks funding — in a series of charts]]></title>
+            <title><![CDATA[Women’s health research lacks funding — these charts show how]]></title>
             <link>https://www.nature.com/articles/d41586-023-01475-2</link>
             <content:encoded>
                 <![CDATA[<p>Nature, Published online: 03 May 2023; <a href="https://www.nature.com/articles/d41586-023-01475-2">doi:10.1038/d41586-023-01475-2</a></p>Conditions that affect women more than men garner less funding. But boosting investment could reap big rewards.]]></content:encoded>
-            <dc:title><![CDATA[Women’s health research lacks funding — in a series of charts]]></dc:title>
+            <dc:title><![CDATA[Women’s health research lacks funding — these charts show how]]></dc:title>
             <dc:creator>Kerri Smith</dc:creator>
             <dc:identifier>doi:10.1038/d41586-023-01475-2</dc:identifier>
             <dc:source>Nature, Published online: 2023-05-03; | doi:10.1038/d41586-023-01475-2</dc:source>
@@ -970,6 +1030,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01471-6</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01471-6</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01519-7">
+            <title><![CDATA[Daily briefing: COVID mini-waves rather than seasonal surges]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01519-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 02 May 2023; <a href="https://www.nature.com/articles/d41586-023-01519-7">doi:10.1038/d41586-023-01519-7</a></p>COVID outbreaks are evolving from waves to ‘wavelets’, the science behind cloud-seeding efforts in Mexico and how solar panels are helping to shelter citrons from climate change.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: COVID mini-waves rather than seasonal surges]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01519-7</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-02; | doi:10.1038/d41586-023-01519-7</dc:source>
+            <dc:date>2023-05-02</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01519-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01519-7</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-01434-x">
@@ -1225,81 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01449-4</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01449-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01466-3">
-            <title><![CDATA[A new view of our senses, and the founding of Yosemite: Books in brief]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01466-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 28 April 2023; <a href="https://www.nature.com/articles/d41586-023-01466-3">doi:10.1038/d41586-023-01466-3</a></p>Andrew Robinson reviews five of the best science picks.]]></content:encoded>
-            <dc:title><![CDATA[A new view of our senses, and the founding of Yosemite: Books in brief]]></dc:title>
-            <dc:creator>Andrew Robinson</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01466-3</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-28; | doi:10.1038/d41586-023-01466-3</dc:source>
-            <dc:date>2023-04-28</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01466-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01466-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01476-1">
-            <title><![CDATA[Wind turbines are tough to recycle – this new chemistry could help]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01476-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 28 April 2023; <a href="https://www.nature.com/articles/d41586-023-01476-1">doi:10.1038/d41586-023-01476-1</a></p>A method for breaking down epoxies could stop wind turbine blades ending up in landfill.]]></content:encoded>
-            <dc:title><![CDATA[Wind turbines are tough to recycle – this new chemistry could help]]></dc:title>
-            <dc:creator>Shamini Bundell</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01476-1</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-28; | doi:10.1038/d41586-023-01476-1</dc:source>
-            <dc:date>2023-04-28</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01476-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01476-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01453-8">
-            <title><![CDATA[Canadian PhD students and postgrads plan mass walkout over low pay]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01453-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 28 April 2023; <a href="https://www.nature.com/articles/d41586-023-01453-8">doi:10.1038/d41586-023-01453-8</a></p>Academics are demanding a significant boost to government-sponsored fellowships and scholarships, which haven’t changed for decades.]]></content:encoded>
-            <dc:title><![CDATA[Canadian PhD students and postgrads plan mass walkout over low pay]]></dc:title>
-            <dc:creator>Brian Owens</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01453-8</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-28; | doi:10.1038/d41586-023-01453-8</dc:source>
-            <dc:date>2023-04-28</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01453-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01453-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01395-1">
-            <title><![CDATA[How to keep Ukraine’s research hopes alive]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01395-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 28 April 2023; <a href="https://www.nature.com/articles/d41586-023-01395-1">doi:10.1038/d41586-023-01395-1</a></p>Ukrainian scientists reflect on their country’s invasion by Russia, how to halt a postwar brain drain, and how collaborations with Russian colleagues have suffered.]]></content:encoded>
-            <dc:title><![CDATA[How to keep Ukraine’s research hopes alive]]></dc:title>
-            <dc:creator>Adam Levy</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01395-1</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-28; | doi:10.1038/d41586-023-01395-1</dc:source>
-            <dc:date>2023-04-28</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01395-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01395-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01478-z">
-            <title><![CDATA[‘Armed groups entered the lab’: Sudan’s researchers flee violent military conflict]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01478-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 28 April 2023; <a href="https://www.nature.com/articles/d41586-023-01478-z">doi:10.1038/d41586-023-01478-z</a></p>Clashes have left hospitals and universities without water and power — and vulnerable to takeover by armed groups.]]></content:encoded>
-            <dc:title><![CDATA[‘Armed groups entered the lab’: Sudan’s researchers flee violent military conflict]]></dc:title>
-            <dc:creator>Miryam Naddaf</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01478-z</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-28; | doi:10.1038/d41586-023-01478-z</dc:source>
-            <dc:date>2023-04-28</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01478-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01478-z</prism:url>
         </item>
     
 </rdf:RDF>
