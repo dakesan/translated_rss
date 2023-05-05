@@ -18,13 +18,25 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06118-0"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06115-3"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06126-0"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01516-w"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01483-2"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01530-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01557-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01517-9"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01518-8"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01537-5"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06093-6"/>
                 
@@ -110,6 +122,8 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01386-2"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01534-8"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01473-4"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01405-2"/>
@@ -154,20 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01467-2"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01437-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01411-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01469-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01425-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01448-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01351-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01449-4"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,21 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-023-06118-0">
+            <title><![CDATA[Author Correction: Apolipoprotein E controls cerebrovascular integrity via cyclophilin A]]></title>
+            <link>https://www.nature.com/articles/s41586-023-06118-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 05 May 2023; <a href="https://www.nature.com/articles/s41586-023-06118-0">doi:10.1038/s41586-023-06118-0</a></p>Author Correction: Apolipoprotein E controls cerebrovascular integrity via cyclophilin A]]></content:encoded>
+            <dc:title><![CDATA[Author Correction: Apolipoprotein E controls cerebrovascular integrity via cyclophilin A]]></dc:title>
+            <dc:creator>Robert D. Bell</dc:creator><dc:creator>Ethan A. Winkler</dc:creator><dc:creator>Itender Singh</dc:creator><dc:creator>Abhay P. Sagare</dc:creator><dc:creator>Rashid Deane</dc:creator><dc:creator>Zhenhua Wu</dc:creator><dc:creator>David M. Holtzman</dc:creator><dc:creator>Christer Betsholtz</dc:creator><dc:creator>Annika Armulik</dc:creator><dc:creator>Jan Sallstrom</dc:creator><dc:creator>Bradford C. Berk</dc:creator><dc:creator>Berislav V. Zlokovic</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-023-06118-0</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-05; | doi:10.1038/s41586-023-06118-0</dc:source>
+            <dc:date>2023-05-05</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-023-06118-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-023-06118-0</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06115-3">
             <title><![CDATA[Author Correction: CFTR function, pathology and pharmacology at single-molecule resolution]]></title>
@@ -207,6 +222,21 @@
             <prism:url>https://www.nature.com/articles/s41586-023-06126-0</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01516-w">
+            <title><![CDATA[How generative AI is building better antibodies]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01516-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 04 May 2023; <a href="https://www.nature.com/articles/d41586-023-01516-w">doi:10.1038/d41586-023-01516-w</a></p>Language models similar to those behind ChatGPT have been used to improve antibody therapies against COVID-19, Ebola and other viruses.]]></content:encoded>
+            <dc:title><![CDATA[How generative AI is building better antibodies]]></dc:title>
+            <dc:creator>Ewen Callaway</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01516-w</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-04; | doi:10.1038/d41586-023-01516-w</dc:source>
+            <dc:date>2023-05-04</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01516-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01516-w</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-023-01483-2">
             <title><![CDATA[Wuhan market samples fail to shed further light on COVID origins]]></title>
             <link>https://www.nature.com/articles/d41586-023-01483-2</link>
@@ -222,6 +252,51 @@
             <prism:url>https://www.nature.com/articles/d41586-023-01483-2</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01530-y">
+            <title><![CDATA[Hard feelings over mission change for NASA’s Pluto spacecraft]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01530-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 04 May 2023; <a href="https://www.nature.com/articles/d41586-023-01530-y">doi:10.1038/d41586-023-01530-y</a></p>US space agency plans to shift the New Horizons planetary probe to studying heliophysics, and some scientists don’t agree.]]></content:encoded>
+            <dc:title><![CDATA[Hard feelings over mission change for NASA’s Pluto spacecraft]]></dc:title>
+            <dc:creator>Alexandra Witze</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01530-y</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-04; | doi:10.1038/d41586-023-01530-y</dc:source>
+            <dc:date>2023-05-04</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01530-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01530-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01557-1">
+            <title><![CDATA[How a simple idea to share lab materials led to a circular-economy movement in science]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01557-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 04 May 2023; <a href="https://www.nature.com/articles/d41586-023-01557-1">doi:10.1038/d41586-023-01557-1</a></p>Garry Cooper’s sustainability business has grown to help thousands of people conduct more efficient research.]]></content:encoded>
+            <dc:title><![CDATA[How a simple idea to share lab materials led to a circular-economy movement in science]]></dc:title>
+            <dc:creator>Rachael Pells</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01557-1</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-04; | doi:10.1038/d41586-023-01557-1</dc:source>
+            <dc:date>2023-05-04</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01557-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01557-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01517-9">
+            <title><![CDATA[GISAID in crisis: can the controversial COVID genome database survive?]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01517-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 04 May 2023; <a href="https://www.nature.com/articles/d41586-023-01517-9">doi:10.1038/d41586-023-01517-9</a></p>The most popular repository for sharing SARS-CoV-2 sequence data has come under increasing scrutiny. Scientists and funders around the world must now consider what lies ahead for the open sharing of genome data.]]></content:encoded>
+            <dc:title><![CDATA[GISAID in crisis: can the controversial COVID genome database survive?]]></dc:title>
+            <dc:creator>Mariana Lenharo</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01517-9</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-04; | doi:10.1038/d41586-023-01517-9</dc:source>
+            <dc:date>2023-05-04</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01517-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01517-9</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-023-01518-8">
             <title><![CDATA[New cellular ‘organelle’ discovered inside fruit-fly intestines]]></title>
             <link>https://www.nature.com/articles/d41586-023-01518-8</link>
@@ -235,6 +310,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01518-8</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01518-8</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01537-5">
+            <title><![CDATA[Alzheimer’s drug donanemab: what promising trial means for treatments]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01537-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 04 May 2023; <a href="https://www.nature.com/articles/d41586-023-01537-5">doi:10.1038/d41586-023-01537-5</a></p>Results suggest the amyloid-targeting drug candidate slows cognitive decline in some people, but questions remain over its potential side effects.]]></content:encoded>
+            <dc:title><![CDATA[Alzheimer’s drug donanemab: what promising trial means for treatments]]></dc:title>
+            <dc:creator>Sara Reardon</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01537-5</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-04; | doi:10.1038/d41586-023-01537-5</dc:source>
+            <dc:date>2023-05-04</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01537-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01537-5</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06093-6">
@@ -751,7 +841,7 @@
             <title><![CDATA[‘Einstein’ telescope high on Europe’s astronomy wish list]]></title>
             <link>https://www.nature.com/articles/d41586-023-01524-w</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 03 May 2023; <a href="https://www.nature.com/articles/d41586-023-01524-w">doi:10.1038/d41586-023-01524-w</a></p>A massive gravitational-wave detector and a new solar telescope are among the priorities on funders’ latest roadmap.]]></content:encoded>
+                <![CDATA[<p>Nature, Published online: 03 May 2023; <a href="https://www.nature.com/articles/d41586-023-01524-w">doi:10.1038/d41586-023-01524-w</a></p>A massive gravitational-wave detector and the new solar telescope are among the priorities on funders’ latest roadmap.]]></content:encoded>
             <dc:title><![CDATA[‘Einstein’ telescope high on Europe’s astronomy wish list]]></dc:title>
             <dc:creator>Katharine Sanderson</dc:creator>
             <dc:identifier>doi:10.1038/d41586-023-01524-w</dc:identifier>
@@ -766,7 +856,7 @@
             <title><![CDATA[‘A good day’: FDA approves world’s first RSV vaccine]]></title>
             <link>https://www.nature.com/articles/d41586-023-01529-5</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 03 May 2023; <a href="https://www.nature.com/articles/d41586-023-01529-5">doi:10.1038/d41586-023-01529-5</a></p>The US Food and Drug Administration has given the greenlight to GSK's jab for people 60 and older, capping off a decades-long quest.]]></content:encoded>
+                <![CDATA[<p>Nature, Published online: 03 May 2023; <a href="https://www.nature.com/articles/d41586-023-01529-5">doi:10.1038/d41586-023-01529-5</a></p>Green light from US regulatory agency for GSK’s jab caps off a decades-long quest.]]></content:encoded>
             <dc:title><![CDATA[‘A good day’: FDA approves world’s first RSV vaccine]]></dc:title>
             <dc:creator>Myriam Vidal Valero</dc:creator>
             <dc:identifier>doi:10.1038/d41586-023-01529-5</dc:identifier>
@@ -865,6 +955,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01386-2</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01386-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01534-8">
+            <title><![CDATA[Daily briefing: Menopause is driven by the brain, not just the ovaries]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01534-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 03 May 2023; <a href="https://www.nature.com/articles/d41586-023-01534-8">doi:10.1038/d41586-023-01534-8</a></p>The neurological causes of menopause, the month’s best science images and an AI-powered brain scan that can decode imagined speech.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Menopause is driven by the brain, not just the ovaries]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01534-8</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-03; | doi:10.1038/d41586-023-01534-8</dc:source>
+            <dc:date>2023-05-03</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01534-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01534-8</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-01473-4">
@@ -1195,111 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01467-2</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01467-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01437-8">
-            <title><![CDATA[COVID's future: mini-waves rather than seasonal surges]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01437-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 01 May 2023; <a href="https://www.nature.com/articles/d41586-023-01437-8">doi:10.1038/d41586-023-01437-8</a></p>Three years after the start of the pandemic, SARS-CoV-2 shows no signs of settling into a seasonal pattern of spread, like influenza has.]]></content:encoded>
-            <dc:title><![CDATA[COVID's future: mini-waves rather than seasonal surges]]></dc:title>
-            <dc:creator>Ewen Callaway</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01437-8</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-01; | doi:10.1038/d41586-023-01437-8</dc:source>
-            <dc:date>2023-05-01</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01437-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01437-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01411-4">
-            <title><![CDATA[Online tools help large language models to solve problems through reasoning]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01411-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 01 May 2023; <a href="https://www.nature.com/articles/d41586-023-01411-4">doi:10.1038/d41586-023-01411-4</a></p>The large language models popularized by chatbots are being taught to alternate reasoning with calls to external tools, such as Wikipedia, to boost their accuracy. The strategy could improve fact-finding outcomes, as well as online shopping.]]></content:encoded>
-            <dc:title><![CDATA[Online tools help large language models to solve problems through reasoning]]></dc:title>
-            <dc:creator>Aleksandra  Piktus</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01411-4</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-01; | doi:10.1038/d41586-023-01411-4</dc:source>
-            <dc:date>2023-05-01</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01411-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01411-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01469-0">
-            <title><![CDATA[The sleight-of-hand trick that can simplify scientific computing]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01469-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 01 May 2023; <a href="https://www.nature.com/articles/d41586-023-01469-0">doi:10.1038/d41586-023-01469-0</a></p>Computational environments and the tools to manage them can help researchers to deliver code that is reproducible, documented and shareable.]]></content:encoded>
-            <dc:title><![CDATA[The sleight-of-hand trick that can simplify scientific computing]]></dc:title>
-            <dc:creator>Jeffrey M. Perkel</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01469-0</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-01; | doi:10.1038/d41586-023-01469-0</dc:source>
-            <dc:date>2023-05-01</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01469-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01469-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01425-y">
-            <title><![CDATA[‘Intention is not action’: brain-research centre steps up quest for equality]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01425-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 30 April 2023; <a href="https://www.nature.com/articles/d41586-023-01425-y">doi:10.1038/d41586-023-01425-y</a></p>New institute aims to enshrine inclusivity in all aspects of neuroscience and psychology research.]]></content:encoded>
-            <dc:title><![CDATA[‘Intention is not action’: brain-research centre steps up quest for equality]]></dc:title>
-            <dc:creator>Miryam Naddaf</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01425-y</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-30; | doi:10.1038/d41586-023-01425-y</dc:source>
-            <dc:date>2023-04-30</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01425-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01425-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01448-5">
-            <title><![CDATA[Fund research on racism’s health impacts, says European group]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01448-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 28 April 2023; <a href="https://www.nature.com/articles/d41586-023-01448-5">doi:10.1038/d41586-023-01448-5</a></p>A network of organizations urges the European Commission to recognize that discrimination can harm people’s well-being.]]></content:encoded>
-            <dc:title><![CDATA[Fund research on racism’s health impacts, says European group]]></dc:title>
-            <dc:creator>Layal Liverpool</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01448-5</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-28; | doi:10.1038/d41586-023-01448-5</dc:source>
-            <dc:date>2023-04-28</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01448-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01448-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01351-z">
-            <title><![CDATA[Audio long read: Conquering Alzheimer’s — a look at the therapies of the future]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01351-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 28 April 2023; <a href="https://www.nature.com/articles/d41586-023-01351-z">doi:10.1038/d41586-023-01351-z</a></p>Trial successes have raised hopes that the condition might eventually be preventable.]]></content:encoded>
-            <dc:title><![CDATA[Audio long read: Conquering Alzheimer’s — a look at the therapies of the future]]></dc:title>
-            <dc:creator>Alison Abbott</dc:creator><dc:creator>Benjamin Thompson</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01351-z</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-28; | doi:10.1038/d41586-023-01351-z</dc:source>
-            <dc:date>2023-04-28</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01351-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01351-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01449-4">
-            <title><![CDATA[A foggy future for the Arctic means slower ship journeys]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01449-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 28 April 2023; <a href="https://www.nature.com/articles/d41586-023-01449-4">doi:10.1038/d41586-023-01449-4</a></p>Climate change is shrinking ice, fuelling fog formation over the Arctic Ocean.]]></content:encoded>
-            <dc:title><![CDATA[A foggy future for the Arctic means slower ship journeys]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-01449-4</dc:identifier>
-            <dc:source>Nature, Published online: 2023-04-28; | doi:10.1038/d41586-023-01449-4</dc:source>
-            <dc:date>2023-04-28</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01449-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01449-4</prism:url>
         </item>
     
 </rdf:RDF>
