@@ -20,6 +20,10 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06118-0"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01407-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01396-0"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06115-3"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06126-0"/>
@@ -29,6 +33,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01483-2"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01530-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01561-5"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01557-1"/>
                 
@@ -162,12 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01468-1"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01452-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01038-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01467-2"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -190,6 +190,36 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/s41586-023-06118-0</prism:doi>
             <prism:url>https://www.nature.com/articles/s41586-023-06118-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01407-0">
+            <title><![CDATA[Rynnden has invited you to a scheduled meeting]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01407-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 05 May 2023; <a href="https://www.nature.com/articles/d41586-023-01407-0">doi:10.1038/d41586-023-01407-0</a></p>In space, no one can hear you screen.]]></content:encoded>
+            <dc:title><![CDATA[Rynnden has invited you to a scheduled meeting]]></dc:title>
+            <dc:creator>Pauline Barmby</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01407-0</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-05; | doi:10.1038/d41586-023-01407-0</dc:source>
+            <dc:date>2023-05-05</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01407-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01407-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01396-0">
+            <title><![CDATA[Shielding science from politics: how Joe Biden’s research integrity drive is faring]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01396-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 05 May 2023; <a href="https://www.nature.com/articles/d41586-023-01396-0">doi:10.1038/d41586-023-01396-0</a></p>Representatives of US whistleblower organisations deliver their verdict on a strategy to protect federal scientists and their research.]]></content:encoded>
+            <dc:title><![CDATA[Shielding science from politics: how Joe Biden’s research integrity drive is faring]]></dc:title>
+            <dc:creator>Adam Levy</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01396-0</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-05; | doi:10.1038/d41586-023-01396-0</dc:source>
+            <dc:date>2023-05-05</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01396-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01396-0</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06115-3">
@@ -265,6 +295,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01530-y</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01530-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01561-5">
+            <title><![CDATA[Daily briefing: World’s first vaccine for RSV approved]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01561-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 04 May 2023; <a href="https://www.nature.com/articles/d41586-023-01561-5">doi:10.1038/d41586-023-01561-5</a></p>FDA approves GSK’s vaccine Arexvy against respiratory syncytial virus (RSV) for older people. Plus, prehistoric pendant’s DNA reveals the person who held it and investment in diseases that mostly affect women could reap big rewards.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: World’s first vaccine for RSV approved]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01561-5</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-04; | doi:10.1038/d41586-023-01561-5</dc:source>
+            <dc:date>2023-05-04</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01561-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01561-5</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-01557-1">
@@ -1255,51 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01468-1</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01468-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01452-9">
-            <title><![CDATA[Air pollution in China is falling — but there is a long way to go]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01452-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 01 May 2023; <a href="https://www.nature.com/articles/d41586-023-01452-9">doi:10.1038/d41586-023-01452-9</a></p>Easy gains from upgrading power-plant smokestacks will be strengthened only by deeper policy changes.]]></content:encoded>
-            <dc:title><![CDATA[Air pollution in China is falling — but there is a long way to go]]></dc:title>
-            <dc:creator>Dyani Lewis</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01452-9</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-01; | doi:10.1038/d41586-023-01452-9</dc:source>
-            <dc:date>2023-05-01</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01452-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01452-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01038-5">
-            <title><![CDATA[Mexico is seeding clouds to make rain — scientists aren’t sure it works]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01038-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 01 May 2023; <a href="https://www.nature.com/articles/d41586-023-01038-5">doi:10.1038/d41586-023-01038-5</a></p>Researchers question the government’s investment, given uncertainties about the technology.]]></content:encoded>
-            <dc:title><![CDATA[Mexico is seeding clouds to make rain — scientists aren’t sure it works]]></dc:title>
-            <dc:creator>Myriam Vidal Valero</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01038-5</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-01; | doi:10.1038/d41586-023-01038-5</dc:source>
-            <dc:date>2023-05-01</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01038-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01038-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01467-2">
-            <title><![CDATA[What it’s like to be in the minority at a conference]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01467-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 01 May 2023; <a href="https://www.nature.com/articles/d41586-023-01467-2">doi:10.1038/d41586-023-01467-2</a></p>Female and Black researchers describe the impacts of sexism and racism at conferences]]></content:encoded>
-            <dc:title><![CDATA[What it’s like to be in the minority at a conference]]></dc:title>
-            <dc:creator>Nic Fleming</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01467-2</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-01; | doi:10.1038/d41586-023-01467-2</dc:source>
-            <dc:date>2023-05-01</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01467-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01467-2</prism:url>
         </item>
     
 </rdf:RDF>
