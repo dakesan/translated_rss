@@ -20,7 +20,15 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06118-0"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01523-x"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01559-z"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01407-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01567-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01558-0"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01396-0"/>
                 
@@ -160,14 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01465-4"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01401-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01487-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01470-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01468-1"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -192,6 +192,36 @@
             <prism:url>https://www.nature.com/articles/s41586-023-06118-0</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01523-x">
+            <title><![CDATA[Saudi universities entice top scientists to switch affiliations — sometimes with cash]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01523-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 05 May 2023; <a href="https://www.nature.com/articles/d41586-023-01523-x">doi:10.1038/d41586-023-01523-x</a></p>Some institutions arrange for highly cited researchers to change their main affiliations, which boosts their position in global university rankings.]]></content:encoded>
+            <dc:title><![CDATA[Saudi universities entice top scientists to switch affiliations — sometimes with cash]]></dc:title>
+            <dc:creator>Michele Catanzaro</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01523-x</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-05; | doi:10.1038/d41586-023-01523-x</dc:source>
+            <dc:date>2023-05-05</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01523-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01523-x</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01559-z">
+            <title><![CDATA[WHO declares end to COVID-19’s emergency phase]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01559-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 05 May 2023; <a href="https://www.nature.com/articles/d41586-023-01559-z">doi:10.1038/d41586-023-01559-z</a></p>The pandemic has been on a “downward trend” but the risk of new variants remains, WHO’s director-general says.]]></content:encoded>
+            <dc:title><![CDATA[WHO declares end to COVID-19’s emergency phase]]></dc:title>
+            <dc:creator>Mariana Lenharo</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01559-z</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-05; | doi:10.1038/d41586-023-01559-z</dc:source>
+            <dc:date>2023-05-05</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01559-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01559-z</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-023-01407-0">
             <title><![CDATA[Rynnden has invited you to a scheduled meeting]]></title>
             <link>https://www.nature.com/articles/d41586-023-01407-0</link>
@@ -205,6 +235,36 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01407-0</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01407-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01567-z">
+            <title><![CDATA[CDC director Rochelle Walensky is leaving her post]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01567-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 05 May 2023; <a href="https://www.nature.com/articles/d41586-023-01567-z">doi:10.1038/d41586-023-01567-z</a></p>Chief of US public-health agency announced her departure as COVID-19 emergency declarations end.]]></content:encoded>
+            <dc:title><![CDATA[CDC director Rochelle Walensky is leaving her post]]></dc:title>
+            <dc:creator>Traci Watson</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01567-z</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-05; | doi:10.1038/d41586-023-01567-z</dc:source>
+            <dc:date>2023-05-05</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01567-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01567-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01558-0">
+            <title><![CDATA[What Russia’s continued participation in the ISS means for science]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01558-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 05 May 2023; <a href="https://www.nature.com/articles/d41586-023-01558-0">doi:10.1038/d41586-023-01558-0</a></p>The nation’s support for the International Space Station until 2028 is a relief for international scientists who depend on it for their research.]]></content:encoded>
+            <dc:title><![CDATA[What Russia’s continued participation in the ISS means for science]]></dc:title>
+            <dc:creator>Layal Liverpool</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01558-0</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-05; | doi:10.1038/d41586-023-01558-0</dc:source>
+            <dc:date>2023-05-05</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01558-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01558-0</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-01396-0">
@@ -361,7 +421,7 @@
             <title><![CDATA[Alzheimer’s drug donanemab: what promising trial means for treatments]]></title>
             <link>https://www.nature.com/articles/d41586-023-01537-5</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 04 May 2023; <a href="https://www.nature.com/articles/d41586-023-01537-5">doi:10.1038/d41586-023-01537-5</a></p>Results suggest the amyloid-targeting drug candidate slows cognitive decline in some people, but questions remain over its potential side effects.]]></content:encoded>
+                <![CDATA[<p>Nature, Published online: 04 May 2023; <a href="https://www.nature.com/articles/d41586-023-01537-5">doi:10.1038/d41586-023-01537-5</a></p>Results suggest that the amyloid-targeting drug candidate slows cognitive decline in some people, but questions remain over its potential side effects.]]></content:encoded>
             <dc:title><![CDATA[Alzheimer’s drug donanemab: what promising trial means for treatments]]></dc:title>
             <dc:creator>Sara Reardon</dc:creator>
             <dc:identifier>doi:10.1038/d41586-023-01537-5</dc:identifier>
@@ -1240,66 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01465-4</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01465-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01401-6">
-            <title><![CDATA[5G networks enable automated control of train traffic]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01401-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 02 May 2023; <a href="https://www.nature.com/articles/d41586-023-01401-6">doi:10.1038/d41586-023-01401-6</a></p>Key tasks for ensuring railway safety have been performed automatically using fifth-generation (5G) mobile networks. The trial forms part of a Europe-wide scheme to test the feasibility of automating transport.]]></content:encoded>
-            <dc:title><![CDATA[5G networks enable automated control of train traffic]]></dc:title>
-            <dc:creator>Toktam Mahmoodi</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01401-6</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-02; | doi:10.1038/d41586-023-01401-6</dc:source>
-            <dc:date>2023-05-02</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01401-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01401-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01487-y">
-            <title><![CDATA[‘Remarkable’ AI tool designs mRNA vaccines that are more potent and stable]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01487-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 02 May 2023; <a href="https://www.nature.com/articles/d41586-023-01487-y">doi:10.1038/d41586-023-01487-y</a></p>Software from Baidu Research yields jabs for COVID that have greater shelf stability and that trigger a larger antibody response in mice than conventionally designed shots.]]></content:encoded>
-            <dc:title><![CDATA[‘Remarkable’ AI tool designs mRNA vaccines that are more potent and stable]]></dc:title>
-            <dc:creator>Elie Dolgin</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01487-y</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-02; | doi:10.1038/d41586-023-01487-y</dc:source>
-            <dc:date>2023-05-02</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01487-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01487-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01470-7">
-            <title><![CDATA[Every nation needs a space agency]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01470-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 02 May 2023; <a href="https://www.nature.com/articles/d41586-023-01470-7">doi:10.1038/d41586-023-01470-7</a></p>As commercial firms transform the global space economy, each country’s space governance will shape its opportunities for decades to come.]]></content:encoded>
-            <dc:title><![CDATA[Every nation needs a space agency]]></dc:title>
-            <dc:creator>Carissa Bryce Christensen</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01470-7</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-02; | doi:10.1038/d41586-023-01470-7</dc:source>
-            <dc:date>2023-05-02</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01470-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01470-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01468-1">
-            <title><![CDATA[I helped to build Taiwan’s Silicon Valley]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01468-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 01 May 2023; <a href="https://www.nature.com/articles/d41586-023-01468-1">doi:10.1038/d41586-023-01468-1</a></p>Miin Wu, whose company, Macronix International, has played a seminal part in Taiwan’s semiconductor industry, explains why dust and vibration pose enormous challenges for running his factory.]]></content:encoded>
-            <dc:title><![CDATA[I helped to build Taiwan’s Silicon Valley]]></dc:title>
-            <dc:creator>Margaret  Simons</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01468-1</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-01; | doi:10.1038/d41586-023-01468-1</dc:source>
-            <dc:date>2023-05-01</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01468-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01468-1</prism:url>
         </item>
     
 </rdf:RDF>
