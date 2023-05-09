@@ -18,6 +18,16 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01564-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01565-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01563-3"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01548-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01572-2"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01553-5"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01551-7"/>
@@ -158,16 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01384-4"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01479-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01481-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01480-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01464-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01471-6"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,81 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01564-2">
+            <title><![CDATA[Carbon’s social cost can’t be retrofitted to water]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01564-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 09 May 2023; <a href="https://www.nature.com/articles/d41586-023-01564-2">doi:10.1038/d41586-023-01564-2</a></p>Carbon’s social cost can’t be retrofitted to water]]></content:encoded>
+            <dc:title><![CDATA[Carbon’s social cost can’t be retrofitted to water]]></dc:title>
+            <dc:creator>Sarah Wheeler</dc:creator><dc:creator>Claudia Ringler</dc:creator><dc:creator>Dustin Garrick</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01564-2</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-09; | doi:10.1038/d41586-023-01564-2</dc:source>
+            <dc:date>2023-05-09</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01564-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01564-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01565-1">
+            <title><![CDATA[The Bayh–Dole Coalition responds]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01565-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 09 May 2023; <a href="https://www.nature.com/articles/d41586-023-01565-1">doi:10.1038/d41586-023-01565-1</a></p>The Bayh–Dole Coalition responds]]></content:encoded>
+            <dc:title><![CDATA[The Bayh–Dole Coalition responds]]></dc:title>
+            <dc:creator>Joseph P. Allen</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01565-1</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-09; | doi:10.1038/d41586-023-01565-1</dc:source>
+            <dc:date>2023-05-09</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01565-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01565-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01563-3">
+            <title><![CDATA[Reform economics for managing global water supply]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01563-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 09 May 2023; <a href="https://www.nature.com/articles/d41586-023-01563-3">doi:10.1038/d41586-023-01563-3</a></p>Reform economics for managing global water supply]]></content:encoded>
+            <dc:title><![CDATA[Reform economics for managing global water supply]]></dc:title>
+            <dc:creator>Edward B. Barbier</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01563-3</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-09; | doi:10.1038/d41586-023-01563-3</dc:source>
+            <dc:date>2023-05-09</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01563-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01563-3</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01548-2">
+            <title><![CDATA[Why the fate of Turkish higher education hinges on the country’s general election]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01548-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 09 May 2023; <a href="https://www.nature.com/articles/d41586-023-01548-2">doi:10.1038/d41586-023-01548-2</a></p>Abolishing the council that controls the universities would allow higher education to finally blossom.]]></content:encoded>
+            <dc:title><![CDATA[Why the fate of Turkish higher education hinges on the country’s general election]]></dc:title>
+            <dc:creator>Taner Bilgiç</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01548-2</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-09; | doi:10.1038/d41586-023-01548-2</dc:source>
+            <dc:date>2023-05-09</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01548-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01548-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01572-2">
+            <title><![CDATA[Proposed EU data laws leave researchers out in the cold]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01572-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 09 May 2023; <a href="https://www.nature.com/articles/d41586-023-01572-2">doi:10.1038/d41586-023-01572-2</a></p>Some scientists say the European Commission’s Data Act would favour businesses in its aim to expand access rights to big data, and fear that publicly funded science will suffer.]]></content:encoded>
+            <dc:title><![CDATA[Proposed EU data laws leave researchers out in the cold]]></dc:title>
+            <dc:creator>Nic Fleming</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01572-2</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-09; | doi:10.1038/d41586-023-01572-2</dc:source>
+            <dc:date>2023-05-09</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01572-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01572-2</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-01553-5">
             <title><![CDATA[Mimicking of human skin to build wearable sensors]]></title>
@@ -1225,81 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01384-4</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01384-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01479-y">
-            <title><![CDATA[African American genomes don’t capture Africa’s genetic diversity]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01479-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 02 May 2023; <a href="https://www.nature.com/articles/d41586-023-01479-y">doi:10.1038/d41586-023-01479-y</a></p>African American genomes don’t capture Africa’s genetic diversity]]></content:encoded>
-            <dc:title><![CDATA[African American genomes don’t capture Africa’s genetic diversity]]></dc:title>
-            <dc:creator>Segun  Fatumo</dc:creator><dc:creator>Ananyo  Choudhury</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01479-y</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-02; | doi:10.1038/d41586-023-01479-y</dc:source>
-            <dc:date>2023-05-02</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01479-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01479-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01481-4">
-            <title><![CDATA[Ecology: correct the digital data divide]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01481-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 02 May 2023; <a href="https://www.nature.com/articles/d41586-023-01481-4">doi:10.1038/d41586-023-01481-4</a></p>Ecology: correct the digital data divide]]></content:encoded>
-            <dc:title><![CDATA[Ecology: correct the digital data divide]]></dc:title>
-            <dc:creator>Sarab  Sethi</dc:creator><dc:creator>Robert M.  Ewers</dc:creator><dc:creator>Rohini  Balakrishnan</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01481-4</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-02; | doi:10.1038/d41586-023-01481-4</dc:source>
-            <dc:date>2023-05-02</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01481-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01481-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01480-5">
-            <title><![CDATA[Strengthen scientific review of research protocols]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01480-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 02 May 2023; <a href="https://www.nature.com/articles/d41586-023-01480-5">doi:10.1038/d41586-023-01480-5</a></p>Strengthen scientific review of research protocols]]></content:encoded>
-            <dc:title><![CDATA[Strengthen scientific review of research protocols]]></dc:title>
-            <dc:creator>John H.   Powers</dc:creator><dc:creator>Jie   Min</dc:creator><dc:creator>David   Tribble</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01480-5</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-02; | doi:10.1038/d41586-023-01480-5</dc:source>
-            <dc:date>2023-05-02</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01480-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01480-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01464-5">
-            <title><![CDATA[What drives a scavenger’s diet? Vulture culture]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01464-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 02 May 2023; <a href="https://www.nature.com/articles/d41586-023-01464-5">doi:10.1038/d41586-023-01464-5</a></p>Griffon vultures in northern Spain fill up at landfills, but their southern brethren prefer the carcasses of wild animals.]]></content:encoded>
-            <dc:title><![CDATA[What drives a scavenger’s diet? Vulture culture]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-01464-5</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-02; | doi:10.1038/d41586-023-01464-5</dc:source>
-            <dc:date>2023-05-02</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01464-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01464-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01471-6">
-            <title><![CDATA[UK scientists are right to say no to ‘Plan B’ for post-Brexit research]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01471-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 02 May 2023; <a href="https://www.nature.com/articles/d41586-023-01471-6">doi:10.1038/d41586-023-01471-6</a></p>The United Kingdom’s alternative to EU Horizon Europe funding is near-silent on maintaining the collaborations needed to meet crucial global goals on climate and sustainability.]]></content:encoded>
-            <dc:title><![CDATA[UK scientists are right to say no to ‘Plan B’ for post-Brexit research]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-01471-6</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-02; | doi:10.1038/d41586-023-01471-6</dc:source>
-            <dc:date>2023-05-02</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01471-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01471-6</prism:url>
         </item>
     
 </rdf:RDF>
