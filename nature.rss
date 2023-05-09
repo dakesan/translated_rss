@@ -18,7 +18,11 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01553-5"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01551-7"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01566-0"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01552-6"/>
                 
@@ -164,10 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01471-6"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01519-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01434-x"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,21 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01553-5">
+            <title><![CDATA[Mimicking of human skin to build wearable sensors]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01553-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 May 2023; <a href="https://www.nature.com/articles/d41586-023-01553-5">doi:10.1038/d41586-023-01553-5</a></p>Yichen Cai creates thin, flexible devices that could have myriad uses, from wearable blood-pressure monitors to touch sensors for robots.]]></content:encoded>
+            <dc:title><![CDATA[Mimicking of human skin to build wearable sensors]]></dc:title>
+            <dc:creator>Linda Nordling</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01553-5</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-08; | doi:10.1038/d41586-023-01553-5</dc:source>
+            <dc:date>2023-05-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01553-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01553-5</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-01551-7">
             <title><![CDATA[Ethics in outer space: can we make interplanetary exploration just?]]></title>
@@ -190,6 +205,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01551-7</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01551-7</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01566-0">
+            <title><![CDATA[NIH reinstates grant for controversial coronavirus research]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01566-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 May 2023; <a href="https://www.nature.com/articles/d41586-023-01566-0">doi:10.1038/d41586-023-01566-0</a></p>EcoHealth Alliance lost the funding during the Trump administration but can now proceed with its research — under extensive restrictions.]]></content:encoded>
+            <dc:title><![CDATA[NIH reinstates grant for controversial coronavirus research]]></dc:title>
+            <dc:creator>Max Kozlov</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01566-0</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-08; | doi:10.1038/d41586-023-01566-0</dc:source>
+            <dc:date>2023-05-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01566-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01566-0</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-01552-6">
@@ -241,7 +271,7 @@
             <title><![CDATA[WHO declares end to COVID-19’s emergency phase]]></title>
             <link>https://www.nature.com/articles/d41586-023-01559-z</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 05 May 2023; <a href="https://www.nature.com/articles/d41586-023-01559-z">doi:10.1038/d41586-023-01559-z</a></p>The pandemic has been on a “downward trend” but the risk of new variants remains, WHO’s director-general says.]]></content:encoded>
+                <![CDATA[<p>Nature, Published online: 05 May 2023; <a href="https://www.nature.com/articles/d41586-023-01559-z">doi:10.1038/d41586-023-01559-z</a></p>The pandemic has been on a “downward trend”, but the risk of new variants remains, says WHO director-general.]]></content:encoded>
             <dc:title><![CDATA[WHO declares end to COVID-19’s emergency phase]]></dc:title>
             <dc:creator>Mariana Lenharo</dc:creator>
             <dc:identifier>doi:10.1038/d41586-023-01559-z</dc:identifier>
@@ -273,7 +303,7 @@
             <content:encoded>
                 <![CDATA[<p>Nature, Published online: 05 May 2023; <a href="https://www.nature.com/articles/d41586-023-01567-z">doi:10.1038/d41586-023-01567-z</a></p>Chief of US public-health agency announced her departure as COVID-19 emergency declarations end.]]></content:encoded>
             <dc:title><![CDATA[CDC director Rochelle Walensky is leaving her post]]></dc:title>
-            <dc:creator>Traci Watson</dc:creator>
+            <dc:creator>Traci Watson</dc:creator><dc:creator>Max Kozlov</dc:creator>
             <dc:identifier>doi:10.1038/d41586-023-01567-z</dc:identifier>
             <dc:source>Nature, Published online: 2023-05-05; | doi:10.1038/d41586-023-01567-z</dc:source>
             <dc:date>2023-05-05</dc:date>
@@ -1270,36 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01471-6</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01471-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01519-7">
-            <title><![CDATA[Daily briefing: COVID mini-waves rather than seasonal surges]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01519-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 02 May 2023; <a href="https://www.nature.com/articles/d41586-023-01519-7">doi:10.1038/d41586-023-01519-7</a></p>COVID outbreaks are evolving from waves to ‘wavelets’, the science behind cloud-seeding efforts in Mexico and how solar panels are helping to shelter citrons from climate change.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: COVID mini-waves rather than seasonal surges]]></dc:title>
-            <dc:creator>Flora Graham</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01519-7</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-02; | doi:10.1038/d41586-023-01519-7</dc:source>
-            <dc:date>2023-05-02</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01519-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01519-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01434-x">
-            <title><![CDATA[The deepest fish ever recorded and more — April’s best science images]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01434-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 02 May 2023; <a href="https://www.nature.com/articles/d41586-023-01434-x">doi:10.1038/d41586-023-01434-x</a></p>The month’s sharpest science shots, selected by Nature’s photo team.]]></content:encoded>
-            <dc:title><![CDATA[The deepest fish ever recorded and more — April’s best science images]]></dc:title>
-            <dc:creator>Emma Stoye</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01434-x</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-02; | doi:10.1038/d41586-023-01434-x</dc:source>
-            <dc:date>2023-05-02</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01434-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01434-x</prism:url>
         </item>
     
 </rdf:RDF>
