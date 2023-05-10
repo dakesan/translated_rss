@@ -18,6 +18,14 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01538-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01573-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01550-8"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01549-1"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01540-w"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01564-2"/>
@@ -160,14 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01531-x"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01475-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01482-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01336-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01386-2"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,66 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01538-4">
+            <title><![CDATA[Guide to potato genome could make for a bigger spud crop]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01538-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 10 May 2023; <a href="https://www.nature.com/articles/d41586-023-01538-4">doi:10.1038/d41586-023-01538-4</a></p>A genetic manual for the nightshade family, which includes the potato, could help breeders choose the best plants.]]></content:encoded>
+            <dc:title><![CDATA[Guide to potato genome could make for a bigger spud crop]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-01538-4</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-10; | doi:10.1038/d41586-023-01538-4</dc:source>
+            <dc:date>2023-05-10</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01538-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01538-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01573-1">
+            <title><![CDATA[The ocean is hotter than ever: what happens next?]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01573-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 10 May 2023; <a href="https://www.nature.com/articles/d41586-023-01573-1">doi:10.1038/d41586-023-01573-1</a></p>Record temperature combined with an anticipated El Niño could devastate marine life and increase the chances of extreme weather.]]></content:encoded>
+            <dc:title><![CDATA[The ocean is hotter than ever: what happens next?]]></dc:title>
+            <dc:creator>Nicola Jones</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01573-1</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-10; | doi:10.1038/d41586-023-01573-1</dc:source>
+            <dc:date>2023-05-10</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01573-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01573-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01550-8">
+            <title><![CDATA[Human embryo science: can the world’s regulators keep pace?]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01550-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 10 May 2023; <a href="https://www.nature.com/articles/d41586-023-01550-8">doi:10.1038/d41586-023-01550-8</a></p>Concerned by the speed of research, policymakers are looking for alternative ways to establish rules on genome editing and other technologies.]]></content:encoded>
+            <dc:title><![CDATA[Human embryo science: can the world’s regulators keep pace?]]></dc:title>
+            <dc:creator>Philip Ball</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01550-8</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-10; | doi:10.1038/d41586-023-01550-8</dc:source>
+            <dc:date>2023-05-10</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01550-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01550-8</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01549-1">
+            <title><![CDATA[‘The best way to get it right is to listen to us’ — autistic people argue for a stronger voice in research]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01549-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 10 May 2023; <a href="https://www.nature.com/articles/d41586-023-01549-1">doi:10.1038/d41586-023-01549-1</a></p>Despite broader acceptance of neurodiversity, autistic advocates and scientists are still fighting for a chance to set clinical and scientific priorities.]]></content:encoded>
+            <dc:title><![CDATA[‘The best way to get it right is to listen to us’ — autistic people argue for a stronger voice in research]]></dc:title>
+            <dc:creator>Emiliano Rodríguez Mega</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01549-1</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-10; | doi:10.1038/d41586-023-01549-1</dc:source>
+            <dc:date>2023-05-10</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01549-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01549-1</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-01540-w">
             <title><![CDATA[Gut microbes ‘eat’ nanoparticles — leading to microbiome changes]]></title>
@@ -1240,66 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01531-x</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01531-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01475-2">
-            <title><![CDATA[Women’s health research lacks funding — these charts show how]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01475-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 03 May 2023; <a href="https://www.nature.com/articles/d41586-023-01475-2">doi:10.1038/d41586-023-01475-2</a></p>Conditions that affect women more than men garner less funding. But boosting investment could reap big rewards.]]></content:encoded>
-            <dc:title><![CDATA[Women’s health research lacks funding — these charts show how]]></dc:title>
-            <dc:creator>Kerri Smith</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01475-2</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-03; | doi:10.1038/d41586-023-01475-2</dc:source>
-            <dc:date>2023-05-03</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01475-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01475-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01482-3">
-            <title><![CDATA[Prehistoric pendant’s DNA reveals the person who held it]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01482-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 03 May 2023; <a href="https://www.nature.com/articles/d41586-023-01482-3">doi:10.1038/d41586-023-01482-3</a></p>An innovative method reveals that an ancient trinket was handled by a woman some 20,000 years ago.]]></content:encoded>
-            <dc:title><![CDATA[Prehistoric pendant’s DNA reveals the person who held it]]></dc:title>
-            <dc:creator>Elissa Welle</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01482-3</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-03; | doi:10.1038/d41586-023-01482-3</dc:source>
-            <dc:date>2023-05-03</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01482-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01482-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01336-y">
-            <title><![CDATA[Structure of the most abundant human gut virus]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01336-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 03 May 2023; <a href="https://www.nature.com/articles/d41586-023-01336-y">doi:10.1038/d41586-023-01336-y</a></p>Crassviruses are the most abundant, and among the most genetically diverse, viruses found in the human gut. New structural information about these viruses has shed light on the functions of previously uncharacterized proteins in virus-particle assembly and infection.]]></content:encoded>
-            <dc:title><![CDATA[Structure of the most abundant human gut virus]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-01336-y</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-03; | doi:10.1038/d41586-023-01336-y</dc:source>
-            <dc:date>2023-05-03</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01336-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01336-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01386-2">
-            <title><![CDATA[Bright light coaxed from electrically driven quantum dots]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01386-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 03 May 2023; <a href="https://www.nature.com/articles/d41586-023-01386-2">doi:10.1038/d41586-023-01386-2</a></p>Nanocrystals made from a semiconducting material have been shown to emit intense light when excited with an electric current. The technology could be used to build a type of laser that is more versatile than those in general use.]]></content:encoded>
-            <dc:title><![CDATA[Bright light coaxed from electrically driven quantum dots]]></dc:title>
-            <dc:creator>Thilo Stöferle</dc:creator><dc:creator>Rainer F. Mahrt</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01386-2</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-03; | doi:10.1038/d41586-023-01386-2</dc:source>
-            <dc:date>2023-05-03</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01386-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01386-2</prism:url>
         </item>
     
 </rdf:RDF>
