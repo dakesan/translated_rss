@@ -18,13 +18,27 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01540-w"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01564-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01491-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01539-3"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01565-1"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01563-3"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01547-3"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01575-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01545-5"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01548-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01574-0"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01572-2"/>
                 
@@ -154,20 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01386-2"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01534-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01473-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01405-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01532-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01339-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06127-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01384-4"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,21 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01540-w">
+            <title><![CDATA[Gut microbes ‘eat’ nanoparticles — leading to microbiome changes]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01540-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 09 May 2023; <a href="https://www.nature.com/articles/d41586-023-01540-w">doi:10.1038/d41586-023-01540-w</a></p>Humans can accidentally ingest nanomaterials in consumer products, with unknown effects.]]></content:encoded>
+            <dc:title><![CDATA[Gut microbes ‘eat’ nanoparticles — leading to microbiome changes]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-01540-w</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-09; | doi:10.1038/d41586-023-01540-w</dc:source>
+            <dc:date>2023-05-09</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01540-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01540-w</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-01564-2">
             <title><![CDATA[Carbon’s social cost can’t be retrofitted to water]]></title>
@@ -190,6 +205,36 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01564-2</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01564-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01491-2">
+            <title><![CDATA[From the archive: sunshine statistics, and the hues and habits of aquarium fish]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01491-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 09 May 2023; <a href="https://www.nature.com/articles/d41586-023-01491-2">doi:10.1038/d41586-023-01491-2</a></p>Snippets from Nature’s past.]]></content:encoded>
+            <dc:title><![CDATA[From the archive: sunshine statistics, and the hues and habits of aquarium fish]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-01491-2</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-09; | doi:10.1038/d41586-023-01491-2</dc:source>
+            <dc:date>2023-05-09</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01491-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01491-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01539-3">
+            <title><![CDATA[Thousands of uncapped oil and gas wells dot the Gulf of Mexico]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01539-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 09 May 2023; <a href="https://www.nature.com/articles/d41586-023-01539-3">doi:10.1038/d41586-023-01539-3</a></p>Capping abandoned wells would cost billions of dollars but would reduce risks.]]></content:encoded>
+            <dc:title><![CDATA[Thousands of uncapped oil and gas wells dot the Gulf of Mexico]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-01539-3</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-09; | doi:10.1038/d41586-023-01539-3</dc:source>
+            <dc:date>2023-05-09</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01539-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01539-3</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-01565-1">
@@ -222,6 +267,51 @@
             <prism:url>https://www.nature.com/articles/d41586-023-01563-3</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01547-3">
+            <title><![CDATA[In space, failure is an option — often the only one]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01547-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 09 May 2023; <a href="https://www.nature.com/articles/d41586-023-01547-3">doi:10.1038/d41586-023-01547-3</a></p>Space companies should not lose heart when things go wrong. The first Moon missions failed repeatedly — and provided lessons on how to achieve success in space and beyond.]]></content:encoded>
+            <dc:title><![CDATA[In space, failure is an option — often the only one]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-01547-3</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-09; | doi:10.1038/d41586-023-01547-3</dc:source>
+            <dc:date>2023-05-09</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01547-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01547-3</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01575-z">
+            <title><![CDATA[How scientists are using WhatsApp for research and communication]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01575-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 09 May 2023; <a href="https://www.nature.com/articles/d41586-023-01575-z">doi:10.1038/d41586-023-01575-z</a></p>The messaging tool can help to reach collaborators and study participants in areas where Internet connectivity is poor.]]></content:encoded>
+            <dc:title><![CDATA[How scientists are using WhatsApp for research and communication]]></dc:title>
+            <dc:creator>Christine Ro</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01575-z</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-09; | doi:10.1038/d41586-023-01575-z</dc:source>
+            <dc:date>2023-05-09</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01575-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01575-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01545-5">
+            <title><![CDATA[Turkey’s landmark election: researchers urge winner to abolish university council]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01545-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 09 May 2023; <a href="https://www.nature.com/articles/d41586-023-01545-5">doi:10.1038/d41586-023-01545-5</a></p>Opposition alliance agrees it’s time for military-era council to go. Governing party silent on calls to axe body with the power to hire and fire academics.]]></content:encoded>
+            <dc:title><![CDATA[Turkey’s landmark election: researchers urge winner to abolish university council]]></dc:title>
+            <dc:creator>Miryam Naddaf</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01545-5</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-09; | doi:10.1038/d41586-023-01545-5</dc:source>
+            <dc:date>2023-05-09</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01545-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01545-5</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-023-01548-2">
             <title><![CDATA[Why the fate of Turkish higher education hinges on the country’s general election]]></title>
             <link>https://www.nature.com/articles/d41586-023-01548-2</link>
@@ -235,6 +325,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01548-2</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01548-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01574-0">
+            <title><![CDATA[Physicists create long-sought topological quantum states]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01574-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 09 May 2023; <a href="https://www.nature.com/articles/d41586-023-01574-0">doi:10.1038/d41586-023-01574-0</a></p>Exotic particles called nonabelions could fix quantum computers’ error problem.]]></content:encoded>
+            <dc:title><![CDATA[Physicists create long-sought topological quantum states]]></dc:title>
+            <dc:creator>Davide Castelvecchi</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01574-0</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-09; | doi:10.1038/d41586-023-01574-0</dc:source>
+            <dc:date>2023-05-09</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01574-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01574-0</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-01572-2">
@@ -286,7 +391,7 @@
             <title><![CDATA[NIH reinstates grant for controversial coronavirus research]]></title>
             <link>https://www.nature.com/articles/d41586-023-01566-0</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 08 May 2023; <a href="https://www.nature.com/articles/d41586-023-01566-0">doi:10.1038/d41586-023-01566-0</a></p>EcoHealth Alliance lost the funding during the Trump administration but can now proceed with its research — under extensive restrictions.]]></content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 May 2023; <a href="https://www.nature.com/articles/d41586-023-01566-0">doi:10.1038/d41586-023-01566-0</a></p>EcoHealth Alliance lost funding during the Trump administration, but can now proceed with its research — under extensive restrictions.]]></content:encoded>
             <dc:title><![CDATA[NIH reinstates grant for controversial coronavirus research]]></dc:title>
             <dc:creator>Max Kozlov</dc:creator>
             <dc:identifier>doi:10.1038/d41586-023-01566-0</dc:identifier>
@@ -1195,111 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01386-2</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01386-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01534-8">
-            <title><![CDATA[Daily briefing: Menopause is driven by the brain, not just the ovaries]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01534-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 03 May 2023; <a href="https://www.nature.com/articles/d41586-023-01534-8">doi:10.1038/d41586-023-01534-8</a></p>The neurological causes of menopause, the month’s best science images and an AI-powered brain scan that can decode imagined speech.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: Menopause is driven by the brain, not just the ovaries]]></dc:title>
-            <dc:creator>Flora Graham</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01534-8</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-03; | doi:10.1038/d41586-023-01534-8</dc:source>
-            <dc:date>2023-05-03</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01534-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01534-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01473-4">
-            <title><![CDATA[Is the world ready for ChatGPT therapists?]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01473-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 03 May 2023; <a href="https://www.nature.com/articles/d41586-023-01473-4">doi:10.1038/d41586-023-01473-4</a></p>The current landscape of mobile mental-health apps is the result of a 70-year search to automate therapy. Now, advanced AIs pose fresh ethical questions.]]></content:encoded>
-            <dc:title><![CDATA[Is the world ready for ChatGPT therapists?]]></dc:title>
-            <dc:creator>Ian  Graber-Stiehl</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01473-4</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-03; | doi:10.1038/d41586-023-01473-4</dc:source>
-            <dc:date>2023-05-03</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01473-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01473-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01405-2">
-            <title><![CDATA[Dad and Ick]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01405-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 03 May 2023; <a href="https://www.nature.com/articles/d41586-023-01405-2">doi:10.1038/d41586-023-01405-2</a></p>Machine learning.]]></content:encoded>
-            <dc:title><![CDATA[Dad and Ick]]></dc:title>
-            <dc:creator>Susan Taitel</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01405-2</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-03; | doi:10.1038/d41586-023-01405-2</dc:source>
-            <dc:date>2023-05-03</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01405-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01405-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01532-w">
-            <title><![CDATA[Researchers who agree to manipulate citations are more likely to get their papers published]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01532-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 03 May 2023; <a href="https://www.nature.com/articles/d41586-023-01532-w">doi:10.1038/d41586-023-01532-w</a></p>Data suggest that these researchers are more willing to publish in journals that participate in such coercion.]]></content:encoded>
-            <dc:title><![CDATA[Researchers who agree to manipulate citations are more likely to get their papers published]]></dc:title>
-            <dc:creator>Dalmeet Singh Chawla</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01532-w</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-03; | doi:10.1038/d41586-023-01532-w</dc:source>
-            <dc:date>2023-05-03</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01532-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01532-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01339-9">
-            <title><![CDATA[Brain dynamics uncovered using a machine-learning algorithm]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01339-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 03 May 2023; <a href="https://www.nature.com/articles/d41586-023-01339-9">doi:10.1038/d41586-023-01339-9</a></p>CEBRA is a machine-learning method that can be used to compress time series in a way that reveals otherwise hidden structures in the variability of the data. It excels at processing behavioural and neural data recorded simultaneously, and it can decode activity from the visual cortex of the mouse brain to reconstruct a viewed video.]]></content:encoded>
-            <dc:title><![CDATA[Brain dynamics uncovered using a machine-learning algorithm]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-01339-9</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-03; | doi:10.1038/d41586-023-01339-9</dc:source>
-            <dc:date>2023-05-03</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01339-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01339-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06127-z">
-            <title><![CDATA[Algorithm for Optimized mRNA Design Improves Stability and Immunogenicity]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06127-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 02 May 2023; <a href="https://www.nature.com/articles/s41586-023-06127-z">doi:10.1038/s41586-023-06127-z</a></p>Algorithm for Optimized mRNA Design Improves Stability and Immunogenicity]]></content:encoded>
-            <dc:title><![CDATA[Algorithm for Optimized mRNA Design Improves Stability and Immunogenicity]]></dc:title>
-            <dc:creator>He Zhang</dc:creator><dc:creator>Liang Zhang</dc:creator><dc:creator>Ang Lin</dc:creator><dc:creator>Congcong Xu</dc:creator><dc:creator>Ziyu Li</dc:creator><dc:creator>Kaibo Liu</dc:creator><dc:creator>Boxiang Liu</dc:creator><dc:creator>Xiaopin Ma</dc:creator><dc:creator>Fanfan Zhao</dc:creator><dc:creator>Huiling Jiang</dc:creator><dc:creator>Chunxiu Chen</dc:creator><dc:creator>Haifa Shen</dc:creator><dc:creator>Hangwen Li</dc:creator><dc:creator>David H. Mathews</dc:creator><dc:creator>Yujian Zhang</dc:creator><dc:creator>Liang Huang</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06127-z</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-02; | doi:10.1038/s41586-023-06127-z</dc:source>
-            <dc:date>2023-05-02</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06127-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06127-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01384-4">
-            <title><![CDATA[From the archive: socially responsible physicists, and aimless wandering in circles]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01384-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 02 May 2023; <a href="https://www.nature.com/articles/d41586-023-01384-4">doi:10.1038/d41586-023-01384-4</a></p>Snippets from Nature’s past.]]></content:encoded>
-            <dc:title><![CDATA[From the archive: socially responsible physicists, and aimless wandering in circles]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-01384-4</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-02; | doi:10.1038/d41586-023-01384-4</dc:source>
-            <dc:date>2023-05-02</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01384-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01384-4</prism:url>
         </item>
     
 </rdf:RDF>
