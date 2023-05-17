@@ -18,13 +18,23 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01594-w"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01620-x"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01619-4"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01621-w"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01584-y"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01613-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01651-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01611-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01630-9"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01586-w"/>
                 
@@ -158,16 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01576-y"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01550-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01527-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01549-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01540-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01564-2"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,21 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01594-w">
+            <title><![CDATA[This gigantic toothy reptile terrorized the Jurassic oceans]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01594-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 16 May 2023; <a href="https://www.nature.com/articles/d41586-023-01594-w">doi:10.1038/d41586-023-01594-w</a></p>Fossils show that extinct marine beasts called pliosaurs might have grown to be nearly as large as a sperm whale.]]></content:encoded>
+            <dc:title><![CDATA[This gigantic toothy reptile terrorized the Jurassic oceans]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-01594-w</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-16; | doi:10.1038/d41586-023-01594-w</dc:source>
+            <dc:date>2023-05-16</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01594-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01594-w</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-01620-x">
             <title><![CDATA[Climate activists — rethink fossil-fuel subsidy cuts]]></title>
@@ -222,6 +237,21 @@
             <prism:url>https://www.nature.com/articles/d41586-023-01621-w</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01584-y">
+            <title><![CDATA[From the archive: a history of climate, and the scent of sitting pheasants]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01584-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 16 May 2023; <a href="https://www.nature.com/articles/d41586-023-01584-y">doi:10.1038/d41586-023-01584-y</a></p>Snippets from Nature’s past.]]></content:encoded>
+            <dc:title><![CDATA[From the archive: a history of climate, and the scent of sitting pheasants]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-01584-y</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-16; | doi:10.1038/d41586-023-01584-y</dc:source>
+            <dc:date>2023-05-16</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01584-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01584-y</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-023-01613-w">
             <title><![CDATA[Audit AI search tools now, before they skew research]]></title>
             <link>https://www.nature.com/articles/d41586-023-01613-w</link>
@@ -235,6 +265,51 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01613-w</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01613-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01651-4">
+            <title><![CDATA[Four challenges facing Biden’s nominee for NIH director]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01651-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 16 May 2023; <a href="https://www.nature.com/articles/d41586-023-01651-4">doi:10.1038/d41586-023-01651-4</a></p>If confirmed, Monica Bertagnolli will grapple with congressional investigations, threats to funding, diversity issues and public distrust of science.]]></content:encoded>
+            <dc:title><![CDATA[Four challenges facing Biden’s nominee for NIH director]]></dc:title>
+            <dc:creator>Max Kozlov</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01651-4</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-16; | doi:10.1038/d41586-023-01651-4</dc:source>
+            <dc:date>2023-05-16</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01651-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01651-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01611-y">
+            <title><![CDATA[Research assessment exercises are necessary — but we need to learn to do them better]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01611-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 16 May 2023; <a href="https://www.nature.com/articles/d41586-023-01611-y">doi:10.1038/d41586-023-01611-y</a></p>Australia is overhauling its research evaluation system — an opportunity for it, and other countries, to review what makes a system work for everyone.]]></content:encoded>
+            <dc:title><![CDATA[Research assessment exercises are necessary — but we need to learn to do them better]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-01611-y</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-16; | doi:10.1038/d41586-023-01611-y</dc:source>
+            <dc:date>2023-05-16</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01611-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01611-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01630-9">
+            <title><![CDATA[Deadly mushroom poison might now have an antidote — with help from CRISPR]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01630-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 16 May 2023; <a href="https://www.nature.com/articles/d41586-023-01630-9">doi:10.1038/d41586-023-01630-9</a></p>Gene-editing technique might have finally cracked the mystery of how death cap mushrooms kill.]]></content:encoded>
+            <dc:title><![CDATA[Deadly mushroom poison might now have an antidote — with help from CRISPR]]></dc:title>
+            <dc:creator>Saima Sidik</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01630-9</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-16; | doi:10.1038/d41586-023-01630-9</dc:source>
+            <dc:date>2023-05-16</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01630-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01630-9</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-01586-w">
@@ -1225,81 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01576-y</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01576-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01550-8">
-            <title><![CDATA[Human embryo science: can the world’s regulators keep pace?]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01550-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 10 May 2023; <a href="https://www.nature.com/articles/d41586-023-01550-8">doi:10.1038/d41586-023-01550-8</a></p>Concerned by the speed of research, policymakers are looking for alternative ways to establish rules on genome editing and other technologies.]]></content:encoded>
-            <dc:title><![CDATA[Human embryo science: can the world’s regulators keep pace?]]></dc:title>
-            <dc:creator>Philip Ball</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01550-8</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-10; | doi:10.1038/d41586-023-01550-8</dc:source>
-            <dc:date>2023-05-10</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01550-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01550-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01527-7">
-            <title><![CDATA[Molecular basis for muscle loss that causes cachexia]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01527-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 10 May 2023; <a href="https://www.nature.com/articles/d41586-023-01527-7">doi:10.1038/d41586-023-01527-7</a></p>Muscle loss during chronic disease is a life-threatening condition for which there is no effective treatment. The identification of an underlying molecular mechanism might offer new therapeutic targets.]]></content:encoded>
-            <dc:title><![CDATA[Molecular basis for muscle loss that causes cachexia]]></dc:title>
-            <dc:creator>Laura Antonio-Herrera</dc:creator><dc:creator>Andreas Bergthaler</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01527-7</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-10; | doi:10.1038/d41586-023-01527-7</dc:source>
-            <dc:date>2023-05-10</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01527-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01527-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01549-1">
-            <title><![CDATA[‘The best way to get it right is to listen to us’ — autistic people argue for a stronger voice in research]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01549-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 10 May 2023; <a href="https://www.nature.com/articles/d41586-023-01549-1">doi:10.1038/d41586-023-01549-1</a></p>Despite broader acceptance of neurodiversity, autistic advocates and scientists are still fighting for a chance to set clinical and scientific priorities.]]></content:encoded>
-            <dc:title><![CDATA[‘The best way to get it right is to listen to us’ — autistic people argue for a stronger voice in research]]></dc:title>
-            <dc:creator>Emiliano Rodríguez Mega</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01549-1</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-10; | doi:10.1038/d41586-023-01549-1</dc:source>
-            <dc:date>2023-05-10</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01549-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01549-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01540-w">
-            <title><![CDATA[Gut microbes ‘eat’ nanoparticles — leading to microbiome changes]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01540-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 09 May 2023; <a href="https://www.nature.com/articles/d41586-023-01540-w">doi:10.1038/d41586-023-01540-w</a></p>Humans can accidentally ingest nanomaterials in consumer products, with unknown effects.]]></content:encoded>
-            <dc:title><![CDATA[Gut microbes ‘eat’ nanoparticles — leading to microbiome changes]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-01540-w</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-09; | doi:10.1038/d41586-023-01540-w</dc:source>
-            <dc:date>2023-05-09</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01540-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01540-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01564-2">
-            <title><![CDATA[Carbon’s social cost can’t be retrofitted to water]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01564-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 09 May 2023; <a href="https://www.nature.com/articles/d41586-023-01564-2">doi:10.1038/d41586-023-01564-2</a></p>Carbon’s social cost can’t be retrofitted to water]]></content:encoded>
-            <dc:title><![CDATA[Carbon’s social cost can’t be retrofitted to water]]></dc:title>
-            <dc:creator>Sarah Wheeler</dc:creator><dc:creator>Claudia Ringler</dc:creator><dc:creator>Dustin Garrick</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01564-2</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-09; | doi:10.1038/d41586-023-01564-2</dc:source>
-            <dc:date>2023-05-09</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01564-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01564-2</prism:url>
         </item>
     
 </rdf:RDF>
