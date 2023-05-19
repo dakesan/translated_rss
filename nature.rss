@@ -18,6 +18,14 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01705-7"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01689-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01685-8"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01398-y"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01639-0"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01637-2"/>
@@ -160,14 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01610-z"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01615-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01599-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01625-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01628-3"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,66 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01705-7">
+            <title><![CDATA[China overtakes United States on contribution to research in Nature Index]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01705-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 19 May 2023; <a href="https://www.nature.com/articles/d41586-023-01705-7">doi:10.1038/d41586-023-01705-7</a></p>Data on affiliations suggest that authors from China made the largest contribution to high-quality natural-science research in 2022.]]></content:encoded>
+            <dc:title><![CDATA[China overtakes United States on contribution to research in Nature Index]]></dc:title>
+            <dc:creator>Simon Baker</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01705-7</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-19; | doi:10.1038/d41586-023-01705-7</dc:source>
+            <dc:date>2023-05-19</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01705-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01705-7</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01689-4">
+            <title><![CDATA[Why AI’s diversity crisis matters, and how to tackle it]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01689-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 19 May 2023; <a href="https://www.nature.com/articles/d41586-023-01689-4">doi:10.1038/d41586-023-01689-4</a></p>Machine-learning researchers from under-represented groups say the field desperately needs more people like them to ensure the technologies deliver for all.]]></content:encoded>
+            <dc:title><![CDATA[Why AI’s diversity crisis matters, and how to tackle it]]></dc:title>
+            <dc:creator>Rachel Crowell</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01689-4</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-19; | doi:10.1038/d41586-023-01689-4</dc:source>
+            <dc:date>2023-05-19</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01689-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01689-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01685-8">
+            <title><![CDATA[The gentleman cat’s guide to training human kittens]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01685-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 19 May 2023; <a href="https://www.nature.com/articles/d41586-023-01685-8">doi:10.1038/d41586-023-01685-8</a></p>Simple steps for a quiet life.]]></content:encoded>
+            <dc:title><![CDATA[The gentleman cat’s guide to training human kittens]]></dc:title>
+            <dc:creator>Jenny Rae Rappaport</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01685-8</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-19; | doi:10.1038/d41586-023-01685-8</dc:source>
+            <dc:date>2023-05-19</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01685-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01685-8</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01398-y">
+            <title><![CDATA[Dodging snipers, fleeing war: displaced researchers share their stories]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01398-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 19 May 2023; <a href="https://www.nature.com/articles/d41586-023-01398-y">doi:10.1038/d41586-023-01398-y</a></p>Hassoni Alodaini and Fares el Hasan experienced long, difficult and dangerous journeys in search of a safe place to continue their research careers.]]></content:encoded>
+            <dc:title><![CDATA[Dodging snipers, fleeing war: displaced researchers share their stories]]></dc:title>
+            <dc:creator>Adam Levy</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01398-y</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-19; | doi:10.1038/d41586-023-01398-y</dc:source>
+            <dc:date>2023-05-19</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01398-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01398-y</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-01639-0">
             <title><![CDATA[China’s mysterious spaceplane returns to Earth — what we know]]></title>
@@ -223,11 +283,11 @@
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-01666-x">
-            <title><![CDATA[JWST spots biggest plume yet spewing from a moon of Saturn]]></title>
+            <title><![CDATA[JWST spots biggest water plume yet spewing from a moon of Saturn]]></title>
             <link>https://www.nature.com/articles/d41586-023-01666-x</link>
             <content:encoded>
                 <![CDATA[<p>Nature, Published online: 18 May 2023; <a href="https://www.nature.com/articles/d41586-023-01666-x">doi:10.1038/d41586-023-01666-x</a></p>The huge watery cloud spurting from Enceladus could carry the ingredients for life farther into space than previously known.]]></content:encoded>
-            <dc:title><![CDATA[JWST spots biggest plume yet spewing from a moon of Saturn]]></dc:title>
+            <dc:title><![CDATA[JWST spots biggest water plume yet spewing from a moon of Saturn]]></dc:title>
             <dc:creator>Alexandra Witze</dc:creator>
             <dc:identifier>doi:10.1038/d41586-023-01666-x</dc:identifier>
             <dc:source>Nature, Published online: 2023-05-18; | doi:10.1038/d41586-023-01666-x</dc:source>
@@ -238,11 +298,11 @@
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-01664-z">
-            <title><![CDATA[Human-evolution story rewritten by new data and computing power]]></title>
+            <title><![CDATA[Human-evolution story rewritten by fresh data and more computing power]]></title>
             <link>https://www.nature.com/articles/d41586-023-01664-z</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 18 May 2023; <a href="https://www.nature.com/articles/d41586-023-01664-z">doi:10.1038/d41586-023-01664-z</a></p>Humans did not emerge from a single region of Africa, suggests a study. Rather, our ancestors moved and intermingled for millennia.]]></content:encoded>
-            <dc:title><![CDATA[Human-evolution story rewritten by new data and computing power]]></dc:title>
+                <![CDATA[<p>Nature, Published online: 18 May 2023; <a href="https://www.nature.com/articles/d41586-023-01664-z">doi:10.1038/d41586-023-01664-z</a></p>Humans did not emerge from a single region of Africa, suggests a powerful modelling study. Rather, our ancestors moved and intermingled for millennia.]]></content:encoded>
+            <dc:title><![CDATA[Human-evolution story rewritten by fresh data and more computing power]]></dc:title>
             <dc:creator>Jude Coleman</dc:creator>
             <dc:identifier>doi:10.1038/d41586-023-01664-z</dc:identifier>
             <dc:source>Nature, Published online: 2023-05-18; | doi:10.1038/d41586-023-01664-z</dc:source>
@@ -1240,66 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01610-z</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01610-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01615-8">
-            <title><![CDATA[How geoscientists are making their field more welcoming]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01615-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 15 May 2023; <a href="https://www.nature.com/articles/d41586-023-01615-8">doi:10.1038/d41586-023-01615-8</a></p>Grassroots initiatives aim to make the discipline more inclusive of researchers from under-represented communities.]]></content:encoded>
-            <dc:title><![CDATA[How geoscientists are making their field more welcoming]]></dc:title>
-            <dc:creator>Virginia Gewin</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01615-8</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-15; | doi:10.1038/d41586-023-01615-8</dc:source>
-            <dc:date>2023-05-15</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01615-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01615-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01599-5">
-            <title><![CDATA[How oil companies’ soaring profits compare with green-energy investments]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01599-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 15 May 2023; <a href="https://www.nature.com/articles/d41586-023-01599-5">doi:10.1038/d41586-023-01599-5</a></p>Fossil-fuel firms report vast earnings as spending needed to curb climate change lags behind.]]></content:encoded>
-            <dc:title><![CDATA[How oil companies’ soaring profits compare with green-energy investments]]></dc:title>
-            <dc:creator>Katharine Sanderson</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01599-5</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-15; | doi:10.1038/d41586-023-01599-5</dc:source>
-            <dc:date>2023-05-15</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01599-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01599-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01625-6">
-            <title><![CDATA[How I managed my intense burnout]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01625-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 15 May 2023; <a href="https://www.nature.com/articles/d41586-023-01625-6">doi:10.1038/d41586-023-01625-6</a></p>Work felt unmanageable, and I was always angry and constantly tired. Here’s how I stepped back, says Kelly Korreck.]]></content:encoded>
-            <dc:title><![CDATA[How I managed my intense burnout]]></dc:title>
-            <dc:creator>Kelly  Korreck</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01625-6</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-15; | doi:10.1038/d41586-023-01625-6</dc:source>
-            <dc:date>2023-05-15</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01625-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01625-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01628-3">
-            <title><![CDATA[Menopause therapy: Brain-based treatment for hot flushes approved by FDA]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01628-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 15 May 2023; <a href="https://www.nature.com/articles/d41586-023-01628-3">doi:10.1038/d41586-023-01628-3</a></p>Investigations into the impact of menopause on the brain have yielded a potential way to treat troublesome symptoms without hormones.]]></content:encoded>
-            <dc:title><![CDATA[Menopause therapy: Brain-based treatment for hot flushes approved by FDA]]></dc:title>
-            <dc:creator>Heidi Ledford</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01628-3</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-15; | doi:10.1038/d41586-023-01628-3</dc:source>
-            <dc:date>2023-05-15</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01628-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01628-3</prism:url>
         </item>
     
 </rdf:RDF>
