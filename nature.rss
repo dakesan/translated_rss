@@ -22,6 +22,10 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01637-2"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01684-9"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01666-x"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01664-z"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06191-5"/>
@@ -130,6 +134,8 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01584-y"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01591-z"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01653-2"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01613-w"/>
@@ -161,12 +167,6 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01625-6"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01628-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01616-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01643-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01609-6"/>
                 
             </rdf:Seq>
         </items>
@@ -205,6 +205,36 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01637-2</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01637-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01684-9">
+            <title><![CDATA[Soft ‘Electronic skin’ mimics our sense of touch]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01684-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 18 May 2023; <a href="https://www.nature.com/articles/d41586-023-01684-9">doi:10.1038/d41586-023-01684-9</a></p>A flexible, conductive membrane that can pass sensory information to the brain and muscles is a step towards artificial skin.]]></content:encoded>
+            <dc:title><![CDATA[Soft ‘Electronic skin’ mimics our sense of touch]]></dc:title>
+            <dc:creator>Katharine Sanderson</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01684-9</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-18; | doi:10.1038/d41586-023-01684-9</dc:source>
+            <dc:date>2023-05-18</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01684-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01684-9</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01666-x">
+            <title><![CDATA[JWST spots biggest plume yet spewing from a moon of Saturn]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01666-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 18 May 2023; <a href="https://www.nature.com/articles/d41586-023-01666-x">doi:10.1038/d41586-023-01666-x</a></p>The huge watery cloud spurting from Enceladus could carry the ingredients for life farther into space than previously known.]]></content:encoded>
+            <dc:title><![CDATA[JWST spots biggest plume yet spewing from a moon of Saturn]]></dc:title>
+            <dc:creator>Alexandra Witze</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01666-x</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-18; | doi:10.1038/d41586-023-01666-x</dc:source>
+            <dc:date>2023-05-18</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01666-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01666-x</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-01664-z">
@@ -1017,6 +1047,21 @@
             <prism:url>https://www.nature.com/articles/d41586-023-01584-y</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01591-z">
+            <title><![CDATA[‘Smart’ sutures: old-fashioned gut thread gets a makeover]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01591-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 16 May 2023; <a href="https://www.nature.com/articles/d41586-023-01591-z">doi:10.1038/d41586-023-01591-z</a></p>Stitching material made from cell-free gut tissue is not only strong but can also be used to sense inflammation.]]></content:encoded>
+            <dc:title><![CDATA[‘Smart’ sutures: old-fashioned gut thread gets a makeover]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-01591-z</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-16; | doi:10.1038/d41586-023-01591-z</dc:source>
+            <dc:date>2023-05-16</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01591-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01591-z</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-023-01653-2">
             <title><![CDATA[Daily briefing: What comes after the International Space Station dies?]]></title>
             <link>https://www.nature.com/articles/d41586-023-01653-2</link>
@@ -1183,11 +1228,11 @@
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-01610-z">
-            <title><![CDATA[How one man's rare Alzheimer’s mutation delayed the onset of disease]]></title>
+            <title><![CDATA[How one man’s rare Alzheimer’s mutation delayed the onset of disease]]></title>
             <link>https://www.nature.com/articles/d41586-023-01610-z</link>
             <content:encoded>
                 <![CDATA[<p>Nature, Published online: 15 May 2023; <a href="https://www.nature.com/articles/d41586-023-01610-z">doi:10.1038/d41586-023-01610-z</a></p>Genetic resilience found in a person predisposed to early-onset dementia could potentially lead to new treatments.]]></content:encoded>
-            <dc:title><![CDATA[How one man's rare Alzheimer’s mutation delayed the onset of disease]]></dc:title>
+            <dc:title><![CDATA[How one man’s rare Alzheimer’s mutation delayed the onset of disease]]></dc:title>
             <dc:creator>Sara Reardon</dc:creator>
             <dc:identifier>doi:10.1038/d41586-023-01610-z</dc:identifier>
             <dc:source>Nature, Published online: 2023-05-15; | doi:10.1038/d41586-023-01610-z</dc:source>
@@ -1255,51 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01628-3</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01628-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01616-7">
-            <title><![CDATA[Brain imaging: fMRI advances make scans sharper and faster]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01616-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 15 May 2023; <a href="https://www.nature.com/articles/d41586-023-01616-7">doi:10.1038/d41586-023-01616-7</a></p>Researchers are finding ways to improve one of neuroscientists’ favourite tools: functional magnetic resonance imaging.]]></content:encoded>
-            <dc:title><![CDATA[Brain imaging: fMRI advances make scans sharper and faster]]></dc:title>
-            <dc:creator>Diana Kwon</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01616-7</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-15; | doi:10.1038/d41586-023-01616-7</dc:source>
-            <dc:date>2023-05-15</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01616-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01616-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01643-4">
-            <title><![CDATA[Daily briefing: Most powerful cosmic event ever observed]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01643-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 15 May 2023; <a href="https://www.nature.com/articles/d41586-023-01643-4">doi:10.1038/d41586-023-01643-4</a></p>The most energetic explosion ever observed is a fireball 100 times the size of the Solar System. Plus, how the world’s regulators can keep pace with human embryo science and one scientist’s experience of bouncing back from intense burnout.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: Most powerful cosmic event ever observed]]></dc:title>
-            <dc:creator>Flora Graham</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01643-4</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-15; | doi:10.1038/d41586-023-01643-4</dc:source>
-            <dc:date>2023-05-15</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01643-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01643-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01609-6">
-            <title><![CDATA[<i>Nature</i>'s Take: Can Registered Reports help tackle publication bias?]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01609-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 12 May 2023; <a href="https://www.nature.com/articles/d41586-023-01609-6">doi:10.1038/d41586-023-01609-6</a></p>Nature staff take on the big topics that matter in science.]]></content:encoded>
-            <dc:title><![CDATA[<i>Nature</i>'s Take: Can Registered Reports help tackle publication bias?]]></dc:title>
-            <dc:creator>Nick Petrić Howe</dc:creator><dc:creator>Mary Elizabeth Sutherland</dc:creator><dc:creator>Federico Levi</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01609-6</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-12; | doi:10.1038/d41586-023-01609-6</dc:source>
-            <dc:date>2023-05-12</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01609-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01609-6</prism:url>
         </item>
     
 </rdf:RDF>
