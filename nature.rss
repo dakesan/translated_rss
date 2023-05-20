@@ -18,6 +18,12 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01654-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01702-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01665-y"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01705-7"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01689-4"/>
@@ -162,12 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01588-8"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01617-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01624-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01610-z"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,51 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01654-1">
+            <title><![CDATA[How can mosquitoes find you? All you have to do is exhale]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01654-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 19 May 2023; <a href="https://www.nature.com/articles/d41586-023-01654-1">doi:10.1038/d41586-023-01654-1</a></p>Free-flying mosquitoes gravitate toward pads that emit carbon dioxide, which is found in human breath.]]></content:encoded>
+            <dc:title><![CDATA[How can mosquitoes find you? All you have to do is exhale]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-01654-1</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-19; | doi:10.1038/d41586-023-01654-1</dc:source>
+            <dc:date>2023-05-19</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01654-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01654-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01702-w">
+            <title><![CDATA[When will global warming actually hit the landmark 1.5 ºC limit?]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01702-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 19 May 2023; <a href="https://www.nature.com/articles/d41586-023-01702-w">doi:10.1038/d41586-023-01702-w</a></p>The planet is on track to reach the 1.5 ºC average by the 2030s — although a new report suggests a single year will probably cross the line much sooner.]]></content:encoded>
+            <dc:title><![CDATA[When will global warming actually hit the landmark 1.5 ºC limit?]]></dc:title>
+            <dc:creator>Nicola Jones</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01702-w</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-19; | doi:10.1038/d41586-023-01702-w</dc:source>
+            <dc:date>2023-05-19</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01702-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01702-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01665-y">
+            <title><![CDATA[Thousands protest Mexico’s new science law]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01665-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 19 May 2023; <a href="https://www.nature.com/articles/d41586-023-01665-y">doi:10.1038/d41586-023-01665-y</a></p>Researchers are preparing to march against legislation that some say could harm basic science.]]></content:encoded>
+            <dc:title><![CDATA[Thousands protest Mexico’s new science law]]></dc:title>
+            <dc:creator>Myriam Vidal Valero</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01665-y</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-19; | doi:10.1038/d41586-023-01665-y</dc:source>
+            <dc:date>2023-05-19</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01665-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01665-y</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-01705-7">
             <title><![CDATA[China overtakes United States on contribution to research in Nature Index]]></title>
@@ -1255,51 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01588-8</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01588-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01617-6">
-            <title><![CDATA[I was deathly afraid of the sea — now I work to protect it]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01617-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 15 May 2023; <a href="https://www.nature.com/articles/d41586-023-01617-6">doi:10.1038/d41586-023-01617-6</a></p>Conservationist Loyiso Dunga aims to guard kelp, a crucial resource in South African waters that is home to invertebrates, fish and mammals.]]></content:encoded>
-            <dc:title><![CDATA[I was deathly afraid of the sea — now I work to protect it]]></dc:title>
-            <dc:creator>Virginia Gewin</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01617-6</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-15; | doi:10.1038/d41586-023-01617-6</dc:source>
-            <dc:date>2023-05-15</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01617-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01617-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01624-7">
-            <title><![CDATA[Prejudice in technology, and the necessity of time: Books in brief]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01624-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 15 May 2023; <a href="https://www.nature.com/articles/d41586-023-01624-7">doi:10.1038/d41586-023-01624-7</a></p>Andrew Robinson reviews five of the best science picks.]]></content:encoded>
-            <dc:title><![CDATA[Prejudice in technology, and the necessity of time: Books in brief]]></dc:title>
-            <dc:creator>Andrew Robinson</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01624-7</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-15; | doi:10.1038/d41586-023-01624-7</dc:source>
-            <dc:date>2023-05-15</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01624-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01624-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01610-z">
-            <title><![CDATA[How one man’s rare Alzheimer’s mutation delayed the onset of disease]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01610-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 15 May 2023; <a href="https://www.nature.com/articles/d41586-023-01610-z">doi:10.1038/d41586-023-01610-z</a></p>Genetic resilience found in a person predisposed to early-onset dementia could potentially lead to new treatments.]]></content:encoded>
-            <dc:title><![CDATA[How one man’s rare Alzheimer’s mutation delayed the onset of disease]]></dc:title>
-            <dc:creator>Sara Reardon</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01610-z</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-15; | doi:10.1038/d41586-023-01610-z</dc:source>
-            <dc:date>2023-05-15</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01610-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01610-z</prism:url>
         </item>
     
 </rdf:RDF>
