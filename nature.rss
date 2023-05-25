@@ -18,6 +18,14 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06244-9"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01747-x"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01734-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01638-1"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06207-0"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06238-7"/>
@@ -160,14 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01730-6"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01707-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01712-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01708-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01703-9"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,66 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-023-06244-9">
+            <title><![CDATA[Author Correction: LACC1 bridges NOS2 and polyamine metabolism in inflammatory macrophages]]></title>
+            <link>https://www.nature.com/articles/s41586-023-06244-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 25 May 2023; <a href="https://www.nature.com/articles/s41586-023-06244-9">doi:10.1038/s41586-023-06244-9</a></p>Author Correction: LACC1 bridges NOS2 and polyamine metabolism in inflammatory macrophages]]></content:encoded>
+            <dc:title><![CDATA[Author Correction: LACC1 bridges NOS2 and polyamine metabolism in inflammatory macrophages]]></dc:title>
+            <dc:creator>Zheng Wei</dc:creator><dc:creator>Joonseok Oh</dc:creator><dc:creator>Richard A. Flavell</dc:creator><dc:creator>Jason M. Crawford</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-023-06244-9</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-25; | doi:10.1038/s41586-023-06244-9</dc:source>
+            <dc:date>2023-05-25</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-023-06244-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-023-06244-9</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01747-x">
+            <title><![CDATA[Why scientists should be part of conversations about decolonizing humanities]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01747-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 25 May 2023; <a href="https://www.nature.com/articles/d41586-023-01747-x">doi:10.1038/d41586-023-01747-x</a></p>Sociologist Meghan Tinsley calls for a two-way dialogue about making university curricula more inclusive.]]></content:encoded>
+            <dc:title><![CDATA[Why scientists should be part of conversations about decolonizing humanities]]></dc:title>
+            <dc:creator>Audrey Thompson</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01747-x</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-25; | doi:10.1038/d41586-023-01747-x</dc:source>
+            <dc:date>2023-05-25</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01747-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01747-x</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01734-2">
+            <title><![CDATA[Decolonizing the humanities: striving to make the arts and media more diverse]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01734-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 25 May 2023; <a href="https://www.nature.com/articles/d41586-023-01734-2">doi:10.1038/d41586-023-01734-2</a></p>For many students from under-represented backgrounds, the career pipeline into creative industries is blocked. Karen Patel leads an initiative to help fix it.]]></content:encoded>
+            <dc:title><![CDATA[Decolonizing the humanities: striving to make the arts and media more diverse]]></dc:title>
+            <dc:creator>Audrey Thompson</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01734-2</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-25; | doi:10.1038/d41586-023-01734-2</dc:source>
+            <dc:date>2023-05-25</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01734-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01734-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01638-1">
+            <title><![CDATA[China's souped-up data privacy laws deter researchers]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01638-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 25 May 2023; <a href="https://www.nature.com/articles/d41586-023-01638-1">doi:10.1038/d41586-023-01638-1</a></p>Recent regulations have strengthened Chinese data privacy, but are impinging on international research collaboration.]]></content:encoded>
+            <dc:title><![CDATA[China's souped-up data privacy laws deter researchers]]></dc:title>
+            <dc:creator>Dyani Lewis</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01638-1</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-25; | doi:10.1038/d41586-023-01638-1</dc:source>
+            <dc:date>2023-05-25</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01638-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01638-1</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06207-0">
             <title><![CDATA[Inverted perovskite solar cells using dimethylacridine-based dopants]]></title>
@@ -1240,66 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01730-6</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01730-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01707-5">
-            <title><![CDATA[Against climate hypocrisy: why the IPCC needs its own net-zero target]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01707-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 23 May 2023; <a href="https://www.nature.com/articles/d41586-023-01707-5">doi:10.1038/d41586-023-01707-5</a></p>A robust strategy to slash the IPCC’s carbon emissions would be a testbed for international climate policy — and serve as an example of effective action.]]></content:encoded>
-            <dc:title><![CDATA[Against climate hypocrisy: why the IPCC needs its own net-zero target]]></dc:title>
-            <dc:creator>Benjamin M. Sanderson</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01707-5</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-23; | doi:10.1038/d41586-023-01707-5</dc:source>
-            <dc:date>2023-05-23</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01707-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01707-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01712-8">
-            <title><![CDATA[Game-changing obesity drugs go mainstream: what scientists are learning]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01712-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 23 May 2023; <a href="https://www.nature.com/articles/d41586-023-01712-8">doi:10.1038/d41586-023-01712-8</a></p>Studies tackle who’s most likely to lose weight on the new generation of anti-obesity medications.]]></content:encoded>
-            <dc:title><![CDATA[Game-changing obesity drugs go mainstream: what scientists are learning]]></dc:title>
-            <dc:creator>Mariana Lenharo</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01712-8</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-23; | doi:10.1038/d41586-023-01712-8</dc:source>
-            <dc:date>2023-05-23</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01712-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01712-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01708-4">
-            <title><![CDATA[A mental-health crisis is gripping science — toxic research culture is to blame]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01708-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 23 May 2023; <a href="https://www.nature.com/articles/d41586-023-01708-4">doi:10.1038/d41586-023-01708-4</a></p>With researchers reporting high rates of anxiety and depression, calls are growing to fundamentally change science before it’s too late.]]></content:encoded>
-            <dc:title><![CDATA[A mental-health crisis is gripping science — toxic research culture is to blame]]></dc:title>
-            <dc:creator>Shannon Hall</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01708-4</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-23; | doi:10.1038/d41586-023-01708-4</dc:source>
-            <dc:date>2023-05-23</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01708-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01708-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01703-9">
-            <title><![CDATA[Encourage whistle-blowing: how universities can help to resolve research’s mental-health crisis]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01703-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 23 May 2023; <a href="https://www.nature.com/articles/d41586-023-01703-9">doi:10.1038/d41586-023-01703-9</a></p>Low pay, job insecurity, bullying and harassment all contribute to academic researchers reporting above-average levels of anxiety and depression. Institutions can improve working environments by looking at best practice elsewhere.]]></content:encoded>
-            <dc:title><![CDATA[Encourage whistle-blowing: how universities can help to resolve research’s mental-health crisis]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-01703-9</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-23; | doi:10.1038/d41586-023-01703-9</dc:source>
-            <dc:date>2023-05-23</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01703-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01703-9</prism:url>
         </item>
     
 </rdf:RDF>
