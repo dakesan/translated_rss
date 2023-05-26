@@ -20,11 +20,19 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06244-9"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01696-5"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01747-x"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01700-y"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01734-2"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01638-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01303-7"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01763-x"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06207-0"/>
                 
@@ -160,14 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01719-1"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01693-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01694-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01633-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01730-6"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -192,6 +192,21 @@
             <prism:url>https://www.nature.com/articles/s41586-023-06244-9</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01696-5">
+            <title><![CDATA[Better gummy sweets are within reach, thanks to physics]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01696-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 25 May 2023; <a href="https://www.nature.com/articles/d41586-023-01696-5">doi:10.1038/d41586-023-01696-5</a></p>Scientists have worked out the precise combination of ingredients needed to ensure that gummies keep their chew.]]></content:encoded>
+            <dc:title><![CDATA[Better gummy sweets are within reach, thanks to physics]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-01696-5</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-25; | doi:10.1038/d41586-023-01696-5</dc:source>
+            <dc:date>2023-05-25</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01696-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01696-5</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-023-01747-x">
             <title><![CDATA[Why scientists should be part of conversations about decolonizing humanities]]></title>
             <link>https://www.nature.com/articles/d41586-023-01747-x</link>
@@ -205,6 +220,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01747-x</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01747-x</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01700-y">
+            <title><![CDATA[Chronic stress can inflame the gut — now scientists know why]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01700-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 25 May 2023; <a href="https://www.nature.com/articles/d41586-023-01700-y">doi:10.1038/d41586-023-01700-y</a></p>Signals originating in the brain make their way to gut nerve cells, leading to a release of inflammatory chemicals.]]></content:encoded>
+            <dc:title><![CDATA[Chronic stress can inflame the gut — now scientists know why]]></dc:title>
+            <dc:creator>Saima Sidik</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01700-y</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-25; | doi:10.1038/d41586-023-01700-y</dc:source>
+            <dc:date>2023-05-25</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01700-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01700-y</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-01734-2">
@@ -223,11 +253,11 @@
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-01638-1">
-            <title><![CDATA[China's souped-up data privacy laws deter researchers]]></title>
+            <title><![CDATA[China’s souped-up data privacy laws deter researchers]]></title>
             <link>https://www.nature.com/articles/d41586-023-01638-1</link>
             <content:encoded>
                 <![CDATA[<p>Nature, Published online: 25 May 2023; <a href="https://www.nature.com/articles/d41586-023-01638-1">doi:10.1038/d41586-023-01638-1</a></p>Recent regulations have strengthened Chinese data privacy, but are impinging on international research collaboration.]]></content:encoded>
-            <dc:title><![CDATA[China's souped-up data privacy laws deter researchers]]></dc:title>
+            <dc:title><![CDATA[China’s souped-up data privacy laws deter researchers]]></dc:title>
             <dc:creator>Dyani Lewis</dc:creator>
             <dc:identifier>doi:10.1038/d41586-023-01638-1</dc:identifier>
             <dc:source>Nature, Published online: 2023-05-25; | doi:10.1038/d41586-023-01638-1</dc:source>
@@ -235,6 +265,36 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01638-1</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01638-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01303-7">
+            <title><![CDATA[Major ocean database that will guide deep-sea mining has flaws, scientists warn]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01303-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 25 May 2023; <a href="https://www.nature.com/articles/d41586-023-01303-7">doi:10.1038/d41586-023-01303-7</a></p>As sea-bed mining looms, researchers say better records of seafloor biodiversity are needed to assess its environmental impact.]]></content:encoded>
+            <dc:title><![CDATA[Major ocean database that will guide deep-sea mining has flaws, scientists warn]]></dc:title>
+            <dc:creator>Natasha Gilbert</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01303-7</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-25; | doi:10.1038/d41586-023-01303-7</dc:source>
+            <dc:date>2023-05-25</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01303-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01303-7</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01763-x">
+            <title><![CDATA[Equity is more than a buzzword]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01763-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 25 May 2023; <a href="https://www.nature.com/articles/d41586-023-01763-x">doi:10.1038/d41586-023-01763-x</a></p>Departments and principal investigators must do the hard, uncomfortable work to cultivate truly inclusive, safe environments, says Ashley Paynter.]]></content:encoded>
+            <dc:title><![CDATA[Equity is more than a buzzword]]></dc:title>
+            <dc:creator>Ashley  Paynter</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01763-x</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-25; | doi:10.1038/d41586-023-01763-x</dc:source>
+            <dc:date>2023-05-25</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01763-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01763-x</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06207-0">
@@ -1108,11 +1168,11 @@
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-01732-4">
-            <title><![CDATA[LIGO is back — and can now spot more colliding black holes than ever]]></title>
+            <title><![CDATA[Gravitational-wave detector LIGO is back — and can now spot more colliding black holes than ever]]></title>
             <link>https://www.nature.com/articles/d41586-023-01732-4</link>
             <content:encoded>
                 <![CDATA[<p>Nature, Published online: 24 May 2023; <a href="https://www.nature.com/articles/d41586-023-01732-4">doi:10.1038/d41586-023-01732-4</a></p>The twin gravitational-wave detectors have started a new observation run after a major upgrade.]]></content:encoded>
-            <dc:title><![CDATA[LIGO is back — and can now spot more colliding black holes than ever]]></dc:title>
+            <dc:title><![CDATA[Gravitational-wave detector LIGO is back — and can now spot more colliding black holes than ever]]></dc:title>
             <dc:creator>Davide Castelvecchi</dc:creator>
             <dc:identifier>doi:10.1038/d41586-023-01732-4</dc:identifier>
             <dc:source>Nature, Published online: 2023-05-24; | doi:10.1038/d41586-023-01732-4</dc:source>
@@ -1240,66 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01719-1</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01719-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01693-8">
-            <title><![CDATA[Social media: generative AI could harm mental health]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01693-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 23 May 2023; <a href="https://www.nature.com/articles/d41586-023-01693-8">doi:10.1038/d41586-023-01693-8</a></p>Social media: generative AI could harm mental health]]></content:encoded>
-            <dc:title><![CDATA[Social media: generative AI could harm mental health]]></dc:title>
-            <dc:creator>David Greenfield</dc:creator><dc:creator>Shivan Bhavnani</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01693-8</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-23; | doi:10.1038/d41586-023-01693-8</dc:source>
-            <dc:date>2023-05-23</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01693-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01693-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01694-7">
-            <title><![CDATA[Tighten US federal oversight of offshore wind development]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01694-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 23 May 2023; <a href="https://www.nature.com/articles/d41586-023-01694-7">doi:10.1038/d41586-023-01694-7</a></p>Tighten US federal oversight of offshore wind development]]></content:encoded>
-            <dc:title><![CDATA[Tighten US federal oversight of offshore wind development]]></dc:title>
-            <dc:creator>Todd Guilfoos</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01694-7</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-23; | doi:10.1038/d41586-023-01694-7</dc:source>
-            <dc:date>2023-05-23</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01694-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01694-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01633-6">
-            <title><![CDATA[From the archive: aggressive anemones, and Louis Pasteur’s birthday]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01633-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 23 May 2023; <a href="https://www.nature.com/articles/d41586-023-01633-6">doi:10.1038/d41586-023-01633-6</a></p>Snippets from Nature’s past.]]></content:encoded>
-            <dc:title><![CDATA[From the archive: aggressive anemones, and Louis Pasteur’s birthday]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-01633-6</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-23; | doi:10.1038/d41586-023-01633-6</dc:source>
-            <dc:date>2023-05-23</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01633-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01633-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01730-6">
-            <title><![CDATA[Daily briefing: Brain implants reveal first view of chronic pain]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01730-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 23 May 2023; <a href="https://www.nature.com/articles/d41586-023-01730-6">doi:10.1038/d41586-023-01730-6</a></p>A device implanted in the brain has recorded, for the first time, objective signs of chronic pain. Plus, how a genetic switch turns scales into feathers and gene analysis reveals the ancestor of all animals.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: Brain implants reveal first view of chronic pain]]></dc:title>
-            <dc:creator>Flora Graham</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01730-6</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-23; | doi:10.1038/d41586-023-01730-6</dc:source>
-            <dc:date>2023-05-23</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01730-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01730-6</prism:url>
         </item>
     
 </rdf:RDF>
