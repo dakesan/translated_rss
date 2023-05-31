@@ -18,6 +18,12 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01736-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01735-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01770-y"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01759-7"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01757-9"/>
@@ -43,6 +49,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01706-6"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06194-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01778-4"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01714-6"/>
                 
@@ -160,14 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01646-1"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01634-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01641-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01660-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01363-9"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,51 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01736-0">
+            <title><![CDATA[Surgical wonders and dodgy medical ethics: the Hunterian Museum reopens]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01736-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 31 May 2023; <a href="https://www.nature.com/articles/d41586-023-01736-0">doi:10.1038/d41586-023-01736-0</a></p>The London museum is a treasure chest of medical specimens both fascinating and ghoulish — now with a renewed focus on questions about how its collections came to be.]]></content:encoded>
+            <dc:title><![CDATA[Surgical wonders and dodgy medical ethics: the Hunterian Museum reopens]]></dc:title>
+            <dc:creator>Nisha Gaind</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01736-0</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-31; | doi:10.1038/d41586-023-01736-0</dc:source>
+            <dc:date>2023-05-31</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01736-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01736-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01735-1">
+            <title><![CDATA[‘Almost magical’: chemists can now move single atoms in and out of a molecule’s core]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01735-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 31 May 2023; <a href="https://www.nature.com/articles/d41586-023-01735-1">doi:10.1038/d41586-023-01735-1</a></p>An explosion of skeletal editing methods to insert, delete or swap individual atoms in molecular backbones could accelerate drug discovery.]]></content:encoded>
+            <dc:title><![CDATA[‘Almost magical’: chemists can now move single atoms in and out of a molecule’s core]]></dc:title>
+            <dc:creator>Mark Peplow</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01735-1</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-31; | doi:10.1038/d41586-023-01735-1</dc:source>
+            <dc:date>2023-05-31</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01735-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01735-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01770-y">
+            <title><![CDATA[India cuts periodic table and evolution from school textbooks — experts are baffled]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01770-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 31 May 2023; <a href="https://www.nature.com/articles/d41586-023-01770-y">doi:10.1038/d41586-023-01770-y</a></p>Nature has learnt that the periodic table, as well as evolution, won’t be taught to under-16s as they start the new school year.]]></content:encoded>
+            <dc:title><![CDATA[India cuts periodic table and evolution from school textbooks — experts are baffled]]></dc:title>
+            <dc:creator>Dyani Lewis</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01770-y</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-31; | doi:10.1038/d41586-023-01770-y</dc:source>
+            <dc:date>2023-05-31</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01770-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01770-y</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-01759-7">
             <title><![CDATA[Satellite imagery identifies deliberate attacks on hospitals]]></title>
@@ -370,6 +415,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/s41586-023-06194-2</prism:doi>
             <prism:url>https://www.nature.com/articles/s41586-023-06194-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01778-4">
+            <title><![CDATA[Daily briefing: Why stress worsens inflammatory bowel disease]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01778-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 26 May 2023; <a href="https://www.nature.com/articles/d41586-023-01778-4">doi:10.1038/d41586-023-01778-4</a></p>Brain cues produced by chronic stress lead to a cascade of events that eventually triggers immune cells in the gut. Plus, a key database that will guide deep-sea mining might be flawed and ‘tree islands’ can blunt the harm of oil-palm plantations.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Why stress worsens inflammatory bowel disease]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01778-4</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-26; | doi:10.1038/d41586-023-01778-4</dc:source>
+            <dc:date>2023-05-26</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01778-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01778-4</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-01714-6">
@@ -1240,66 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01646-1</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01646-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01634-5">
-            <title><![CDATA[People, not search-engine algorithms, choose unreliable or partisan news]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01634-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 24 May 2023; <a href="https://www.nature.com/articles/d41586-023-01634-5">doi:10.1038/d41586-023-01634-5</a></p>Analysis of people’s web searches and visited websites suggests that it is more likely that they are choosing to engage with partisan or unreliable news than that they are being unduly exposed to it by search-engine algorithms.]]></content:encoded>
-            <dc:title><![CDATA[People, not search-engine algorithms, choose unreliable or partisan news]]></dc:title>
-            <dc:creator>Eni Mustafaraj</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01634-5</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-24; | doi:10.1038/d41586-023-01634-5</dc:source>
-            <dc:date>2023-05-24</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01634-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01634-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01641-6">
-            <title><![CDATA[The Spinoff Prize: where are they now?]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01641-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 24 May 2023; <a href="https://www.nature.com/articles/d41586-023-01641-6">doi:10.1038/d41586-023-01641-6</a></p>Clinical trials, industry partnerships and other milestones reached by previous finalists of The Spinoff Prize.]]></content:encoded>
-            <dc:title><![CDATA[The Spinoff Prize: where are they now?]]></dc:title>
-            <dc:creator>Neil Savage</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01641-6</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-24; | doi:10.1038/d41586-023-01641-6</dc:source>
-            <dc:date>2023-05-24</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01641-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01641-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01660-3">
-            <title><![CDATA[Rewriting the quantum-computer blueprint]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01660-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 24 May 2023; <a href="https://www.nature.com/articles/d41586-023-01660-3">doi:10.1038/d41586-023-01660-3</a></p>An architecture for quantum computers based on parity is attracting money from government and industry.]]></content:encoded>
-            <dc:title><![CDATA[Rewriting the quantum-computer blueprint]]></dc:title>
-            <dc:creator>Edwin Cartlidge</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01660-3</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-24; | doi:10.1038/d41586-023-01660-3</dc:source>
-            <dc:date>2023-05-24</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01660-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01660-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01363-9">
-            <title><![CDATA[World’s strongest laser enables pressure-driven ionization]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01363-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 24 May 2023; <a href="https://www.nature.com/articles/d41586-023-01363-9">doi:10.1038/d41586-023-01363-9</a></p>The degree of ionization inside giant planets and stars determines their material properties. In burning stars, ionization is controlled by temperature, whereas pressure-driven ionization is dominant in cooler objects. Experiments creating the extreme conditions needed for pressure-driven ionization in the laboratory shed light on this complex process.]]></content:encoded>
-            <dc:title><![CDATA[World’s strongest laser enables pressure-driven ionization]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-01363-9</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-24; | doi:10.1038/d41586-023-01363-9</dc:source>
-            <dc:date>2023-05-24</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01363-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01363-9</prism:url>
         </item>
     
 </rdf:RDF>
