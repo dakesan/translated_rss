@@ -22,13 +22,21 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01757-9"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01741-3"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01758-8"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01742-2"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01745-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01750-2"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01722-6"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01751-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01775-7"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06242-x"/>
                 
@@ -85,6 +93,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01733-3"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01658-x"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01718-2"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01697-4"/>
                 
@@ -158,16 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01363-9"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01644-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01663-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01498-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01649-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01632-7"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -207,6 +207,21 @@
             <prism:url>https://www.nature.com/articles/d41586-023-01757-9</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01741-3">
+            <title><![CDATA[I use a robot to restore Pompeii’s shattered frescoes]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01741-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 30 May 2023; <a href="https://www.nature.com/articles/d41586-023-01741-3">doi:10.1038/d41586-023-01741-3</a></p>Cultural and heritage researcher Arianna Traviglia uses robotic technology to painstakingly reconstruct 2,000-year-old mural paintings in Pompeii.]]></content:encoded>
+            <dc:title><![CDATA[I use a robot to restore Pompeii’s shattered frescoes]]></dc:title>
+            <dc:creator>Stav Dimitropoulos</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01741-3</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-30; | doi:10.1038/d41586-023-01741-3</dc:source>
+            <dc:date>2023-05-30</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01741-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01741-3</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-023-01758-8">
             <title><![CDATA[Marine heatwaves: base definitions on ecosystem damage]]></title>
             <link>https://www.nature.com/articles/d41586-023-01758-8</link>
@@ -222,6 +237,21 @@
             <prism:url>https://www.nature.com/articles/d41586-023-01758-8</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01742-2">
+            <title><![CDATA[From the archive: foods of the future and cryptography secrets]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01742-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 30 May 2023; <a href="https://www.nature.com/articles/d41586-023-01742-2">doi:10.1038/d41586-023-01742-2</a></p>Snippets from Nature’s past.]]></content:encoded>
+            <dc:title><![CDATA[From the archive: foods of the future and cryptography secrets]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-01742-2</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-30; | doi:10.1038/d41586-023-01742-2</dc:source>
+            <dc:date>2023-05-30</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01742-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01742-2</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-023-01745-z">
             <title><![CDATA[A tool for optimizing messenger RNA sequence]]></title>
             <link>https://www.nature.com/articles/d41586-023-01745-z</link>
@@ -235,6 +265,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01745-z</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01745-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01750-2">
+            <title><![CDATA[Why is India dropping evolution and the periodic table from school science?]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01750-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 30 May 2023; <a href="https://www.nature.com/articles/d41586-023-01750-2">doi:10.1038/d41586-023-01750-2</a></p>India’s curriculum body needs to explain why it has removed foundational topics from school textbooks.]]></content:encoded>
+            <dc:title><![CDATA[Why is India dropping evolution and the periodic table from school science?]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-01750-2</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-30; | doi:10.1038/d41586-023-01750-2</dc:source>
+            <dc:date>2023-05-30</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01750-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01750-2</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-01722-6">
@@ -265,6 +310,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01751-1</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01751-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01775-7">
+            <title><![CDATA[Turkey’s researchers fear loss of freedom after Erdoğan re-elected]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01775-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 30 May 2023; <a href="https://www.nature.com/articles/d41586-023-01775-7">doi:10.1038/d41586-023-01775-7</a></p>Researchers expect the administration to further restrict autonomy and free speech. Some say they will migrate or retire.]]></content:encoded>
+            <dc:title><![CDATA[Turkey’s researchers fear loss of freedom after Erdoğan re-elected]]></dc:title>
+            <dc:creator>Miryam Naddaf</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01775-7</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-30; | doi:10.1038/d41586-023-01775-7</dc:source>
+            <dc:date>2023-05-30</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01775-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01775-7</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06242-x">
@@ -685,6 +745,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01658-x</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01658-x</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01718-2">
+            <title><![CDATA[Towards quantum machine learning]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01718-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 24 May 2023; <a href="https://www.nature.com/articles/d41586-023-01718-2">doi:10.1038/d41586-023-01718-2</a></p>Jungsang Kim discusses his interest in the pioneering technology.]]></content:encoded>
+            <dc:title><![CDATA[Towards quantum machine learning]]></dc:title>
+            <dc:creator>Michael  Brooks</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01718-2</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-24; | doi:10.1038/d41586-023-01718-2</dc:source>
+            <dc:date>2023-05-24</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01718-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01718-2</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-01697-4">
@@ -1225,81 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01363-9</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01363-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01644-3">
-            <title><![CDATA[Commercializing quantum computers step by step]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01644-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 24 May 2023; <a href="https://www.nature.com/articles/d41586-023-01644-3">doi:10.1038/d41586-023-01644-3</a></p>Alongside developing a quantum computer, one group of scientists is selling its components to other researchers.]]></content:encoded>
-            <dc:title><![CDATA[Commercializing quantum computers step by step]]></dc:title>
-            <dc:creator>Edwin Cartlidge</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01644-3</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-24; | doi:10.1038/d41586-023-01644-3</dc:source>
-            <dc:date>2023-05-24</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01644-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01644-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01663-0">
-            <title><![CDATA[Quantum sensors will start a revolution — if we deploy them right]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01663-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 24 May 2023; <a href="https://www.nature.com/articles/d41586-023-01663-0">doi:10.1038/d41586-023-01663-0</a></p>From underground exploration to brain science and air-traffic control, the sensing potential of quantum devices is enormous. But they must first get out of the laboratory.]]></content:encoded>
-            <dc:title><![CDATA[Quantum sensors will start a revolution — if we deploy them right]]></dc:title>
-            <dc:creator>Kai Bongs</dc:creator><dc:creator>Simon Bennett</dc:creator><dc:creator>Anke Lohmann</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01663-0</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-24; | doi:10.1038/d41586-023-01663-0</dc:source>
-            <dc:date>2023-05-24</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01663-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01663-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01498-9">
-            <title><![CDATA[Parasitic nematodes activate chemicals that can kill them]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01498-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 24 May 2023; <a href="https://www.nature.com/articles/d41586-023-01498-9">doi:10.1038/d41586-023-01498-9</a></p>Nematode worms that parasitize plants ravage food crops and threaten global food security. Conventional nematode control relies on agrochemicals that are broadly toxic, so less-risky strategies are needed. Benign precursor chemicals that are metabolically converted to lethal products selectively in worm tissue could be the solution.]]></content:encoded>
-            <dc:title><![CDATA[Parasitic nematodes activate chemicals that can kill them]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-01498-9</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-24; | doi:10.1038/d41586-023-01498-9</dc:source>
-            <dc:date>2023-05-24</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01498-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01498-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01649-y">
-            <title><![CDATA[Disrupting protein folding to tackle cancer]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01649-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 24 May 2023; <a href="https://www.nature.com/articles/d41586-023-01649-y">doi:10.1038/d41586-023-01649-y</a></p>Intermediate states show promise as drug targets.]]></content:encoded>
-            <dc:title><![CDATA[Disrupting protein folding to tackle cancer]]></dc:title>
-            <dc:creator>Elie Dolgin</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01649-y</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-24; | doi:10.1038/d41586-023-01649-y</dc:source>
-            <dc:date>2023-05-24</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01649-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01649-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01632-7">
-            <title><![CDATA[Cocktails of tags enhance resolution of microscopy technique]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01632-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 24 May 2023; <a href="https://www.nature.com/articles/d41586-023-01632-7">doi:10.1038/d41586-023-01632-7</a></p>A limit on the resolution of optical-microscopy techniques has been broken by using a mixture of tags to label copies of target molecules in a sample, opening the way to better views of molecular organization in cells.]]></content:encoded>
-            <dc:title><![CDATA[Cocktails of tags enhance resolution of microscopy technique]]></dc:title>
-            <dc:creator>Alistair Curd</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01632-7</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-24; | doi:10.1038/d41586-023-01632-7</dc:source>
-            <dc:date>2023-05-24</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01632-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01632-7</prism:url>
         </item>
     
 </rdf:RDF>
