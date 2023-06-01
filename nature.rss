@@ -118,6 +118,8 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01722-6"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01781-9"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01751-1"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01775-7"/>
@@ -165,8 +167,6 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01734-2"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01638-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01303-7"/>
                 
             </rdf:Seq>
         </items>
@@ -658,11 +658,11 @@
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-01743-1">
-            <title><![CDATA[How to identify unjust planetary change]]></title>
+            <title><![CDATA[How to define unjust planetary change]]></title>
             <link>https://www.nature.com/articles/d41586-023-01743-1</link>
             <content:encoded>
                 <![CDATA[<p>Nature, Published online: 31 May 2023; <a href="https://www.nature.com/articles/d41586-023-01743-1">doi:10.1038/d41586-023-01743-1</a></p>Biophysical and sociopolitical factors have been integrated into a set of measures of planetary change that aim to pinpoint safe and just thresholds for all living things. The exercise is immensely ambitious and inevitably challenging.]]></content:encoded>
-            <dc:title><![CDATA[How to identify unjust planetary change]]></dc:title>
+            <dc:title><![CDATA[How to define unjust planetary change]]></dc:title>
             <dc:creator>Stephen Humphreys</dc:creator>
             <dc:identifier>doi:10.1038/d41586-023-01743-1</dc:identifier>
             <dc:source>Nature, Published online: 2023-05-31; | doi:10.1038/d41586-023-01743-1</dc:source>
@@ -925,6 +925,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01722-6</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01722-6</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01781-9">
+            <title><![CDATA[Daily briefing: Robots reconstruct Pompeii frescoes from thousands of fragments]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01781-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 30 May 2023; <a href="https://www.nature.com/articles/d41586-023-01781-9">doi:10.1038/d41586-023-01781-9</a></p>A robot equipped with soft humanoid arms helps to reconstruct Pompeii’s shattered frescoes. Plus, anonymous peer review equalizes the publishing playing field and why California condors will be vaccinated against avian flu.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Robots reconstruct Pompeii frescoes from thousands of fragments]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01781-9</dc:identifier>
+            <dc:source>Nature, Published online: 2023-05-30; | doi:10.1038/d41586-023-01781-9</dc:source>
+            <dc:date>2023-05-30</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01781-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01781-9</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-01751-1">
@@ -1285,21 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01638-1</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01638-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01303-7">
-            <title><![CDATA[Major ocean database that will guide deep-sea mining has flaws, scientists warn]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01303-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 25 May 2023; <a href="https://www.nature.com/articles/d41586-023-01303-7">doi:10.1038/d41586-023-01303-7</a></p>As sea-bed mining looms, researchers say better records of sea-floor biodiversity are needed to assess its environmental impact.]]></content:encoded>
-            <dc:title><![CDATA[Major ocean database that will guide deep-sea mining has flaws, scientists warn]]></dc:title>
-            <dc:creator>Natasha Gilbert</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01303-7</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-25; | doi:10.1038/d41586-023-01303-7</dc:source>
-            <dc:date>2023-05-25</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01303-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01303-7</prism:url>
         </item>
     
 </rdf:RDF>
