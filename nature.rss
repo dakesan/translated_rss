@@ -18,6 +18,12 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01820-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01829-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01810-7"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06237-8"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06263-6"/>
@@ -26,13 +32,13 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01767-7"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01810-7"/>
-                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01806-3"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01776-6"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01819-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01821-4"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01845-w"/>
                 
@@ -162,12 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01740-4"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01771-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01727-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01760-0"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,51 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01820-5">
+            <title><![CDATA[The mortality revolution, and the myth of the market: Books in brief]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01820-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 02 June 2023; <a href="https://www.nature.com/articles/d41586-023-01820-5">doi:10.1038/d41586-023-01820-5</a></p>Andrew Robinson reviews five of the best science picks.]]></content:encoded>
+            <dc:title><![CDATA[The mortality revolution, and the myth of the market: Books in brief]]></dc:title>
+            <dc:creator>Andrew Robinson</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01820-5</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-02; | doi:10.1038/d41586-023-01820-5</dc:source>
+            <dc:date>2023-06-02</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01820-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01820-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01829-w">
+            <title><![CDATA[How to make the workplace fairer for female researchers]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01829-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 02 June 2023; <a href="https://www.nature.com/articles/d41586-023-01829-w">doi:10.1038/d41586-023-01829-w</a></p>Nature marked International Women’s Day by asking readers how to achieve gender equality in science.]]></content:encoded>
+            <dc:title><![CDATA[How to make the workplace fairer for female researchers]]></dc:title>
+            <dc:creator>Katharine Sanderson</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01829-w</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-02; | doi:10.1038/d41586-023-01829-w</dc:source>
+            <dc:date>2023-06-02</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01829-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01829-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01810-7">
+            <title><![CDATA[EU council’s ‘no pay’ publishing model draws mixed response]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01810-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 02 June 2023; <a href="https://www.nature.com/articles/d41586-023-01810-7">doi:10.1038/d41586-023-01810-7</a></p>Some academics have welcomed the proposed open-access plans. But publishing-industry representatives warn they are unrealistic and lack detail.]]></content:encoded>
+            <dc:title><![CDATA[EU council’s ‘no pay’ publishing model draws mixed response]]></dc:title>
+            <dc:creator>Katharine Sanderson</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01810-7</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-02; | doi:10.1038/d41586-023-01810-7</dc:source>
+            <dc:date>2023-06-02</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01810-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01810-7</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06237-8">
             <title><![CDATA[Publisher Correction: Targeting PD-L2–RGMb overcomes microbiome-related immunotherapy resistance]]></title>
@@ -237,21 +282,6 @@
             <prism:url>https://www.nature.com/articles/d41586-023-01767-7</prism:url>
         </item>
     
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01810-7">
-            <title><![CDATA[EU council’s ‘no pay’ publishing model draws mixed response]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01810-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 01 June 2023; <a href="https://www.nature.com/articles/d41586-023-01810-7">doi:10.1038/d41586-023-01810-7</a></p>Some academics have welcomed the proposed open access plans. But publishing industry representatives warn they are unrealistic and lack detail.]]></content:encoded>
-            <dc:title><![CDATA[EU council’s ‘no pay’ publishing model draws mixed response]]></dc:title>
-            <dc:creator>Katharine Sanderson</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01810-7</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-01; | doi:10.1038/d41586-023-01810-7</dc:source>
-            <dc:date>2023-06-01</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01810-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01810-7</prism:url>
-        </item>
-    
         <item rdf:about="https://www.nature.com/articles/d41586-023-01806-3">
             <title><![CDATA[Arab world's first asteroid hopper will visit seven space rocks]]></title>
             <link>https://www.nature.com/articles/d41586-023-01806-3</link>
@@ -295,6 +325,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01819-y</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01819-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01821-4">
+            <title><![CDATA[Daily briefing: We are exceeding the limits of Earth’s ability to support us]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01821-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 01 June 2023; <a href="https://www.nature.com/articles/d41586-023-01821-4">doi:10.1038/d41586-023-01821-4</a></p>Humanity has crossed eight of nine ‘Earth-system boundaries’ for a healthy and fair world. Plus, the brain’s wrinkles help to drive how it works and an infinite tiling pattern that could end a 60-year mathematical quest.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: We are exceeding the limits of Earth’s ability to support us]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01821-4</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-01; | doi:10.1038/d41586-023-01821-4</dc:source>
+            <dc:date>2023-06-01</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01821-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01821-4</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-01845-w">
@@ -1255,51 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01740-4</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01740-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01771-x">
-            <title><![CDATA[Ghosted in science: how to move on when a potential collaborator suddenly stops responding]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01771-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 26 May 2023; <a href="https://www.nature.com/articles/d41586-023-01771-x">doi:10.1038/d41586-023-01771-x</a></p>Don’t blame yourself if an enthusiastic and productive first encounter goes nowhere, says Aditya Simha.]]></content:encoded>
-            <dc:title><![CDATA[Ghosted in science: how to move on when a potential collaborator suddenly stops responding]]></dc:title>
-            <dc:creator>Aditya Simha</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01771-x</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-26; | doi:10.1038/d41586-023-01771-x</dc:source>
-            <dc:date>2023-05-26</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01771-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01771-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01727-1">
-            <title><![CDATA[Does brain stimulation boost memory and focus? Mega study tries to settle debate]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01727-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 26 May 2023; <a href="https://www.nature.com/articles/d41586-023-01727-1">doi:10.1038/d41586-023-01727-1</a></p>Analysis of more than 100 studies of non-invasive electrical brain stimulation probes whether the controversial technology works.]]></content:encoded>
-            <dc:title><![CDATA[Does brain stimulation boost memory and focus? Mega study tries to settle debate]]></dc:title>
-            <dc:creator>Emily Waltz</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01727-1</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-26; | doi:10.1038/d41586-023-01727-1</dc:source>
-            <dc:date>2023-05-26</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01727-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01727-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01760-0">
-            <title><![CDATA[US will vaccinate birds against avian flu for first time — what researchers think]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01760-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 26 May 2023; <a href="https://www.nature.com/articles/d41586-023-01760-0">doi:10.1038/d41586-023-01760-0</a></p>The country plans to vaccinate endangered condors in an effort to curb unprecedented H5N1 outbreaks.]]></content:encoded>
-            <dc:title><![CDATA[US will vaccinate birds against avian flu for first time — what researchers think]]></dc:title>
-            <dc:creator>Max Kozlov</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01760-0</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-26; | doi:10.1038/d41586-023-01760-0</dc:source>
-            <dc:date>2023-05-26</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01760-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01760-0</prism:url>
         </item>
     
 </rdf:RDF>
