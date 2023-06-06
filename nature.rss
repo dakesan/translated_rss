@@ -18,15 +18,29 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01834-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01777-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-05998-6"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01832-1"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01844-x"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01849-6"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01856-7"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01811-6"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01833-0"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01854-9"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01831-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01850-z"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01855-8"/>
                 
@@ -154,20 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01749-9"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01770-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01360-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01759-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01757-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01741-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01758-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01742-2"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,51 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01834-z">
+            <title><![CDATA[My mission to grow fruit without the plant]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01834-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 05 June 2023; <a href="https://www.nature.com/articles/d41586-023-01834-z">doi:10.1038/d41586-023-01834-z</a></p>Lucas van der Zee hopes to restore current farmland to its natural state by eliminating the vegetation stage of crop-growing.]]></content:encoded>
+            <dc:title><![CDATA[My mission to grow fruit without the plant]]></dc:title>
+            <dc:creator>James Mitchell Crow</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01834-z</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-05; | doi:10.1038/d41586-023-01834-z</dc:source>
+            <dc:date>2023-06-05</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01834-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01834-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01777-5">
+            <title><![CDATA[New Zealand volcano: science agency pleads guilty to risk-assessment charge]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01777-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 05 June 2023; <a href="https://www.nature.com/articles/d41586-023-01777-5">doi:10.1038/d41586-023-01777-5</a></p>The charge relates to how GNS Science communicated volcanic risk to contractors in the years before the Whakaari White Island eruption in 2019.]]></content:encoded>
+            <dc:title><![CDATA[New Zealand volcano: science agency pleads guilty to risk-assessment charge]]></dc:title>
+            <dc:creator>Dyani Lewis</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01777-5</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-05; | doi:10.1038/d41586-023-01777-5</dc:source>
+            <dc:date>2023-06-05</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01777-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01777-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-023-05998-6">
+            <title><![CDATA[Spatial variations in aromatic hydrocarbon emission in a dust-rich galaxy]]></title>
+            <link>https://www.nature.com/articles/s41586-023-05998-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 05 June 2023; <a href="https://www.nature.com/articles/s41586-023-05998-6">doi:10.1038/s41586-023-05998-6</a></p>We present James Webb Space Telescope observations that detect the 3.3 μm polycyclic aromatic hydrocarbon feature in a galaxy observed less than 1.5 billion years after the Big Bang.]]></content:encoded>
+            <dc:title><![CDATA[Spatial variations in aromatic hydrocarbon emission in a dust-rich galaxy]]></dc:title>
+            <dc:creator>Justin S. Spilker</dc:creator><dc:creator>Kedar A. Phadke</dc:creator><dc:creator>Manuel Aravena</dc:creator><dc:creator>Melanie Archipley</dc:creator><dc:creator>Matthew B. Bayliss</dc:creator><dc:creator>Jack E. Birkin</dc:creator><dc:creator>Matthieu Béthermin</dc:creator><dc:creator>James Burgoyne</dc:creator><dc:creator>Jared Cathey</dc:creator><dc:creator>Scott C. Chapman</dc:creator><dc:creator>Håkon Dahle</dc:creator><dc:creator>Anthony H. Gonzalez</dc:creator><dc:creator>Gayathri Gururajan</dc:creator><dc:creator>Christopher C. Hayward</dc:creator><dc:creator>Yashar D. Hezaveh</dc:creator><dc:creator>Ryley Hill</dc:creator><dc:creator>Taylor A. Hutchison</dc:creator><dc:creator>Keunho J. Kim</dc:creator><dc:creator>Seonwoo Kim</dc:creator><dc:creator>David Law</dc:creator><dc:creator>Ronan Legin</dc:creator><dc:creator>Matthew A. Malkan</dc:creator><dc:creator>Daniel P. Marrone</dc:creator><dc:creator>Eric J. Murphy</dc:creator><dc:creator>Desika Narayanan</dc:creator><dc:creator>Alex Navarre</dc:creator><dc:creator>Grace M. Olivier</dc:creator><dc:creator>Jeffrey A. Rich</dc:creator><dc:creator>Jane R. Rigby</dc:creator><dc:creator>Cassie Reuter</dc:creator><dc:creator>James E. Rhoads</dc:creator><dc:creator>Keren Sharon</dc:creator><dc:creator>J. D. T. Smith</dc:creator><dc:creator>Manuel Solimano</dc:creator><dc:creator>Nikolaus Sulzenauer</dc:creator><dc:creator>Joaquin D. Vieira</dc:creator><dc:creator>David Vizgan</dc:creator><dc:creator>Axel Weiß</dc:creator><dc:creator>Katherine E. Whitaker</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-023-05998-6</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-05; | doi:10.1038/s41586-023-05998-6</dc:source>
+            <dc:date>2023-06-05</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-023-05998-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-023-05998-6</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-01832-1">
             <title><![CDATA[When a loved one dies: how academia can support bereaved colleagues]]></title>
@@ -192,6 +237,36 @@
             <prism:url>https://www.nature.com/articles/d41586-023-01832-1</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01844-x">
+            <title><![CDATA[JWST spots the most distant ‘smoke’ molecules ever seen in space]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01844-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 05 June 2023; <a href="https://www.nature.com/articles/d41586-023-01844-x">doi:10.1038/d41586-023-01844-x</a></p>The presence of the molecules in an early galaxy means it must have pumped out stars at a furious pace, researchers say.]]></content:encoded>
+            <dc:title><![CDATA[JWST spots the most distant ‘smoke’ molecules ever seen in space]]></dc:title>
+            <dc:creator>Alexandra Witze</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01844-x</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-05; | doi:10.1038/d41586-023-01844-x</dc:source>
+            <dc:date>2023-06-05</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01844-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01844-x</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01849-6">
+            <title><![CDATA[Sleep loss impairs memory of smells, worm research shows]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01849-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 05 June 2023; <a href="https://www.nature.com/articles/d41586-023-01849-6">doi:10.1038/d41586-023-01849-6</a></p>Sleeping C. elegans offers clues to the molecular changes underpinning the link between sleep and memory.]]></content:encoded>
+            <dc:title><![CDATA[Sleep loss impairs memory of smells, worm research shows]]></dc:title>
+            <dc:creator>Miryam Naddaf</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01849-6</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-05; | doi:10.1038/d41586-023-01849-6</dc:source>
+            <dc:date>2023-06-05</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01849-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01849-6</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-023-01856-7">
             <title><![CDATA[Scientific utopias: scientific enlightenment in the Stupid Questions Office]]></title>
             <link>https://www.nature.com/articles/d41586-023-01856-7</link>
@@ -205,6 +280,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01856-7</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01856-7</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01811-6">
+            <title><![CDATA[Golden jubilee for an iconic financial formula]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01811-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 05 June 2023; <a href="https://www.nature.com/articles/d41586-023-01811-6">doi:10.1038/d41586-023-01811-6</a></p>Fifty years ago, an equation called the Black–Scholes formula revolutionized finance, leading to a rapid growth of markets and stimulating quantitatively oriented minds. But, with time, its simplicity became a liability — and yet its legacy persists.]]></content:encoded>
+            <dc:title><![CDATA[Golden jubilee for an iconic financial formula]]></dc:title>
+            <dc:creator>Blanka N. Horvath</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01811-6</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-05; | doi:10.1038/d41586-023-01811-6</dc:source>
+            <dc:date>2023-06-05</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01811-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01811-6</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-01833-0">
@@ -250,6 +340,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01831-2</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01831-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01850-z">
+            <title><![CDATA[Accidental DNA collection by air sensors could revolutionize wildlife tracking]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01850-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 05 June 2023; <a href="https://www.nature.com/articles/d41586-023-01850-z">doi:10.1038/d41586-023-01850-z</a></p>Filters at air-pollution monitoring stations trap DNA from a multitude of flora and fauna, researchers find.]]></content:encoded>
+            <dc:title><![CDATA[Accidental DNA collection by air sensors could revolutionize wildlife tracking]]></dc:title>
+            <dc:creator>Natasha Gilbert</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01850-z</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-05; | doi:10.1038/d41586-023-01850-z</dc:source>
+            <dc:date>2023-06-05</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01850-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01850-z</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-01855-8">
@@ -343,11 +448,11 @@
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-01799-z">
-            <title><![CDATA[“It’s a vote for hope”: first gene therapy for muscular dystrophy nears approval, but will it work?]]></title>
+            <title><![CDATA[‘It’s a vote for hope’: first gene therapy for muscular dystrophy nears approval, but will it work?]]></title>
             <link>https://www.nature.com/articles/d41586-023-01799-z</link>
             <content:encoded>
                 <![CDATA[<p>Nature, Published online: 02 June 2023; <a href="https://www.nature.com/articles/d41586-023-01799-z">doi:10.1038/d41586-023-01799-z</a></p>The FDA’s decision, expected this month, follows several setbacks and delays and will pose difficult choices for the families of children with Duchenne muscular dystrophy.]]></content:encoded>
-            <dc:title><![CDATA[“It’s a vote for hope”: first gene therapy for muscular dystrophy nears approval, but will it work?]]></dc:title>
+            <dc:title><![CDATA[‘It’s a vote for hope’: first gene therapy for muscular dystrophy nears approval, but will it work?]]></dc:title>
             <dc:creator>Sara Reardon</dc:creator>
             <dc:identifier>doi:10.1038/d41586-023-01799-z</dc:identifier>
             <dc:source>Nature, Published online: 2023-06-02; | doi:10.1038/d41586-023-01799-z</dc:source>
@@ -478,11 +583,11 @@
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-01806-3">
-            <title><![CDATA[Arab world's first asteroid hopper will visit seven space rocks]]></title>
+            <title><![CDATA[Arab world’s first asteroid hopper will visit seven space rocks]]></title>
             <link>https://www.nature.com/articles/d41586-023-01806-3</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 01 June 2023; <a href="https://www.nature.com/articles/d41586-023-01806-3">doi:10.1038/d41586-023-01806-3</a></p>UAE's MBR Explorer aims to solve mystery of ultra-red celestial body in the asteroid belt beyond Mars.]]></content:encoded>
-            <dc:title><![CDATA[Arab world's first asteroid hopper will visit seven space rocks]]></dc:title>
+                <![CDATA[<p>Nature, Published online: 01 June 2023; <a href="https://www.nature.com/articles/d41586-023-01806-3">doi:10.1038/d41586-023-01806-3</a></p>The UAE’s MBR Explorer aims to solve mystery of ultra-red celestial body in the asteroid belt beyond Mars.]]></content:encoded>
+            <dc:title><![CDATA[Arab world’s first asteroid hopper will visit seven space rocks]]></dc:title>
             <dc:creator>Miryam Naddaf</dc:creator>
             <dc:identifier>doi:10.1038/d41586-023-01806-3</dc:identifier>
             <dc:source>Nature, Published online: 2023-06-01; | doi:10.1038/d41586-023-01806-3</dc:source>
@@ -496,7 +601,7 @@
             <title><![CDATA[Biggest ever study of primate genomes has surprises for humanity]]></title>
             <link>https://www.nature.com/articles/d41586-023-01776-6</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 01 June 2023; <a href="https://www.nature.com/articles/d41586-023-01776-6">doi:10.1038/d41586-023-01776-6</a></p>Genomes of humans' closest relatives provide insight for conservation, human disease and the origins of social structures.]]></content:encoded>
+                <![CDATA[<p>Nature, Published online: 01 June 2023; <a href="https://www.nature.com/articles/d41586-023-01776-6">doi:10.1038/d41586-023-01776-6</a></p>Genomes of humans’ closest relatives provide insight for conservation, human disease and the origins of social structures.]]></content:encoded>
             <dc:title><![CDATA[Biggest ever study of primate genomes has surprises for humanity]]></dc:title>
             <dc:creator>Dyani Lewis</dc:creator>
             <dc:identifier>doi:10.1038/d41586-023-01776-6</dc:identifier>
@@ -1195,111 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01749-9</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01749-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01770-y">
-            <title><![CDATA[India cuts periodic table and evolution from school textbooks — experts are baffled]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01770-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 31 May 2023; <a href="https://www.nature.com/articles/d41586-023-01770-y">doi:10.1038/d41586-023-01770-y</a></p>Nature has learnt that the periodic table, as well as evolution, won’t be taught to under-16s as they start the new school year.]]></content:encoded>
-            <dc:title><![CDATA[India cuts periodic table and evolution from school textbooks — experts are baffled]]></dc:title>
-            <dc:creator>Dyani Lewis</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01770-y</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-31; | doi:10.1038/d41586-023-01770-y</dc:source>
-            <dc:date>2023-05-31</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01770-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01770-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01360-y">
-            <title><![CDATA[Designer titanium alloys created using 3D printing]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01360-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 31 May 2023; <a href="https://www.nature.com/articles/d41586-023-01360-y">doi:10.1038/d41586-023-01360-y</a></p>An original class of strong, ductile titanium alloy containing the inexpensive and abundant oxygen and iron as principal alloying elements has been created using 3D printing. The research findings offer promise for turning low‑quality titanium sponge — a waste product of the energy-intensive production of titanium — into high‑performance titanium alloys, and for innovative alloy engineering.]]></content:encoded>
-            <dc:title><![CDATA[Designer titanium alloys created using 3D printing]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-01360-y</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-31; | doi:10.1038/d41586-023-01360-y</dc:source>
-            <dc:date>2023-05-31</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01360-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01360-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01759-7">
-            <title><![CDATA[Satellite imagery identifies deliberate attacks on hospitals]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01759-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 30 May 2023; <a href="https://www.nature.com/articles/d41586-023-01759-7">doi:10.1038/d41586-023-01759-7</a></p>Satellite imagery identifies deliberate attacks on hospitals]]></content:encoded>
-            <dc:title><![CDATA[Satellite imagery identifies deliberate attacks on hospitals]]></dc:title>
-            <dc:creator>Danielle N. Poole</dc:creator><dc:creator>Nathaniel A. Raymond</dc:creator><dc:creator>Kaveh Khoshnood</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01759-7</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-30; | doi:10.1038/d41586-023-01759-7</dc:source>
-            <dc:date>2023-05-30</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01759-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01759-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01757-9">
-            <title><![CDATA[Electricity outages delay SDGs in sub-Saharan Africa]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01757-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 30 May 2023; <a href="https://www.nature.com/articles/d41586-023-01757-9">doi:10.1038/d41586-023-01757-9</a></p>Electricity outages delay SDGs in sub-Saharan Africa]]></content:encoded>
-            <dc:title><![CDATA[Electricity outages delay SDGs in sub-Saharan Africa]]></dc:title>
-            <dc:creator>Qian Jia</dc:creator><dc:creator>Ying Wang</dc:creator><dc:creator>Zhenci Xu</dc:creator><dc:creator>Fengting Li</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01757-9</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-30; | doi:10.1038/d41586-023-01757-9</dc:source>
-            <dc:date>2023-05-30</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01757-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01757-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01741-3">
-            <title><![CDATA[I use a robot to restore Pompeii’s shattered frescoes]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01741-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 30 May 2023; <a href="https://www.nature.com/articles/d41586-023-01741-3">doi:10.1038/d41586-023-01741-3</a></p>Cultural and heritage researcher Arianna Traviglia uses robotic technology to painstakingly reconstruct 2,000-year-old mural paintings in Pompeii.]]></content:encoded>
-            <dc:title><![CDATA[I use a robot to restore Pompeii’s shattered frescoes]]></dc:title>
-            <dc:creator>Stav Dimitropoulos</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01741-3</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-30; | doi:10.1038/d41586-023-01741-3</dc:source>
-            <dc:date>2023-05-30</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01741-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01741-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01758-8">
-            <title><![CDATA[Marine heatwaves: base definitions on ecosystem damage]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01758-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 30 May 2023; <a href="https://www.nature.com/articles/d41586-023-01758-8">doi:10.1038/d41586-023-01758-8</a></p>Marine heatwaves: base definitions on ecosystem damage]]></content:encoded>
-            <dc:title><![CDATA[Marine heatwaves: base definitions on ecosystem damage]]></dc:title>
-            <dc:creator>Tiantian Li</dc:creator><dc:creator>Shilu Tong</dc:creator><dc:creator>Xiaoming Shi</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01758-8</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-30; | doi:10.1038/d41586-023-01758-8</dc:source>
-            <dc:date>2023-05-30</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01758-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01758-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01742-2">
-            <title><![CDATA[From the archive: foods of the future and cryptography secrets]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01742-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 30 May 2023; <a href="https://www.nature.com/articles/d41586-023-01742-2">doi:10.1038/d41586-023-01742-2</a></p>Snippets from Nature’s past.]]></content:encoded>
-            <dc:title><![CDATA[From the archive: foods of the future and cryptography secrets]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-01742-2</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-30; | doi:10.1038/d41586-023-01742-2</dc:source>
-            <dc:date>2023-05-30</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01742-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01742-2</prism:url>
         </item>
     
 </rdf:RDF>
