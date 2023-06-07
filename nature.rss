@@ -18,15 +18,31 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01861-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06241-y"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01853-w"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01851-y"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01814-3"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01852-x"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01857-6"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01876-3"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01729-z"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01830-3"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01826-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01824-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01871-8"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01834-z"/>
                 
@@ -152,22 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06133-1"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01495-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01752-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01780-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01507-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01738-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01736-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01743-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01739-x"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,36 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01861-w">
+            <title><![CDATA[Deaths of African cheetahs in India shine spotlight on controversial conservation project]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01861-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 07 June 2023; <a href="https://www.nature.com/articles/d41586-023-01861-w">doi:10.1038/d41586-023-01861-w</a></p>Scientists fear that an Indian park is not enough space for the planned population — and that not enough work has been done with locals on how they will respond to the animals.]]></content:encoded>
+            <dc:title><![CDATA[Deaths of African cheetahs in India shine spotlight on controversial conservation project]]></dc:title>
+            <dc:creator>Gayathri Vaidyanathan</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01861-w</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-07; | doi:10.1038/d41586-023-01861-w</dc:source>
+            <dc:date>2023-06-07</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01861-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01861-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-023-06241-y">
+            <title><![CDATA[Publisher Correction: Cortico-cortical feedback engages active dendrites in visual cortex]]></title>
+            <link>https://www.nature.com/articles/s41586-023-06241-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 June 2023; <a href="https://www.nature.com/articles/s41586-023-06241-y">doi:10.1038/s41586-023-06241-y</a></p>Publisher Correction: Cortico-cortical feedback engages active dendrites in visual cortex]]></content:encoded>
+            <dc:title><![CDATA[Publisher Correction: Cortico-cortical feedback engages active dendrites in visual cortex]]></dc:title>
+            <dc:creator>Mehmet Fişek</dc:creator><dc:creator>Dustin Herrmann</dc:creator><dc:creator>Alexander Egea-Weiss</dc:creator><dc:creator>Matilda Cloves</dc:creator><dc:creator>Lisa Bauer</dc:creator><dc:creator>Tai-Ying Lee</dc:creator><dc:creator>Lloyd E. Russell</dc:creator><dc:creator>Michael Häusser</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-023-06241-y</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-06; | doi:10.1038/s41586-023-06241-y</dc:source>
+            <dc:date>2023-06-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-023-06241-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-023-06241-y</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-01853-w">
             <title><![CDATA[ChatGPT: standard reporting guidelines for responsible use]]></title>
@@ -207,6 +237,21 @@
             <prism:url>https://www.nature.com/articles/d41586-023-01851-y</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01814-3">
+            <title><![CDATA[From the archive: ancient timelines and a west-side story of cities]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01814-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 June 2023; <a href="https://www.nature.com/articles/d41586-023-01814-3">doi:10.1038/d41586-023-01814-3</a></p>Snippets from Nature’s past.]]></content:encoded>
+            <dc:title><![CDATA[From the archive: ancient timelines and a west-side story of cities]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-01814-3</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-06; | doi:10.1038/d41586-023-01814-3</dc:source>
+            <dc:date>2023-06-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01814-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01814-3</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-023-01852-x">
             <title><![CDATA[Preserve cultural diversity in author names]]></title>
             <link>https://www.nature.com/articles/d41586-023-01852-x</link>
@@ -222,13 +267,43 @@
             <prism:url>https://www.nature.com/articles/d41586-023-01852-x</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01857-6">
+            <title><![CDATA[The Arctic could go ice-free in less than a decade]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01857-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 June 2023; <a href="https://www.nature.com/articles/d41586-023-01857-6">doi:10.1038/d41586-023-01857-6</a></p>Even stringent emission limits will not preserve the end-of-summer ice on Arctic seas.]]></content:encoded>
+            <dc:title><![CDATA[The Arctic could go ice-free in less than a decade]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-01857-6</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-06; | doi:10.1038/d41586-023-01857-6</dc:source>
+            <dc:date>2023-06-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01857-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01857-6</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01876-3">
+            <title><![CDATA[Lasers pierce the stunning dark skies of the Atacama Desert]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01876-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 June 2023; <a href="https://www.nature.com/articles/d41586-023-01876-3">doi:10.1038/d41586-023-01876-3</a></p>One of the world’s most advanced telescopes, located in Chile, uses the beams to make artificial stars.]]></content:encoded>
+            <dc:title><![CDATA[Lasers pierce the stunning dark skies of the Atacama Desert]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-01876-3</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-06; | doi:10.1038/d41586-023-01876-3</dc:source>
+            <dc:date>2023-06-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01876-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01876-3</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-023-01729-z">
             <title><![CDATA[Tanzania’s researchers offered US$22,000 to publish in international journals]]></title>
             <link>https://www.nature.com/articles/d41586-023-01729-z</link>
             <content:encoded>
                 <![CDATA[<p>Nature, Published online: 06 June 2023; <a href="https://www.nature.com/articles/d41586-023-01729-z">doi:10.1038/d41586-023-01729-z</a></p>The move is designed to encourage research and help boost institutions’ rankings. But some researchers say it will reward those already established in their careers.]]></content:encoded>
             <dc:title><![CDATA[Tanzania’s researchers offered US$22,000 to publish in international journals]]></dc:title>
-            <dc:creator>Buguzi Syriacus</dc:creator>
+            <dc:creator>Syriacus Buguzi</dc:creator>
             <dc:identifier>doi:10.1038/d41586-023-01729-z</dc:identifier>
             <dc:source>Nature, Published online: 2023-06-06; | doi:10.1038/d41586-023-01729-z</dc:source>
             <dc:date>2023-06-06</dc:date>
@@ -250,6 +325,51 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01830-3</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01830-3</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01826-z">
+            <title><![CDATA[The inspiring story of the <i>Tara</i> and its 20-year message from the corals]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01826-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 June 2023; <a href="https://www.nature.com/articles/d41586-023-01826-z">doi:10.1038/d41586-023-01826-z</a></p>A remarkable research ship’s voyages to understand marine biodiversity show how visionary thinking can boost understanding of the natural world — and help to better preserve it.]]></content:encoded>
+            <dc:title><![CDATA[The inspiring story of the <i>Tara</i> and its 20-year message from the corals]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-01826-z</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-06; | doi:10.1038/d41586-023-01826-z</dc:source>
+            <dc:date>2023-06-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01826-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01826-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01824-1">
+            <title><![CDATA[Does shingles vaccination cut dementia risk? Large study hints at a link]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01824-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 June 2023; <a href="https://www.nature.com/articles/d41586-023-01824-1">doi:10.1038/d41586-023-01824-1</a></p>Analysis of nearly 300,000 people finds an association between the shingles jab and a lower rate of dementia — but questions linger.]]></content:encoded>
+            <dc:title><![CDATA[Does shingles vaccination cut dementia risk? Large study hints at a link]]></dc:title>
+            <dc:creator>Sara Reardon</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01824-1</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-06; | doi:10.1038/d41586-023-01824-1</dc:source>
+            <dc:date>2023-06-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01824-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01824-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01871-8">
+            <title><![CDATA[‘Science was heard’: Woman who was convicted of killing her children pardoned after inquiry]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01871-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 June 2023; <a href="https://www.nature.com/articles/d41586-023-01871-8">doi:10.1038/d41586-023-01871-8</a></p>Kathleen Folbigg, who was jailed in Australia in 2003 over the sudden deaths of her four young children has been pardoned and released in the wake of new scientific evidence.]]></content:encoded>
+            <dc:title><![CDATA[‘Science was heard’: Woman who was convicted of killing her children pardoned after inquiry]]></dc:title>
+            <dc:creator>Dyani Lewis</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01871-8</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-06; | doi:10.1038/d41586-023-01871-8</dc:source>
+            <dc:date>2023-06-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01871-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01871-8</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-01834-z">
@@ -1180,126 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/s41586-023-06133-1</prism:doi>
             <prism:url>https://www.nature.com/articles/s41586-023-06133-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01495-y">
-            <title><![CDATA[The geometry of the human brain shapes its function]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01495-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 31 May 2023; <a href="https://www.nature.com/articles/d41586-023-01495-y">doi:10.1038/d41586-023-01495-y</a></p>Brain activity is structured in space and time. The resulting activity patterns are conventionally thought to depend on an intricate web of anatomical connections that link specialized populations of cells. This work challenges this paradigm by showing that macroscale neuronal dynamics of the human brain are fundamentally shaped by its physical geometry.]]></content:encoded>
-            <dc:title><![CDATA[The geometry of the human brain shapes its function]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-01495-y</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-31; | doi:10.1038/d41586-023-01495-y</dc:source>
-            <dc:date>2023-05-31</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01495-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01495-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01752-0">
-            <title><![CDATA[Our mutual friend, the prediction algorithm]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01752-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 31 May 2023; <a href="https://www.nature.com/articles/d41586-023-01752-0">doi:10.1038/d41586-023-01752-0</a></p>It does the thinking, so you don’t have to.]]></content:encoded>
-            <dc:title><![CDATA[Our mutual friend, the prediction algorithm]]></dc:title>
-            <dc:creator>Andrew Kozma</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01752-0</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-31; | doi:10.1038/d41586-023-01752-0</dc:source>
-            <dc:date>2023-05-31</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01752-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01752-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01780-w">
-            <title><![CDATA[AI intensifies fight against ‘paper mills’ that churn out fake research]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01780-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 31 May 2023; <a href="https://www.nature.com/articles/d41586-023-01780-w">doi:10.1038/d41586-023-01780-w</a></p>Text- and image-generating tools present a new hurdle for efforts to tackle the growing number of fake papers making their way into the academic literature.]]></content:encoded>
-            <dc:title><![CDATA[AI intensifies fight against ‘paper mills’ that churn out fake research]]></dc:title>
-            <dc:creator>Layal Liverpool</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01780-w</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-31; | doi:10.1038/d41586-023-01780-w</dc:source>
-            <dc:date>2023-05-31</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01780-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01780-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01507-x">
-            <title><![CDATA[Cash-transfer programmes reduce mortality in low- and middle-income countries]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01507-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 31 May 2023; <a href="https://www.nature.com/articles/d41586-023-01507-x">doi:10.1038/d41586-023-01507-x</a></p>Cash-transfer programmes have emerged as central components of poverty-reduction strategies in many countries, and became even more common during the COVID-19 pandemic. An analysis of 37 low- and middle-income countries finds that these programmes led to marked reductions in population-level mortality in adult women and young children.]]></content:encoded>
-            <dc:title><![CDATA[Cash-transfer programmes reduce mortality in low- and middle-income countries]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-01507-x</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-31; | doi:10.1038/d41586-023-01507-x</dc:source>
-            <dc:date>2023-05-31</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01507-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01507-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01738-y">
-            <title><![CDATA[Search for distant atmosphere off to a rocky start]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01738-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 31 May 2023; <a href="https://www.nature.com/articles/d41586-023-01738-y">doi:10.1038/d41586-023-01738-y</a></p>Astronomers have used observations of infrared light to measure the heat emanating from an Earth-sized exoplanet known as TRAPPIST-1b. Their findings reveal that the planet is a bare rock, devoid of any atmosphere.]]></content:encoded>
-            <dc:title><![CDATA[Search for distant atmosphere off to a rocky start]]></dc:title>
-            <dc:creator>Laura Kreidberg</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01738-y</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-31; | doi:10.1038/d41586-023-01738-y</dc:source>
-            <dc:date>2023-05-31</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01738-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01738-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01736-0">
-            <title><![CDATA[Surgical wonders and dodgy medical ethics: the Hunterian Museum reopens]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01736-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 31 May 2023; <a href="https://www.nature.com/articles/d41586-023-01736-0">doi:10.1038/d41586-023-01736-0</a></p>The London museum is a treasure chest of medical specimens both fascinating and ghoulish — now with a renewed focus on questions about how its collections came to be.]]></content:encoded>
-            <dc:title><![CDATA[Surgical wonders and dodgy medical ethics: the Hunterian Museum reopens]]></dc:title>
-            <dc:creator>Nisha Gaind</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01736-0</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-31; | doi:10.1038/d41586-023-01736-0</dc:source>
-            <dc:date>2023-05-31</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01736-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01736-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01743-1">
-            <title><![CDATA[How to define unjust planetary change]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01743-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 31 May 2023; <a href="https://www.nature.com/articles/d41586-023-01743-1">doi:10.1038/d41586-023-01743-1</a></p>Biophysical and sociopolitical factors have been integrated into a set of measures of planetary change that aim to pinpoint safe and just thresholds for all living things. The exercise is immensely ambitious and inevitably challenging.]]></content:encoded>
-            <dc:title><![CDATA[How to define unjust planetary change]]></dc:title>
-            <dc:creator>Stephen Humphreys</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01743-1</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-31; | doi:10.1038/d41586-023-01743-1</dc:source>
-            <dc:date>2023-05-31</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01743-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01743-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01739-x">
-            <title><![CDATA[How a protein differentiates between rare-earth elements]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01739-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 31 May 2023; <a href="https://www.nature.com/articles/d41586-023-01739-x">doi:10.1038/d41586-023-01739-x</a></p>A protein has been discovered that binds to the lighter members of the rare-earth family of metals more strongly than to the heavier ones — an amazing feat, given the chemical similarities of these elements.]]></content:encoded>
-            <dc:title><![CDATA[How a protein differentiates between rare-earth elements]]></dc:title>
-            <dc:creator>Scott Banta</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01739-x</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-31; | doi:10.1038/d41586-023-01739-x</dc:source>
-            <dc:date>2023-05-31</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01739-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01739-x</prism:url>
         </item>
     
 </rdf:RDF>
