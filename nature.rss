@@ -18,6 +18,14 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01877-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01546-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06028-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01872-7"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01861-w"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06241-y"/>
@@ -160,14 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06128-y"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06130-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06083-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06098-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06133-1"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,66 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01877-2">
+            <title><![CDATA[Are you a postdoc working in academia or industry? Share your career experiences with <i>Nature</i>]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01877-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 07 June 2023; <a href="https://www.nature.com/articles/d41586-023-01877-2">doi:10.1038/d41586-023-01877-2</a></p>Our second global survey of postdoctoral researchers is now live, with new questions to reflect seismic changes to the world of work since 2020.]]></content:encoded>
+            <dc:title><![CDATA[Are you a postdoc working in academia or industry? Share your career experiences with <i>Nature</i>]]></dc:title>
+            <dc:creator>David Payne</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01877-2</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-07; | doi:10.1038/d41586-023-01877-2</dc:source>
+            <dc:date>2023-06-07</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01877-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01877-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01546-4">
+            <title><![CDATA[Why <i>Nature</i> will not allow the use of generative AI in images and video]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01546-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 07 June 2023; <a href="https://www.nature.com/articles/d41586-023-01546-4">doi:10.1038/d41586-023-01546-4</a></p>Saying ‘no’ to this kind of visual content is a question of research integrity, consent, privacy and intellectual-property protection.]]></content:encoded>
+            <dc:title><![CDATA[Why <i>Nature</i> will not allow the use of generative AI in images and video]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-01546-4</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-07; | doi:10.1038/d41586-023-01546-4</dc:source>
+            <dc:date>2023-06-07</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01546-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01546-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-023-06028-1">
+            <title><![CDATA[A metal-poor star with abundances from a pair-instability supernova]]></title>
+            <link>https://www.nature.com/articles/s41586-023-06028-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 07 June 2023; <a href="https://www.nature.com/articles/s41586-023-06028-1">doi:10.1038/s41586-023-06028-1</a></p>The chemical composition of the Galactic halo star J1010+2358 shows extremely low sodium and cobalt abundances, different from most other halo stars, indicative of a very metal-poor star being seeded with elements from a pair-instability supernova.]]></content:encoded>
+            <dc:title><![CDATA[A metal-poor star with abundances from a pair-instability supernova]]></dc:title>
+            <dc:creator>Qian-Fan Xing</dc:creator><dc:creator>Gang Zhao</dc:creator><dc:creator>Zheng-Wei Liu</dc:creator><dc:creator>Alexander Heger</dc:creator><dc:creator>Zhan-Wen Han</dc:creator><dc:creator>Wako Aoki</dc:creator><dc:creator>Yu-Qin Chen</dc:creator><dc:creator>Miho N. Ishigaki</dc:creator><dc:creator>Hai-Ning Li</dc:creator><dc:creator>Jing-Kun Zhao</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-023-06028-1</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-07; | doi:10.1038/s41586-023-06028-1</dc:source>
+            <dc:date>2023-06-07</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-023-06028-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-023-06028-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01872-7">
+            <title><![CDATA[China’s rolling COVID waves could hit every six months — infecting millions]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01872-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 07 June 2023; <a href="https://www.nature.com/articles/d41586-023-01872-7">doi:10.1038/d41586-023-01872-7</a></p>The latest surge is unlikely to crash the country’s health-care system, but scientists fear hundreds of millions of infections.]]></content:encoded>
+            <dc:title><![CDATA[China’s rolling COVID waves could hit every six months — infecting millions]]></dc:title>
+            <dc:creator>Yvaine Ye</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01872-7</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-07; | doi:10.1038/d41586-023-01872-7</dc:source>
+            <dc:date>2023-06-07</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01872-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01872-7</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-01861-w">
             <title><![CDATA[Deaths of African cheetahs in India shine spotlight on controversial conservation project]]></title>
@@ -358,11 +418,11 @@
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-01871-8">
-            <title><![CDATA[‘Science was heard’: Woman who was convicted of killing her children pardoned after inquiry]]></title>
+            <title><![CDATA[‘Science was heard’: woman who was convicted of killing her children pardoned after inquiry]]></title>
             <link>https://www.nature.com/articles/d41586-023-01871-8</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 06 June 2023; <a href="https://www.nature.com/articles/d41586-023-01871-8">doi:10.1038/d41586-023-01871-8</a></p>Kathleen Folbigg, who was jailed in Australia in 2003 over the sudden deaths of her four young children has been pardoned and released in the wake of new scientific evidence.]]></content:encoded>
-            <dc:title><![CDATA[‘Science was heard’: Woman who was convicted of killing her children pardoned after inquiry]]></dc:title>
+                <![CDATA[<p>Nature, Published online: 06 June 2023; <a href="https://www.nature.com/articles/d41586-023-01871-8">doi:10.1038/d41586-023-01871-8</a></p>Kathleen Folbigg, who was jailed in Australia in 2003 over the sudden deaths of her four young children, has been pardoned and released in the wake of new scientific evidence.]]></content:encoded>
+            <dc:title><![CDATA[‘Science was heard’: woman who was convicted of killing her children pardoned after inquiry]]></dc:title>
             <dc:creator>Dyani Lewis</dc:creator>
             <dc:identifier>doi:10.1038/d41586-023-01871-8</dc:identifier>
             <dc:source>Nature, Published online: 2023-06-06; | doi:10.1038/d41586-023-01871-8</dc:source>
@@ -1240,66 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/s41586-023-06128-y</prism:doi>
             <prism:url>https://www.nature.com/articles/s41586-023-06128-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06130-4">
-            <title><![CDATA[Hallmarks of transcriptional intratumour heterogeneity across a thousand tumours]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06130-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 31 May 2023; <a href="https://www.nature.com/articles/s41586-023-06130-4">doi:10.1038/s41586-023-06130-4</a></p>A study identifies 41 consensus gene expression meta-programs that are coordinately upregulated in subpopulations of malignant cells across tumour types, providing a comprehensive picture of hallmarks of intratumour heterogeneity.]]></content:encoded>
-            <dc:title><![CDATA[Hallmarks of transcriptional intratumour heterogeneity across a thousand tumours]]></dc:title>
-            <dc:creator>Avishai Gavish</dc:creator><dc:creator>Michael Tyler</dc:creator><dc:creator>Alissa C. Greenwald</dc:creator><dc:creator>Rouven Hoefflin</dc:creator><dc:creator>Dor Simkin</dc:creator><dc:creator>Roi Tschernichovsky</dc:creator><dc:creator>Noam Galili Darnell</dc:creator><dc:creator>Einav Somech</dc:creator><dc:creator>Chaya Barbolin</dc:creator><dc:creator>Tomer Antman</dc:creator><dc:creator>Daniel Kovarsky</dc:creator><dc:creator>Thomas Barrett</dc:creator><dc:creator>L. Nicolas Gonzalez Castro</dc:creator><dc:creator>Debdatta Halder</dc:creator><dc:creator>Rony Chanoch-Myers</dc:creator><dc:creator>Julie Laffy</dc:creator><dc:creator>Michael Mints</dc:creator><dc:creator>Adi Wider</dc:creator><dc:creator>Rotem Tal</dc:creator><dc:creator>Avishay Spitzer</dc:creator><dc:creator>Toshiro Hara</dc:creator><dc:creator>Maria Raitses-Gurevich</dc:creator><dc:creator>Chani Stossel</dc:creator><dc:creator>Talia Golan</dc:creator><dc:creator>Amit Tirosh</dc:creator><dc:creator>Mario L. Suvà</dc:creator><dc:creator>Sidharth V. Puram</dc:creator><dc:creator>Itay Tirosh</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06130-4</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-31; | doi:10.1038/s41586-023-06130-4</dc:source>
-            <dc:date>2023-05-31</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06130-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06130-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06083-8">
-            <title><![CDATA[Safe and just Earth system boundaries]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06083-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 31 May 2023; <a href="https://www.nature.com/articles/s41586-023-06083-8">doi:10.1038/s41586-023-06083-8</a></p>We find that justice considerations constrain the integrated Earth system boundaries more than safety considerations for climate and atmospheric aerosol loading, and our assessment provides a foundation for safeguarding the global commons for all people.]]></content:encoded>
-            <dc:title><![CDATA[Safe and just Earth system boundaries]]></dc:title>
-            <dc:creator>Johan Rockström</dc:creator><dc:creator>Joyeeta Gupta</dc:creator><dc:creator>Dahe Qin</dc:creator><dc:creator>Steven J. Lade</dc:creator><dc:creator>Jesse F. Abrams</dc:creator><dc:creator>Lauren S. Andersen</dc:creator><dc:creator>David I. Armstrong McKay</dc:creator><dc:creator>Xuemei Bai</dc:creator><dc:creator>Govindasamy Bala</dc:creator><dc:creator>Stuart E. Bunn</dc:creator><dc:creator>Daniel Ciobanu</dc:creator><dc:creator>Fabrice DeClerck</dc:creator><dc:creator>Kristie Ebi</dc:creator><dc:creator>Lauren Gifford</dc:creator><dc:creator>Christopher Gordon</dc:creator><dc:creator>Syezlin Hasan</dc:creator><dc:creator>Norichika Kanie</dc:creator><dc:creator>Timothy M. Lenton</dc:creator><dc:creator>Sina Loriani</dc:creator><dc:creator>Diana M. Liverman</dc:creator><dc:creator>Awaz Mohamed</dc:creator><dc:creator>Nebojsa Nakicenovic</dc:creator><dc:creator>David Obura</dc:creator><dc:creator>Daniel Ospina</dc:creator><dc:creator>Klaudia Prodani</dc:creator><dc:creator>Crelis Rammelt</dc:creator><dc:creator>Boris Sakschewski</dc:creator><dc:creator>Joeri Scholtens</dc:creator><dc:creator>Ben Stewart-Koster</dc:creator><dc:creator>Thejna Tharammal</dc:creator><dc:creator>Detlef van Vuuren</dc:creator><dc:creator>Peter H. Verburg</dc:creator><dc:creator>Ricarda Winkelmann</dc:creator><dc:creator>Caroline Zimm</dc:creator><dc:creator>Elena M. Bennett</dc:creator><dc:creator>Stefan Bringezu</dc:creator><dc:creator>Wendy Broadgate</dc:creator><dc:creator>Pamela A. Green</dc:creator><dc:creator>Lei Huang</dc:creator><dc:creator>Lisa Jacobson</dc:creator><dc:creator>Christopher Ndehedehe</dc:creator><dc:creator>Simona Pedde</dc:creator><dc:creator>Juan Rocha</dc:creator><dc:creator>Marten Scheffer</dc:creator><dc:creator>Lena Schulte-Uebbing</dc:creator><dc:creator>Wim de Vries</dc:creator><dc:creator>Cunde Xiao</dc:creator><dc:creator>Chi Xu</dc:creator><dc:creator>Xinwu Xu</dc:creator><dc:creator>Noelia Zafra-Calvo</dc:creator><dc:creator>Xin Zhang</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06083-8</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-31; | doi:10.1038/s41586-023-06083-8</dc:source>
-            <dc:date>2023-05-31</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06083-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06083-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06098-1">
-            <title><![CDATA[Geometric constraints on human brain function]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06098-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 31 May 2023; <a href="https://www.nature.com/articles/s41586-023-06098-1">doi:10.1038/s41586-023-06098-1</a></p>Cortical and subcortical activity can be parsimoniously understood as resulting from excitations of fundamental, resonant modes of the brain’s geometry rather than from modes of complex interregional connectivity.]]></content:encoded>
-            <dc:title><![CDATA[Geometric constraints on human brain function]]></dc:title>
-            <dc:creator>James C. Pang</dc:creator><dc:creator>Kevin M. Aquino</dc:creator><dc:creator>Marianne Oldehinkel</dc:creator><dc:creator>Peter A. Robinson</dc:creator><dc:creator>Ben D. Fulcher</dc:creator><dc:creator>Michael Breakspear</dc:creator><dc:creator>Alex Fornito</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06098-1</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-31; | doi:10.1038/s41586-023-06098-1</dc:source>
-            <dc:date>2023-05-31</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06098-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06098-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06133-1">
-            <title><![CDATA[Engineered tRNAs suppress nonsense mutations in cells and in vivo]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06133-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 31 May 2023; <a href="https://www.nature.com/articles/s41586-023-06133-1">doi:10.1038/s41586-023-06133-1</a></p>Suppressor tRNAs adapted to the amino acid that they carry enable readthrough of premature termination codons introduced by nonsense mutations and show potential for the treatment of genetic diseases such as cystic fibrosis.]]></content:encoded>
-            <dc:title><![CDATA[Engineered tRNAs suppress nonsense mutations in cells and in vivo]]></dc:title>
-            <dc:creator>Suki Albers</dc:creator><dc:creator>Elizabeth C. Allen</dc:creator><dc:creator>Nikhil Bharti</dc:creator><dc:creator>Marcos Davyt</dc:creator><dc:creator>Disha Joshi</dc:creator><dc:creator>Carlos G. Perez-Garcia</dc:creator><dc:creator>Leonardo Santos</dc:creator><dc:creator>Rajesh Mukthavaram</dc:creator><dc:creator>Miguel Angel Delgado-Toscano</dc:creator><dc:creator>Brandon Molina</dc:creator><dc:creator>Kristen Kuakini</dc:creator><dc:creator>Maher Alayyoubi</dc:creator><dc:creator>Kyoung-Joo Jenny Park</dc:creator><dc:creator>Grishma Acharya</dc:creator><dc:creator>Jose A. Gonzalez</dc:creator><dc:creator>Amit Sagi</dc:creator><dc:creator>Susan E. Birket</dc:creator><dc:creator>Guillermo J. Tearney</dc:creator><dc:creator>Steven M. Rowe</dc:creator><dc:creator>Candela Manfredi</dc:creator><dc:creator>Jeong S. Hong</dc:creator><dc:creator>Kiyoshi Tachikawa</dc:creator><dc:creator>Priya Karmali</dc:creator><dc:creator>Daiki Matsuda</dc:creator><dc:creator>Eric J. Sorscher</dc:creator><dc:creator>Pad Chivukula</dc:creator><dc:creator>Zoya Ignatova</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06133-1</dc:identifier>
-            <dc:source>Nature, Published online: 2023-05-31; | doi:10.1038/s41586-023-06133-1</dc:source>
-            <dc:date>2023-05-31</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06133-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06133-1</prism:url>
         </item>
     
 </rdf:RDF>
