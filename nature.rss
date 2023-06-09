@@ -18,9 +18,13 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01923-z"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06278-z"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01846-9"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01917-x"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01906-0"/>
                 
@@ -164,10 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01777-5"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-05998-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01832-1"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,21 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01923-z">
+            <title><![CDATA[How to prebunk misinformation, and the daredevil of the Nile: Books in brief]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01923-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 09 June 2023; <a href="https://www.nature.com/articles/d41586-023-01923-z">doi:10.1038/d41586-023-01923-z</a></p>Andrew Robinson reviews five of the best science picks.]]></content:encoded>
+            <dc:title><![CDATA[How to prebunk misinformation, and the daredevil of the Nile: Books in brief]]></dc:title>
+            <dc:creator>Andrew Robinson</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01923-z</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-09; | doi:10.1038/d41586-023-01923-z</dc:source>
+            <dc:date>2023-06-09</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01923-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01923-z</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06278-z">
             <title><![CDATA[All-perovskite tandem solar cells with 3D/3D bilayer perovskite heterojunction]]></title>
@@ -205,6 +220,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01846-9</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01846-9</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01917-x">
+            <title><![CDATA[Daily briefing: We’re just as kind and honest as ever]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01917-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 June 2023; <a href="https://www.nature.com/articles/d41586-023-01917-x">doi:10.1038/d41586-023-01917-x</a></p>Decades of data show the widespread belief that morality is waning is an illusion. Plus, the first images of the tallest tree in the Amazon and a ‘lost world’ of previously unknown microorganisms that once dominated complex life on Earth.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: We’re just as kind and honest as ever]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01917-x</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-08; | doi:10.1038/d41586-023-01917-x</dc:source>
+            <dc:date>2023-06-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01917-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01917-x</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-01906-0">
@@ -1270,36 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01777-5</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01777-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-05998-6">
-            <title><![CDATA[Spatial variations in aromatic hydrocarbon emission in a dust-rich galaxy]]></title>
-            <link>https://www.nature.com/articles/s41586-023-05998-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 05 June 2023; <a href="https://www.nature.com/articles/s41586-023-05998-6">doi:10.1038/s41586-023-05998-6</a></p>We present James Webb Space Telescope observations that detect the 3.3 μm polycyclic aromatic hydrocarbon feature in a galaxy observed less than 1.5 billion years after the Big Bang.]]></content:encoded>
-            <dc:title><![CDATA[Spatial variations in aromatic hydrocarbon emission in a dust-rich galaxy]]></dc:title>
-            <dc:creator>Justin S. Spilker</dc:creator><dc:creator>Kedar A. Phadke</dc:creator><dc:creator>Manuel Aravena</dc:creator><dc:creator>Melanie Archipley</dc:creator><dc:creator>Matthew B. Bayliss</dc:creator><dc:creator>Jack E. Birkin</dc:creator><dc:creator>Matthieu Béthermin</dc:creator><dc:creator>James Burgoyne</dc:creator><dc:creator>Jared Cathey</dc:creator><dc:creator>Scott C. Chapman</dc:creator><dc:creator>Håkon Dahle</dc:creator><dc:creator>Anthony H. Gonzalez</dc:creator><dc:creator>Gayathri Gururajan</dc:creator><dc:creator>Christopher C. Hayward</dc:creator><dc:creator>Yashar D. Hezaveh</dc:creator><dc:creator>Ryley Hill</dc:creator><dc:creator>Taylor A. Hutchison</dc:creator><dc:creator>Keunho J. Kim</dc:creator><dc:creator>Seonwoo Kim</dc:creator><dc:creator>David Law</dc:creator><dc:creator>Ronan Legin</dc:creator><dc:creator>Matthew A. Malkan</dc:creator><dc:creator>Daniel P. Marrone</dc:creator><dc:creator>Eric J. Murphy</dc:creator><dc:creator>Desika Narayanan</dc:creator><dc:creator>Alex Navarre</dc:creator><dc:creator>Grace M. Olivier</dc:creator><dc:creator>Jeffrey A. Rich</dc:creator><dc:creator>Jane R. Rigby</dc:creator><dc:creator>Cassie Reuter</dc:creator><dc:creator>James E. Rhoads</dc:creator><dc:creator>Keren Sharon</dc:creator><dc:creator>J. D. T. Smith</dc:creator><dc:creator>Manuel Solimano</dc:creator><dc:creator>Nikolaus Sulzenauer</dc:creator><dc:creator>Joaquin D. Vieira</dc:creator><dc:creator>David Vizgan</dc:creator><dc:creator>Axel Weiß</dc:creator><dc:creator>Katherine E. Whitaker</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-05998-6</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-05; | doi:10.1038/s41586-023-05998-6</dc:source>
-            <dc:date>2023-06-05</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-05998-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-05998-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01832-1">
-            <title><![CDATA[When a loved one dies: how academia can support bereaved colleagues]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01832-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 05 June 2023; <a href="https://www.nature.com/articles/d41586-023-01832-1">doi:10.1038/d41586-023-01832-1</a></p>Finding time and space to grieve for a partner, child or friend can be complicated for researchers — and the peers who support them.]]></content:encoded>
-            <dc:title><![CDATA[When a loved one dies: how academia can support bereaved colleagues]]></dc:title>
-            <dc:creator>Jyoti Madhusoodanan</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01832-1</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-05; | doi:10.1038/d41586-023-01832-1</dc:source>
-            <dc:date>2023-06-05</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01832-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01832-1</prism:url>
         </item>
     
 </rdf:RDF>
