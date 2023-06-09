@@ -18,6 +18,10 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06278-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01846-9"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01906-0"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06273-4"/>
@@ -110,6 +114,8 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01840-1"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01904-2"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01838-9"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01812-5"/>
@@ -162,12 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01832-1"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01844-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01849-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01856-7"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,36 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-023-06278-z">
+            <title><![CDATA[All-perovskite tandem solar cells with 3D/3D bilayer perovskite heterojunction]]></title>
+            <link>https://www.nature.com/articles/s41586-023-06278-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 June 2023; <a href="https://www.nature.com/articles/s41586-023-06278-z">doi:10.1038/s41586-023-06278-z</a></p>All-perovskite tandem solar cells with 3D/3D bilayer perovskite heterojunction]]></content:encoded>
+            <dc:title><![CDATA[All-perovskite tandem solar cells with 3D/3D bilayer perovskite heterojunction]]></dc:title>
+            <dc:creator>Renxing Lin</dc:creator><dc:creator>Yurui Wang</dc:creator><dc:creator>Qianwen Lu</dc:creator><dc:creator>Beibei Tang</dc:creator><dc:creator>Jiayi Li</dc:creator><dc:creator>Han Gao</dc:creator><dc:creator>Yuan Gao</dc:creator><dc:creator>Hongjiang Li</dc:creator><dc:creator>Changzeng Ding</dc:creator><dc:creator>Jin Wen</dc:creator><dc:creator>Pu Wu</dc:creator><dc:creator>Chenshuaiyu Liu</dc:creator><dc:creator>Siyang Zhao</dc:creator><dc:creator>Ke Xiao</dc:creator><dc:creator>Zhou Liu</dc:creator><dc:creator>Changqi Ma</dc:creator><dc:creator>Yu Deng</dc:creator><dc:creator>Ludong Li</dc:creator><dc:creator>Fengjia Fan</dc:creator><dc:creator>Hairen Tan</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-023-06278-z</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-08; | doi:10.1038/s41586-023-06278-z</dc:source>
+            <dc:date>2023-06-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-023-06278-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-023-06278-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01846-9">
+            <title><![CDATA[Revealed: the millions of dollars in time wasted making papers fit journal guidelines]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01846-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 June 2023; <a href="https://www.nature.com/articles/d41586-023-01846-9">doi:10.1038/d41586-023-01846-9</a></p>The high cost of ‘reformatting’ prompts a call for journals to change their requirements.]]></content:encoded>
+            <dc:title><![CDATA[Revealed: the millions of dollars in time wasted making papers fit journal guidelines]]></dc:title>
+            <dc:creator>Max Kozlov</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01846-9</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-08; | doi:10.1038/d41586-023-01846-9</dc:source>
+            <dc:date>2023-06-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01846-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01846-9</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-01906-0">
             <title><![CDATA[Powerful microscope captures motor proteins in unprecedented detail]]></title>
@@ -867,6 +897,21 @@
             <prism:url>https://www.nature.com/articles/d41586-023-01840-1</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01904-2">
+            <title><![CDATA[Daily briefing: Shingles jab might cut the risk of dementia]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01904-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 07 June 2023; <a href="https://www.nature.com/articles/d41586-023-01904-2">doi:10.1038/d41586-023-01904-2</a></p>Hints that vaccination against shingles might lower the risk of dementia by 20%. Plus, COVID waves could hit China every six months and cheetah deaths in India shine a spotlight on a controversial conservation project.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Shingles jab might cut the risk of dementia]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01904-2</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-07; | doi:10.1038/d41586-023-01904-2</dc:source>
+            <dc:date>2023-06-07</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01904-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01904-2</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-023-01838-9">
             <title><![CDATA[African countries fight for tobacco control]]></title>
             <link>https://www.nature.com/articles/d41586-023-01838-9</link>
@@ -1255,51 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01832-1</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01832-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01844-x">
-            <title><![CDATA[JWST spots the most distant ‘smoke’ molecules ever seen in space]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01844-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 05 June 2023; <a href="https://www.nature.com/articles/d41586-023-01844-x">doi:10.1038/d41586-023-01844-x</a></p>The presence of the molecules in an early galaxy means it must have pumped out stars at a furious pace, researchers say.]]></content:encoded>
-            <dc:title><![CDATA[JWST spots the most distant ‘smoke’ molecules ever seen in space]]></dc:title>
-            <dc:creator>Alexandra Witze</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01844-x</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-05; | doi:10.1038/d41586-023-01844-x</dc:source>
-            <dc:date>2023-06-05</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01844-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01844-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01849-6">
-            <title><![CDATA[Sleep loss impairs memory of smells, worm research shows]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01849-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 05 June 2023; <a href="https://www.nature.com/articles/d41586-023-01849-6">doi:10.1038/d41586-023-01849-6</a></p>Sleeping C. elegans offers clues to the molecular changes underpinning the link between sleep and memory.]]></content:encoded>
-            <dc:title><![CDATA[Sleep loss impairs memory of smells, worm research shows]]></dc:title>
-            <dc:creator>Miryam Naddaf</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01849-6</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-05; | doi:10.1038/d41586-023-01849-6</dc:source>
-            <dc:date>2023-06-05</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01849-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01849-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01856-7">
-            <title><![CDATA[Scientific utopias: scientific enlightenment in the Stupid Questions Office]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01856-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 05 June 2023; <a href="https://www.nature.com/articles/d41586-023-01856-7">doi:10.1038/d41586-023-01856-7</a></p>Earlier this year, Nature co-sponsored a science-fiction essay competition. According to runner-up Miles Lizak’s science-fiction essay, an ideal research institution would foster curiosity and collaboration, placing greater value on asking brave questions rather than claiming to know all the answers.]]></content:encoded>
-            <dc:title><![CDATA[Scientific utopias: scientific enlightenment in the Stupid Questions Office]]></dc:title>
-            <dc:creator>Miles Lizak</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01856-7</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-05; | doi:10.1038/d41586-023-01856-7</dc:source>
-            <dc:date>2023-06-05</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01856-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01856-7</prism:url>
         </item>
     
 </rdf:RDF>
