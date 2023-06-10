@@ -18,9 +18,25 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06286-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01940-y"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01923-z"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01910-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01901-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01930-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01928-8"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01902-4"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06278-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01860-x"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01846-9"/>
                 
@@ -152,22 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01876-3"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01891-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01729-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01830-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01826-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01824-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01871-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01834-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01777-5"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,36 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-023-06286-z">
+            <title><![CDATA[Author Correction: RNA conformational propensities determine cellular activity]]></title>
+            <link>https://www.nature.com/articles/s41586-023-06286-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 09 June 2023; <a href="https://www.nature.com/articles/s41586-023-06286-z">doi:10.1038/s41586-023-06286-z</a></p>Author Correction: RNA conformational propensities determine cellular activity]]></content:encoded>
+            <dc:title><![CDATA[Author Correction: RNA conformational propensities determine cellular activity]]></dc:title>
+            <dc:creator>Megan L. Ken</dc:creator><dc:creator>Rohit Roy</dc:creator><dc:creator>Ainan Geng</dc:creator><dc:creator>Laura R. Ganser</dc:creator><dc:creator>Akanksha Manghrani</dc:creator><dc:creator>Bryan R. Cullen</dc:creator><dc:creator>Ursula Schulze-Gahmen</dc:creator><dc:creator>Daniel Herschlag</dc:creator><dc:creator>Hashim M. Al-Hashimi</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-023-06286-z</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-09; | doi:10.1038/s41586-023-06286-z</dc:source>
+            <dc:date>2023-06-09</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-023-06286-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-023-06286-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01940-y">
+            <title><![CDATA[Neurotech DIY: fixing your own implant]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01940-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 09 June 2023; <a href="https://www.nature.com/articles/d41586-023-01940-y">doi:10.1038/d41586-023-01940-y</a></p>As the neurotechnology market expands, what happens to those left behind?]]></content:encoded>
+            <dc:title><![CDATA[Neurotech DIY: fixing your own implant]]></dc:title>
+            <dc:creator>Dan Fox</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01940-y</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-09; | doi:10.1038/d41586-023-01940-y</dc:source>
+            <dc:date>2023-06-09</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01940-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01940-y</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-01923-z">
             <title><![CDATA[How to prebunk misinformation, and the daredevil of the Nile: Books in brief]]></title>
@@ -192,6 +222,81 @@
             <prism:url>https://www.nature.com/articles/d41586-023-01923-z</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01910-4">
+            <title><![CDATA[Taurine supplement makes animals live longer — what it means for people is unclear]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01910-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 09 June 2023; <a href="https://www.nature.com/articles/d41586-023-01910-4">doi:10.1038/d41586-023-01910-4</a></p>The energy-drink ingredient offers striking health benefits in mice, monkeys and worms. But more work is needed to investigate its link with ageing.]]></content:encoded>
+            <dc:title><![CDATA[Taurine supplement makes animals live longer — what it means for people is unclear]]></dc:title>
+            <dc:creator>Myriam Vidal Valero</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01910-4</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-09; | doi:10.1038/d41586-023-01910-4</dc:source>
+            <dc:date>2023-06-09</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01910-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01910-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01901-5">
+            <title><![CDATA[Have a high-pitched voice? It might be in your genes]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01901-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 09 June 2023; <a href="https://www.nature.com/articles/d41586-023-01901-5">doi:10.1038/d41586-023-01901-5</a></p>Survey of nearly 13,000 Icelanders pinpoints for the first time a genetic variant that shapes whether a person’s voice sounds high.]]></content:encoded>
+            <dc:title><![CDATA[Have a high-pitched voice? It might be in your genes]]></dc:title>
+            <dc:creator>Freda Kreier</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01901-5</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-09; | doi:10.1038/d41586-023-01901-5</dc:source>
+            <dc:date>2023-06-09</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01901-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01901-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01930-0">
+            <title><![CDATA[NIH to intensify scrutiny of foreign grant recipients in wake of COVID origins debate]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01930-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 09 June 2023; <a href="https://www.nature.com/articles/d41586-023-01930-0">doi:10.1038/d41586-023-01930-0</a></p>Researchers speak out over US biomedical agency’s new funding policy.]]></content:encoded>
+            <dc:title><![CDATA[NIH to intensify scrutiny of foreign grant recipients in wake of COVID origins debate]]></dc:title>
+            <dc:creator>Max Kozlov</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01930-0</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-09; | doi:10.1038/d41586-023-01930-0</dc:source>
+            <dc:date>2023-06-09</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01930-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01930-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01928-8">
+            <title><![CDATA[Ukraine dam collapse: what scientists are watching]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01928-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 09 June 2023; <a href="https://www.nature.com/articles/d41586-023-01928-8">doi:10.1038/d41586-023-01928-8</a></p>Extensive flooding could have severe consequences for farming, health and the environment.]]></content:encoded>
+            <dc:title><![CDATA[Ukraine dam collapse: what scientists are watching]]></dc:title>
+            <dc:creator>Miryam Naddaf</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01928-8</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-09; | doi:10.1038/d41586-023-01928-8</dc:source>
+            <dc:date>2023-06-09</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01928-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01928-8</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01902-4">
+            <title><![CDATA[Why are the Canadian wildfires so bad this year?]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01902-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 09 June 2023; <a href="https://www.nature.com/articles/d41586-023-01902-4">doi:10.1038/d41586-023-01902-4</a></p>Hot, dry weather and human carelessness have led to a huge burnt area — and to choking haze affecting millions of people.]]></content:encoded>
+            <dc:title><![CDATA[Why are the Canadian wildfires so bad this year?]]></dc:title>
+            <dc:creator>Brian Owens</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01902-4</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-09; | doi:10.1038/d41586-023-01902-4</dc:source>
+            <dc:date>2023-06-09</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01902-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01902-4</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/s41586-023-06278-z">
             <title><![CDATA[All-perovskite tandem solar cells with 3D/3D bilayer perovskite heterojunction]]></title>
             <link>https://www.nature.com/articles/s41586-023-06278-z</link>
@@ -205,6 +310,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/s41586-023-06278-z</prism:doi>
             <prism:url>https://www.nature.com/articles/s41586-023-06278-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01860-x">
+            <title><![CDATA[Cholera bacteria turn slime into an offensive weapon]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01860-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 June 2023; <a href="https://www.nature.com/articles/d41586-023-01860-x">doi:10.1038/d41586-023-01860-x</a></p>Goopy ‘biofilms’ normally serve as a protective shield, but Vibrio cholerae uses them to kill immune cells.]]></content:encoded>
+            <dc:title><![CDATA[Cholera bacteria turn slime into an offensive weapon]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-01860-x</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-08; | doi:10.1038/d41586-023-01860-x</dc:source>
+            <dc:date>2023-06-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01860-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01860-x</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-01846-9">
@@ -1180,126 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01876-3</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01876-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01891-4">
-            <title><![CDATA[Daily briefing: Air-quality sensors could keep tabs on wildlife]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01891-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 06 June 2023; <a href="https://www.nature.com/articles/d41586-023-01891-4">doi:10.1038/d41586-023-01891-4</a></p>Air-quality monitoring stations that accidentally trap DNA from animals and plants could revolutionize wildlife tracking. Plus, New Zealand’s science agency pleads guilty on volcano charge and how sleep deprivation impairs a worm’s memory of smells.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: Air-quality sensors could keep tabs on wildlife]]></dc:title>
-            <dc:creator>Flora Graham</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01891-4</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-06; | doi:10.1038/d41586-023-01891-4</dc:source>
-            <dc:date>2023-06-06</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01891-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01891-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01729-z">
-            <title><![CDATA[Tanzania’s researchers offered US$22,000 to publish in international journals]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01729-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 06 June 2023; <a href="https://www.nature.com/articles/d41586-023-01729-z">doi:10.1038/d41586-023-01729-z</a></p>The move is designed to encourage research and help boost institutions’ rankings. But some researchers say it will reward those already established in their careers.]]></content:encoded>
-            <dc:title><![CDATA[Tanzania’s researchers offered US$22,000 to publish in international journals]]></dc:title>
-            <dc:creator>Syriacus Buguzi</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01729-z</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-06; | doi:10.1038/d41586-023-01729-z</dc:source>
-            <dc:date>2023-06-06</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01729-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01729-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01830-3">
-            <title><![CDATA[Why we can thank a polio emergency for the birth of intensive care]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01830-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 06 June 2023; <a href="https://www.nature.com/articles/d41586-023-01830-3">doi:10.1038/d41586-023-01830-3</a></p>An outbreak of polio in 1950s Denmark led one hospital to pioneer mechanical ventilation, constant monitoring of vital signs and other innovations that are saving lives to this day.]]></content:encoded>
-            <dc:title><![CDATA[Why we can thank a polio emergency for the birth of intensive care]]></dc:title>
-            <dc:creator>Eric Topol</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01830-3</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-06; | doi:10.1038/d41586-023-01830-3</dc:source>
-            <dc:date>2023-06-06</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01830-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01830-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01826-z">
-            <title><![CDATA[The inspiring story of the <i>Tara</i> and its 20-year message from the corals]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01826-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 06 June 2023; <a href="https://www.nature.com/articles/d41586-023-01826-z">doi:10.1038/d41586-023-01826-z</a></p>A remarkable research ship’s voyages to understand marine biodiversity show how visionary thinking can boost understanding of the natural world — and help to better preserve it.]]></content:encoded>
-            <dc:title><![CDATA[The inspiring story of the <i>Tara</i> and its 20-year message from the corals]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-01826-z</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-06; | doi:10.1038/d41586-023-01826-z</dc:source>
-            <dc:date>2023-06-06</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01826-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01826-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01824-1">
-            <title><![CDATA[Does shingles vaccination cut dementia risk? Large study hints at a link]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01824-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 06 June 2023; <a href="https://www.nature.com/articles/d41586-023-01824-1">doi:10.1038/d41586-023-01824-1</a></p>Analysis of nearly 300,000 people finds an association between the shingles jab and a lower rate of dementia — but questions linger.]]></content:encoded>
-            <dc:title><![CDATA[Does shingles vaccination cut dementia risk? Large study hints at a link]]></dc:title>
-            <dc:creator>Sara Reardon</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01824-1</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-06; | doi:10.1038/d41586-023-01824-1</dc:source>
-            <dc:date>2023-06-06</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01824-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01824-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01871-8">
-            <title><![CDATA[‘Science was heard’: woman who was convicted of killing her children pardoned after inquiry]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01871-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 06 June 2023; <a href="https://www.nature.com/articles/d41586-023-01871-8">doi:10.1038/d41586-023-01871-8</a></p>Kathleen Folbigg, who was jailed in Australia in 2003 over the sudden deaths of her four young children, has been pardoned and released in the wake of new scientific evidence.]]></content:encoded>
-            <dc:title><![CDATA[‘Science was heard’: woman who was convicted of killing her children pardoned after inquiry]]></dc:title>
-            <dc:creator>Dyani Lewis</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01871-8</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-06; | doi:10.1038/d41586-023-01871-8</dc:source>
-            <dc:date>2023-06-06</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01871-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01871-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01834-z">
-            <title><![CDATA[My mission to grow fruit without the plant]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01834-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 05 June 2023; <a href="https://www.nature.com/articles/d41586-023-01834-z">doi:10.1038/d41586-023-01834-z</a></p>Lucas van der Zee hopes to restore current farmland to its natural state by eliminating the vegetation stage of crop-growing.]]></content:encoded>
-            <dc:title><![CDATA[My mission to grow fruit without the plant]]></dc:title>
-            <dc:creator>James Mitchell Crow</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01834-z</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-05; | doi:10.1038/d41586-023-01834-z</dc:source>
-            <dc:date>2023-06-05</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01834-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01834-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01777-5">
-            <title><![CDATA[New Zealand volcano: science agency pleads guilty to risk-assessment charge]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01777-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 05 June 2023; <a href="https://www.nature.com/articles/d41586-023-01777-5">doi:10.1038/d41586-023-01777-5</a></p>The charge relates to how GNS Science communicated volcanic risk to contractors in the years before the Whakaari White Island eruption in 2019.]]></content:encoded>
-            <dc:title><![CDATA[New Zealand volcano: science agency pleads guilty to risk-assessment charge]]></dc:title>
-            <dc:creator>Dyani Lewis</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01777-5</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-05; | doi:10.1038/d41586-023-01777-5</dc:source>
-            <dc:date>2023-06-05</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01777-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01777-5</prism:url>
         </item>
     
 </rdf:RDF>
