@@ -18,6 +18,12 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01885-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01939-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01925-x"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06286-z"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01940-y"/>
@@ -162,12 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01814-3"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01852-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01857-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01876-3"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,51 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01885-2">
+            <title><![CDATA[Violence towards women in environmental protests]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01885-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 12 June 2023; <a href="https://www.nature.com/articles/d41586-023-01885-2">doi:10.1038/d41586-023-01885-2</a></p>An analysis unpicks the various forms of violence that women face when they stand up to polluters and natural-resource extractors.]]></content:encoded>
+            <dc:title><![CDATA[Violence towards women in environmental protests]]></dc:title>
+            <dc:creator>Abigail Klopper</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01885-2</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-12; | doi:10.1038/d41586-023-01885-2</dc:source>
+            <dc:date>2023-06-12</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01885-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01885-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01939-5">
+            <title><![CDATA[A family affair: how scientist parents’ career paths can influence children’s choices]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01939-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 12 June 2023; <a href="https://www.nature.com/articles/d41586-023-01939-5">doi:10.1038/d41586-023-01939-5</a></p>Early exposure to science inspired four researchers to pursue research careers.]]></content:encoded>
+            <dc:title><![CDATA[A family affair: how scientist parents’ career paths can influence children’s choices]]></dc:title>
+            <dc:creator>Andy Tay</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01939-5</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-12; | doi:10.1038/d41586-023-01939-5</dc:source>
+            <dc:date>2023-06-12</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01939-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01939-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01925-x">
+            <title><![CDATA[Tackling pervasive sexism in Australian science requires money, leadership and time]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01925-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 12 June 2023; <a href="https://www.nature.com/articles/d41586-023-01925-x">doi:10.1038/d41586-023-01925-x</a></p>Lessons in advancing gender equity in research from my time in the United States at Lamont–Doherty Earth Observatory and in Australia.]]></content:encoded>
+            <dc:title><![CDATA[Tackling pervasive sexism in Australian science requires money, leadership and time]]></dc:title>
+            <dc:creator>Robin  Bell</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01925-x</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-12; | doi:10.1038/d41586-023-01925-x</dc:source>
+            <dc:date>2023-06-12</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01925-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01925-x</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06286-z">
             <title><![CDATA[Author Correction: RNA conformational propensities determine cellular activity]]></title>
@@ -1255,51 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01814-3</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01814-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01852-x">
-            <title><![CDATA[Preserve cultural diversity in author names]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01852-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 06 June 2023; <a href="https://www.nature.com/articles/d41586-023-01852-x">doi:10.1038/d41586-023-01852-x</a></p>Preserve cultural diversity in author names]]></content:encoded>
-            <dc:title><![CDATA[Preserve cultural diversity in author names]]></dc:title>
-            <dc:creator>Khaled Moustafa</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01852-x</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-06; | doi:10.1038/d41586-023-01852-x</dc:source>
-            <dc:date>2023-06-06</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01852-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01852-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01857-6">
-            <title><![CDATA[The Arctic could go ice-free in less than a decade]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01857-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 06 June 2023; <a href="https://www.nature.com/articles/d41586-023-01857-6">doi:10.1038/d41586-023-01857-6</a></p>Even stringent emission limits will not preserve the end-of-summer ice on Arctic seas.]]></content:encoded>
-            <dc:title><![CDATA[The Arctic could go ice-free in less than a decade]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-01857-6</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-06; | doi:10.1038/d41586-023-01857-6</dc:source>
-            <dc:date>2023-06-06</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01857-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01857-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01876-3">
-            <title><![CDATA[Lasers pierce the stunning dark skies of the Atacama Desert]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01876-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 06 June 2023; <a href="https://www.nature.com/articles/d41586-023-01876-3">doi:10.1038/d41586-023-01876-3</a></p>One of the world’s most advanced telescopes, located in Chile, uses the beams to make artificial stars.]]></content:encoded>
-            <dc:title><![CDATA[Lasers pierce the stunning dark skies of the Atacama Desert]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-01876-3</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-06; | doi:10.1038/d41586-023-01876-3</dc:source>
-            <dc:date>2023-06-06</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01876-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01876-3</prism:url>
         </item>
     
 </rdf:RDF>
