@@ -18,6 +18,16 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01912-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01915-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01913-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01914-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01938-6"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06165-7"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01941-x"/>
@@ -35,6 +45,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01940-y"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01923-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01948-4"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01910-4"/>
                 
@@ -156,18 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01784-6"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01513-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01815-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01848-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01768-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01669-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06241-y"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,81 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01912-2">
+            <title><![CDATA[Chile: lithium mining versus flamingos and aquifers]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01912-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 13 June 2023; <a href="https://www.nature.com/articles/d41586-023-01912-2">doi:10.1038/d41586-023-01912-2</a></p>Chile: lithium mining versus flamingos and aquifers]]></content:encoded>
+            <dc:title><![CDATA[Chile: lithium mining versus flamingos and aquifers]]></dc:title>
+            <dc:creator>Cristián Bonacic</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01912-2</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-13; | doi:10.1038/d41586-023-01912-2</dc:source>
+            <dc:date>2023-06-13</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01912-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01912-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01915-z">
+            <title><![CDATA[Europe: hold industry accountable for forever chemicals]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01915-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 13 June 2023; <a href="https://www.nature.com/articles/d41586-023-01915-z">doi:10.1038/d41586-023-01915-z</a></p>Europe: hold industry accountable for forever chemicals]]></content:encoded>
+            <dc:title><![CDATA[Europe: hold industry accountable for forever chemicals]]></dc:title>
+            <dc:creator>Muhammad Usman</dc:creator><dc:creator>Khalil Hanna</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01915-z</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-13; | doi:10.1038/d41586-023-01915-z</dc:source>
+            <dc:date>2023-06-13</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01915-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01915-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01913-1">
+            <title><![CDATA[Focus on health for global adaptation to climate change]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01913-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 13 June 2023; <a href="https://www.nature.com/articles/d41586-023-01913-1">doi:10.1038/d41586-023-01913-1</a></p>Focus on health for global adaptation to climate change]]></content:encoded>
+            <dc:title><![CDATA[Focus on health for global adaptation to climate change]]></dc:title>
+            <dc:creator>Shihui Zhang</dc:creator><dc:creator>Wenjia Cai</dc:creator><dc:creator>Chi Zhang</dc:creator><dc:creator>Margaret Chan Fung Fu-Chun</dc:creator><dc:creator>Peng Gong</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01913-1</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-13; | doi:10.1038/d41586-023-01913-1</dc:source>
+            <dc:date>2023-06-13</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01913-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01913-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01914-0">
+            <title><![CDATA[Should there be a global space agency?]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01914-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 13 June 2023; <a href="https://www.nature.com/articles/d41586-023-01914-0">doi:10.1038/d41586-023-01914-0</a></p>Should there be a global space agency?]]></content:encoded>
+            <dc:title><![CDATA[Should there be a global space agency?]]></dc:title>
+            <dc:creator>Ian Crawford</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01914-0</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-13; | doi:10.1038/d41586-023-01914-0</dc:source>
+            <dc:date>2023-06-13</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01914-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01914-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01938-6">
+            <title><![CDATA[Particle, wave, both or neither? The experiment that challenges all we know about reality]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01938-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 13 June 2023; <a href="https://www.nature.com/articles/d41586-023-01938-6">doi:10.1038/d41586-023-01938-6</a></p>Thomas Young’s double-slit experiment originally served to prove that light is a wave — but later quantum versions have made for a much fuzzier picture.]]></content:encoded>
+            <dc:title><![CDATA[Particle, wave, both or neither? The experiment that challenges all we know about reality]]></dc:title>
+            <dc:creator>Anil Ananthaswamy</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01938-6</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-13; | doi:10.1038/d41586-023-01938-6</dc:source>
+            <dc:date>2023-06-13</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01938-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01938-6</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06165-7">
             <title><![CDATA[Addendum: Human alteration of global surface water storage variability]]></title>
@@ -310,6 +385,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01923-z</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01923-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01948-4">
+            <title><![CDATA[Daily briefing: Taurine makes animals live longer — but don’t binge on Red Bulls yet]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01948-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 09 June 2023; <a href="https://www.nature.com/articles/d41586-023-01948-4">doi:10.1038/d41586-023-01948-4</a></p>Big doses of an amino acid that is commonly used in energy drinks seem to help mice, worms and monkeys to live longer, healthier lives — but its effect is still unclear in people. Plus, reformatting papers is costing scientists millions.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Taurine makes animals live longer — but don’t binge on Red Bulls yet]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01948-4</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-09; | doi:10.1038/d41586-023-01948-4</dc:source>
+            <dc:date>2023-06-09</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01948-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01948-4</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-01910-4">
@@ -1210,96 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01784-6</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01784-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01513-z">
-            <title><![CDATA[A battle between neural circuits for infanticide and maternal-care behaviours]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01513-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 07 June 2023; <a href="https://www.nature.com/articles/d41586-023-01513-z">doi:10.1038/d41586-023-01513-z</a></p>A previously unknown neural circuit in the brains of female mice is activated during infanticidal behaviour, and reciprocally inhibits another circuit that promotes maternal-care behaviour. These circuits show opposing changes in excitability when female mice become mothers, explaining the switch in young-directed behaviours that occurs with motherhood.]]></content:encoded>
-            <dc:title><![CDATA[A battle between neural circuits for infanticide and maternal-care behaviours]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-01513-z</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-07; | doi:10.1038/d41586-023-01513-z</dc:source>
-            <dc:date>2023-06-07</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01513-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01513-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01815-2">
-            <title><![CDATA[Ultraviolet light shapes the evolution of precancerous cells]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01815-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 07 June 2023; <a href="https://www.nature.com/articles/d41586-023-01815-2">doi:10.1038/d41586-023-01815-2</a></p>Much remains to be discovered about how premalignant cells become cancer cells. An analysis of the development of a type of human leukaemia implicates ultraviolet light in triggering a rare form of cancer.]]></content:encoded>
-            <dc:title><![CDATA[Ultraviolet light shapes the evolution of precancerous cells]]></dc:title>
-            <dc:creator>Elli Papaemmanuil</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01815-2</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-07; | doi:10.1038/d41586-023-01815-2</dc:source>
-            <dc:date>2023-06-07</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01815-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01815-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01848-7">
-            <title><![CDATA[Morality is declining, right? Scientists say that idea is an illusion]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01848-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 07 June 2023; <a href="https://www.nature.com/articles/d41586-023-01848-7">doi:10.1038/d41586-023-01848-7</a></p>Surveys show people around the world have believed for decades that morals are decaying — but other survey data contradict that perception.]]></content:encoded>
-            <dc:title><![CDATA[Morality is declining, right? Scientists say that idea is an illusion]]></dc:title>
-            <dc:creator>Mariana Lenharo</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01848-7</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-07; | doi:10.1038/d41586-023-01848-7</dc:source>
-            <dc:date>2023-06-07</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01848-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01848-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01768-6">
-            <title><![CDATA[Ancient DNA reveals how farming spread into northwest Africa]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01768-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 07 June 2023; <a href="https://www.nature.com/articles/d41586-023-01768-6">doi:10.1038/d41586-023-01768-6</a></p>Genomic data from bones and teeth found at archaeological sites across Morocco paint a picture of how Neolithic farmers and pastoralists spread into northwest Africa that is more complex than previously thought.]]></content:encoded>
-            <dc:title><![CDATA[Ancient DNA reveals how farming spread into northwest Africa]]></dc:title>
-            <dc:creator>Louise Humphrey</dc:creator><dc:creator>Abdeljalil Bouzouggar</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01768-6</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-07; | doi:10.1038/d41586-023-01768-6</dc:source>
-            <dc:date>2023-06-07</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01768-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01768-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01669-8">
-            <title><![CDATA[What maintains biodiversity in ecological communities?]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01669-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 07 June 2023; <a href="https://www.nature.com/articles/d41586-023-01669-8">doi:10.1038/d41586-023-01669-8</a></p>An experiment testing two opposing theories about how biodiversity is governed in communities was done at seawall structures at the boundary between high and low tides. Rather than the conventional model, the results support one that suggests that immigration has a larger role in maintaining diversity than do niches.]]></content:encoded>
-            <dc:title><![CDATA[What maintains biodiversity in ecological communities?]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-01669-8</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-07; | doi:10.1038/d41586-023-01669-8</dc:source>
-            <dc:date>2023-06-07</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01669-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01669-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06241-y">
-            <title><![CDATA[Publisher Correction: Cortico-cortical feedback engages active dendrites in visual cortex]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06241-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 06 June 2023; <a href="https://www.nature.com/articles/s41586-023-06241-y">doi:10.1038/s41586-023-06241-y</a></p>Publisher Correction: Cortico-cortical feedback engages active dendrites in visual cortex]]></content:encoded>
-            <dc:title><![CDATA[Publisher Correction: Cortico-cortical feedback engages active dendrites in visual cortex]]></dc:title>
-            <dc:creator>Mehmet Fişek</dc:creator><dc:creator>Dustin Herrmann</dc:creator><dc:creator>Alexander Egea-Weiss</dc:creator><dc:creator>Matilda Cloves</dc:creator><dc:creator>Lisa Bauer</dc:creator><dc:creator>Tai-Ying Lee</dc:creator><dc:creator>Lloyd E. Russell</dc:creator><dc:creator>Michael Häusser</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06241-y</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-06; | doi:10.1038/s41586-023-06241-y</dc:source>
-            <dc:date>2023-06-06</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06241-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06241-y</prism:url>
         </item>
     
 </rdf:RDF>
