@@ -18,15 +18,27 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01957-3"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01912-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01889-y"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01915-z"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01899-w"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01913-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01897-y"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01914-0"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01825-0"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01938-6"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01903-3"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06165-7"/>
                 
@@ -156,18 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01847-8"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01840-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01904-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01838-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01812-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01883-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01784-6"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,21 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01957-3">
+            <title><![CDATA[Hawaii volcano Kīlauea creates fiery landscape of lava]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01957-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 13 June 2023; <a href="https://www.nature.com/articles/d41586-023-01957-3">doi:10.1038/d41586-023-01957-3</a></p>One of the most closely monitored volcanoes in the world has burst into life again.]]></content:encoded>
+            <dc:title><![CDATA[Hawaii volcano Kīlauea creates fiery landscape of lava]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-01957-3</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-13; | doi:10.1038/d41586-023-01957-3</dc:source>
+            <dc:date>2023-06-13</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01957-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01957-3</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-01912-2">
             <title><![CDATA[Chile: lithium mining versus flamingos and aquifers]]></title>
@@ -190,6 +205,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01912-2</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01912-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01889-y">
+            <title><![CDATA[From the archive: hay fever, and the transit of Venus across the Sun]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01889-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 13 June 2023; <a href="https://www.nature.com/articles/d41586-023-01889-y">doi:10.1038/d41586-023-01889-y</a></p>Snippets from Nature’s past.]]></content:encoded>
+            <dc:title><![CDATA[From the archive: hay fever, and the transit of Venus across the Sun]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-01889-y</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-13; | doi:10.1038/d41586-023-01889-y</dc:source>
+            <dc:date>2023-06-13</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01889-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01889-y</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-01915-z">
@@ -207,6 +237,21 @@
             <prism:url>https://www.nature.com/articles/d41586-023-01915-z</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01899-w">
+            <title><![CDATA[Tibetan lakes emit as much nitrogen as a megacity]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01899-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 13 June 2023; <a href="https://www.nature.com/articles/d41586-023-01899-w">doi:10.1038/d41586-023-01899-w</a></p>Surprisingly high levels of pollution rise from 135 remote lakes, which collectively release as much nitrogen oxides as London.]]></content:encoded>
+            <dc:title><![CDATA[Tibetan lakes emit as much nitrogen as a megacity]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-01899-w</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-13; | doi:10.1038/d41586-023-01899-w</dc:source>
+            <dc:date>2023-06-13</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01899-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01899-w</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-023-01913-1">
             <title><![CDATA[Focus on health for global adaptation to climate change]]></title>
             <link>https://www.nature.com/articles/d41586-023-01913-1</link>
@@ -220,6 +265,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01913-1</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01913-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01897-y">
+            <title><![CDATA[Glow-worms’ ‘come-hither’ signals are lost in the glare of human lights]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01897-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 13 June 2023; <a href="https://www.nature.com/articles/d41586-023-01897-y">doi:10.1038/d41586-023-01897-y</a></p>Artificial lighting could make some populations of these insects wink out.]]></content:encoded>
+            <dc:title><![CDATA[Glow-worms’ ‘come-hither’ signals are lost in the glare of human lights]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-01897-y</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-13; | doi:10.1038/d41586-023-01897-y</dc:source>
+            <dc:date>2023-06-13</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01897-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01897-y</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-01914-0">
@@ -237,6 +297,21 @@
             <prism:url>https://www.nature.com/articles/d41586-023-01914-0</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01825-0">
+            <title><![CDATA[The US EPA’s proposed regulation could help to kill off fossil-fuel plants. Good on it]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01825-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 13 June 2023; <a href="https://www.nature.com/articles/d41586-023-01825-0">doi:10.1038/d41586-023-01825-0</a></p>Expanding clean energy isn’t enough to combat the climate crisis — the agency’s move to turn the screws on fossil fuels is welcome, and long overdue.]]></content:encoded>
+            <dc:title><![CDATA[The US EPA’s proposed regulation could help to kill off fossil-fuel plants. Good on it]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-01825-0</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-13; | doi:10.1038/d41586-023-01825-0</dc:source>
+            <dc:date>2023-06-13</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01825-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01825-0</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-023-01938-6">
             <title><![CDATA[Particle, wave, both or neither? The experiment that challenges all we know about reality]]></title>
             <link>https://www.nature.com/articles/d41586-023-01938-6</link>
@@ -250,6 +325,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01938-6</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01938-6</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01903-3">
+            <title><![CDATA[Laos cave fossils prompt rethink of human migration map]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01903-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 13 June 2023; <a href="https://www.nature.com/articles/d41586-023-01903-3">doi:10.1038/d41586-023-01903-3</a></p>A skull fragment and shin bone suggest that early modern humans might have passed through southeast Asia earlier than thought.]]></content:encoded>
+            <dc:title><![CDATA[Laos cave fossils prompt rethink of human migration map]]></dc:title>
+            <dc:creator>Jude Coleman</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01903-3</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-13; | doi:10.1038/d41586-023-01903-3</dc:source>
+            <dc:date>2023-06-13</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01903-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01903-3</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06165-7">
@@ -1210,96 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01847-8</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01847-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01840-1">
-            <title><![CDATA[Is nicotine bad for long-term health? Scientists aren’t sure yet]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01840-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 07 June 2023; <a href="https://www.nature.com/articles/d41586-023-01840-1">doi:10.1038/d41586-023-01840-1</a></p>As e-cigarettes grow in popularity, the lack of knowledge about whether nicotine contributes to the damaging health effects of smoking is becoming more worrying.]]></content:encoded>
-            <dc:title><![CDATA[Is nicotine bad for long-term health? Scientists aren’t sure yet]]></dc:title>
-            <dc:creator>Anthony King</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01840-1</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-07; | doi:10.1038/d41586-023-01840-1</dc:source>
-            <dc:date>2023-06-07</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01840-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01840-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01904-2">
-            <title><![CDATA[Daily briefing: Shingles jab might cut the risk of dementia]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01904-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 07 June 2023; <a href="https://www.nature.com/articles/d41586-023-01904-2">doi:10.1038/d41586-023-01904-2</a></p>Hints that vaccination against shingles might lower the risk of dementia by 20%. Plus, COVID waves could hit China every six months and cheetah deaths in India shine a spotlight on a controversial conservation project.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: Shingles jab might cut the risk of dementia]]></dc:title>
-            <dc:creator>Flora Graham</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01904-2</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-07; | doi:10.1038/d41586-023-01904-2</dc:source>
-            <dc:date>2023-06-07</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01904-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01904-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01838-9">
-            <title><![CDATA[African countries fight for tobacco control]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01838-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 07 June 2023; <a href="https://www.nature.com/articles/d41586-023-01838-9">doi:10.1038/d41586-023-01838-9</a></p>A lack of resources and interference from the tobacco industry make it difficult to strengthen anti-smoking regulations.]]></content:encoded>
-            <dc:title><![CDATA[African countries fight for tobacco control]]></dc:title>
-            <dc:creator>Tammy Worth</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01838-9</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-07; | doi:10.1038/d41586-023-01838-9</dc:source>
-            <dc:date>2023-06-07</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01838-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01838-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01812-5">
-            <title><![CDATA[AI learns to write sorting software on its own]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01812-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 07 June 2023; <a href="https://www.nature.com/articles/d41586-023-01812-5">doi:10.1038/d41586-023-01812-5</a></p>Deep reinforcement learning has been used to improve computer code by treating the task as a game — with no special knowledge needed on the part of the player. The result has already worked its way into countless programs.]]></content:encoded>
-            <dc:title><![CDATA[AI learns to write sorting software on its own]]></dc:title>
-            <dc:creator>Armando Solar-Lezama</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01812-5</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-07; | doi:10.1038/d41586-023-01812-5</dc:source>
-            <dc:date>2023-06-07</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01812-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01812-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01883-4">
-            <title><![CDATA[DeepMind AI creates algorithms that sort data faster than those built by people]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01883-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 07 June 2023; <a href="https://www.nature.com/articles/d41586-023-01883-4">doi:10.1038/d41586-023-01883-4</a></p>The technology developed by DeepMind that plays Go and chess can also help to write code.]]></content:encoded>
-            <dc:title><![CDATA[DeepMind AI creates algorithms that sort data faster than those built by people]]></dc:title>
-            <dc:creator>Matthew Hutson</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01883-4</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-07; | doi:10.1038/d41586-023-01883-4</dc:source>
-            <dc:date>2023-06-07</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01883-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01883-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01784-6">
-            <title><![CDATA[Elastic ceramic plastic made using molecules with organic and inorganic parts]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01784-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 07 June 2023; <a href="https://www.nature.com/articles/d41586-023-01784-6">doi:10.1038/d41586-023-01784-6</a></p>Hybrid molecules containing organic and inorganic components were assembled through bottom-up synthesis into a continuous network of interpenetrating molecular-scale organic and inorganic ionic domains. The resulting material, called elastic ceramic plastic, shows ceramic-like hardness and strength, rubber-like deformability and resilience, and plastic-like mouldability.]]></content:encoded>
-            <dc:title><![CDATA[Elastic ceramic plastic made using molecules with organic and inorganic parts]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-01784-6</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-07; | doi:10.1038/d41586-023-01784-6</dc:source>
-            <dc:date>2023-06-07</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01784-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01784-6</prism:url>
         </item>
     
 </rdf:RDF>
