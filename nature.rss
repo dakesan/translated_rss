@@ -18,6 +18,12 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06316-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01868-3"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01867-4"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06289-w"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01969-z"/>
@@ -83,6 +89,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01967-1"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01672-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01974-2"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01675-w"/>
                 
@@ -160,14 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01948-4"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01910-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01901-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01930-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01928-8"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,51 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-023-06316-w">
+            <title><![CDATA[Author Correction: γ-Linolenic acid in maternal milk drives cardiac metabolic maturation]]></title>
+            <link>https://www.nature.com/articles/s41586-023-06316-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 15 June 2023; <a href="https://www.nature.com/articles/s41586-023-06316-w">doi:10.1038/s41586-023-06316-w</a></p>Author Correction: γ-Linolenic acid in maternal milk drives cardiac metabolic maturation]]></content:encoded>
+            <dc:title><![CDATA[Author Correction: γ-Linolenic acid in maternal milk drives cardiac metabolic maturation]]></dc:title>
+            <dc:creator>Ana Paredes</dc:creator><dc:creator>Raquel Justo-Méndez</dc:creator><dc:creator>Daniel Jiménez-Blasco</dc:creator><dc:creator>Vanessa Núñez</dc:creator><dc:creator>Irene Calero</dc:creator><dc:creator>María Villalba-Orero</dc:creator><dc:creator>Andrea Alegre-Martí</dc:creator><dc:creator>Thierry Fischer</dc:creator><dc:creator>Ana Gradillas</dc:creator><dc:creator>Viviane Aparecida Rodrigues Sant’Anna</dc:creator><dc:creator>Felipe Were</dc:creator><dc:creator>Zhiqiang Huang</dc:creator><dc:creator>Pablo Hernansanz-Agustín</dc:creator><dc:creator>Carmen Contreras</dc:creator><dc:creator>Fernando Martínez</dc:creator><dc:creator>Emilio Camafeita</dc:creator><dc:creator>Jesús Vázquez</dc:creator><dc:creator>Jesús Ruiz-Cabello</dc:creator><dc:creator>Estela Area-Gómez</dc:creator><dc:creator>Fátima Sánchez-Cabo</dc:creator><dc:creator>Eckardt Treuter</dc:creator><dc:creator>Juan Pedro Bolaños</dc:creator><dc:creator>Eva Estébanez-Perpiñá</dc:creator><dc:creator>Francisco Javier Rupérez</dc:creator><dc:creator>Coral Barbas</dc:creator><dc:creator>José Antonio Enríquez</dc:creator><dc:creator>Mercedes Ricote</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-023-06316-w</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-15; | doi:10.1038/s41586-023-06316-w</dc:source>
+            <dc:date>2023-06-15</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-023-06316-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-023-06316-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01868-3">
+            <title><![CDATA[Nature Index Annual Tables 2023: China tops natural-science table]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01868-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 15 June 2023; <a href="https://www.nature.com/articles/d41586-023-01868-3">doi:10.1038/d41586-023-01868-3</a></p>India is another notable riser whereas Russia is among those losing ground.]]></content:encoded>
+            <dc:title><![CDATA[Nature Index Annual Tables 2023: China tops natural-science table]]></dc:title>
+            <dc:creator>Chris Woolston</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01868-3</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-15; | doi:10.1038/d41586-023-01868-3</dc:source>
+            <dc:date>2023-06-15</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01868-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01868-3</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01867-4">
+            <title><![CDATA[Nature Index Annual Tables 2023: first health-science ranking reveals big US lead]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01867-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 15 June 2023; <a href="https://www.nature.com/articles/d41586-023-01867-4">doi:10.1038/d41586-023-01867-4</a></p>The Netherlands punches above its weight in the country list, and a Canadian institution demonstrates the strength of its clinical collaborations.]]></content:encoded>
+            <dc:title><![CDATA[Nature Index Annual Tables 2023: first health-science ranking reveals big US lead]]></dc:title>
+            <dc:creator>Bianca Nogrady</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01867-4</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-15; | doi:10.1038/d41586-023-01867-4</dc:source>
+            <dc:date>2023-06-15</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01867-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01867-4</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06289-w">
             <title><![CDATA[Signatures of Fractional Quantum Anomalous Hall States in Twisted MoTe<sub>2</sub>]]></title>
@@ -601,7 +646,7 @@
             <title><![CDATA[Concussion guidance for sports sidesteps brain-disease link — critics are baffled]]></title>
             <link>https://www.nature.com/articles/d41586-023-01964-4</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 14 June 2023; <a href="https://www.nature.com/articles/d41586-023-01964-4">doi:10.1038/d41586-023-01964-4</a></p>The statement’s authors say that the connection between repeated head injuries and the condition CTE is based on data that is not rigorous enough.]]></content:encoded>
+                <![CDATA[<p>Nature, Published online: 14 June 2023; <a href="https://www.nature.com/articles/d41586-023-01964-4">doi:10.1038/d41586-023-01964-4</a></p>The statement’s authors say that the connection between repeated head injuries and the condition CTE is based on data that are not rigorous enough.]]></content:encoded>
             <dc:title><![CDATA[Concussion guidance for sports sidesteps brain-disease link — critics are baffled]]></dc:title>
             <dc:creator>Katharine Sanderson</dc:creator>
             <dc:identifier>doi:10.1038/d41586-023-01964-4</dc:identifier>
@@ -670,6 +715,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01672-z</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01672-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01974-2">
+            <title><![CDATA[Daily briefing: Laotian cave fossils rewrite human migration story]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01974-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 14 June 2023; <a href="https://www.nature.com/articles/d41586-023-01974-2">doi:10.1038/d41586-023-01974-2</a></p>Early humans migrated through Asia earlier than previously thought. Plus, how naturalistic animal experiments help to decode the brain and magnetism could explain biological molecules’ handedness.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Laotian cave fossils rewrite human migration story]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01974-2</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-14; | doi:10.1038/d41586-023-01974-2</dc:source>
+            <dc:date>2023-06-14</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01974-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01974-2</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-01675-w">
@@ -1240,66 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01948-4</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01948-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01910-4">
-            <title><![CDATA[Taurine supplement makes animals live longer — what it means for people is unclear]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01910-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 09 June 2023; <a href="https://www.nature.com/articles/d41586-023-01910-4">doi:10.1038/d41586-023-01910-4</a></p>The energy-drink ingredient offers striking health benefits in mice, monkeys and worms. But more work is needed to investigate its link with ageing.]]></content:encoded>
-            <dc:title><![CDATA[Taurine supplement makes animals live longer — what it means for people is unclear]]></dc:title>
-            <dc:creator>Myriam Vidal Valero</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01910-4</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-09; | doi:10.1038/d41586-023-01910-4</dc:source>
-            <dc:date>2023-06-09</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01910-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01910-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01901-5">
-            <title><![CDATA[Have a high-pitched voice? It might be in your genes]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01901-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 09 June 2023; <a href="https://www.nature.com/articles/d41586-023-01901-5">doi:10.1038/d41586-023-01901-5</a></p>Survey of nearly 13,000 Icelanders pinpoints for the first time a genetic variant that shapes whether a person’s voice sounds high.]]></content:encoded>
-            <dc:title><![CDATA[Have a high-pitched voice? It might be in your genes]]></dc:title>
-            <dc:creator>Freda Kreier</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01901-5</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-09; | doi:10.1038/d41586-023-01901-5</dc:source>
-            <dc:date>2023-06-09</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01901-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01901-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01930-0">
-            <title><![CDATA[NIH to intensify scrutiny of foreign grant recipients in wake of COVID origins debate]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01930-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 09 June 2023; <a href="https://www.nature.com/articles/d41586-023-01930-0">doi:10.1038/d41586-023-01930-0</a></p>Researchers speak out over US biomedical agency’s new funding policy.]]></content:encoded>
-            <dc:title><![CDATA[NIH to intensify scrutiny of foreign grant recipients in wake of COVID origins debate]]></dc:title>
-            <dc:creator>Max Kozlov</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01930-0</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-09; | doi:10.1038/d41586-023-01930-0</dc:source>
-            <dc:date>2023-06-09</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01930-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01930-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01928-8">
-            <title><![CDATA[Ukraine dam collapse: what scientists are watching]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01928-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 09 June 2023; <a href="https://www.nature.com/articles/d41586-023-01928-8">doi:10.1038/d41586-023-01928-8</a></p>Extensive flooding could have severe consequences for farming, health and the environment.]]></content:encoded>
-            <dc:title><![CDATA[Ukraine dam collapse: what scientists are watching]]></dc:title>
-            <dc:creator>Miryam Naddaf</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01928-8</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-09; | doi:10.1038/d41586-023-01928-8</dc:source>
-            <dc:date>2023-06-09</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01928-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01928-8</prism:url>
         </item>
     
 </rdf:RDF>
