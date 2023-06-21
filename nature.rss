@@ -18,6 +18,16 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01946-6"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01944-8"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02061-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01990-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01932-y"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06308-w"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06088-3"/>
@@ -158,16 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01672-z"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01974-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01675-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01842-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01965-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01920-2"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,81 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01946-6">
+            <title><![CDATA[Fabric warms or cools the body at the flick of a switch]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01946-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 21 June 2023; <a href="https://www.nature.com/articles/d41586-023-01946-6">doi:10.1038/d41586-023-01946-6</a></p>Methods inspired by the Japanese paper art kirigami help to create a textile that moves with the body.]]></content:encoded>
+            <dc:title><![CDATA[Fabric warms or cools the body at the flick of a switch]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-01946-6</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-21; | doi:10.1038/d41586-023-01946-6</dc:source>
+            <dc:date>2023-06-21</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01946-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01946-6</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01944-8">
+            <title><![CDATA[A mucus-eating microbe controls the gut’s cholesterol factory]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01944-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 21 June 2023; <a href="https://www.nature.com/articles/d41586-023-01944-8">doi:10.1038/d41586-023-01944-8</a></p>An elusive member of the gut microbiota can reduce cholesterol synthesis in the intestine.]]></content:encoded>
+            <dc:title><![CDATA[A mucus-eating microbe controls the gut’s cholesterol factory]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-01944-8</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-21; | doi:10.1038/d41586-023-01944-8</dc:source>
+            <dc:date>2023-06-21</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01944-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01944-8</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02061-2">
+            <title><![CDATA[Magical meeting: a collaboration to tackle child malnutrition in Bangladesh]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02061-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 21 June 2023; <a href="https://www.nature.com/articles/d41586-023-02061-2">doi:10.1038/d41586-023-02061-2</a></p>A conference conversation between gut microbiome researcher Jeffrey Gordon and physcian Tahmeed Ahmed forged an award-winning international partnership.]]></content:encoded>
+            <dc:title><![CDATA[Magical meeting: a collaboration to tackle child malnutrition in Bangladesh]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-02061-2</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-21; | doi:10.1038/d41586-023-02061-2</dc:source>
+            <dc:date>2023-06-21</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02061-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02061-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01990-2">
+            <title><![CDATA[More carrot, less stick: how to make research assessments fairer]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01990-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 21 June 2023; <a href="https://www.nature.com/articles/d41586-023-01990-2">doi:10.1038/d41586-023-01990-2</a></p>Research-assessment exercises are often misused to judge researchers or cut their funding — changes to the United Kingdom’s scheme are a promising start.]]></content:encoded>
+            <dc:title><![CDATA[More carrot, less stick: how to make research assessments fairer]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-01990-2</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-21; | doi:10.1038/d41586-023-01990-2</dc:source>
+            <dc:date>2023-06-21</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01990-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01990-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01932-y">
+            <title><![CDATA[Invasive palms and WWII damaged an island paradise. Could fungi help to restore it?]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01932-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 21 June 2023; <a href="https://www.nature.com/articles/d41586-023-01932-y">doi:10.1038/d41586-023-01932-y</a></p>Researchers ventured to the world’s most remote island to study how fungi in soils could help to revive damaged ecosystems.]]></content:encoded>
+            <dc:title><![CDATA[Invasive palms and WWII damaged an island paradise. Could fungi help to restore it?]]></dc:title>
+            <dc:creator>Virginia Gewin</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01932-y</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-21; | doi:10.1038/d41586-023-01932-y</dc:source>
+            <dc:date>2023-06-21</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01932-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01932-y</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06308-w">
             <title><![CDATA[A Binary Pulsar in a 53-minute Orbit]]></title>
@@ -1225,81 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01672-z</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01672-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01974-2">
-            <title><![CDATA[Daily briefing: Laotian cave fossils rewrite human migration story]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01974-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 14 June 2023; <a href="https://www.nature.com/articles/d41586-023-01974-2">doi:10.1038/d41586-023-01974-2</a></p>Early humans migrated through Asia earlier than previously thought. Plus, how naturalistic animal experiments help to decode the brain and magnetism could explain biological molecules’ handedness.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: Laotian cave fossils rewrite human migration story]]></dc:title>
-            <dc:creator>Flora Graham</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01974-2</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-14; | doi:10.1038/d41586-023-01974-2</dc:source>
-            <dc:date>2023-06-14</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01974-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01974-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01675-w">
-            <title><![CDATA[A pangenome reference representative of 36 minority Chinese ethnic groups]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01675-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 14 June 2023; <a href="https://www.nature.com/articles/d41586-023-01675-w">doi:10.1038/d41586-023-01675-w</a></p>In the first phase of its project to produce a genome reference that represents the genetic diversity of the people of China, the Chinese Pangenome Consortium analyse genomic sequences from 58 individuals representing 36 minority ethnic groups in China. The data capture genomic variability that is not currently reflected in human reference genomes.]]></content:encoded>
-            <dc:title><![CDATA[A pangenome reference representative of 36 minority Chinese ethnic groups]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-01675-w</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-14; | doi:10.1038/d41586-023-01675-w</dc:source>
-            <dc:date>2023-06-14</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01675-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01675-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01842-z">
-            <title><![CDATA[From tea to tofu: why Chinese dietary staples are rich pickings for research]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01842-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 14 June 2023; <a href="https://www.nature.com/articles/d41586-023-01842-z">doi:10.1038/d41586-023-01842-z</a></p>Public-health researchers are exploring the nutritional benefits of some familiar favourites of the Chinese table.]]></content:encoded>
-            <dc:title><![CDATA[From tea to tofu: why Chinese dietary staples are rich pickings for research]]></dc:title>
-            <dc:creator>Michael Eisenstein</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01842-z</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-14; | doi:10.1038/d41586-023-01842-z</dc:source>
-            <dc:date>2023-06-14</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01842-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01842-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01965-3">
-            <title><![CDATA[IBM quantum computer passes calculation milestone]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01965-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 14 June 2023; <a href="https://www.nature.com/articles/d41586-023-01965-3">doi:10.1038/d41586-023-01965-3</a></p>‘Benchmark’ experiment suggests quantum computers could have useful real-world applications within two years.]]></content:encoded>
-            <dc:title><![CDATA[IBM quantum computer passes calculation milestone]]></dc:title>
-            <dc:creator>Davide Castelvecchi</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01965-3</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-14; | doi:10.1038/d41586-023-01965-3</dc:source>
-            <dc:date>2023-06-14</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01965-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01965-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01920-2">
-            <title><![CDATA[How psychedelic drugs achieve their potent health benefits]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01920-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 14 June 2023; <a href="https://www.nature.com/articles/d41586-023-01920-2">doi:10.1038/d41586-023-01920-2</a></p>Mouse studies suggest that drugs from LSD to ecstasy renew the brain’s flexibility — but some scientists are sceptical.]]></content:encoded>
-            <dc:title><![CDATA[How psychedelic drugs achieve their potent health benefits]]></dc:title>
-            <dc:creator>Sara Reardon</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01920-2</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-14; | doi:10.1038/d41586-023-01920-2</dc:source>
-            <dc:date>2023-06-14</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01920-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01920-2</prism:url>
         </item>
     
 </rdf:RDF>
