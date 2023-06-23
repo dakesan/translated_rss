@@ -18,6 +18,12 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02097-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02073-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02071-0"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01943-9"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02057-y"/>
@@ -162,12 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02037-2"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02044-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06316-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01896-z"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,51 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02097-4">
+            <title><![CDATA[The ocean’s engine, and the science of reading: Books in brief]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02097-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 23 June 2023; <a href="https://www.nature.com/articles/d41586-023-02097-4">doi:10.1038/d41586-023-02097-4</a></p>Andrew Robinson reviews five of the best science picks.]]></content:encoded>
+            <dc:title><![CDATA[The ocean’s engine, and the science of reading: Books in brief]]></dc:title>
+            <dc:creator>Andrew Robinson</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02097-4</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-23; | doi:10.1038/d41586-023-02097-4</dc:source>
+            <dc:date>2023-06-23</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02097-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02097-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02073-y">
+            <title><![CDATA[Women in engineering: using hydrology to manage Jordan’s scarce water]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02073-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 23 June 2023; <a href="https://www.nature.com/articles/d41586-023-02073-y">doi:10.1038/d41586-023-02073-y</a></p>Esraa Tarawneh says research and data gathering can improve her country’s resilience to droughts and rare flash floods.]]></content:encoded>
+            <dc:title><![CDATA[Women in engineering: using hydrology to manage Jordan’s scarce water]]></dc:title>
+            <dc:creator>Jacqui Thornton</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02073-y</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-23; | doi:10.1038/d41586-023-02073-y</dc:source>
+            <dc:date>2023-06-23</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02073-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02073-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02071-0">
+            <title><![CDATA[Women in Engineering: giving Porsche 911s the ‘ultimate’ makeover]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02071-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 23 June 2023; <a href="https://www.nature.com/articles/d41586-023-02071-0">doi:10.1038/d41586-023-02071-0</a></p>As a child, Imogen Howarth enjoyed solving problems and playing with cars. Now, she helps to redesign a classic and acts as a role model for aspiring female engineers.]]></content:encoded>
+            <dc:title><![CDATA[Women in Engineering: giving Porsche 911s the ‘ultimate’ makeover]]></dc:title>
+            <dc:creator>Jacqui Thornton</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02071-0</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-23; | doi:10.1038/d41586-023-02071-0</dc:source>
+            <dc:date>2023-06-23</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02071-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02071-0</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-01943-9">
             <title><![CDATA[Underwater volcano triggered the most intense lightning ever recorded]]></title>
@@ -703,11 +748,11 @@
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-02074-x">
-            <title><![CDATA[Lost <i>Titanic</i> sub: an ocean scientist weighs rescue options]]></title>
+            <title><![CDATA[Lost <i>Titanic</i> sub: an ocean scientist talks about dive safety]]></title>
             <link>https://www.nature.com/articles/d41586-023-02074-x</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 21 June 2023; <a href="https://www.nature.com/articles/d41586-023-02074-x">doi:10.1038/d41586-023-02074-x</a></p>Oceanographer Peter Girguis talks about safety standards on research submersibles and more.]]></content:encoded>
-            <dc:title><![CDATA[Lost <i>Titanic</i> sub: an ocean scientist weighs rescue options]]></dc:title>
+                <![CDATA[<p>Nature, Published online: 21 June 2023; <a href="https://www.nature.com/articles/d41586-023-02074-x">doi:10.1038/d41586-023-02074-x</a></p>Oceanographer Peter Girguis offers an insider view of deep-sea exploration.]]></content:encoded>
+            <dc:title><![CDATA[Lost <i>Titanic</i> sub: an ocean scientist talks about dive safety]]></dc:title>
             <dc:creator>Katharine Sanderson</dc:creator>
             <dc:identifier>doi:10.1038/d41586-023-02074-x</dc:identifier>
             <dc:source>Nature, Published online: 2023-06-21; | doi:10.1038/d41586-023-02074-x</dc:source>
@@ -1255,51 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02037-2</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02037-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02044-3">
-            <title><![CDATA[Daily briefing: Vaginal seeding seems to benefit babies delivered by caesarean section]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02044-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 16 June 2023; <a href="https://www.nature.com/articles/d41586-023-02044-3">doi:10.1038/d41586-023-02044-3</a></p>Mum’s microbes might boost brain development of c-section babies. Plus, volunteers got infected with COVID to help understand supershedders and upgraded polio vaccines could help stamp out the disease forever.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: Vaginal seeding seems to benefit babies delivered by caesarean section]]></dc:title>
-            <dc:creator>Flora Graham</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02044-3</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-16; | doi:10.1038/d41586-023-02044-3</dc:source>
-            <dc:date>2023-06-16</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02044-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02044-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06316-w">
-            <title><![CDATA[Author Correction: γ-Linolenic acid in maternal milk drives cardiac metabolic maturation]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06316-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 15 June 2023; <a href="https://www.nature.com/articles/s41586-023-06316-w">doi:10.1038/s41586-023-06316-w</a></p>Author Correction: γ-Linolenic acid in maternal milk drives cardiac metabolic maturation]]></content:encoded>
-            <dc:title><![CDATA[Author Correction: γ-Linolenic acid in maternal milk drives cardiac metabolic maturation]]></dc:title>
-            <dc:creator>Ana Paredes</dc:creator><dc:creator>Raquel Justo-Méndez</dc:creator><dc:creator>Daniel Jiménez-Blasco</dc:creator><dc:creator>Vanessa Núñez</dc:creator><dc:creator>Irene Calero</dc:creator><dc:creator>María Villalba-Orero</dc:creator><dc:creator>Andrea Alegre-Martí</dc:creator><dc:creator>Thierry Fischer</dc:creator><dc:creator>Ana Gradillas</dc:creator><dc:creator>Viviane Aparecida Rodrigues Sant’Anna</dc:creator><dc:creator>Felipe Were</dc:creator><dc:creator>Zhiqiang Huang</dc:creator><dc:creator>Pablo Hernansanz-Agustín</dc:creator><dc:creator>Carmen Contreras</dc:creator><dc:creator>Fernando Martínez</dc:creator><dc:creator>Emilio Camafeita</dc:creator><dc:creator>Jesús Vázquez</dc:creator><dc:creator>Jesús Ruiz-Cabello</dc:creator><dc:creator>Estela Area-Gómez</dc:creator><dc:creator>Fátima Sánchez-Cabo</dc:creator><dc:creator>Eckardt Treuter</dc:creator><dc:creator>Juan Pedro Bolaños</dc:creator><dc:creator>Eva Estébanez-Perpiñá</dc:creator><dc:creator>Francisco Javier Rupérez</dc:creator><dc:creator>Coral Barbas</dc:creator><dc:creator>José Antonio Enríquez</dc:creator><dc:creator>Mercedes Ricote</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06316-w</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-15; | doi:10.1038/s41586-023-06316-w</dc:source>
-            <dc:date>2023-06-15</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06316-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06316-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01896-z">
-            <title><![CDATA[Particle of sound put in two places at once]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01896-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 15 June 2023; <a href="https://www.nature.com/articles/d41586-023-01896-z">doi:10.1038/d41586-023-01896-z</a></p>Scientists place a phonon into superposition, paving the way for its use in quantum computers.]]></content:encoded>
-            <dc:title><![CDATA[Particle of sound put in two places at once]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-01896-z</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-15; | doi:10.1038/d41586-023-01896-z</dc:source>
-            <dc:date>2023-06-15</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01896-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01896-z</prism:url>
         </item>
     
 </rdf:RDF>
