@@ -18,6 +18,8 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02120-8"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06343-7"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02097-4"/>
@@ -166,8 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06285-0"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01898-x"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,21 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02120-8">
+            <title><![CDATA[Decades-long bet on consciousness ends — and it’s philosopher 1, neuroscientist 0]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02120-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 24 June 2023; <a href="https://www.nature.com/articles/d41586-023-02120-8">doi:10.1038/d41586-023-02120-8</a></p>Christof Koch wagered David Chalmers 25 years ago that researchers would learn how the brain achieves consciousness by now. But the quest continues.]]></content:encoded>
+            <dc:title><![CDATA[Decades-long bet on consciousness ends — and it’s philosopher 1, neuroscientist 0]]></dc:title>
+            <dc:creator>Mariana Lenharo</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02120-8</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-24; | doi:10.1038/d41586-023-02120-8</dc:source>
+            <dc:date>2023-06-24</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02120-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02120-8</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06343-7">
             <title><![CDATA[Author Correction: A viral biomolecular condensate coordinates assembly of progeny particles]]></title>
@@ -1285,21 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/s41586-023-06285-0</prism:doi>
             <prism:url>https://www.nature.com/articles/s41586-023-06285-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01898-x">
-            <title><![CDATA[Flu virus hitches a ride with haze particles deep into the lung]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01898-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 16 June 2023; <a href="https://www.nature.com/articles/d41586-023-01898-x">doi:10.1038/d41586-023-01898-x</a></p>Fine particulate pollution help the virus to enter cells, which might explain why influenza is worse when air quality is bad.]]></content:encoded>
-            <dc:title><![CDATA[Flu virus hitches a ride with haze particles deep into the lung]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-01898-x</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-16; | doi:10.1038/d41586-023-01898-x</dc:source>
-            <dc:date>2023-06-16</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01898-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01898-x</prism:url>
         </item>
     
 </rdf:RDF>
