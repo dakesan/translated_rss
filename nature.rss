@@ -18,11 +18,21 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06343-7"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02097-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02100-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02075-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02099-2"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02073-y"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02071-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02083-w"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01943-9"/>
                 
@@ -158,16 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01898-x"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01993-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01992-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01978-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01971-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02037-2"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,21 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-023-06343-7">
+            <title><![CDATA[Author Correction: A viral biomolecular condensate coordinates assembly of progeny particles]]></title>
+            <link>https://www.nature.com/articles/s41586-023-06343-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 23 June 2023; <a href="https://www.nature.com/articles/s41586-023-06343-7">doi:10.1038/s41586-023-06343-7</a></p>Author Correction: A viral biomolecular condensate coordinates assembly of progeny particles]]></content:encoded>
+            <dc:title><![CDATA[Author Correction: A viral biomolecular condensate coordinates assembly of progeny particles]]></dc:title>
+            <dc:creator>Matthew Charman</dc:creator><dc:creator>Nicholas Grams</dc:creator><dc:creator>Namrata Kumar</dc:creator><dc:creator>Edwin Halko</dc:creator><dc:creator>Joseph M. Dybas</dc:creator><dc:creator>Amber Abbott</dc:creator><dc:creator>Krystal K. Lum</dc:creator><dc:creator>Daniel Blumenthal</dc:creator><dc:creator>Elene Tsopurashvili</dc:creator><dc:creator>Matthew D. Weitzman</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-023-06343-7</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-23; | doi:10.1038/s41586-023-06343-7</dc:source>
+            <dc:date>2023-06-23</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-023-06343-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-023-06343-7</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-02097-4">
             <title><![CDATA[The ocean’s engine, and the science of reading: Books in brief]]></title>
@@ -190,6 +205,51 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02097-4</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02097-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02100-y">
+            <title><![CDATA[Two <i>Titan</i> submersible passengers were prominent science philanthropists in Pakistan]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02100-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 23 June 2023; <a href="https://www.nature.com/articles/d41586-023-02100-y">doi:10.1038/d41586-023-02100-y</a></p>Among those who died when the submersible imploded were Shahzada Dawood and his son Suleman who belonged to a family that are significant funders of science and education.]]></content:encoded>
+            <dc:title><![CDATA[Two <i>Titan</i> submersible passengers were prominent science philanthropists in Pakistan]]></dc:title>
+            <dc:creator>Miryam Naddaf</dc:creator><dc:creator>Ehsan Masood</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02100-y</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-23; | doi:10.1038/d41586-023-02100-y</dc:source>
+            <dc:date>2023-06-23</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02100-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02100-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02075-w">
+            <title><![CDATA[Huge leap in breast-cancer survival rate]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02075-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 23 June 2023; <a href="https://www.nature.com/articles/d41586-023-02075-w">doi:10.1038/d41586-023-02075-w</a></p>Women diagnosed since 2010 have a much lower risk of dying than those diagnosed in the 1990s.]]></content:encoded>
+            <dc:title><![CDATA[Huge leap in breast-cancer survival rate]]></dc:title>
+            <dc:creator>Katharine Sanderson</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02075-w</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-23; | doi:10.1038/d41586-023-02075-w</dc:source>
+            <dc:date>2023-06-23</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02075-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02075-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02099-2">
+            <title><![CDATA[Universities urged to improve how staff sexual-assault claims are handled]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02099-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 23 June 2023; <a href="https://www.nature.com/articles/d41586-023-02099-2">doi:10.1038/d41586-023-02099-2</a></p>Early-career researchers are often poorly served when they come forward, says the author of a report investigating the response to #MeToo at UK institutions.]]></content:encoded>
+            <dc:title><![CDATA[Universities urged to improve how staff sexual-assault claims are handled]]></dc:title>
+            <dc:creator>Anne Gulland</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02099-2</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-23; | doi:10.1038/d41586-023-02099-2</dc:source>
+            <dc:date>2023-06-23</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02099-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02099-2</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-02073-y">
@@ -208,11 +268,11 @@
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-02071-0">
-            <title><![CDATA[Women in Engineering: giving Porsche 911s the ‘ultimate’ makeover]]></title>
+            <title><![CDATA[Women in engineering: giving Porsche 911s the ‘ultimate’ makeover]]></title>
             <link>https://www.nature.com/articles/d41586-023-02071-0</link>
             <content:encoded>
                 <![CDATA[<p>Nature, Published online: 23 June 2023; <a href="https://www.nature.com/articles/d41586-023-02071-0">doi:10.1038/d41586-023-02071-0</a></p>As a child, Imogen Howarth enjoyed solving problems and playing with cars. Now, she helps to redesign a classic and acts as a role model for aspiring female engineers.]]></content:encoded>
-            <dc:title><![CDATA[Women in Engineering: giving Porsche 911s the ‘ultimate’ makeover]]></dc:title>
+            <dc:title><![CDATA[Women in engineering: giving Porsche 911s the ‘ultimate’ makeover]]></dc:title>
             <dc:creator>Jacqui Thornton</dc:creator>
             <dc:identifier>doi:10.1038/d41586-023-02071-0</dc:identifier>
             <dc:source>Nature, Published online: 2023-06-23; | doi:10.1038/d41586-023-02071-0</dc:source>
@@ -220,6 +280,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02071-0</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02071-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02083-w">
+            <title><![CDATA[After <i>Roe</i> v. <i>Wade</i>: dwindling US abortion access is harming health a year later]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02083-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 23 June 2023; <a href="https://www.nature.com/articles/d41586-023-02083-w">doi:10.1038/d41586-023-02083-w</a></p>Researchers are monitoring the consequences of the Supreme Court abolishing the right to an abortion.]]></content:encoded>
+            <dc:title><![CDATA[After <i>Roe</i> v. <i>Wade</i>: dwindling US abortion access is harming health a year later]]></dc:title>
+            <dc:creator>Mariana Lenharo</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02083-w</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-23; | doi:10.1038/d41586-023-02083-w</dc:source>
+            <dc:date>2023-06-23</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02083-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02083-w</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-01943-9">
@@ -1225,81 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01898-x</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01898-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01993-z">
-            <title><![CDATA[Rampant groundwater pumping has changed the tilt of Earth’s axis]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01993-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 16 June 2023; <a href="https://www.nature.com/articles/d41586-023-01993-z">doi:10.1038/d41586-023-01993-z</a></p>Human depletion of underground reservoirs has shifted the global distribution of water so much that the North Pole has drifted by more than 4 centimetres per year.]]></content:encoded>
-            <dc:title><![CDATA[Rampant groundwater pumping has changed the tilt of Earth’s axis]]></dc:title>
-            <dc:creator>Davide Castelvecchi</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01993-z</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-16; | doi:10.1038/d41586-023-01993-z</dc:source>
-            <dc:date>2023-06-16</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01993-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01993-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01992-0">
-            <title><![CDATA[Most advanced synthetic human embryos yet spark controversy]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01992-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 16 June 2023; <a href="https://www.nature.com/articles/d41586-023-01992-0">doi:10.1038/d41586-023-01992-0</a></p>A pair of studies raises ethical and legal questions about the status of lab-grown human embryo models.]]></content:encoded>
-            <dc:title><![CDATA[Most advanced synthetic human embryos yet spark controversy]]></dc:title>
-            <dc:creator>Philip Ball</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01992-0</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-16; | doi:10.1038/d41586-023-01992-0</dc:source>
-            <dc:date>2023-06-16</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01992-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01992-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01978-y">
-            <title><![CDATA[Gordon Moore (1929–2023)]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01978-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 16 June 2023; <a href="https://www.nature.com/articles/d41586-023-01978-y">doi:10.1038/d41586-023-01978-y</a></p>Microchip entrepreneur and architect of Moore’s Law.]]></content:encoded>
-            <dc:title><![CDATA[Gordon Moore (1929–2023)]]></dc:title>
-            <dc:creator>Christophe  Lécuyer</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01978-y</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-16; | doi:10.1038/d41586-023-01978-y</dc:source>
-            <dc:date>2023-06-16</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01978-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01978-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01971-5">
-            <title><![CDATA[Pay, perks and culture shocks: a toolkit for scientists moving to industry]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01971-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 16 June 2023; <a href="https://www.nature.com/articles/d41586-023-01971-5">doi:10.1038/d41586-023-01971-5</a></p>Don’t underestimate the steep learning curve involved when you switch sectors, says Jonathan Bowen.]]></content:encoded>
-            <dc:title><![CDATA[Pay, perks and culture shocks: a toolkit for scientists moving to industry]]></dc:title>
-            <dc:creator>Anne Gulland</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01971-5</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-16; | doi:10.1038/d41586-023-01971-5</dc:source>
-            <dc:date>2023-06-16</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01971-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01971-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02037-2">
-            <title><![CDATA[How to organize your lab purchases and inventory]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02037-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 16 June 2023; <a href="https://www.nature.com/articles/d41586-023-02037-2">doi:10.1038/d41586-023-02037-2</a></p>Christina Termini’s tweet on her do-it-yourself system for managing lab inventory went viral. Here’s how to implement the tool.]]></content:encoded>
-            <dc:title><![CDATA[How to organize your lab purchases and inventory]]></dc:title>
-            <dc:creator>Nicollette Jessica Setiawan</dc:creator><dc:creator>Christina Marie Termini</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02037-2</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-16; | doi:10.1038/d41586-023-02037-2</dc:source>
-            <dc:date>2023-06-16</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02037-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02037-2</prism:url>
         </item>
     
 </rdf:RDF>
