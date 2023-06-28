@@ -18,15 +18,33 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06368-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06354-4"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02035-4"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02033-6"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02151-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02156-w"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02036-3"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02034-5"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02041-6"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02091-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02094-7"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01929-7"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02062-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02121-7"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06347-3"/>
                 
@@ -150,24 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01678-7"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01911-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01987-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06308-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06088-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01933-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01976-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01924-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01922-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01936-8"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,36 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-023-06368-y">
+            <title><![CDATA[A model of the post-implantation human embryo derived from pluripotent stem cells]]></title>
+            <link>https://www.nature.com/articles/s41586-023-06368-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 27 June 2023; <a href="https://www.nature.com/articles/s41586-023-06368-y">doi:10.1038/s41586-023-06368-y</a></p>A model of the post-implantation human embryo derived from pluripotent stem cells]]></content:encoded>
+            <dc:title><![CDATA[A model of the post-implantation human embryo derived from pluripotent stem cells]]></dc:title>
+            <dc:creator>Bailey A. T. Weatherbee</dc:creator><dc:creator>Carlos W. Gantner</dc:creator><dc:creator>Lisa K. Iwamoto-Stohl</dc:creator><dc:creator>Riza M. Daza</dc:creator><dc:creator>Nobuhiko Hamazaki</dc:creator><dc:creator>Jay Shendure</dc:creator><dc:creator>Magdalena Zernicka-Goetz</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-023-06368-y</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-27; | doi:10.1038/s41586-023-06368-y</dc:source>
+            <dc:date>2023-06-27</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-023-06368-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-023-06368-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-023-06354-4">
+            <title><![CDATA[Self-patterning of human stem cells into post-implantation lineages]]></title>
+            <link>https://www.nature.com/articles/s41586-023-06354-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 27 June 2023; <a href="https://www.nature.com/articles/s41586-023-06354-4">doi:10.1038/s41586-023-06354-4</a></p>Self-patterning of human stem cells into post-implantation lineages]]></content:encoded>
+            <dc:title><![CDATA[Self-patterning of human stem cells into post-implantation lineages]]></dc:title>
+            <dc:creator>Monique Pedroza</dc:creator><dc:creator>Seher Ipek Gassaloglu</dc:creator><dc:creator>Nicolas Dias</dc:creator><dc:creator>Liangwen Zhong</dc:creator><dc:creator>Tien-Chi Jason Hou</dc:creator><dc:creator>Helene Kretzmer</dc:creator><dc:creator>Zachary D. Smith</dc:creator><dc:creator>Berna Sozen</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-023-06354-4</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-27; | doi:10.1038/s41586-023-06354-4</dc:source>
+            <dc:date>2023-06-27</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-023-06354-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-023-06354-4</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-02035-4">
             <title><![CDATA[Autism: don’t negate the value of applied behaviour analysis]]></title>
@@ -205,6 +235,36 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02033-6</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02033-6</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02151-1">
+            <title><![CDATA[Trove of new coronaviruses uncovered in bats — but threat is unclear]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02151-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 27 June 2023; <a href="https://www.nature.com/articles/d41586-023-02151-1">doi:10.1038/d41586-023-02151-1</a></p>Horseshoe bats carry viruses closely related to SARS-CoV-2, but they probably can’t spread in people yet.]]></content:encoded>
+            <dc:title><![CDATA[Trove of new coronaviruses uncovered in bats — but threat is unclear]]></dc:title>
+            <dc:creator>Ewen Callaway</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02151-1</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-27; | doi:10.1038/d41586-023-02151-1</dc:source>
+            <dc:date>2023-06-27</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02151-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02151-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02156-w">
+            <title><![CDATA[Mars mission snaps striking ultraviolet view — image of the week]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02156-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 27 June 2023; <a href="https://www.nature.com/articles/d41586-023-02156-w">doi:10.1038/d41586-023-02156-w</a></p>The spacecraft is boosting understanding of the Martian surface and atmosphere.]]></content:encoded>
+            <dc:title><![CDATA[Mars mission snaps striking ultraviolet view — image of the week]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-02156-w</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-27; | doi:10.1038/d41586-023-02156-w</dc:source>
+            <dc:date>2023-06-27</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02156-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02156-w</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-02036-3">
@@ -237,6 +297,51 @@
             <prism:url>https://www.nature.com/articles/d41586-023-02034-5</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02041-6">
+            <title><![CDATA[From the archive: chemical symbols and an octopus baby boom]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02041-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 27 June 2023; <a href="https://www.nature.com/articles/d41586-023-02041-6">doi:10.1038/d41586-023-02041-6</a></p>Snippets from Nature’s past.]]></content:encoded>
+            <dc:title><![CDATA[From the archive: chemical symbols and an octopus baby boom]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-02041-6</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-27; | doi:10.1038/d41586-023-02041-6</dc:source>
+            <dc:date>2023-06-27</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02041-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02041-6</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02091-w">
+            <title><![CDATA[What happens when you microwave that plastic bowl?]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02091-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 27 June 2023; <a href="https://www.nature.com/articles/d41586-023-02091-w">doi:10.1038/d41586-023-02091-w</a></p>Tests show that certain types of plasticware give off high levels of microscopic plastic particles when heated in an microwave oven.]]></content:encoded>
+            <dc:title><![CDATA[What happens when you microwave that plastic bowl?]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-02091-w</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-27; | doi:10.1038/d41586-023-02091-w</dc:source>
+            <dc:date>2023-06-27</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02091-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02091-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02094-7">
+            <title><![CDATA[Stop talking about tomorrow’s AI doomsday when AI poses risks today]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02094-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 27 June 2023; <a href="https://www.nature.com/articles/d41586-023-02094-7">doi:10.1038/d41586-023-02094-7</a></p>Talk of artificial intelligence destroying humanity plays into the tech companies’ agenda, and hinders effective regulation of the societal harms AI is causing right now.]]></content:encoded>
+            <dc:title><![CDATA[Stop talking about tomorrow’s AI doomsday when AI poses risks today]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-02094-7</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-27; | doi:10.1038/d41586-023-02094-7</dc:source>
+            <dc:date>2023-06-27</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02094-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02094-7</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-023-01929-7">
             <title><![CDATA[How to make your scientific data accessible, discoverable and useful]]></title>
             <link>https://www.nature.com/articles/d41586-023-01929-7</link>
@@ -250,6 +355,36 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01929-7</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01929-7</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02062-1">
+            <title><![CDATA[Hundreds file suit targeting Mexico’s divisive science law]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02062-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 27 June 2023; <a href="https://www.nature.com/articles/d41586-023-02062-1">doi:10.1038/d41586-023-02062-1</a></p>Scientists and some opposing lawmakers say the passing of the legislation violated normal procedures.]]></content:encoded>
+            <dc:title><![CDATA[Hundreds file suit targeting Mexico’s divisive science law]]></dc:title>
+            <dc:creator>Myriam Vidal Valero</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02062-1</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-27; | doi:10.1038/d41586-023-02062-1</dc:source>
+            <dc:date>2023-06-27</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02062-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02062-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02121-7">
+            <title><![CDATA[Long COVID: answers emerge on how many people get better]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02121-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 27 June 2023; <a href="https://www.nature.com/articles/d41586-023-02121-7">doi:10.1038/d41586-023-02121-7</a></p>Studies are shedding light on rates of recovery as well as the prevention and treatment of the complex condition.]]></content:encoded>
+            <dc:title><![CDATA[Long COVID: answers emerge on how many people get better]]></dc:title>
+            <dc:creator>Michael Marshall</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02121-7</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-27; | doi:10.1038/d41586-023-02121-7</dc:source>
+            <dc:date>2023-06-27</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02121-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02121-7</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06347-3">
@@ -1165,141 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01678-7</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01678-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01911-3">
-            <title><![CDATA[From process to outcome: working toward health equity]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01911-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 21 June 2023; <a href="https://www.nature.com/articles/d41586-023-01911-3">doi:10.1038/d41586-023-01911-3</a></p>Health-equity work requires thinking about strengths and assets instead of just disadvantages, says Aletha Maybank.]]></content:encoded>
-            <dc:title><![CDATA[From process to outcome: working toward health equity]]></dc:title>
-            <dc:creator>Nikki Forrester</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01911-3</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-21; | doi:10.1038/d41586-023-01911-3</dc:source>
-            <dc:date>2023-06-21</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01911-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01911-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01987-x">
-            <title><![CDATA[How the Y chromosome makes some cancers more deadly for men]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01987-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 21 June 2023; <a href="https://www.nature.com/articles/d41586-023-01987-x">doi:10.1038/d41586-023-01987-x</a></p>Two studies help to explain why colorectal and bladder tumours take a bigger toll on men than on women.]]></content:encoded>
-            <dc:title><![CDATA[How the Y chromosome makes some cancers more deadly for men]]></dc:title>
-            <dc:creator>Heidi Ledford</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01987-x</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-21; | doi:10.1038/d41586-023-01987-x</dc:source>
-            <dc:date>2023-06-21</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01987-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01987-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06308-w">
-            <title><![CDATA[A Binary Pulsar in a 53-minute Orbit]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06308-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 20 June 2023; <a href="https://www.nature.com/articles/s41586-023-06308-w">doi:10.1038/s41586-023-06308-w</a></p>A Binary Pulsar in a 53-minute Orbit]]></content:encoded>
-            <dc:title><![CDATA[A Binary Pulsar in a 53-minute Orbit]]></dc:title>
-            <dc:creator>Z. Pan</dc:creator><dc:creator>J. G. Lu</dc:creator><dc:creator>P. Jiang</dc:creator><dc:creator>J. L. Han</dc:creator><dc:creator>H.-L. Chen</dc:creator><dc:creator>Z. W. Han</dc:creator><dc:creator>K. Liu</dc:creator><dc:creator>L. Qian</dc:creator><dc:creator>R. X. Xu</dc:creator><dc:creator>B. Zhang</dc:creator><dc:creator>J. T. Luo</dc:creator><dc:creator>Z. Yan</dc:creator><dc:creator>Z. L. Yang</dc:creator><dc:creator>D. J. Zhou</dc:creator><dc:creator>P. F. Wang</dc:creator><dc:creator>C. Wang</dc:creator><dc:creator>M. H. Li</dc:creator><dc:creator>M. Zhu</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06308-w</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-20; | doi:10.1038/s41586-023-06308-w</dc:source>
-            <dc:date>2023-06-20</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06308-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06308-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06088-3">
-            <title><![CDATA[Author Correction: CAR immune cells: design principles, resistance and the next generation]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06088-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 20 June 2023; <a href="https://www.nature.com/articles/s41586-023-06088-3">doi:10.1038/s41586-023-06088-3</a></p>Author Correction: CAR immune cells: design principles, resistance and the next generation]]></content:encoded>
-            <dc:title><![CDATA[Author Correction: CAR immune cells: design principles, resistance and the next generation]]></dc:title>
-            <dc:creator>Louai Labanieh</dc:creator><dc:creator>Crystal L. Mackall</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06088-3</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-20; | doi:10.1038/s41586-023-06088-3</dc:source>
-            <dc:date>2023-06-20</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06088-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06088-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01933-x">
-            <title><![CDATA[Uruguay’s water crisis: prepare for future events]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01933-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 20 June 2023; <a href="https://www.nature.com/articles/d41586-023-01933-x">doi:10.1038/d41586-023-01933-x</a></p>Uruguay’s water crisis: prepare for future events]]></content:encoded>
-            <dc:title><![CDATA[Uruguay’s water crisis: prepare for future events]]></dc:title>
-            <dc:creator>Guillermo Goyenola</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01933-x</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-20; | doi:10.1038/d41586-023-01933-x</dc:source>
-            <dc:date>2023-06-20</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01933-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01933-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01976-0">
-            <title><![CDATA[Net-zero pledges are growing — how serious are they?]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01976-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 20 June 2023; <a href="https://www.nature.com/articles/d41586-023-01976-0">doi:10.1038/d41586-023-01976-0</a></p>Governments and companies are committing to cut and counter carbon emissions, but robust strategies to achieve their goals are lacking.]]></content:encoded>
-            <dc:title><![CDATA[Net-zero pledges are growing — how serious are they?]]></dc:title>
-            <dc:creator>Katharine Sanderson</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01976-0</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-20; | doi:10.1038/d41586-023-01976-0</dc:source>
-            <dc:date>2023-06-20</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01976-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01976-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01924-y">
-            <title><![CDATA[Water: a commons beyond economic value]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01924-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 20 June 2023; <a href="https://www.nature.com/articles/d41586-023-01924-y">doi:10.1038/d41586-023-01924-y</a></p>Water: a commons beyond economic value]]></content:encoded>
-            <dc:title><![CDATA[Water: a commons beyond economic value]]></dc:title>
-            <dc:creator>Jean-Philippe Venot</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01924-y</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-20; | doi:10.1038/d41586-023-01924-y</dc:source>
-            <dc:date>2023-06-20</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01924-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01924-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01922-0">
-            <title><![CDATA[Ethics: fund an independent system to verify EdTech]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01922-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 20 June 2023; <a href="https://www.nature.com/articles/d41586-023-01922-0">doi:10.1038/d41586-023-01922-0</a></p>Ethics: fund an independent system to verify EdTech]]></content:encoded>
-            <dc:title><![CDATA[Ethics: fund an independent system to verify EdTech]]></dc:title>
-            <dc:creator>Natalia Ingebretsen Kucirkova</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01922-0</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-20; | doi:10.1038/d41586-023-01922-0</dc:source>
-            <dc:date>2023-06-20</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01922-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01922-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01936-8">
-            <title><![CDATA[From the archive: Oxford observatory delayed, and cyclone mysteries]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01936-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 20 June 2023; <a href="https://www.nature.com/articles/d41586-023-01936-8">doi:10.1038/d41586-023-01936-8</a></p>Snippets from Nature’s past.]]></content:encoded>
-            <dc:title><![CDATA[From the archive: Oxford observatory delayed, and cyclone mysteries]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-01936-8</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-20; | doi:10.1038/d41586-023-01936-8</dc:source>
-            <dc:date>2023-06-20</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01936-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01936-8</prism:url>
         </item>
     
 </rdf:RDF>
