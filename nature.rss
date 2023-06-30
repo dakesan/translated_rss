@@ -18,6 +18,12 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02124-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02168-6"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02093-8"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06363-3"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06284-1"/>
@@ -162,12 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02151-1"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02156-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02036-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02034-5"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,51 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02124-4">
+            <title><![CDATA[Tasmanian devil cancer vaccine approved for testing]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02124-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 30 June 2023; <a href="https://www.nature.com/articles/d41586-023-02124-4">doi:10.1038/d41586-023-02124-4</a></p>The vaccine was inspired by COVID jabs, but if it is approved, it will be delivered in edible bait.]]></content:encoded>
+            <dc:title><![CDATA[Tasmanian devil cancer vaccine approved for testing]]></dc:title>
+            <dc:creator>Gemma Conroy</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02124-4</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-30; | doi:10.1038/d41586-023-02124-4</dc:source>
+            <dc:date>2023-06-30</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02124-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02124-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02168-6">
+            <title><![CDATA[How to train early-career scientists to weather failure]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02168-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 30 June 2023; <a href="https://www.nature.com/articles/d41586-023-02168-6">doi:10.1038/d41586-023-02168-6</a></p>Workshops and training programmes tackle failure and how to recover from it.]]></content:encoded>
+            <dc:title><![CDATA[How to train early-career scientists to weather failure]]></dc:title>
+            <dc:creator>Laurie Udesky</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02168-6</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-30; | doi:10.1038/d41586-023-02168-6</dc:source>
+            <dc:date>2023-06-30</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02168-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02168-6</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02093-8">
+            <title><![CDATA[Australia to prescribe MDMA and psilocybin for PTSD and depression in world first]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02093-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 30 June 2023; <a href="https://www.nature.com/articles/d41586-023-02093-8">doi:10.1038/d41586-023-02093-8</a></p>Decision to make the previously illicit drugs available is dogged by suggestions the decision was rushed.]]></content:encoded>
+            <dc:title><![CDATA[Australia to prescribe MDMA and psilocybin for PTSD and depression in world first]]></dc:title>
+            <dc:creator>Rich  Haridy</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02093-8</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-30; | doi:10.1038/d41586-023-02093-8</dc:source>
+            <dc:date>2023-06-30</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02093-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02093-8</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06363-3">
             <title><![CDATA[Quantum metric-induced nonlinear transport in a topological antiferromagnet]]></title>
@@ -301,7 +346,7 @@
             <title><![CDATA[New COVID jabs are coming — who should get them?]]></title>
             <link>https://www.nature.com/articles/d41586-023-02188-2</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 29 June 2023; <a href="https://www.nature.com/articles/d41586-023-02188-2">doi:10.1038/d41586-023-02188-2</a></p>Countries rolling out updated vaccines weigh whether to restrict them to high-risk individuals.]]></content:encoded>
+                <![CDATA[<p>Nature, Published online: 29 June 2023; <a href="https://www.nature.com/articles/d41586-023-02188-2">doi:10.1038/d41586-023-02188-2</a></p>Countries rolling out updated vaccines weigh up whether to restrict them to high-risk individuals.]]></content:encoded>
             <dc:title><![CDATA[New COVID jabs are coming — who should get them?]]></dc:title>
             <dc:creator>Max Kozlov</dc:creator>
             <dc:identifier>doi:10.1038/d41586-023-02188-2</dc:identifier>
@@ -1255,51 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02151-1</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02151-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02156-w">
-            <title><![CDATA[Mars mission snaps striking ultraviolet view — image of the week]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02156-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 27 June 2023; <a href="https://www.nature.com/articles/d41586-023-02156-w">doi:10.1038/d41586-023-02156-w</a></p>The spacecraft is boosting understanding of the Martian surface and atmosphere.]]></content:encoded>
-            <dc:title><![CDATA[Mars mission snaps striking ultraviolet view — image of the week]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-02156-w</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-27; | doi:10.1038/d41586-023-02156-w</dc:source>
-            <dc:date>2023-06-27</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02156-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02156-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02036-3">
-            <title><![CDATA[Autism research: GATFAR coordinator responds]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02036-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 27 June 2023; <a href="https://www.nature.com/articles/d41586-023-02036-3">doi:10.1038/d41586-023-02036-3</a></p>Autism research: GATFAR coordinator responds]]></content:encoded>
-            <dc:title><![CDATA[Autism research: GATFAR coordinator responds]]></dc:title>
-            <dc:creator>Heta Pukki</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02036-3</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-27; | doi:10.1038/d41586-023-02036-3</dc:source>
-            <dc:date>2023-06-27</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02036-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02036-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02034-5">
-            <title><![CDATA[Germany: luring drivers onto public transport]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02034-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 27 June 2023; <a href="https://www.nature.com/articles/d41586-023-02034-5">doi:10.1038/d41586-023-02034-5</a></p>Germany: luring drivers onto public transport]]></content:encoded>
-            <dc:title><![CDATA[Germany: luring drivers onto public transport]]></dc:title>
-            <dc:creator>Mark A. Andor</dc:creator><dc:creator>Fabian T. Dehos</dc:creator><dc:creator>Kenneth T. Gillingham</dc:creator><dc:creator>Sven Hansteen</dc:creator><dc:creator>Lukas Tomberg</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02034-5</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-27; | doi:10.1038/d41586-023-02034-5</dc:source>
-            <dc:date>2023-06-27</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02034-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02034-5</prism:url>
         </item>
     
 </rdf:RDF>
