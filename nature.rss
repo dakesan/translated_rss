@@ -18,7 +18,21 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02090-x"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02173-9"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02198-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02081-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02203-6"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02194-4"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02124-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02157-9"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02168-6"/>
                 
@@ -49,6 +63,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06356-2"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06351-7"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06182-6"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06345-5"/>
                 
@@ -110,8 +126,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06255-6"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06182-6"/>
-                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06246-7"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06265-4"/>
@@ -154,20 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02051-4"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02004-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01787-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06368-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06354-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02035-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02033-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02151-1"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,96 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02090-x">
+            <title><![CDATA[Mini-antibodies given mighty powers can stave off influenza]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02090-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 30 June 2023; <a href="https://www.nature.com/articles/d41586-023-02090-x">doi:10.1038/d41586-023-02090-x</a></p>Complexes formed from ‘nanobodies’ and an antiviral drug halt infection in its tracks.]]></content:encoded>
+            <dc:title><![CDATA[Mini-antibodies given mighty powers can stave off influenza]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-02090-x</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-30; | doi:10.1038/d41586-023-02090-x</dc:source>
+            <dc:date>2023-06-30</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02090-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02090-x</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02173-9">
+            <title><![CDATA[A robotic raspberry teaches machines how to pick fruit]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02173-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 30 June 2023; <a href="https://www.nature.com/articles/d41586-023-02173-9">doi:10.1038/d41586-023-02173-9</a></p>This fake raspberry allows researchers to train fruit-picking robots in the lab before field tests.]]></content:encoded>
+            <dc:title><![CDATA[A robotic raspberry teaches machines how to pick fruit]]></dc:title>
+            <dc:creator>Shamini Bundell</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02173-9</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-30; | doi:10.1038/d41586-023-02173-9</dc:source>
+            <dc:date>2023-06-30</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02173-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02173-9</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02198-0">
+            <title><![CDATA[First glimpses inside octopus’s sleeping brains reveals human-like patterns]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02198-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 30 June 2023; <a href="https://www.nature.com/articles/d41586-023-02198-0">doi:10.1038/d41586-023-02198-0</a></p>Neural activity show an ‘active’ sleep stage similar to REM sleep in mammals.]]></content:encoded>
+            <dc:title><![CDATA[First glimpses inside octopus’s sleeping brains reveals human-like patterns]]></dc:title>
+            <dc:creator>Shamini Bundell</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02198-0</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-30; | doi:10.1038/d41586-023-02198-0</dc:source>
+            <dc:date>2023-06-30</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02198-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02198-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02081-y">
+            <title><![CDATA[Audio long read: ‘Almost magical’ — chemists can now move single atoms in and out of a molecule’s core]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02081-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 30 June 2023; <a href="https://www.nature.com/articles/d41586-023-02081-y">doi:10.1038/d41586-023-02081-y</a></p>Methods to insert, swap or delete atoms in the backbones of molecules could transform medicinal chemistry.]]></content:encoded>
+            <dc:title><![CDATA[Audio long read: ‘Almost magical’ — chemists can now move single atoms in and out of a molecule’s core]]></dc:title>
+            <dc:creator>Mark Peplow</dc:creator><dc:creator>Benjamin Thompson</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02081-y</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-30; | doi:10.1038/d41586-023-02081-y</dc:source>
+            <dc:date>2023-06-30</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02081-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02081-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02203-6">
+            <title><![CDATA[Giant gravitational waves: why scientists are so excited]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02203-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 30 June 2023; <a href="https://www.nature.com/articles/d41586-023-02203-6">doi:10.1038/d41586-023-02203-6</a></p>Astrophysicists describe what galaxy-wide gravitational waves could mean for our understanding of black holes and the history of the cosmos.]]></content:encoded>
+            <dc:title><![CDATA[Giant gravitational waves: why scientists are so excited]]></dc:title>
+            <dc:creator>Davide Castelvecchi</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02203-6</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-30; | doi:10.1038/d41586-023-02203-6</dc:source>
+            <dc:date>2023-06-30</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02203-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02203-6</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02194-4">
+            <title><![CDATA[Euclid launch: dark-energy mapper poised to probe cosmic mysteries]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02194-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 30 June 2023; <a href="https://www.nature.com/articles/d41586-023-02194-4">doi:10.1038/d41586-023-02194-4</a></p>The European craft could help to investigate why the Universe’s expansion is accelerating, along with other cosmic questions.]]></content:encoded>
+            <dc:title><![CDATA[Euclid launch: dark-energy mapper poised to probe cosmic mysteries]]></dc:title>
+            <dc:creator>Davide Castelvecchi</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02194-4</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-30; | doi:10.1038/d41586-023-02194-4</dc:source>
+            <dc:date>2023-06-30</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02194-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02194-4</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-02124-4">
             <title><![CDATA[Tasmanian devil cancer vaccine approved for testing]]></title>
@@ -190,6 +280,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02124-4</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02124-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02157-9">
+            <title><![CDATA[These six distant galaxies captured by JWST are wowing astronomers]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02157-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 30 June 2023; <a href="https://www.nature.com/articles/d41586-023-02157-9">doi:10.1038/d41586-023-02157-9</a></p>See researchers’ favourites from a survey of the deep Universe by the James Webb Space Telescope.]]></content:encoded>
+            <dc:title><![CDATA[These six distant galaxies captured by JWST are wowing astronomers]]></dc:title>
+            <dc:creator>Alexandra Witze</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02157-9</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-30; | doi:10.1038/d41586-023-02157-9</dc:source>
+            <dc:date>2023-06-30</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02157-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02157-9</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-02168-6">
@@ -415,6 +520,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/s41586-023-06351-7</prism:doi>
             <prism:url>https://www.nature.com/articles/s41586-023-06351-7</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-023-06182-6">
+            <title><![CDATA[Femtosecond proton transfer in urea solutions probed by X-ray spectroscopy]]></title>
+            <link>https://www.nature.com/articles/s41586-023-06182-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 June 2023; <a href="https://www.nature.com/articles/s41586-023-06182-6">doi:10.1038/s41586-023-06182-6</a></p>The potential of water-window X-ray absorption spectroscopy for disentangling individual aspects of the respective electronic and structural dynamics in ultrafast non-adiabatic dynamics of molecular systems in a liquid environment is established.]]></content:encoded>
+            <dc:title><![CDATA[Femtosecond proton transfer in urea solutions probed by X-ray spectroscopy]]></dc:title>
+            <dc:creator>Zhong Yin</dc:creator><dc:creator>Yi-Ping Chang</dc:creator><dc:creator>Tadas Balčiūnas</dc:creator><dc:creator>Yashoj Shakya</dc:creator><dc:creator>Aleksa Djorović</dc:creator><dc:creator>Geoffrey Gaulier</dc:creator><dc:creator>Giuseppe Fazio</dc:creator><dc:creator>Robin Santra</dc:creator><dc:creator>Ludger Inhester</dc:creator><dc:creator>Jean-Pierre Wolf</dc:creator><dc:creator>Hans Jakob Wörner</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-023-06182-6</dc:identifier>
+            <dc:source>Nature, Published online: 2023-06-28; | doi:10.1038/s41586-023-06182-6</dc:source>
+            <dc:date>2023-06-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-023-06182-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-023-06182-6</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06345-5">
@@ -867,21 +987,6 @@
             <prism:url>https://www.nature.com/articles/s41586-023-06255-6</prism:url>
         </item>
     
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06182-6">
-            <title><![CDATA[Femtosecond proton transfer in urea solutions probed by X-ray spectroscopy]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06182-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 28 June 2023; <a href="https://www.nature.com/articles/s41586-023-06182-6">doi:10.1038/s41586-023-06182-6</a></p>The potential of water-window X-ray absorption spectroscopy for disentangling individual aspects of the respective electronic and structural dynamics in ultrafast non-adiabatic dynamics of molecular systems in a liquid environment is established.]]></content:encoded>
-            <dc:title><![CDATA[Femtosecond proton transfer in urea solutions probed by X-ray spectroscopy]]></dc:title>
-            <dc:creator>Zhong Yin</dc:creator><dc:creator>Yi-Ping Chang</dc:creator><dc:creator>Tadas Balčiūnas</dc:creator><dc:creator>Yashoj Shakya</dc:creator><dc:creator>Aleksa Djorović</dc:creator><dc:creator>Geoffrey Gaulier</dc:creator><dc:creator>Giuseppe Fazio</dc:creator><dc:creator>Robin Santra</dc:creator><dc:creator>Ludger Inhester</dc:creator><dc:creator>Jean-Pierre Wolf</dc:creator><dc:creator>Hans Jakob Wörner</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06182-6</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-28; | doi:10.1038/s41586-023-06182-6</dc:source>
-            <dc:date>2023-06-28</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06182-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06182-6</prism:url>
-        </item>
-    
         <item rdf:about="https://www.nature.com/articles/s41586-023-06246-7">
             <title><![CDATA[Circuit coordination of opposing neuropeptide and neurotransmitter signals]]></title>
             <link>https://www.nature.com/articles/s41586-023-06246-7</link>
@@ -1195,111 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02051-4</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02051-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02004-x">
-            <title><![CDATA[World’s largest ocean ‘dead zone’ was well oxygenated during past warm period]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02004-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 28 June 2023; <a href="https://www.nature.com/articles/d41586-023-02004-x">doi:10.1038/d41586-023-02004-x</a></p>The eastern tropical Pacific Ocean, which today is a major oxygen-deficient zone, or ‘dead zone’, was well oxygenated during the Miocene warm period about 16 million years ago. This finding supports model simulations suggesting that modern oxygen loss from the ocean might eventually reverse.]]></content:encoded>
-            <dc:title><![CDATA[World’s largest ocean ‘dead zone’ was well oxygenated during past warm period]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-02004-x</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-28; | doi:10.1038/d41586-023-02004-x</dc:source>
-            <dc:date>2023-06-28</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02004-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02004-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01787-3">
-            <title><![CDATA[Insights into the genetic architecture of multiple sclerosis severity]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01787-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 28 June 2023; <a href="https://www.nature.com/articles/d41586-023-01787-3">doi:10.1038/d41586-023-01787-3</a></p>Multiple sclerosis is an autoimmune disease of the central nervous system and a common cause of chronic neurological disability in young adults. A systematic search identifies genetic variants associated with differences in severity and confirms resilience of the central nervous system to be an important determinant of outcome.]]></content:encoded>
-            <dc:title><![CDATA[Insights into the genetic architecture of multiple sclerosis severity]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-01787-3</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-28; | doi:10.1038/d41586-023-01787-3</dc:source>
-            <dc:date>2023-06-28</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01787-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01787-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06368-y">
-            <title><![CDATA[A model of the post-implantation human embryo derived from pluripotent stem cells]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06368-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 27 June 2023; <a href="https://www.nature.com/articles/s41586-023-06368-y">doi:10.1038/s41586-023-06368-y</a></p>A model of the post-implantation human embryo derived from pluripotent stem cells]]></content:encoded>
-            <dc:title><![CDATA[A model of the post-implantation human embryo derived from pluripotent stem cells]]></dc:title>
-            <dc:creator>Bailey A. T. Weatherbee</dc:creator><dc:creator>Carlos W. Gantner</dc:creator><dc:creator>Lisa K. Iwamoto-Stohl</dc:creator><dc:creator>Riza M. Daza</dc:creator><dc:creator>Nobuhiko Hamazaki</dc:creator><dc:creator>Jay Shendure</dc:creator><dc:creator>Magdalena Zernicka-Goetz</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06368-y</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-27; | doi:10.1038/s41586-023-06368-y</dc:source>
-            <dc:date>2023-06-27</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06368-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06368-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06354-4">
-            <title><![CDATA[Self-patterning of human stem cells into post-implantation lineages]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06354-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 27 June 2023; <a href="https://www.nature.com/articles/s41586-023-06354-4">doi:10.1038/s41586-023-06354-4</a></p>Self-patterning of human stem cells into post-implantation lineages]]></content:encoded>
-            <dc:title><![CDATA[Self-patterning of human stem cells into post-implantation lineages]]></dc:title>
-            <dc:creator>Monique Pedroza</dc:creator><dc:creator>Seher Ipek Gassaloglu</dc:creator><dc:creator>Nicolas Dias</dc:creator><dc:creator>Liangwen Zhong</dc:creator><dc:creator>Tien-Chi Jason Hou</dc:creator><dc:creator>Helene Kretzmer</dc:creator><dc:creator>Zachary D. Smith</dc:creator><dc:creator>Berna Sozen</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06354-4</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-27; | doi:10.1038/s41586-023-06354-4</dc:source>
-            <dc:date>2023-06-27</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06354-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06354-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02035-4">
-            <title><![CDATA[Autism: don’t negate the value of applied behaviour analysis]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02035-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 27 June 2023; <a href="https://www.nature.com/articles/d41586-023-02035-4">doi:10.1038/d41586-023-02035-4</a></p>Autism: don’t negate the value of applied behaviour analysis]]></content:encoded>
-            <dc:title><![CDATA[Autism: don’t negate the value of applied behaviour analysis]]></dc:title>
-            <dc:creator>Gina Green</dc:creator><dc:creator>Russell Lang</dc:creator><dc:creator>Henry D. Schlinger</dc:creator><dc:creator>Jason Travers</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02035-4</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-27; | doi:10.1038/d41586-023-02035-4</dc:source>
-            <dc:date>2023-06-27</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02035-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02035-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02033-6">
-            <title><![CDATA[Adaptive algorithms: users must be more vigilant]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02033-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 27 June 2023; <a href="https://www.nature.com/articles/d41586-023-02033-6">doi:10.1038/d41586-023-02033-6</a></p>Adaptive algorithms: users must be more vigilant]]></content:encoded>
-            <dc:title><![CDATA[Adaptive algorithms: users must be more vigilant]]></dc:title>
-            <dc:creator>Jian Zhang</dc:creator><dc:creator>Chunyan Hu</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02033-6</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-27; | doi:10.1038/d41586-023-02033-6</dc:source>
-            <dc:date>2023-06-27</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02033-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02033-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02151-1">
-            <title><![CDATA[Trove of new coronaviruses uncovered in bats — but threat is unclear]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02151-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 27 June 2023; <a href="https://www.nature.com/articles/d41586-023-02151-1">doi:10.1038/d41586-023-02151-1</a></p>Horseshoe bats carry viruses closely related to SARS-CoV-2, but they probably can’t spread in people yet.]]></content:encoded>
-            <dc:title><![CDATA[Trove of new coronaviruses uncovered in bats — but threat is unclear]]></dc:title>
-            <dc:creator>Ewen Callaway</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02151-1</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-27; | doi:10.1038/d41586-023-02151-1</dc:source>
-            <dc:date>2023-06-27</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02151-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02151-1</prism:url>
         </item>
     
 </rdf:RDF>
