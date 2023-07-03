@@ -18,6 +18,16 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02137-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06375-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02046-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02129-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02130-6"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02090-x"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02173-9"/>
@@ -158,16 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02053-2"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01996-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01942-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02049-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02032-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02051-4"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,81 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02137-z">
+            <title><![CDATA[This activist-academic has a passion for podcasts]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02137-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 03 July 2023; <a href="https://www.nature.com/articles/d41586-023-02137-z">doi:10.1038/d41586-023-02137-z</a></p>Anthropologist Nosipho Mngomezulu finds podcasting an authentic, immediate way to reach an audience.]]></content:encoded>
+            <dc:title><![CDATA[This activist-academic has a passion for podcasts]]></dc:title>
+            <dc:creator>Linda Nordling</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02137-z</dc:identifier>
+            <dc:source>Nature, Published online: 2023-07-03; | doi:10.1038/d41586-023-02137-z</dc:source>
+            <dc:date>2023-07-03</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02137-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02137-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-023-06375-z">
+            <title><![CDATA[Author Correction: Clonal haematopoiesis and risk of chronic liver disease]]></title>
+            <link>https://www.nature.com/articles/s41586-023-06375-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 03 July 2023; <a href="https://www.nature.com/articles/s41586-023-06375-z">doi:10.1038/s41586-023-06375-z</a></p>Author Correction: Clonal haematopoiesis and risk of chronic liver disease]]></content:encoded>
+            <dc:title><![CDATA[Author Correction: Clonal haematopoiesis and risk of chronic liver disease]]></dc:title>
+            <dc:creator>Waihay J. Wong</dc:creator><dc:creator>Connor Emdin</dc:creator><dc:creator>Alexander G. Bick</dc:creator><dc:creator>Seyedeh M. Zekavat</dc:creator><dc:creator>Abhishek Niroula</dc:creator><dc:creator>James P. Pirruccello</dc:creator><dc:creator>Laura Dichtel</dc:creator><dc:creator>Gabriel Griffin</dc:creator><dc:creator>Md Mesbah Uddin</dc:creator><dc:creator>Christopher J. Gibson</dc:creator><dc:creator>Veronica Kovalcik</dc:creator><dc:creator>Amy E. Lin</dc:creator><dc:creator>Marie E. McConkey</dc:creator><dc:creator>Amelie Vromman</dc:creator><dc:creator>Rob S. Sellar</dc:creator><dc:creator>Peter G. Kim</dc:creator><dc:creator>Mridul Agrawal</dc:creator><dc:creator>Joshua Weinstock</dc:creator><dc:creator>Michelle T. Long</dc:creator><dc:creator>Bing Yu</dc:creator><dc:creator>Rajarshi Banerjee</dc:creator><dc:creator>Rowan C. Nicholls</dc:creator><dc:creator>Andrea Dennis</dc:creator><dc:creator>Matt Kelly</dc:creator><dc:creator>Po-Ru Loh</dc:creator><dc:creator>Steve McCarroll</dc:creator><dc:creator>Eric Boerwinkle</dc:creator><dc:creator>Ramachandran S. Vasan</dc:creator><dc:creator>Siddhartha Jaiswal</dc:creator><dc:creator>Andrew D. Johnson</dc:creator><dc:creator>Raymond T. Chung</dc:creator><dc:creator>Kathleen Corey</dc:creator><dc:creator>Daniel Levy</dc:creator><dc:creator>Christie Ballantyne</dc:creator><dc:creator>Namiko Abe</dc:creator><dc:creator>Gonçalo Abecasis</dc:creator><dc:creator>Francois Aguet</dc:creator><dc:creator>Christine Albert</dc:creator><dc:creator>Laura Almasy</dc:creator><dc:creator>Alvaro Alonso</dc:creator><dc:creator>Seth Ament</dc:creator><dc:creator>Peter Anderson</dc:creator><dc:creator>Pramod Anugu</dc:creator><dc:creator>Deborah Applebaum-Bowden</dc:creator><dc:creator>Kristin Ardlie</dc:creator><dc:creator>Dan Arking</dc:creator><dc:creator>Donna K. Arnett</dc:creator><dc:creator>Allison Ashley-Koch</dc:creator><dc:creator>Stella Aslibekyan</dc:creator><dc:creator>Tim Assimes</dc:creator><dc:creator>Paul Auer</dc:creator><dc:creator>Dimitrios Avramopoulos</dc:creator><dc:creator>Najib Ayas</dc:creator><dc:creator>Adithya Balasubramanian</dc:creator><dc:creator>John Barnard</dc:creator><dc:creator>Kathleen Barnes</dc:creator><dc:creator>R. Graham Barr</dc:creator><dc:creator>Emily Barron-Casella</dc:creator><dc:creator>Lucas Barwick</dc:creator><dc:creator>Terri Beaty</dc:creator><dc:creator>Gerald Beck</dc:creator><dc:creator>Diane Becker</dc:creator><dc:creator>Lewis Becker</dc:creator><dc:creator>Rebecca Beer</dc:creator><dc:creator>Amber Beitelshees</dc:creator><dc:creator>Emelia Benjamin</dc:creator><dc:creator>Takis Benos</dc:creator><dc:creator>Marcos Bezerra</dc:creator><dc:creator>Larry Bielak</dc:creator><dc:creator>Joshua Bis</dc:creator><dc:creator>Thomas Blackwell</dc:creator><dc:creator>John Blangero</dc:creator><dc:creator>Nathan Blue</dc:creator><dc:creator>Donald W. Bowden</dc:creator><dc:creator>Russell Bowler</dc:creator><dc:creator>Jennifer Brody</dc:creator><dc:creator>Ulrich Broeckel</dc:creator><dc:creator>Jai Broome</dc:creator><dc:creator>Deborah Brown</dc:creator><dc:creator>Karen Bunting</dc:creator><dc:creator>Esteban Burchard</dc:creator><dc:creator>Carlos Bustamante</dc:creator><dc:creator>Erin Buth</dc:creator><dc:creator>Brian Cade</dc:creator><dc:creator>Jonathan Cardwell</dc:creator><dc:creator>Vincent Carey</dc:creator><dc:creator>Julie Carrier</dc:creator><dc:creator>April P. Carson</dc:creator><dc:creator>Cara Carty</dc:creator><dc:creator>Richard Casaburi</dc:creator><dc:creator>Juan P. Casas Romero</dc:creator><dc:creator>James Casella</dc:creator><dc:creator>Peter Castaldi</dc:creator><dc:creator>Mark Chaffin</dc:creator><dc:creator>Christy Chang</dc:creator><dc:creator>Yi-Cheng Chang</dc:creator><dc:creator>Daniel Chasman</dc:creator><dc:creator>Sameer Chavan</dc:creator><dc:creator>Bo-Juen Chen</dc:creator><dc:creator>Wei-Min Chen</dc:creator><dc:creator>Yii-Der Ida Chen</dc:creator><dc:creator>Michael Cho</dc:creator><dc:creator>Seung Hoan Choi</dc:creator><dc:creator>Lee-Ming Chuang</dc:creator><dc:creator>Mina Chung</dc:creator><dc:creator>Ren-Hua Chung</dc:creator><dc:creator>Clary Clish</dc:creator><dc:creator>Suzy Comhair</dc:creator><dc:creator>Matthew Conomos</dc:creator><dc:creator>Elaine Cornell</dc:creator><dc:creator>Adolfo Correa</dc:creator><dc:creator>Carolyn Crandall</dc:creator><dc:creator>James Crapo</dc:creator><dc:creator>L. Adrienne Cupples</dc:creator><dc:creator>Joanne Curran</dc:creator><dc:creator>Jeffrey Curtis</dc:creator><dc:creator>Brian Custer</dc:creator><dc:creator>Coleen Damcott</dc:creator><dc:creator>Dawood Darbar</dc:creator><dc:creator>Sean David</dc:creator><dc:creator>Colleen Davis</dc:creator><dc:creator>Michelle Daya</dc:creator><dc:creator>Mariza de Andrade</dc:creator><dc:creator>Lisa de las Fuentes</dc:creator><dc:creator>Paul de Vries</dc:creator><dc:creator>Michael DeBaun</dc:creator><dc:creator>Ranjan Deka</dc:creator><dc:creator>Dawn DeMeo</dc:creator><dc:creator>Scott Devine</dc:creator><dc:creator>Huyen Dinh</dc:creator><dc:creator>Harsha Doddapaneni</dc:creator><dc:creator>Qing Duan</dc:creator><dc:creator>Shannon Dugan-Perez</dc:creator><dc:creator>Ravi Duggirala</dc:creator><dc:creator>Jon Peter Durda</dc:creator><dc:creator>Susan K. Dutcher</dc:creator><dc:creator>Charles Eaton</dc:creator><dc:creator>Lynette Ekunwe</dc:creator><dc:creator>Adel El Boueiz</dc:creator><dc:creator>Patrick Ellinor</dc:creator><dc:creator>Leslie Emery</dc:creator><dc:creator>Serpil Erzurum</dc:creator><dc:creator>Charles Farber</dc:creator><dc:creator>Jesse Farek</dc:creator><dc:creator>Tasha Fingerlin</dc:creator><dc:creator>Matthew Flickinger</dc:creator><dc:creator>Myriam Fornage</dc:creator><dc:creator>Nora Franceschini</dc:creator><dc:creator>Chris Frazar</dc:creator><dc:creator>Mao Fu</dc:creator><dc:creator>Stephanie M. Fullerton</dc:creator><dc:creator>Lucinda Fulton</dc:creator><dc:creator>Stacey Gabriel</dc:creator><dc:creator>Weiniu Gan</dc:creator><dc:creator>Shanshan Gao</dc:creator><dc:creator>Yan Gao</dc:creator><dc:creator>Margery Gass</dc:creator><dc:creator>Heather Geiger</dc:creator><dc:creator>Bruce Gelb</dc:creator><dc:creator>Mark Geraci</dc:creator><dc:creator>Soren Germer</dc:creator><dc:creator>Robert Gerszten</dc:creator><dc:creator>Auyon Ghosh</dc:creator><dc:creator>Richard Gibbs</dc:creator><dc:creator>Chris Gignoux</dc:creator><dc:creator>Mark Gladwin</dc:creator><dc:creator>David Glahn</dc:creator><dc:creator>Stephanie Gogarten</dc:creator><dc:creator>Da-Wei Gong</dc:creator><dc:creator>Harald Goring</dc:creator><dc:creator>Sharon Graw</dc:creator><dc:creator>Kathryn J. Gray</dc:creator><dc:creator>Daniel Grine</dc:creator><dc:creator>Colin Gross</dc:creator><dc:creator>C. Charles Gu</dc:creator><dc:creator>Yue Guan</dc:creator><dc:creator>Xiuqing Guo</dc:creator><dc:creator>Namrata Gupta</dc:creator><dc:creator>Jeff Haessler</dc:creator><dc:creator>Michael Hall</dc:creator><dc:creator>Yi Han</dc:creator><dc:creator>Patrick Hanly</dc:creator><dc:creator>Daniel Harris</dc:creator><dc:creator>Nicola L. Hawley</dc:creator><dc:creator>Jiang He</dc:creator><dc:creator>Ben Heavner</dc:creator><dc:creator>Susan Heckbert</dc:creator><dc:creator>Ryan Hernandez</dc:creator><dc:creator>David Herrington</dc:creator><dc:creator>Craig Hersh</dc:creator><dc:creator>Bertha Hidalgo</dc:creator><dc:creator>James Hixson</dc:creator><dc:creator>Brian Hobbs</dc:creator><dc:creator>John Hokanson</dc:creator><dc:creator>Elliott Hong</dc:creator><dc:creator>Karin Hoth</dc:creator><dc:creator>Chao (Agnes) Hsiung</dc:creator><dc:creator>Jianhong Hu</dc:creator><dc:creator>Yi-Jen Hung</dc:creator><dc:creator>Haley Huston</dc:creator><dc:creator>Chii Min Hwu</dc:creator><dc:creator>Marguerite Ryan Irvin</dc:creator><dc:creator>Rebecca Jackson</dc:creator><dc:creator>Deepti Jain</dc:creator><dc:creator>Cashell Jaquish</dc:creator><dc:creator>Jill Johnsen</dc:creator><dc:creator>Craig Johnson</dc:creator><dc:creator>Rich Johnston</dc:creator><dc:creator>Kimberly Jones</dc:creator><dc:creator>Hyun Min Kang</dc:creator><dc:creator>Robert Kaplan</dc:creator><dc:creator>Sharon Kardia</dc:creator><dc:creator>Shannon Kelly</dc:creator><dc:creator>Eimear Kenny</dc:creator><dc:creator>Michael Kessler</dc:creator><dc:creator>Alyna Khan</dc:creator><dc:creator>Ziad Khan</dc:creator><dc:creator>Wonji Kim</dc:creator><dc:creator>John Kimoff</dc:creator><dc:creator>Greg Kinney</dc:creator><dc:creator>Barbara Konkle</dc:creator><dc:creator>Charles Kooperberg</dc:creator><dc:creator>Holly Kramer</dc:creator><dc:creator>Christoph Lange</dc:creator><dc:creator>Ethan Lange</dc:creator><dc:creator>Leslie Lange</dc:creator><dc:creator>Cathy Laurie</dc:creator><dc:creator>Cecelia Laurie</dc:creator><dc:creator>Meryl LeBoff</dc:creator><dc:creator>Jiwon Lee</dc:creator><dc:creator>Sandra Lee</dc:creator><dc:creator>Wen-Jane Lee</dc:creator><dc:creator>Jonathon LeFaive</dc:creator><dc:creator>David Levine</dc:creator><dc:creator>Joshua Lewis</dc:creator><dc:creator>Xiaohui Li</dc:creator><dc:creator>Yun Li</dc:creator><dc:creator>Henry Lin</dc:creator><dc:creator>Honghuang Lin</dc:creator><dc:creator>Xihong Lin</dc:creator><dc:creator>Simin Liu</dc:creator><dc:creator>Yongmei Liu</dc:creator><dc:creator>Yu Liu</dc:creator><dc:creator>Ruth J. F. Loos</dc:creator><dc:creator>Steven Lubitz</dc:creator><dc:creator>Kathryn Lunetta</dc:creator><dc:creator>James Luo</dc:creator><dc:creator>Ulysses Magalang</dc:creator><dc:creator>Michael Mahaney</dc:creator><dc:creator>Barry Make</dc:creator><dc:creator>Ani Manichaikul</dc:creator><dc:creator>Alisa Manning</dc:creator><dc:creator>JoAnn Manson</dc:creator><dc:creator>Lisa Martin</dc:creator><dc:creator>Melissa Marton</dc:creator><dc:creator>Susan Mathai</dc:creator><dc:creator>Rasika Mathias</dc:creator><dc:creator>Susanne May</dc:creator><dc:creator>Patrick McArdle</dc:creator><dc:creator>Merry-Lynn McDonald</dc:creator><dc:creator>Sean McFarland</dc:creator><dc:creator>Stephen McGarvey</dc:creator><dc:creator>Daniel McGoldrick</dc:creator><dc:creator>Caitlin McHugh</dc:creator><dc:creator>Becky McNeil</dc:creator><dc:creator>Hao Mei</dc:creator><dc:creator>James Meigs</dc:creator><dc:creator>Vipin Menon</dc:creator><dc:creator>Luisa Mestroni</dc:creator><dc:creator>Ginger Metcalf</dc:creator><dc:creator>Deborah A. Meyers</dc:creator><dc:creator>Emmanuel Mignot</dc:creator><dc:creator>Julie Mikulla</dc:creator><dc:creator>Nancy Min</dc:creator><dc:creator>Mollie Minear</dc:creator><dc:creator>Ryan L. Minster</dc:creator><dc:creator>Braxton D. Mitchell</dc:creator><dc:creator>Matt Moll</dc:creator><dc:creator>Zeineen Momin</dc:creator><dc:creator>May E. Montasser</dc:creator><dc:creator>Courtney Montgomery</dc:creator><dc:creator>Donna Muzny</dc:creator><dc:creator>Josyf C. Mychaleckyj</dc:creator><dc:creator>Girish Nadkarni</dc:creator><dc:creator>Rakhi Naik</dc:creator><dc:creator>Take Naseri</dc:creator><dc:creator>Sergei Nekhai</dc:creator><dc:creator>Sarah C. Nelson</dc:creator><dc:creator>Bonnie Neltner</dc:creator><dc:creator>Caitlin Nessner</dc:creator><dc:creator>Deborah Nickerson</dc:creator><dc:creator>Osuji Nkechinyere</dc:creator><dc:creator>Kari North</dc:creator><dc:creator>Jeff O’Connell</dc:creator><dc:creator>Tim O’Connor</dc:creator><dc:creator>Heather Ochs-Balcom</dc:creator><dc:creator>Geoffrey Okwuonu</dc:creator><dc:creator>Allan Pack</dc:creator><dc:creator>David T. Paik</dc:creator><dc:creator>Nicholette Palmer</dc:creator><dc:creator>James Pankow</dc:creator><dc:creator>George Papanicolaou</dc:creator><dc:creator>Cora Parker</dc:creator><dc:creator>Gina Peloso</dc:creator><dc:creator>Juan Manuel Peralta</dc:creator><dc:creator>Marco Perez</dc:creator><dc:creator>James Perry</dc:creator><dc:creator>Ulrike Peters</dc:creator><dc:creator>Patricia Peyser</dc:creator><dc:creator>Lawrence S. Phillips</dc:creator><dc:creator>Jacob Pleiness</dc:creator><dc:creator>Toni Pollin</dc:creator><dc:creator>Wendy Post</dc:creator><dc:creator>Julia Powers Becker</dc:creator><dc:creator>Meher Preethi Boorgula</dc:creator><dc:creator>Michael Preuss</dc:creator><dc:creator>Bruce Psaty</dc:creator><dc:creator>Pankaj Qasba</dc:creator><dc:creator>Dandi Qiao</dc:creator><dc:creator>Zhaohui Qin</dc:creator><dc:creator>Nicholas Rafaels</dc:creator><dc:creator>Laura Raffield</dc:creator><dc:creator>Mahitha Rajendran</dc:creator><dc:creator>D. C. Rao</dc:creator><dc:creator>Laura Rasmussen-Torvik</dc:creator><dc:creator>Aakrosh Ratan</dc:creator><dc:creator>Susan Redline</dc:creator><dc:creator>Robert Reed</dc:creator><dc:creator>Catherine Reeves</dc:creator><dc:creator>Elizabeth Regan</dc:creator><dc:creator>Alex Reiner</dc:creator><dc:creator>Muagututi‘a Sefuiva Reupena</dc:creator><dc:creator>Ken Rice</dc:creator><dc:creator>Stephen Rich</dc:creator><dc:creator>Rebecca Robillard</dc:creator><dc:creator>Nicolas Robine</dc:creator><dc:creator>Dan Roden</dc:creator><dc:creator>Carolina Roselli</dc:creator><dc:creator>Jerome Rotter</dc:creator><dc:creator>Ingo Ruczinski</dc:creator><dc:creator>Alexi Runnels</dc:creator><dc:creator>Pamela Russell</dc:creator><dc:creator>Sarah Ruuska</dc:creator><dc:creator>Kathleen Ryan</dc:creator><dc:creator>Ester Cerdeira Sabino</dc:creator><dc:creator>Danish Saleheen</dc:creator><dc:creator>Shabnam Salimi</dc:creator><dc:creator>Sejal Salvi</dc:creator><dc:creator>Steven Salzberg</dc:creator><dc:creator>Kevin Sandow</dc:creator><dc:creator>Vijay G. Sankaran</dc:creator><dc:creator>Jireh Santibanez</dc:creator><dc:creator>Karen Schwander</dc:creator><dc:creator>David Schwartz</dc:creator><dc:creator>Frank Sciurba</dc:creator><dc:creator>Christine Seidman</dc:creator><dc:creator>Jonathan Seidman</dc:creator><dc:creator>Frédéric Sériès</dc:creator><dc:creator>Vivien Sheehan</dc:creator><dc:creator>Stephanie L. Sherman</dc:creator><dc:creator>Amol Shetty</dc:creator><dc:creator>Aniket Shetty</dc:creator><dc:creator>Wayne Hui-Heng Sheu</dc:creator><dc:creator>M. Benjamin Shoemaker</dc:creator><dc:creator>Brian Silver</dc:creator><dc:creator>Edwin Silverman</dc:creator><dc:creator>Robert Skomro</dc:creator><dc:creator>Albert Vernon Smith</dc:creator><dc:creator>Jennifer Smith</dc:creator><dc:creator>Josh Smith</dc:creator><dc:creator>Nicholas Smith</dc:creator><dc:creator>Tanja Smith</dc:creator><dc:creator>Sylvia Smoller</dc:creator><dc:creator>Beverly Snively</dc:creator><dc:creator>Michael Snyder</dc:creator><dc:creator>Tamar Sofer</dc:creator><dc:creator>Nona Sotoodehnia</dc:creator><dc:creator>Adrienne M. Stilp</dc:creator><dc:creator>Garrett Storm</dc:creator><dc:creator>Elizabeth Streeten</dc:creator><dc:creator>Jessica Lasky Su</dc:creator><dc:creator>Yun Ju Sung</dc:creator><dc:creator>Jody Sylvia</dc:creator><dc:creator>Adam Szpiro</dc:creator><dc:creator>Daniel Taliun</dc:creator><dc:creator>Hua Tang</dc:creator><dc:creator>Margaret Taub</dc:creator><dc:creator>Kent D. Taylor</dc:creator><dc:creator>Matthew Taylor</dc:creator><dc:creator>Simeon Taylor</dc:creator><dc:creator>Marilyn Telen</dc:creator><dc:creator>Timothy A. Thornton</dc:creator><dc:creator>Machiko Threlkeld</dc:creator><dc:creator>Lesley Tinker</dc:creator><dc:creator>David Tirschwell</dc:creator><dc:creator>Sarah Tishkoff</dc:creator><dc:creator>Hemant Tiwari</dc:creator><dc:creator>Catherine Tong</dc:creator><dc:creator>Russell Tracy</dc:creator><dc:creator>Michael Tsai</dc:creator><dc:creator>Dhananjay Vaidya</dc:creator><dc:creator>David Van Den Berg</dc:creator><dc:creator>Peter VandeHaar</dc:creator><dc:creator>Scott Vrieze</dc:creator><dc:creator>Tarik Walker</dc:creator><dc:creator>Robert Wallace</dc:creator><dc:creator>Avram Walts</dc:creator><dc:creator>Fei Fei Wang</dc:creator><dc:creator>Heming Wang</dc:creator><dc:creator>Jiongming Wang</dc:creator><dc:creator>Karol Watson</dc:creator><dc:creator>Jennifer Watt</dc:creator><dc:creator>Daniel E. Weeks</dc:creator><dc:creator>Bruce Weir</dc:creator><dc:creator>Scott T. Weiss</dc:creator><dc:creator>Lu-Chen Weng</dc:creator><dc:creator>Jennifer Wessel</dc:creator><dc:creator>Cristen Willer</dc:creator><dc:creator>Kayleen Williams</dc:creator><dc:creator>L. Keoki Williams</dc:creator><dc:creator>Scott Williams</dc:creator><dc:creator>Carla Wilson</dc:creator><dc:creator>James Wilson</dc:creator><dc:creator>Lara Winterkorn</dc:creator><dc:creator>Quenna Wong</dc:creator><dc:creator>Joseph Wu</dc:creator><dc:creator>Huichun Xu</dc:creator><dc:creator>Lisa Yanek</dc:creator><dc:creator>Ivana Yang</dc:creator><dc:creator>Ketian Yu</dc:creator><dc:creator>Yingze Zhang</dc:creator><dc:creator>Snow Xueyan Zhao</dc:creator><dc:creator>Wei Zhao</dc:creator><dc:creator>Xiaofeng Zhu</dc:creator><dc:creator>Elad Ziv</dc:creator><dc:creator>Michael Zody</dc:creator><dc:creator>Sebastian Zoellner</dc:creator><dc:creator>Benjamin L. Ebert</dc:creator><dc:creator>Pradeep Natarajan</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-023-06375-z</dc:identifier>
+            <dc:source>Nature, Published online: 2023-07-03; | doi:10.1038/s41586-023-06375-z</dc:source>
+            <dc:date>2023-07-03</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-023-06375-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-023-06375-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02046-1">
+            <title><![CDATA[Incredible view of the Milky Way and more — June’s best science images]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02046-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 03 July 2023; <a href="https://www.nature.com/articles/d41586-023-02046-1">doi:10.1038/d41586-023-02046-1</a></p>The month’s sharpest science shots — selected by Nature’s photo team.]]></content:encoded>
+            <dc:title><![CDATA[Incredible view of the Milky Way and more — June’s best science images]]></dc:title>
+            <dc:creator>Emma Stoye</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02046-1</dc:identifier>
+            <dc:source>Nature, Published online: 2023-07-03; | doi:10.1038/d41586-023-02046-1</dc:source>
+            <dc:date>2023-07-03</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02046-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02046-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02129-z">
+            <title><![CDATA[Why economic crashes boost globalization — and tear it apart]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02129-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 03 July 2023; <a href="https://www.nature.com/articles/d41586-023-02129-z">doi:10.1038/d41586-023-02129-z</a></p>Responses to financial crashes, pandemics and other crises spur progress, through cycles of inward and outward change.]]></content:encoded>
+            <dc:title><![CDATA[Why economic crashes boost globalization — and tear it apart]]></dc:title>
+            <dc:creator>Mark Buchanan</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02129-z</dc:identifier>
+            <dc:source>Nature, Published online: 2023-07-03; | doi:10.1038/d41586-023-02129-z</dc:source>
+            <dc:date>2023-07-03</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02129-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02129-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02130-6">
+            <title><![CDATA[COVID-19 digital contact tracing worked — heed the lessons for future pandemics]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02130-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 03 July 2023; <a href="https://www.nature.com/articles/d41586-023-02130-6">doi:10.1038/d41586-023-02130-6</a></p>For all the controversy over decentralized contact-tracing apps, data show that these privacy-preserving tools saved thousands of lives during the pandemic. National and international authorities must invest in the technology now.]]></content:encoded>
+            <dc:title><![CDATA[COVID-19 digital contact tracing worked — heed the lessons for future pandemics]]></dc:title>
+            <dc:creator>Marcel Salathé</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02130-6</dc:identifier>
+            <dc:source>Nature, Published online: 2023-07-03; | doi:10.1038/d41586-023-02130-6</dc:source>
+            <dc:date>2023-07-03</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02130-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02130-6</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-02090-x">
             <title><![CDATA[Mini-antibodies given mighty powers can stave off influenza]]></title>
@@ -1225,81 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02053-2</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02053-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01996-w">
-            <title><![CDATA[Widespread pair density waves spark superconductor search]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01996-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 28 June 2023; <a href="https://www.nature.com/articles/d41586-023-01996-w">doi:10.1038/d41586-023-01996-w</a></p>Periodic waves of changing electron density are linked to the ability of some materials to conduct electricity without resistance. Four studies reveal that such waves could emerge in more materials than expected.]]></content:encoded>
-            <dc:title><![CDATA[Widespread pair density waves spark superconductor search]]></dc:title>
-            <dc:creator>Hui Chen</dc:creator><dc:creator>Hong-Jun Gao</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01996-w</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-28; | doi:10.1038/d41586-023-01996-w</dc:source>
-            <dc:date>2023-06-28</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01996-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01996-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01942-w">
-            <title><![CDATA[A human protein that holds bird flu viruses at bay]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01942-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 28 June 2023; <a href="https://www.nature.com/articles/d41586-023-01942-w">doi:10.1038/d41586-023-01942-w</a></p>Avian influenza A viruses that can cross the species barrier could cause the next pandemic. Mutations in the viral genome have now been found that can overcome a newly discovered antiviral protein, BTN3A3, in human cells.]]></content:encoded>
-            <dc:title><![CDATA[A human protein that holds bird flu viruses at bay]]></dc:title>
-            <dc:creator>Laura Graf</dc:creator><dc:creator>Peter Staeheli</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01942-w</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-28; | doi:10.1038/d41586-023-01942-w</dc:source>
-            <dc:date>2023-06-28</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01942-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01942-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02049-y">
-            <title><![CDATA[Monoclonal antibodies show promise for malaria prevention]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02049-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 28 June 2023; <a href="https://www.nature.com/articles/d41586-023-02049-y">doi:10.1038/d41586-023-02049-y</a></p>Immunologist Robert Seder and malaria epidemiologist Kassoum Kayentao talk to Nature about their work and how they think the parasitic disease could be controlled in the future.]]></content:encoded>
-            <dc:title><![CDATA[Monoclonal antibodies show promise for malaria prevention]]></dc:title>
-            <dc:creator>Cassandra Willyard</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02049-y</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-28; | doi:10.1038/d41586-023-02049-y</dc:source>
-            <dc:date>2023-06-28</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02049-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02049-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02032-7">
-            <title><![CDATA[Start-ups are adding antacids to the ocean to slow global warming. Will it work?]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02032-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 28 June 2023; <a href="https://www.nature.com/articles/d41586-023-02032-7">doi:10.1038/d41586-023-02032-7</a></p>A New York experiment is part of a commercial race to develop ocean-based technologies to extract carbon dioxide from the atmosphere.]]></content:encoded>
-            <dc:title><![CDATA[Start-ups are adding antacids to the ocean to slow global warming. Will it work?]]></dc:title>
-            <dc:creator>Jeff Tollefson</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02032-7</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-28; | doi:10.1038/d41586-023-02032-7</dc:source>
-            <dc:date>2023-06-28</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02032-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02032-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02051-4">
-            <title><![CDATA[How genetically modified mosquitoes could eradicate malaria]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02051-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 28 June 2023; <a href="https://www.nature.com/articles/d41586-023-02051-4">doi:10.1038/d41586-023-02051-4</a></p>Gene-drive technology that can spread antimalarial modifications throughout mosquito populations is maturing, but there are questions to answer before it can be used in the wild.]]></content:encoded>
-            <dc:title><![CDATA[How genetically modified mosquitoes could eradicate malaria]]></dc:title>
-            <dc:creator>Sam Jones</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02051-4</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-28; | doi:10.1038/d41586-023-02051-4</dc:source>
-            <dc:date>2023-06-28</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02051-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02051-4</prism:url>
         </item>
     
 </rdf:RDF>
