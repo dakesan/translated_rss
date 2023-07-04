@@ -18,6 +18,8 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06386-w"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02137-z"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06375-z"/>
@@ -27,6 +29,12 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02129-z"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02130-6"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02210-7"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02206-3"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02216-1"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02090-x"/>
                 
@@ -160,14 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02067-w"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02050-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02001-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02098-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02053-2"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,21 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-023-06386-w">
+            <title><![CDATA[Publisher Correction: Physiology and diseases of tissue-resident macrophages]]></title>
+            <link>https://www.nature.com/articles/s41586-023-06386-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 03 July 2023; <a href="https://www.nature.com/articles/s41586-023-06386-w">doi:10.1038/s41586-023-06386-w</a></p>Publisher Correction: Physiology and diseases of tissue-resident macrophages]]></content:encoded>
+            <dc:title><![CDATA[Publisher Correction: Physiology and diseases of tissue-resident macrophages]]></dc:title>
+            <dc:creator>Tomi Lazarov</dc:creator><dc:creator>Sergio Juarez-Carreño</dc:creator><dc:creator>Nehemiah Cox</dc:creator><dc:creator>Frederic Geissmann</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-023-06386-w</dc:identifier>
+            <dc:source>Nature, Published online: 2023-07-03; | doi:10.1038/s41586-023-06386-w</dc:source>
+            <dc:date>2023-07-03</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-023-06386-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-023-06386-w</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-02137-z">
             <title><![CDATA[This activist-academic has a passion for podcasts]]></title>
@@ -250,6 +265,51 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02130-6</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02130-6</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02210-7">
+            <title><![CDATA[How pandemic lockdowns changed workplace friendships]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02210-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 03 July 2023; <a href="https://www.nature.com/articles/d41586-023-02210-7">doi:10.1038/d41586-023-02210-7</a></p>Hybrid work environments have altered how we connect with colleagues. But building work friendships can protect against burnout and make you more productive.]]></content:encoded>
+            <dc:title><![CDATA[How pandemic lockdowns changed workplace friendships]]></dc:title>
+            <dc:creator>Lola Brown</dc:creator><dc:creator>Ruth Gotian</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02210-7</dc:identifier>
+            <dc:source>Nature, Published online: 2023-07-03; | doi:10.1038/d41586-023-02210-7</dc:source>
+            <dc:date>2023-07-03</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02210-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02210-7</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02206-3">
+            <title><![CDATA[US Supreme Court on affirmative action: a bitter blow to educational inclusion]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02206-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 03 July 2023; <a href="https://www.nature.com/articles/d41586-023-02206-3">doi:10.1038/d41586-023-02206-3</a></p>The highest US court’s decision that race cannot be considered in university admissions risks rolling back what little progress has been made on racial equaity in the sector.]]></content:encoded>
+            <dc:title><![CDATA[US Supreme Court on affirmative action: a bitter blow to educational inclusion]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-02206-3</dc:identifier>
+            <dc:source>Nature, Published online: 2023-07-03; | doi:10.1038/d41586-023-02206-3</dc:source>
+            <dc:date>2023-07-03</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02206-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02206-3</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02216-1">
+            <title><![CDATA[Preprints become papers less often when the authors are from lower-income countries]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02216-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 03 July 2023; <a href="https://www.nature.com/articles/d41586-023-02216-1">doi:10.1038/d41586-023-02216-1</a></p>A lack of financial resources is likely to be one of the key factors preventing the transition.]]></content:encoded>
+            <dc:title><![CDATA[Preprints become papers less often when the authors are from lower-income countries]]></dc:title>
+            <dc:creator>Dalmeet Singh Chawla</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02216-1</dc:identifier>
+            <dc:source>Nature, Published online: 2023-07-03; | doi:10.1038/d41586-023-02216-1</dc:source>
+            <dc:date>2023-07-03</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02216-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02216-1</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-02090-x">
@@ -1240,66 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02067-w</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02067-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02050-5">
-            <title><![CDATA[Malaria: highlights from research]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02050-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 28 June 2023; <a href="https://www.nature.com/articles/d41586-023-02050-5">doi:10.1038/d41586-023-02050-5</a></p>A mosquito hibernation mystery solved, parasites grown in dishes for the first time, and other studies and trials.]]></content:encoded>
-            <dc:title><![CDATA[Malaria: highlights from research]]></dc:title>
-            <dc:creator>Laura Vargas-Parada</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02050-5</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-28; | doi:10.1038/d41586-023-02050-5</dc:source>
-            <dc:date>2023-06-28</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02050-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02050-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02001-0">
-            <title><![CDATA[Global warming intensifies rainfall in mountainous regions]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02001-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 28 June 2023; <a href="https://www.nature.com/articles/d41586-023-02001-0">doi:10.1038/d41586-023-02001-0</a></p>As the climate warms, the amount of atmospheric water vapour increases and the type of precipitation shifts towards more rain and less snow. These two mechanisms amplify the intensity of rainfall extremes in high-elevation regions by 15% per degree Celsius of warming, approximately double the previously reported rate.]]></content:encoded>
-            <dc:title><![CDATA[Global warming intensifies rainfall in mountainous regions]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-02001-0</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-28; | doi:10.1038/d41586-023-02001-0</dc:source>
-            <dc:date>2023-06-28</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02001-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02001-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02098-3">
-            <title><![CDATA[A decades-long decline in extreme poverty has gone into reverse — here’s how to fix things]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02098-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 28 June 2023; <a href="https://www.nature.com/articles/d41586-023-02098-3">doi:10.1038/d41586-023-02098-3</a></p>Factors ranging from COVID-19 to Russia’s war in Ukraine are increasing extreme poverty. Finding effective solutions starts with agreeing on how to measure what poverty means.]]></content:encoded>
-            <dc:title><![CDATA[A decades-long decline in extreme poverty has gone into reverse — here’s how to fix things]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-02098-3</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-28; | doi:10.1038/d41586-023-02098-3</dc:source>
-            <dc:date>2023-06-28</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02098-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02098-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02053-2">
-            <title><![CDATA[In search of a vaccine for <i>Plasmodium vivax</i> malaria]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02053-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 28 June 2023; <a href="https://www.nature.com/articles/d41586-023-02053-2">doi:10.1038/d41586-023-02053-2</a></p>Vaccinologist Arturo Reyes-Sandoval explains how researchers are edging closer to a much-needed vaccine.]]></content:encoded>
-            <dc:title><![CDATA[In search of a vaccine for <i>Plasmodium vivax</i> malaria]]></dc:title>
-            <dc:creator>Laura Vargas-Parada</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02053-2</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-28; | doi:10.1038/d41586-023-02053-2</dc:source>
-            <dc:date>2023-06-28</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02053-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02053-2</prism:url>
         </item>
     
 </rdf:RDF>
