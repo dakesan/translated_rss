@@ -18,6 +18,12 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02241-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02217-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02218-z"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02146-y"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02144-0"/>
@@ -162,12 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02090-x"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02203-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02194-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02093-8"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,51 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02241-0">
+            <title><![CDATA[The future of water, and 150 years of invisibility: Books in brief]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02241-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 07 July 2023; <a href="https://www.nature.com/articles/d41586-023-02241-0">doi:10.1038/d41586-023-02241-0</a></p>Andrew Robinson reviews five of the best science picks.]]></content:encoded>
+            <dc:title><![CDATA[The future of water, and 150 years of invisibility: Books in brief]]></dc:title>
+            <dc:creator>Andrew Robinson</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02241-0</dc:identifier>
+            <dc:source>Nature, Published online: 2023-07-07; | doi:10.1038/d41586-023-02241-0</dc:source>
+            <dc:date>2023-07-07</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02241-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02241-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02217-0">
+            <title><![CDATA[India shoots for the Moon with Chandrayaan-3 lunar lander]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02217-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 07 July 2023; <a href="https://www.nature.com/articles/d41586-023-02217-0">doi:10.1038/d41586-023-02217-0</a></p>The Moon’s south pole is in India’s sights as the nation prepares to launch a robotic lander and explorer.]]></content:encoded>
+            <dc:title><![CDATA[India shoots for the Moon with Chandrayaan-3 lunar lander]]></dc:title>
+            <dc:creator>T.V. Padma</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02217-0</dc:identifier>
+            <dc:source>Nature, Published online: 2023-07-07; | doi:10.1038/d41586-023-02217-0</dc:source>
+            <dc:date>2023-07-07</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02217-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02217-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02218-z">
+            <title><![CDATA[Scientists used ChatGPT to generate an entire paper from scratch — but is it any good?]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02218-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 07 July 2023; <a href="https://www.nature.com/articles/d41586-023-02218-z">doi:10.1038/d41586-023-02218-z</a></p>By holding the chatbot’s hand at every step, researchers produced a paper that was fluent and insightful. Yet they still have concerns.]]></content:encoded>
+            <dc:title><![CDATA[Scientists used ChatGPT to generate an entire paper from scratch — but is it any good?]]></dc:title>
+            <dc:creator>Gemma Conroy</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02218-z</dc:identifier>
+            <dc:source>Nature, Published online: 2023-07-07; | doi:10.1038/d41586-023-02218-z</dc:source>
+            <dc:date>2023-07-07</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02218-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02218-z</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-02146-y">
             <title><![CDATA[Great bolts of lightning foretell Earth-warming clouds]]></title>
@@ -1255,51 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02090-x</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02090-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02203-6">
-            <title><![CDATA[Giant gravitational waves: why scientists are so excited]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02203-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 30 June 2023; <a href="https://www.nature.com/articles/d41586-023-02203-6">doi:10.1038/d41586-023-02203-6</a></p>Astrophysicists describe what galaxy-wide gravitational waves could mean for our understanding of black holes and the history of the cosmos.]]></content:encoded>
-            <dc:title><![CDATA[Giant gravitational waves: why scientists are so excited]]></dc:title>
-            <dc:creator>Davide Castelvecchi</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02203-6</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-30; | doi:10.1038/d41586-023-02203-6</dc:source>
-            <dc:date>2023-06-30</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02203-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02203-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02194-4">
-            <title><![CDATA[Euclid launch: dark-energy mapper poised to probe cosmic mysteries]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02194-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 30 June 2023; <a href="https://www.nature.com/articles/d41586-023-02194-4">doi:10.1038/d41586-023-02194-4</a></p>The European craft could help to investigate why the Universe’s expansion is accelerating, along with other cosmic questions.]]></content:encoded>
-            <dc:title><![CDATA[Euclid launch: dark-energy mapper poised to probe cosmic mysteries]]></dc:title>
-            <dc:creator>Davide Castelvecchi</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02194-4</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-30; | doi:10.1038/d41586-023-02194-4</dc:source>
-            <dc:date>2023-06-30</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02194-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02194-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02093-8">
-            <title><![CDATA[Australia to prescribe MDMA and psilocybin for PTSD and depression in world first]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02093-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 30 June 2023; <a href="https://www.nature.com/articles/d41586-023-02093-8">doi:10.1038/d41586-023-02093-8</a></p>Decision to make the previously illicit drugs available is dogged by suggestions that it was rushed.]]></content:encoded>
-            <dc:title><![CDATA[Australia to prescribe MDMA and psilocybin for PTSD and depression in world first]]></dc:title>
-            <dc:creator>Rich  Haridy</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02093-8</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-30; | doi:10.1038/d41586-023-02093-8</dc:source>
-            <dc:date>2023-06-30</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02093-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02093-8</prism:url>
         </item>
     
 </rdf:RDF>
