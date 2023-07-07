@@ -18,6 +18,16 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02146-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02144-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02143-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02222-3"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02239-8"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06379-9"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06385-x"/>
@@ -82,6 +92,8 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02209-0"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02237-w"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02022-9"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02136-0"/>
@@ -105,6 +117,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02133-3"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02131-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02224-1"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02135-1"/>
                 
@@ -130,6 +144,8 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02206-3"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02220-5"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02216-1"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02129-z"/>
@@ -152,22 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02093-8"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02157-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02211-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06284-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06363-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02202-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02122-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01900-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02205-4"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,81 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02146-y">
+            <title><![CDATA[Great bolts of lightning foretell Earth-warming clouds]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02146-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 July 2023; <a href="https://www.nature.com/articles/d41586-023-02146-y">doi:10.1038/d41586-023-02146-y</a></p>Coverage of wispy cirrus clouds is linked to episodes of electrical activity.]]></content:encoded>
+            <dc:title><![CDATA[Great bolts of lightning foretell Earth-warming clouds]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-02146-y</dc:identifier>
+            <dc:source>Nature, Published online: 2023-07-06; | doi:10.1038/d41586-023-02146-y</dc:source>
+            <dc:date>2023-07-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02146-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02146-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02144-0">
+            <title><![CDATA[COVID variants exploited air travel for swift spread]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02144-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 July 2023; <a href="https://www.nature.com/articles/d41586-023-02144-0">doi:10.1038/d41586-023-02144-0</a></p>Nations with large volumes of outgoing air traffic accounted for a high proportion of variant exports.]]></content:encoded>
+            <dc:title><![CDATA[COVID variants exploited air travel for swift spread]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-02144-0</dc:identifier>
+            <dc:source>Nature, Published online: 2023-07-06; | doi:10.1038/d41586-023-02144-0</dc:source>
+            <dc:date>2023-07-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02144-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02144-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02143-1">
+            <title><![CDATA[‘4D printed’ objects morph and flex thanks to a metallic ink]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02143-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 July 2023; <a href="https://www.nature.com/articles/d41586-023-02143-1">doi:10.1038/d41586-023-02143-1</a></p>A flat metal structure printed with an innovative copper-based ink turns into a 3D spider.]]></content:encoded>
+            <dc:title><![CDATA[‘4D printed’ objects morph and flex thanks to a metallic ink]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-02143-1</dc:identifier>
+            <dc:source>Nature, Published online: 2023-07-06; | doi:10.1038/d41586-023-02143-1</dc:source>
+            <dc:date>2023-07-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02143-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02143-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02222-3">
+            <title><![CDATA[Developing human embryos imaged at highest-ever resolution]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02222-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 July 2023; <a href="https://www.nature.com/articles/d41586-023-02222-3">doi:10.1038/d41586-023-02222-3</a></p>Non-invasive imaging approach could lead to innovations in embryo screening.]]></content:encoded>
+            <dc:title><![CDATA[Developing human embryos imaged at highest-ever resolution]]></dc:title>
+            <dc:creator>Miryam Naddaf</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02222-3</dc:identifier>
+            <dc:source>Nature, Published online: 2023-07-06; | doi:10.1038/d41586-023-02222-3</dc:source>
+            <dc:date>2023-07-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02222-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02222-3</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02239-8">
+            <title><![CDATA[Sweden’s researchers outraged at decision to axe development-research funding]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02239-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 July 2023; <a href="https://www.nature.com/articles/d41586-023-02239-8">doi:10.1038/d41586-023-02239-8</a></p>Sudden move could derail collaborations that have taken decades to build, scientists say.]]></content:encoded>
+            <dc:title><![CDATA[Sweden’s researchers outraged at decision to axe development-research funding]]></dc:title>
+            <dc:creator>Marta Paterlini</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02239-8</dc:identifier>
+            <dc:source>Nature, Published online: 2023-07-06; | doi:10.1038/d41586-023-02239-8</dc:source>
+            <dc:date>2023-07-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02239-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02239-8</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06379-9">
             <title><![CDATA[Author Correction: Quantifying hierarchy and dynamics in US faculty hiring and retention]]></title>
@@ -583,11 +658,11 @@
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-02219-y">
-            <title><![CDATA[‘We haven’t seen this’: June’s record-smashing temperatures — in data]]></title>
+            <title><![CDATA[June’s record-smashing temperatures — in data]]></title>
             <link>https://www.nature.com/articles/d41586-023-02219-y</link>
             <content:encoded>
                 <![CDATA[<p>Nature, Published online: 05 July 2023; <a href="https://www.nature.com/articles/d41586-023-02219-y">doi:10.1038/d41586-023-02219-y</a></p>Extreme heat across land and sea has led to disastrous consequences in some regions.]]></content:encoded>
-            <dc:title><![CDATA[‘We haven’t seen this’: June’s record-smashing temperatures — in data]]></dc:title>
+            <dc:title><![CDATA[June’s record-smashing temperatures — in data]]></dc:title>
             <dc:creator>Katharine Sanderson</dc:creator>
             <dc:identifier>doi:10.1038/d41586-023-02219-y</dc:identifier>
             <dc:source>Nature, Published online: 2023-07-05; | doi:10.1038/d41586-023-02219-y</dc:source>
@@ -655,6 +730,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02209-0</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02209-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02237-w">
+            <title><![CDATA[Daily briefing: Epic view of the Milky Way tops the month’s best science images]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02237-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 05 July 2023; <a href="https://www.nature.com/articles/d41586-023-02237-w">doi:10.1038/d41586-023-02237-w</a></p>Space mission return and mini lungs among this month’s sharpest science shots. Plus, average global temperature broke records twice in a row and what to eat instead of meat.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Epic view of the Milky Way tops the month’s best science images]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02237-w</dc:identifier>
+            <dc:source>Nature, Published online: 2023-07-05; | doi:10.1038/d41586-023-02237-w</dc:source>
+            <dc:date>2023-07-05</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02237-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02237-w</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-02022-9">
@@ -837,6 +927,21 @@
             <prism:url>https://www.nature.com/articles/d41586-023-02131-5</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02224-1">
+            <title><![CDATA[Daily briefing: Longevity protein boosts ageing monkeys’ memories]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02224-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 04 July 2023; <a href="https://www.nature.com/articles/d41586-023-02224-1">doi:10.1038/d41586-023-02224-1</a></p>Injecting monkeys with a ‘longevity’ protein can improve their cognitive function — hinting at possible treatments for neurodegenerative diseases in people. Plus, time in the early Universe seems to run at 20% speed and why economic crashes boost globalization.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Longevity protein boosts ageing monkeys’ memories]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02224-1</dc:identifier>
+            <dc:source>Nature, Published online: 2023-07-04; | doi:10.1038/d41586-023-02224-1</dc:source>
+            <dc:date>2023-07-04</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02224-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02224-1</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-023-02135-1">
             <title><![CDATA[Viruses trick bystander cells into lowering their defences]]></title>
             <link>https://www.nature.com/articles/d41586-023-02135-1</link>
@@ -1017,6 +1122,21 @@
             <prism:url>https://www.nature.com/articles/d41586-023-02206-3</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02220-5">
+            <title><![CDATA[Daily briefing: Six mind-bogglingly distant galaxies that are wowing astronomers]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02220-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 03 July 2023; <a href="https://www.nature.com/articles/d41586-023-02220-5">doi:10.1038/d41586-023-02220-5</a></p>One of the biggest and deepest astronomical surveys carried out by the James Webb Space Telescope has identified some of the earliest galaxies ever seen. Plus, a robotic raspberry teaches machines how to pick fruit and why NIH postdoc numbers are dropping.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Six mind-bogglingly distant galaxies that are wowing astronomers]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02220-5</dc:identifier>
+            <dc:source>Nature, Published online: 2023-07-03; | doi:10.1038/d41586-023-02220-5</dc:source>
+            <dc:date>2023-07-03</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02220-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02220-5</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-023-02216-1">
             <title><![CDATA[Preprints become papers less often when the authors are from lower-income countries]]></title>
             <link>https://www.nature.com/articles/d41586-023-02216-1</link>
@@ -1180,126 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02093-8</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02093-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02157-9">
-            <title><![CDATA[These six distant galaxies captured by JWST are wowing astronomers]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02157-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 30 June 2023; <a href="https://www.nature.com/articles/d41586-023-02157-9">doi:10.1038/d41586-023-02157-9</a></p>See researchers’ favourites from a survey of the deep Universe by the James Webb Space Telescope.]]></content:encoded>
-            <dc:title><![CDATA[These six distant galaxies captured by JWST are wowing astronomers]]></dc:title>
-            <dc:creator>Alexandra Witze</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02157-9</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-30; | doi:10.1038/d41586-023-02157-9</dc:source>
-            <dc:date>2023-06-30</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02157-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02157-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02211-6">
-            <title><![CDATA[Daily briefing: Australia will be first to prescribe these psychedelics as medicines]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02211-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 30 June 2023; <a href="https://www.nature.com/articles/d41586-023-02211-6">doi:10.1038/d41586-023-02211-6</a></p>MDMA and psilocybin can now be prescribed by approved psychiatrists in Australia. Plus, US Supreme Court ends affirmative action at universities and what we need to know about the El Niño weather event.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: Australia will be first to prescribe these psychedelics as medicines]]></dc:title>
-            <dc:creator>Flora Graham</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02211-6</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-30; | doi:10.1038/d41586-023-02211-6</dc:source>
-            <dc:date>2023-06-30</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02211-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02211-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06284-1">
-            <title><![CDATA[Author Correction: Non-transcriptional control of DNA replication by c-Myc]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06284-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 29 June 2023; <a href="https://www.nature.com/articles/s41586-023-06284-1">doi:10.1038/s41586-023-06284-1</a></p>Author Correction: Non-transcriptional control of DNA replication by c-Myc]]></content:encoded>
-            <dc:title><![CDATA[Author Correction: Non-transcriptional control of DNA replication by c-Myc]]></dc:title>
-            <dc:creator>David Dominguez-Sola</dc:creator><dc:creator>Carol Y. Ying</dc:creator><dc:creator>Carla Grandori</dc:creator><dc:creator>Luca Ruggiero</dc:creator><dc:creator>Brenden Chen</dc:creator><dc:creator>Muyang Li</dc:creator><dc:creator>Denise A. Galloway</dc:creator><dc:creator>Wei Gu</dc:creator><dc:creator>Jean Gautier</dc:creator><dc:creator>Riccardo Dalla-Favera</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06284-1</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-29; | doi:10.1038/s41586-023-06284-1</dc:source>
-            <dc:date>2023-06-29</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06284-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06284-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06363-3">
-            <title><![CDATA[Quantum metric-induced nonlinear transport in a topological antiferromagnet]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06363-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 29 June 2023; <a href="https://www.nature.com/articles/s41586-023-06363-3">doi:10.1038/s41586-023-06363-3</a></p>Quantum metric-induced nonlinear transport in a topological antiferromagnet]]></content:encoded>
-            <dc:title><![CDATA[Quantum metric-induced nonlinear transport in a topological antiferromagnet]]></dc:title>
-            <dc:creator>Naizhou Wang</dc:creator><dc:creator>Daniel Kaplan</dc:creator><dc:creator>Zhaowei Zhang</dc:creator><dc:creator>Tobias Holder</dc:creator><dc:creator>Ning Cao</dc:creator><dc:creator>Aifeng Wang</dc:creator><dc:creator>Xiaoyuan Zhou</dc:creator><dc:creator>Feifei Zhou</dc:creator><dc:creator>Zhengzhi Jiang</dc:creator><dc:creator>Chusheng Zhang</dc:creator><dc:creator>Shihao Ru</dc:creator><dc:creator>Hongbing Cai</dc:creator><dc:creator>Kenji Watanabe</dc:creator><dc:creator>Takashi Taniguchi</dc:creator><dc:creator>Binghai Yan</dc:creator><dc:creator>Weibo Gao</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06363-3</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-29; | doi:10.1038/s41586-023-06363-3</dc:source>
-            <dc:date>2023-06-29</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06363-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06363-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02202-7">
-            <title><![CDATA[Postdoctoral researchers warn NIH that cost-of-living pressures are gutting the workforce]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02202-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 29 June 2023; <a href="https://www.nature.com/articles/d41586-023-02202-7">doi:10.1038/d41586-023-02202-7</a></p>Pay and benefits top the list of concerns identified by US working group.]]></content:encoded>
-            <dc:title><![CDATA[Postdoctoral researchers warn NIH that cost-of-living pressures are gutting the workforce]]></dc:title>
-            <dc:creator>Virginia Gewin</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02202-7</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-29; | doi:10.1038/d41586-023-02202-7</dc:source>
-            <dc:date>2023-06-29</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02202-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02202-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02122-6">
-            <title><![CDATA[El Niño is here — how bad will it be?]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02122-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 29 June 2023; <a href="https://www.nature.com/articles/d41586-023-02122-6">doi:10.1038/d41586-023-02122-6</a></p>The strong climate pattern could push global temperatures to record highs.]]></content:encoded>
-            <dc:title><![CDATA[El Niño is here — how bad will it be?]]></dc:title>
-            <dc:creator>Alexandra Witze</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02122-6</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-29; | doi:10.1038/d41586-023-02122-6</dc:source>
-            <dc:date>2023-06-29</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02122-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02122-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01900-6">
-            <title><![CDATA[US to end race-based university admissions: what now for diversity in science?]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01900-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 29 June 2023; <a href="https://www.nature.com/articles/d41586-023-01900-6">doi:10.1038/d41586-023-01900-6</a></p>Researchers talk to Nature about how halting race-conscious admissions will affect STEM employment, university applications and more.]]></content:encoded>
-            <dc:title><![CDATA[US to end race-based university admissions: what now for diversity in science?]]></dc:title>
-            <dc:creator>Helen Santoro</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01900-6</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-29; | doi:10.1038/d41586-023-01900-6</dc:source>
-            <dc:date>2023-06-29</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01900-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01900-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02205-4">
-            <title><![CDATA[Foldseek gives AlphaFold protein database a rapid search tool]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02205-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 29 June 2023; <a href="https://www.nature.com/articles/d41586-023-02205-4">doi:10.1038/d41586-023-02205-4</a></p>The structural search program makes finding proteins with similar 3D shapes easy.]]></content:encoded>
-            <dc:title><![CDATA[Foldseek gives AlphaFold protein database a rapid search tool]]></dc:title>
-            <dc:creator>Matthew Hutson</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02205-4</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-29; | doi:10.1038/d41586-023-02205-4</dc:source>
-            <dc:date>2023-06-29</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02205-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02205-4</prism:url>
         </item>
     
 </rdf:RDF>
