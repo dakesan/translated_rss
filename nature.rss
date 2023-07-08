@@ -30,6 +30,10 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02143-1"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02233-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02243-y"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02222-3"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02239-8"/>
@@ -164,10 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02124-4"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02168-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02090-x"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -265,6 +265,36 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02143-1</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02143-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02233-0">
+            <title><![CDATA[Even moderate heat strains the human heart]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02233-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 July 2023; <a href="https://www.nature.com/articles/d41586-023-02233-0">doi:10.1038/d41586-023-02233-0</a></p>People can experience cardiovascular strain — a progressive increase in heart rate — before their internal temperatures are affected.]]></content:encoded>
+            <dc:title><![CDATA[Even moderate heat strains the human heart]]></dc:title>
+            <dc:creator>Mariana Lenharo</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02233-0</dc:identifier>
+            <dc:source>Nature, Published online: 2023-07-06; | doi:10.1038/d41586-023-02233-0</dc:source>
+            <dc:date>2023-07-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02233-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02233-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02243-y">
+            <title><![CDATA[Daily briefing: ‘Overweight’ BMI might be set too low]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02243-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 July 2023; <a href="https://www.nature.com/articles/d41586-023-02243-y">doi:10.1038/d41586-023-02243-y</a></p>People with an ‘overweight’ body mass index live longer than those with one in the ‘healthy’ range. Plus, a beautiful blob fossil illuminates the origin of vertebrates and disinformation researchers are facing scrutiny in the United States.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: ‘Overweight’ BMI might be set too low]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02243-y</dc:identifier>
+            <dc:source>Nature, Published online: 2023-07-06; | doi:10.1038/d41586-023-02243-y</dc:source>
+            <dc:date>2023-07-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02243-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02243-y</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-02222-3">
@@ -1270,36 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02124-4</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02124-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02168-6">
-            <title><![CDATA[How to train early-career scientists to weather failure]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02168-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 30 June 2023; <a href="https://www.nature.com/articles/d41586-023-02168-6">doi:10.1038/d41586-023-02168-6</a></p>Workshops and training programmes tackle failure and how to recover from it.]]></content:encoded>
-            <dc:title><![CDATA[How to train early-career scientists to weather failure]]></dc:title>
-            <dc:creator>Laurie Udesky</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02168-6</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-30; | doi:10.1038/d41586-023-02168-6</dc:source>
-            <dc:date>2023-06-30</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02168-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02168-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02090-x">
-            <title><![CDATA[Mini-antibodies given mighty powers can stave off influenza]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02090-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 30 June 2023; <a href="https://www.nature.com/articles/d41586-023-02090-x">doi:10.1038/d41586-023-02090-x</a></p>Complexes formed from ‘nanobodies’ and an antiviral drug halt infection in its tracks.]]></content:encoded>
-            <dc:title><![CDATA[Mini-antibodies given mighty powers can stave off influenza]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-02090-x</dc:identifier>
-            <dc:source>Nature, Published online: 2023-06-30; | doi:10.1038/d41586-023-02090-x</dc:source>
-            <dc:date>2023-06-30</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02090-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02090-x</prism:url>
         </item>
     
 </rdf:RDF>
