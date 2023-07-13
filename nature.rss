@@ -96,6 +96,8 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02262-9"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02305-1"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01998-8"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02154-y"/>
@@ -165,8 +167,6 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02241-0"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02217-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02264-7"/>
                 
             </rdf:Seq>
         </items>
@@ -762,6 +762,21 @@
             <prism:url>https://www.nature.com/articles/d41586-023-02262-9</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02305-1">
+            <title><![CDATA[Daily briefing: The CDC is in crisis — can its new leader save it?]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02305-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 12 July 2023; <a href="https://www.nature.com/articles/d41586-023-02305-1">doi:10.1038/d41586-023-02305-1</a></p>The US Centers for Disease Control and Prevention’s new leader will inherit a number of challenges, including restoring public and political support for the agency. Plus, analysis uncovers a gene linked to long COVID and sediment from a small Canadian lake could become the official marker for the Anthropocene.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: The CDC is in crisis — can its new leader save it?]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02305-1</dc:identifier>
+            <dc:source>Nature, Published online: 2023-07-12; | doi:10.1038/d41586-023-02305-1</dc:source>
+            <dc:date>2023-07-12</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02305-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02305-1</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-023-01998-8">
             <title><![CDATA[A picture of plant functional diversity on an oceanic island]]></title>
             <link>https://www.nature.com/articles/d41586-023-01998-8</link>
@@ -1285,21 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02217-0</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02217-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02264-7">
-            <title><![CDATA[Daily briefing: The pros and cons of writing a paper with ChatGPT]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02264-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 07 July 2023; <a href="https://www.nature.com/articles/d41586-023-02264-7">doi:10.1038/d41586-023-02264-7</a></p>Researchers test the AI’s capabilities as a research ‘co-pilot’ for writing a paper from scratch. Plus, how even a ‘minimal cell’ can evolve to grow stronger and the most-detailed images yet of human embryos developing in real time.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: The pros and cons of writing a paper with ChatGPT]]></dc:title>
-            <dc:creator>Flora Graham</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02264-7</dc:identifier>
-            <dc:source>Nature, Published online: 2023-07-07; | doi:10.1038/d41586-023-02264-7</dc:source>
-            <dc:date>2023-07-07</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02264-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02264-7</prism:url>
         </item>
     
 </rdf:RDF>
