@@ -18,6 +18,16 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02257-6"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02329-7"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02290-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02306-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02324-y"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02291-4"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02270-9"/>
@@ -158,16 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02155-x"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02242-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02153-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02265-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02138-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02268-3"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,81 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02257-6">
+            <title><![CDATA[How much snow is on Mount Everest? Scientists climbed it to find out]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02257-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 14 July 2023; <a href="https://www.nature.com/articles/d41586-023-02257-6">doi:10.1038/d41586-023-02257-6</a></p>Researchers who summited the world’s tallest peak found much more snow there than expected.]]></content:encoded>
+            <dc:title><![CDATA[How much snow is on Mount Everest? Scientists climbed it to find out]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-02257-6</dc:identifier>
+            <dc:source>Nature, Published online: 2023-07-14; | doi:10.1038/d41586-023-02257-6</dc:source>
+            <dc:date>2023-07-14</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02257-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02257-6</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02329-7">
+            <title><![CDATA[India's Moon lander successfully launches — but biggest challenge lies ahead]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02329-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 14 July 2023; <a href="https://www.nature.com/articles/d41586-023-02329-7">doi:10.1038/d41586-023-02329-7</a></p>Chandrayaan 3 will attempt to join the exclusive club of countries that have explored the lunar surface.]]></content:encoded>
+            <dc:title><![CDATA[India's Moon lander successfully launches — but biggest challenge lies ahead]]></dc:title>
+            <dc:creator>T. V. Padma</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02329-7</dc:identifier>
+            <dc:source>Nature, Published online: 2023-07-14; | doi:10.1038/d41586-023-02329-7</dc:source>
+            <dc:date>2023-07-14</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02329-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02329-7</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02290-5">
+            <title><![CDATA[Deep-sea mining could soon be approved — how bad is it?]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02290-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 14 July 2023; <a href="https://www.nature.com/articles/d41586-023-02290-5">doi:10.1038/d41586-023-02290-5</a></p>The creatures at the bottom of the ocean are little-studied, but emerging data hint at long-term damage from efforts to harvest metals on the sea floor.]]></content:encoded>
+            <dc:title><![CDATA[Deep-sea mining could soon be approved — how bad is it?]]></dc:title>
+            <dc:creator>Natasha Gilbert</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02290-5</dc:identifier>
+            <dc:source>Nature, Published online: 2023-07-14; | doi:10.1038/d41586-023-02290-5</dc:source>
+            <dc:date>2023-07-14</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02290-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02290-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02306-0">
+            <title><![CDATA[Aspartame is a possible carcinogen: the science behind the decision]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02306-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 14 July 2023; <a href="https://www.nature.com/articles/d41586-023-02306-0">doi:10.1038/d41586-023-02306-0</a></p>More research is needed to investigate a potential link between the common sweetener and cancer.]]></content:encoded>
+            <dc:title><![CDATA[Aspartame is a possible carcinogen: the science behind the decision]]></dc:title>
+            <dc:creator>Miryam Naddaf</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02306-0</dc:identifier>
+            <dc:source>Nature, Published online: 2023-07-14; | doi:10.1038/d41586-023-02306-0</dc:source>
+            <dc:date>2023-07-14</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02306-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02306-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02324-y">
+            <title><![CDATA[Daily briefing: When your laboratory burns to the ground]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02324-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 13 July 2023; <a href="https://www.nature.com/articles/d41586-023-02324-y">doi:10.1038/d41586-023-02324-y</a></p>How one research group recovered from an all-consuming fire. Plus, giant-sloth jewellery could change our understanding of human history and the oceans are turning greener owing to climate change.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: When your laboratory burns to the ground]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02324-y</dc:identifier>
+            <dc:source>Nature, Published online: 2023-07-13; | doi:10.1038/d41586-023-02324-y</dc:source>
+            <dc:date>2023-07-13</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02324-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02324-y</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-02291-4">
             <title><![CDATA[Fourteen things you need to know about collaborating with data scientists]]></title>
@@ -1225,81 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02155-x</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02155-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02242-z">
-            <title><![CDATA[Oldest genetic data from a human relative found in 2-million-year-old teeth]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02242-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 10 July 2023; <a href="https://www.nature.com/articles/d41586-023-02242-z">doi:10.1038/d41586-023-02242-z</a></p>Ancient protein sequences identify the sex of Paranthropus robustus fossils and hint at evolutionary relationships.]]></content:encoded>
-            <dc:title><![CDATA[Oldest genetic data from a human relative found in 2-million-year-old teeth]]></dc:title>
-            <dc:creator>Ewen Callaway</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02242-z</dc:identifier>
-            <dc:source>Nature, Published online: 2023-07-10; | doi:10.1038/d41586-023-02242-z</dc:source>
-            <dc:date>2023-07-10</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02242-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02242-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02153-z">
-            <title><![CDATA[How to build a circular economy for rare-earth elements]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02153-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 10 July 2023; <a href="https://www.nature.com/articles/d41586-023-02153-z">doi:10.1038/d41586-023-02153-z</a></p>Rare-earth elements that are crucial for clean-energy technologies are jealously fought over. Policies and programmes to encourage recycling and recovery could reduce tensions.]]></content:encoded>
-            <dc:title><![CDATA[How to build a circular economy for rare-earth elements]]></dc:title>
-            <dc:creator>Yong  Geng</dc:creator><dc:creator>Joseph   Sarkis</dc:creator><dc:creator>Raimund  Bleischwitz</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02153-z</dc:identifier>
-            <dc:source>Nature, Published online: 2023-07-10; | doi:10.1038/d41586-023-02153-z</dc:source>
-            <dc:date>2023-07-10</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02153-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02153-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02265-6">
-            <title><![CDATA[Why I love my postdoc position at an independent research institute]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02265-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 10 July 2023; <a href="https://www.nature.com/articles/d41586-023-02265-6">doi:10.1038/d41586-023-02265-6</a></p>Smaller, often-specialized institutes aren’t for everyone, but they helped me to find satisfaction in my academic career.]]></content:encoded>
-            <dc:title><![CDATA[Why I love my postdoc position at an independent research institute]]></dc:title>
-            <dc:creator>Alex Soto-Avellaneda </dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02265-6</dc:identifier>
-            <dc:source>Nature, Published online: 2023-07-10; | doi:10.1038/d41586-023-02265-6</dc:source>
-            <dc:date>2023-07-10</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02265-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02265-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02138-y">
-            <title><![CDATA[How centuries of sexism excluded women from science — and how to redress the balance]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02138-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 10 July 2023; <a href="https://www.nature.com/articles/d41586-023-02138-y">doi:10.1038/d41586-023-02138-y</a></p>Physicist Athene Donald’s research was dismissed as ‘cookery’. Now she’s written a primer on how to fight back.]]></content:encoded>
-            <dc:title><![CDATA[How centuries of sexism excluded women from science — and how to redress the balance]]></dc:title>
-            <dc:creator>Karly  Pitman</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02138-y</dc:identifier>
-            <dc:source>Nature, Published online: 2023-07-10; | doi:10.1038/d41586-023-02138-y</dc:source>
-            <dc:date>2023-07-10</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02138-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02138-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02268-3">
-            <title><![CDATA[Daily briefing: Sweden cuts all public funding for international-development research]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02268-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 10 July 2023; <a href="https://www.nature.com/articles/d41586-023-02268-3">doi:10.1038/d41586-023-02268-3</a></p>The Swedish government wants to prioritize aid to Ukraine, but scientists say it’s confusing humanitarian needs with development research. Plus, air temperatures as low as 34 °C can strain the heart under humid conditions, and how to build a circular economy for rare-earth elements.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: Sweden cuts all public funding for international-development research]]></dc:title>
-            <dc:creator>Flora Graham</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02268-3</dc:identifier>
-            <dc:source>Nature, Published online: 2023-07-10; | doi:10.1038/d41586-023-02268-3</dc:source>
-            <dc:date>2023-07-10</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02268-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02268-3</prism:url>
         </item>
     
 </rdf:RDF>
