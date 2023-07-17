@@ -18,6 +18,12 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02301-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02307-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02317-x"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02257-6"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02329-7"/>
@@ -25,6 +31,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02290-5"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02306-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02339-5"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02324-y"/>
                 
@@ -160,14 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02249-6"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02251-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06380-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02255-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02155-x"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,51 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02301-5">
+            <title><![CDATA[To save bears, we must learn to live alongside them]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02301-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 17 July 2023; <a href="https://www.nature.com/articles/d41586-023-02301-5">doi:10.1038/d41586-023-02301-5</a></p>With urban areas expanding and climate change shrinking bears’ habitats, the animals’ interactions with humans will make — or break — efforts to preserve their populations.]]></content:encoded>
+            <dc:title><![CDATA[To save bears, we must learn to live alongside them]]></dc:title>
+            <dc:creator>Henry  Nicholls</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02301-5</dc:identifier>
+            <dc:source>Nature, Published online: 2023-07-17; | doi:10.1038/d41586-023-02301-5</dc:source>
+            <dc:date>2023-07-17</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02301-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02301-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02307-z">
+            <title><![CDATA[How better sleep can improve productivity]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02307-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 17 July 2023; <a href="https://www.nature.com/articles/d41586-023-02307-z">doi:10.1038/d41586-023-02307-z</a></p>Struggling to get a good night’s rest after a long day in the lab? Sleep specialists offer some advice.]]></content:encoded>
+            <dc:title><![CDATA[How better sleep can improve productivity]]></dc:title>
+            <dc:creator>Nikki Forrester</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02307-z</dc:identifier>
+            <dc:source>Nature, Published online: 2023-07-17; | doi:10.1038/d41586-023-02307-z</dc:source>
+            <dc:date>2023-07-17</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02307-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02307-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02317-x">
+            <title><![CDATA[How to introduce quantum computers without slowing economic growth]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02317-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 17 July 2023; <a href="https://www.nature.com/articles/d41586-023-02317-x">doi:10.1038/d41586-023-02317-x</a></p>To smooth the path of the quantum revolution, researchers and governments must predict and prepare for the traps ahead.]]></content:encoded>
+            <dc:title><![CDATA[How to introduce quantum computers without slowing economic growth]]></dc:title>
+            <dc:creator>Chander  Velu</dc:creator><dc:creator>Fathiro H. R.  Putra</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02317-x</dc:identifier>
+            <dc:source>Nature, Published online: 2023-07-17; | doi:10.1038/d41586-023-02317-x</dc:source>
+            <dc:date>2023-07-17</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02317-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02317-x</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-02257-6">
             <title><![CDATA[How much snow is on Mount Everest? Scientists climbed it to find out]]></title>
@@ -235,6 +280,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02306-0</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02306-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02339-5">
+            <title><![CDATA[Daily briefing: Birds build nests from anti-bird spikes]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02339-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 14 July 2023; <a href="https://www.nature.com/articles/d41586-023-02339-5">doi:10.1038/d41586-023-02339-5</a></p>Crows and magpies are building nests with the metal spikes meant to deter them. Plus, 14 things you need to know if you are thinking about collaborating with data scientists.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Birds build nests from anti-bird spikes]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02339-5</dc:identifier>
+            <dc:source>Nature, Published online: 2023-07-14; | doi:10.1038/d41586-023-02339-5</dc:source>
+            <dc:date>2023-07-14</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02339-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02339-5</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-02324-y">
@@ -1240,66 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02249-6</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02249-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02251-y">
-            <title><![CDATA[The best medicine for improving global health? Reduce inequality]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02251-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 11 July 2023; <a href="https://www.nature.com/articles/d41586-023-02251-y">doi:10.1038/d41586-023-02251-y</a></p>The COVID pandemic knocked back progress towards improving public health. Without addressing the underlying social and economic causes of ill health, it could completely stall.]]></content:encoded>
-            <dc:title><![CDATA[The best medicine for improving global health? Reduce inequality]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-02251-y</dc:identifier>
-            <dc:source>Nature, Published online: 2023-07-11; | doi:10.1038/d41586-023-02251-y</dc:source>
-            <dc:date>2023-07-11</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02251-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02251-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06380-2">
-            <title><![CDATA[Retraction Note: Intrinsically unidirectional chemically fuelled rotary molecular motors]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06380-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 10 July 2023; <a href="https://www.nature.com/articles/s41586-023-06380-2">doi:10.1038/s41586-023-06380-2</a></p>Retraction Note: Intrinsically unidirectional chemically fuelled rotary molecular motors]]></content:encoded>
-            <dc:title><![CDATA[Retraction Note: Intrinsically unidirectional chemically fuelled rotary molecular motors]]></dc:title>
-            <dc:creator>Ke Mo</dc:creator><dc:creator>Yu Zhang</dc:creator><dc:creator>Zheng Dong</dc:creator><dc:creator>Yuhang Yang</dc:creator><dc:creator>Xiaoqiang Ma</dc:creator><dc:creator>Ben L. Feringa</dc:creator><dc:creator>Depeng Zhao</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06380-2</dc:identifier>
-            <dc:source>Nature, Published online: 2023-07-10; | doi:10.1038/s41586-023-06380-2</dc:source>
-            <dc:date>2023-07-10</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06380-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06380-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02255-8">
-            <title><![CDATA[SpaceX satellites are leaking radio waves — a potential headache for science]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02255-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 10 July 2023; <a href="https://www.nature.com/articles/d41586-023-02255-8">doi:10.1038/d41586-023-02255-8</a></p>Unregulated radio waves emanating from satellites in the Starlink constellation could cause problems as more are launched.]]></content:encoded>
-            <dc:title><![CDATA[SpaceX satellites are leaking radio waves — a potential headache for science]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-02255-8</dc:identifier>
-            <dc:source>Nature, Published online: 2023-07-10; | doi:10.1038/d41586-023-02255-8</dc:source>
-            <dc:date>2023-07-10</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02255-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02255-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02155-x">
-            <title><![CDATA[Shining a light on mysterious underwater cave creatures]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02155-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 10 July 2023; <a href="https://www.nature.com/articles/d41586-023-02155-x">doi:10.1038/d41586-023-02155-x</a></p>Cave ecologist Fernando Calderón Gutiérrez is studying the resilience of cave-adapted species in the face of climate change and other stressors.]]></content:encoded>
-            <dc:title><![CDATA[Shining a light on mysterious underwater cave creatures]]></dc:title>
-            <dc:creator>Amanda Heidt</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02155-x</dc:identifier>
-            <dc:source>Nature, Published online: 2023-07-10; | doi:10.1038/d41586-023-02155-x</dc:source>
-            <dc:date>2023-07-10</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02155-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02155-x</prism:url>
         </item>
     
 </rdf:RDF>
