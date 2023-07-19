@@ -18,6 +18,12 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02330-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02300-6"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02296-z"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02336-8"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02235-y"/>
@@ -40,6 +46,8 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02337-7"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02359-1"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02328-8"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02299-w"/>
@@ -55,6 +63,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02309-x"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01618-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02347-5"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02321-1"/>
                 
@@ -158,16 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02305-1"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01998-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02154-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02178-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02140-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02176-6"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,51 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02330-0">
+            <title><![CDATA[The global fight for critical minerals is costly and damaging]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02330-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 19 July 2023; <a href="https://www.nature.com/articles/d41586-023-02330-0">doi:10.1038/d41586-023-02330-0</a></p>Elements such as rare-earth metals are crucial for the clean-energy transition. Sustainability, equity and security are all at risk in the rush to break China’s dominance over their production.]]></content:encoded>
+            <dc:title><![CDATA[The global fight for critical minerals is costly and damaging]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-02330-0</dc:identifier>
+            <dc:source>Nature, Published online: 2023-07-19; | doi:10.1038/d41586-023-02330-0</dc:source>
+            <dc:date>2023-07-19</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02330-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02330-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02300-6">
+            <title><![CDATA[Expeditions in post-war Colombia have found hundreds of new species. But rich ecosystems are now under threat]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02300-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 19 July 2023; <a href="https://www.nature.com/articles/d41586-023-02300-6">doi:10.1038/d41586-023-02300-6</a></p>Since Colombia’s peace agreement opened the country up, scientists have been racing to study its riches before it’s too late.]]></content:encoded>
+            <dc:title><![CDATA[Expeditions in post-war Colombia have found hundreds of new species. But rich ecosystems are now under threat]]></dc:title>
+            <dc:creator>Aisling Irwin</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02300-6</dc:identifier>
+            <dc:source>Nature, Published online: 2023-07-19; | doi:10.1038/d41586-023-02300-6</dc:source>
+            <dc:date>2023-07-19</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02300-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02300-6</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02296-z">
+            <title><![CDATA[The particle-physics breakthrough that paved the way for the Higgs boson]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02296-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 19 July 2023; <a href="https://www.nature.com/articles/d41586-023-02296-z">doi:10.1038/d41586-023-02296-z</a></p>The discovery of ‘weak neutral currents’ at Europe’s particle-physics research centre CERN 50 years ago was a decisive step towards establishing the standard model of particle physics — a journey that continues to this day.]]></content:encoded>
+            <dc:title><![CDATA[The particle-physics breakthrough that paved the way for the Higgs boson]]></dc:title>
+            <dc:creator>Pippa  Wells</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02296-z</dc:identifier>
+            <dc:source>Nature, Published online: 2023-07-19; | doi:10.1038/d41586-023-02296-z</dc:source>
+            <dc:date>2023-07-19</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02296-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02296-z</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-02336-8">
             <title><![CDATA[Can India's new billion-dollar funding agency boost research?]]></title>
@@ -342,6 +387,21 @@
             <prism:url>https://www.nature.com/articles/d41586-023-02337-7</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02359-1">
+            <title><![CDATA[Daily briefing: The chemist who survived thallium poisoning]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02359-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 18 July 2023; <a href="https://www.nature.com/articles/d41586-023-02359-1">doi:10.1038/d41586-023-02359-1</a></p>The terrifying and life-changing experience of thallium poisoning. Plus, taking part in genetic studies might be in your genes, and medicine’s problem with flawed and fake data.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: The chemist who survived thallium poisoning]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02359-1</dc:identifier>
+            <dc:source>Nature, Published online: 2023-07-18; | doi:10.1038/d41586-023-02359-1</dc:source>
+            <dc:date>2023-07-18</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02359-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02359-1</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-023-02328-8">
             <title><![CDATA[EU proposal on CRISPR-edited crops is welcome — but not enough]]></title>
             <link>https://www.nature.com/articles/d41586-023-02328-8</link>
@@ -460,6 +520,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01618-5</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01618-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02347-5">
+            <title><![CDATA[Daily briefing: Why aspartame is a possible carcinogen]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02347-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 17 July 2023; <a href="https://www.nature.com/articles/d41586-023-02347-5">doi:10.1038/d41586-023-02347-5</a></p>The WHO has classified the sweetener aspartame as ‘possibly carcinogenic’, the same category as aloe vera extracts and red meat. Plus, the evidence of how mining might affect enigmatic deep-sea ecosystems.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Why aspartame is a possible carcinogen]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02347-5</dc:identifier>
+            <dc:source>Nature, Published online: 2023-07-17; | doi:10.1038/d41586-023-02347-5</dc:source>
+            <dc:date>2023-07-17</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02347-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02347-5</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-02321-1">
@@ -1225,81 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02305-1</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02305-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01998-8">
-            <title><![CDATA[A picture of plant functional diversity on an oceanic island]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01998-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 12 July 2023; <a href="https://www.nature.com/articles/d41586-023-01998-8">doi:10.1038/d41586-023-01998-8</a></p>Extensive fieldwork reveals that island plants have similar functions to plants in other regions of the world, but that the island environment, along with biogeographical and evolutionary processes, filters the life-history characteristics and strategies of the plants, rendering the island flora functionally and ecologically distinct from others.]]></content:encoded>
-            <dc:title><![CDATA[A picture of plant functional diversity on an oceanic island]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-01998-8</dc:identifier>
-            <dc:source>Nature, Published online: 2023-07-12; | doi:10.1038/d41586-023-01998-8</dc:source>
-            <dc:date>2023-07-12</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01998-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01998-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02154-y">
-            <title><![CDATA[Germs, genes and soil: tales of pathogens past]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02154-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 12 July 2023; <a href="https://www.nature.com/articles/d41586-023-02154-y">doi:10.1038/d41586-023-02154-y</a></p>Armed with DNA sequencers and powerful computational tools, archaeogeneticists are turning their attention towards ancient microbes to give bacteria their due in human history.]]></content:encoded>
-            <dc:title><![CDATA[Germs, genes and soil: tales of pathogens past]]></dc:title>
-            <dc:creator>Amber Dance</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02154-y</dc:identifier>
-            <dc:source>Nature, Published online: 2023-07-12; | doi:10.1038/d41586-023-02154-y</dc:source>
-            <dc:date>2023-07-12</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02154-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02154-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02178-4">
-            <title><![CDATA[A sustainable way to control the parasitic disease schistosomiasis]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02178-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 12 July 2023; <a href="https://www.nature.com/articles/d41586-023-02178-4">doi:10.1038/d41586-023-02178-4</a></p>A trial in Senegal has tested an innovative method for tackling a common human parasitic disease. The approach reduced infection numbers and also offered agricultural and economic benefits.]]></content:encoded>
-            <dc:title><![CDATA[A sustainable way to control the parasitic disease schistosomiasis]]></dc:title>
-            <dc:creator>Nathan C.  Lo</dc:creator><dc:creator>Benjamin  Arnold</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02178-4</dc:identifier>
-            <dc:source>Nature, Published online: 2023-07-12; | doi:10.1038/d41586-023-02178-4</dc:source>
-            <dc:date>2023-07-12</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02178-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02178-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02140-4">
-            <title><![CDATA[A singular heart]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02140-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 12 July 2023; <a href="https://www.nature.com/articles/d41586-023-02140-4">doi:10.1038/d41586-023-02140-4</a></p>Visions of a life.]]></content:encoded>
-            <dc:title><![CDATA[A singular heart]]></dc:title>
-            <dc:creator>Preston Grassmann</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02140-4</dc:identifier>
-            <dc:source>Nature, Published online: 2023-07-12; | doi:10.1038/d41586-023-02140-4</dc:source>
-            <dc:date>2023-07-12</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02140-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02140-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02176-6">
-            <title><![CDATA[A fast quantum route to random numbers]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02176-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 12 July 2023; <a href="https://www.nature.com/articles/d41586-023-02176-6">doi:10.1038/d41586-023-02176-6</a></p>Using a quantum computer to speed up one step in a textbook approach to generating random numbers proves to be a savvy strategy, and one that could make good use of quantum computers that will be available in the near future.]]></content:encoded>
-            <dc:title><![CDATA[A fast quantum route to random numbers]]></dc:title>
-            <dc:creator>Mohan  Sarovar</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02176-6</dc:identifier>
-            <dc:source>Nature, Published online: 2023-07-12; | doi:10.1038/d41586-023-02176-6</dc:source>
-            <dc:date>2023-07-12</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02176-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02176-6</prism:url>
         </item>
     
 </rdf:RDF>
