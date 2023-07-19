@@ -18,6 +18,10 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02336-8"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02235-y"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02247-8"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02245-w"/>
@@ -25,6 +29,16 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02302-4"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02246-9"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02350-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02294-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02327-9"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02320-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02337-7"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02328-8"/>
                 
@@ -154,20 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02176-6"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01994-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02108-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02028-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02179-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06415-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02229-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02231-2"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,36 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02336-8">
+            <title><![CDATA[Can India's new billion-dollar funding agency boost research?]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02336-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 19 July 2023; <a href="https://www.nature.com/articles/d41586-023-02336-8">doi:10.1038/d41586-023-02336-8</a></p>India’s proposed National Research Foundation will shake up the scientific landscape to encourage a culture of research.]]></content:encoded>
+            <dc:title><![CDATA[Can India's new billion-dollar funding agency boost research?]]></dc:title>
+            <dc:creator>Gemma Conroy</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02336-8</dc:identifier>
+            <dc:source>Nature, Published online: 2023-07-19; | doi:10.1038/d41586-023-02336-8</dc:source>
+            <dc:date>2023-07-19</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02336-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02336-8</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02235-y">
+            <title><![CDATA[Rings of fire: centuries of tree growth show wildfires increasing in Vietnam]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02235-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 19 July 2023; <a href="https://www.nature.com/articles/d41586-023-02235-y">doi:10.1038/d41586-023-02235-y</a></p>The data suggest human activities are more to blame for the increase than climate change.]]></content:encoded>
+            <dc:title><![CDATA[Rings of fire: centuries of tree growth show wildfires increasing in Vietnam]]></dc:title>
+            <dc:creator>Jude Coleman</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02235-y</dc:identifier>
+            <dc:source>Nature, Published online: 2023-07-19; | doi:10.1038/d41586-023-02235-y</dc:source>
+            <dc:date>2023-07-19</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02235-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02235-y</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-02247-8">
             <title><![CDATA[Quantum sensors: detect heart disease sooner]]></title>
@@ -235,6 +265,81 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02246-9</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02246-9</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02350-w">
+            <title><![CDATA[How a simple celebratory gathering can offer a positive outlook]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02350-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 18 July 2023; <a href="https://www.nature.com/articles/d41586-023-02350-w">doi:10.1038/d41586-023-02350-w</a></p>My research area in the biological sciences department has a simple end-of-semester ceremony that helps us to share our successes, writes Ilinca Ciubotariu.]]></content:encoded>
+            <dc:title><![CDATA[How a simple celebratory gathering can offer a positive outlook]]></dc:title>
+            <dc:creator>Ilinca Ciubotariu</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02350-w</dc:identifier>
+            <dc:source>Nature, Published online: 2023-07-18; | doi:10.1038/d41586-023-02350-w</dc:source>
+            <dc:date>2023-07-18</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02350-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02350-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02294-1">
+            <title><![CDATA[From the archive: computer security, and a key experiment by Pascal]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02294-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 18 July 2023; <a href="https://www.nature.com/articles/d41586-023-02294-1">doi:10.1038/d41586-023-02294-1</a></p>Snippets from Nature’s past.]]></content:encoded>
+            <dc:title><![CDATA[From the archive: computer security, and a key experiment by Pascal]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-02294-1</dc:identifier>
+            <dc:source>Nature, Published online: 2023-07-18; | doi:10.1038/d41586-023-02294-1</dc:source>
+            <dc:date>2023-07-18</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02294-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02294-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02327-9">
+            <title><![CDATA[How to educate the world: prioritize funding and data]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02327-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 18 July 2023; <a href="https://www.nature.com/articles/d41586-023-02327-9">doi:10.1038/d41586-023-02327-9</a></p>Data gaps are hindering progress on the Sustainable Development Goal for education and lifelong learning. Modest funding will help to fill them.]]></content:encoded>
+            <dc:title><![CDATA[How to educate the world: prioritize funding and data]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-02327-9</dc:identifier>
+            <dc:source>Nature, Published online: 2023-07-18; | doi:10.1038/d41586-023-02327-9</dc:source>
+            <dc:date>2023-07-18</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02327-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02327-9</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02320-2">
+            <title><![CDATA[The true cost of science’s language barrier for non-native English speakers]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02320-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 18 July 2023; <a href="https://www.nature.com/articles/d41586-023-02320-2">doi:10.1038/d41586-023-02320-2</a></p>Survey quantifies the extra time that researchers whose first language isn't English need to read, write and present data.]]></content:encoded>
+            <dc:title><![CDATA[The true cost of science’s language barrier for non-native English speakers]]></dc:title>
+            <dc:creator>Mariana Lenharo</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02320-2</dc:identifier>
+            <dc:source>Nature, Published online: 2023-07-18; | doi:10.1038/d41586-023-02320-2</dc:source>
+            <dc:date>2023-07-18</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02320-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02320-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02337-7">
+            <title><![CDATA[Water pollution 'timebomb' threatens global health]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02337-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 18 July 2023; <a href="https://www.nature.com/articles/d41586-023-02337-7">doi:10.1038/d41586-023-02337-7</a></p>Simulations predict a water-pollution crisis by the end of the century.]]></content:encoded>
+            <dc:title><![CDATA[Water pollution 'timebomb' threatens global health]]></dc:title>
+            <dc:creator>Lilly Tozer</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02337-7</dc:identifier>
+            <dc:source>Nature, Published online: 2023-07-18; | doi:10.1038/d41586-023-02337-7</dc:source>
+            <dc:date>2023-07-18</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02337-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02337-7</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-02328-8">
@@ -1195,111 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02176-6</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02176-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01994-y">
-            <title><![CDATA[A framework for identifying targets for individualized therapy in genetic disease]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01994-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 12 July 2023; <a href="https://www.nature.com/articles/d41586-023-01994-y">doi:10.1038/d41586-023-01994-y</a></p>Researchers have developed a system to classify genetic mutations that could be addressed by therapeutic interventions that use ‘splice-switching antisense oligonucleotides’. This framework identified multiple eligible mutations among 235 people with the genetic disorder ataxia–telangiectasia. An oligonucleotide that was specific to one of these mutations was advanced to a proof-of-concept individualized trial.]]></content:encoded>
-            <dc:title><![CDATA[A framework for identifying targets for individualized therapy in genetic disease]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-01994-y</dc:identifier>
-            <dc:source>Nature, Published online: 2023-07-12; | doi:10.1038/d41586-023-01994-y</dc:source>
-            <dc:date>2023-07-12</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01994-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01994-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02108-4">
-            <title><![CDATA[Genetic ‘parasites’ hijack a DNA-repair pathway to form circular DNA and replicate]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02108-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 12 July 2023; <a href="https://www.nature.com/articles/d41586-023-02108-4">doi:10.1038/d41586-023-02108-4</a></p>Retrotransposons are sequences of DNA in animal genomes that can replicate and reinsert themselves back into the genome. Experiments in flies and other model systems reveal that retrotransposons ‘hijack’ a DNA-repair pathway in host cells to produce circular DNA, enabling their replication and subsequent reinsertion into the genome.]]></content:encoded>
-            <dc:title><![CDATA[Genetic ‘parasites’ hijack a DNA-repair pathway to form circular DNA and replicate]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-02108-4</dc:identifier>
-            <dc:source>Nature, Published online: 2023-07-12; | doi:10.1038/d41586-023-02108-4</dc:source>
-            <dc:date>2023-07-12</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02108-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02108-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02028-3">
-            <title><![CDATA[Liquid-based assembly accelerates production of microLED displays]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02028-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 12 July 2023; <a href="https://www.nature.com/articles/d41586-023-02028-3">doi:10.1038/d41586-023-02028-3</a></p>MicroLED displays have advantages over commercially available technologies, but are difficult to put together efficiently. Agitating microLED chiplets and a substrate together in fluid causes them to self‑assemble quickly and with high yield.]]></content:encoded>
-            <dc:title><![CDATA[Liquid-based assembly accelerates production of microLED displays]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-02028-3</dc:identifier>
-            <dc:source>Nature, Published online: 2023-07-12; | doi:10.1038/d41586-023-02028-3</dc:source>
-            <dc:date>2023-07-12</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02028-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02028-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02179-3">
-            <title><![CDATA[The immunology that underlies picky eating]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02179-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 12 July 2023; <a href="https://www.nature.com/articles/d41586-023-02179-3">doi:10.1038/d41586-023-02179-3</a></p>Humans can be picky eaters. One such behaviour is an aversion to food associated with food allergy. The immunological basis for this response has been uncovered in mice, revealing the role of neuroimmune connections.]]></content:encoded>
-            <dc:title><![CDATA[The immunology that underlies picky eating]]></dc:title>
-            <dc:creator>Marc E.   Rothenberg</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02179-3</dc:identifier>
-            <dc:source>Nature, Published online: 2023-07-12; | doi:10.1038/d41586-023-02179-3</dc:source>
-            <dc:date>2023-07-12</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02179-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02179-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06415-8">
-            <title><![CDATA[De novo design of protein structure and function with RFdiffusion]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06415-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 11 July 2023; <a href="https://www.nature.com/articles/s41586-023-06415-8">doi:10.1038/s41586-023-06415-8</a></p>De novo design of protein structure and function with RFdiffusion]]></content:encoded>
-            <dc:title><![CDATA[De novo design of protein structure and function with RFdiffusion]]></dc:title>
-            <dc:creator>Joseph L. Watson</dc:creator><dc:creator>David Juergens</dc:creator><dc:creator>Nathaniel R. Bennett</dc:creator><dc:creator>Brian L. Trippe</dc:creator><dc:creator>Jason Yim</dc:creator><dc:creator>Helen E. Eisenach</dc:creator><dc:creator>Woody Ahern</dc:creator><dc:creator>Andrew J. Borst</dc:creator><dc:creator>Robert J. Ragotte</dc:creator><dc:creator>Lukas F. Milles</dc:creator><dc:creator>Basile I. M. Wicky</dc:creator><dc:creator>Nikita Hanikel</dc:creator><dc:creator>Samuel J. Pellock</dc:creator><dc:creator>Alexis Courbet</dc:creator><dc:creator>William Sheffler</dc:creator><dc:creator>Jue Wang</dc:creator><dc:creator>Preetham Venkatesh</dc:creator><dc:creator>Isaac Sappington</dc:creator><dc:creator>Susana Vázquez Torres</dc:creator><dc:creator>Anna Lauko</dc:creator><dc:creator>Valentin De Bortoli</dc:creator><dc:creator>Emile Mathieu</dc:creator><dc:creator>Sergey Ovchinnikov</dc:creator><dc:creator>Regina Barzilay</dc:creator><dc:creator>Tommi S. Jaakkola</dc:creator><dc:creator>Frank DiMaio</dc:creator><dc:creator>Minkyung Baek</dc:creator><dc:creator>David Baker</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06415-8</dc:identifier>
-            <dc:source>Nature, Published online: 2023-07-11; | doi:10.1038/s41586-023-06415-8</dc:source>
-            <dc:date>2023-07-11</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06415-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06415-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02229-w">
-            <title><![CDATA[Biodiversity: an atlas of European reference genomes]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02229-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 11 July 2023; <a href="https://www.nature.com/articles/d41586-023-02229-w">doi:10.1038/d41586-023-02229-w</a></p>Biodiversity: an atlas of European reference genomes]]></content:encoded>
-            <dc:title><![CDATA[Biodiversity: an atlas of European reference genomes]]></dc:title>
-            <dc:creator>Camila J.  Mazzoni</dc:creator><dc:creator>Claudio  Ciofi</dc:creator><dc:creator>Robert M.  Waterhouse</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02229-w</dc:identifier>
-            <dc:source>Nature, Published online: 2023-07-11; | doi:10.1038/d41586-023-02229-w</dc:source>
-            <dc:date>2023-07-11</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02229-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02229-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02231-2">
-            <title><![CDATA[Women’s health: tackle the research funding deficit]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02231-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 11 July 2023; <a href="https://www.nature.com/articles/d41586-023-02231-2">doi:10.1038/d41586-023-02231-2</a></p>Women’s health: tackle the research funding deficit]]></content:encoded>
-            <dc:title><![CDATA[Women’s health: tackle the research funding deficit]]></dc:title>
-            <dc:creator>Krina T.  Zondervan</dc:creator><dc:creator>Linda G.  Griffith</dc:creator><dc:creator>Andrew W.  Horne</dc:creator><dc:creator>Lone   Hummelshoj</dc:creator><dc:creator>Pamela  Stratton</dc:creator><dc:creator>Stacey A.  Missmer</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02231-2</dc:identifier>
-            <dc:source>Nature, Published online: 2023-07-11; | doi:10.1038/d41586-023-02231-2</dc:source>
-            <dc:date>2023-07-11</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02231-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02231-2</prism:url>
         </item>
     
 </rdf:RDF>
