@@ -18,6 +18,8 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02363-5"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06125-1"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06413-w"/>
@@ -94,6 +96,8 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01817-0"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02364-4"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02300-6"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02348-4"/>
@@ -164,10 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02324-y"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02291-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02270-9"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,21 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02363-5">
+            <title><![CDATA[Sexual harassment in science: tackling abusers, protecting targets, changing cultures]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02363-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 20 July 2023; <a href="https://www.nature.com/articles/d41586-023-02363-5">doi:10.1038/d41586-023-02363-5</a></p>Sarah Batterman describes the personal and professional toll after being targeted at the Smithsonian Tropical Research Institute. Its director Josh Tewkesbury describes changes after staff spoke out.]]></content:encoded>
+            <dc:title><![CDATA[Sexual harassment in science: tackling abusers, protecting targets, changing cultures]]></dc:title>
+            <dc:creator>Adam Levy</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02363-5</dc:identifier>
+            <dc:source>Nature, Published online: 2023-07-20; | doi:10.1038/d41586-023-02363-5</dc:source>
+            <dc:date>2023-07-20</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02363-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02363-5</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06125-1">
             <title><![CDATA[Author Correction: A highly magnified star at redshift 6.2]]></title>
@@ -747,6 +762,21 @@
             <prism:url>https://www.nature.com/articles/d41586-023-01817-0</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02364-4">
+            <title><![CDATA[Daily briefing: Why your department should throw a party]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02364-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 19 July 2023; <a href="https://www.nature.com/articles/d41586-023-02364-4">doi:10.1038/d41586-023-02364-4</a></p>How to throw a simple celebratory gathering to help students and staff to reflect on their accomplishments. Plus, the true cost of science’s language barrier for non-native English speakers, and a mammal wrestles a dinosaur in an extraordinary fossil.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Why your department should throw a party]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02364-4</dc:identifier>
+            <dc:source>Nature, Published online: 2023-07-19; | doi:10.1038/d41586-023-02364-4</dc:source>
+            <dc:date>2023-07-19</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02364-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02364-4</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-023-02300-6">
             <title><![CDATA[Expeditions in post-war Colombia have found hundreds of new species. But rich ecosystems are now under threat]]></title>
             <link>https://www.nature.com/articles/d41586-023-02300-6</link>
@@ -961,7 +991,7 @@
             <title><![CDATA[The true cost of science’s language barrier for non-native English speakers]]></title>
             <link>https://www.nature.com/articles/d41586-023-02320-2</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 18 July 2023; <a href="https://www.nature.com/articles/d41586-023-02320-2">doi:10.1038/d41586-023-02320-2</a></p>Survey quantifies the extra time that researchers whose first language isn't English need to read, write and present data.]]></content:encoded>
+                <![CDATA[<p>Nature, Published online: 18 July 2023; <a href="https://www.nature.com/articles/d41586-023-02320-2">doi:10.1038/d41586-023-02320-2</a></p>Survey quantifies the extra time that researchers whose first language isn’t English need to read, write and present data.]]></content:encoded>
             <dc:title><![CDATA[The true cost of science’s language barrier for non-native English speakers]]></dc:title>
             <dc:creator>Mariana Lenharo</dc:creator>
             <dc:identifier>doi:10.1038/d41586-023-02320-2</dc:identifier>
@@ -1270,36 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02324-y</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02324-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02291-4">
-            <title><![CDATA[Fourteen things you need to know about collaborating with data scientists]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02291-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 July 2023; <a href="https://www.nature.com/articles/d41586-023-02291-4">doi:10.1038/d41586-023-02291-4</a></p>Experimentalists often need help to analyse data. Here’s how to ensure your collaboration is productive.]]></content:encoded>
-            <dc:title><![CDATA[Fourteen things you need to know about collaborating with data scientists]]></dc:title>
-            <dc:creator>Michele  Tobias</dc:creator><dc:creator>Nick Ulle</dc:creator><dc:creator>Tyler  Shoemaker</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02291-4</dc:identifier>
-            <dc:source>Nature, Published online: 2023-07-13; | doi:10.1038/d41586-023-02291-4</dc:source>
-            <dc:date>2023-07-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02291-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02291-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02270-9">
-            <title><![CDATA[ChatGPT gives an extra productivity boost to weaker writers]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02270-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 July 2023; <a href="https://www.nature.com/articles/d41586-023-02270-9">doi:10.1038/d41586-023-02270-9</a></p>The AI program allows people with limited writing skills to create higher-quality texts — but makes little difference to proficient writers’ work quality.]]></content:encoded>
-            <dc:title><![CDATA[ChatGPT gives an extra productivity boost to weaker writers]]></dc:title>
-            <dc:creator>Mariana Lenharo</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02270-9</dc:identifier>
-            <dc:source>Nature, Published online: 2023-07-13; | doi:10.1038/d41586-023-02270-9</dc:source>
-            <dc:date>2023-07-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02270-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02270-9</prism:url>
         </item>
     
 </rdf:RDF>
