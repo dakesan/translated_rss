@@ -18,6 +18,10 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02258-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02370-6"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02322-0"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02374-2"/>
@@ -29,6 +33,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02259-4"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02363-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02399-7"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02345-7"/>
                 
@@ -162,12 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02309-x"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01618-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02347-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02321-1"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,36 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02258-5">
+            <title><![CDATA[Nothing strange about this pentaquark’s ‘strangeness’]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02258-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 21 July 2023; <a href="https://www.nature.com/articles/d41586-023-02258-5">doi:10.1038/d41586-023-02258-5</a></p>The Large Hadron Collider yields a five-quark particle that includes a ‘strange’ quark, as predicted by theory.]]></content:encoded>
+            <dc:title><![CDATA[Nothing strange about this pentaquark’s ‘strangeness’]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-02258-5</dc:identifier>
+            <dc:source>Nature, Published online: 2023-07-21; | doi:10.1038/d41586-023-02258-5</dc:source>
+            <dc:date>2023-07-21</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02258-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02258-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02370-6">
+            <title><![CDATA[Harald zur Hausen, virologist who linked viruses to cancer (1936–2023)]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02370-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 21 July 2023; <a href="https://www.nature.com/articles/d41586-023-02370-6">doi:10.1038/d41586-023-02370-6</a></p>Nobel laureate who laid the foundations for vaccines to prevent cervical cancer.]]></content:encoded>
+            <dc:title><![CDATA[Harald zur Hausen, virologist who linked viruses to cancer (1936–2023)]]></dc:title>
+            <dc:creator>Michael Baumann</dc:creator><dc:creator>Magnus von Knebel Doeberitz</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02370-6</dc:identifier>
+            <dc:source>Nature, Published online: 2023-07-21; | doi:10.1038/d41586-023-02370-6</dc:source>
+            <dc:date>2023-07-21</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02370-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02370-6</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-02322-0">
             <title><![CDATA[As COVID-19 cases rose, so did diabetes — no one knows why]]></title>
@@ -265,6 +295,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02363-5</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02363-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02399-7">
+            <title><![CDATA[Daily briefing: Organs mapped in cell ‘atlases’]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02399-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 20 July 2023; <a href="https://www.nature.com/articles/d41586-023-02399-7">doi:10.1038/d41586-023-02399-7</a></p>Detailed maps of the cells in human organs give an unprecedented view of the placenta, intestines and kidneys. Plus, a gene variant linked with asymptomatic COVID and the multi-front fight against malaria.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Organs mapped in cell ‘atlases’]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02399-7</dc:identifier>
+            <dc:source>Nature, Published online: 2023-07-20; | doi:10.1038/d41586-023-02399-7</dc:source>
+            <dc:date>2023-07-20</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02399-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02399-7</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-02345-7">
@@ -1255,51 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02309-x</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02309-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01618-5">
-            <title><![CDATA[Sleeping embryonic genomes are awoken by OBOX proteins]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01618-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 17 July 2023; <a href="https://www.nature.com/articles/d41586-023-01618-5">doi:10.1038/d41586-023-01618-5</a></p>Activation of gene transcription is precisely regulated in early embryos. The identification of key transcription factors now shows how the transcription machinery is guided to the right place at the right time in mice.]]></content:encoded>
-            <dc:title><![CDATA[Sleeping embryonic genomes are awoken by OBOX proteins]]></dc:title>
-            <dc:creator>Edlyn  Wu</dc:creator><dc:creator>Nadine L.   Vastenhouw</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01618-5</dc:identifier>
-            <dc:source>Nature, Published online: 2023-07-17; | doi:10.1038/d41586-023-01618-5</dc:source>
-            <dc:date>2023-07-17</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01618-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01618-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02347-5">
-            <title><![CDATA[Daily briefing: Why aspartame is a possible carcinogen]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02347-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 17 July 2023; <a href="https://www.nature.com/articles/d41586-023-02347-5">doi:10.1038/d41586-023-02347-5</a></p>The WHO has classified the sweetener aspartame as ‘possibly carcinogenic’, the same category as aloe vera extracts and red meat. Plus, the evidence of how mining might affect enigmatic deep-sea ecosystems.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: Why aspartame is a possible carcinogen]]></dc:title>
-            <dc:creator>Flora Graham</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02347-5</dc:identifier>
-            <dc:source>Nature, Published online: 2023-07-17; | doi:10.1038/d41586-023-02347-5</dc:source>
-            <dc:date>2023-07-17</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02347-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02347-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02321-1">
-            <title><![CDATA[Alzheimer’s drug donanemab helps most when taken at earliest disease stage, study finds]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02321-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 17 July 2023; <a href="https://www.nature.com/articles/d41586-023-02321-1">doi:10.1038/d41586-023-02321-1</a></p>But the drug, an antibody that attacks the protein amyloid, does not work as well in people with more advanced disease.]]></content:encoded>
-            <dc:title><![CDATA[Alzheimer’s drug donanemab helps most when taken at earliest disease stage, study finds]]></dc:title>
-            <dc:creator>Sara Reardon</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02321-1</dc:identifier>
-            <dc:source>Nature, Published online: 2023-07-17; | doi:10.1038/d41586-023-02321-1</dc:source>
-            <dc:date>2023-07-17</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02321-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02321-1</prism:url>
         </item>
     
 </rdf:RDF>
