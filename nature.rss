@@ -18,9 +18,19 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06450-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02412-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02313-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02310-4"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02258-5"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02370-6"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02411-0"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02322-0"/>
                 
@@ -158,16 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02299-w"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06428-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06433-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02308-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02301-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02309-x"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,66 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-023-06450-5">
+            <title><![CDATA[Publisher Correction: Regulating surface potential maximizes voltage in all-perovskite tandems]]></title>
+            <link>https://www.nature.com/articles/s41586-023-06450-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 24 July 2023; <a href="https://www.nature.com/articles/s41586-023-06450-5">doi:10.1038/s41586-023-06450-5</a></p>Publisher Correction: Regulating surface potential maximizes voltage in all-perovskite tandems]]></content:encoded>
+            <dc:title><![CDATA[Publisher Correction: Regulating surface potential maximizes voltage in all-perovskite tandems]]></dc:title>
+            <dc:creator>Hao Chen</dc:creator><dc:creator>Aidan Maxwell</dc:creator><dc:creator>Chongwen Li</dc:creator><dc:creator>Sam Teale</dc:creator><dc:creator>Bin Chen</dc:creator><dc:creator>Tong Zhu</dc:creator><dc:creator>Esma Ugur</dc:creator><dc:creator>George Harrison</dc:creator><dc:creator>Luke Grater</dc:creator><dc:creator>Junke Wang</dc:creator><dc:creator>Zaiwei Wang</dc:creator><dc:creator>Lewei Zeng</dc:creator><dc:creator>So Min Park</dc:creator><dc:creator>Lei Chen</dc:creator><dc:creator>Peter Serles</dc:creator><dc:creator>Rasha Abbas Awni</dc:creator><dc:creator>Biwas Subedi</dc:creator><dc:creator>Xiaopeng Zheng</dc:creator><dc:creator>Chuanxiao Xiao</dc:creator><dc:creator>Nikolas J. Podraza</dc:creator><dc:creator>Tobin Filleter</dc:creator><dc:creator>Cheng Liu</dc:creator><dc:creator>Yi Yang</dc:creator><dc:creator>Joseph M. Luther</dc:creator><dc:creator>Stefaan De Wolf</dc:creator><dc:creator>Mercouri G. Kanatzidis</dc:creator><dc:creator>Yanfa Yan</dc:creator><dc:creator>Edward H. Sargent</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-023-06450-5</dc:identifier>
+            <dc:source>Nature, Published online: 2023-07-24; | doi:10.1038/s41586-023-06450-5</dc:source>
+            <dc:date>2023-07-24</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-023-06450-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-023-06450-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02412-z">
+            <title><![CDATA[Adventures in the psyche, and the three metamorphoses of silk: Books in brief]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02412-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 24 July 2023; <a href="https://www.nature.com/articles/d41586-023-02412-z">doi:10.1038/d41586-023-02412-z</a></p>Andrew Robinson reviews five of the best science picks.]]></content:encoded>
+            <dc:title><![CDATA[Adventures in the psyche, and the three metamorphoses of silk: Books in brief]]></dc:title>
+            <dc:creator>Andrew Robinson</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02412-z</dc:identifier>
+            <dc:source>Nature, Published online: 2023-07-24; | doi:10.1038/d41586-023-02412-z</dc:source>
+            <dc:date>2023-07-24</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02412-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02412-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02313-1">
+            <title><![CDATA[Pack up the parachute: why global north–south collaborations need to change]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02313-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 24 July 2023; <a href="https://www.nature.com/articles/d41586-023-02313-1">doi:10.1038/d41586-023-02313-1</a></p>Global-south researchers want equal partnerships that value intellectual exchange.]]></content:encoded>
+            <dc:title><![CDATA[Pack up the parachute: why global north–south collaborations need to change]]></dc:title>
+            <dc:creator>Virginia Gewin</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02313-1</dc:identifier>
+            <dc:source>Nature, Published online: 2023-07-24; | doi:10.1038/d41586-023-02313-1</dc:source>
+            <dc:date>2023-07-24</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02313-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02313-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02310-4">
+            <title><![CDATA[How a scholarly spat shaped a century of genetic research]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02310-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 24 July 2023; <a href="https://www.nature.com/articles/d41586-023-02310-4">doi:10.1038/d41586-023-02310-4</a></p>A fresh look at the early history of genetics reveals why a simplified view of biological inheritance came to hold sway — and argues for a revision of how genetics is taught today.]]></content:encoded>
+            <dc:title><![CDATA[How a scholarly spat shaped a century of genetic research]]></dc:title>
+            <dc:creator>Brian K. Hall</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02310-4</dc:identifier>
+            <dc:source>Nature, Published online: 2023-07-24; | doi:10.1038/d41586-023-02310-4</dc:source>
+            <dc:date>2023-07-24</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02310-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02310-4</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-02258-5">
             <title><![CDATA[Nothing strange about this pentaquark’s ‘strangeness’]]></title>
@@ -205,6 +265,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02370-6</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02370-6</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02411-0">
+            <title><![CDATA[Daily briefing: The genetic basis of walking on two legs]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02411-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 21 July 2023; <a href="https://www.nature.com/articles/d41586-023-02411-0">doi:10.1038/d41586-023-02411-0</a></p>Genomic regions linked to short arms and lanky legs bore signs of evolutionary selection in humans. Plus, type 1 diabetes surged in children during the pandemic and expeditions in post-war Colombia have found an ecological treasure trove.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: The genetic basis of walking on two legs]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02411-0</dc:identifier>
+            <dc:source>Nature, Published online: 2023-07-21; | doi:10.1038/d41586-023-02411-0</dc:source>
+            <dc:date>2023-07-21</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02411-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02411-0</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-02322-0">
@@ -1225,81 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02299-w</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02299-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06428-3">
-            <title><![CDATA[OBOX regulates murine zygotic genome activation and early development]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06428-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 17 July 2023; <a href="https://www.nature.com/articles/s41586-023-06428-3">doi:10.1038/s41586-023-06428-3</a></p>OBOX regulates murine zygotic genome activation and early development]]></content:encoded>
-            <dc:title><![CDATA[OBOX regulates murine zygotic genome activation and early development]]></dc:title>
-            <dc:creator>Shuyan Ji</dc:creator><dc:creator>Fengling Chen</dc:creator><dc:creator>Paula Stein</dc:creator><dc:creator>Jiacheng Wang</dc:creator><dc:creator>Ziming Zhou</dc:creator><dc:creator>Lijuan Wang</dc:creator><dc:creator>Qing Zhao</dc:creator><dc:creator>Zili Lin</dc:creator><dc:creator>Bofeng Liu</dc:creator><dc:creator>Kai Xu</dc:creator><dc:creator>Fangnong Lai</dc:creator><dc:creator>Zhuqing Xiong</dc:creator><dc:creator>Xiaoyu Hu</dc:creator><dc:creator>Tianxiang Kong</dc:creator><dc:creator>Feng Kong</dc:creator><dc:creator>Bo Huang</dc:creator><dc:creator>Qiujun Wang</dc:creator><dc:creator>Qianhua Xu</dc:creator><dc:creator>Qiang Fan</dc:creator><dc:creator>Ling Liu</dc:creator><dc:creator>Carmen J. Williams</dc:creator><dc:creator>Richard M. Schultz</dc:creator><dc:creator>Wei Xie</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06428-3</dc:identifier>
-            <dc:source>Nature, Published online: 2023-07-17; | doi:10.1038/s41586-023-06428-3</dc:source>
-            <dc:date>2023-07-17</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06428-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06428-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06433-6">
-            <title><![CDATA[Publisher Correction: A weakly structured stem for human origins in Africa]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06433-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 17 July 2023; <a href="https://www.nature.com/articles/s41586-023-06433-6">doi:10.1038/s41586-023-06433-6</a></p>Publisher Correction: A weakly structured stem for human origins in Africa]]></content:encoded>
-            <dc:title><![CDATA[Publisher Correction: A weakly structured stem for human origins in Africa]]></dc:title>
-            <dc:creator>Aaron P. Ragsdale</dc:creator><dc:creator>Timothy D. Weaver</dc:creator><dc:creator>Elizabeth G. Atkinson</dc:creator><dc:creator>Eileen G. Hoal</dc:creator><dc:creator>Marlo Möller</dc:creator><dc:creator>Brenna M. Henn</dc:creator><dc:creator>Simon Gravel</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06433-6</dc:identifier>
-            <dc:source>Nature, Published online: 2023-07-17; | doi:10.1038/s41586-023-06433-6</dc:source>
-            <dc:date>2023-07-17</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06433-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06433-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02308-y">
-            <title><![CDATA[My glacier is melting — and I’m charting its decline]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02308-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 17 July 2023; <a href="https://www.nature.com/articles/d41586-023-02308-y">doi:10.1038/d41586-023-02308-y</a></p>Glaciologist Andrea Fischer describes her first-hand experience of studying these ever-changing ice masses.]]></content:encoded>
-            <dc:title><![CDATA[My glacier is melting — and I’m charting its decline]]></dc:title>
-            <dc:creator>Nikki Forrester</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02308-y</dc:identifier>
-            <dc:source>Nature, Published online: 2023-07-17; | doi:10.1038/d41586-023-02308-y</dc:source>
-            <dc:date>2023-07-17</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02308-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02308-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02301-5">
-            <title><![CDATA[To save bears, we must learn to live alongside them]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02301-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 17 July 2023; <a href="https://www.nature.com/articles/d41586-023-02301-5">doi:10.1038/d41586-023-02301-5</a></p>With urban areas expanding and climate change shrinking bears’ habitats, the animals’ interactions with humans will make — or break — efforts to preserve their populations.]]></content:encoded>
-            <dc:title><![CDATA[To save bears, we must learn to live alongside them]]></dc:title>
-            <dc:creator>Henry  Nicholls</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02301-5</dc:identifier>
-            <dc:source>Nature, Published online: 2023-07-17; | doi:10.1038/d41586-023-02301-5</dc:source>
-            <dc:date>2023-07-17</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02301-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02301-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02309-x">
-            <title><![CDATA[Do you take part in genetic studies? That might be in your genes]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02309-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 17 July 2023; <a href="https://www.nature.com/articles/d41586-023-02309-x">doi:10.1038/d41586-023-02309-x</a></p>Findings could help researchers to better understand ‘participation bias’ in studies that link genomics with health, behaviour and other traits.]]></content:encoded>
-            <dc:title><![CDATA[Do you take part in genetic studies? That might be in your genes]]></dc:title>
-            <dc:creator>Ewen Callaway</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02309-x</dc:identifier>
-            <dc:source>Nature, Published online: 2023-07-17; | doi:10.1038/d41586-023-02309-x</dc:source>
-            <dc:date>2023-07-17</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02309-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02309-x</prism:url>
         </item>
     
 </rdf:RDF>
