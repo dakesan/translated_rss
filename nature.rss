@@ -20,6 +20,8 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06403-y"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02332-y"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02316-y"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02248-7"/>
@@ -28,7 +30,15 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02315-z"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02368-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02196-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02415-w"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02366-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02401-2"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02361-7"/>
                 
@@ -158,16 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01817-0"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02364-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02300-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02348-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02296-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02105-7"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -190,6 +190,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/s41586-023-06403-y</prism:doi>
             <prism:url>https://www.nature.com/articles/s41586-023-06403-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02332-y">
+            <title><![CDATA[From the archive: pollination, and Charles Darwin ponders scared ants]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02332-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 25 July 2023; <a href="https://www.nature.com/articles/d41586-023-02332-y">doi:10.1038/d41586-023-02332-y</a></p>Snippets from Nature’s past.]]></content:encoded>
+            <dc:title><![CDATA[From the archive: pollination, and Charles Darwin ponders scared ants]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-02332-y</dc:identifier>
+            <dc:source>Nature, Published online: 2023-07-25; | doi:10.1038/d41586-023-02332-y</dc:source>
+            <dc:date>2023-07-25</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02332-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02332-y</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-02316-y">
@@ -252,6 +267,51 @@
             <prism:url>https://www.nature.com/articles/d41586-023-02315-z</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02368-0">
+            <title><![CDATA[Saving tens of millions of children a year from the effects of lead poisoning is a surprisingly solvable problem]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02368-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 25 July 2023; <a href="https://www.nature.com/articles/d41586-023-02368-0">doi:10.1038/d41586-023-02368-0</a></p>Funding to help nations eliminate lead paint and other sources of exposure would avert millions of deaths and one trillion dollars a year in income loss.]]></content:encoded>
+            <dc:title><![CDATA[Saving tens of millions of children a year from the effects of lead poisoning is a surprisingly solvable problem]]></dc:title>
+            <dc:creator>Nafisatou Cissé</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02368-0</dc:identifier>
+            <dc:source>Nature, Published online: 2023-07-25; | doi:10.1038/d41586-023-02368-0</dc:source>
+            <dc:date>2023-07-25</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02368-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02368-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02196-2">
+            <title><![CDATA[Sixty years since the report of global lead pollution]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02196-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 25 July 2023; <a href="https://www.nature.com/articles/d41586-023-02196-2">doi:10.1038/d41586-023-02196-2</a></p>The 1963 discovery that even the vast oceans were highly contaminated with lead from car exhausts sparked debate and policy changes that benefited the health of millions — and revolutionized the practices of marine biogeochemistry.]]></content:encoded>
+            <dc:title><![CDATA[Sixty years since the report of global lead pollution]]></dc:title>
+            <dc:creator>Jerome Nriagu</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02196-2</dc:identifier>
+            <dc:source>Nature, Published online: 2023-07-25; | doi:10.1038/d41586-023-02196-2</dc:source>
+            <dc:date>2023-07-25</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02196-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02196-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02415-w">
+            <title><![CDATA[Sharp criticism of controversial ancient-human claims tests <i>eLife</i>’s revamped peer-review model]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02415-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 25 July 2023; <a href="https://www.nature.com/articles/d41586-023-02415-w">doi:10.1038/d41586-023-02415-w</a></p>High-profile researchers say small-brained Homo naledi exhibited advanced behaviours such as burials, but peer reviewers say there’s no evidence.]]></content:encoded>
+            <dc:title><![CDATA[Sharp criticism of controversial ancient-human claims tests <i>eLife</i>’s revamped peer-review model]]></dc:title>
+            <dc:creator>Ewen Callaway</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02415-w</dc:identifier>
+            <dc:source>Nature, Published online: 2023-07-25; | doi:10.1038/d41586-023-02415-w</dc:source>
+            <dc:date>2023-07-25</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02415-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02415-w</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-023-02366-2">
             <title><![CDATA[ChatGPT is a black box: how AI research can break it open]]></title>
             <link>https://www.nature.com/articles/d41586-023-02366-2</link>
@@ -267,12 +327,27 @@
             <prism:url>https://www.nature.com/articles/d41586-023-02366-2</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02401-2">
+            <title><![CDATA[‘A very disturbing picture’: another retraction imminent for controversial physicist]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02401-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 25 July 2023; <a href="https://www.nature.com/articles/d41586-023-02401-2">doi:10.1038/d41586-023-02401-2</a></p>Ranga Dias will have a second paper revoked. A journal’s investigation found apparent data fabrication.]]></content:encoded>
+            <dc:title><![CDATA[‘A very disturbing picture’: another retraction imminent for controversial physicist]]></dc:title>
+            <dc:creator>Dan Garisto</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02401-2</dc:identifier>
+            <dc:source>Nature, Published online: 2023-07-25; | doi:10.1038/d41586-023-02401-2</dc:source>
+            <dc:date>2023-07-25</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02401-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02401-2</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-023-02361-7">
-            <title><![CDATA[ChatGPT and LLMs killed the Turing test. What’s next for probes of machine intelligence?]]></title>
+            <title><![CDATA[ChatGPT broke the Turing test — the race is on for new ways to assess AI]]></title>
             <link>https://www.nature.com/articles/d41586-023-02361-7</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 25 July 2023; <a href="https://www.nature.com/articles/d41586-023-02361-7">doi:10.1038/d41586-023-02361-7</a></p>Scientists are racing to find new ways to clarify the differences between the capabilities of humans and large language models.]]></content:encoded>
-            <dc:title><![CDATA[ChatGPT and LLMs killed the Turing test. What’s next for probes of machine intelligence?]]></dc:title>
+                <![CDATA[<p>Nature, Published online: 25 July 2023; <a href="https://www.nature.com/articles/d41586-023-02361-7">doi:10.1038/d41586-023-02361-7</a></p>Large language models mimic human chatter, but scientists disagree on their ability to reason.]]></content:encoded>
+            <dc:title><![CDATA[ChatGPT broke the Turing test — the race is on for new ways to assess AI]]></dc:title>
             <dc:creator>Celeste Biever</dc:creator>
             <dc:identifier>doi:10.1038/d41586-023-02361-7</dc:identifier>
             <dc:source>Nature, Published online: 2023-07-25; | doi:10.1038/d41586-023-02361-7</dc:source>
@@ -1225,81 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01817-0</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01817-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02364-4">
-            <title><![CDATA[Daily briefing: Why your department should throw a party]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02364-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 19 July 2023; <a href="https://www.nature.com/articles/d41586-023-02364-4">doi:10.1038/d41586-023-02364-4</a></p>How to throw a simple celebratory gathering to help students and staff to reflect on their accomplishments. Plus, the true cost of science’s language barrier for non-native English speakers, and a mammal wrestles a dinosaur in an extraordinary fossil.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: Why your department should throw a party]]></dc:title>
-            <dc:creator>Flora Graham</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02364-4</dc:identifier>
-            <dc:source>Nature, Published online: 2023-07-19; | doi:10.1038/d41586-023-02364-4</dc:source>
-            <dc:date>2023-07-19</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02364-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02364-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02300-6">
-            <title><![CDATA[Expeditions in post-war Colombia have found hundreds of new species. But rich ecosystems are now under threat]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02300-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 19 July 2023; <a href="https://www.nature.com/articles/d41586-023-02300-6">doi:10.1038/d41586-023-02300-6</a></p>Since Colombia’s peace agreement opened the country up, scientists have been racing to study its riches before it’s too late.]]></content:encoded>
-            <dc:title><![CDATA[Expeditions in post-war Colombia have found hundreds of new species. But rich ecosystems are now under threat]]></dc:title>
-            <dc:creator>Aisling Irwin</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02300-6</dc:identifier>
-            <dc:source>Nature, Published online: 2023-07-19; | doi:10.1038/d41586-023-02300-6</dc:source>
-            <dc:date>2023-07-19</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02300-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02300-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02348-4">
-            <title><![CDATA[Cell ‘atlases’ offer unprecedented view of placenta, intestines and kidneys]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02348-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 19 July 2023; <a href="https://www.nature.com/articles/d41586-023-02348-4">doi:10.1038/d41586-023-02348-4</a></p>Organ mapping studies show how kidney cells become diseased, and how cells from a fetus invade and remodel blood vessels in the lining of the uterus.]]></content:encoded>
-            <dc:title><![CDATA[Cell ‘atlases’ offer unprecedented view of placenta, intestines and kidneys]]></dc:title>
-            <dc:creator>Heidi Ledford</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02348-4</dc:identifier>
-            <dc:source>Nature, Published online: 2023-07-19; | doi:10.1038/d41586-023-02348-4</dc:source>
-            <dc:date>2023-07-19</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02348-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02348-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02296-z">
-            <title><![CDATA[The particle-physics breakthrough that paved the way for the Higgs boson]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02296-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 19 July 2023; <a href="https://www.nature.com/articles/d41586-023-02296-z">doi:10.1038/d41586-023-02296-z</a></p>The discovery of ‘weak neutral currents’ at Europe’s particle-physics research centre CERN 50 years ago was a decisive step towards establishing the standard model of particle physics — a journey that continues to this day.]]></content:encoded>
-            <dc:title><![CDATA[The particle-physics breakthrough that paved the way for the Higgs boson]]></dc:title>
-            <dc:creator>Pippa  Wells</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02296-z</dc:identifier>
-            <dc:source>Nature, Published online: 2023-07-19; | doi:10.1038/d41586-023-02296-z</dc:source>
-            <dc:date>2023-07-19</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02296-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02296-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02105-7">
-            <title><![CDATA[Protein folding stability measured at scale]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02105-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 19 July 2023; <a href="https://www.nature.com/articles/d41586-023-02105-7">doi:10.1038/d41586-023-02105-7</a></p>Protein sequences vary widely in their folding stabilities (the energetic favourability of folded compared with unfolded conformations), and protein alterations that affect stability have profound effects on evolution, health and disease, and biotechnological applications. An innovative method has made it possible to measure these stabilities on a massive scale, revealing evolutionary trends and opening up possibilities for machine learning.]]></content:encoded>
-            <dc:title><![CDATA[Protein folding stability measured at scale]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-02105-7</dc:identifier>
-            <dc:source>Nature, Published online: 2023-07-19; | doi:10.1038/d41586-023-02105-7</dc:source>
-            <dc:date>2023-07-19</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02105-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02105-7</prism:url>
         </item>
     
 </rdf:RDF>
