@@ -18,6 +18,10 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02311-3"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02367-1"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06403-y"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02332-y"/>
@@ -164,10 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02187-3"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02102-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01817-0"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,36 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02311-3">
+            <title><![CDATA[Shade is an essential solution for hotter cities]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02311-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 26 July 2023; <a href="https://www.nature.com/articles/d41586-023-02311-3">doi:10.1038/d41586-023-02311-3</a></p>One of the most effective ways to keep people cool is often neglected in urban planning. Cities must work to provide cover and reverse the ‘shade deserts’ common in low-income communities.]]></content:encoded>
+            <dc:title><![CDATA[Shade is an essential solution for hotter cities]]></dc:title>
+            <dc:creator>V. Kelly Turner</dc:creator><dc:creator>Ariane Middel</dc:creator><dc:creator>Jennifer K. Vanos</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02311-3</dc:identifier>
+            <dc:source>Nature, Published online: 2023-07-26; | doi:10.1038/d41586-023-02311-3</dc:source>
+            <dc:date>2023-07-26</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02311-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02311-3</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02367-1">
+            <title><![CDATA[The United Kingdom needs to welcome international researchers to thrive]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02367-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 26 July 2023; <a href="https://www.nature.com/articles/d41586-023-02367-1">doi:10.1038/d41586-023-02367-1</a></p>Scientific strength does not come from severing long-standing relationships or turning away talent from around the world.]]></content:encoded>
+            <dc:title><![CDATA[The United Kingdom needs to welcome international researchers to thrive]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-02367-1</dc:identifier>
+            <dc:source>Nature, Published online: 2023-07-26; | doi:10.1038/d41586-023-02367-1</dc:source>
+            <dc:date>2023-07-26</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02367-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02367-1</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06403-y">
             <title><![CDATA[Publisher Correction: The DNA sequence and analysis of human chromosome 14]]></title>
@@ -1270,36 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02187-3</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02187-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02102-w">
-            <title><![CDATA[A genetic basis for asymptomatic SARS-CoV-2 infection]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02102-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 19 July 2023; <a href="https://www.nature.com/articles/d41586-023-02102-w">doi:10.1038/d41586-023-02102-w</a></p>A common genetic variant of the human leukocyte antigen (HLA) complex, a family of genes involved in the immune response, is associated with an absence of symptoms during SARS-CoV-2 infection. Previous exposure to cold viruses seems to confer this immunity.]]></content:encoded>
-            <dc:title><![CDATA[A genetic basis for asymptomatic SARS-CoV-2 infection]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-02102-w</dc:identifier>
-            <dc:source>Nature, Published online: 2023-07-19; | doi:10.1038/d41586-023-02102-w</dc:source>
-            <dc:date>2023-07-19</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02102-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02102-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01817-0">
-            <title><![CDATA[Cell-level reference maps for the human body take shape]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01817-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 19 July 2023; <a href="https://www.nature.com/articles/d41586-023-01817-0">doi:10.1038/d41586-023-01817-0</a></p>The HuBMAP consortium has generated spatially resolved cell atlases for the human intestine, kidney and placenta, which enable analysis of tissue organization in unprecedented detail.]]></content:encoded>
-            <dc:title><![CDATA[Cell-level reference maps for the human body take shape]]></dc:title>
-            <dc:creator>Roser  Vento-Tormo</dc:creator><dc:creator>Roser  Vilarrasa-Blasi</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01817-0</dc:identifier>
-            <dc:source>Nature, Published online: 2023-07-19; | doi:10.1038/d41586-023-01817-0</dc:source>
-            <dc:date>2023-07-19</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01817-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01817-0</prism:url>
         </item>
     
 </rdf:RDF>
