@@ -18,6 +18,14 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02341-x"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02342-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02403-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02404-z"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06455-0"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02425-8"/>
@@ -37,6 +45,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02420-z"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02423-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02459-y"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02438-3"/>
                 
@@ -158,16 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06458-x"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02412-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02314-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02343-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06317-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02313-1"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,66 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02341-x">
+            <title><![CDATA[Aggressive driving sends carbon levels soaring]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02341-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 July 2023; <a href="https://www.nature.com/articles/d41586-023-02341-x">doi:10.1038/d41586-023-02341-x</a></p>Analysis of data from China shows that calm driving in that country alone can save nearly half a billion tonnes of carbon dioxide by 2050.]]></content:encoded>
+            <dc:title><![CDATA[Aggressive driving sends carbon levels soaring]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-02341-x</dc:identifier>
+            <dc:source>Nature, Published online: 2023-07-28; | doi:10.1038/d41586-023-02341-x</dc:source>
+            <dc:date>2023-07-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02341-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02341-x</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02342-w">
+            <title><![CDATA[DNA origami provides a stout armour for cells]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02342-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 July 2023; <a href="https://www.nature.com/articles/d41586-023-02342-w">doi:10.1038/d41586-023-02342-w</a></p>A double layer of twisted, folded DNA protects cells from mechanical forces while allowing them freedom to assemble.]]></content:encoded>
+            <dc:title><![CDATA[DNA origami provides a stout armour for cells]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-02342-w</dc:identifier>
+            <dc:source>Nature, Published online: 2023-07-28; | doi:10.1038/d41586-023-02342-w</dc:source>
+            <dc:date>2023-07-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02342-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02342-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02403-0">
+            <title><![CDATA[AI search of Neanderthal proteins resurrects ‘extinct’ antibiotics]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02403-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 July 2023; <a href="https://www.nature.com/articles/d41586-023-02403-0">doi:10.1038/d41586-023-02403-0</a></p>Scientists identify protein snippets made by extinct hominins.]]></content:encoded>
+            <dc:title><![CDATA[AI search of Neanderthal proteins resurrects ‘extinct’ antibiotics]]></dc:title>
+            <dc:creator>Saima Sidik</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02403-0</dc:identifier>
+            <dc:source>Nature, Published online: 2023-07-28; | doi:10.1038/d41586-023-02403-0</dc:source>
+            <dc:date>2023-07-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02403-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02403-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02404-z">
+            <title><![CDATA[‘Virgin birth’ genetically engineered into female animals for the first time]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02404-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 July 2023; <a href="https://www.nature.com/articles/d41586-023-02404-z">doi:10.1038/d41586-023-02404-z</a></p>Scientists alter the genomes of female fruit flies, allowing them to reproduce without any contribution from a male.]]></content:encoded>
+            <dc:title><![CDATA[‘Virgin birth’ genetically engineered into female animals for the first time]]></dc:title>
+            <dc:creator>Anil Oza</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02404-z</dc:identifier>
+            <dc:source>Nature, Published online: 2023-07-28; | doi:10.1038/d41586-023-02404-z</dc:source>
+            <dc:date>2023-07-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02404-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02404-z</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06455-0">
             <title><![CDATA[Publisher Correction: Large language models encode clinical knowledge]]></title>
@@ -238,11 +298,11 @@
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-02433-8">
-            <title><![CDATA[Barbie and body image: a scholar's take on the research — and blockbuster film]]></title>
+            <title><![CDATA[Barbie and body image: a scholar’s take on the research — and the blockbuster film]]></title>
             <link>https://www.nature.com/articles/d41586-023-02433-8</link>
             <content:encoded>
                 <![CDATA[<p>Nature, Published online: 27 July 2023; <a href="https://www.nature.com/articles/d41586-023-02433-8">doi:10.1038/d41586-023-02433-8</a></p>A clinical health psychologist speaks to Nature about Barbie’s influence on how women and girls view their bodies.]]></content:encoded>
-            <dc:title><![CDATA[Barbie and body image: a scholar's take on the research — and blockbuster film]]></dc:title>
+            <dc:title><![CDATA[Barbie and body image: a scholar’s take on the research — and the blockbuster film]]></dc:title>
             <dc:creator>Emma Marris</dc:creator>
             <dc:identifier>doi:10.1038/d41586-023-02433-8</dc:identifier>
             <dc:source>Nature, Published online: 2023-07-27; | doi:10.1038/d41586-023-02433-8</dc:source>
@@ -325,6 +385,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02423-w</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02423-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02459-y">
+            <title><![CDATA[Daily briefing: What <i>Oppenheimer</i> gets right]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02459-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 27 July 2023; <a href="https://www.nature.com/articles/d41586-023-02459-y">doi:10.1038/d41586-023-02459-y</a></p>An atomic-bomb historian’s thoughts about how the film portrays Robert Oppenheimer’s life and work. Plus, a Neolithic community that spanned seven generations, and a crucial ocean current could collapse this century.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: What <i>Oppenheimer</i> gets right]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02459-y</dc:identifier>
+            <dc:source>Nature, Published online: 2023-07-27; | doi:10.1038/d41586-023-02459-y</dc:source>
+            <dc:date>2023-07-27</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02459-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02459-y</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-02438-3">
@@ -1225,81 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/s41586-023-06458-x</prism:doi>
             <prism:url>https://www.nature.com/articles/s41586-023-06458-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02412-z">
-            <title><![CDATA[Adventures in the psyche, and the three metamorphoses of silk: Books in brief]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02412-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 24 July 2023; <a href="https://www.nature.com/articles/d41586-023-02412-z">doi:10.1038/d41586-023-02412-z</a></p>Andrew Robinson reviews five of the best science picks.]]></content:encoded>
-            <dc:title><![CDATA[Adventures in the psyche, and the three metamorphoses of silk: Books in brief]]></dc:title>
-            <dc:creator>Andrew Robinson</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02412-z</dc:identifier>
-            <dc:source>Nature, Published online: 2023-07-24; | doi:10.1038/d41586-023-02412-z</dc:source>
-            <dc:date>2023-07-24</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02412-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02412-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02314-0">
-            <title><![CDATA[I sample Antarctica’s seaweed to improve human health]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02314-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 24 July 2023; <a href="https://www.nature.com/articles/d41586-023-02314-0">doi:10.1038/d41586-023-02314-0</a></p>Fisheries engineer Ekrem Cem Çankırılıgil probes the chemical make-up of aquatic creatures to determine their possible health benefits for humans.]]></content:encoded>
-            <dc:title><![CDATA[I sample Antarctica’s seaweed to improve human health]]></dc:title>
-            <dc:creator>Nic Fleming</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02314-0</dc:identifier>
-            <dc:source>Nature, Published online: 2023-07-24; | doi:10.1038/d41586-023-02314-0</dc:source>
-            <dc:date>2023-07-24</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02314-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02314-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02343-9">
-            <title><![CDATA[Why heart trouble can lead to sleep trouble]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02343-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 24 July 2023; <a href="https://www.nature.com/articles/d41586-023-02343-9">doi:10.1038/d41586-023-02343-9</a></p>An immune response triggered by cardiac disease affects the function of a gland with a key role in the sleep–wake cycle.]]></content:encoded>
-            <dc:title><![CDATA[Why heart trouble can lead to sleep trouble]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-02343-9</dc:identifier>
-            <dc:source>Nature, Published online: 2023-07-24; | doi:10.1038/d41586-023-02343-9</dc:source>
-            <dc:date>2023-07-24</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02343-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02343-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06317-9">
-            <title><![CDATA[Water in the terrestrial planet-forming zone of the PDS 70 disk]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06317-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 24 July 2023; <a href="https://www.nature.com/articles/s41586-023-06317-9">doi:10.1038/s41586-023-06317-9</a></p>Observations with the sensitive mid-infrared spectrometer MIRI on board JWST reveal the presence of a water vapour reservoir in the terrestrial plant-forming zone of the young planetary system PDS 70.]]></content:encoded>
-            <dc:title><![CDATA[Water in the terrestrial planet-forming zone of the PDS 70 disk]]></dc:title>
-            <dc:creator>G. Perotti</dc:creator><dc:creator>V. Christiaens</dc:creator><dc:creator>Th. Henning</dc:creator><dc:creator>B. Tabone</dc:creator><dc:creator>L. B. F. M. Waters</dc:creator><dc:creator>I. Kamp</dc:creator><dc:creator>G. Olofsson</dc:creator><dc:creator>S. L. Grant</dc:creator><dc:creator>D. Gasman</dc:creator><dc:creator>J. Bouwman</dc:creator><dc:creator>M. Samland</dc:creator><dc:creator>R. Franceschi</dc:creator><dc:creator>E. F. van Dishoeck</dc:creator><dc:creator>K. Schwarz</dc:creator><dc:creator>M. Güdel</dc:creator><dc:creator>P.-O. Lagage</dc:creator><dc:creator>T. P. Ray</dc:creator><dc:creator>B. Vandenbussche</dc:creator><dc:creator>A. Abergel</dc:creator><dc:creator>O. Absil</dc:creator><dc:creator>A. M. Arabhavi</dc:creator><dc:creator>I. Argyriou</dc:creator><dc:creator>D. Barrado</dc:creator><dc:creator>A. Boccaletti</dc:creator><dc:creator>A. Caratti o Garatti</dc:creator><dc:creator>V. Geers</dc:creator><dc:creator>A. M. Glauser</dc:creator><dc:creator>K. Justannont</dc:creator><dc:creator>F. Lahuis</dc:creator><dc:creator>M. Mueller</dc:creator><dc:creator>C. Nehmé</dc:creator><dc:creator>E. Pantin</dc:creator><dc:creator>S. Scheithauer</dc:creator><dc:creator>C. Waelkens</dc:creator><dc:creator>R. Guadarrama</dc:creator><dc:creator>H. Jang</dc:creator><dc:creator>J. Kanwar</dc:creator><dc:creator>M. Morales-Calderón</dc:creator><dc:creator>N. Pawellek</dc:creator><dc:creator>D. Rodgers-Lee</dc:creator><dc:creator>J. Schreiber</dc:creator><dc:creator>L. Colina</dc:creator><dc:creator>T. R. Greve</dc:creator><dc:creator>G. Östlin</dc:creator><dc:creator>G. Wright</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06317-9</dc:identifier>
-            <dc:source>Nature, Published online: 2023-07-24; | doi:10.1038/s41586-023-06317-9</dc:source>
-            <dc:date>2023-07-24</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06317-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06317-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02313-1">
-            <title><![CDATA[Pack up the parachute: why global north–south collaborations need to change]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02313-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 24 July 2023; <a href="https://www.nature.com/articles/d41586-023-02313-1">doi:10.1038/d41586-023-02313-1</a></p>Global-south researchers want equal partnerships that value intellectual exchange.]]></content:encoded>
-            <dc:title><![CDATA[Pack up the parachute: why global north–south collaborations need to change]]></dc:title>
-            <dc:creator>Virginia Gewin</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02313-1</dc:identifier>
-            <dc:source>Nature, Published online: 2023-07-24; | doi:10.1038/d41586-023-02313-1</dc:source>
-            <dc:date>2023-07-24</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02313-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02313-1</prism:url>
         </item>
     
 </rdf:RDF>
