@@ -18,11 +18,21 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06475-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02238-9"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02446-3"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02447-2"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02341-x"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02342-w"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02403-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02462-3"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02404-z"/>
                 
@@ -158,16 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02366-2"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02401-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02361-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02369-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06450-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06458-x"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,66 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-023-06475-w">
+            <title><![CDATA[Publisher Correction: Complementary Alu sequences mediate enhancer–promoter selectivity]]></title>
+            <link>https://www.nature.com/articles/s41586-023-06475-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 31 July 2023; <a href="https://www.nature.com/articles/s41586-023-06475-w">doi:10.1038/s41586-023-06475-w</a></p>Publisher Correction: Complementary Alu sequences mediate enhancer–promoter selectivity]]></content:encoded>
+            <dc:title><![CDATA[Publisher Correction: Complementary Alu sequences mediate enhancer–promoter selectivity]]></dc:title>
+            <dc:creator>Liang Liang</dc:creator><dc:creator>Changchang Cao</dc:creator><dc:creator>Lei Ji</dc:creator><dc:creator>Zhaokui Cai</dc:creator><dc:creator>Di Wang</dc:creator><dc:creator>Rong Ye</dc:creator><dc:creator>Juan Chen</dc:creator><dc:creator>Xiaohua Yu</dc:creator><dc:creator>Jie Zhou</dc:creator><dc:creator>Zhibo Bai</dc:creator><dc:creator>Ruoyan Wang</dc:creator><dc:creator>Xianguang Yang</dc:creator><dc:creator>Ping Zhu</dc:creator><dc:creator>Yuanchao Xue</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-023-06475-w</dc:identifier>
+            <dc:source>Nature, Published online: 2023-07-31; | doi:10.1038/s41586-023-06475-w</dc:source>
+            <dc:date>2023-07-31</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-023-06475-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-023-06475-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02238-9">
+            <title><![CDATA[A call to reduce the carbon costs of forest harvest]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02238-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 31 July 2023; <a href="https://www.nature.com/articles/d41586-023-02238-9">doi:10.1038/d41586-023-02238-9</a></p>Economic modelling of the global carbon cost of harvesting wood from forests shows a much higher annual cost than that estimated by other models, highlighting a major opportunity for reducing emissions by limiting wood harvests.]]></content:encoded>
+            <dc:title><![CDATA[A call to reduce the carbon costs of forest harvest]]></dc:title>
+            <dc:creator>William R. Moomaw</dc:creator><dc:creator>Beverly E. Law</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02238-9</dc:identifier>
+            <dc:source>Nature, Published online: 2023-07-31; | doi:10.1038/d41586-023-02238-9</dc:source>
+            <dc:date>2023-07-31</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02238-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02238-9</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02446-3">
+            <title><![CDATA[Anna Atkins: pioneering botanical photographer who captured algae and ferns in ghostly blue images]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02446-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 31 July 2023; <a href="https://www.nature.com/articles/d41586-023-02446-3">doi:10.1038/d41586-023-02446-3</a></p>A compilation of 550 original plates reveals the dedicated work of the nineteenth-century woman who was the first to publish a book with cyanotypes of specimens.]]></content:encoded>
+            <dc:title><![CDATA[Anna Atkins: pioneering botanical photographer who captured algae and ferns in ghostly blue images]]></dc:title>
+            <dc:creator>Georgina Ferry</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02446-3</dc:identifier>
+            <dc:source>Nature, Published online: 2023-07-31; | doi:10.1038/d41586-023-02446-3</dc:source>
+            <dc:date>2023-07-31</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02446-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02446-3</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02447-2">
+            <title><![CDATA[Millions of jobs in food production are disappearing — a change in mindset would help to keep them]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02447-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 31 July 2023; <a href="https://www.nature.com/articles/d41586-023-02447-2">doi:10.1038/d41586-023-02447-2</a></p>Halting the loss of jobs and knowledge from small-scale producers requires investing in rural sustainability, addressing poverty and inequity and ensuring the economic gains stay local. The benefits would be shared globally.]]></content:encoded>
+            <dc:title><![CDATA[Millions of jobs in food production are disappearing — a change in mindset would help to keep them]]></dc:title>
+            <dc:creator>Eduardo S. Brondizio</dc:creator><dc:creator>Stacey A. Giroux</dc:creator><dc:creator>Julia C. D. Valliant</dc:creator><dc:creator>Jordan Blekking</dc:creator><dc:creator>Stephanie Dickinson</dc:creator><dc:creator>Beate Henschel</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02447-2</dc:identifier>
+            <dc:source>Nature, Published online: 2023-07-31; | doi:10.1038/d41586-023-02447-2</dc:source>
+            <dc:date>2023-07-31</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02447-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02447-2</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-02341-x">
             <title><![CDATA[Aggressive driving sends carbon levels soaring]]></title>
@@ -220,6 +280,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02403-0</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02403-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02462-3">
+            <title><![CDATA[Daily briefing: How AI eavesdrops on dolphins]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02462-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 July 2023; <a href="https://www.nature.com/articles/d41586-023-02462-3">doi:10.1038/d41586-023-02462-3</a></p>Endangered pink river dolphins have been tracked with the help of a neural network that recognizes their clicks and whistles. Plus, why silencing social media’s ‘echo chamber’ doesn’t fix political polarization.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: How AI eavesdrops on dolphins]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02462-3</dc:identifier>
+            <dc:source>Nature, Published online: 2023-07-28; | doi:10.1038/d41586-023-02462-3</dc:source>
+            <dc:date>2023-07-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02462-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02462-3</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-02404-z">
@@ -1225,81 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02366-2</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02366-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02401-2">
-            <title><![CDATA[‘A very disturbing picture’: another retraction imminent for controversial physicist]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02401-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 25 July 2023; <a href="https://www.nature.com/articles/d41586-023-02401-2">doi:10.1038/d41586-023-02401-2</a></p>Ranga Dias will have a second paper revoked. A journal’s investigation found apparent data fabrication.]]></content:encoded>
-            <dc:title><![CDATA[‘A very disturbing picture’: another retraction imminent for controversial physicist]]></dc:title>
-            <dc:creator>Dan Garisto</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02401-2</dc:identifier>
-            <dc:source>Nature, Published online: 2023-07-25; | doi:10.1038/d41586-023-02401-2</dc:source>
-            <dc:date>2023-07-25</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02401-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02401-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02361-7">
-            <title><![CDATA[ChatGPT broke the Turing test — the race is on for new ways to assess AI]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02361-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 25 July 2023; <a href="https://www.nature.com/articles/d41586-023-02361-7">doi:10.1038/d41586-023-02361-7</a></p>Large language models mimic human chatter, but scientists disagree on their ability to reason.]]></content:encoded>
-            <dc:title><![CDATA[ChatGPT broke the Turing test — the race is on for new ways to assess AI]]></dc:title>
-            <dc:creator>Celeste Biever</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02361-7</dc:identifier>
-            <dc:source>Nature, Published online: 2023-07-25; | doi:10.1038/d41586-023-02361-7</dc:source>
-            <dc:date>2023-07-25</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02361-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02361-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02369-z">
-            <title><![CDATA[I’ve witnessed the wonders of the deep sea. Mining could destroy them]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02369-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 25 July 2023; <a href="https://www.nature.com/articles/d41586-023-02369-z">doi:10.1038/d41586-023-02369-z</a></p>Deep-sea mining could wreck more than just the ocean floor in ways we have no idea how to repair.]]></content:encoded>
-            <dc:title><![CDATA[I’ve witnessed the wonders of the deep sea. Mining could destroy them]]></dc:title>
-            <dc:creator>Beth N. Orcutt</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02369-z</dc:identifier>
-            <dc:source>Nature, Published online: 2023-07-25; | doi:10.1038/d41586-023-02369-z</dc:source>
-            <dc:date>2023-07-25</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02369-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02369-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06450-5">
-            <title><![CDATA[Publisher Correction: Regulating surface potential maximizes voltage in all-perovskite tandems]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06450-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 24 July 2023; <a href="https://www.nature.com/articles/s41586-023-06450-5">doi:10.1038/s41586-023-06450-5</a></p>Publisher Correction: Regulating surface potential maximizes voltage in all-perovskite tandems]]></content:encoded>
-            <dc:title><![CDATA[Publisher Correction: Regulating surface potential maximizes voltage in all-perovskite tandems]]></dc:title>
-            <dc:creator>Hao Chen</dc:creator><dc:creator>Aidan Maxwell</dc:creator><dc:creator>Chongwen Li</dc:creator><dc:creator>Sam Teale</dc:creator><dc:creator>Bin Chen</dc:creator><dc:creator>Tong Zhu</dc:creator><dc:creator>Esma Ugur</dc:creator><dc:creator>George Harrison</dc:creator><dc:creator>Luke Grater</dc:creator><dc:creator>Junke Wang</dc:creator><dc:creator>Zaiwei Wang</dc:creator><dc:creator>Lewei Zeng</dc:creator><dc:creator>So Min Park</dc:creator><dc:creator>Lei Chen</dc:creator><dc:creator>Peter Serles</dc:creator><dc:creator>Rasha Abbas Awni</dc:creator><dc:creator>Biwas Subedi</dc:creator><dc:creator>Xiaopeng Zheng</dc:creator><dc:creator>Chuanxiao Xiao</dc:creator><dc:creator>Nikolas J. Podraza</dc:creator><dc:creator>Tobin Filleter</dc:creator><dc:creator>Cheng Liu</dc:creator><dc:creator>Yi Yang</dc:creator><dc:creator>Joseph M. Luther</dc:creator><dc:creator>Stefaan De Wolf</dc:creator><dc:creator>Mercouri G. Kanatzidis</dc:creator><dc:creator>Yanfa Yan</dc:creator><dc:creator>Edward H. Sargent</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06450-5</dc:identifier>
-            <dc:source>Nature, Published online: 2023-07-24; | doi:10.1038/s41586-023-06450-5</dc:source>
-            <dc:date>2023-07-24</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06450-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06450-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06458-x">
-            <title><![CDATA[Publisher Correction: Tree diversity increases decadal forest soil carbon and nitrogen accrual]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06458-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 24 July 2023; <a href="https://www.nature.com/articles/s41586-023-06458-x">doi:10.1038/s41586-023-06458-x</a></p>Publisher Correction: Tree diversity increases decadal forest soil carbon and nitrogen accrual]]></content:encoded>
-            <dc:title><![CDATA[Publisher Correction: Tree diversity increases decadal forest soil carbon and nitrogen accrual]]></dc:title>
-            <dc:creator>Xinli Chen</dc:creator><dc:creator>Anthony R. Taylor</dc:creator><dc:creator>Peter B. Reich</dc:creator><dc:creator>Masumi Hisano</dc:creator><dc:creator>Han Y. H. Chen</dc:creator><dc:creator>Scott X. Chang</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06458-x</dc:identifier>
-            <dc:source>Nature, Published online: 2023-07-24; | doi:10.1038/s41586-023-06458-x</dc:source>
-            <dc:date>2023-07-24</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06458-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06458-x</prism:url>
         </item>
     
 </rdf:RDF>
