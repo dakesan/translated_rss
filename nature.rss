@@ -18,6 +18,10 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02445-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02470-3"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06451-4"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06476-9"/>
@@ -164,10 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02439-2"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02434-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02111-9"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,36 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02445-4">
+            <title><![CDATA[Four key questions on the new wave of anti-obesity drugs]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02445-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 02 August 2023; <a href="https://www.nature.com/articles/d41586-023-02445-4">doi:10.1038/d41586-023-02445-4</a></p>Scientists want to know who will benefit most, what the long-term effects might be and whether the treatments will change views on obesity.]]></content:encoded>
+            <dc:title><![CDATA[Four key questions on the new wave of anti-obesity drugs]]></dc:title>
+            <dc:creator>McKenzie Prillaman</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02445-4</dc:identifier>
+            <dc:source>Nature, Published online: 2023-08-02; | doi:10.1038/d41586-023-02445-4</dc:source>
+            <dc:date>2023-08-02</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02445-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02445-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02470-3">
+            <title><![CDATA[ChatGPT-like AIs are coming to major science search engines]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02470-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 02 August 2023; <a href="https://www.nature.com/articles/d41586-023-02470-3">doi:10.1038/d41586-023-02470-3</a></p>Scopus, Dimensions and Web of Science are introducing conversational AI search.]]></content:encoded>
+            <dc:title><![CDATA[ChatGPT-like AIs are coming to major science search engines]]></dc:title>
+            <dc:creator>Richard Van Noorden</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02470-3</dc:identifier>
+            <dc:source>Nature, Published online: 2023-08-02; | doi:10.1038/d41586-023-02470-3</dc:source>
+            <dc:date>2023-08-02</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02470-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02470-3</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06451-4">
             <title><![CDATA[Author Correction: Observation of hydrodynamization and local prethermalization in 1D Bose gases]]></title>
@@ -1270,36 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02439-2</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02439-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02434-7">
-            <title><![CDATA[Bias in science: how to fight the good fight]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02434-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 26 July 2023; <a href="https://www.nature.com/articles/d41586-023-02434-7">doi:10.1038/d41586-023-02434-7</a></p>Good luck trying to dismantle entrenched structures and processes, says Athene Donald — but don’t give up, support is out there.]]></content:encoded>
-            <dc:title><![CDATA[Bias in science: how to fight the good fight]]></dc:title>
-            <dc:creator>Athene Donald</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02434-7</dc:identifier>
-            <dc:source>Nature, Published online: 2023-07-26; | doi:10.1038/d41586-023-02434-7</dc:source>
-            <dc:date>2023-07-26</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02434-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02434-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02111-9">
-            <title><![CDATA[Salamanders’ regenerative potential might be driven by a specific protein variant]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02111-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 26 July 2023; <a href="https://www.nature.com/articles/d41586-023-02111-9">doi:10.1038/d41586-023-02111-9</a></p>Axolotls — aquatic salamanders with an exceptional regenerative ability — rapidly increase their production of proteins in response to wounds. An axolotl-specific evolutionary divergence in a key protein called mTOR might drive this protein response and thus the regenerative potential of these amphibians, with possible implications for improving healing in mammals.]]></content:encoded>
-            <dc:title><![CDATA[Salamanders’ regenerative potential might be driven by a specific protein variant]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-02111-9</dc:identifier>
-            <dc:source>Nature, Published online: 2023-07-26; | doi:10.1038/d41586-023-02111-9</dc:source>
-            <dc:date>2023-07-26</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02111-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02111-9</prism:url>
         </item>
     
 </rdf:RDF>
