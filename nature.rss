@@ -18,6 +18,20 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02429-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02430-x"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02478-9"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02493-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02479-8"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02460-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01258-9"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06293-0"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02467-y"/>
@@ -90,6 +104,8 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02449-0"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02484-x"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02277-2"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02010-z"/>
@@ -152,22 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02413-y"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02447-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02341-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02342-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02403-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02462-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02404-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06455-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02425-8"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,111 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02429-4">
+            <title><![CDATA[JWST spots what could be a quasar from the early Universe]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02429-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 03 August 2023; <a href="https://www.nature.com/articles/d41586-023-02429-4">doi:10.1038/d41586-023-02429-4</a></p>The object’s deep red colour suggests it existed when the Universe was less than 700 million years old.]]></content:encoded>
+            <dc:title><![CDATA[JWST spots what could be a quasar from the early Universe]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-02429-4</dc:identifier>
+            <dc:source>Nature, Published online: 2023-08-03; | doi:10.1038/d41586-023-02429-4</dc:source>
+            <dc:date>2023-08-03</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02429-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02429-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02430-x">
+            <title><![CDATA[Cutting ships’ pollution has climate downside]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02430-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 03 August 2023; <a href="https://www.nature.com/articles/d41586-023-02430-x">doi:10.1038/d41586-023-02430-x</a></p>Rules on the fuel burned by ships at sea implemented in 2020 lead to local changes in cloud chemistry.]]></content:encoded>
+            <dc:title><![CDATA[Cutting ships’ pollution has climate downside]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-02430-x</dc:identifier>
+            <dc:source>Nature, Published online: 2023-08-03; | doi:10.1038/d41586-023-02430-x</dc:source>
+            <dc:date>2023-08-03</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02430-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02430-x</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02478-9">
+            <title><![CDATA[Ancient DNA reveals the living descendants of enslaved people through 23andMe]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02478-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 03 August 2023; <a href="https://www.nature.com/articles/d41586-023-02478-9">doi:10.1038/d41586-023-02478-9</a></p>A landmark genomic study raises the possibility that many more people could find links to distant ancestors through genetic analysis.]]></content:encoded>
+            <dc:title><![CDATA[Ancient DNA reveals the living descendants of enslaved people through 23andMe]]></dc:title>
+            <dc:creator>Ewen Callaway</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02478-9</dc:identifier>
+            <dc:source>Nature, Published online: 2023-08-03; | doi:10.1038/d41586-023-02478-9</dc:source>
+            <dc:date>2023-08-03</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02478-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02478-9</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02493-w">
+            <title><![CDATA[<i>Dr Semmelweis</i> review: Mark Rylance play shows how hand washing saved hundreds of lives]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02493-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 03 August 2023; <a href="https://www.nature.com/articles/d41586-023-02493-w">doi:10.1038/d41586-023-02493-w</a></p>Professional pride and personal tragedy stymied ideas about how infections spread in the nineteenth century, suggests a show about maverick Hungarian doctor Ignaz Semmelweis.]]></content:encoded>
+            <dc:title><![CDATA[<i>Dr Semmelweis</i> review: Mark Rylance play shows how hand washing saved hundreds of lives]]></dc:title>
+            <dc:creator>Georgina Ferry</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02493-w</dc:identifier>
+            <dc:source>Nature, Published online: 2023-08-03; | doi:10.1038/d41586-023-02493-w</dc:source>
+            <dc:date>2023-08-03</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02493-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02493-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02479-8">
+            <title><![CDATA[How the ‘groundbreaking’ Henrietta Lacks settlement could change research]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02479-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 03 August 2023; <a href="https://www.nature.com/articles/d41586-023-02479-8">doi:10.1038/d41586-023-02479-8</a></p>Thermo Fisher Scientific and Lacks’s family reach a deal over the unethical use of her cells.]]></content:encoded>
+            <dc:title><![CDATA[How the ‘groundbreaking’ Henrietta Lacks settlement could change research]]></dc:title>
+            <dc:creator>Anil Oza</dc:creator><dc:creator>Mariana Lenharo</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02479-8</dc:identifier>
+            <dc:source>Nature, Published online: 2023-08-03; | doi:10.1038/d41586-023-02479-8</dc:source>
+            <dc:date>2023-08-03</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02479-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02479-8</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02460-5">
+            <title><![CDATA[‘It’s a dream’: JWST spies more black holes than astronomers predicted]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02460-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 03 August 2023; <a href="https://www.nature.com/articles/d41586-023-02460-5">doi:10.1038/d41586-023-02460-5</a></p>The James Webb Space Telescope’s observations could help to answer questions about how the celestial objects formed early in the Universe.]]></content:encoded>
+            <dc:title><![CDATA[‘It’s a dream’: JWST spies more black holes than astronomers predicted]]></dc:title>
+            <dc:creator>Alexandra Witze</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02460-5</dc:identifier>
+            <dc:source>Nature, Published online: 2023-08-03; | doi:10.1038/d41586-023-02460-5</dc:source>
+            <dc:date>2023-08-03</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02460-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02460-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-01258-9">
+            <title><![CDATA[How Beijing's deadly floods could be avoided]]></title>
+            <link>https://www.nature.com/articles/d41586-023-01258-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 03 August 2023; <a href="https://www.nature.com/articles/d41586-023-01258-9">doi:10.1038/d41586-023-01258-9</a></p>The floods that have swept China in the past week were exacerbated by poor planning for drainage.]]></content:encoded>
+            <dc:title><![CDATA[How Beijing's deadly floods could be avoided]]></dc:title>
+            <dc:creator>Gemma Conroy</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-01258-9</dc:identifier>
+            <dc:source>Nature, Published online: 2023-08-03; | doi:10.1038/d41586-023-01258-9</dc:source>
+            <dc:date>2023-08-03</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-01258-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-01258-9</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06293-0">
             <title><![CDATA[Reply to: Revisiting the intrinsic mycobiome in pancreatic cancer]]></title>
@@ -717,6 +822,21 @@
             <prism:url>https://www.nature.com/articles/d41586-023-02449-0</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02484-x">
+            <title><![CDATA[Daily briefing: Proposed ban on ‘forever chemicals’ fuels debate]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02484-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 02 August 2023; <a href="https://www.nature.com/articles/d41586-023-02484-x">doi:10.1038/d41586-023-02484-x</a></p>As a European agency considers a PFAS ban, scientists ponder which uses of fluorinated chemicals are truly essential. Plus, genetically engineered cells produce insulin when they feel electricity and the world’s largest trials for long-COVID treatments launch.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Proposed ban on ‘forever chemicals’ fuels debate]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02484-x</dc:identifier>
+            <dc:source>Nature, Published online: 2023-08-02; | doi:10.1038/d41586-023-02484-x</dc:source>
+            <dc:date>2023-08-02</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02484-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02484-x</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-023-02277-2">
             <title><![CDATA[Variation in African genomes linked to control of HIV]]></title>
             <link>https://www.nature.com/articles/d41586-023-02277-2</link>
@@ -1180,126 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02413-y</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02413-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02447-2">
-            <title><![CDATA[Millions of jobs in food production are disappearing — a change in mindset would help to keep them]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02447-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 31 July 2023; <a href="https://www.nature.com/articles/d41586-023-02447-2">doi:10.1038/d41586-023-02447-2</a></p>Halting the loss of jobs and knowledge from small-scale producers requires investing in rural sustainability, addressing poverty and inequity and ensuring the economic gains stay local. The benefits would be shared globally.]]></content:encoded>
-            <dc:title><![CDATA[Millions of jobs in food production are disappearing — a change in mindset would help to keep them]]></dc:title>
-            <dc:creator>Eduardo S. Brondizio</dc:creator><dc:creator>Stacey A. Giroux</dc:creator><dc:creator>Julia C. D. Valliant</dc:creator><dc:creator>Jordan Blekking</dc:creator><dc:creator>Stephanie Dickinson</dc:creator><dc:creator>Beate Henschel</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02447-2</dc:identifier>
-            <dc:source>Nature, Published online: 2023-07-31; | doi:10.1038/d41586-023-02447-2</dc:source>
-            <dc:date>2023-07-31</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02447-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02447-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02341-x">
-            <title><![CDATA[Aggressive driving sends carbon levels soaring]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02341-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 28 July 2023; <a href="https://www.nature.com/articles/d41586-023-02341-x">doi:10.1038/d41586-023-02341-x</a></p>Analysis of data from China shows that calm driving in that country alone can save nearly half a billion tonnes of carbon dioxide by 2050.]]></content:encoded>
-            <dc:title><![CDATA[Aggressive driving sends carbon levels soaring]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-02341-x</dc:identifier>
-            <dc:source>Nature, Published online: 2023-07-28; | doi:10.1038/d41586-023-02341-x</dc:source>
-            <dc:date>2023-07-28</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02341-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02341-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02342-w">
-            <title><![CDATA[DNA origami provides a stout armour for cells]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02342-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 28 July 2023; <a href="https://www.nature.com/articles/d41586-023-02342-w">doi:10.1038/d41586-023-02342-w</a></p>A double layer of twisted, folded DNA protects cells from mechanical forces while allowing them freedom to assemble.]]></content:encoded>
-            <dc:title><![CDATA[DNA origami provides a stout armour for cells]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-02342-w</dc:identifier>
-            <dc:source>Nature, Published online: 2023-07-28; | doi:10.1038/d41586-023-02342-w</dc:source>
-            <dc:date>2023-07-28</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02342-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02342-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02403-0">
-            <title><![CDATA[AI search of Neanderthal proteins resurrects ‘extinct’ antibiotics]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02403-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 28 July 2023; <a href="https://www.nature.com/articles/d41586-023-02403-0">doi:10.1038/d41586-023-02403-0</a></p>Scientists identify protein snippets made by extinct hominins.]]></content:encoded>
-            <dc:title><![CDATA[AI search of Neanderthal proteins resurrects ‘extinct’ antibiotics]]></dc:title>
-            <dc:creator>Saima Sidik</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02403-0</dc:identifier>
-            <dc:source>Nature, Published online: 2023-07-28; | doi:10.1038/d41586-023-02403-0</dc:source>
-            <dc:date>2023-07-28</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02403-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02403-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02462-3">
-            <title><![CDATA[Daily briefing: How AI eavesdrops on dolphins]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02462-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 28 July 2023; <a href="https://www.nature.com/articles/d41586-023-02462-3">doi:10.1038/d41586-023-02462-3</a></p>Endangered pink river dolphins have been tracked with the help of a neural network that recognizes their clicks and whistles. Plus, why silencing social media’s ‘echo chamber’ doesn’t fix political polarization.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: How AI eavesdrops on dolphins]]></dc:title>
-            <dc:creator>Flora Graham</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02462-3</dc:identifier>
-            <dc:source>Nature, Published online: 2023-07-28; | doi:10.1038/d41586-023-02462-3</dc:source>
-            <dc:date>2023-07-28</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02462-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02462-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02404-z">
-            <title><![CDATA[‘Virgin birth’ genetically engineered into female animals for the first time]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02404-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 28 July 2023; <a href="https://www.nature.com/articles/d41586-023-02404-z">doi:10.1038/d41586-023-02404-z</a></p>Scientists alter the genomes of female fruit flies, allowing them to reproduce without any contribution from a male.]]></content:encoded>
-            <dc:title><![CDATA[‘Virgin birth’ genetically engineered into female animals for the first time]]></dc:title>
-            <dc:creator>Anil Oza</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02404-z</dc:identifier>
-            <dc:source>Nature, Published online: 2023-07-28; | doi:10.1038/d41586-023-02404-z</dc:source>
-            <dc:date>2023-07-28</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02404-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02404-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06455-0">
-            <title><![CDATA[Publisher Correction: Large language models encode clinical knowledge]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06455-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 27 July 2023; <a href="https://www.nature.com/articles/s41586-023-06455-0">doi:10.1038/s41586-023-06455-0</a></p>Publisher Correction: Large language models encode clinical knowledge]]></content:encoded>
-            <dc:title><![CDATA[Publisher Correction: Large language models encode clinical knowledge]]></dc:title>
-            <dc:creator>Karan Singhal</dc:creator><dc:creator>Shekoofeh Azizi</dc:creator><dc:creator>Tao Tu</dc:creator><dc:creator>S. Sara Mahdavi</dc:creator><dc:creator>Jason Wei</dc:creator><dc:creator>Hyung Won Chung</dc:creator><dc:creator>Nathan Scales</dc:creator><dc:creator>Ajay Tanwani</dc:creator><dc:creator>Heather Cole-Lewis</dc:creator><dc:creator>Stephen Pfohl</dc:creator><dc:creator>Perry Payne</dc:creator><dc:creator>Martin Seneviratne</dc:creator><dc:creator>Paul Gamble</dc:creator><dc:creator>Chris Kelly</dc:creator><dc:creator>Abubakr Babiker</dc:creator><dc:creator>Nathanael Schärli</dc:creator><dc:creator>Aakanksha Chowdhery</dc:creator><dc:creator>Philip Mansfield</dc:creator><dc:creator>Dina Demner-Fushman</dc:creator><dc:creator>Blaise Agüera y Arcas</dc:creator><dc:creator>Dale Webster</dc:creator><dc:creator>Greg S. Corrado</dc:creator><dc:creator>Yossi Matias</dc:creator><dc:creator>Katherine Chou</dc:creator><dc:creator>Juraj Gottweis</dc:creator><dc:creator>Nenad Tomasev</dc:creator><dc:creator>Yun Liu</dc:creator><dc:creator>Alvin Rajkomar</dc:creator><dc:creator>Joelle Barral</dc:creator><dc:creator>Christopher Semturs</dc:creator><dc:creator>Alan Karthikesalingam</dc:creator><dc:creator>Vivek Natarajan</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06455-0</dc:identifier>
-            <dc:source>Nature, Published online: 2023-07-27; | doi:10.1038/s41586-023-06455-0</dc:source>
-            <dc:date>2023-07-27</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06455-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06455-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02425-8">
-            <title><![CDATA[Facebook ‘echo chamber’ has little impact on polarized views, according to study]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02425-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 27 July 2023; <a href="https://www.nature.com/articles/d41586-023-02425-8">doi:10.1038/d41586-023-02425-8</a></p>An experiment which tweaked social media algorithms found no effect on polarization of views.]]></content:encoded>
-            <dc:title><![CDATA[Facebook ‘echo chamber’ has little impact on polarized views, according to study]]></dc:title>
-            <dc:creator>Nick Petrić Howe</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02425-8</dc:identifier>
-            <dc:source>Nature, Published online: 2023-07-27; | doi:10.1038/d41586-023-02425-8</dc:source>
-            <dc:date>2023-07-27</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02425-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02425-8</prism:url>
         </item>
     
 </rdf:RDF>
