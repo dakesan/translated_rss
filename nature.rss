@@ -18,6 +18,8 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02505-9"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02429-4"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02430-x"/>
@@ -166,8 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02474-z"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02413-y"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,21 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02505-9">
+            <title><![CDATA[The bitter-sweet history of sugar, and the marvels of measurement: Books in Brief]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02505-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 04 August 2023; <a href="https://www.nature.com/articles/d41586-023-02505-9">doi:10.1038/d41586-023-02505-9</a></p>Andrew Robinson reviews five of the best science picks.]]></content:encoded>
+            <dc:title><![CDATA[The bitter-sweet history of sugar, and the marvels of measurement: Books in Brief]]></dc:title>
+            <dc:creator>Andrew Robinson</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02505-9</dc:identifier>
+            <dc:source>Nature, Published online: 2023-08-04; | doi:10.1038/d41586-023-02505-9</dc:source>
+            <dc:date>2023-08-04</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02505-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02505-9</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-02429-4">
             <title><![CDATA[JWST spots what could be a quasar from the early Universe]]></title>
@@ -196,7 +211,7 @@
             <title><![CDATA[Cutting ships’ pollution has climate downside]]></title>
             <link>https://www.nature.com/articles/d41586-023-02430-x</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 03 August 2023; <a href="https://www.nature.com/articles/d41586-023-02430-x">doi:10.1038/d41586-023-02430-x</a></p>Rules on the fuel burned by ships at sea implemented in 2020 lead to local changes in cloud chemistry.]]></content:encoded>
+                <![CDATA[<p>Nature, Published online: 03 August 2023; <a href="https://www.nature.com/articles/d41586-023-02430-x">doi:10.1038/d41586-023-02430-x</a></p>Rules on the fuel burnt by ships at sea implemented in 2020 lead to local changes in cloud chemistry.]]></content:encoded>
             <dc:title><![CDATA[Cutting ships’ pollution has climate downside]]></dc:title>
             
             <dc:identifier>doi:10.1038/d41586-023-02430-x</dc:identifier>
@@ -1285,21 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02474-z</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02474-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02413-y">
-            <title><![CDATA[Threatened Mexican oasis loses its main researcher and protector — will it survive?]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02413-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 31 July 2023; <a href="https://www.nature.com/articles/d41586-023-02413-y">doi:10.1038/d41586-023-02413-y</a></p>Valeria Souza has long fought the drainage of the Cuatro Ciénegas basin, where ancient microbes offer clues to the origins of life.]]></content:encoded>
-            <dc:title><![CDATA[Threatened Mexican oasis loses its main researcher and protector — will it survive?]]></dc:title>
-            <dc:creator>Myriam Vidal Valero</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02413-y</dc:identifier>
-            <dc:source>Nature, Published online: 2023-07-31; | doi:10.1038/d41586-023-02413-y</dc:source>
-            <dc:date>2023-07-31</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02413-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02413-y</prism:url>
         </item>
     
 </rdf:RDF>
