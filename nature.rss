@@ -18,11 +18,21 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02497-6"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02495-8"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02496-7"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02491-y"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02499-4"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02498-5"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01907-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02520-w"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02505-9"/>
                 
@@ -158,16 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02476-x"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02443-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02472-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02444-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02204-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02442-7"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,66 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02497-6">
+            <title><![CDATA[Ethiopia paved the way for the Nagoya Protocol]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02497-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 August 2023; <a href="https://www.nature.com/articles/d41586-023-02497-6">doi:10.1038/d41586-023-02497-6</a></p>Ethiopia paved the way for the Nagoya Protocol]]></content:encoded>
+            <dc:title><![CDATA[Ethiopia paved the way for the Nagoya Protocol]]></dc:title>
+            <dc:creator>Bruk Lemma</dc:creator><dc:creator>Melesse Maryo</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02497-6</dc:identifier>
+            <dc:source>Nature, Published online: 2023-08-08; | doi:10.1038/d41586-023-02497-6</dc:source>
+            <dc:date>2023-08-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02497-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02497-6</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02495-8">
+            <title><![CDATA[Control side effects of the psychedelic renaissance]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02495-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 August 2023; <a href="https://www.nature.com/articles/d41586-023-02495-8">doi:10.1038/d41586-023-02495-8</a></p>Control side effects of the psychedelic renaissance]]></content:encoded>
+            <dc:title><![CDATA[Control side effects of the psychedelic renaissance]]></dc:title>
+            <dc:creator>Christoph Bublitz</dc:creator><dc:creator>Nicolas Langlitz</dc:creator><dc:creator>Dimitris Repantis</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02495-8</dc:identifier>
+            <dc:source>Nature, Published online: 2023-08-08; | doi:10.1038/d41586-023-02495-8</dc:source>
+            <dc:date>2023-08-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02495-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02495-8</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02496-7">
+            <title><![CDATA[Research excellence: make funding governance more transparent]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02496-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 August 2023; <a href="https://www.nature.com/articles/d41586-023-02496-7">doi:10.1038/d41586-023-02496-7</a></p>Research excellence: make funding governance more transparent]]></content:encoded>
+            <dc:title><![CDATA[Research excellence: make funding governance more transparent]]></dc:title>
+            <dc:creator>Thomas Butts</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02496-7</dc:identifier>
+            <dc:source>Nature, Published online: 2023-08-08; | doi:10.1038/d41586-023-02496-7</dc:source>
+            <dc:date>2023-08-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02496-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02496-7</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02491-y">
+            <title><![CDATA[Rules to keep AI in check: nations carve different paths for tech regulation]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02491-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 August 2023; <a href="https://www.nature.com/articles/d41586-023-02491-y">doi:10.1038/d41586-023-02491-y</a></p>A guide to how China, the EU and the US are reining in artificial intelligence.]]></content:encoded>
+            <dc:title><![CDATA[Rules to keep AI in check: nations carve different paths for tech regulation]]></dc:title>
+            <dc:creator>Matthew Hutson</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02491-y</dc:identifier>
+            <dc:source>Nature, Published online: 2023-08-08; | doi:10.1038/d41586-023-02491-y</dc:source>
+            <dc:date>2023-08-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02491-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02491-y</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-02499-4">
             <title><![CDATA[Feeding bacteria seaweed to make compostable plastic]]></title>
@@ -220,6 +280,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-01907-z</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-01907-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02520-w">
+            <title><![CDATA[Daily briefing: 23andMe DNA reveals living descendants of enslaved people]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02520-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 07 August 2023; <a href="https://www.nature.com/articles/d41586-023-02520-w">doi:10.1038/d41586-023-02520-w</a></p>DNA analysis from a genetic database finds nearly 42,000 living descendants of 27 African American furnace workers from the 18th and 19th century. Plus, efforts to replicate claims of a room-temperature superconductor fall short, and how to get the most out of remote conferences.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: 23andMe DNA reveals living descendants of enslaved people]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02520-w</dc:identifier>
+            <dc:source>Nature, Published online: 2023-08-07; | doi:10.1038/d41586-023-02520-w</dc:source>
+            <dc:date>2023-08-07</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02520-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02520-w</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-02505-9">
@@ -1225,81 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02476-x</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02476-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02443-6">
-            <title><![CDATA[Power companies must adapt to climate change now. Here’s how researchers can help]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02443-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 01 August 2023; <a href="https://www.nature.com/articles/d41586-023-02443-6">doi:10.1038/d41586-023-02443-6</a></p>To protect millions from unnecessary power outages, utility companies need one thing above all: data.]]></content:encoded>
-            <dc:title><![CDATA[Power companies must adapt to climate change now. Here’s how researchers can help]]></dc:title>
-            <dc:creator>Juliet Homer</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02443-6</dc:identifier>
-            <dc:source>Nature, Published online: 2023-08-01; | doi:10.1038/d41586-023-02443-6</dc:source>
-            <dc:date>2023-08-01</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02443-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02443-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02472-1">
-            <title><![CDATA[NIH launches trials for long COVID treatments: what scientists think]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02472-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 01 August 2023; <a href="https://www.nature.com/articles/d41586-023-02472-1">doi:10.1038/d41586-023-02472-1</a></p>World’s largest study of long COVID will evaluate potential therapies for brain fog, sleep disruption and more.]]></content:encoded>
-            <dc:title><![CDATA[NIH launches trials for long COVID treatments: what scientists think]]></dc:title>
-            <dc:creator>Max Kozlov</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02472-1</dc:identifier>
-            <dc:source>Nature, Published online: 2023-08-01; | doi:10.1038/d41586-023-02472-1</dc:source>
-            <dc:date>2023-08-01</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02472-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02472-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02444-5">
-            <title><![CDATA[Could the world go PFAS-free? Proposal to ban ‘forever chemicals’ fuels debate]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02444-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 01 August 2023; <a href="https://www.nature.com/articles/d41586-023-02444-5">doi:10.1038/d41586-023-02444-5</a></p>A European agency is considering sweeping restrictions on fluorinated chemicals used in jet engines, electric cars, refrigeration systems, semiconductors and many consumer products.]]></content:encoded>
-            <dc:title><![CDATA[Could the world go PFAS-free? Proposal to ban ‘forever chemicals’ fuels debate]]></dc:title>
-            <dc:creator>XiaoZhi Lim</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02444-5</dc:identifier>
-            <dc:source>Nature, Published online: 2023-08-01; | doi:10.1038/d41586-023-02444-5</dc:source>
-            <dc:date>2023-08-01</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02444-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02444-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02204-5">
-            <title><![CDATA[What whale falls can teach us about biodiversity and climate change]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02204-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 01 August 2023; <a href="https://www.nature.com/articles/d41586-023-02204-5">doi:10.1038/d41586-023-02204-5</a></p>Anaëlle Durfort shares her experience quantifying oceanic carbon sinks.]]></content:encoded>
-            <dc:title><![CDATA[What whale falls can teach us about biodiversity and climate change]]></dc:title>
-            <dc:creator>Magali Reinert</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02204-5</dc:identifier>
-            <dc:source>Nature, Published online: 2023-08-01; | doi:10.1038/d41586-023-02204-5</dc:source>
-            <dc:date>2023-08-01</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02204-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02204-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02442-7">
-            <title><![CDATA[Water crisis: how local technologies can help solve a global problem]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02442-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 01 August 2023; <a href="https://www.nature.com/articles/d41586-023-02442-7">doi:10.1038/d41586-023-02442-7</a></p>Climate change is making water stress worse for billions worldwide. Scaling up both new and traditional solutions must be a priority.]]></content:encoded>
-            <dc:title><![CDATA[Water crisis: how local technologies can help solve a global problem]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-02442-7</dc:identifier>
-            <dc:source>Nature, Published online: 2023-08-01; | doi:10.1038/d41586-023-02442-7</dc:source>
-            <dc:date>2023-08-01</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02442-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02442-7</prism:url>
         </item>
     
 </rdf:RDF>
