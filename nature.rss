@@ -18,6 +18,8 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02499-4"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02498-5"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01907-z"/>
@@ -166,8 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02442-7"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02461-4"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,21 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02499-4">
+            <title><![CDATA[Feeding bacteria seaweed to make compostable plastic]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02499-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 07 August 2023; <a href="https://www.nature.com/articles/d41586-023-02499-4">doi:10.1038/d41586-023-02499-4</a></p>Bioprocess engineer Jesús E. Rodríguez’s team dreams of replacing all synthetic plastics with biodegradable products.]]></content:encoded>
+            <dc:title><![CDATA[Feeding bacteria seaweed to make compostable plastic]]></dc:title>
+            <dc:creator>Patricia Maia Noronha</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02499-4</dc:identifier>
+            <dc:source>Nature, Published online: 2023-08-07; | doi:10.1038/d41586-023-02499-4</dc:source>
+            <dc:date>2023-08-07</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02499-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02499-4</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-02498-5">
             <title><![CDATA[Is it time for tenure to evolve?]]></title>
@@ -1021,7 +1036,7 @@
             <title><![CDATA[ChatGPT-like AIs are coming to major science search engines]]></title>
             <link>https://www.nature.com/articles/d41586-023-02470-3</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 02 August 2023; <a href="https://www.nature.com/articles/d41586-023-02470-3">doi:10.1038/d41586-023-02470-3</a></p>Scopus, Dimensions and Web of Science are introducing conversational AI search.]]></content:encoded>
+                <![CDATA[<p>Nature, Published online: 02 August 2023; <a href="https://www.nature.com/articles/d41586-023-02470-3">doi:10.1038/d41586-023-02470-3</a></p>The Scopus, Dimensions and Web of Science databases are introducing conversational AI search.]]></content:encoded>
             <dc:title><![CDATA[ChatGPT-like AIs are coming to major science search engines]]></dc:title>
             <dc:creator>Richard Van Noorden</dc:creator>
             <dc:identifier>doi:10.1038/d41586-023-02470-3</dc:identifier>
@@ -1285,21 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02442-7</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02442-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02461-4">
-            <title><![CDATA[Experimental insulin implant uses electricity to control genes]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02461-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 01 August 2023; <a href="https://www.nature.com/articles/d41586-023-02461-4">doi:10.1038/d41586-023-02461-4</a></p>Human cells that have been engineered to respond to an electrical current could be incorporated into future medical devices.]]></content:encoded>
-            <dc:title><![CDATA[Experimental insulin implant uses electricity to control genes]]></dc:title>
-            <dc:creator>Lilly Tozer</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02461-4</dc:identifier>
-            <dc:source>Nature, Published online: 2023-08-01; | doi:10.1038/d41586-023-02461-4</dc:source>
-            <dc:date>2023-08-01</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02461-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02461-4</prism:url>
         </item>
     
 </rdf:RDF>
