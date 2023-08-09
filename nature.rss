@@ -18,13 +18,19 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06507-5"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02497-6"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02356-4"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02495-8"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02496-7"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02491-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02510-y"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02499-4"/>
                 
@@ -162,12 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02357-3"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02435-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02471-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02476-x"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,21 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-023-06507-5">
+            <title><![CDATA[Bonding wood with uncondensed lignins as adhesives]]></title>
+            <link>https://www.nature.com/articles/s41586-023-06507-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 August 2023; <a href="https://www.nature.com/articles/s41586-023-06507-5">doi:10.1038/s41586-023-06507-5</a></p>Bonding wood with uncondensed lignins as adhesives]]></content:encoded>
+            <dc:title><![CDATA[Bonding wood with uncondensed lignins as adhesives]]></dc:title>
+            <dc:creator>Guangxu Yang</dc:creator><dc:creator>Zhenggang Gong</dc:creator><dc:creator>Xiaolin Luo</dc:creator><dc:creator>Lihui Chen</dc:creator><dc:creator>Li Shuai</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-023-06507-5</dc:identifier>
+            <dc:source>Nature, Published online: 2023-08-08; | doi:10.1038/s41586-023-06507-5</dc:source>
+            <dc:date>2023-08-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-023-06507-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-023-06507-5</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-02497-6">
             <title><![CDATA[Ethiopia paved the way for the Nagoya Protocol]]></title>
@@ -190,6 +205,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02497-6</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02497-6</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02356-4">
+            <title><![CDATA[From the archive: the tenacity of eels, and weatherproofing St Paul’s]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02356-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 August 2023; <a href="https://www.nature.com/articles/d41586-023-02356-4">doi:10.1038/d41586-023-02356-4</a></p>Snippets from Nature’s past.]]></content:encoded>
+            <dc:title><![CDATA[From the archive: the tenacity of eels, and weatherproofing St Paul’s]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-02356-4</dc:identifier>
+            <dc:source>Nature, Published online: 2023-08-08; | doi:10.1038/d41586-023-02356-4</dc:source>
+            <dc:date>2023-08-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02356-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02356-4</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-02495-8">
@@ -237,6 +267,21 @@
             <prism:url>https://www.nature.com/articles/d41586-023-02491-y</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02510-y">
+            <title><![CDATA[Clean energy can fuel the future — and make the world healthier]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02510-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 August 2023; <a href="https://www.nature.com/articles/d41586-023-02510-y">doi:10.1038/d41586-023-02510-y</a></p>Research challenges the myth that clean energy acts as a brake on global economic development.]]></content:encoded>
+            <dc:title><![CDATA[Clean energy can fuel the future — and make the world healthier]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-02510-y</dc:identifier>
+            <dc:source>Nature, Published online: 2023-08-08; | doi:10.1038/d41586-023-02510-y</dc:source>
+            <dc:date>2023-08-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02510-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02510-y</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-023-02499-4">
             <title><![CDATA[Feeding bacteria seaweed to make compostable plastic]]></title>
             <link>https://www.nature.com/articles/d41586-023-02499-4</link>
@@ -256,7 +301,7 @@
             <title><![CDATA[Is it time for tenure to evolve?]]></title>
             <link>https://www.nature.com/articles/d41586-023-02498-5</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 07 August 2023; <a href="https://www.nature.com/articles/d41586-023-02498-5">doi:10.1038/d41586-023-02498-5</a></p>After a spate of high-profile tenure denials, US academics are rethinking how this beleagured academic process can be made more fair.]]></content:encoded>
+                <![CDATA[<p>Nature, Published online: 07 August 2023; <a href="https://www.nature.com/articles/d41586-023-02498-5">doi:10.1038/d41586-023-02498-5</a></p>After a spate of high-profile tenure denials, US academics are rethinking how this beleaguered academic process can be made more fair.]]></content:encoded>
             <dc:title><![CDATA[Is it time for tenure to evolve?]]></dc:title>
             <dc:creator>Amber Dance</dc:creator>
             <dc:identifier>doi:10.1038/d41586-023-02498-5</dc:identifier>
@@ -1255,51 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02357-3</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02357-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02435-6">
-            <title><![CDATA[Methane metrics: the political stakes]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02435-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 01 August 2023; <a href="https://www.nature.com/articles/d41586-023-02435-6">doi:10.1038/d41586-023-02435-6</a></p>Methane metrics: the political stakes]]></content:encoded>
-            <dc:title><![CDATA[Methane metrics: the political stakes]]></dc:title>
-            <dc:creator>Matthew N. Hayek</dc:creator><dc:creator>Jack Samuel</dc:creator><dc:creator>Shelby C. McClelland</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02435-6</dc:identifier>
-            <dc:source>Nature, Published online: 2023-08-01; | doi:10.1038/d41586-023-02435-6</dc:source>
-            <dc:date>2023-08-01</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02435-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02435-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02471-2">
-            <title><![CDATA[Children on fieldwork: how two scientist mothers made it happen]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02471-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 01 August 2023; <a href="https://www.nature.com/articles/d41586-023-02471-2">doi:10.1038/d41586-023-02471-2</a></p>We both struggled with the idea of juggling our families and field teams — but we found good reasons to keep pursuing our goals.]]></content:encoded>
-            <dc:title><![CDATA[Children on fieldwork: how two scientist mothers made it happen]]></dc:title>
-            <dc:creator>Verónica Laura Lozano</dc:creator><dc:creator>María Laura Sánchez</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02471-2</dc:identifier>
-            <dc:source>Nature, Published online: 2023-08-01; | doi:10.1038/d41586-023-02471-2</dc:source>
-            <dc:date>2023-08-01</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02471-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02471-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02476-x">
-            <title><![CDATA[Daily briefing: 12 microbiome myths busted]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02476-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 01 August 2023; <a href="https://www.nature.com/articles/d41586-023-02476-x">doi:10.1038/d41586-023-02476-x</a></p>Researchers tackle 12 common misconceptions about the human microbiome. Plus, the first images from the ‘dark universe’ space telescope, and an isolated Mexican oasis loses its main protector.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: 12 microbiome myths busted]]></dc:title>
-            <dc:creator>Flora Graham</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02476-x</dc:identifier>
-            <dc:source>Nature, Published online: 2023-08-01; | doi:10.1038/d41586-023-02476-x</dc:source>
-            <dc:date>2023-08-01</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02476-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02476-x</prism:url>
         </item>
     
 </rdf:RDF>
