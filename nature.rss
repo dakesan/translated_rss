@@ -18,9 +18,21 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02525-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02544-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02532-6"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02528-2"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02511-x"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02530-8"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02540-6"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02539-z"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06515-5"/>
                 
@@ -156,18 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02493-w"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02479-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02500-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02460-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-01258-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06293-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02467-y"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,66 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02525-5">
+            <title><![CDATA[Bronze Age deforestation changed Europe’s climate]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02525-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 10 August 2023; <a href="https://www.nature.com/articles/d41586-023-02525-5">doi:10.1038/d41586-023-02525-5</a></p>Tree-cutting driven by the switch to farming is linked with warmer summers in southern Europe.]]></content:encoded>
+            <dc:title><![CDATA[Bronze Age deforestation changed Europe’s climate]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-02525-5</dc:identifier>
+            <dc:source>Nature, Published online: 2023-08-10; | doi:10.1038/d41586-023-02525-5</dc:source>
+            <dc:date>2023-08-10</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02525-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02525-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02544-2">
+            <title><![CDATA[Why two scientist-mums made a database of parental-leave policies]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02544-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 10 August 2023; <a href="https://www.nature.com/articles/d41586-023-02544-2">doi:10.1038/d41586-023-02544-2</a></p>By scouring websites and pestering university human-resources departments, Amanda Gorton and Tess Grainger are tracking the vast differences in leave entitlements across North America.]]></content:encoded>
+            <dc:title><![CDATA[Why two scientist-mums made a database of parental-leave policies]]></dc:title>
+            <dc:creator>Amanda J.  Gorton</dc:creator><dc:creator>Tess  Grainger</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02544-2</dc:identifier>
+            <dc:source>Nature, Published online: 2023-08-10; | doi:10.1038/d41586-023-02544-2</dc:source>
+            <dc:date>2023-08-10</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02544-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02544-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02532-6">
+            <title><![CDATA[Dreams of new physics fade with latest muon magnetism result]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02532-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 10 August 2023; <a href="https://www.nature.com/articles/d41586-023-02532-6">doi:10.1038/d41586-023-02532-6</a></p>Precision test of particle’s magnetism confirms earlier shocking findings — but theory might not need a rethink after all.]]></content:encoded>
+            <dc:title><![CDATA[Dreams of new physics fade with latest muon magnetism result]]></dc:title>
+            <dc:creator>Davide Castelvecchi</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02532-6</dc:identifier>
+            <dc:source>Nature, Published online: 2023-08-10; | doi:10.1038/d41586-023-02532-6</dc:source>
+            <dc:date>2023-08-10</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02532-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02532-6</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02528-2">
+            <title><![CDATA[Anti-obesity drug also protects against heart disease — what happens next?]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02528-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 10 August 2023; <a href="https://www.nature.com/articles/d41586-023-02528-2">doi:10.1038/d41586-023-02528-2</a></p>Clinical-trial data suggest that semaglutide, sold under the name Wegovy, slashes risk of heart attacks and other cardiovascular incidents.]]></content:encoded>
+            <dc:title><![CDATA[Anti-obesity drug also protects against heart disease — what happens next?]]></dc:title>
+            <dc:creator>Mariana Lenharo</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02528-2</dc:identifier>
+            <dc:source>Nature, Published online: 2023-08-10; | doi:10.1038/d41586-023-02528-2</dc:source>
+            <dc:date>2023-08-10</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02528-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02528-2</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-02511-x">
             <title><![CDATA[How is Brazil’s President Lula doing on climate? Experts rate his performance]]></title>
@@ -192,6 +252,21 @@
             <prism:url>https://www.nature.com/articles/d41586-023-02511-x</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02530-8">
+            <title><![CDATA[How Ukraine’s crisis tested European attitudes towards refugees]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02530-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 10 August 2023; <a href="https://www.nature.com/articles/d41586-023-02530-8">doi:10.1038/d41586-023-02530-8</a></p>Despite what politicians say, Europeans have become more welcoming to people fleeing humanitarian crises.]]></content:encoded>
+            <dc:title><![CDATA[How Ukraine’s crisis tested European attitudes towards refugees]]></dc:title>
+            <dc:creator>Lilly Tozer</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02530-8</dc:identifier>
+            <dc:source>Nature, Published online: 2023-08-10; | doi:10.1038/d41586-023-02530-8</dc:source>
+            <dc:date>2023-08-10</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02530-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02530-8</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-023-02540-6">
             <title><![CDATA[Racism in health: the roots of the US Black maternal mortality crisis]]></title>
             <link>https://www.nature.com/articles/d41586-023-02540-6</link>
@@ -205,6 +280,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02540-6</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02540-6</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02539-z">
+            <title><![CDATA[Key alert system for disease outbreaks is in crisis — can it be saved?]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02539-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 10 August 2023; <a href="https://www.nature.com/articles/d41586-023-02539-z">doi:10.1038/d41586-023-02539-z</a></p>ProMED staff members look for rescue options, after going on strike and calling for new leadership and financing.]]></content:encoded>
+            <dc:title><![CDATA[Key alert system for disease outbreaks is in crisis — can it be saved?]]></dc:title>
+            <dc:creator>Max Kozlov</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02539-z</dc:identifier>
+            <dc:source>Nature, Published online: 2023-08-10; | doi:10.1038/d41586-023-02539-z</dc:source>
+            <dc:date>2023-08-10</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02539-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02539-z</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06515-5">
@@ -631,7 +721,7 @@
             <title><![CDATA[Threatened coastal species absent from Chinese protection lists]]></title>
             <link>https://www.nature.com/articles/d41586-023-02513-9</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 09 August 2023; <a href="https://www.nature.com/articles/d41586-023-02513-9">doi:10.1038/d41586-023-02513-9</a></p>The lack of legal protections for large coastal animals is leaving them — and their ecosystems — at risk, researchers say]]></content:encoded>
+                <![CDATA[<p>Nature, Published online: 09 August 2023; <a href="https://www.nature.com/articles/d41586-023-02513-9">doi:10.1038/d41586-023-02513-9</a></p>The lack of legal protections for large coastal animals is leaving them — and their ecosystems — at risk, researchers say.]]></content:encoded>
             <dc:title><![CDATA[Threatened coastal species absent from Chinese protection lists]]></dc:title>
             <dc:creator>Dyani Lewis</dc:creator>
             <dc:identifier>doi:10.1038/d41586-023-02513-9</dc:identifier>
@@ -811,7 +901,7 @@
             <title><![CDATA[Controlling pollution and overfishing can help protect coral reefs — but it’s not enough]]></title>
             <link>https://www.nature.com/articles/d41586-023-02512-w</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 09 August 2023; <a href="https://www.nature.com/articles/d41586-023-02512-w">doi:10.1038/d41586-023-02512-w</a></p>Local management of run-off and fishing intensity bolsters reef health but is no match for climate-induced heatwaves.]]></content:encoded>
+                <![CDATA[<p>Nature, Published online: 09 August 2023; <a href="https://www.nature.com/articles/d41586-023-02512-w">doi:10.1038/d41586-023-02512-w</a></p>Local management of runoff and fishing intensity bolsters reef health but is no match for climate-induced heatwaves.]]></content:encoded>
             <dc:title><![CDATA[Controlling pollution and overfishing can help protect coral reefs — but it’s not enough]]></dc:title>
             <dc:creator>Bianca Nogrady</dc:creator>
             <dc:identifier>doi:10.1038/d41586-023-02512-w</dc:identifier>
@@ -1210,96 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02493-w</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02493-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02479-8">
-            <title><![CDATA[How the ‘groundbreaking’ Henrietta Lacks settlement could change research]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02479-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 03 August 2023; <a href="https://www.nature.com/articles/d41586-023-02479-8">doi:10.1038/d41586-023-02479-8</a></p>Thermo Fisher Scientific and Lacks’s family reach a deal over the unethical use of her cells.]]></content:encoded>
-            <dc:title><![CDATA[How the ‘groundbreaking’ Henrietta Lacks settlement could change research]]></dc:title>
-            <dc:creator>Anil Oza</dc:creator><dc:creator>Mariana Lenharo</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02479-8</dc:identifier>
-            <dc:source>Nature, Published online: 2023-08-03; | doi:10.1038/d41586-023-02479-8</dc:source>
-            <dc:date>2023-08-03</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02479-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02479-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02500-0">
-            <title><![CDATA[Daily briefing: Giant ancient whale could be heavier than blue whale]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02500-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 03 August 2023; <a href="https://www.nature.com/articles/d41586-023-02500-0">doi:10.1038/d41586-023-02500-0</a></p>Perucetus colossus, an ancient whale that lived 38 million years ago, is a new contender for the heaviest animal ever. Plus, four key questions on the new wave of anti-obesity drugs.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: Giant ancient whale could be heavier than blue whale]]></dc:title>
-            <dc:creator>Flora Graham</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02500-0</dc:identifier>
-            <dc:source>Nature, Published online: 2023-08-03; | doi:10.1038/d41586-023-02500-0</dc:source>
-            <dc:date>2023-08-03</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02500-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02500-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02460-5">
-            <title><![CDATA[‘It’s a dream’: JWST spies more black holes than astronomers predicted]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02460-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 03 August 2023; <a href="https://www.nature.com/articles/d41586-023-02460-5">doi:10.1038/d41586-023-02460-5</a></p>The James Webb Space Telescope’s observations could help to answer questions about how the celestial objects formed early in the Universe.]]></content:encoded>
-            <dc:title><![CDATA[‘It’s a dream’: JWST spies more black holes than astronomers predicted]]></dc:title>
-            <dc:creator>Alexandra Witze</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02460-5</dc:identifier>
-            <dc:source>Nature, Published online: 2023-08-03; | doi:10.1038/d41586-023-02460-5</dc:source>
-            <dc:date>2023-08-03</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02460-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02460-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-01258-9">
-            <title><![CDATA[How Beijing’s deadly floods could be avoided]]></title>
-            <link>https://www.nature.com/articles/d41586-023-01258-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 03 August 2023; <a href="https://www.nature.com/articles/d41586-023-01258-9">doi:10.1038/d41586-023-01258-9</a></p>The floods that have swept China in the past week were exacerbated by poor planning for drainage.]]></content:encoded>
-            <dc:title><![CDATA[How Beijing’s deadly floods could be avoided]]></dc:title>
-            <dc:creator>Gemma Conroy</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-01258-9</dc:identifier>
-            <dc:source>Nature, Published online: 2023-08-03; | doi:10.1038/d41586-023-01258-9</dc:source>
-            <dc:date>2023-08-03</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-01258-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-01258-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06293-0">
-            <title><![CDATA[Reply to: Revisiting the intrinsic mycobiome in pancreatic cancer]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06293-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 02 August 2023; <a href="https://www.nature.com/articles/s41586-023-06293-0">doi:10.1038/s41586-023-06293-0</a></p>Reply to: Revisiting the intrinsic mycobiome in pancreatic cancer]]></content:encoded>
-            <dc:title><![CDATA[Reply to: Revisiting the intrinsic mycobiome in pancreatic cancer]]></dc:title>
-            <dc:creator>Fangxi Xu</dc:creator><dc:creator>Deepak Saxena</dc:creator><dc:creator>Smruti Pushalkar</dc:creator><dc:creator>George Miller</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06293-0</dc:identifier>
-            <dc:source>Nature, Published online: 2023-08-02; | doi:10.1038/s41586-023-06293-0</dc:source>
-            <dc:date>2023-08-02</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06293-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06293-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02467-y">
-            <title><![CDATA[How to get more women in science, with Athene Donald]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02467-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 02 August 2023; <a href="https://www.nature.com/articles/d41586-023-02467-y">doi:10.1038/d41586-023-02467-y</a></p>The experimental physicist joins us to talk about her book Not just for the boys, why we need more women in science.]]></content:encoded>
-            <dc:title><![CDATA[How to get more women in science, with Athene Donald]]></dc:title>
-            <dc:creator>Benjamin Thompson</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02467-y</dc:identifier>
-            <dc:source>Nature, Published online: 2023-08-02; | doi:10.1038/d41586-023-02467-y</dc:source>
-            <dc:date>2023-08-02</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02467-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02467-y</prism:url>
         </item>
     
 </rdf:RDF>
