@@ -18,13 +18,21 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02584-8"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02572-y"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02568-8"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02566-w"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02354-6"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02567-9"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02577-7"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02550-4"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02553-1"/>
                 
@@ -41,6 +49,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02571-z"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02555-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02581-x"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06276-1"/>
                 
@@ -158,16 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02378-y"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02512-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02159-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02489-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02487-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06507-5"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,36 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02584-8">
+            <title><![CDATA[Mohammed Yahia (1982–2023)]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02584-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 15 August 2023; <a href="https://www.nature.com/articles/d41586-023-02584-8">doi:10.1038/d41586-023-02584-8</a></p>Mohammed Yahia (1982–2023)]]></content:encoded>
+            <dc:title><![CDATA[Mohammed Yahia (1982–2023)]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-02584-8</dc:identifier>
+            <dc:source>Nature, Published online: 2023-08-15; | doi:10.1038/d41586-023-02584-8</dc:source>
+            <dc:date>2023-08-15</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02584-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02584-8</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02572-y">
+            <title><![CDATA[Drone missions uncover hidden features of the Battle of the Bulge]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02572-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 15 August 2023; <a href="https://www.nature.com/articles/d41586-023-02572-y">doi:10.1038/d41586-023-02572-y</a></p>Laser-based system penetrates the deep forest covering the site of a key battle in the Second World War.]]></content:encoded>
+            <dc:title><![CDATA[Drone missions uncover hidden features of the Battle of the Bulge]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-02572-y</dc:identifier>
+            <dc:source>Nature, Published online: 2023-08-15; | doi:10.1038/d41586-023-02572-y</dc:source>
+            <dc:date>2023-08-15</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02572-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02572-y</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-02568-8">
             <title><![CDATA[Land sparing must protect common species too]]></title>
@@ -207,6 +237,21 @@
             <prism:url>https://www.nature.com/articles/d41586-023-02566-w</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02354-6">
+            <title><![CDATA[From the archive: a prize for the design of a helicopter, and a venomous caterpillar]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02354-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 15 August 2023; <a href="https://www.nature.com/articles/d41586-023-02354-6">doi:10.1038/d41586-023-02354-6</a></p>Snippets from Nature’s past.]]></content:encoded>
+            <dc:title><![CDATA[From the archive: a prize for the design of a helicopter, and a venomous caterpillar]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-02354-6</dc:identifier>
+            <dc:source>Nature, Published online: 2023-08-15; | doi:10.1038/d41586-023-02354-6</dc:source>
+            <dc:date>2023-08-15</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02354-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02354-6</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-023-02567-9">
             <title><![CDATA[Abolish ageism in early-career research awards]]></title>
             <link>https://www.nature.com/articles/d41586-023-02567-9</link>
@@ -235,6 +280,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02577-7</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02577-7</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02550-4">
+            <title><![CDATA[Beyond greenwashing: how to make business and finance genuinely sustainable]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02550-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 15 August 2023; <a href="https://www.nature.com/articles/d41586-023-02550-4">doi:10.1038/d41586-023-02550-4</a></p>Researchers have a big role in unlocking funds for sustainability and ensuring that companies’ pledges are credible.]]></content:encoded>
+            <dc:title><![CDATA[Beyond greenwashing: how to make business and finance genuinely sustainable]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-02550-4</dc:identifier>
+            <dc:source>Nature, Published online: 2023-08-15; | doi:10.1038/d41586-023-02550-4</dc:source>
+            <dc:date>2023-08-15</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02550-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02550-4</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-02553-1">
@@ -355,6 +415,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02555-z</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02555-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02581-x">
+            <title><![CDATA[Daily briefing: See moving photos of the last days of Arecibo]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02581-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 14 August 2023; <a href="https://www.nature.com/articles/d41586-023-02581-x">doi:10.1038/d41586-023-02581-x</a></p>The iconic Arecibo Observatory in Puerto Rico is out of funding after a devastating collapse three years ago. Plus, what Russia’s Moon mission means for science and a useful database of parental-leave policies in US and Canadian academia.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: See moving photos of the last days of Arecibo]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02581-x</dc:identifier>
+            <dc:source>Nature, Published online: 2023-08-14; | doi:10.1038/d41586-023-02581-x</dc:source>
+            <dc:date>2023-08-14</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02581-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02581-x</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06276-1">
@@ -1225,81 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02378-y</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02378-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02512-w">
-            <title><![CDATA[Controlling pollution and overfishing can help protect coral reefs — but it’s not enough]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02512-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 09 August 2023; <a href="https://www.nature.com/articles/d41586-023-02512-w">doi:10.1038/d41586-023-02512-w</a></p>Local management of runoff and fishing intensity bolsters reef health but is no match for climate-induced heatwaves.]]></content:encoded>
-            <dc:title><![CDATA[Controlling pollution and overfishing can help protect coral reefs — but it’s not enough]]></dc:title>
-            <dc:creator>Bianca Nogrady</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02512-w</dc:identifier>
-            <dc:source>Nature, Published online: 2023-08-09; | doi:10.1038/d41586-023-02512-w</dc:source>
-            <dc:date>2023-08-09</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02512-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02512-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02159-7">
-            <title><![CDATA[What China’s leading position in natural sciences means for global research]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02159-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 09 August 2023; <a href="https://www.nature.com/articles/d41586-023-02159-7">doi:10.1038/d41586-023-02159-7</a></p>Its rise to the top has been long forecast, but what next for Chinese science in the post-pandemic era?]]></content:encoded>
-            <dc:title><![CDATA[What China’s leading position in natural sciences means for global research]]></dc:title>
-            <dc:creator>Chris Woolston</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02159-7</dc:identifier>
-            <dc:source>Nature, Published online: 2023-08-09; | doi:10.1038/d41586-023-02159-7</dc:source>
-            <dc:date>2023-08-09</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02159-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02159-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02489-6">
-            <title><![CDATA[Replication study casts doubt on magnetic sensing in flies]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02489-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 09 August 2023; <a href="https://www.nature.com/articles/d41586-023-02489-6">doi:10.1038/d41586-023-02489-6</a></p>It has long been thought that the fly Drosophila melanogaster can detect Earth’s magnetic field and offers an ideal system in which to examine this enigmatic sense. However, a rigorous replication of key studies fails to support this idea.]]></content:encoded>
-            <dc:title><![CDATA[Replication study casts doubt on magnetic sensing in flies]]></dc:title>
-            <dc:creator>Eric J. Warrant</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02489-6</dc:identifier>
-            <dc:source>Nature, Published online: 2023-08-09; | doi:10.1038/d41586-023-02489-6</dc:source>
-            <dc:date>2023-08-09</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02489-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02489-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02487-8">
-            <title><![CDATA[Assessing the values of nature to promote a sustainable future]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02487-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 09 August 2023; <a href="https://www.nature.com/articles/d41586-023-02487-8">doi:10.1038/d41586-023-02487-8</a></p>Understanding the diverse ways in which the natural world provides value aids informed policy decisions. The generation of a detailed catalogue of this diversity, and ways to assess values, paves the way to a more sustainable future.]]></content:encoded>
-            <dc:title><![CDATA[Assessing the values of nature to promote a sustainable future]]></dc:title>
-            <dc:creator>Giulia Sajeva</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02487-8</dc:identifier>
-            <dc:source>Nature, Published online: 2023-08-09; | doi:10.1038/d41586-023-02487-8</dc:source>
-            <dc:date>2023-08-09</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02487-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02487-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06507-5">
-            <title><![CDATA[Bonding wood with uncondensed lignins as adhesives]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06507-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 08 August 2023; <a href="https://www.nature.com/articles/s41586-023-06507-5">doi:10.1038/s41586-023-06507-5</a></p>Bonding wood with uncondensed lignins as adhesives]]></content:encoded>
-            <dc:title><![CDATA[Bonding wood with uncondensed lignins as adhesives]]></dc:title>
-            <dc:creator>Guangxu Yang</dc:creator><dc:creator>Zhenggang Gong</dc:creator><dc:creator>Xiaolin Luo</dc:creator><dc:creator>Lihui Chen</dc:creator><dc:creator>Li Shuai</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06507-5</dc:identifier>
-            <dc:source>Nature, Published online: 2023-08-08; | doi:10.1038/s41586-023-06507-5</dc:source>
-            <dc:date>2023-08-08</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06507-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06507-5</prism:url>
         </item>
     
 </rdf:RDF>
