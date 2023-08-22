@@ -18,9 +18,17 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06534-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02642-1"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02603-8"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02601-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02656-9"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02659-6"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02602-9"/>
                 
@@ -160,14 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06523-5"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06521-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02574-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02560-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02557-x"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,36 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-023-06534-2">
+            <title><![CDATA[Quinone-mediated hydrogen anode for non-aqueous reductive electrosynthesis]]></title>
+            <link>https://www.nature.com/articles/s41586-023-06534-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 21 August 2023; <a href="https://www.nature.com/articles/s41586-023-06534-2">doi:10.1038/s41586-023-06534-2</a></p>Quinone-mediated hydrogen anode for non-aqueous reductive electrosynthesis]]></content:encoded>
+            <dc:title><![CDATA[Quinone-mediated hydrogen anode for non-aqueous reductive electrosynthesis]]></dc:title>
+            <dc:creator>Jack Twilton</dc:creator><dc:creator>Mathew R. Johnson</dc:creator><dc:creator>Vinayak Sidana</dc:creator><dc:creator>Mareena C. Franke</dc:creator><dc:creator>Cecilia Bottecchia</dc:creator><dc:creator>Dan Lehnherr</dc:creator><dc:creator>François Lévesque</dc:creator><dc:creator>Spring M. M. Knapp</dc:creator><dc:creator>Luning Wang</dc:creator><dc:creator>James B. Gerken</dc:creator><dc:creator>Cynthia M. Hong</dc:creator><dc:creator>Thomas P. Vickery</dc:creator><dc:creator>Mark D. Weisel</dc:creator><dc:creator>Neil A. Strotman</dc:creator><dc:creator>Daniel J. Weix</dc:creator><dc:creator>Thatcher W. Root</dc:creator><dc:creator>Shannon S. Stahl</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-023-06534-2</dc:identifier>
+            <dc:source>Nature, Published online: 2023-08-21; | doi:10.1038/s41586-023-06534-2</dc:source>
+            <dc:date>2023-08-21</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-023-06534-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-023-06534-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02642-1">
+            <title><![CDATA[Science’s carbon footprint: how health research can cut emissions]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02642-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 21 August 2023; <a href="https://www.nature.com/articles/d41586-023-02642-1">doi:10.1038/d41586-023-02642-1</a></p>Wellcome report identifies more than 140 initiatives to make health research more environmentally sustainable]]></content:encoded>
+            <dc:title><![CDATA[Science’s carbon footprint: how health research can cut emissions]]></dc:title>
+            <dc:creator>Lilly Tozer</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02642-1</dc:identifier>
+            <dc:source>Nature, Published online: 2023-08-21; | doi:10.1038/d41586-023-02642-1</dc:source>
+            <dc:date>2023-08-21</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02642-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02642-1</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-02603-8">
             <title><![CDATA[Failed PhD: how scientists have bounced back from doctoral setbacks]]></title>
@@ -205,6 +235,36 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02601-w</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02601-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02656-9">
+            <title><![CDATA[Why a highly mutated coronavirus variant has scientists on alert]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02656-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 21 August 2023; <a href="https://www.nature.com/articles/d41586-023-02656-9">doi:10.1038/d41586-023-02656-9</a></p>Research is under way to determine whether the mutation-laden lineage BA.2.86 is nothing to worry about — or has the potential to spread globally]]></content:encoded>
+            <dc:title><![CDATA[Why a highly mutated coronavirus variant has scientists on alert]]></dc:title>
+            <dc:creator>Ewen Callaway</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02656-9</dc:identifier>
+            <dc:source>Nature, Published online: 2023-08-21; | doi:10.1038/d41586-023-02656-9</dc:source>
+            <dc:date>2023-08-21</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02656-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02656-9</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02659-6">
+            <title><![CDATA[Russian Moon lander crash — what happened, and what’s next?]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02659-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 21 August 2023; <a href="https://www.nature.com/articles/d41586-023-02659-6">doi:10.1038/d41586-023-02659-6</a></p>The Luna 25 mission has ended in failure, raising major questions about the future of Russia’s space program.]]></content:encoded>
+            <dc:title><![CDATA[Russian Moon lander crash — what happened, and what’s next?]]></dc:title>
+            <dc:creator>Jonathan O&#x27;Callaghan</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02659-6</dc:identifier>
+            <dc:source>Nature, Published online: 2023-08-21; | doi:10.1038/d41586-023-02659-6</dc:source>
+            <dc:date>2023-08-21</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02659-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02659-6</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-02602-9">
@@ -1240,66 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/s41586-023-06523-5</prism:doi>
             <prism:url>https://www.nature.com/articles/s41586-023-06523-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06521-7">
-            <title><![CDATA[Confirmation and refutation of very luminous galaxies in the early universe]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06521-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 14 August 2023; <a href="https://www.nature.com/articles/s41586-023-06521-7">doi:10.1038/s41586-023-06521-7</a></p>Confirmation and refutation of very luminous galaxies in the early universe]]></content:encoded>
-            <dc:title><![CDATA[Confirmation and refutation of very luminous galaxies in the early universe]]></dc:title>
-            <dc:creator>Pablo Arrabal Haro</dc:creator><dc:creator>Mark Dickinson</dc:creator><dc:creator>Steven L. Finkelstein</dc:creator><dc:creator>Jeyhan S. Kartaltepe</dc:creator><dc:creator>Callum T. Donnan</dc:creator><dc:creator>Denis Burgarella</dc:creator><dc:creator>Adam C. Carnall</dc:creator><dc:creator>Fergus Cullen</dc:creator><dc:creator>James S. Dunlop</dc:creator><dc:creator>Vital Fernández</dc:creator><dc:creator>Seiji Fujimoto</dc:creator><dc:creator>Intae Jung</dc:creator><dc:creator>Melanie Krips</dc:creator><dc:creator>Rebecca L. Larson</dc:creator><dc:creator>Casey Papovich</dc:creator><dc:creator>Pablo G. Pérez-González</dc:creator><dc:creator>Ricardo O. Amorín</dc:creator><dc:creator>Micaela B. Bagley</dc:creator><dc:creator>Véronique Buat</dc:creator><dc:creator>Caitlin M. Casey</dc:creator><dc:creator>Katherine Chworowsky</dc:creator><dc:creator>Seth H. Cohen</dc:creator><dc:creator>Henry C. Ferguson</dc:creator><dc:creator>Mauro Giavalisco</dc:creator><dc:creator>Marc Huertas-Company</dc:creator><dc:creator>Taylor A. Hutchison</dc:creator><dc:creator>Dale D. Kocevski</dc:creator><dc:creator>Anton M. Koekemoer</dc:creator><dc:creator>Ray A. Lucas</dc:creator><dc:creator>Derek J. McLeod</dc:creator><dc:creator>Ross J. McLure</dc:creator><dc:creator>Norbert Pirzkal</dc:creator><dc:creator>Lise-Marie Seillé</dc:creator><dc:creator>Jonathan R. Trump</dc:creator><dc:creator>Benjamin J. Weiner</dc:creator><dc:creator>Stephen M. Wilkins</dc:creator><dc:creator>Jorge A. Zavala</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06521-7</dc:identifier>
-            <dc:source>Nature, Published online: 2023-08-14; | doi:10.1038/s41586-023-06521-7</dc:source>
-            <dc:date>2023-08-14</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06521-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06521-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02574-w">
-            <title><![CDATA[Which birds are drab and which dazzle? Predators have a say]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02574-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 14 August 2023; <a href="https://www.nature.com/articles/d41586-023-02574-w">doi:10.1038/d41586-023-02574-w</a></p>An analysis of almost 10,000 species identifies the life-history traits that explain why some birds flaunt a rainbow of ornamental colours.]]></content:encoded>
-            <dc:title><![CDATA[Which birds are drab and which dazzle? Predators have a say]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-02574-w</dc:identifier>
-            <dc:source>Nature, Published online: 2023-08-14; | doi:10.1038/d41586-023-02574-w</dc:source>
-            <dc:date>2023-08-14</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02574-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02574-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02560-2">
-            <title><![CDATA[Can oyster farming help save the planet?]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02560-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 14 August 2023; <a href="https://www.nature.com/articles/d41586-023-02560-2">doi:10.1038/d41586-023-02560-2</a></p>Ecologist Elena Tamburini hopes to show that shellfish farming efficiently absorbs carbon.]]></content:encoded>
-            <dc:title><![CDATA[Can oyster farming help save the planet?]]></dc:title>
-            <dc:creator>Linda Nordling</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02560-2</dc:identifier>
-            <dc:source>Nature, Published online: 2023-08-14; | doi:10.1038/d41586-023-02560-2</dc:source>
-            <dc:date>2023-08-14</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02560-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02560-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02557-x">
-            <title><![CDATA[How to reduce Africa’s undue exposure to climate risks]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02557-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 14 August 2023; <a href="https://www.nature.com/articles/d41586-023-02557-x">doi:10.1038/d41586-023-02557-x</a></p>Africa is disproportionately exposed to catastrophic climate, hydrological and meteorological risks. Well-funded weather monitoring, nowcasting and early-warning systems must become a priority.]]></content:encoded>
-            <dc:title><![CDATA[How to reduce Africa’s undue exposure to climate risks]]></dc:title>
-            <dc:creator>Asaf Tzachor</dc:creator><dc:creator>Catherine E. Richards</dc:creator><dc:creator>Masilin Gudoshava</dc:creator><dc:creator>Patricia Nying’uro</dc:creator><dc:creator>Herbert Misiani</dc:creator><dc:creator>Jemimah G. Ongoma</dc:creator><dc:creator>Yoav Yair</dc:creator><dc:creator>Yacob Mulugetta</dc:creator><dc:creator>Amadou T. Gaye</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02557-x</dc:identifier>
-            <dc:source>Nature, Published online: 2023-08-14; | doi:10.1038/d41586-023-02557-x</dc:source>
-            <dc:date>2023-08-14</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02557-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02557-x</prism:url>
         </item>
     
 </rdf:RDF>
