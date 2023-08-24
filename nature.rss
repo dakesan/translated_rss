@@ -18,6 +18,8 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02669-4"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06435-4"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06434-5"/>
@@ -166,8 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06145-x"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06461-2"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,21 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02669-4">
+            <title><![CDATA[Australia grapples with how to investigate scientific misconduct]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02669-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 24 August 2023; <a href="https://www.nature.com/articles/d41586-023-02669-4">doi:10.1038/d41586-023-02669-4</a></p>The nation currently allows institutes to investigate cases in-house — but calls to change this are mounting]]></content:encoded>
+            <dc:title><![CDATA[Australia grapples with how to investigate scientific misconduct]]></dc:title>
+            <dc:creator>Dyani Lewis</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02669-4</dc:identifier>
+            <dc:source>Nature, Published online: 2023-08-24; | doi:10.1038/d41586-023-02669-4</dc:source>
+            <dc:date>2023-08-24</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02669-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02669-4</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06435-4">
             <title><![CDATA[Reply to: <i>Palaeospondylus</i> and the early evolution of gnathostomes]]></title>
@@ -1285,21 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/s41586-023-06145-x</prism:doi>
             <prism:url>https://www.nature.com/articles/s41586-023-06145-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06461-2">
-            <title><![CDATA[Long-molecule scars of backup DNA repair in BRCA1- and BRCA2-deficient cancers]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06461-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 16 August 2023; <a href="https://www.nature.com/articles/s41586-023-06461-2">doi:10.1038/s41586-023-06461-2</a></p>Linked-read whole-genome sequencing reveals patterns of structural DNA variants that are specific to homologous recombination deficiency and can be used to distinguish between BRCA1- and BRCA2-deficient phenotypes.]]></content:encoded>
-            <dc:title><![CDATA[Long-molecule scars of backup DNA repair in BRCA1- and BRCA2-deficient cancers]]></dc:title>
-            <dc:creator>Jeremy Setton</dc:creator><dc:creator>Kevin Hadi</dc:creator><dc:creator>Zi-Ning Choo</dc:creator><dc:creator>Katherine S. Kuchin</dc:creator><dc:creator>Huasong Tian</dc:creator><dc:creator>Arnaud Da Cruz Paula</dc:creator><dc:creator>Joel Rosiene</dc:creator><dc:creator>Pier Selenica</dc:creator><dc:creator>Julie Behr</dc:creator><dc:creator>Xiaotong Yao</dc:creator><dc:creator>Aditya Deshpande</dc:creator><dc:creator>Michael Sigouros</dc:creator><dc:creator>Jyothi Manohar</dc:creator><dc:creator>Jones T. Nauseef</dc:creator><dc:creator>Juan-Miguel Mosquera</dc:creator><dc:creator>Olivier Elemento</dc:creator><dc:creator>Britta Weigelt</dc:creator><dc:creator>Nadeem Riaz</dc:creator><dc:creator>Jorge S. Reis-Filho</dc:creator><dc:creator>Simon N. Powell</dc:creator><dc:creator>Marcin Imieliński</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06461-2</dc:identifier>
-            <dc:source>Nature, Published online: 2023-08-16; | doi:10.1038/s41586-023-06461-2</dc:source>
-            <dc:date>2023-08-16</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06461-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06461-2</prism:url>
         </item>
     
 </rdf:RDF>
