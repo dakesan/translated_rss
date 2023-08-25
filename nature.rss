@@ -18,6 +18,12 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06553-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02646-x"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02694-3"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06551-1"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02703-5"/>
@@ -87,6 +93,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06463-0"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02643-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02709-z"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02695-2"/>
                 
@@ -160,14 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02641-2"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02552-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06536-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06524-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02580-y"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,51 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-023-06553-z">
+            <title><![CDATA[Author Correction: Structural basis for directional chitin biosynthesis]]></title>
+            <link>https://www.nature.com/articles/s41586-023-06553-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 25 August 2023; <a href="https://www.nature.com/articles/s41586-023-06553-z">doi:10.1038/s41586-023-06553-z</a></p>Author Correction: Structural basis for directional chitin biosynthesis]]></content:encoded>
+            <dc:title><![CDATA[Author Correction: Structural basis for directional chitin biosynthesis]]></dc:title>
+            <dc:creator>Wei Chen</dc:creator><dc:creator>Peng Cao</dc:creator><dc:creator>Yuansheng Liu</dc:creator><dc:creator>Ailing Yu</dc:creator><dc:creator>Dong Wang</dc:creator><dc:creator>Lei Chen</dc:creator><dc:creator>Rajamanikandan Sundarraj</dc:creator><dc:creator>Zhiguang Yuchi</dc:creator><dc:creator>Yong Gong</dc:creator><dc:creator>Hans Merzendorfer</dc:creator><dc:creator>Qing Yang</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-023-06553-z</dc:identifier>
+            <dc:source>Nature, Published online: 2023-08-25; | doi:10.1038/s41586-023-06553-z</dc:source>
+            <dc:date>2023-08-25</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-023-06553-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-023-06553-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02646-x">
+            <title><![CDATA[Could the Universe be a giant quantum computer?]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02646-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 25 August 2023; <a href="https://www.nature.com/articles/d41586-023-02646-x">doi:10.1038/d41586-023-02646-x</a></p>Computational rules might describe the evolution of the cosmos better than the dynamical equations of physics — but only if they are given a quantum twist.]]></content:encoded>
+            <dc:title><![CDATA[Could the Universe be a giant quantum computer?]]></dc:title>
+            <dc:creator>David L. Chandler</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02646-x</dc:identifier>
+            <dc:source>Nature, Published online: 2023-08-25; | doi:10.1038/d41586-023-02646-x</dc:source>
+            <dc:date>2023-08-25</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02646-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02646-x</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02694-3">
+            <title><![CDATA[Japan’s space observatory will measure X-rays in exquisite detail]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02694-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 25 August 2023; <a href="https://www.nature.com/articles/d41586-023-02694-3">doi:10.1038/d41586-023-02694-3</a></p>XRISM's precision measurements will unveil a Universe in motion.]]></content:encoded>
+            <dc:title><![CDATA[Japan’s space observatory will measure X-rays in exquisite detail]]></dc:title>
+            <dc:creator>Davide Castelvecchi</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02694-3</dc:identifier>
+            <dc:source>Nature, Published online: 2023-08-25; | doi:10.1038/d41586-023-02694-3</dc:source>
+            <dc:date>2023-08-25</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02694-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02694-3</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06551-1">
             <title><![CDATA[Outflows from the Youngest Stars are Mostly Molecular]]></title>
@@ -700,6 +745,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02643-0</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02643-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02709-z">
+            <title><![CDATA[Daily briefing: Why parts of the Amazon have become a carbon source]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02709-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 23 August 2023; <a href="https://www.nature.com/articles/d41586-023-02709-z">doi:10.1038/d41586-023-02709-z</a></p>Scientists are exposing the myriad reasons why the southeast Amazon has started to release carbon — and why the whole forest might be reaching a tipping point. Plus, brain-reading devices and India lands on the Moon.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Why parts of the Amazon have become a carbon source]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02709-z</dc:identifier>
+            <dc:source>Nature, Published online: 2023-08-23; | doi:10.1038/d41586-023-02709-z</dc:source>
+            <dc:date>2023-08-23</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02709-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02709-z</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-02695-2">
@@ -1240,66 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02641-2</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02641-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02552-2">
-            <title><![CDATA[Earth’s hottest month: these charts show what happened in July and what comes next]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02552-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 18 August 2023; <a href="https://www.nature.com/articles/d41586-023-02552-2">doi:10.1038/d41586-023-02552-2</a></p>The planet has warmed 1.2 ºC on average, but that’s enough to produce big extremes.]]></content:encoded>
-            <dc:title><![CDATA[Earth’s hottest month: these charts show what happened in July and what comes next]]></dc:title>
-            <dc:creator>Jeff Tollefson</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02552-2</dc:identifier>
-            <dc:source>Nature, Published online: 2023-08-18; | doi:10.1038/d41586-023-02552-2</dc:source>
-            <dc:date>2023-08-18</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02552-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02552-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06536-0">
-            <title><![CDATA[Observation of Fractionally Quantized Anomalous Hall Effect]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06536-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 17 August 2023; <a href="https://www.nature.com/articles/s41586-023-06536-0">doi:10.1038/s41586-023-06536-0</a></p>Observation of Fractionally Quantized Anomalous Hall Effect]]></content:encoded>
-            <dc:title><![CDATA[Observation of Fractionally Quantized Anomalous Hall Effect]]></dc:title>
-            <dc:creator>Heonjoon Park</dc:creator><dc:creator>Jiaqi Cai</dc:creator><dc:creator>Eric Anderson</dc:creator><dc:creator>Yinong Zhang</dc:creator><dc:creator>Jiayi Zhu</dc:creator><dc:creator>Xiaoyu Liu</dc:creator><dc:creator>Chong Wang</dc:creator><dc:creator>William Holtzmann</dc:creator><dc:creator>Chaowei Hu</dc:creator><dc:creator>Zhaoyu Liu</dc:creator><dc:creator>Takashi Taniguchi</dc:creator><dc:creator>Kenji Watanabe</dc:creator><dc:creator>Jiun-haw Chu</dc:creator><dc:creator>Ting Cao</dc:creator><dc:creator>Liang Fu</dc:creator><dc:creator>Wang Yao</dc:creator><dc:creator>Cui-Zu Chang</dc:creator><dc:creator>David Cobden</dc:creator><dc:creator>Di Xiao</dc:creator><dc:creator>Xiaodong Xu</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06536-0</dc:identifier>
-            <dc:source>Nature, Published online: 2023-08-17; | doi:10.1038/s41586-023-06536-0</dc:source>
-            <dc:date>2023-08-17</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06536-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06536-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06524-4">
-            <title><![CDATA[Publisher Correction: Pluripotent stem cell-derived model of the post-implantation human embryo]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06524-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 17 August 2023; <a href="https://www.nature.com/articles/s41586-023-06524-4">doi:10.1038/s41586-023-06524-4</a></p>Publisher Correction: Pluripotent stem cell-derived model of the post-implantation human embryo]]></content:encoded>
-            <dc:title><![CDATA[Publisher Correction: Pluripotent stem cell-derived model of the post-implantation human embryo]]></dc:title>
-            <dc:creator>Bailey A. T. Weatherbee</dc:creator><dc:creator>Carlos W. Gantner</dc:creator><dc:creator>Lisa K. Iwamoto-Stohl</dc:creator><dc:creator>Riza M. Daza</dc:creator><dc:creator>Nobuhiko Hamazaki</dc:creator><dc:creator>Jay Shendure</dc:creator><dc:creator>Magdalena Zernicka-Goetz</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06524-4</dc:identifier>
-            <dc:source>Nature, Published online: 2023-08-17; | doi:10.1038/s41586-023-06524-4</dc:source>
-            <dc:date>2023-08-17</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06524-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06524-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02580-y">
-            <title><![CDATA[In search of a vaccine for leishmaniasis]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02580-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 17 August 2023; <a href="https://www.nature.com/articles/d41586-023-02580-y">doi:10.1038/d41586-023-02580-y</a></p>Researchers hope that immunization will provide much needed protection against the neglected parasitic disease in conflict zones.]]></content:encoded>
-            <dc:title><![CDATA[In search of a vaccine for leishmaniasis]]></dc:title>
-            <dc:creator>Anthony King</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02580-y</dc:identifier>
-            <dc:source>Nature, Published online: 2023-08-17; | doi:10.1038/d41586-023-02580-y</dc:source>
-            <dc:date>2023-08-17</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02580-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02580-y</prism:url>
         </item>
     
 </rdf:RDF>
