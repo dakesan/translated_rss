@@ -18,7 +18,25 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06551-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02703-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02654-x"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02689-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02684-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02668-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02633-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02685-4"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02669-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02688-1"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06435-4"/>
                 
@@ -69,6 +87,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06463-0"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02643-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02695-2"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02596-4"/>
                 
@@ -148,26 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02580-y"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02637-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02635-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02619-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06508-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02575-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02564-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02562-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02590-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06275-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06145-x"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -177,11 +177,131 @@
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
     
+        <item rdf:about="https://www.nature.com/articles/s41586-023-06551-1">
+            <title><![CDATA[Outflows from the Youngest Stars are Mostly Molecular]]></title>
+            <link>https://www.nature.com/articles/s41586-023-06551-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 24 August 2023; <a href="https://www.nature.com/articles/s41586-023-06551-1">doi:10.1038/s41586-023-06551-1</a></p>Outflows from the Youngest Stars are Mostly Molecular]]></content:encoded>
+            <dc:title><![CDATA[Outflows from the Youngest Stars are Mostly Molecular]]></dc:title>
+            <dc:creator>T. P. Ray</dc:creator><dc:creator>M. J. McCaughrean</dc:creator><dc:creator>A. Caratti o Garatti</dc:creator><dc:creator>P. J. Kavanagh</dc:creator><dc:creator>K. Justtanont</dc:creator><dc:creator>E. F. van Dishoeck</dc:creator><dc:creator>M. Reitsma</dc:creator><dc:creator>H. Beuther</dc:creator><dc:creator>L. Francis</dc:creator><dc:creator>C. Gieser</dc:creator><dc:creator>P. Klaassen</dc:creator><dc:creator>G. Perotti</dc:creator><dc:creator>L. Tychoniec</dc:creator><dc:creator>M. van Gelder</dc:creator><dc:creator>L. Colina</dc:creator><dc:creator>Th. R. Greve</dc:creator><dc:creator>M. Güdel</dc:creator><dc:creator>Th. Henning</dc:creator><dc:creator>P. O. Lagage</dc:creator><dc:creator>G. Östlin</dc:creator><dc:creator>B. Vandenbussche</dc:creator><dc:creator>C. Waelkens</dc:creator><dc:creator>G. Wright</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-023-06551-1</dc:identifier>
+            <dc:source>Nature, Published online: 2023-08-24; | doi:10.1038/s41586-023-06551-1</dc:source>
+            <dc:date>2023-08-24</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-023-06551-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-023-06551-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02703-5">
+            <title><![CDATA[Mind-reading computers turn brain activity into speech]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02703-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 24 August 2023; <a href="https://www.nature.com/articles/d41586-023-02703-5">doi:10.1038/d41586-023-02703-5</a></p>Algorithms trained to associate sounds with neural activity can give people back their voice]]></content:encoded>
+            <dc:title><![CDATA[Mind-reading computers turn brain activity into speech]]></dc:title>
+            <dc:creator>Shamini Bundell</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02703-5</dc:identifier>
+            <dc:source>Nature, Published online: 2023-08-24; | doi:10.1038/d41586-023-02703-5</dc:source>
+            <dc:date>2023-08-24</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02703-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02703-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02654-x">
+            <title><![CDATA[Venus flytraps shut their traps when flames approach]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02654-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 24 August 2023; <a href="https://www.nature.com/articles/d41586-023-02654-x">doi:10.1038/d41586-023-02654-x</a></p>Exposure to burning matches makes the plants close up shop, which might explain their resilience to wildfire.]]></content:encoded>
+            <dc:title><![CDATA[Venus flytraps shut their traps when flames approach]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-02654-x</dc:identifier>
+            <dc:source>Nature, Published online: 2023-08-24; | doi:10.1038/d41586-023-02654-x</dc:source>
+            <dc:date>2023-08-24</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02654-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02654-x</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02689-0">
+            <title><![CDATA[How virtual reality is helping to boost scientific engagement in rural Africa]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02689-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 24 August 2023; <a href="https://www.nature.com/articles/d41586-023-02689-0">doi:10.1038/d41586-023-02689-0</a></p>Immunologist Patience Kiyuka explains her use of the latest technologies to show young people what it is like to be a researcher and what science can do for society.]]></content:encoded>
+            <dc:title><![CDATA[How virtual reality is helping to boost scientific engagement in rural Africa]]></dc:title>
+            <dc:creator>Rachael Pells</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02689-0</dc:identifier>
+            <dc:source>Nature, Published online: 2023-08-24; | doi:10.1038/d41586-023-02689-0</dc:source>
+            <dc:date>2023-08-24</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02689-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02689-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02684-5">
+            <title><![CDATA[If AI becomes conscious: here’s how researchers will know]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02684-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 24 August 2023; <a href="https://www.nature.com/articles/d41586-023-02684-5">doi:10.1038/d41586-023-02684-5</a></p>A checklist derived from six neuroscience-based theories of consciousness could aid in the assessment.]]></content:encoded>
+            <dc:title><![CDATA[If AI becomes conscious: here’s how researchers will know]]></dc:title>
+            <dc:creator>Mariana Lenharo</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02684-5</dc:identifier>
+            <dc:source>Nature, Published online: 2023-08-24; | doi:10.1038/d41586-023-02684-5</dc:source>
+            <dc:date>2023-08-24</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02684-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02684-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02668-5">
+            <title><![CDATA[What powers the Sun's mysterious wind? A daring spacecraft has some answers]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02668-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 24 August 2023; <a href="https://www.nature.com/articles/d41586-023-02668-5">doi:10.1038/d41586-023-02668-5</a></p>Analysis shows that mini jets of gas help to generate the solar wind, a discovery that also illuminates how our star's activity damages satellites.]]></content:encoded>
+            <dc:title><![CDATA[What powers the Sun's mysterious wind? A daring spacecraft has some answers]]></dc:title>
+            <dc:creator>Alexandra Witze</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02668-5</dc:identifier>
+            <dc:source>Nature, Published online: 2023-08-24; | doi:10.1038/d41586-023-02668-5</dc:source>
+            <dc:date>2023-08-24</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02668-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02668-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02633-2">
+            <title><![CDATA[These veteran female activists are fighting a pivotal climate case with science]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02633-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 24 August 2023; <a href="https://www.nature.com/articles/d41586-023-02633-2">doi:10.1038/d41586-023-02633-2</a></p>Research on the effects of climate change on health will be key in high-profile lawsuits being heard by Europe’s human-rights court.]]></content:encoded>
+            <dc:title><![CDATA[These veteran female activists are fighting a pivotal climate case with science]]></dc:title>
+            <dc:creator>Layal Liverpool</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02633-2</dc:identifier>
+            <dc:source>Nature, Published online: 2023-08-24; | doi:10.1038/d41586-023-02633-2</dc:source>
+            <dc:date>2023-08-24</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02633-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02633-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02685-4">
+            <title><![CDATA[India’s Moon landing is a stellar achievement — and a win for science]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02685-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 24 August 2023; <a href="https://www.nature.com/articles/d41586-023-02685-4">doi:10.1038/d41586-023-02685-4</a></p>When Chandrayaan-3 touched down, India pulled off a huge win for its own space programme and for international efforts to understand the Moon.]]></content:encoded>
+            <dc:title><![CDATA[India’s Moon landing is a stellar achievement — and a win for science]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-02685-4</dc:identifier>
+            <dc:source>Nature, Published online: 2023-08-24; | doi:10.1038/d41586-023-02685-4</dc:source>
+            <dc:date>2023-08-24</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02685-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02685-4</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-023-02669-4">
             <title><![CDATA[Australia grapples with how to investigate scientific misconduct]]></title>
             <link>https://www.nature.com/articles/d41586-023-02669-4</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 24 August 2023; <a href="https://www.nature.com/articles/d41586-023-02669-4">doi:10.1038/d41586-023-02669-4</a></p>The nation currently allows institutes to investigate cases in-house — but calls to change this are mounting]]></content:encoded>
+                <![CDATA[<p>Nature, Published online: 24 August 2023; <a href="https://www.nature.com/articles/d41586-023-02669-4">doi:10.1038/d41586-023-02669-4</a></p>The nation currently allows institutes to investigate cases in-house — but calls to change this are mounting.]]></content:encoded>
             <dc:title><![CDATA[Australia grapples with how to investigate scientific misconduct]]></dc:title>
             <dc:creator>Dyani Lewis</dc:creator>
             <dc:identifier>doi:10.1038/d41586-023-02669-4</dc:identifier>
@@ -190,6 +310,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02669-4</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02669-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02688-1">
+            <title><![CDATA[Why scientists are delving into the virtual world]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02688-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 24 August 2023; <a href="https://www.nature.com/articles/d41586-023-02688-1">doi:10.1038/d41586-023-02688-1</a></p>Virtual-reality software and headsets are increasingly being used by researchers to form deeper collaborations or work remotely.]]></content:encoded>
+            <dc:title><![CDATA[Why scientists are delving into the virtual world]]></dc:title>
+            <dc:creator>Rachael Pells</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02688-1</dc:identifier>
+            <dc:source>Nature, Published online: 2023-08-24; | doi:10.1038/d41586-023-02688-1</dc:source>
+            <dc:date>2023-08-24</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02688-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02688-1</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06435-4">
@@ -567,6 +702,21 @@
             <prism:url>https://www.nature.com/articles/d41586-023-02643-0</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02695-2">
+            <title><![CDATA[Daily briefing: Millions vote to keep Ecuador’s oil in the ground]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02695-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 23 August 2023; <a href="https://www.nature.com/articles/d41586-023-02695-2">doi:10.1038/d41586-023-02695-2</a></p>Ecuadorians have voted to oust the state oil company from a protected area of the Amazon. Plus, a guide for academic leaders for hiring a more diverse faculty and how a colour-changing fish knows what colour it is.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Millions vote to keep Ecuador’s oil in the ground]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02695-2</dc:identifier>
+            <dc:source>Nature, Published online: 2023-08-23; | doi:10.1038/d41586-023-02695-2</dc:source>
+            <dc:date>2023-08-23</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02695-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02695-2</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-023-02596-4">
             <title><![CDATA[Tackle ever-growing consumption to safeguard sustainability gains]]></title>
             <link>https://www.nature.com/articles/d41586-023-02596-4</link>
@@ -628,11 +778,11 @@
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-02529-1">
-            <title><![CDATA[Scientists who don't speak fluent English get little help from journals, study finds]]></title>
+            <title><![CDATA[Scientists who don’t speak fluent English get little help from journals, study finds]]></title>
             <link>https://www.nature.com/articles/d41586-023-02529-1</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 23 August 2023; <a href="https://www.nature.com/articles/d41586-023-02529-1">doi:10.1038/d41586-023-02529-1</a></p>An analysis of hundreds of journals finds limited efforts to accommodate scientists who are not native English speakers.]]></content:encoded>
-            <dc:title><![CDATA[Scientists who don't speak fluent English get little help from journals, study finds]]></dc:title>
+                <![CDATA[<p>Nature, Published online: 23 August 2023; <a href="https://www.nature.com/articles/d41586-023-02529-1">doi:10.1038/d41586-023-02529-1</a></p>An analysis of hundreds of publications finds limited efforts to accommodate scientists who are not native English speakers.]]></content:encoded>
+            <dc:title><![CDATA[Scientists who don’t speak fluent English get little help from journals, study finds]]></dc:title>
             <dc:creator>Mariana Lenharo</dc:creator>
             <dc:identifier>doi:10.1038/d41586-023-02529-1</dc:identifier>
             <dc:source>Nature, Published online: 2023-08-23; | doi:10.1038/d41586-023-02529-1</dc:source>
@@ -1150,156 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02580-y</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02580-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02637-y">
-            <title><![CDATA[Daily briefing: Impurity quashes superconductivity claim]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02637-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 17 August 2023; <a href="https://www.nature.com/articles/d41586-023-02637-y">doi:10.1038/d41586-023-02637-y</a></p>LK-99, reportedly the first-ever room-temperature superconductor, is not one after all. Plus, Ötzi the Iceman was balding and dark-skinned, and how science helped kids win a landmark climate trial.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: Impurity quashes superconductivity claim]]></dc:title>
-            <dc:creator>Flora Graham</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02637-y</dc:identifier>
-            <dc:source>Nature, Published online: 2023-08-17; | doi:10.1038/d41586-023-02637-y</dc:source>
-            <dc:date>2023-08-17</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02637-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02637-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02635-0">
-            <title><![CDATA[The Indigenous rocketeer]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02635-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 17 August 2023; <a href="https://www.nature.com/articles/d41586-023-02635-0">doi:10.1038/d41586-023-02635-0</a></p>Nicole McGaa combined Indigenous knowledge with engineering to build a rocket for the First Nations Launch competition.]]></content:encoded>
-            <dc:title><![CDATA[The Indigenous rocketeer]]></dc:title>
-            <dc:creator>Abdullahi  Tsanni</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02635-0</dc:identifier>
-            <dc:source>Nature, Published online: 2023-08-17; | doi:10.1038/d41586-023-02635-0</dc:source>
-            <dc:date>2023-08-17</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02635-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02635-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02619-0">
-            <title><![CDATA[I’m a climate scientist. Here’s how I’m handling climate grief]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02619-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 17 August 2023; <a href="https://www.nature.com/articles/d41586-023-02619-0">doi:10.1038/d41586-023-02619-0</a></p>Researchers must find personal ways to cope with impending losses — one way is by taking small solutions-oriented actions, says Kimberley R. Miner.]]></content:encoded>
-            <dc:title><![CDATA[I’m a climate scientist. Here’s how I’m handling climate grief]]></dc:title>
-            <dc:creator>Kimberley R. Miner</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02619-0</dc:identifier>
-            <dc:source>Nature, Published online: 2023-08-17; | doi:10.1038/d41586-023-02619-0</dc:source>
-            <dc:date>2023-08-17</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02619-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02619-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06508-4">
-            <title><![CDATA[Endothelial sensing of AHR ligands regulates intestinal homeostasis]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06508-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 16 August 2023; <a href="https://www.nature.com/articles/s41586-023-06508-4">doi:10.1038/s41586-023-06508-4</a></p>Endothelial sensing of AHR ligands regulates intestinal homeostasis]]></content:encoded>
-            <dc:title><![CDATA[Endothelial sensing of AHR ligands regulates intestinal homeostasis]]></dc:title>
-            <dc:creator>Benjamin G. Wiggins</dc:creator><dc:creator>Yi-Fang Wang</dc:creator><dc:creator>Alice Burke</dc:creator><dc:creator>Nil Grunberg</dc:creator><dc:creator>Julia M. Vlachaki Walker</dc:creator><dc:creator>Marian Dore</dc:creator><dc:creator>Catherine Chahrour</dc:creator><dc:creator>Betheney R. Pennycook</dc:creator><dc:creator>Julia Sanchez-Garrido</dc:creator><dc:creator>Santiago Vernia</dc:creator><dc:creator>Alexis R. Barr</dc:creator><dc:creator>Gad Frankel</dc:creator><dc:creator>Graeme M. Birdsey</dc:creator><dc:creator>Anna M. Randi</dc:creator><dc:creator>Chris Schiering</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06508-4</dc:identifier>
-            <dc:source>Nature, Published online: 2023-08-16; | doi:10.1038/s41586-023-06508-4</dc:source>
-            <dc:date>2023-08-16</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06508-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06508-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02575-9">
-            <title><![CDATA[Brain mitochondria predict a mouse’s stress level]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02575-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 16 August 2023; <a href="https://www.nature.com/articles/d41586-023-02575-9">doi:10.1038/d41586-023-02575-9</a></p>The number and DNA content of power-producing organelles in the brain account for part of the behavioural variation among mice.]]></content:encoded>
-            <dc:title><![CDATA[Brain mitochondria predict a mouse’s stress level]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-02575-9</dc:identifier>
-            <dc:source>Nature, Published online: 2023-08-16; | doi:10.1038/d41586-023-02575-9</dc:source>
-            <dc:date>2023-08-16</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02575-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02575-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02564-y">
-            <title><![CDATA[Melting glaciers will reveal vast new ecosystems in need of protection]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02564-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 16 August 2023; <a href="https://www.nature.com/articles/d41586-023-02564-y">doi:10.1038/d41586-023-02564-y</a></p>The emerging habitats represent huge ecological shifts and present new challenges for conservation.]]></content:encoded>
-            <dc:title><![CDATA[Melting glaciers will reveal vast new ecosystems in need of protection]]></dc:title>
-            <dc:creator>Jeff Tollefson</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02564-y</dc:identifier>
-            <dc:source>Nature, Published online: 2023-08-16; | doi:10.1038/d41586-023-02564-y</dc:source>
-            <dc:date>2023-08-16</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02564-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02564-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02562-0">
-            <title><![CDATA[Ötzi the Iceman has a new look: balding and dark-skinned]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02562-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 16 August 2023; <a href="https://www.nature.com/articles/d41586-023-02562-0">doi:10.1038/d41586-023-02562-0</a></p>Improved DNA analysis updates thinking on alpine mummy’s skin colour, ancestry and more.]]></content:encoded>
-            <dc:title><![CDATA[Ötzi the Iceman has a new look: balding and dark-skinned]]></dc:title>
-            <dc:creator>Freda Kreier</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02562-0</dc:identifier>
-            <dc:source>Nature, Published online: 2023-08-16; | doi:10.1038/d41586-023-02562-0</dc:source>
-            <dc:date>2023-08-16</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02562-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02562-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02590-w">
-            <title><![CDATA[Fruit flies’ ability to sense magnetic fields thrown into doubt]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02590-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 16 August 2023; <a href="https://www.nature.com/articles/d41586-023-02590-w">doi:10.1038/d41586-023-02590-w</a></p>Study fails to replicate two key papers on fruit flies’ magnetic sense, and what the closing of the Arecibo observatory means for science.]]></content:encoded>
-            <dc:title><![CDATA[Fruit flies’ ability to sense magnetic fields thrown into doubt]]></dc:title>
-            <dc:creator>Nick Petrić Howe</dc:creator><dc:creator>Shamini Bundell</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02590-w</dc:identifier>
-            <dc:source>Nature, Published online: 2023-08-16; | doi:10.1038/d41586-023-02590-w</dc:source>
-            <dc:date>2023-08-16</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02590-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02590-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06275-2">
-            <title><![CDATA[Magneto-optics in a van der Waals magnet tuned by self-hybridized polaritons]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06275-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 16 August 2023; <a href="https://www.nature.com/articles/s41586-023-06275-2">doi:10.1038/s41586-023-06275-2</a></p>In the layered magnetic semiconductor CrSBr, emergent light–matter hybrids (polaritons) increase the spectral bandwidth of correlations between the magnetic, electronic and optical properties, enabling largely tunable optical responses to applied magnetic fields and magnons.]]></content:encoded>
-            <dc:title><![CDATA[Magneto-optics in a van der Waals magnet tuned by self-hybridized polaritons]]></dc:title>
-            <dc:creator>Florian Dirnberger</dc:creator><dc:creator>Jiamin Quan</dc:creator><dc:creator>Rezlind Bushati</dc:creator><dc:creator>Geoffrey M. Diederich</dc:creator><dc:creator>Matthias Florian</dc:creator><dc:creator>Julian Klein</dc:creator><dc:creator>Kseniia Mosina</dc:creator><dc:creator>Zdenek Sofer</dc:creator><dc:creator>Xiaodong Xu</dc:creator><dc:creator>Akashdeep Kamra</dc:creator><dc:creator>Francisco J. García-Vidal</dc:creator><dc:creator>Andrea Alù</dc:creator><dc:creator>Vinod M. Menon</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06275-2</dc:identifier>
-            <dc:source>Nature, Published online: 2023-08-16; | doi:10.1038/s41586-023-06275-2</dc:source>
-            <dc:date>2023-08-16</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06275-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06275-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06145-x">
-            <title><![CDATA[The future transistors]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06145-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 16 August 2023; <a href="https://www.nature.com/articles/s41586-023-06145-x">doi:10.1038/s41586-023-06145-x</a></p>The challenges and opportunities for the design of field-effect transistors are discussed and a vision of future transistors and potential innovation opportunities is provided.]]></content:encoded>
-            <dc:title><![CDATA[The future transistors]]></dc:title>
-            <dc:creator>Wei Cao</dc:creator><dc:creator>Huiming Bu</dc:creator><dc:creator>Maud Vinet</dc:creator><dc:creator>Min Cao</dc:creator><dc:creator>Shinichi Takagi</dc:creator><dc:creator>Sungwoo Hwang</dc:creator><dc:creator>Tahir Ghani</dc:creator><dc:creator>Kaustav Banerjee</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06145-x</dc:identifier>
-            <dc:source>Nature, Published online: 2023-08-16; | doi:10.1038/s41586-023-06145-x</dc:source>
-            <dc:date>2023-08-16</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06145-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06145-x</prism:url>
         </item>
     
 </rdf:RDF>
