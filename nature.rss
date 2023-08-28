@@ -18,6 +18,12 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02651-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02650-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02687-2"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06553-z"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02627-0"/>
@@ -162,12 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02602-9"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06543-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02634-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02657-8"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,51 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02651-0">
+            <title><![CDATA[Diving deep into hot springs to find Earth’s subsurface microbes]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02651-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 August 2023; <a href="https://www.nature.com/articles/d41586-023-02651-0">doi:10.1038/d41586-023-02651-0</a></p>Geomicrobiologist Karen Lloyd explores the roles of microorganisms that dwell in the planet’s most remote regions.]]></content:encoded>
+            <dc:title><![CDATA[Diving deep into hot springs to find Earth’s subsurface microbes]]></dc:title>
+            <dc:creator>Virginia Gewin</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02651-0</dc:identifier>
+            <dc:source>Nature, Published online: 2023-08-28; | doi:10.1038/d41586-023-02651-0</dc:source>
+            <dc:date>2023-08-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02651-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02651-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02650-1">
+            <title><![CDATA[Waiting on tables, mending puppets: the first jobs that shaped researchers’ careers]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02650-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 August 2023; <a href="https://www.nature.com/articles/d41586-023-02650-1">doi:10.1038/d41586-023-02650-1</a></p>Many scientists credit teenage jobs and university or summer side roles for imparting important transferable skills and valuable life experiences.]]></content:encoded>
+            <dc:title><![CDATA[Waiting on tables, mending puppets: the first jobs that shaped researchers’ careers]]></dc:title>
+            <dc:creator>Jop de Vrieze</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02650-1</dc:identifier>
+            <dc:source>Nature, Published online: 2023-08-28; | doi:10.1038/d41586-023-02650-1</dc:source>
+            <dc:date>2023-08-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02650-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02650-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02687-2">
+            <title><![CDATA[The causes of wildfires are clear. How they burn through communities is not]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02687-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 August 2023; <a href="https://www.nature.com/articles/d41586-023-02687-2">doi:10.1038/d41586-023-02687-2</a></p>Events in Hawaii show how much we have to learn about wildfire spread — but simple research steps can help to build resilience.]]></content:encoded>
+            <dc:title><![CDATA[The causes of wildfires are clear. How they burn through communities is not]]></dc:title>
+            <dc:creator>Hussam Mahmoud</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02687-2</dc:identifier>
+            <dc:source>Nature, Published online: 2023-08-28; | doi:10.1038/d41586-023-02687-2</dc:source>
+            <dc:date>2023-08-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02687-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02687-2</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06553-z">
             <title><![CDATA[Author Correction: Structural basis for directional chitin biosynthesis]]></title>
@@ -1255,51 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02602-9</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02602-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06543-1">
-            <title><![CDATA[Author Correction: Rewiring cancer drivers to activate apoptosis]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06543-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 18 August 2023; <a href="https://www.nature.com/articles/s41586-023-06543-1">doi:10.1038/s41586-023-06543-1</a></p>Author Correction: Rewiring cancer drivers to activate apoptosis]]></content:encoded>
-            <dc:title><![CDATA[Author Correction: Rewiring cancer drivers to activate apoptosis]]></dc:title>
-            <dc:creator>Sai Gourisankar</dc:creator><dc:creator>Andrey Krokhotin</dc:creator><dc:creator>Wenzhi Ji</dc:creator><dc:creator>Xiaofan Liu</dc:creator><dc:creator>Chiung-Ying Chang</dc:creator><dc:creator>Samuel H. Kim</dc:creator><dc:creator>Zhengnian Li</dc:creator><dc:creator>Wendy Wenderski</dc:creator><dc:creator>Juste M. Simanauskaite</dc:creator><dc:creator>Haopeng Yang</dc:creator><dc:creator>Hannes Vogel</dc:creator><dc:creator>Tinghu Zhang</dc:creator><dc:creator>Michael R. Green</dc:creator><dc:creator>Nathanael S. Gray</dc:creator><dc:creator>Gerald R. Crabtree</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06543-1</dc:identifier>
-            <dc:source>Nature, Published online: 2023-08-18; | doi:10.1038/s41586-023-06543-1</dc:source>
-            <dc:date>2023-08-18</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06543-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06543-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02634-1">
-            <title><![CDATA[The complexity of viruses, and understanding pain: Books in brief]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02634-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 18 August 2023; <a href="https://www.nature.com/articles/d41586-023-02634-1">doi:10.1038/d41586-023-02634-1</a></p>Andrew Robinson reviews five of the best science picks.]]></content:encoded>
-            <dc:title><![CDATA[The complexity of viruses, and understanding pain: Books in brief]]></dc:title>
-            <dc:creator>Andrew Robinson</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02634-1</dc:identifier>
-            <dc:source>Nature, Published online: 2023-08-18; | doi:10.1038/d41586-023-02634-1</dc:source>
-            <dc:date>2023-08-18</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02634-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02634-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02657-8">
-            <title><![CDATA[Daily briefing: Fighting leishmaniasis, a disease causing terrible scars in Sudan]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02657-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 18 August 2023; <a href="https://www.nature.com/articles/d41586-023-02657-8">doi:10.1038/d41586-023-02657-8</a></p>Researchers are pursuing two very different strategies to finally develop a leishmaniasis vaccine. Plus, the WHO’s first traditional-medicine summit splits opinions, and five great science books to read this week.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: Fighting leishmaniasis, a disease causing terrible scars in Sudan]]></dc:title>
-            <dc:creator>Flora Graham</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02657-8</dc:identifier>
-            <dc:source>Nature, Published online: 2023-08-18; | doi:10.1038/d41586-023-02657-8</dc:source>
-            <dc:date>2023-08-18</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02657-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02657-8</prism:url>
         </item>
     
 </rdf:RDF>
