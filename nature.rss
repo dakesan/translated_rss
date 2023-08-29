@@ -18,6 +18,14 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02698-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02699-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02697-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02649-8"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02702-6"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02651-0"/>
@@ -160,14 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02603-8"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02601-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02670-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02656-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02659-6"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,66 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02698-z">
+            <title><![CDATA[Neurotechnology: we need new laws, not new rights]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02698-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 29 August 2023; <a href="https://www.nature.com/articles/d41586-023-02698-z">doi:10.1038/d41586-023-02698-z</a></p>Neurotechnology: we need new laws, not new rights]]></content:encoded>
+            <dc:title><![CDATA[Neurotechnology: we need new laws, not new rights]]></dc:title>
+            <dc:creator>Sjors Ligthart</dc:creator><dc:creator>Christoph Bublitz</dc:creator><dc:creator>Susie Alegre</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02698-z</dc:identifier>
+            <dc:source>Nature, Published online: 2023-08-29; | doi:10.1038/d41586-023-02698-z</dc:source>
+            <dc:date>2023-08-29</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02698-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02698-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02699-y">
+            <title><![CDATA[WHO: a global boost for evidence-based traditional medicine]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02699-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 29 August 2023; <a href="https://www.nature.com/articles/d41586-023-02699-y">doi:10.1038/d41586-023-02699-y</a></p>WHO: a global boost for evidence-based traditional medicine]]></content:encoded>
+            <dc:title><![CDATA[WHO: a global boost for evidence-based traditional medicine]]></dc:title>
+            <dc:creator>Bhushan Patwardhan</dc:creator><dc:creator>L. Susan Wieland</dc:creator><dc:creator>Shyama Kuruvilla</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02699-y</dc:identifier>
+            <dc:source>Nature, Published online: 2023-08-29; | doi:10.1038/d41586-023-02699-y</dc:source>
+            <dc:date>2023-08-29</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02699-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02699-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02697-0">
+            <title><![CDATA[Shark culling at a World Heritage site]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02697-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 29 August 2023; <a href="https://www.nature.com/articles/d41586-023-02697-0">doi:10.1038/d41586-023-02697-0</a></p>Shark culling at a World Heritage site]]></content:encoded>
+            <dc:title><![CDATA[Shark culling at a World Heritage site]]></dc:title>
+            <dc:creator>Philippe Borsa</dc:creator><dc:creator>Martine Cornaille</dc:creator><dc:creator>Bertrand Richer de Forges</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02697-0</dc:identifier>
+            <dc:source>Nature, Published online: 2023-08-29; | doi:10.1038/d41586-023-02697-0</dc:source>
+            <dc:date>2023-08-29</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02697-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02697-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02649-8">
+            <title><![CDATA[Carbon offsets aren’t helping the planet — four ways to fix them]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02649-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 29 August 2023; <a href="https://www.nature.com/articles/d41586-023-02649-8">doi:10.1038/d41586-023-02649-8</a></p>Pricing credits according to how much carbon is removed, for how long and how reliably, would direct funding to the most effective climate solutions.]]></content:encoded>
+            <dc:title><![CDATA[Carbon offsets aren’t helping the planet — four ways to fix them]]></dc:title>
+            <dc:creator>Philip W. Boyd</dc:creator><dc:creator>Lennart Bach</dc:creator><dc:creator>Richard Holden</dc:creator><dc:creator>Christian Turney</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02649-8</dc:identifier>
+            <dc:source>Nature, Published online: 2023-08-29; | doi:10.1038/d41586-023-02649-8</dc:source>
+            <dc:date>2023-08-29</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02649-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02649-8</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-02702-6">
             <title><![CDATA[Most rare kākāpō parrots have had their genome sequenced]]></title>
@@ -1240,66 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02603-8</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02603-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02601-w">
-            <title><![CDATA[From better bridges to more efficient cars: how pocket calculators changed the world]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02601-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 21 August 2023; <a href="https://www.nature.com/articles/d41586-023-02601-w">doi:10.1038/d41586-023-02601-w</a></p>Now lying forgotten in many a drawer, the modern computer’s handheld predecessors heralded an era of effortless calculation — an innovation 42,000 years in the making.]]></content:encoded>
-            <dc:title><![CDATA[From better bridges to more efficient cars: how pocket calculators changed the world]]></dc:title>
-            <dc:creator>Jeffrey M. Perkel</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02601-w</dc:identifier>
-            <dc:source>Nature, Published online: 2023-08-21; | doi:10.1038/d41586-023-02601-w</dc:source>
-            <dc:date>2023-08-21</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02601-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02601-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02670-x">
-            <title><![CDATA[Daily briefing: July 2023 was the hottest month in recorded history]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02670-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 21 August 2023; <a href="https://www.nature.com/articles/d41586-023-02670-x">doi:10.1038/d41586-023-02670-x</a></p>This year could be the warmest on record — and next year is likely to be even hotter. Plus, Russia’s lander has crashed on the Moon and how to speed up scientific progress.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: July 2023 was the hottest month in recorded history]]></dc:title>
-            <dc:creator>Flora Graham</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02670-x</dc:identifier>
-            <dc:source>Nature, Published online: 2023-08-21; | doi:10.1038/d41586-023-02670-x</dc:source>
-            <dc:date>2023-08-21</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02670-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02670-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02656-9">
-            <title><![CDATA[Why a highly mutated coronavirus variant has scientists on alert]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02656-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 21 August 2023; <a href="https://www.nature.com/articles/d41586-023-02656-9">doi:10.1038/d41586-023-02656-9</a></p>Research is under way to determine whether the mutation-laden lineage BA.2.86 has the potential for global spread — or whether it is nothing to worry about.]]></content:encoded>
-            <dc:title><![CDATA[Why a highly mutated coronavirus variant has scientists on alert]]></dc:title>
-            <dc:creator>Ewen Callaway</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02656-9</dc:identifier>
-            <dc:source>Nature, Published online: 2023-08-21; | doi:10.1038/d41586-023-02656-9</dc:source>
-            <dc:date>2023-08-21</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02656-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02656-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02659-6">
-            <title><![CDATA[Russian Moon lander crash — what happened, and what’s next?]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02659-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 21 August 2023; <a href="https://www.nature.com/articles/d41586-023-02659-6">doi:10.1038/d41586-023-02659-6</a></p>The Luna 25 mission has ended in failure, raising major questions about the future of Russia’s space program.]]></content:encoded>
-            <dc:title><![CDATA[Russian Moon lander crash — what happened, and what’s next?]]></dc:title>
-            <dc:creator>Jonathan O&#x27;Callaghan</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02659-6</dc:identifier>
-            <dc:source>Nature, Published online: 2023-08-21; | doi:10.1038/d41586-023-02659-6</dc:source>
-            <dc:date>2023-08-21</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02659-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02659-6</prism:url>
         </item>
     
 </rdf:RDF>
