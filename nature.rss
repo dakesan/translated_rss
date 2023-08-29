@@ -18,7 +18,11 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02702-6"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02651-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02703-5"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02650-1"/>
                 
@@ -37,8 +41,6 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02701-7"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06551-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02703-5"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02654-x"/>
                 
@@ -166,8 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02659-6"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02602-9"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,21 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02702-6">
+            <title><![CDATA[Most rare kākāpō parrots have had their genome sequenced]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02702-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 August 2023; <a href="https://www.nature.com/articles/d41586-023-02702-6">doi:10.1038/d41586-023-02702-6</a></p>DNA from more than 100 of the critically endangered birds could help to save the species from extinction.]]></content:encoded>
+            <dc:title><![CDATA[Most rare kākāpō parrots have had their genome sequenced]]></dc:title>
+            <dc:creator>Katharine Sanderson</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02702-6</dc:identifier>
+            <dc:source>Nature, Published online: 2023-08-28; | doi:10.1038/d41586-023-02702-6</dc:source>
+            <dc:date>2023-08-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02702-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02702-6</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-02651-0">
             <title><![CDATA[Diving deep into hot springs to find Earth’s subsurface microbes]]></title>
@@ -190,6 +205,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02651-0</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02651-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02703-5">
+            <title><![CDATA[Mind-reading computers turn brain activity into speech]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02703-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 August 2023; <a href="https://www.nature.com/articles/d41586-023-02703-5">doi:10.1038/d41586-023-02703-5</a></p>Algorithms trained to associate sounds with neural activity can give people back their voice]]></content:encoded>
+            <dc:title><![CDATA[Mind-reading computers turn brain activity into speech]]></dc:title>
+            <dc:creator>Shamini Bundell</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02703-5</dc:identifier>
+            <dc:source>Nature, Published online: 2023-08-28; | doi:10.1038/d41586-023-02703-5</dc:source>
+            <dc:date>2023-08-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02703-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02703-5</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-02650-1">
@@ -301,7 +331,7 @@
             <title><![CDATA[US extends science pact with China: what it means for research]]></title>
             <link>https://www.nature.com/articles/d41586-023-02701-7</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 25 August 2023; <a href="https://www.nature.com/articles/d41586-023-02701-7">doi:10.1038/d41586-023-02701-7</a></p>But the move is a stop-gap measure, and scientists warn that lack of a full renewal could damage research collaborations.]]></content:encoded>
+                <![CDATA[<p>Nature, Published online: 25 August 2023; <a href="https://www.nature.com/articles/d41586-023-02701-7">doi:10.1038/d41586-023-02701-7</a></p>The move is a stop-gap measure, and scientists warn that lack of a full renewal could damage research collaborations.]]></content:encoded>
             <dc:title><![CDATA[US extends science pact with China: what it means for research]]></dc:title>
             <dc:creator>Natasha Gilbert</dc:creator><dc:creator>Gemma Conroy</dc:creator>
             <dc:identifier>doi:10.1038/d41586-023-02701-7</dc:identifier>
@@ -325,21 +355,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/s41586-023-06551-1</prism:doi>
             <prism:url>https://www.nature.com/articles/s41586-023-06551-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02703-5">
-            <title><![CDATA[Mind-reading computers turn brain activity into speech]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02703-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 24 August 2023; <a href="https://www.nature.com/articles/d41586-023-02703-5">doi:10.1038/d41586-023-02703-5</a></p>Algorithms trained to associate sounds with neural activity can give people back their voice]]></content:encoded>
-            <dc:title><![CDATA[Mind-reading computers turn brain activity into speech]]></dc:title>
-            <dc:creator>Shamini Bundell</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02703-5</dc:identifier>
-            <dc:source>Nature, Published online: 2023-08-24; | doi:10.1038/d41586-023-02703-5</dc:source>
-            <dc:date>2023-08-24</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02703-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02703-5</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-02654-x">
@@ -1285,21 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02659-6</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02659-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02602-9">
-            <title><![CDATA[Want to speed up scientific progress? First understand how science policy works]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02602-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 21 August 2023; <a href="https://www.nature.com/articles/d41586-023-02602-9">doi:10.1038/d41586-023-02602-9</a></p>Researchers and policymakers often exist in different worlds and speak different languages. Here are three ways to bridge the divide.]]></content:encoded>
-            <dc:title><![CDATA[Want to speed up scientific progress? First understand how science policy works]]></dc:title>
-            <dc:creator>Matt Clancy</dc:creator><dc:creator>Dan Correa</dc:creator><dc:creator>Jordan Dworkin</dc:creator><dc:creator>Paul Niehaus</dc:creator><dc:creator>Caleb Watney</dc:creator><dc:creator>Heidi Williams</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02602-9</dc:identifier>
-            <dc:source>Nature, Published online: 2023-08-21; | doi:10.1038/d41586-023-02602-9</dc:source>
-            <dc:date>2023-08-21</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02602-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02602-9</prism:url>
         </item>
     
 </rdf:RDF>
