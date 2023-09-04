@@ -18,11 +18,15 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02734-y"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06571-x"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02716-0"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02756-6"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02815-y"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02740-0"/>
                 
@@ -37,6 +41,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02714-2"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02754-8"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02761-9"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02712-4"/>
                 
@@ -162,12 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02649-8"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02702-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02651-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02703-5"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,21 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02734-y">
+            <title><![CDATA[Dust: how the pursuit of power and profit has turned the world to powder]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02734-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 04 September 2023; <a href="https://www.nature.com/articles/d41586-023-02734-y">doi:10.1038/d41586-023-02734-y</a></p>From atmospheric nuclear testing to the US Dust Bowl, human activities have left a toxic legacy of particulate pollution — and the unseen fallout continues to this day.]]></content:encoded>
+            <dc:title><![CDATA[Dust: how the pursuit of power and profit has turned the world to powder]]></dc:title>
+            <dc:creator>Alexandra Witze</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02734-y</dc:identifier>
+            <dc:source>Nature, Published online: 2023-09-04; | doi:10.1038/d41586-023-02734-y</dc:source>
+            <dc:date>2023-09-04</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02734-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02734-y</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06571-x">
             <title><![CDATA[Author Correction: Women are credited less in science than men]]></title>
@@ -220,6 +235,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02756-6</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02756-6</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02815-y">
+            <title><![CDATA[Daily briefing: Our distant ancestors nearly went extinct 900,000 years ago]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02815-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 01 September 2023; <a href="https://www.nature.com/articles/d41586-023-02815-y">doi:10.1038/d41586-023-02815-y</a></p>An unknown human-like species was reduced to just 1,280 breeding individuals, creating a genetic bottleneck that is still detectable in the DNA of modern-day humans. Plus, research bases have polluted the Antarctic and how to do the hard work of greening your lab.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Our distant ancestors nearly went extinct 900,000 years ago]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02815-y</dc:identifier>
+            <dc:source>Nature, Published online: 2023-09-01; | doi:10.1038/d41586-023-02815-y</dc:source>
+            <dc:date>2023-09-01</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02815-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02815-y</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-02740-0">
@@ -268,11 +298,11 @@
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-02741-z">
-            <title><![CDATA[Concern at Cochrane: evidence giant battles funding cuts and closures]]></title>
+            <title><![CDATA[Medical-evidence giant Cochrane battles funding cuts and closures]]></title>
             <link>https://www.nature.com/articles/d41586-023-02741-z</link>
             <content:encoded>
                 <![CDATA[<p>Nature, Published online: 01 September 2023; <a href="https://www.nature.com/articles/d41586-023-02741-z">doi:10.1038/d41586-023-02741-z</a></p>The group that helped to revolutionize medical practice has lost key funding and is reorganizing — moves that concern some researchers.]]></content:encoded>
-            <dc:title><![CDATA[Concern at Cochrane: evidence giant battles funding cuts and closures]]></dc:title>
+            <dc:title><![CDATA[Medical-evidence giant Cochrane battles funding cuts and closures]]></dc:title>
             <dc:creator>Helen Pearson</dc:creator>
             <dc:identifier>doi:10.1038/d41586-023-02741-z</dc:identifier>
             <dc:source>Nature, Published online: 2023-09-01; | doi:10.1038/d41586-023-02741-z</dc:source>
@@ -325,6 +355,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02754-8</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02754-8</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02761-9">
+            <title><![CDATA[Daily briefing: First detection of oxygen-28 defies expectations]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02761-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 31 August 2023; <a href="https://www.nature.com/articles/d41586-023-02761-9">doi:10.1038/d41586-023-02761-9</a></p>Scientists are surprised by the initial observations of the 28O nucleus. Plus, people with type 1 diabetes are building their own treatment tech, and a battle for the soul of beekeeping.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: First detection of oxygen-28 defies expectations]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02761-9</dc:identifier>
+            <dc:source>Nature, Published online: 2023-08-31; | doi:10.1038/d41586-023-02761-9</dc:source>
+            <dc:date>2023-08-31</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02761-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02761-9</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-02712-4">
@@ -1255,51 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02649-8</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02649-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02702-6">
-            <title><![CDATA[Most rare kākāpō parrots have had their genome sequenced]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02702-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 28 August 2023; <a href="https://www.nature.com/articles/d41586-023-02702-6">doi:10.1038/d41586-023-02702-6</a></p>DNA from more than 100 of the critically endangered birds could help to save the species from extinction.]]></content:encoded>
-            <dc:title><![CDATA[Most rare kākāpō parrots have had their genome sequenced]]></dc:title>
-            <dc:creator>Katharine Sanderson</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02702-6</dc:identifier>
-            <dc:source>Nature, Published online: 2023-08-28; | doi:10.1038/d41586-023-02702-6</dc:source>
-            <dc:date>2023-08-28</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02702-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02702-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02651-0">
-            <title><![CDATA[Diving deep into hot springs to find Earth’s subsurface microbes]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02651-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 28 August 2023; <a href="https://www.nature.com/articles/d41586-023-02651-0">doi:10.1038/d41586-023-02651-0</a></p>Geomicrobiologist Karen Lloyd explores the roles of microorganisms that dwell in the planet’s most remote regions.]]></content:encoded>
-            <dc:title><![CDATA[Diving deep into hot springs to find Earth’s subsurface microbes]]></dc:title>
-            <dc:creator>Virginia Gewin</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02651-0</dc:identifier>
-            <dc:source>Nature, Published online: 2023-08-28; | doi:10.1038/d41586-023-02651-0</dc:source>
-            <dc:date>2023-08-28</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02651-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02651-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02703-5">
-            <title><![CDATA[Mind-reading computers turn brain activity into speech]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02703-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 28 August 2023; <a href="https://www.nature.com/articles/d41586-023-02703-5">doi:10.1038/d41586-023-02703-5</a></p>Algorithms trained to associate sounds with neural activity can give people back their voice]]></content:encoded>
-            <dc:title><![CDATA[Mind-reading computers turn brain activity into speech]]></dc:title>
-            <dc:creator>Shamini Bundell</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02703-5</dc:identifier>
-            <dc:source>Nature, Published online: 2023-08-28; | doi:10.1038/d41586-023-02703-5</dc:source>
-            <dc:date>2023-08-28</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02703-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02703-5</prism:url>
         </item>
     
 </rdf:RDF>
