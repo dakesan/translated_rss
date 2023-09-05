@@ -18,6 +18,10 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02737-9"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02811-2"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02734-y"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06571-x"/>
@@ -25,6 +29,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02716-0"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02756-6"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02393-z"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02815-y"/>
                 
@@ -162,12 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02697-0"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02723-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02686-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02649-8"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,36 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02737-9">
+            <title><![CDATA[I ski for miles in the wilderness to measure dust atop snow]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02737-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 04 September 2023; <a href="https://www.nature.com/articles/d41586-023-02737-9">doi:10.1038/d41586-023-02737-9</a></p>Snow hydrologist McKenzie Skiles takes to her skis in rural parts of the United States each spring to track dust’s impact on water resources.]]></content:encoded>
+            <dc:title><![CDATA[I ski for miles in the wilderness to measure dust atop snow]]></dc:title>
+            <dc:creator>Virginia Gewin</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02737-9</dc:identifier>
+            <dc:source>Nature, Published online: 2023-09-04; | doi:10.1038/d41586-023-02737-9</dc:source>
+            <dc:date>2023-09-04</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02737-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02737-9</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02811-2">
+            <title><![CDATA[India’s first Sun mission will investigate the origins of space weather]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02811-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 04 September 2023; <a href="https://www.nature.com/articles/d41586-023-02811-2">doi:10.1038/d41586-023-02811-2</a></p>The Aditya-L1 million will join other spacecraft from Europe and the United States in an attempt to understand our stormy star.]]></content:encoded>
+            <dc:title><![CDATA[India’s first Sun mission will investigate the origins of space weather]]></dc:title>
+            <dc:creator>T.V. Padma</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02811-2</dc:identifier>
+            <dc:source>Nature, Published online: 2023-09-04; | doi:10.1038/d41586-023-02811-2</dc:source>
+            <dc:date>2023-09-04</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02811-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02811-2</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-02734-y">
             <title><![CDATA[Dust: how the pursuit of power and profit has turned the world to powder]]></title>
@@ -235,6 +265,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02756-6</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02756-6</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02393-z">
+            <title><![CDATA[Action spectroscopy of a single gas molecule]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02393-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 01 September 2023; <a href="https://www.nature.com/articles/d41586-023-02393-z">doi:10.1038/d41586-023-02393-z</a></p>Spectroscopy is widely used to characterize samples. Here, spectroscopy of a single molecule of the tropylium cation (C7H7+) presents a new approach to analysis, particularly for rare or reactive molecular ions that are probably important in interstellar chemistry.]]></content:encoded>
+            <dc:title><![CDATA[Action spectroscopy of a single gas molecule]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-02393-z</dc:identifier>
+            <dc:source>Nature, Published online: 2023-09-01; | doi:10.1038/d41586-023-02393-z</dc:source>
+            <dc:date>2023-09-01</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02393-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02393-z</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-02815-y">
@@ -1255,51 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02697-0</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02697-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02723-1">
-            <title><![CDATA[From the lab to the World Cup: meet footballer–scientist Michelle Alozie]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02723-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 29 August 2023; <a href="https://www.nature.com/articles/d41586-023-02723-1">doi:10.1038/d41586-023-02723-1</a></p>The professional athlete and research technician explains why focus, collaboration and teamwork are important on and off the pitch.]]></content:encoded>
-            <dc:title><![CDATA[From the lab to the World Cup: meet footballer–scientist Michelle Alozie]]></dc:title>
-            <dc:creator>Lilly Tozer</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02723-1</dc:identifier>
-            <dc:source>Nature, Published online: 2023-08-29; | doi:10.1038/d41586-023-02723-1</dc:source>
-            <dc:date>2023-08-29</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02723-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02723-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02686-3">
-            <title><![CDATA[The science is clear: sustainable development and climate action are inseparable]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02686-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 29 August 2023; <a href="https://www.nature.com/articles/d41586-023-02686-3">doi:10.1038/d41586-023-02686-3</a></p>Sustainability cannot be achieved without climate action, and vice versa. What’s needed is a fight on both fronts.]]></content:encoded>
-            <dc:title><![CDATA[The science is clear: sustainable development and climate action are inseparable]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-02686-3</dc:identifier>
-            <dc:source>Nature, Published online: 2023-08-29; | doi:10.1038/d41586-023-02686-3</dc:source>
-            <dc:date>2023-08-29</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02686-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02686-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02649-8">
-            <title><![CDATA[Carbon offsets aren’t helping the planet — four ways to fix them]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02649-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 29 August 2023; <a href="https://www.nature.com/articles/d41586-023-02649-8">doi:10.1038/d41586-023-02649-8</a></p>Pricing credits according to how much carbon is removed, for how long and how reliably, would direct funding to the most effective climate solutions.]]></content:encoded>
-            <dc:title><![CDATA[Carbon offsets aren’t helping the planet — four ways to fix them]]></dc:title>
-            <dc:creator>Philip W. Boyd</dc:creator><dc:creator>Lennart Bach</dc:creator><dc:creator>Richard Holden</dc:creator><dc:creator>Christian Turney</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02649-8</dc:identifier>
-            <dc:source>Nature, Published online: 2023-08-29; | doi:10.1038/d41586-023-02649-8</dc:source>
-            <dc:date>2023-08-29</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02649-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02649-8</prism:url>
         </item>
     
 </rdf:RDF>
