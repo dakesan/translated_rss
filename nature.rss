@@ -18,6 +18,10 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02733-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02745-9"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06576-6"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06591-7"/>
@@ -35,6 +39,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02746-8"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02749-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02831-y"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02737-9"/>
                 
@@ -162,12 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02595-5"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02647-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02451-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02713-3"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,36 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02733-z">
+            <title><![CDATA[Why a blockbuster superconductivity claim met a wall of scepticism]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02733-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 September 2023; <a href="https://www.nature.com/articles/d41586-023-02733-z">doi:10.1038/d41586-023-02733-z</a></p>Physicist Ranga Dias and his colleagues have twice claimed to make a room-temperature superconductor. But many researchers question the evidence.]]></content:encoded>
+            <dc:title><![CDATA[Why a blockbuster superconductivity claim met a wall of scepticism]]></dc:title>
+            <dc:creator>Edwin Cartlidge</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02733-z</dc:identifier>
+            <dc:source>Nature, Published online: 2023-09-06; | doi:10.1038/d41586-023-02733-z</dc:source>
+            <dc:date>2023-09-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02733-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02733-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02745-9">
+            <title><![CDATA[Gender equality: the route to a better world]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02745-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 September 2023; <a href="https://www.nature.com/articles/d41586-023-02745-9">doi:10.1038/d41586-023-02745-9</a></p>Health outcomes, ending poverty and greening the environment are boosted when power is shared between the genders.]]></content:encoded>
+            <dc:title><![CDATA[Gender equality: the route to a better world]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-02745-9</dc:identifier>
+            <dc:source>Nature, Published online: 2023-09-06; | doi:10.1038/d41586-023-02745-9</dc:source>
+            <dc:date>2023-09-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02745-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02745-9</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06576-6">
             <title><![CDATA[Publisher Correction: The future transistors]]></title>
@@ -310,6 +340,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02749-5</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02749-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02831-y">
+            <title><![CDATA[Daily briefing: Invasive species contribute to most extinctions]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02831-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 05 September 2023; <a href="https://www.nature.com/articles/d41586-023-02831-y">doi:10.1038/d41586-023-02831-y</a></p>Exhaustive IPBES report reveals that invasive species cost the economy hundreds of billions of dollars. Plus, India’s space mission to study the Sun and how to write a great grant application.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Invasive species contribute to most extinctions]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02831-y</dc:identifier>
+            <dc:source>Nature, Published online: 2023-09-05; | doi:10.1038/d41586-023-02831-y</dc:source>
+            <dc:date>2023-09-05</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02831-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02831-y</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-02737-9">
@@ -1255,51 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02595-5</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02595-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02647-w">
-            <title><![CDATA[Is a boost to height a boost to health? Dwarfism therapies spark controversy]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02647-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 30 August 2023; <a href="https://www.nature.com/articles/d41586-023-02647-w">doi:10.1038/d41586-023-02647-w</a></p>Emerging treatments for achondroplasia pose difficult choices for parents. Proponents say they are changing lives. Others fear they will feed stigma and erase identity.]]></content:encoded>
-            <dc:title><![CDATA[Is a boost to height a boost to health? Dwarfism therapies spark controversy]]></dc:title>
-            <dc:creator>Cassandra Willyard</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02647-w</dc:identifier>
-            <dc:source>Nature, Published online: 2023-08-30; | doi:10.1038/d41586-023-02647-w</dc:source>
-            <dc:date>2023-08-30</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02647-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02647-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02451-6">
-            <title><![CDATA[Peering into bats’ brains as the animals fly and feed together]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02451-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 30 August 2023; <a href="https://www.nature.com/articles/d41586-023-02451-6">doi:10.1038/d41586-023-02451-6</a></p>Many animals, including humans, live together and move in coordination with others, but little is known about how neurons represent or govern such complex behaviours. By studying free-flying bats, we found that neural activity in a region of the brain called the hippocampus contains a rich representation of the spatial and social environment that could support collective behaviour.]]></content:encoded>
-            <dc:title><![CDATA[Peering into bats’ brains as the animals fly and feed together]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-02451-6</dc:identifier>
-            <dc:source>Nature, Published online: 2023-08-30; | doi:10.1038/d41586-023-02451-6</dc:source>
-            <dc:date>2023-08-30</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02451-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02451-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02713-3">
-            <title><![CDATA[Rare oxygen isotope detected at last — and it defies expectations]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02713-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 30 August 2023; <a href="https://www.nature.com/articles/d41586-023-02713-3">doi:10.1038/d41586-023-02713-3</a></p>Oxygen-28 might prompt physicists to revamp theories of how atomic nuclei are structured.]]></content:encoded>
-            <dc:title><![CDATA[Rare oxygen isotope detected at last — and it defies expectations]]></dc:title>
-            <dc:creator>Katherine Bourzac</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02713-3</dc:identifier>
-            <dc:source>Nature, Published online: 2023-08-30; | doi:10.1038/d41586-023-02713-3</dc:source>
-            <dc:date>2023-08-30</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02713-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02713-3</prism:url>
         </item>
     
 </rdf:RDF>
