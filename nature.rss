@@ -18,6 +18,10 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02812-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02834-9"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06411-y"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06412-x"/>
@@ -64,11 +68,11 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02730-2"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02843-8"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02608-3"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02662-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02834-9"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02610-9"/>
                 
@@ -164,10 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06554-y"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06559-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02719-x"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,36 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02812-1">
+            <title><![CDATA[Scientists celebrate as UK rejoins Horizon Europe research programme]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02812-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 07 September 2023; <a href="https://www.nature.com/articles/d41586-023-02812-1">doi:10.1038/d41586-023-02812-1</a></p>British researchers have been frozen out of the scheme for two years, amid disagreements over Brexit.]]></content:encoded>
+            <dc:title><![CDATA[Scientists celebrate as UK rejoins Horizon Europe research programme]]></dc:title>
+            <dc:creator>Katharine Sanderson</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02812-1</dc:identifier>
+            <dc:source>Nature, Published online: 2023-09-07; | doi:10.1038/d41586-023-02812-1</dc:source>
+            <dc:date>2023-09-07</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02812-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02812-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02834-9">
+            <title><![CDATA[Why are concrete schools crumbling in the UK — and what can be done?]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02834-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 07 September 2023; <a href="https://www.nature.com/articles/d41586-023-02834-9">doi:10.1038/d41586-023-02834-9</a></p>Researchers say safety concerns over RAAC concrete in UK schools could be “the tip of the iceberg”.]]></content:encoded>
+            <dc:title><![CDATA[Why are concrete schools crumbling in the UK — and what can be done?]]></dc:title>
+            <dc:creator>Jonathan O&#x27;Callaghan</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02834-9</dc:identifier>
+            <dc:source>Nature, Published online: 2023-09-07; | doi:10.1038/d41586-023-02834-9</dc:source>
+            <dc:date>2023-09-07</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02834-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02834-9</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06411-y">
             <title><![CDATA[Amniote metabolism and the evolution of endothermy]]></title>
@@ -522,6 +552,21 @@
             <prism:url>https://www.nature.com/articles/d41586-023-02730-2</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02843-8">
+            <title><![CDATA[Daily briefing: Did ancient humans craft these rock balls?]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02843-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 September 2023; <a href="https://www.nature.com/articles/d41586-023-02843-8">doi:10.1038/d41586-023-02843-8</a></p>Mysterious, spherical rocks litter the archaeological record — now researchers say there is evidence the balls were shaped on purpose. Plus, why a blockbuster superconductivity claim met a wall of scepticism and 2,000 unwanted rhinos get adopted.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Did ancient humans craft these rock balls?]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02843-8</dc:identifier>
+            <dc:source>Nature, Published online: 2023-09-06; | doi:10.1038/d41586-023-02843-8</dc:source>
+            <dc:date>2023-09-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02843-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02843-8</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-023-02608-3">
             <title><![CDATA[Global leaders in science’s battle against cancer]]></title>
             <link>https://www.nature.com/articles/d41586-023-02608-3</link>
@@ -550,21 +595,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02662-x</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02662-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02834-9">
-            <title><![CDATA[Why are concrete schools crumbling in the UK — and what can be done?]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02834-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 06 September 2023; <a href="https://www.nature.com/articles/d41586-023-02834-9">doi:10.1038/d41586-023-02834-9</a></p>Researchers say safety concerns over RAAC concrete in UK schools could be “the tip of the iceberg”.]]></content:encoded>
-            <dc:title><![CDATA[Why are concrete schools crumbling in the UK — and what can be done?]]></dc:title>
-            <dc:creator>Jonathan O&#x27;Callaghan</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02834-9</dc:identifier>
-            <dc:source>Nature, Published online: 2023-09-06; | doi:10.1038/d41586-023-02834-9</dc:source>
-            <dc:date>2023-09-06</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02834-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02834-9</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-02610-9">
@@ -1270,36 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/s41586-023-06554-y</prism:doi>
             <prism:url>https://www.nature.com/articles/s41586-023-06554-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06559-7">
-            <title><![CDATA[Publisher Correction: Scientific discovery in the age of artificial intelligence]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06559-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 30 August 2023; <a href="https://www.nature.com/articles/s41586-023-06559-7">doi:10.1038/s41586-023-06559-7</a></p>Publisher Correction: Scientific discovery in the age of artificial intelligence]]></content:encoded>
-            <dc:title><![CDATA[Publisher Correction: Scientific discovery in the age of artificial intelligence]]></dc:title>
-            <dc:creator>Hanchen Wang</dc:creator><dc:creator>Tianfan Fu</dc:creator><dc:creator>Yuanqi Du</dc:creator><dc:creator>Wenhao Gao</dc:creator><dc:creator>Kexin Huang</dc:creator><dc:creator>Ziming Liu</dc:creator><dc:creator>Payal Chandak</dc:creator><dc:creator>Shengchao Liu</dc:creator><dc:creator>Peter Van Katwyk</dc:creator><dc:creator>Andreea Deac</dc:creator><dc:creator>Anima Anandkumar</dc:creator><dc:creator>Karianne Bergen</dc:creator><dc:creator>Carla P. Gomes</dc:creator><dc:creator>Shirley Ho</dc:creator><dc:creator>Pushmeet Kohli</dc:creator><dc:creator>Joan Lasenby</dc:creator><dc:creator>Jure Leskovec</dc:creator><dc:creator>Tie-Yan Liu</dc:creator><dc:creator>Arjun Manrai</dc:creator><dc:creator>Debora Marks</dc:creator><dc:creator>Bharath Ramsundar</dc:creator><dc:creator>Le Song</dc:creator><dc:creator>Jimeng Sun</dc:creator><dc:creator>Jian Tang</dc:creator><dc:creator>Petar Veličković</dc:creator><dc:creator>Max Welling</dc:creator><dc:creator>Linfeng Zhang</dc:creator><dc:creator>Connor W. Coley</dc:creator><dc:creator>Yoshua Bengio</dc:creator><dc:creator>Marinka Zitnik</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06559-7</dc:identifier>
-            <dc:source>Nature, Published online: 2023-08-30; | doi:10.1038/s41586-023-06559-7</dc:source>
-            <dc:date>2023-08-30</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06559-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06559-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02719-x">
-            <title><![CDATA[AI finally beats humans at a real-life sport — drone racing]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02719-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 30 August 2023; <a href="https://www.nature.com/articles/d41586-023-02719-x">doi:10.1038/d41586-023-02719-x</a></p>The new system combines simulation with onboard sensing and computation.]]></content:encoded>
-            <dc:title><![CDATA[AI finally beats humans at a real-life sport — drone racing]]></dc:title>
-            <dc:creator>Dan Fox</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02719-x</dc:identifier>
-            <dc:source>Nature, Published online: 2023-08-30; | doi:10.1038/d41586-023-02719-x</dc:source>
-            <dc:date>2023-08-30</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02719-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02719-x</prism:url>
         </item>
     
 </rdf:RDF>
