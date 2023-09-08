@@ -18,11 +18,17 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02813-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02477-w"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02717-z"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02834-9"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02825-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02849-2"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02812-1"/>
                 
@@ -35,8 +41,6 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06604-5"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02763-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02757-5"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02605-6"/>
                 
@@ -87,6 +91,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02733-z"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02837-6"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02757-5"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02745-9"/>
                 
@@ -162,12 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02754-8"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02761-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02712-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02736-w"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,36 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02813-0">
+            <title><![CDATA[“Just get the admin to do it.” Why research managers are feeling misunderstood]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02813-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 September 2023; <a href="https://www.nature.com/articles/d41586-023-02813-0">doi:10.1038/d41586-023-02813-0</a></p>Science benefits when there is mutual respect between academics and research managers. Team Science, a six-part series, begins by examining a key workplace relationship.]]></content:encoded>
+            <dc:title><![CDATA[“Just get the admin to do it.” Why research managers are feeling misunderstood]]></dc:title>
+            <dc:creator>Dom Byrne</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02813-0</dc:identifier>
+            <dc:source>Nature, Published online: 2023-09-08; | doi:10.1038/d41586-023-02813-0</dc:source>
+            <dc:date>2023-09-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02813-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02813-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02477-w">
+            <title><![CDATA[Scientific sleuths spot dishonest ChatGPT use in papers]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02477-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 September 2023; <a href="https://www.nature.com/articles/d41586-023-02477-w">doi:10.1038/d41586-023-02477-w</a></p>Manuscripts that don’t disclose AI assistance are slipping past peer reviewers.]]></content:encoded>
+            <dc:title><![CDATA[Scientific sleuths spot dishonest ChatGPT use in papers]]></dc:title>
+            <dc:creator>Gemma Conroy</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02477-w</dc:identifier>
+            <dc:source>Nature, Published online: 2023-09-08; | doi:10.1038/d41586-023-02477-w</dc:source>
+            <dc:date>2023-09-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02477-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02477-w</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-02717-z">
             <title><![CDATA[Wood component yields useful plastics — without the health risks]]></title>
@@ -220,6 +250,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02825-w</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02825-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02849-2">
+            <title><![CDATA[Daily briefing: What’s the endgame of OpenAI, the creator of ChatGPT?]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02849-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 07 September 2023; <a href="https://www.nature.com/articles/d41586-023-02849-2">doi:10.1038/d41586-023-02849-2</a></p>ChatGPT is part of a strategy of acclimatizing the public to the seismic changes that are imminent because of artificial intelligence, says the co-founder of OpenAI. Plus, the UK rejoins Horizon Europe and a bird-like dinosaur is as old as the ‘first bird’, Archaeopteryx.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: What’s the endgame of OpenAI, the creator of ChatGPT?]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02849-2</dc:identifier>
+            <dc:source>Nature, Published online: 2023-09-07; | doi:10.1038/d41586-023-02849-2</dc:source>
+            <dc:date>2023-09-07</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02849-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02849-2</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-02812-1">
@@ -310,21 +355,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02763-7</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02763-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02757-5">
-            <title><![CDATA[‘Weird’ dinosaur prompts rethink of bird evolution]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02757-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 06 September 2023; <a href="https://www.nature.com/articles/d41586-023-02757-5">doi:10.1038/d41586-023-02757-5</a></p>The fossil is as old as the ‘first bird’, Archaeopteryx, and might have specialized in running or wading instead of flying.]]></content:encoded>
-            <dc:title><![CDATA[‘Weird’ dinosaur prompts rethink of bird evolution]]></dc:title>
-            <dc:creator>Jude Coleman</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02757-5</dc:identifier>
-            <dc:source>Nature, Published online: 2023-09-06; | doi:10.1038/d41586-023-02757-5</dc:source>
-            <dc:date>2023-09-06</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02757-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02757-5</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-02605-6">
@@ -700,6 +730,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02837-6</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02837-6</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02757-5">
+            <title><![CDATA[‘Weird’ dinosaur prompts rethink of bird evolution]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02757-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 September 2023; <a href="https://www.nature.com/articles/d41586-023-02757-5">doi:10.1038/d41586-023-02757-5</a></p>The fossil is as old as the ‘first bird’, Archaeopteryx, and might have specialized in running or wading instead of flying.]]></content:encoded>
+            <dc:title><![CDATA[‘Weird’ dinosaur prompts rethink of bird evolution]]></dc:title>
+            <dc:creator>Jude Coleman</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02757-5</dc:identifier>
+            <dc:source>Nature, Published online: 2023-09-06; | doi:10.1038/d41586-023-02757-5</dc:source>
+            <dc:date>2023-09-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02757-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02757-5</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-02745-9">
@@ -1255,51 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02754-8</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02754-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02761-9">
-            <title><![CDATA[Daily briefing: First detection of oxygen-28 defies expectations]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02761-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 31 August 2023; <a href="https://www.nature.com/articles/d41586-023-02761-9">doi:10.1038/d41586-023-02761-9</a></p>Scientists are surprised by the initial observations of the 28O nucleus. Plus, people with type 1 diabetes are building their own treatment tech, and a battle for the soul of beekeeping.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: First detection of oxygen-28 defies expectations]]></dc:title>
-            <dc:creator>Flora Graham</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02761-9</dc:identifier>
-            <dc:source>Nature, Published online: 2023-08-31; | doi:10.1038/d41586-023-02761-9</dc:source>
-            <dc:date>2023-08-31</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02761-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02761-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02712-4">
-            <title><![CDATA[Human ancestors nearly went extinct 900,000 years ago]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02712-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 31 August 2023; <a href="https://www.nature.com/articles/d41586-023-02712-4">doi:10.1038/d41586-023-02712-4</a></p>A new technique analysing modern genetic data suggests that pre-humans survived in a group of only 1,280 individuals.]]></content:encoded>
-            <dc:title><![CDATA[Human ancestors nearly went extinct 900,000 years ago]]></dc:title>
-            <dc:creator>Anna Ikarashi</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02712-4</dc:identifier>
-            <dc:source>Nature, Published online: 2023-08-31; | doi:10.1038/d41586-023-02712-4</dc:source>
-            <dc:date>2023-08-31</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02712-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02712-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02736-w">
-            <title><![CDATA[How we set our lab on an environmentally sustainable path]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02736-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 31 August 2023; <a href="https://www.nature.com/articles/d41586-023-02736-w">doi:10.1038/d41586-023-02736-w</a></p>Leading a drive to lower your lab’s carbon footprint alongside your PhD research is tough. Start by celebrating small successes, says Caroline Giuglaris.]]></content:encoded>
-            <dc:title><![CDATA[How we set our lab on an environmentally sustainable path]]></dc:title>
-            <dc:creator>Caroline Giuglaris</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02736-w</dc:identifier>
-            <dc:source>Nature, Published online: 2023-08-31; | doi:10.1038/d41586-023-02736-w</dc:source>
-            <dc:date>2023-08-31</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02736-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02736-w</prism:url>
         </item>
     
 </rdf:RDF>
