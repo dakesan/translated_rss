@@ -18,9 +18,15 @@
         <items>
             <rdf:Seq>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02812-1"/>
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02717-z"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02834-9"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02825-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02812-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02824-x"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06411-y"/>
                 
@@ -162,12 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02736-w"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02750-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02755-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06554-y"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -177,19 +177,19 @@
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
     
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02812-1">
-            <title><![CDATA[Scientists celebrate as UK rejoins Horizon Europe research programme]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02812-1</link>
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02717-z">
+            <title><![CDATA[Wood component yields useful plastics — without the health risks]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02717-z</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 07 September 2023; <a href="https://www.nature.com/articles/d41586-023-02812-1">doi:10.1038/d41586-023-02812-1</a></p>British researchers have been frozen out of the scheme for two years, amid disagreements over Brexit.]]></content:encoded>
-            <dc:title><![CDATA[Scientists celebrate as UK rejoins Horizon Europe research programme]]></dc:title>
-            <dc:creator>Katharine Sanderson</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02812-1</dc:identifier>
-            <dc:source>Nature, Published online: 2023-09-07; | doi:10.1038/d41586-023-02812-1</dc:source>
+                <![CDATA[<p>Nature, Published online: 07 September 2023; <a href="https://www.nature.com/articles/d41586-023-02717-z">doi:10.1038/d41586-023-02717-z</a></p>Lignin and a catalyst allow for green and efficient production of alternatives to bisphenol A.]]></content:encoded>
+            <dc:title><![CDATA[Wood component yields useful plastics — without the health risks]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-02717-z</dc:identifier>
+            <dc:source>Nature, Published online: 2023-09-07; | doi:10.1038/d41586-023-02717-z</dc:source>
             <dc:date>2023-09-07</dc:date>
             <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02812-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02812-1</prism:url>
+            <prism:doi>10.1038/d41586-023-02717-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02717-z</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-02834-9">
@@ -205,6 +205,51 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02834-9</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02834-9</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02825-w">
+            <title><![CDATA[Legacy of racist US housing policies extends even to bird data]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02825-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 07 September 2023; <a href="https://www.nature.com/articles/d41586-023-02825-w">doi:10.1038/d41586-023-02825-w</a></p>A discriminatory strategy called redlining, which was implemented in the 1930s, has repercussions today for records of urban biodiversity.]]></content:encoded>
+            <dc:title><![CDATA[Legacy of racist US housing policies extends even to bird data]]></dc:title>
+            <dc:creator>Anil Oza</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02825-w</dc:identifier>
+            <dc:source>Nature, Published online: 2023-09-07; | doi:10.1038/d41586-023-02825-w</dc:source>
+            <dc:date>2023-09-07</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02825-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02825-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02812-1">
+            <title><![CDATA[Scientists celebrate as UK rejoins Horizon Europe research programme]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02812-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 07 September 2023; <a href="https://www.nature.com/articles/d41586-023-02812-1">doi:10.1038/d41586-023-02812-1</a></p>British researchers have been frozen out of the scheme for two years, amid disagreements over Brexit.]]></content:encoded>
+            <dc:title><![CDATA[Scientists celebrate as UK rejoins Horizon Europe research programme]]></dc:title>
+            <dc:creator>Katharine Sanderson</dc:creator><dc:creator>Miryam Naddaf</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02812-1</dc:identifier>
+            <dc:source>Nature, Published online: 2023-09-07; | doi:10.1038/d41586-023-02812-1</dc:source>
+            <dc:date>2023-09-07</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02812-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02812-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02824-x">
+            <title><![CDATA[Colombia considers ban on most research and education using live animals]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02824-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 07 September 2023; <a href="https://www.nature.com/articles/d41586-023-02824-x">doi:10.1038/d41586-023-02824-x</a></p>A bill and a constitutional amendment that seek to extend the rights of animals could jeopardize ecological studies.]]></content:encoded>
+            <dc:title><![CDATA[Colombia considers ban on most research and education using live animals]]></dc:title>
+            <dc:creator>Amanda Heidt</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02824-x</dc:identifier>
+            <dc:source>Nature, Published online: 2023-09-07; | doi:10.1038/d41586-023-02824-x</dc:source>
+            <dc:date>2023-09-07</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02824-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02824-x</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06411-y">
@@ -688,11 +733,11 @@
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-02823-y">
-            <title><![CDATA[Scientists doubt claim of interstellar debris hitting Earth: here’s why]]></title>
+            <title><![CDATA[An ‘alien meteorite’ probably didn’t slam into Earth — how will we know if one does?]]></title>
             <link>https://www.nature.com/articles/d41586-023-02823-y</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 06 September 2023; <a href="https://www.nature.com/articles/d41586-023-02823-y">doi:10.1038/d41586-023-02823-y</a></p>Nature looks at the detective work that would be required to confirm a controversial ‘alien meteorite’ report.]]></content:encoded>
-            <dc:title><![CDATA[Scientists doubt claim of interstellar debris hitting Earth: here’s why]]></dc:title>
+                <![CDATA[<p>Nature, Published online: 06 September 2023; <a href="https://www.nature.com/articles/d41586-023-02823-y">doi:10.1038/d41586-023-02823-y</a></p>Nature looks at the detective work required to confirm a controversial claim of finding interstellar debris.]]></content:encoded>
+            <dc:title><![CDATA[An ‘alien meteorite’ probably didn’t slam into Earth — how will we know if one does?]]></dc:title>
             <dc:creator>Alexandra Witze</dc:creator>
             <dc:identifier>doi:10.1038/d41586-023-02823-y</dc:identifier>
             <dc:source>Nature, Published online: 2023-09-06; | doi:10.1038/d41586-023-02823-y</dc:source>
@@ -1255,51 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02736-w</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02736-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02750-y">
-            <title><![CDATA[Strike at outbreak-alert service ProMED to end — but tensions remain]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02750-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 31 August 2023; <a href="https://www.nature.com/articles/d41586-023-02750-y">doi:10.1038/d41586-023-02750-y</a></p>Most of the striking ProMED staff members are prepared to return to work, although many still have concerns.]]></content:encoded>
-            <dc:title><![CDATA[Strike at outbreak-alert service ProMED to end — but tensions remain]]></dc:title>
-            <dc:creator>Max Kozlov</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02750-y</dc:identifier>
-            <dc:source>Nature, Published online: 2023-08-31; | doi:10.1038/d41586-023-02750-y</dc:source>
-            <dc:date>2023-08-31</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02750-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02750-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02755-7">
-            <title><![CDATA[Biotechnologist’s long-life bananas unite business and social solutions]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02755-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 31 August 2023; <a href="https://www.nature.com/articles/d41586-023-02755-7">doi:10.1038/d41586-023-02755-7</a></p>George William Byarugaba Bazirake brings academic values to his company.]]></content:encoded>
-            <dc:title><![CDATA[Biotechnologist’s long-life bananas unite business and social solutions]]></dc:title>
-            <dc:creator>Christopher Bendana</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02755-7</dc:identifier>
-            <dc:source>Nature, Published online: 2023-08-31; | doi:10.1038/d41586-023-02755-7</dc:source>
-            <dc:date>2023-08-31</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02755-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02755-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06554-y">
-            <title><![CDATA[Publisher Correction: Population-based heteropolymer design to mimic protein mixtures]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06554-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 30 August 2023; <a href="https://www.nature.com/articles/s41586-023-06554-y">doi:10.1038/s41586-023-06554-y</a></p>Publisher Correction: Population-based heteropolymer design to mimic protein mixtures]]></content:encoded>
-            <dc:title><![CDATA[Publisher Correction: Population-based heteropolymer design to mimic protein mixtures]]></dc:title>
-            <dc:creator>Zhiyuan Ruan</dc:creator><dc:creator>Shuni Li</dc:creator><dc:creator>Alexandra Grigoropoulos</dc:creator><dc:creator>Hossein Amiri</dc:creator><dc:creator>Shayna L. Hilburg</dc:creator><dc:creator>Haotian Chen</dc:creator><dc:creator>Ivan Jayapurna</dc:creator><dc:creator>Tao Jiang</dc:creator><dc:creator>Zhaoyi Gu</dc:creator><dc:creator>Alfredo Alexander-Katz</dc:creator><dc:creator>Carlos Bustamante</dc:creator><dc:creator>Haiyan Huang</dc:creator><dc:creator>Ting Xu</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06554-y</dc:identifier>
-            <dc:source>Nature, Published online: 2023-08-30; | doi:10.1038/s41586-023-06554-y</dc:source>
-            <dc:date>2023-08-30</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06554-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06554-y</prism:url>
         </item>
     
 </rdf:RDF>
