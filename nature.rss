@@ -18,9 +18,19 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02747-7"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02855-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02839-4"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02813-0"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02477-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02854-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02852-7"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02717-z"/>
                 
@@ -158,16 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02681-8"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02700-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02741-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02735-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02714-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02754-8"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,51 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02747-7">
+            <title><![CDATA[A historic solar flare’s huge intensity is revealed by new tools]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02747-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 September 2023; <a href="https://www.nature.com/articles/d41586-023-02747-7">doi:10.1038/d41586-023-02747-7</a></p>Scientists estimate the magnitude of the 1859 ‘Carrington flare’, the biggest of its kind ever recorded.]]></content:encoded>
+            <dc:title><![CDATA[A historic solar flare’s huge intensity is revealed by new tools]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-02747-7</dc:identifier>
+            <dc:source>Nature, Published online: 2023-09-08; | doi:10.1038/d41586-023-02747-7</dc:source>
+            <dc:date>2023-09-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02747-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02747-7</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02855-4">
+            <title><![CDATA[Why Juneteenth matters for science]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02855-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 September 2023; <a href="https://www.nature.com/articles/d41586-023-02855-4">doi:10.1038/d41586-023-02855-4</a></p>In the light of US court rulings on racism in science and affirmative action in higher education, commemorating the emancipation of enslaved African Americans is ever more important.]]></content:encoded>
+            <dc:title><![CDATA[Why Juneteenth matters for science]]></dc:title>
+            <dc:creator>Antentor O. Hinton</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02855-4</dc:identifier>
+            <dc:source>Nature, Published online: 2023-09-08; | doi:10.1038/d41586-023-02855-4</dc:source>
+            <dc:date>2023-09-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02855-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02855-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02839-4">
+            <title><![CDATA[NSF invests millions to unite Indigenous knowledge with Western science]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02839-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 September 2023; <a href="https://www.nature.com/articles/d41586-023-02839-4">doi:10.1038/d41586-023-02839-4</a></p>Research centre launched by the US National Science Foundation will partner with native peoples to study farming, climate and more.]]></content:encoded>
+            <dc:title><![CDATA[NSF invests millions to unite Indigenous knowledge with Western science]]></dc:title>
+            <dc:creator>Jeff Tollefson</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02839-4</dc:identifier>
+            <dc:source>Nature, Published online: 2023-09-08; | doi:10.1038/d41586-023-02839-4</dc:source>
+            <dc:date>2023-09-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02839-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02839-4</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-02813-0">
             <title><![CDATA[“Just get the admin to do it.” Why research managers are feeling misunderstood]]></title>
@@ -205,6 +250,36 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02477-w</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02477-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02854-5">
+            <title><![CDATA[Horizon Europe turmoil changed the lives of these five scientists]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02854-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 September 2023; <a href="https://www.nature.com/articles/d41586-023-02854-5">doi:10.1038/d41586-023-02854-5</a></p>UK-based researchers can once again access the €95-billion funding programme — for some, the deal has come too late.]]></content:encoded>
+            <dc:title><![CDATA[Horizon Europe turmoil changed the lives of these five scientists]]></dc:title>
+            <dc:creator>Miryam Naddaf</dc:creator><dc:creator>Lilly Tozer</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02854-5</dc:identifier>
+            <dc:source>Nature, Published online: 2023-09-08; | doi:10.1038/d41586-023-02854-5</dc:source>
+            <dc:date>2023-09-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02854-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02854-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02852-7">
+            <title><![CDATA[Four things Chandrayaan-3 has taught us about the lunar south pole]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02852-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 September 2023; <a href="https://www.nature.com/articles/d41586-023-02852-7">doi:10.1038/d41586-023-02852-7</a></p>In just two weeks, the Indian mission has made some surprising discoveries about the composition of the Moon]]></content:encoded>
+            <dc:title><![CDATA[Four things Chandrayaan-3 has taught us about the lunar south pole]]></dc:title>
+            <dc:creator>T.V. Padma</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02852-7</dc:identifier>
+            <dc:source>Nature, Published online: 2023-09-08; | doi:10.1038/d41586-023-02852-7</dc:source>
+            <dc:date>2023-09-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02852-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02852-7</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-02717-z">
@@ -271,7 +346,7 @@
             <title><![CDATA[Scientists celebrate as UK rejoins Horizon Europe research programme]]></title>
             <link>https://www.nature.com/articles/d41586-023-02812-1</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 07 September 2023; <a href="https://www.nature.com/articles/d41586-023-02812-1">doi:10.1038/d41586-023-02812-1</a></p>British researchers have been frozen out of the scheme for two years, amid disagreements over Brexit.]]></content:encoded>
+                <![CDATA[<p>Nature, Published online: 07 September 2023; <a href="https://www.nature.com/articles/d41586-023-02812-1">doi:10.1038/d41586-023-02812-1</a></p>UK researchers had been frozen out of the scheme for two years, amid disagreements over Brexit.]]></content:encoded>
             <dc:title><![CDATA[Scientists celebrate as UK rejoins Horizon Europe research programme]]></dc:title>
             <dc:creator>Katharine Sanderson</dc:creator><dc:creator>Miryam Naddaf</dc:creator>
             <dc:identifier>doi:10.1038/d41586-023-02812-1</dc:identifier>
@@ -1225,81 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02681-8</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02681-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02700-8">
-            <title><![CDATA[See a star being born and more — August’s best science images]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02700-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 01 September 2023; <a href="https://www.nature.com/articles/d41586-023-02700-8">doi:10.1038/d41586-023-02700-8</a></p>The month’s sharpest science shots, selected by Nature’s photo team.]]></content:encoded>
-            <dc:title><![CDATA[See a star being born and more — August’s best science images]]></dc:title>
-            <dc:creator>Emma Stoye</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02700-8</dc:identifier>
-            <dc:source>Nature, Published online: 2023-09-01; | doi:10.1038/d41586-023-02700-8</dc:source>
-            <dc:date>2023-09-01</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02700-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02700-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02741-z">
-            <title><![CDATA[Medical-evidence giant Cochrane battles funding cuts and closures]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02741-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 01 September 2023; <a href="https://www.nature.com/articles/d41586-023-02741-z">doi:10.1038/d41586-023-02741-z</a></p>The group that helped to revolutionize medical practice has lost key funding and is reorganizing — moves that concern some researchers.]]></content:encoded>
-            <dc:title><![CDATA[Medical-evidence giant Cochrane battles funding cuts and closures]]></dc:title>
-            <dc:creator>Helen Pearson</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02741-z</dc:identifier>
-            <dc:source>Nature, Published online: 2023-09-01; | doi:10.1038/d41586-023-02741-z</dc:source>
-            <dc:date>2023-09-01</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02741-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02741-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02735-x">
-            <title><![CDATA[Melaku Worede, crop genetics leader (1936–2023)]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02735-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 31 August 2023; <a href="https://www.nature.com/articles/d41586-023-02735-x">doi:10.1038/d41586-023-02735-x</a></p>Plant geneticist who pioneered seed conservation for famine resilience and farmer livelihoods.]]></content:encoded>
-            <dc:title><![CDATA[Melaku Worede, crop genetics leader (1936–2023)]]></dc:title>
-            <dc:creator>Regassa Feyissa</dc:creator><dc:creator>Toby Hodgkin</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02735-x</dc:identifier>
-            <dc:source>Nature, Published online: 2023-08-31; | doi:10.1038/d41586-023-02735-x</dc:source>
-            <dc:date>2023-08-31</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02735-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02735-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02714-2">
-            <title><![CDATA[AI predicts chemicals’ smells from their structures]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02714-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 31 August 2023; <a href="https://www.nature.com/articles/d41586-023-02714-2">doi:10.1038/d41586-023-02714-2</a></p>Neural network can provide descriptions, such as ‘grassy’, for a wide variety of molecules, including some that don’t exist in nature.]]></content:encoded>
-            <dc:title><![CDATA[AI predicts chemicals’ smells from their structures]]></dc:title>
-            <dc:creator>Sara Reardon</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02714-2</dc:identifier>
-            <dc:source>Nature, Published online: 2023-08-31; | doi:10.1038/d41586-023-02714-2</dc:source>
-            <dc:date>2023-08-31</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02714-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02714-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02754-8">
-            <title><![CDATA[A funder's guide to tackling setbacks and winning grants]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02754-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 31 August 2023; <a href="https://www.nature.com/articles/d41586-023-02754-8">doi:10.1038/d41586-023-02754-8</a></p>European Research Council president Maria Leptin speaks about her career experience and how to handle disappointment in science.]]></content:encoded>
-            <dc:title><![CDATA[A funder's guide to tackling setbacks and winning grants]]></dc:title>
-            <dc:creator>Julie Gould</dc:creator><dc:creator>Jack Leeming</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02754-8</dc:identifier>
-            <dc:source>Nature, Published online: 2023-08-31; | doi:10.1038/d41586-023-02754-8</dc:source>
-            <dc:date>2023-08-31</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02754-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02754-8</prism:url>
         </item>
     
 </rdf:RDF>
