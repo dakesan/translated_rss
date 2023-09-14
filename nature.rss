@@ -18,6 +18,10 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02868-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02885-y"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06622-3"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02891-0"/>
@@ -71,6 +75,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02881-2"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02770-8"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02898-7"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02806-z"/>
                 
@@ -162,12 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06412-x"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06604-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02763-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02605-6"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,36 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02868-z">
+            <title><![CDATA[Why Japan is building its own version of ChatGPT]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02868-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 14 September 2023; <a href="https://www.nature.com/articles/d41586-023-02868-z">doi:10.1038/d41586-023-02868-z</a></p>Some Japanese researchers feel that AI systems trained on foreign languages cannot grasp the intricacies of Japanese language and culture.]]></content:encoded>
+            <dc:title><![CDATA[Why Japan is building its own version of ChatGPT]]></dc:title>
+            <dc:creator>Tim Hornyak</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02868-z</dc:identifier>
+            <dc:source>Nature, Published online: 2023-09-14; | doi:10.1038/d41586-023-02868-z</dc:source>
+            <dc:date>2023-09-14</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02868-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02868-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02885-y">
+            <title><![CDATA[How my broken elbow made the ableism of computer programming personal]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02885-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 14 September 2023; <a href="https://www.nature.com/articles/d41586-023-02885-y">doi:10.1038/d41586-023-02885-y</a></p>Amy Ko’s accident gave her an insight into the degree to which her discipline caters mainly to non-disabled people, reinspiring her to invent more accessible programming languages.]]></content:encoded>
+            <dc:title><![CDATA[How my broken elbow made the ableism of computer programming personal]]></dc:title>
+            <dc:creator>Amy Ko</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02885-y</dc:identifier>
+            <dc:source>Nature, Published online: 2023-09-14; | doi:10.1038/d41586-023-02885-y</dc:source>
+            <dc:date>2023-09-14</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02885-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02885-y</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06622-3">
             <title><![CDATA[Uncovering new families and folds in the natural protein universe]]></title>
@@ -582,12 +612,27 @@
             <prism:url>https://www.nature.com/articles/d41586-023-02770-8</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02898-7">
+            <title><![CDATA[Daily briefing: COVID boosters are back]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02898-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 13 September 2023; <a href="https://www.nature.com/articles/d41586-023-02898-7">doi:10.1038/d41586-023-02898-7</a></p>Some countries are rushing to roll out autumn COVID-19 vaccination campaigns. Plus, why Morocco’s earthquake was so deadly and how lab leaders in the UK are grappling with a lack of postdocs.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: COVID boosters are back]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02898-7</dc:identifier>
+            <dc:source>Nature, Published online: 2023-09-13; | doi:10.1038/d41586-023-02898-7</dc:source>
+            <dc:date>2023-09-13</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02898-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02898-7</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-023-02806-z">
-            <title><![CDATA[How much progress are we making on the world’s biggest problems? Take this quiz on plans to save humanity]]></title>
+            <title><![CDATA[Do you really know the way the world is heading? Take this quiz on plans to save humanity]]></title>
             <link>https://www.nature.com/articles/d41586-023-02806-z</link>
             <content:encoded>
                 <![CDATA[<p>Nature, Published online: 13 September 2023; <a href="https://www.nature.com/articles/d41586-023-02806-z">doi:10.1038/d41586-023-02806-z</a></p>The United Nations has ambitious aims to end poverty and clean up the planet by 2030. See whether you know how the world is faring on the Sustainable Development Goals.]]></content:encoded>
-            <dc:title><![CDATA[How much progress are we making on the world’s biggest problems? Take this quiz on plans to save humanity]]></dc:title>
+            <dc:title><![CDATA[Do you really know the way the world is heading? Take this quiz on plans to save humanity]]></dc:title>
             <dc:creator>Ehsan Masood</dc:creator><dc:creator>Richard Van Noorden</dc:creator>
             <dc:identifier>doi:10.1038/d41586-023-02806-z</dc:identifier>
             <dc:source>Nature, Published online: 2023-09-13; | doi:10.1038/d41586-023-02806-z</dc:source>
@@ -1255,51 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/s41586-023-06412-x</prism:doi>
             <prism:url>https://www.nature.com/articles/s41586-023-06412-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06604-5">
-            <title><![CDATA[Complete human day 14 post-implantation embryo models from naïve ES cells]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06604-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 06 September 2023; <a href="https://www.nature.com/articles/s41586-023-06604-5">doi:10.1038/s41586-023-06604-5</a></p>Complete human day 14 post-implantation embryo models from naïve ES cells]]></content:encoded>
-            <dc:title><![CDATA[Complete human day 14 post-implantation embryo models from naïve ES cells]]></dc:title>
-            <dc:creator>Bernardo Oldak</dc:creator><dc:creator>Emilie Wildschutz</dc:creator><dc:creator>Vladyslav Bondarenko</dc:creator><dc:creator>Mehmet-Yunus Comar</dc:creator><dc:creator>Cheng Zhao</dc:creator><dc:creator>Alejandro Aguilera-Castrejon</dc:creator><dc:creator>Shadi Tarazi</dc:creator><dc:creator>Sergey Viukov</dc:creator><dc:creator>Thi Xuan Ai Pham</dc:creator><dc:creator>Shahd Ashouokhi</dc:creator><dc:creator>Dmitry Lokshtanov</dc:creator><dc:creator>Francesco Roncato</dc:creator><dc:creator>Eitan Ariel</dc:creator><dc:creator>Max Rose</dc:creator><dc:creator>Nir Livnat</dc:creator><dc:creator>Tom Shani</dc:creator><dc:creator>Carine Joubran</dc:creator><dc:creator>Roni Cohen</dc:creator><dc:creator>Yoseph Addadi</dc:creator><dc:creator>Muriel Chemla</dc:creator><dc:creator>Merav Kedmi</dc:creator><dc:creator>Hadas Keren-Shaul</dc:creator><dc:creator>Vincent Pasque</dc:creator><dc:creator>Sophie Petropoulos</dc:creator><dc:creator>Fredrik Lanner</dc:creator><dc:creator>Noa Novershtern</dc:creator><dc:creator>Jacob H. Hanna</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06604-5</dc:identifier>
-            <dc:source>Nature, Published online: 2023-09-06; | doi:10.1038/s41586-023-06604-5</dc:source>
-            <dc:date>2023-09-06</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06604-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06604-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02763-7">
-            <title><![CDATA[How to supercharge T cells against cancer]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02763-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 06 September 2023; <a href="https://www.nature.com/articles/d41586-023-02763-7">doi:10.1038/d41586-023-02763-7</a></p>For over a decade immunologist Lionel Apetoh has been working on how to improve T cells' cancer fighting abilities.]]></content:encoded>
-            <dc:title><![CDATA[How to supercharge T cells against cancer]]></dc:title>
-            <dc:creator>Nick Petrić Howe</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02763-7</dc:identifier>
-            <dc:source>Nature, Published online: 2023-09-06; | doi:10.1038/d41586-023-02763-7</dc:source>
-            <dc:date>2023-09-06</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02763-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02763-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02605-6">
-            <title><![CDATA[Can cancer research shift its focus?]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02605-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 06 September 2023; <a href="https://www.nature.com/articles/d41586-023-02605-6">doi:10.1038/d41586-023-02605-6</a></p>Misdirected funds could be undermining efforts to improve patient outcomes in regions that need it most.]]></content:encoded>
-            <dc:title><![CDATA[Can cancer research shift its focus?]]></dc:title>
-            <dc:creator>Bec Crew</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02605-6</dc:identifier>
-            <dc:source>Nature, Published online: 2023-09-06; | doi:10.1038/d41586-023-02605-6</dc:source>
-            <dc:date>2023-09-06</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02605-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02605-6</prism:url>
         </item>
     
 </rdf:RDF>
