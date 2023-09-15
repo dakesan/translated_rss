@@ -18,9 +18,23 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06545-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02900-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02886-x"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02822-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02893-y"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02868-z"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02901-1"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02885-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02890-1"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06622-3"/>
                 
@@ -154,20 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02717-z"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02826-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02825-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02849-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02812-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02824-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06411-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06412-x"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,81 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-023-06545-z">
+            <title><![CDATA[Author Correction: Accurate medium-range global weather forecasting with 3D neural networks]]></title>
+            <link>https://www.nature.com/articles/s41586-023-06545-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 14 September 2023; <a href="https://www.nature.com/articles/s41586-023-06545-z">doi:10.1038/s41586-023-06545-z</a></p>Author Correction: Accurate medium-range global weather forecasting with 3D neural networks]]></content:encoded>
+            <dc:title><![CDATA[Author Correction: Accurate medium-range global weather forecasting with 3D neural networks]]></dc:title>
+            <dc:creator>Kaifeng Bi</dc:creator><dc:creator>Lingxi Xie</dc:creator><dc:creator>Hengheng Zhang</dc:creator><dc:creator>Xin Chen</dc:creator><dc:creator>Xiaotao Gu</dc:creator><dc:creator>Qi Tian</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-023-06545-z</dc:identifier>
+            <dc:source>Nature, Published online: 2023-09-14; | doi:10.1038/s41586-023-06545-z</dc:source>
+            <dc:date>2023-09-14</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-023-06545-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-023-06545-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02900-2">
+            <title><![CDATA[This insect-sized robot can carry 22 times its own weight]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02900-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 14 September 2023; <a href="https://www.nature.com/articles/d41586-023-02900-2">doi:10.1038/d41586-023-02900-2</a></p>The four-legged miniature machine is powered by tiny explosions.]]></content:encoded>
+            <dc:title><![CDATA[This insect-sized robot can carry 22 times its own weight]]></dc:title>
+            <dc:creator>Katharine Sanderson</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02900-2</dc:identifier>
+            <dc:source>Nature, Published online: 2023-09-14; | doi:10.1038/d41586-023-02900-2</dc:source>
+            <dc:date>2023-09-14</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02900-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02900-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02886-x">
+            <title><![CDATA[MDMA as psychiatric treatment moves closer to US approval]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02886-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 14 September 2023; <a href="https://www.nature.com/articles/d41586-023-02886-x">doi:10.1038/d41586-023-02886-x</a></p>Long-awaited clinical trial data show psychedelic drug is effective at treating post-traumatic stress disorder in a diversity of people.]]></content:encoded>
+            <dc:title><![CDATA[MDMA as psychiatric treatment moves closer to US approval]]></dc:title>
+            <dc:creator>Sara Reardon</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02886-x</dc:identifier>
+            <dc:source>Nature, Published online: 2023-09-14; | doi:10.1038/d41586-023-02886-x</dc:source>
+            <dc:date>2023-09-14</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02886-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02886-x</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02822-z">
+            <title><![CDATA[A test of artificial intelligence]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02822-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 14 September 2023; <a href="https://www.nature.com/articles/d41586-023-02822-z">doi:10.1038/d41586-023-02822-z</a></p>As debate rages over the abilities of modern AI systems, scientists are still struggling to effectively assess machine intelligence.]]></content:encoded>
+            <dc:title><![CDATA[A test of artificial intelligence]]></dc:title>
+            <dc:creator>Michael Eisenstein</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02822-z</dc:identifier>
+            <dc:source>Nature, Published online: 2023-09-14; | doi:10.1038/d41586-023-02822-z</dc:source>
+            <dc:date>2023-09-14</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02822-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02822-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02893-y">
+            <title><![CDATA[UFO sightings: how NASA can bring science to the debate]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02893-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 14 September 2023; <a href="https://www.nature.com/articles/d41586-023-02893-y">doi:10.1038/d41586-023-02893-y</a></p>An astrophysicist who advised the agency talks with Nature about ways to bring rigour to reports of ‘unidentified anomalous phenomena’.]]></content:encoded>
+            <dc:title><![CDATA[UFO sightings: how NASA can bring science to the debate]]></dc:title>
+            <dc:creator>Alexandra Witze</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02893-y</dc:identifier>
+            <dc:source>Nature, Published online: 2023-09-14; | doi:10.1038/d41586-023-02893-y</dc:source>
+            <dc:date>2023-09-14</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02893-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02893-y</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-02868-z">
             <title><![CDATA[Why Japan is building its own version of ChatGPT]]></title>
@@ -192,6 +267,21 @@
             <prism:url>https://www.nature.com/articles/d41586-023-02868-z</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02901-1">
+            <title><![CDATA[Human trials of artificial wombs could start soon. Here’s what you need to know]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02901-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 14 September 2023; <a href="https://www.nature.com/articles/d41586-023-02901-1">doi:10.1038/d41586-023-02901-1</a></p>US regulators will consider clinical trials of a system that mimics the womb, which could reduce deaths and disability for babies born extremely preterm.]]></content:encoded>
+            <dc:title><![CDATA[Human trials of artificial wombs could start soon. Here’s what you need to know]]></dc:title>
+            <dc:creator>Max Kozlov</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02901-1</dc:identifier>
+            <dc:source>Nature, Published online: 2023-09-14; | doi:10.1038/d41586-023-02901-1</dc:source>
+            <dc:date>2023-09-14</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02901-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02901-1</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-023-02885-y">
             <title><![CDATA[How my broken elbow made the ableism of computer programming personal]]></title>
             <link>https://www.nature.com/articles/d41586-023-02885-y</link>
@@ -205,6 +295,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02885-y</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02885-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02890-1">
+            <title><![CDATA[Life-changing cystic fibrosis treatment wins US$3-million Breakthrough Prize]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02890-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 14 September 2023; <a href="https://www.nature.com/articles/d41586-023-02890-1">doi:10.1038/d41586-023-02890-1</a></p>Trio of scientists who developed the combination drug Trikafta are among the winners of five major awards in life sciences, physics and mathematics.]]></content:encoded>
+            <dc:title><![CDATA[Life-changing cystic fibrosis treatment wins US$3-million Breakthrough Prize]]></dc:title>
+            <dc:creator>Zeeya Merali</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02890-1</dc:identifier>
+            <dc:source>Nature, Published online: 2023-09-14; | doi:10.1038/d41586-023-02890-1</dc:source>
+            <dc:date>2023-09-14</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02890-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02890-1</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06622-3">
@@ -916,7 +1021,7 @@
             <title><![CDATA[COVID boosters are back: what scientists say about whether to get one]]></title>
             <link>https://www.nature.com/articles/d41586-023-02840-x</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 12 September 2023; <a href="https://www.nature.com/articles/d41586-023-02840-x">doi:10.1038/d41586-023-02840-x</a></p>Many countries heading into autumn are targeting high-risk people for vaccinations, leaving lower-risk people uncertain about the right choice.]]></content:encoded>
+                <![CDATA[<p>Nature, Published online: 12 September 2023; <a href="https://www.nature.com/articles/d41586-023-02840-x">doi:10.1038/d41586-023-02840-x</a></p>As many countries head into autumn, they are targeting vaccinations at people in high-risk categories, leaving those at lower risk uncertain about what to do.]]></content:encoded>
             <dc:title><![CDATA[COVID boosters are back: what scientists say about whether to get one]]></dc:title>
             <dc:creator>Mariana Lenharo</dc:creator>
             <dc:identifier>doi:10.1038/d41586-023-02840-x</dc:identifier>
@@ -1195,111 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02717-z</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02717-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02826-9">
-            <title><![CDATA[Tiny bubbles make massive glaciers fade away faster]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02826-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 07 September 2023; <a href="https://www.nature.com/articles/d41586-023-02826-9">doi:10.1038/d41586-023-02826-9</a></p>Air pockets trapped between ice crystals are an underappreciated factor in the melting at the glacier–ocean boundary.]]></content:encoded>
-            <dc:title><![CDATA[Tiny bubbles make massive glaciers fade away faster]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-02826-9</dc:identifier>
-            <dc:source>Nature, Published online: 2023-09-07; | doi:10.1038/d41586-023-02826-9</dc:source>
-            <dc:date>2023-09-07</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02826-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02826-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02825-w">
-            <title><![CDATA[Legacy of racist US housing policies extends even to bird data]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02825-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 07 September 2023; <a href="https://www.nature.com/articles/d41586-023-02825-w">doi:10.1038/d41586-023-02825-w</a></p>A discriminatory strategy called redlining, which was implemented in the 1930s, has repercussions today for records of urban biodiversity.]]></content:encoded>
-            <dc:title><![CDATA[Legacy of racist US housing policies extends even to bird data]]></dc:title>
-            <dc:creator>Anil Oza</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02825-w</dc:identifier>
-            <dc:source>Nature, Published online: 2023-09-07; | doi:10.1038/d41586-023-02825-w</dc:source>
-            <dc:date>2023-09-07</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02825-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02825-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02849-2">
-            <title><![CDATA[Daily briefing: What’s the endgame of OpenAI, the creator of ChatGPT?]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02849-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 07 September 2023; <a href="https://www.nature.com/articles/d41586-023-02849-2">doi:10.1038/d41586-023-02849-2</a></p>ChatGPT is part of a strategy of acclimatizing the public to the seismic changes that are imminent because of artificial intelligence, says the co-founder of OpenAI. Plus, the UK rejoins Horizon Europe and a bird-like dinosaur is as old as the ‘first bird’, Archaeopteryx.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: What’s the endgame of OpenAI, the creator of ChatGPT?]]></dc:title>
-            <dc:creator>Flora Graham</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02849-2</dc:identifier>
-            <dc:source>Nature, Published online: 2023-09-07; | doi:10.1038/d41586-023-02849-2</dc:source>
-            <dc:date>2023-09-07</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02849-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02849-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02812-1">
-            <title><![CDATA[Scientists celebrate as UK rejoins Horizon Europe research programme]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02812-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 07 September 2023; <a href="https://www.nature.com/articles/d41586-023-02812-1">doi:10.1038/d41586-023-02812-1</a></p>UK researchers had been frozen out of the scheme for two years, amid disagreements over Brexit.]]></content:encoded>
-            <dc:title><![CDATA[Scientists celebrate as UK rejoins Horizon Europe research programme]]></dc:title>
-            <dc:creator>Katharine Sanderson</dc:creator><dc:creator>Miryam Naddaf</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02812-1</dc:identifier>
-            <dc:source>Nature, Published online: 2023-09-07; | doi:10.1038/d41586-023-02812-1</dc:source>
-            <dc:date>2023-09-07</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02812-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02812-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02824-x">
-            <title><![CDATA[Colombia considers ban on most research and education using live animals]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02824-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 07 September 2023; <a href="https://www.nature.com/articles/d41586-023-02824-x">doi:10.1038/d41586-023-02824-x</a></p>A bill and a constitutional amendment that seek to extend the rights of animals could jeopardize ecological studies.]]></content:encoded>
-            <dc:title><![CDATA[Colombia considers ban on most research and education using live animals]]></dc:title>
-            <dc:creator>Amanda Heidt</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02824-x</dc:identifier>
-            <dc:source>Nature, Published online: 2023-09-07; | doi:10.1038/d41586-023-02824-x</dc:source>
-            <dc:date>2023-09-07</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02824-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02824-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06411-y">
-            <title><![CDATA[Amniote metabolism and the evolution of endothermy]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06411-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 06 September 2023; <a href="https://www.nature.com/articles/s41586-023-06411-y">doi:10.1038/s41586-023-06411-y</a></p>Amniote metabolism and the evolution of endothermy]]></content:encoded>
-            <dc:title><![CDATA[Amniote metabolism and the evolution of endothermy]]></dc:title>
-            <dc:creator>Ryosuke Motani</dc:creator><dc:creator>David A. Gold</dc:creator><dc:creator>Sandra J. Carlson</dc:creator><dc:creator>Geerat J. Vermeij</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06411-y</dc:identifier>
-            <dc:source>Nature, Published online: 2023-09-06; | doi:10.1038/s41586-023-06411-y</dc:source>
-            <dc:date>2023-09-06</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06411-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06411-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06412-x">
-            <title><![CDATA[Reply to: Amniote metabolism and the evolution of endothermy]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06412-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 06 September 2023; <a href="https://www.nature.com/articles/s41586-023-06412-x">doi:10.1038/s41586-023-06412-x</a></p>Reply to: Amniote metabolism and the evolution of endothermy]]></content:encoded>
-            <dc:title><![CDATA[Reply to: Amniote metabolism and the evolution of endothermy]]></dc:title>
-            <dc:creator>Jasmina Wiemann</dc:creator><dc:creator>Iris Menéndez</dc:creator><dc:creator>Jason M. Crawford</dc:creator><dc:creator>Matteo Fabbri</dc:creator><dc:creator>Jacques A. Gauthier</dc:creator><dc:creator>Pincelli M. Hull</dc:creator><dc:creator>Mark A. Norell</dc:creator><dc:creator>Derek E. G. Briggs</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06412-x</dc:identifier>
-            <dc:source>Nature, Published online: 2023-09-06; | doi:10.1038/s41586-023-06412-x</dc:source>
-            <dc:date>2023-09-06</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06412-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06412-x</prism:url>
         </item>
     
 </rdf:RDF>
