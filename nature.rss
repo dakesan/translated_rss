@@ -18,6 +18,12 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02847-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02867-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02895-w"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02912-y"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02866-1"/>
@@ -29,6 +35,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02918-6"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02911-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02916-8"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02933-7"/>
                 
@@ -160,14 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02806-z"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02882-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02851-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02767-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02892-z"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,51 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02847-4">
+            <title><![CDATA[Rich countries must align science funding with the SDGs]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02847-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 20 September 2023; <a href="https://www.nature.com/articles/d41586-023-02847-4">doi:10.1038/d41586-023-02847-4</a></p>Research in poorer countries maps closely with the United Nations Sustainable Development Goals — wealthy nations must follow if the goals are to be met.]]></content:encoded>
+            <dc:title><![CDATA[Rich countries must align science funding with the SDGs]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-02847-4</dc:identifier>
+            <dc:source>Nature, Published online: 2023-09-20; | doi:10.1038/d41586-023-02847-4</dc:source>
+            <dc:date>2023-09-20</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02847-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02847-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02867-0">
+            <title><![CDATA[Japanese fund to create ‘Ivy League’ gives first award to just one university]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02867-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 20 September 2023; <a href="https://www.nature.com/articles/d41586-023-02867-0">doi:10.1038/d41586-023-02867-0</a></p>A plan to create an elite group of institutes has surprised researchers as government makes Tohoku University the sole recipient of grant.]]></content:encoded>
+            <dc:title><![CDATA[Japanese fund to create ‘Ivy League’ gives first award to just one university]]></dc:title>
+            <dc:creator>Anna Ikarashi</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02867-0</dc:identifier>
+            <dc:source>Nature, Published online: 2023-09-20; | doi:10.1038/d41586-023-02867-0</dc:source>
+            <dc:date>2023-09-20</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02867-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02867-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02895-w">
+            <title><![CDATA[Genetic modification can improve crop yields — but stop overselling it]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02895-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 20 September 2023; <a href="https://www.nature.com/articles/d41586-023-02895-w">doi:10.1038/d41586-023-02895-w</a></p>With a changing climate and a growing population, the world increasingly needs more-productive and resilient crops. But improving them requires a knowledge of what actually works in the field.]]></content:encoded>
+            <dc:title><![CDATA[Genetic modification can improve crop yields — but stop overselling it]]></dc:title>
+            <dc:creator>Merritt Khaipho-Burch</dc:creator><dc:creator>Mark Cooper</dc:creator><dc:creator>Jose Crossa</dc:creator><dc:creator>Natalia  de Leon</dc:creator><dc:creator>James Holland</dc:creator><dc:creator>Ramsey Lewis</dc:creator><dc:creator>Susan McCouch</dc:creator><dc:creator>Seth C. Murray</dc:creator><dc:creator>Ismail Rabbi</dc:creator><dc:creator>Pamela Ronald</dc:creator><dc:creator>Jeffrey Ross-Ibarra</dc:creator><dc:creator>Detlef Weigel</dc:creator><dc:creator>Edward S. Buckler</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02895-w</dc:identifier>
+            <dc:source>Nature, Published online: 2023-09-20; | doi:10.1038/d41586-023-02895-w</dc:source>
+            <dc:date>2023-09-20</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02895-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02895-w</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-02912-y">
             <title><![CDATA[India: neutralizing temptation by predatory journals]]></title>
@@ -265,6 +310,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02911-z</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02911-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02916-8">
+            <title><![CDATA[The secret sex lives of ‘celibate’ stick insects]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02916-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 19 September 2023; <a href="https://www.nature.com/articles/d41586-023-02916-8">doi:10.1038/d41586-023-02916-8</a></p>Genetic analysis shows that some stick insects that supposedly reproduce without sex are actually pairing off to have offspring.]]></content:encoded>
+            <dc:title><![CDATA[The secret sex lives of ‘celibate’ stick insects]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-02916-8</dc:identifier>
+            <dc:source>Nature, Published online: 2023-09-19; | doi:10.1038/d41586-023-02916-8</dc:source>
+            <dc:date>2023-09-19</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02916-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02916-8</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-02933-7">
@@ -1240,66 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02806-z</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02806-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02882-1">
-            <title><![CDATA[Ancient-human fossils sent to space: scientists slam ‘publicity stunt’]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02882-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 September 2023; <a href="https://www.nature.com/articles/d41586-023-02882-1">doi:10.1038/d41586-023-02882-1</a></p>The decision to send hominin bones on a commercial spaceflight has raised eyebrows among human-evolution researchers.]]></content:encoded>
-            <dc:title><![CDATA[Ancient-human fossils sent to space: scientists slam ‘publicity stunt’]]></dc:title>
-            <dc:creator>Ewen Callaway</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02882-1</dc:identifier>
-            <dc:source>Nature, Published online: 2023-09-13; | doi:10.1038/d41586-023-02882-1</dc:source>
-            <dc:date>2023-09-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02882-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02882-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02851-8">
-            <title><![CDATA[Breast cancer often spreads to the spine — newfound stem cell can explain why]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02851-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 September 2023; <a href="https://www.nature.com/articles/d41586-023-02851-8">doi:10.1038/d41586-023-02851-8</a></p>A stem cell that contributes to vertebra formation also encourages the growth of tumours that move to the backbone from elsewhere.]]></content:encoded>
-            <dc:title><![CDATA[Breast cancer often spreads to the spine — newfound stem cell can explain why]]></dc:title>
-            <dc:creator>Saima Sidik</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02851-8</dc:identifier>
-            <dc:source>Nature, Published online: 2023-09-13; | doi:10.1038/d41586-023-02851-8</dc:source>
-            <dc:date>2023-09-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02851-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02851-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02767-3">
-            <title><![CDATA[Bacteria deliver water channels to infect plants]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02767-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 September 2023; <a href="https://www.nature.com/articles/d41586-023-02767-3">doi:10.1038/d41586-023-02767-3</a></p>A wide range of harmful bacteria introduce proteins into plant cells. Some of these proteins move to the cell membrane and serve as channels for water and nutrients, creating favourable conditions for bacterial growth beside plant cells.]]></content:encoded>
-            <dc:title><![CDATA[Bacteria deliver water channels to infect plants]]></dc:title>
-            <dc:creator>Gwyn A. Beattie</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02767-3</dc:identifier>
-            <dc:source>Nature, Published online: 2023-09-13; | doi:10.1038/d41586-023-02767-3</dc:source>
-            <dc:date>2023-09-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02767-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02767-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02892-z">
-            <title><![CDATA[‘A Pandora’s box’: map of protein-structure families delights scientists]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02892-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 September 2023; <a href="https://www.nature.com/articles/d41586-023-02892-z">doi:10.1038/d41586-023-02892-z</a></p>Never-before-seen forms and unexpected connections between proteins revealed by analysis of their shapes.]]></content:encoded>
-            <dc:title><![CDATA[‘A Pandora’s box’: map of protein-structure families delights scientists]]></dc:title>
-            <dc:creator>Ewen Callaway</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02892-z</dc:identifier>
-            <dc:source>Nature, Published online: 2023-09-13; | doi:10.1038/d41586-023-02892-z</dc:source>
-            <dc:date>2023-09-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02892-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02892-z</prism:url>
         </item>
     
 </rdf:RDF>
