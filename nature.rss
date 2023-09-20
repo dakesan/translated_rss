@@ -20,7 +20,13 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02912-y"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02866-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02953-3"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02913-x"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02918-6"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02911-z"/>
                 
@@ -28,9 +34,13 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02905-x"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02943-5"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02896-9"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02906-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02904-y"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06605-4"/>
                 
@@ -65,6 +75,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02877-y"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02887-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02927-5"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02899-6"/>
                 
@@ -156,18 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02892-z"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02768-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06608-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06607-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02862-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02860-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02769-1"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -192,6 +192,36 @@
             <prism:url>https://www.nature.com/articles/d41586-023-02912-y</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02866-1">
+            <title><![CDATA[From the archive: harmful insects, and Michael Faraday battles jargon]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02866-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 19 September 2023; <a href="https://www.nature.com/articles/d41586-023-02866-1">doi:10.1038/d41586-023-02866-1</a></p>Snippets from Nature’s past.]]></content:encoded>
+            <dc:title><![CDATA[From the archive: harmful insects, and Michael Faraday battles jargon]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-02866-1</dc:identifier>
+            <dc:source>Nature, Published online: 2023-09-19; | doi:10.1038/d41586-023-02866-1</dc:source>
+            <dc:date>2023-09-19</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02866-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02866-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02953-3">
+            <title><![CDATA[Tasmanian tiger RNA is first to be recovered from an extinct animal]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02953-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 19 September 2023; <a href="https://www.nature.com/articles/d41586-023-02953-3">doi:10.1038/d41586-023-02953-3</a></p>Genetic sequences from a museum specimen offer fresh clues about the physiology of thylacines, which went extinct in the 1930s.]]></content:encoded>
+            <dc:title><![CDATA[Tasmanian tiger RNA is first to be recovered from an extinct animal]]></dc:title>
+            <dc:creator>Miryam Naddaf</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02953-3</dc:identifier>
+            <dc:source>Nature, Published online: 2023-09-19; | doi:10.1038/d41586-023-02953-3</dc:source>
+            <dc:date>2023-09-19</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02953-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02953-3</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-023-02913-x">
             <title><![CDATA[Forever chemicals: don’t ban the harmless ones]]></title>
             <link>https://www.nature.com/articles/d41586-023-02913-x</link>
@@ -205,6 +235,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02913-x</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02913-x</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02918-6">
+            <title><![CDATA[Another reason to love remote working: it’s good for the planet]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02918-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 19 September 2023; <a href="https://www.nature.com/articles/d41586-023-02918-6">doi:10.1038/d41586-023-02918-6</a></p>The more people do their jobs from home, the more they cut their greenhouse-gas emissions.]]></content:encoded>
+            <dc:title><![CDATA[Another reason to love remote working: it’s good for the planet]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-02918-6</dc:identifier>
+            <dc:source>Nature, Published online: 2023-09-19; | doi:10.1038/d41586-023-02918-6</dc:source>
+            <dc:date>2023-09-19</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02918-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02918-6</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-02911-z">
@@ -252,6 +297,21 @@
             <prism:url>https://www.nature.com/articles/d41586-023-02905-x</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02943-5">
+            <title><![CDATA[AlphaFold tool pinpoints protein mutations that cause disease]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02943-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 19 September 2023; <a href="https://www.nature.com/articles/d41586-023-02943-5">doi:10.1038/d41586-023-02943-5</a></p>Researchers have adapted the AI network to search for genetic changes linked to ill health.]]></content:encoded>
+            <dc:title><![CDATA[AlphaFold tool pinpoints protein mutations that cause disease]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-02943-5</dc:identifier>
+            <dc:source>Nature, Published online: 2023-09-19; | doi:10.1038/d41586-023-02943-5</dc:source>
+            <dc:date>2023-09-19</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02943-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02943-5</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-023-02896-9">
             <title><![CDATA[AI can help to speed up drug discovery — but only if we give it the right data]]></title>
             <link>https://www.nature.com/articles/d41586-023-02896-9</link>
@@ -280,6 +340,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02906-w</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02906-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02904-y">
+            <title><![CDATA[Why the pandemic treaty risks becoming COVID-19 groundhog day]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02904-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 19 September 2023; <a href="https://www.nature.com/articles/d41586-023-02904-y">doi:10.1038/d41586-023-02904-y</a></p>Talks are stalling, but everyone benefits when the fruits of vaccine and drugs research are shared equitably.]]></content:encoded>
+            <dc:title><![CDATA[Why the pandemic treaty risks becoming COVID-19 groundhog day]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-02904-y</dc:identifier>
+            <dc:source>Nature, Published online: 2023-09-19; | doi:10.1038/d41586-023-02904-y</dc:source>
+            <dc:date>2023-09-19</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02904-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02904-y</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06605-4">
@@ -361,7 +436,7 @@
             <title><![CDATA[NIH upholds controversial plan to step up oversight of foreign collaborators]]></title>
             <link>https://www.nature.com/articles/d41586-023-02923-9</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 18 September 2023; <a href="https://www.nature.com/articles/d41586-023-02923-9">doi:10.1038/d41586-023-02923-9</a></p>The US biomedical agency tweaked its new policy following an outcry from researchers, but will forge ahead.]]></content:encoded>
+                <![CDATA[<p>Nature, Published online: 18 September 2023; <a href="https://www.nature.com/articles/d41586-023-02923-9">doi:10.1038/d41586-023-02923-9</a></p>The US biomedical agency tweaked its new policy after an outcry from researchers, but will forge ahead.]]></content:encoded>
             <dc:title><![CDATA[NIH upholds controversial plan to step up oversight of foreign collaborators]]></dc:title>
             <dc:creator>Max Kozlov</dc:creator>
             <dc:identifier>doi:10.1038/d41586-023-02923-9</dc:identifier>
@@ -535,6 +610,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02887-w</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02887-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02927-5">
+            <title><![CDATA[Daily briefing: NASA’s input could be ‘a teachable moment’ for UFO-hunters]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02927-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 15 September 2023; <a href="https://www.nature.com/articles/d41586-023-02927-5">doi:10.1038/d41586-023-02927-5</a></p>It might be good for science if NASA got involved with the search for aliens on Earth, life-changing cystic fibrosis treatment wins the Breakthrough Prize and a tiny jumping robot that is powered by explosions.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: NASA’s input could be ‘a teachable moment’ for UFO-hunters]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02927-5</dc:identifier>
+            <dc:source>Nature, Published online: 2023-09-15; | doi:10.1038/d41586-023-02927-5</dc:source>
+            <dc:date>2023-09-15</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02927-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02927-5</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-02899-6">
@@ -1210,96 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02892-z</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02892-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02768-2">
-            <title><![CDATA[Stem cells provide clues to why vertebrae attract tumour cells]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02768-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 September 2023; <a href="https://www.nature.com/articles/d41586-023-02768-2">doi:10.1038/d41586-023-02768-2</a></p>Tumour cells tend to migrate to the vertebrae rather than to long bones, but the mechanism underlying this has been unclear. It emerges that the stem cells from which vertebrae are derived make a factor that attracts tumour cells.]]></content:encoded>
-            <dc:title><![CDATA[Stem cells provide clues to why vertebrae attract tumour cells]]></dc:title>
-            <dc:creator>Geert Carmeliet</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02768-2</dc:identifier>
-            <dc:source>Nature, Published online: 2023-09-13; | doi:10.1038/d41586-023-02768-2</dc:source>
-            <dc:date>2023-09-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02768-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02768-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06608-1">
-            <title><![CDATA[Molecular mechanism of <i>de novo</i> replication by the Ebola virus polymerase]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06608-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 12 September 2023; <a href="https://www.nature.com/articles/s41586-023-06608-1">doi:10.1038/s41586-023-06608-1</a></p>Molecular mechanism of <i>de novo</i> replication by the Ebola virus polymerase]]></content:encoded>
-            <dc:title><![CDATA[Molecular mechanism of <i>de novo</i> replication by the Ebola virus polymerase]]></dc:title>
-            <dc:creator>Qi Peng</dc:creator><dc:creator>Bin Yuan</dc:creator><dc:creator>Jinlong Cheng</dc:creator><dc:creator>Min Wang</dc:creator><dc:creator>Siwei Gao</dc:creator><dc:creator>Suran Bai</dc:creator><dc:creator>Xuejin Zhao</dc:creator><dc:creator>Jianxun Qi</dc:creator><dc:creator>George F. Gao</dc:creator><dc:creator>Yi Shi</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06608-1</dc:identifier>
-            <dc:source>Nature, Published online: 2023-09-12; | doi:10.1038/s41586-023-06608-1</dc:source>
-            <dc:date>2023-09-12</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06608-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06608-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06607-2">
-            <title><![CDATA[<i>C. difficile</i> intoxicates neurons and pericytes to drive neurogenic inflammation]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06607-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 12 September 2023; <a href="https://www.nature.com/articles/s41586-023-06607-2">doi:10.1038/s41586-023-06607-2</a></p><i>C. difficile</i> intoxicates neurons and pericytes to drive neurogenic inflammation]]></content:encoded>
-            <dc:title><![CDATA[<i>C. difficile</i> intoxicates neurons and pericytes to drive neurogenic inflammation]]></dc:title>
-            <dc:creator>John Manion</dc:creator><dc:creator>Melissa A. Musser</dc:creator><dc:creator>Gavin A. Kuziel</dc:creator><dc:creator>Min Liu</dc:creator><dc:creator>Amy Shepherd</dc:creator><dc:creator>Siyu Wang</dc:creator><dc:creator>Pyung-Gang Lee</dc:creator><dc:creator>Leo Zhao</dc:creator><dc:creator>Jie Zhang</dc:creator><dc:creator>Ravi K. R. Marreddy</dc:creator><dc:creator>Jeffrey D. Goldsmith</dc:creator><dc:creator>Ke Yuan</dc:creator><dc:creator>Julian G. Hurdle</dc:creator><dc:creator>Ralf Gerhard</dc:creator><dc:creator>Rongsheng Jin</dc:creator><dc:creator>Seth Rakoff-Nahoum</dc:creator><dc:creator>Meenakshi Rao</dc:creator><dc:creator>Min Dong</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06607-2</dc:identifier>
-            <dc:source>Nature, Published online: 2023-09-12; | doi:10.1038/s41586-023-06607-2</dc:source>
-            <dc:date>2023-09-12</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06607-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06607-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02862-5">
-            <title><![CDATA[Argentina: publicly funded science under threat]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02862-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 12 September 2023; <a href="https://www.nature.com/articles/d41586-023-02862-5">doi:10.1038/d41586-023-02862-5</a></p>Argentina: publicly funded science under threat]]></content:encoded>
-            <dc:title><![CDATA[Argentina: publicly funded science under threat]]></dc:title>
-            <dc:creator>Humberto Debat</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02862-5</dc:identifier>
-            <dc:source>Nature, Published online: 2023-09-12; | doi:10.1038/d41586-023-02862-5</dc:source>
-            <dc:date>2023-09-12</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02862-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02862-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02860-7">
-            <title><![CDATA[Embed impact on SDGs in research assessments]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02860-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 12 September 2023; <a href="https://www.nature.com/articles/d41586-023-02860-7">doi:10.1038/d41586-023-02860-7</a></p>Embed impact on SDGs in research assessments]]></content:encoded>
-            <dc:title><![CDATA[Embed impact on SDGs in research assessments]]></dc:title>
-            <dc:creator>Marguerite M. Nyhan</dc:creator><dc:creator>John F. Cryan</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02860-7</dc:identifier>
-            <dc:source>Nature, Published online: 2023-09-12; | doi:10.1038/d41586-023-02860-7</dc:source>
-            <dc:date>2023-09-12</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02860-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02860-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02769-1">
-            <title><![CDATA[From the archive: the value of MSc degrees, and painting tips]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02769-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 12 September 2023; <a href="https://www.nature.com/articles/d41586-023-02769-1">doi:10.1038/d41586-023-02769-1</a></p>Snippets from Nature’s past.]]></content:encoded>
-            <dc:title><![CDATA[From the archive: the value of MSc degrees, and painting tips]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-02769-1</dc:identifier>
-            <dc:source>Nature, Published online: 2023-09-12; | doi:10.1038/d41586-023-02769-1</dc:source>
-            <dc:date>2023-09-12</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02769-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02769-1</prism:url>
         </item>
     
 </rdf:RDF>
