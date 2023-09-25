@@ -18,6 +18,8 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02954-2"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02919-5"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02983-x"/>
@@ -166,8 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06605-4"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06627-y"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,21 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02954-2">
+            <title><![CDATA[Special delivery! Biggest-ever haul of asteroid dust and rock returns to Earth]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02954-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 24 September 2023; <a href="https://www.nature.com/articles/d41586-023-02954-2">doi:10.1038/d41586-023-02954-2</a></p>Samples collected by NASA’s OSIRIS-REx mission excite scientists with their potential to reveal secrets of the Solar System.]]></content:encoded>
+            <dc:title><![CDATA[Special delivery! Biggest-ever haul of asteroid dust and rock returns to Earth]]></dc:title>
+            <dc:creator>Alexandra Witze</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02954-2</dc:identifier>
+            <dc:source>Nature, Published online: 2023-09-24; | doi:10.1038/d41586-023-02954-2</dc:source>
+            <dc:date>2023-09-24</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02954-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02954-2</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-02919-5">
             <title><![CDATA[How lasers detect day-length changes of a few milliseconds]]></title>
@@ -1285,21 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/s41586-023-06605-4</prism:doi>
             <prism:url>https://www.nature.com/articles/s41586-023-06605-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06627-y">
-            <title><![CDATA[Cholinergic neurons trigger epithelial Ca<sup>2+</sup> currents to heal the gut]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06627-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 18 September 2023; <a href="https://www.nature.com/articles/s41586-023-06627-y">doi:10.1038/s41586-023-06627-y</a></p>Cholinergic neurons trigger epithelial Ca<sup>2+</sup> currents to heal the gut]]></content:encoded>
-            <dc:title><![CDATA[Cholinergic neurons trigger epithelial Ca<sup>2+</sup> currents to heal the gut]]></dc:title>
-            <dc:creator>Afroditi Petsakou</dc:creator><dc:creator>Yifang Liu</dc:creator><dc:creator>Ying Liu</dc:creator><dc:creator>Aram Comjean</dc:creator><dc:creator>Yanhui Hu</dc:creator><dc:creator>Norbert Perrimon</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06627-y</dc:identifier>
-            <dc:source>Nature, Published online: 2023-09-18; | doi:10.1038/s41586-023-06627-y</dc:source>
-            <dc:date>2023-09-18</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06627-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06627-y</prism:url>
         </item>
     
 </rdf:RDF>
