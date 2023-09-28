@@ -18,6 +18,8 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03004-7"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06657-6"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02955-1"/>
@@ -85,6 +87,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03023-4"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03042-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03056-9"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02773-5"/>
                 
@@ -164,10 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02996-6"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02987-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02921-x"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,21 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03004-7">
+            <title><![CDATA[Digging up ancient animals in Amazonia]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03004-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 September 2023; <a href="https://www.nature.com/articles/d41586-023-03004-7">doi:10.1038/d41586-023-03004-7</a></p>Laurent Marivaux works to identify ancient mammals to understand evolutionary history in South America.]]></content:encoded>
+            <dc:title><![CDATA[Digging up ancient animals in Amazonia]]></dc:title>
+            <dc:creator>Magali Reinert</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03004-7</dc:identifier>
+            <dc:source>Nature, Published online: 2023-09-28; | doi:10.1038/d41586-023-03004-7</dc:source>
+            <dc:date>2023-09-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03004-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03004-7</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06657-6">
             <title><![CDATA[Proteome census upon nutrient stress reveals Golgiphagy membrane receptors]]></title>
@@ -226,7 +241,7 @@
             <title><![CDATA[Scientists achieve the tricky task of compressing liquids]]></title>
             <link>https://www.nature.com/articles/d41586-023-03032-3</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 27 September 2023; <a href="https://www.nature.com/articles/d41586-023-03032-3">doi:10.1038/d41586-023-03032-3</a></p>Using a metal organic framework, researchers reduced the volume of a water-based mixture by 7%.]]></content:encoded>
+                <![CDATA[<p>Nature, Published online: 27 September 2023; <a href="https://www.nature.com/articles/d41586-023-03032-3">doi:10.1038/d41586-023-03032-3</a></p>Using a metal–organic framework, researchers reduced the volume of a water-based mixture by 7%.]]></content:encoded>
             <dc:title><![CDATA[Scientists achieve the tricky task of compressing liquids]]></dc:title>
             <dc:creator>Katharine Sanderson</dc:creator>
             <dc:identifier>doi:10.1038/d41586-023-03032-3</dc:identifier>
@@ -685,6 +700,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03042-1</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03042-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03056-9">
+            <title><![CDATA[Daily briefing: See the first image released by China’s new high-resolution telescope]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03056-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 27 September 2023; <a href="https://www.nature.com/articles/d41586-023-03056-9">doi:10.1038/d41586-023-03056-9</a></p>The Wide Field Survey Telescope will scan the skies for stellar explosions. Plus, how to do science in a violent border region and how much we owe to earthworms.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: See the first image released by China’s new high-resolution telescope]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03056-9</dc:identifier>
+            <dc:source>Nature, Published online: 2023-09-27; | doi:10.1038/d41586-023-03056-9</dc:source>
+            <dc:date>2023-09-27</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03056-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03056-9</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-02773-5">
@@ -1270,36 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02996-6</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02996-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02987-7">
-            <title><![CDATA[Shock delay to net-zero pledges turns UK from climate leader to laggard]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02987-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 25 September 2023; <a href="https://www.nature.com/articles/d41586-023-02987-7">doi:10.1038/d41586-023-02987-7</a></p>It could have shown vision and leadership. Instead, the country that proudly hosted the 2021 COP26 climate summit is ignoring the advice of its own researchers.]]></content:encoded>
-            <dc:title><![CDATA[Shock delay to net-zero pledges turns UK from climate leader to laggard]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-02987-7</dc:identifier>
-            <dc:source>Nature, Published online: 2023-09-25; | doi:10.1038/d41586-023-02987-7</dc:source>
-            <dc:date>2023-09-25</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02987-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02987-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02921-x">
-            <title><![CDATA[How Dolly the sheep’s legacy lives on: CRISPR cattle and cloned camels]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02921-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 25 September 2023; <a href="https://www.nature.com/articles/d41586-023-02921-x">doi:10.1038/d41586-023-02921-x</a></p>Dolly-style animal cloning underpins CRISPR livestock, but changes loom for the field.]]></content:encoded>
-            <dc:title><![CDATA[How Dolly the sheep’s legacy lives on: CRISPR cattle and cloned camels]]></dc:title>
-            <dc:creator>Heidi Ledford</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02921-x</dc:identifier>
-            <dc:source>Nature, Published online: 2023-09-25; | doi:10.1038/d41586-023-02921-x</dc:source>
-            <dc:date>2023-09-25</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02921-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02921-x</prism:url>
         </item>
     
 </rdf:RDF>
