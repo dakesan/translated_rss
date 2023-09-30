@@ -18,9 +18,19 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02872-3"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03009-2"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03094-3"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03099-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03066-7"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03057-8"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03086-3"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06667-4"/>
                 
@@ -158,16 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03019-0"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02936-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03010-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03018-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06654-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02997-5"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,21 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02872-3">
+            <title><![CDATA[Audio long read: These animals are racing towards extinction. A new home might be their last chance]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02872-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 29 September 2023; <a href="https://www.nature.com/articles/d41586-023-02872-3">doi:10.1038/d41586-023-02872-3</a></p>Researchers are testing a controversial strategy to relocate threatened animals whose habitats might not survive climate change.]]></content:encoded>
+            <dc:title><![CDATA[Audio long read: These animals are racing towards extinction. A new home might be their last chance]]></dc:title>
+            <dc:creator>Clare Watson</dc:creator><dc:creator>Benjamin Thompson</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02872-3</dc:identifier>
+            <dc:source>Nature, Published online: 2023-09-29; | doi:10.1038/d41586-023-02872-3</dc:source>
+            <dc:date>2023-09-29</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02872-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02872-3</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03009-2">
             <title><![CDATA[Genetic variant powers up immune cells that remember SARS-CoV-2]]></title>
@@ -205,6 +220,66 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03094-3</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03094-3</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03099-y">
+            <title><![CDATA[Tracking women’s mental health amid trauma in Yemen]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03099-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 29 September 2023; <a href="https://www.nature.com/articles/d41586-023-03099-y">doi:10.1038/d41586-023-03099-y</a></p>Psychologist Anjila Sultan returned to the city where she grew up, after witnessing the effects of war and cultural pressures on mothers and children.]]></content:encoded>
+            <dc:title><![CDATA[Tracking women’s mental health amid trauma in Yemen]]></dc:title>
+            <dc:creator>Shihab Jamal</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03099-y</dc:identifier>
+            <dc:source>Nature, Published online: 2023-09-29; | doi:10.1038/d41586-023-03099-y</dc:source>
+            <dc:date>2023-09-29</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03099-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03099-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03066-7">
+            <title><![CDATA[The microbes lurking in saliva and more — September’s best science images]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03066-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 29 September 2023; <a href="https://www.nature.com/articles/d41586-023-03066-7">doi:10.1038/d41586-023-03066-7</a></p>The month’s sharpest science shots, selected by Nature’s photo team.]]></content:encoded>
+            <dc:title><![CDATA[The microbes lurking in saliva and more — September’s best science images]]></dc:title>
+            <dc:creator>Emma Stoye</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03066-7</dc:identifier>
+            <dc:source>Nature, Published online: 2023-09-29; | doi:10.1038/d41586-023-03066-7</dc:source>
+            <dc:date>2023-09-29</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03066-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03066-7</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03057-8">
+            <title><![CDATA[The UK’s rollback of climate policies will cost its citizens and the world]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03057-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 29 September 2023; <a href="https://www.nature.com/articles/d41586-023-03057-8">doi:10.1038/d41586-023-03057-8</a></p>Incoherent new climate-policy messages by Prime Minister Rishi Sunak will dissolve the UK’s climate leadership, stifle innovation’s momentum and cost consumers.]]></content:encoded>
+            <dc:title><![CDATA[The UK’s rollback of climate policies will cost its citizens and the world]]></dc:title>
+            <dc:creator>Joeri Rogelj</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03057-8</dc:identifier>
+            <dc:source>Nature, Published online: 2023-09-29; | doi:10.1038/d41586-023-03057-8</dc:source>
+            <dc:date>2023-09-29</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03057-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03057-8</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03086-3">
+            <title><![CDATA[Scientists are waiting longer than ever to receive a Nobel]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03086-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 29 September 2023; <a href="https://www.nature.com/articles/d41586-023-03086-3">doi:10.1038/d41586-023-03086-3</a></p>Nobel laureates often receive the prize decades after their groundbreaking research — and that delay is getting longer.]]></content:encoded>
+            <dc:title><![CDATA[Scientists are waiting longer than ever to receive a Nobel]]></dc:title>
+            <dc:creator>Lilly Tozer</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03086-3</dc:identifier>
+            <dc:source>Nature, Published online: 2023-09-29; | doi:10.1038/d41586-023-03086-3</dc:source>
+            <dc:date>2023-09-29</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03086-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03086-3</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06667-4">
@@ -1225,81 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03019-0</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03019-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02936-4">
-            <title><![CDATA[From the archive: teenage disdain, and Darwin ponders tiny males]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02936-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 26 September 2023; <a href="https://www.nature.com/articles/d41586-023-02936-4">doi:10.1038/d41586-023-02936-4</a></p>Snippets from Nature’s past.]]></content:encoded>
-            <dc:title><![CDATA[From the archive: teenage disdain, and Darwin ponders tiny males]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-02936-4</dc:identifier>
-            <dc:source>Nature, Published online: 2023-09-26; | doi:10.1038/d41586-023-02936-4</dc:source>
-            <dc:date>2023-09-26</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02936-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02936-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03010-9">
-            <title><![CDATA[Snow-loving flies amputate their own legs for survival]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03010-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 26 September 2023; <a href="https://www.nature.com/articles/d41586-023-03010-9">doi:10.1038/d41586-023-03010-9</a></p>Insects that traipse across winter snowfields use harsh technique to keep their internal organs from freezing.]]></content:encoded>
-            <dc:title><![CDATA[Snow-loving flies amputate their own legs for survival]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-03010-9</dc:identifier>
-            <dc:source>Nature, Published online: 2023-09-26; | doi:10.1038/d41586-023-03010-9</dc:source>
-            <dc:date>2023-09-26</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03010-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03010-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03018-1">
-            <title><![CDATA[Governance: a Pugwash council for the digital age]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03018-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 26 September 2023; <a href="https://www.nature.com/articles/d41586-023-03018-1">doi:10.1038/d41586-023-03018-1</a></p>Governance: a Pugwash council for the digital age]]></content:encoded>
-            <dc:title><![CDATA[Governance: a Pugwash council for the digital age]]></dc:title>
-            <dc:creator>Will Marshall</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03018-1</dc:identifier>
-            <dc:source>Nature, Published online: 2023-09-26; | doi:10.1038/d41586-023-03018-1</dc:source>
-            <dc:date>2023-09-26</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03018-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03018-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06654-9">
-            <title><![CDATA[Author Correction: Native diversity buffers against severity of non-native tree invasions]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06654-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 26 September 2023; <a href="https://www.nature.com/articles/s41586-023-06654-9">doi:10.1038/s41586-023-06654-9</a></p>Author Correction: Native diversity buffers against severity of non-native tree invasions]]></content:encoded>
-            <dc:title><![CDATA[Author Correction: Native diversity buffers against severity of non-native tree invasions]]></dc:title>
-            <dc:creator>Camille S. Delavaux</dc:creator><dc:creator>Thomas W. Crowther</dc:creator><dc:creator>Constantin M. Zohner</dc:creator><dc:creator>Niamh M. Robmann</dc:creator><dc:creator>Thomas Lauber</dc:creator><dc:creator>Johan van den Hoogen</dc:creator><dc:creator>Sara Kuebbing</dc:creator><dc:creator>Jingjing Liang</dc:creator><dc:creator>Sergio de-Miguel</dc:creator><dc:creator>Gert-Jan Nabuurs</dc:creator><dc:creator>Peter B. Reich</dc:creator><dc:creator>Meinrad Abegg</dc:creator><dc:creator>Yves C. Adou Yao</dc:creator><dc:creator>Giorgio Alberti</dc:creator><dc:creator>Angelica M. Almeyda Zambrano</dc:creator><dc:creator>Braulio Vilchez Alvarado</dc:creator><dc:creator>Esteban Alvarez-Dávila</dc:creator><dc:creator>Patricia Alvarez-Loayza</dc:creator><dc:creator>Luciana F. Alves</dc:creator><dc:creator>Christian Ammer</dc:creator><dc:creator>Clara Antón-Fernández</dc:creator><dc:creator>Alejandro Araujo-Murakami</dc:creator><dc:creator>Luzmila Arroyo</dc:creator><dc:creator>Valerio Avitabile</dc:creator><dc:creator>Gerardo A. Aymard</dc:creator><dc:creator>Timothy R. Baker</dc:creator><dc:creator>Radomir Bałazy</dc:creator><dc:creator>Olaf Banki</dc:creator><dc:creator>Jorcely G. Barroso</dc:creator><dc:creator>Meredith L. Bastian</dc:creator><dc:creator>Jean-Francois Bastin</dc:creator><dc:creator>Luca Birigazzi</dc:creator><dc:creator>Philippe Birnbaum</dc:creator><dc:creator>Robert Bitariho</dc:creator><dc:creator>Pascal Boeckx</dc:creator><dc:creator>Frans Bongers</dc:creator><dc:creator>Olivier Bouriaud</dc:creator><dc:creator>Pedro H. S. Brancalion</dc:creator><dc:creator>Susanne Brandl</dc:creator><dc:creator>Roel Brienen</dc:creator><dc:creator>Eben N. Broadbent</dc:creator><dc:creator>Helge Bruelheide</dc:creator><dc:creator>Filippo Bussotti</dc:creator><dc:creator>Roberto Cazzolla Gatti</dc:creator><dc:creator>Ricardo G. César</dc:creator><dc:creator>Goran Cesljar</dc:creator><dc:creator>Robin Chazdon</dc:creator><dc:creator>Han Y. H. Chen</dc:creator><dc:creator>Chelsea Chisholm</dc:creator><dc:creator>Hyunkook Cho</dc:creator><dc:creator>Emil Cienciala</dc:creator><dc:creator>Connie Clark</dc:creator><dc:creator>David Clark</dc:creator><dc:creator>Gabriel D. Colletta</dc:creator><dc:creator>David A. Coomes</dc:creator><dc:creator>Fernando Cornejo Valverde</dc:creator><dc:creator>José J. Corral-Rivas</dc:creator><dc:creator>Philip M. Crim</dc:creator><dc:creator>Jonathan R. Cumming</dc:creator><dc:creator>Selvadurai Dayanandan</dc:creator><dc:creator>André L. de Gasper</dc:creator><dc:creator>Mathieu Decuyper</dc:creator><dc:creator>Géraldine Derroire</dc:creator><dc:creator>Ben DeVries</dc:creator><dc:creator>Ilija Djordjevic</dc:creator><dc:creator>Jiri Dolezal</dc:creator><dc:creator>Aurélie Dourdain</dc:creator><dc:creator>Nestor Laurier Engone Obiang</dc:creator><dc:creator>Brian J. Enquist</dc:creator><dc:creator>Teresa J. Eyre</dc:creator><dc:creator>Adandé Belarmain Fandohan</dc:creator><dc:creator>Tom M. Fayle</dc:creator><dc:creator>Ted R. Feldpausch</dc:creator><dc:creator>Leandro V. Ferreira</dc:creator><dc:creator>Markus Fischer</dc:creator><dc:creator>Christine Fletcher</dc:creator><dc:creator>Lorenzo Frizzera</dc:creator><dc:creator>Javier G. P. Gamarra</dc:creator><dc:creator>Damiano Gianelle</dc:creator><dc:creator>Henry B. Glick</dc:creator><dc:creator>David J. Harris</dc:creator><dc:creator>Andrew Hector</dc:creator><dc:creator>Andreas Hemp</dc:creator><dc:creator>Geerten Hengeveld</dc:creator><dc:creator>Bruno Hérault</dc:creator><dc:creator>John L. Herbohn</dc:creator><dc:creator>Martin Herold</dc:creator><dc:creator>Annika Hillers</dc:creator><dc:creator>Eurídice N. Honorio Coronado</dc:creator><dc:creator>Cang Hui</dc:creator><dc:creator>Thomas T. Ibanez</dc:creator><dc:creator>Iêda Amaral</dc:creator><dc:creator>Nobuo Imai</dc:creator><dc:creator>Andrzej M. Jagodziński</dc:creator><dc:creator>Bogdan Jaroszewicz</dc:creator><dc:creator>Vivian Kvist Johannsen</dc:creator><dc:creator>Carlos A. Joly</dc:creator><dc:creator>Tommaso Jucker</dc:creator><dc:creator>Ilbin Jung</dc:creator><dc:creator>Viktor Karminov</dc:creator><dc:creator>Kuswata Kartawinata</dc:creator><dc:creator>Elizabeth Kearsley</dc:creator><dc:creator>David Kenfack</dc:creator><dc:creator>Deborah K. Kennard</dc:creator><dc:creator>Sebastian Kepfer-Rojas</dc:creator><dc:creator>Gunnar Keppel</dc:creator><dc:creator>Mohammed Latif Khan</dc:creator><dc:creator>Timothy J. Killeen</dc:creator><dc:creator>Hyun Seok Kim</dc:creator><dc:creator>Kanehiro Kitayama</dc:creator><dc:creator>Michael Köhl</dc:creator><dc:creator>Henn Korjus</dc:creator><dc:creator>Florian Kraxner</dc:creator><dc:creator>Diana Laarmann</dc:creator><dc:creator>Mait Lang</dc:creator><dc:creator>Simon L. Lewis</dc:creator><dc:creator>Huicui Lu</dc:creator><dc:creator>Natalia V. Lukina</dc:creator><dc:creator>Brian S. Maitner</dc:creator><dc:creator>Yadvinder Malhi</dc:creator><dc:creator>Eric Marcon</dc:creator><dc:creator>Beatriz Schwantes Marimon</dc:creator><dc:creator>Ben Hur Marimon-Junior</dc:creator><dc:creator>Andrew R. Marshall</dc:creator><dc:creator>Emanuel H. Martin</dc:creator><dc:creator>Olga Martynenko</dc:creator><dc:creator>Jorge A. Meave</dc:creator><dc:creator>Omar Melo-Cruz</dc:creator><dc:creator>Casimiro Mendoza</dc:creator><dc:creator>Cory Merow</dc:creator><dc:creator>Abel Monteagudo Mendoza</dc:creator><dc:creator>Vanessa S. Moreno</dc:creator><dc:creator>Sharif A. Mukul</dc:creator><dc:creator>Philip Mundhenk</dc:creator><dc:creator>María Guadalupe Nava-Miranda</dc:creator><dc:creator>David Neill</dc:creator><dc:creator>Victor J. Neldner</dc:creator><dc:creator>Radovan V. Nevenic</dc:creator><dc:creator>Michael R. Ngugi</dc:creator><dc:creator>Pascal A. Niklaus</dc:creator><dc:creator>Jacek Oleksyn</dc:creator><dc:creator>Petr Ontikov</dc:creator><dc:creator>Edgar Ortiz-Malavasi</dc:creator><dc:creator>Yude Pan</dc:creator><dc:creator>Alain Paquette</dc:creator><dc:creator>Alexander Parada-Gutierrez</dc:creator><dc:creator>Elena I. Parfenova</dc:creator><dc:creator>Minjee Park</dc:creator><dc:creator>Marc Parren</dc:creator><dc:creator>Narayanaswamy Parthasarathy</dc:creator><dc:creator>Pablo L. Peri</dc:creator><dc:creator>Sebastian Pfautsch</dc:creator><dc:creator>Oliver L. Phillips</dc:creator><dc:creator>Nicolas Picard</dc:creator><dc:creator>Maria Teresa T. F. Piedade</dc:creator><dc:creator>Daniel Piotto</dc:creator><dc:creator>Nigel C. A. Pitman</dc:creator><dc:creator>Irina Polo</dc:creator><dc:creator>Lourens Poorter</dc:creator><dc:creator>Axel D. Poulsen</dc:creator><dc:creator>Hans Pretzsch</dc:creator><dc:creator>Freddy Ramirez Arevalo</dc:creator><dc:creator>Zorayda Restrepo-Correa</dc:creator><dc:creator>Mirco Rodeghiero</dc:creator><dc:creator>Samir G. Rolim</dc:creator><dc:creator>Anand Roopsind</dc:creator><dc:creator>Francesco Rovero</dc:creator><dc:creator>Ervan Rutishauser</dc:creator><dc:creator>Purabi Saikia</dc:creator><dc:creator>Christian Salas-Eljatib</dc:creator><dc:creator>Philippe Saner</dc:creator><dc:creator>Peter Schall</dc:creator><dc:creator>Dmitry Schepaschenko</dc:creator><dc:creator>Michael Scherer-Lorenzen</dc:creator><dc:creator>Bernhard Schmid</dc:creator><dc:creator>Jochen Schöngart</dc:creator><dc:creator>Eric B. Searle</dc:creator><dc:creator>Vladimír Seben</dc:creator><dc:creator>Josep M. Serra-Diaz</dc:creator><dc:creator>Douglas Sheil</dc:creator><dc:creator>Anatoly Z. Shvidenko</dc:creator><dc:creator>Javier E. Silva-Espejo</dc:creator><dc:creator>Marcos Silveira</dc:creator><dc:creator>James Singh</dc:creator><dc:creator>Plinio Sist</dc:creator><dc:creator>Ferry Slik</dc:creator><dc:creator>Bonaventure Sonké</dc:creator><dc:creator>Alexandre F. Souza</dc:creator><dc:creator>Stanislaw Miscicki</dc:creator><dc:creator>Krzysztof J. Stereńczak</dc:creator><dc:creator>Jens-Christian Svenning</dc:creator><dc:creator>Miroslav Svoboda</dc:creator><dc:creator>Ben Swanepoel</dc:creator><dc:creator>Natalia Targhetta</dc:creator><dc:creator>Nadja Tchebakova</dc:creator><dc:creator>Hans ter Steege</dc:creator><dc:creator>Raquel Thomas</dc:creator><dc:creator>Elena Tikhonova</dc:creator><dc:creator>Peter M. Umunay</dc:creator><dc:creator>Vladimir A. Usoltsev</dc:creator><dc:creator>Renato Valencia</dc:creator><dc:creator>Fernando Valladares</dc:creator><dc:creator>Fons van der Plas</dc:creator><dc:creator>Tran Van Do</dc:creator><dc:creator>Michael E.  van Nuland</dc:creator><dc:creator>Rodolfo M. Vasquez</dc:creator><dc:creator>Hans Verbeeck</dc:creator><dc:creator>Helder Viana</dc:creator><dc:creator>Alexander C. Vibrans</dc:creator><dc:creator>Simone Vieira</dc:creator><dc:creator>Klaus von Gadow</dc:creator><dc:creator>Hua-Feng Wang</dc:creator><dc:creator>James V. Watson</dc:creator><dc:creator>Gijsbert D. A. Werner</dc:creator><dc:creator>Susan K. Wiser</dc:creator><dc:creator>Florian Wittmann</dc:creator><dc:creator>Hannsjoerg Woell</dc:creator><dc:creator>Verginia Wortel</dc:creator><dc:creator>Roderik Zagt</dc:creator><dc:creator>Tomasz Zawiła-Niedźwiecki</dc:creator><dc:creator>Chunyu Zhang</dc:creator><dc:creator>Xiuhai Zhao</dc:creator><dc:creator>Mo Zhou</dc:creator><dc:creator>Zhi-Xin Zhu</dc:creator><dc:creator>Irie C. Zo-Bi</dc:creator><dc:creator>Daniel S. Maynard</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06654-9</dc:identifier>
-            <dc:source>Nature, Published online: 2023-09-26; | doi:10.1038/s41586-023-06654-9</dc:source>
-            <dc:date>2023-09-26</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06654-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06654-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02997-5">
-            <title><![CDATA[Replication games: how to make reproducibility research more systematic]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02997-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 26 September 2023; <a href="https://www.nature.com/articles/d41586-023-02997-5">doi:10.1038/d41586-023-02997-5</a></p>In some areas of social science, around half of studies can’t be replicated. A new test-fast, fail-fast initiative aims to show what research is hot — and what’s not.]]></content:encoded>
-            <dc:title><![CDATA[Replication games: how to make reproducibility research more systematic]]></dc:title>
-            <dc:creator>Abel Brodeur</dc:creator><dc:creator>Anna Dreber</dc:creator><dc:creator>Fernando Hoces de la Guardia</dc:creator><dc:creator>Edward Miguel</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02997-5</dc:identifier>
-            <dc:source>Nature, Published online: 2023-09-26; | doi:10.1038/d41586-023-02997-5</dc:source>
-            <dc:date>2023-09-26</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02997-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02997-5</prism:url>
         </item>
     
 </rdf:RDF>
