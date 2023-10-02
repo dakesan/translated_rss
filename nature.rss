@@ -18,6 +18,14 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03046-x"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03063-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03064-9"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03062-x"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02872-3"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03009-2"/>
@@ -160,14 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02791-3"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02999-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02930-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03020-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03019-0"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,66 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03046-x">
+            <title><![CDATA[Pioneers of mRNA COVID vaccines win medicine Nobel]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03046-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 02 October 2023; <a href="https://www.nature.com/articles/d41586-023-03046-x">doi:10.1038/d41586-023-03046-x</a></p>Katalin Karikó and Drew Weissman developed immunizations amid an unprecedented pandemic at record-breaking speed.]]></content:encoded>
+            <dc:title><![CDATA[Pioneers of mRNA COVID vaccines win medicine Nobel]]></dc:title>
+            <dc:creator>Miryam Naddaf</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03046-x</dc:identifier>
+            <dc:source>Nature, Published online: 2023-10-02; | doi:10.1038/d41586-023-03046-x</dc:source>
+            <dc:date>2023-10-02</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03046-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03046-x</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03063-w">
+            <title><![CDATA[Engaged in collaborative research? Try a touch of intellectual humility]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03063-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 02 October 2023; <a href="https://www.nature.com/articles/d41586-023-03063-w">doi:10.1038/d41586-023-03063-w</a></p>Being open to the limitations of their knowledge can help researchers to foster interdisciplinary and cross-cultural collaborations.]]></content:encoded>
+            <dc:title><![CDATA[Engaged in collaborative research? Try a touch of intellectual humility]]></dc:title>
+            <dc:creator>Jane Palmer</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03063-w</dc:identifier>
+            <dc:source>Nature, Published online: 2023-10-02; | doi:10.1038/d41586-023-03063-w</dc:source>
+            <dc:date>2023-10-02</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03063-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03063-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03064-9">
+            <title><![CDATA[How open-source software could finally get the world’s microscopes speaking the same language]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03064-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 02 October 2023; <a href="https://www.nature.com/articles/d41586-023-03064-9">doi:10.1038/d41586-023-03064-9</a></p>A plethora of standards mean shareable and verifiable microscopy data often get lost in translation. Biologists are working on a solution.]]></content:encoded>
+            <dc:title><![CDATA[How open-source software could finally get the world’s microscopes speaking the same language]]></dc:title>
+            <dc:creator>Michael Brooks</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03064-9</dc:identifier>
+            <dc:source>Nature, Published online: 2023-10-02; | doi:10.1038/d41586-023-03064-9</dc:source>
+            <dc:date>2023-10-02</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03064-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03064-9</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03062-x">
+            <title><![CDATA[Why researchers should use human embryo models with caution]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03062-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 02 October 2023; <a href="https://www.nature.com/articles/d41586-023-03062-x">doi:10.1038/d41586-023-03062-x</a></p>Scientists should carefully consider whether embryo models based on human stem cells are essential to their work because of the associated practical and ethical challenges.]]></content:encoded>
+            <dc:title><![CDATA[Why researchers should use human embryo models with caution]]></dc:title>
+            <dc:creator>Janet Rossant</dc:creator><dc:creator>Jianping Fu</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03062-x</dc:identifier>
+            <dc:source>Nature, Published online: 2023-10-02; | doi:10.1038/d41586-023-03062-x</dc:source>
+            <dc:date>2023-10-02</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03062-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03062-x</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-02872-3">
             <title><![CDATA[Audio long read: These animals are racing towards extinction. A new home might be their last chance]]></title>
@@ -1240,66 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02791-3</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02791-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02999-3">
-            <title><![CDATA[AI tools as science policy advisers? The potential and the pitfalls]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02999-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 27 September 2023; <a href="https://www.nature.com/articles/d41586-023-02999-3">doi:10.1038/d41586-023-02999-3</a></p>Large language models and other artificial-intelligence systems could be excellent at synthesizing scientific evidence for policymakers — but only with appropriate safeguards and humans in the loop.]]></content:encoded>
-            <dc:title><![CDATA[AI tools as science policy advisers? The potential and the pitfalls]]></dc:title>
-            <dc:creator>Chris Tyler</dc:creator><dc:creator>K. L. Akerlof</dc:creator><dc:creator>Alessandro Allegra</dc:creator><dc:creator>Zachary Arnold</dc:creator><dc:creator>Henriette Canino</dc:creator><dc:creator>Marius A. Doornenbal</dc:creator><dc:creator>Josh A. Goldstein</dc:creator><dc:creator>David Budtz Pedersen</dc:creator><dc:creator>William J. Sutherland</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02999-3</dc:identifier>
-            <dc:source>Nature, Published online: 2023-09-27; | doi:10.1038/d41586-023-02999-3</dc:source>
-            <dc:date>2023-09-27</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02999-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02999-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02930-w">
-            <title><![CDATA[Free-falling antihydrogen reveals the effect of gravity on antimatter]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02930-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 27 September 2023; <a href="https://www.nature.com/articles/d41586-023-02930-w">doi:10.1038/d41586-023-02930-w</a></p>A test performed on antihydrogen atoms has shown that gravity acts on matter and antimatter in a similar way. The experimental feat is the latest in efforts to probe the crossover between theories of relativity and particle physics.]]></content:encoded>
-            <dc:title><![CDATA[Free-falling antihydrogen reveals the effect of gravity on antimatter]]></dc:title>
-            <dc:creator>Anna Soter</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02930-w</dc:identifier>
-            <dc:source>Nature, Published online: 2023-09-27; | doi:10.1038/d41586-023-02930-w</dc:source>
-            <dc:date>2023-09-27</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02930-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02930-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03020-7">
-            <title><![CDATA[Enrich urban biodiversity for sustainable cities]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03020-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 26 September 2023; <a href="https://www.nature.com/articles/d41586-023-03020-7">doi:10.1038/d41586-023-03020-7</a></p>Enrich urban biodiversity for sustainable cities]]></content:encoded>
-            <dc:title><![CDATA[Enrich urban biodiversity for sustainable cities]]></dc:title>
-            <dc:creator>Dave Kendal</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03020-7</dc:identifier>
-            <dc:source>Nature, Published online: 2023-09-26; | doi:10.1038/d41586-023-03020-7</dc:source>
-            <dc:date>2023-09-26</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03020-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03020-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03019-0">
-            <title><![CDATA[Coffee’s legacy: almost 300 years of deforestation]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03019-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 26 September 2023; <a href="https://www.nature.com/articles/d41586-023-03019-0">doi:10.1038/d41586-023-03019-0</a></p>Coffee’s legacy: almost 300 years of deforestation]]></content:encoded>
-            <dc:title><![CDATA[Coffee’s legacy: almost 300 years of deforestation]]></dc:title>
-            <dc:creator>Aaron P. Davis</dc:creator><dc:creator>Fernando E. Vega</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03019-0</dc:identifier>
-            <dc:source>Nature, Published online: 2023-09-26; | doi:10.1038/d41586-023-03019-0</dc:source>
-            <dc:date>2023-09-26</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03019-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03019-0</prism:url>
         </item>
     
 </rdf:RDF>
