@@ -18,6 +18,12 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03048-9"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03102-6"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03058-7"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06677-2"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03115-1"/>
@@ -162,12 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02980-0"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02994-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02938-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03023-4"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,51 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03048-9">
+            <title><![CDATA[Tiny ‘quantum dot’ particles win chemistry Nobel]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03048-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 04 October 2023; <a href="https://www.nature.com/articles/d41586-023-03048-9">doi:10.1038/d41586-023-03048-9</a></p>Moungi Bawendi, Louis Brus and Alexei Ekimov receive the prize for their work on glowing nanoparticles that are used in fields from electronics to surgery.]]></content:encoded>
+            <dc:title><![CDATA[Tiny ‘quantum dot’ particles win chemistry Nobel]]></dc:title>
+            <dc:creator>Katharine Sanderson</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03048-9</dc:identifier>
+            <dc:source>Nature, Published online: 2023-10-04; | doi:10.1038/d41586-023-03048-9</dc:source>
+            <dc:date>2023-10-04</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03048-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03048-9</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03102-6">
+            <title><![CDATA[The disinformation sleuths: a key role for scientists in impending elections]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03102-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 04 October 2023; <a href="https://www.nature.com/articles/d41586-023-03102-6">doi:10.1038/d41586-023-03102-6</a></p>Researchers in Europe have a golden opportunity to help defend democratic principles and bring science to bear against online disinformation.]]></content:encoded>
+            <dc:title><![CDATA[The disinformation sleuths: a key role for scientists in impending elections]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-03102-6</dc:identifier>
+            <dc:source>Nature, Published online: 2023-10-04; | doi:10.1038/d41586-023-03102-6</dc:source>
+            <dc:date>2023-10-04</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03102-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03102-6</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03058-7">
+            <title><![CDATA[Why rings of RNA could be the next blockbuster drug]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03058-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 04 October 2023; <a href="https://www.nature.com/articles/d41586-023-03058-7">doi:10.1038/d41586-023-03058-7</a></p>The commercial success of RNA vaccines for COVID-19 has revved up interest in circular RNAs as the next generation of therapies.]]></content:encoded>
+            <dc:title><![CDATA[Why rings of RNA could be the next blockbuster drug]]></dc:title>
+            <dc:creator>Elie Dolgin</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03058-7</dc:identifier>
+            <dc:source>Nature, Published online: 2023-10-04; | doi:10.1038/d41586-023-03058-7</dc:source>
+            <dc:date>2023-10-04</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03058-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03058-7</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06677-2">
             <title><![CDATA[Complex molecule synthesis by electrocatalytic decarboxylative cross-coupling]]></title>
@@ -1255,51 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02980-0</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02980-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02994-8">
-            <title><![CDATA[COVID lockdowns altered babies’ microbiomes]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02994-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 27 September 2023; <a href="https://www.nature.com/articles/d41586-023-02994-8">doi:10.1038/d41586-023-02994-8</a></p>Isolation can have lasting effects on the composition of microbes in the gut, but links to other health conditions are still poorly understood.]]></content:encoded>
-            <dc:title><![CDATA[COVID lockdowns altered babies’ microbiomes]]></dc:title>
-            <dc:creator>Lilly Tozer</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02994-8</dc:identifier>
-            <dc:source>Nature, Published online: 2023-09-27; | doi:10.1038/d41586-023-02994-8</dc:source>
-            <dc:date>2023-09-27</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02994-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02994-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02938-2">
-            <title><![CDATA[Coordinating the first heartbeat]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02938-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 27 September 2023; <a href="https://www.nature.com/articles/d41586-023-02938-2">doi:10.1038/d41586-023-02938-2</a></p>An impressive combination of computational modelling and experimental techniques in live zebrafish embryos reveals how the heart initiates its organized and rhythmic beating.]]></content:encoded>
-            <dc:title><![CDATA[Coordinating the first heartbeat]]></dc:title>
-            <dc:creator>Joshua Bloomekatz</dc:creator><dc:creator>Neil C. Chi</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02938-2</dc:identifier>
-            <dc:source>Nature, Published online: 2023-09-27; | doi:10.1038/d41586-023-02938-2</dc:source>
-            <dc:date>2023-09-27</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02938-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02938-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03023-4">
-            <title><![CDATA[What’s the best chatbot for me? Researchers put LLMs through their paces]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03023-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 27 September 2023; <a href="https://www.nature.com/articles/d41586-023-03023-4">doi:10.1038/d41586-023-03023-4</a></p>When it comes to large language models, there’s one for every occasion. Find the most appropriate match for you in our AI speed-dating feature.]]></content:encoded>
-            <dc:title><![CDATA[What’s the best chatbot for me? Researchers put LLMs through their paces]]></dc:title>
-            <dc:creator>Elizabeth M. Humphries</dc:creator><dc:creator>Carrie Wright</dc:creator><dc:creator>Ava M. Hoffman</dc:creator><dc:creator>Candace Savonen</dc:creator><dc:creator>Jeffrey T. Leek</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03023-4</dc:identifier>
-            <dc:source>Nature, Published online: 2023-09-27; | doi:10.1038/d41586-023-03023-4</dc:source>
-            <dc:date>2023-09-27</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03023-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03023-4</prism:url>
         </item>
     
 </rdf:RDF>
