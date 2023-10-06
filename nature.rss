@@ -18,9 +18,15 @@
         <items>
             <rdf:Seq>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02841-w"/>
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06699-w"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03132-0"/>
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03035-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03141-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03044-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02841-w"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06611-6"/>
                 
@@ -79,6 +85,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03131-1"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02803-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03132-0"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06677-2"/>
                 
@@ -160,14 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02934-6"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02972-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03074-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03051-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06657-6"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,66 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-023-06699-w">
+            <title><![CDATA[Author Correction: Synthesis of portimines reveals the basis of their anti-cancer activity]]></title>
+            <link>https://www.nature.com/articles/s41586-023-06699-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 05 October 2023; <a href="https://www.nature.com/articles/s41586-023-06699-w">doi:10.1038/s41586-023-06699-w</a></p>Author Correction: Synthesis of portimines reveals the basis of their anti-cancer activity]]></content:encoded>
+            <dc:title><![CDATA[Author Correction: Synthesis of portimines reveals the basis of their anti-cancer activity]]></dc:title>
+            <dc:creator>Junchen Tang</dc:creator><dc:creator>Weichao Li</dc:creator><dc:creator>Tzu-Yuan Chiu</dc:creator><dc:creator>Francisco Martínez-Peña</dc:creator><dc:creator>Zengwei Luo</dc:creator><dc:creator>Christine T. Chong</dc:creator><dc:creator>Qijia Wei</dc:creator><dc:creator>Nathalia Gazaniga</dc:creator><dc:creator>Thomas J. West</dc:creator><dc:creator>Yi Yang See</dc:creator><dc:creator>Luke L. Lairson</dc:creator><dc:creator>Christopher G. Parker</dc:creator><dc:creator>Phil S. Baran</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-023-06699-w</dc:identifier>
+            <dc:source>Nature, Published online: 2023-10-05; | doi:10.1038/s41586-023-06699-w</dc:source>
+            <dc:date>2023-10-05</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-023-06699-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-023-06699-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03035-0">
+            <title><![CDATA[How carrots became orange: genomics get at the root of the matter]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03035-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 05 October 2023; <a href="https://www.nature.com/articles/d41586-023-03035-0">doi:10.1038/d41586-023-03035-0</a></p>The vegetable was domesticated roughly 1,200 years ago but was yellow or purple for centuries.]]></content:encoded>
+            <dc:title><![CDATA[How carrots became orange: genomics get at the root of the matter]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-03035-0</dc:identifier>
+            <dc:source>Nature, Published online: 2023-10-05; | doi:10.1038/d41586-023-03035-0</dc:source>
+            <dc:date>2023-10-05</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03035-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03035-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03141-z">
+            <title><![CDATA[Atomic-resolution microscope turned into quantum computer]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03141-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 05 October 2023; <a href="https://www.nature.com/articles/d41586-023-03141-z">doi:10.1038/d41586-023-03141-z</a></p>Individual atoms on a surface do their first basic calculation.]]></content:encoded>
+            <dc:title><![CDATA[Atomic-resolution microscope turned into quantum computer]]></dc:title>
+            <dc:creator>Davide Castelvecchi</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03141-z</dc:identifier>
+            <dc:source>Nature, Published online: 2023-10-05; | doi:10.1038/d41586-023-03141-z</dc:source>
+            <dc:date>2023-10-05</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03141-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03141-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03044-z">
+            <title><![CDATA[‘In case I die, I need to publish this paper’: scientist who left the lab to fight in Ukraine]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03044-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 05 October 2023; <a href="https://www.nature.com/articles/d41586-023-03044-z">doi:10.1038/d41586-023-03044-z</a></p>Neuroscientist Sergiy Sylantyev tells Nature that science and war cannot be separated.]]></content:encoded>
+            <dc:title><![CDATA[‘In case I die, I need to publish this paper’: scientist who left the lab to fight in Ukraine]]></dc:title>
+            <dc:creator>Layal  Liverpool</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03044-z</dc:identifier>
+            <dc:source>Nature, Published online: 2023-10-05; | doi:10.1038/d41586-023-03044-z</dc:source>
+            <dc:date>2023-10-05</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03044-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03044-z</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-02841-w">
             <title><![CDATA[South Korean scientists’ outcry over planned R&amp;D budget cuts]]></title>
@@ -190,21 +250,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02841-w</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02841-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03132-0">
-            <title><![CDATA[Astronomers are worried by a satellite brighter than most stars]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03132-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 04 October 2023; <a href="https://www.nature.com/articles/d41586-023-03132-0">doi:10.1038/d41586-023-03132-0</a></p>Researchers determined the telecommunications satellite was periodically brighter than 99% of stars, and powerful X-rays have uncovered an ancient trilobite’s last meal.]]></content:encoded>
-            <dc:title><![CDATA[Astronomers are worried by a satellite brighter than most stars]]></dc:title>
-            <dc:creator>Benjamin Thompson</dc:creator><dc:creator>Nick Petrić Howe</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03132-0</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-04; | doi:10.1038/d41586-023-03132-0</dc:source>
-            <dc:date>2023-10-04</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03132-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03132-0</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06611-6">
@@ -640,6 +685,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02803-2</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02803-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03132-0">
+            <title><![CDATA[Astronomers are worried by a satellite brighter than most stars]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03132-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 04 October 2023; <a href="https://www.nature.com/articles/d41586-023-03132-0">doi:10.1038/d41586-023-03132-0</a></p>Researchers determined the telecommunications satellite was periodically brighter than 99% of stars, and powerful X-rays have uncovered an ancient trilobite’s last meal.]]></content:encoded>
+            <dc:title><![CDATA[Astronomers are worried by a satellite brighter than most stars]]></dc:title>
+            <dc:creator>Benjamin Thompson</dc:creator><dc:creator>Nick Petrić Howe</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03132-0</dc:identifier>
+            <dc:source>Nature, Published online: 2023-10-04; | doi:10.1038/d41586-023-03132-0</dc:source>
+            <dc:date>2023-10-04</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03132-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03132-0</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06677-2">
@@ -1240,66 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02934-6</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02934-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02972-0">
-            <title><![CDATA[Master regulator of a mosquito X chromosome discovered]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02972-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 28 September 2023; <a href="https://www.nature.com/articles/d41586-023-02972-0">doi:10.1038/d41586-023-02972-0</a></p>In organisms with X and Y chromosomes, gene expression must be equalized between the sexes. A protein that causes upregulation of gene expression of the X chromosome in male mosquitoes has been discovered.]]></content:encoded>
-            <dc:title><![CDATA[Master regulator of a mosquito X chromosome discovered]]></dc:title>
-            <dc:creator>Maggie P. Lauria Sneideman</dc:creator><dc:creator>Victoria H. Meller</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02972-0</dc:identifier>
-            <dc:source>Nature, Published online: 2023-09-28; | doi:10.1038/d41586-023-02972-0</dc:source>
-            <dc:date>2023-09-28</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02972-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02972-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03074-7">
-            <title><![CDATA[Can AI predict who will win a Nobel Prize?]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03074-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 28 September 2023; <a href="https://www.nature.com/articles/d41586-023-03074-7">doi:10.1038/d41586-023-03074-7</a></p>With a few modifications, ChatGPT-like models could enhance the art of identifying future laureates.]]></content:encoded>
-            <dc:title><![CDATA[Can AI predict who will win a Nobel Prize?]]></dc:title>
-            <dc:creator>Gemma Conroy</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03074-7</dc:identifier>
-            <dc:source>Nature, Published online: 2023-09-28; | doi:10.1038/d41586-023-03074-7</dc:source>
-            <dc:date>2023-09-28</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03074-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03074-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03051-0">
-            <title><![CDATA[How a US government shutdown could disrupt science]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03051-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 28 September 2023; <a href="https://www.nature.com/articles/d41586-023-03051-0">doi:10.1038/d41586-023-03051-0</a></p>Tens of thousands of federal researchers might have to stop work on 1 October — but the shutdown’s effects could ripple well beyond government.]]></content:encoded>
-            <dc:title><![CDATA[How a US government shutdown could disrupt science]]></dc:title>
-            <dc:creator>Jeff Tollefson</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03051-0</dc:identifier>
-            <dc:source>Nature, Published online: 2023-09-28; | doi:10.1038/d41586-023-03051-0</dc:source>
-            <dc:date>2023-09-28</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03051-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03051-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06657-6">
-            <title><![CDATA[Proteome census upon nutrient stress reveals Golgiphagy membrane receptors]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06657-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 27 September 2023; <a href="https://www.nature.com/articles/s41586-023-06657-6">doi:10.1038/s41586-023-06657-6</a></p>Proteome census upon nutrient stress reveals Golgiphagy membrane receptors]]></content:encoded>
-            <dc:title><![CDATA[Proteome census upon nutrient stress reveals Golgiphagy membrane receptors]]></dc:title>
-            <dc:creator>Kelsey L. Hickey</dc:creator><dc:creator>Sharan Swarup</dc:creator><dc:creator>Ian R. Smith</dc:creator><dc:creator>Julia C. Paoli</dc:creator><dc:creator>Enya Miguel Whelan</dc:creator><dc:creator>Joao A. Paulo</dc:creator><dc:creator>J. Wade Harper</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06657-6</dc:identifier>
-            <dc:source>Nature, Published online: 2023-09-27; | doi:10.1038/s41586-023-06657-6</dc:source>
-            <dc:date>2023-09-27</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06657-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06657-6</prism:url>
         </item>
     
 </rdf:RDF>
