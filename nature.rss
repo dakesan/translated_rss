@@ -18,6 +18,10 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03109-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03140-0"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06699-w"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03035-0"/>
@@ -164,10 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03092-5"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03012-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02934-6"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,36 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03109-z">
+            <title><![CDATA[Gene therapies for rare diseases are under threat. Scientists hope to save them]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03109-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 October 2023; <a href="https://www.nature.com/articles/d41586-023-03109-z">doi:10.1038/d41586-023-03109-z</a></p>As industry steps aside, scientists seek innovative ways to make sure expensive treatments can reach people who need them.]]></content:encoded>
+            <dc:title><![CDATA[Gene therapies for rare diseases are under threat. Scientists hope to save them]]></dc:title>
+            <dc:creator>Heidi Ledford</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03109-z</dc:identifier>
+            <dc:source>Nature, Published online: 2023-10-06; | doi:10.1038/d41586-023-03109-z</dc:source>
+            <dc:date>2023-10-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03109-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03109-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03140-0">
+            <title><![CDATA[How to craft a research project with non-academic collaborators]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03140-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 October 2023; <a href="https://www.nature.com/articles/d41586-023-03140-0">doi:10.1038/d41586-023-03140-0</a></p>If you’re working with indigeneous researchers, citizen scientists or local communities, find out about their expectations, including ones around payment and authorship.]]></content:encoded>
+            <dc:title><![CDATA[How to craft a research project with non-academic collaborators]]></dc:title>
+            <dc:creator>Dom Byrne</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03140-0</dc:identifier>
+            <dc:source>Nature, Published online: 2023-10-06; | doi:10.1038/d41586-023-03140-0</dc:source>
+            <dc:date>2023-10-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03140-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03140-0</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06699-w">
             <title><![CDATA[Author Correction: Synthesis of portimines reveals the basis of their anti-cancer activity]]></title>
@@ -208,11 +238,11 @@
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03141-z">
-            <title><![CDATA[Atomic-resolution microscope turned into quantum computer]]></title>
+            <title><![CDATA[Scientists make quantum computer using microscope that moves individual atoms]]></title>
             <link>https://www.nature.com/articles/d41586-023-03141-z</link>
             <content:encoded>
                 <![CDATA[<p>Nature, Published online: 05 October 2023; <a href="https://www.nature.com/articles/d41586-023-03141-z">doi:10.1038/d41586-023-03141-z</a></p>Individual atoms on a surface do their first basic calculation.]]></content:encoded>
-            <dc:title><![CDATA[Atomic-resolution microscope turned into quantum computer]]></dc:title>
+            <dc:title><![CDATA[Scientists make quantum computer using microscope that moves individual atoms]]></dc:title>
             <dc:creator>Davide Castelvecchi</dc:creator>
             <dc:identifier>doi:10.1038/d41586-023-03141-z</dc:identifier>
             <dc:source>Nature, Published online: 2023-10-05; | doi:10.1038/d41586-023-03141-z</dc:source>
@@ -1270,36 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03092-5</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03092-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03012-7">
-            <title><![CDATA[The brain cells linked to protection against dementia]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03012-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 28 September 2023; <a href="https://www.nature.com/articles/d41586-023-03012-7">doi:10.1038/d41586-023-03012-7</a></p>People with an abundance of specific neurons are more likely to escape cognitive decline despite having signs of Alzheimer’s in their brains.]]></content:encoded>
-            <dc:title><![CDATA[The brain cells linked to protection against dementia]]></dc:title>
-            <dc:creator>Sara Reardon</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03012-7</dc:identifier>
-            <dc:source>Nature, Published online: 2023-09-28; | doi:10.1038/d41586-023-03012-7</dc:source>
-            <dc:date>2023-09-28</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03012-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03012-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02934-6">
-            <title><![CDATA[AI predicts how many earthquake aftershocks will strike — and their strength]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02934-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 28 September 2023; <a href="https://www.nature.com/articles/d41586-023-02934-6">doi:10.1038/d41586-023-02934-6</a></p>Models trained on large data sets of seismic events can estimate the number of aftershocks better than conventional models do.]]></content:encoded>
-            <dc:title><![CDATA[AI predicts how many earthquake aftershocks will strike — and their strength]]></dc:title>
-            <dc:creator>Alexandra Witze</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02934-6</dc:identifier>
-            <dc:source>Nature, Published online: 2023-09-28; | doi:10.1038/d41586-023-02934-6</dc:source>
-            <dc:date>2023-09-28</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02934-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02934-6</prism:url>
         </item>
     
 </rdf:RDF>
