@@ -18,9 +18,21 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03037-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03174-4"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03109-z"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03175-3"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03135-x"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03140-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03145-9"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03136-w"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06699-w"/>
                 
@@ -156,18 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03086-3"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06667-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06641-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03011-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03008-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03004-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03092-5"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,36 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03037-y">
+            <title><![CDATA[3D printing tackles tricky materials with help from tiny crystals]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03037-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 October 2023; <a href="https://www.nature.com/articles/d41586-023-03037-y">doi:10.1038/d41586-023-03037-y</a></p>Technique that uses a molecular ‘glue’ allows 3D printing to make objects from challenging materials such as semiconductors.]]></content:encoded>
+            <dc:title><![CDATA[3D printing tackles tricky materials with help from tiny crystals]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-03037-y</dc:identifier>
+            <dc:source>Nature, Published online: 2023-10-06; | doi:10.1038/d41586-023-03037-y</dc:source>
+            <dc:date>2023-10-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03037-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03037-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03174-4">
+            <title><![CDATA['Immense relief': Universe-mapping Euclid telescope fixes problem that threatened mission]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03174-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 October 2023; <a href="https://www.nature.com/articles/d41586-023-03174-4">doi:10.1038/d41586-023-03174-4</a></p>ESA says a software patch restored stability to its new cosmic mapper — but slower operations could extend the mission.]]></content:encoded>
+            <dc:title><![CDATA['Immense relief': Universe-mapping Euclid telescope fixes problem that threatened mission]]></dc:title>
+            <dc:creator>Davide Castelvecchi</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03174-4</dc:identifier>
+            <dc:source>Nature, Published online: 2023-10-06; | doi:10.1038/d41586-023-03174-4</dc:source>
+            <dc:date>2023-10-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03174-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03174-4</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03109-z">
             <title><![CDATA[Gene therapies for rare diseases are under threat. Scientists hope to save them]]></title>
@@ -192,6 +222,36 @@
             <prism:url>https://www.nature.com/articles/d41586-023-03109-z</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03175-3">
+            <title><![CDATA[M. S. Swaminathan (1925–2023), leader of India’s ‘green revolution’]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03175-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 October 2023; <a href="https://www.nature.com/articles/d41586-023-03175-3">doi:10.1038/d41586-023-03175-3</a></p>Agricultural scientist who introduced crops to end famine in India in the 1960s.]]></content:encoded>
+            <dc:title><![CDATA[M. S. Swaminathan (1925–2023), leader of India’s ‘green revolution’]]></dc:title>
+            <dc:creator>Gayathri Vaidyanathan</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03175-3</dc:identifier>
+            <dc:source>Nature, Published online: 2023-10-06; | doi:10.1038/d41586-023-03175-3</dc:source>
+            <dc:date>2023-10-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03175-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03175-3</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03135-x">
+            <title><![CDATA[US science agencies on track to hit 25-year funding low]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03135-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 October 2023; <a href="https://www.nature.com/articles/d41586-023-03135-x">doi:10.1038/d41586-023-03135-x</a></p>Despite last year’s CHIPS and Science Act, which was meant to boost innovation, report predicts that Congress will cut spending on science.]]></content:encoded>
+            <dc:title><![CDATA[US science agencies on track to hit 25-year funding low]]></dc:title>
+            <dc:creator>Jeff Tollefson</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03135-x</dc:identifier>
+            <dc:source>Nature, Published online: 2023-10-06; | doi:10.1038/d41586-023-03135-x</dc:source>
+            <dc:date>2023-10-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03135-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03135-x</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-023-03140-0">
             <title><![CDATA[How to craft a research project with non-academic collaborators]]></title>
             <link>https://www.nature.com/articles/d41586-023-03140-0</link>
@@ -205,6 +265,36 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03140-0</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03140-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03145-9">
+            <title><![CDATA[W. Jason Morgan, discoverer of plate tectonics (1935–2023)]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03145-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 October 2023; <a href="https://www.nature.com/articles/d41586-023-03145-9">doi:10.1038/d41586-023-03145-9</a></p>Geophysicist who showed how segments of Earth’s crust move.]]></content:encoded>
+            <dc:title><![CDATA[W. Jason Morgan, discoverer of plate tectonics (1935–2023)]]></dc:title>
+            <dc:creator>Lawrence M. Cathles</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03145-9</dc:identifier>
+            <dc:source>Nature, Published online: 2023-10-06; | doi:10.1038/d41586-023-03145-9</dc:source>
+            <dc:date>2023-10-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03145-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03145-9</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03136-w">
+            <title><![CDATA[Your brain finds it easy to size up four objects but not five — here’s why]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03136-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 October 2023; <a href="https://www.nature.com/articles/d41586-023-03136-w">doi:10.1038/d41586-023-03136-w</a></p>Neuron activity shows that the brain uses different systems for counting up to four, and for five or more.]]></content:encoded>
+            <dc:title><![CDATA[Your brain finds it easy to size up four objects but not five — here’s why]]></dc:title>
+            <dc:creator>Mariana Lenharo</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03136-w</dc:identifier>
+            <dc:source>Nature, Published online: 2023-10-06; | doi:10.1038/d41586-023-03136-w</dc:source>
+            <dc:date>2023-10-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03136-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03136-w</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06699-w">
@@ -238,11 +328,11 @@
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03141-z">
-            <title><![CDATA[Scientists make quantum computer using microscope that moves individual atoms]]></title>
+            <title><![CDATA[New kind of quantum computer made using high-resolution microscope]]></title>
             <link>https://www.nature.com/articles/d41586-023-03141-z</link>
             <content:encoded>
                 <![CDATA[<p>Nature, Published online: 05 October 2023; <a href="https://www.nature.com/articles/d41586-023-03141-z">doi:10.1038/d41586-023-03141-z</a></p>Individual atoms on a surface do their first basic calculation.]]></content:encoded>
-            <dc:title><![CDATA[Scientists make quantum computer using microscope that moves individual atoms]]></dc:title>
+            <dc:title><![CDATA[New kind of quantum computer made using high-resolution microscope]]></dc:title>
             <dc:creator>Davide Castelvecchi</dc:creator>
             <dc:identifier>doi:10.1038/d41586-023-03141-z</dc:identifier>
             <dc:source>Nature, Published online: 2023-10-05; | doi:10.1038/d41586-023-03141-z</dc:source>
@@ -1210,96 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03086-3</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03086-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06667-4">
-            <title><![CDATA[Enhanced optoelectronic coupling for perovskite-silicon tandem solar cells]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06667-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 28 September 2023; <a href="https://www.nature.com/articles/s41586-023-06667-4">doi:10.1038/s41586-023-06667-4</a></p>Enhanced optoelectronic coupling for perovskite-silicon tandem solar cells]]></content:encoded>
-            <dc:title><![CDATA[Enhanced optoelectronic coupling for perovskite-silicon tandem solar cells]]></dc:title>
-            <dc:creator>Erkan Aydin</dc:creator><dc:creator>Esma Ugur</dc:creator><dc:creator>Bumin K. Yildirim</dc:creator><dc:creator>Thomas G. Allen</dc:creator><dc:creator>Pia Dally</dc:creator><dc:creator>Arsalan Razzaq</dc:creator><dc:creator>Fangfang Cao</dc:creator><dc:creator>Lujia Xu</dc:creator><dc:creator>Badri Vishal</dc:creator><dc:creator>Aren Yazmaciyan</dc:creator><dc:creator>Ahmed A. Said</dc:creator><dc:creator>Shynggys Zhumagali</dc:creator><dc:creator>Randi Azmi</dc:creator><dc:creator>Maxime Babics</dc:creator><dc:creator>Andreas Fell</dc:creator><dc:creator>Chuanxiao Xiao</dc:creator><dc:creator>Stefaan De Wolf</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06667-4</dc:identifier>
-            <dc:source>Nature, Published online: 2023-09-28; | doi:10.1038/s41586-023-06667-4</dc:source>
-            <dc:date>2023-09-28</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06667-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06667-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06641-0">
-            <title><![CDATA[The sex-specific factor SOA controls dosage compensation in <i>Anopheles</i> mosquitos]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06641-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 28 September 2023; <a href="https://www.nature.com/articles/s41586-023-06641-0">doi:10.1038/s41586-023-06641-0</a></p>The sex-specific factor SOA controls dosage compensation in <i>Anopheles</i> mosquitos]]></content:encoded>
-            <dc:title><![CDATA[The sex-specific factor SOA controls dosage compensation in <i>Anopheles</i> mosquitos]]></dc:title>
-            <dc:creator>Agata Izabela Kalita</dc:creator><dc:creator>Eric Marois</dc:creator><dc:creator>Magdalena Kozielska</dc:creator><dc:creator>Franz J. Weissing</dc:creator><dc:creator>Etienne Jaouen</dc:creator><dc:creator>Martin M. Möckel</dc:creator><dc:creator>Frank Rühle</dc:creator><dc:creator>Falk Butter</dc:creator><dc:creator>M. Felicia Basilicata</dc:creator><dc:creator>Claudia Isabelle Keller Valsecchi</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06641-0</dc:identifier>
-            <dc:source>Nature, Published online: 2023-09-28; | doi:10.1038/s41586-023-06641-0</dc:source>
-            <dc:date>2023-09-28</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06641-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06641-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03011-8">
-            <title><![CDATA[Crack this kind of diamond, and it heals itself]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03011-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 28 September 2023; <a href="https://www.nature.com/articles/d41586-023-03011-8">doi:10.1038/d41586-023-03011-8</a></p>Synthetic diamond recovers from fracture when carbon atoms on both sides of the gap form bonds with each other.]]></content:encoded>
-            <dc:title><![CDATA[Crack this kind of diamond, and it heals itself]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-03011-8</dc:identifier>
-            <dc:source>Nature, Published online: 2023-09-28; | doi:10.1038/d41586-023-03011-8</dc:source>
-            <dc:date>2023-09-28</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03011-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03011-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03008-3">
-            <title><![CDATA[The ozone layer’s comeback brings a chill to Antarctica’s ocean]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03008-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 28 September 2023; <a href="https://www.nature.com/articles/d41586-023-03008-3">doi:10.1038/d41586-023-03008-3</a></p>Ozone recovery is predicted to shift westerly winds, which will reduce the amount of warm water flowing into the Southern Ocean.]]></content:encoded>
-            <dc:title><![CDATA[The ozone layer’s comeback brings a chill to Antarctica’s ocean]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-03008-3</dc:identifier>
-            <dc:source>Nature, Published online: 2023-09-28; | doi:10.1038/d41586-023-03008-3</dc:source>
-            <dc:date>2023-09-28</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03008-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03008-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03004-7">
-            <title><![CDATA[Digging up ancient animals in Amazonia]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03004-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 28 September 2023; <a href="https://www.nature.com/articles/d41586-023-03004-7">doi:10.1038/d41586-023-03004-7</a></p>Laurent Marivaux works to identify ancient mammals to understand evolutionary history in South America.]]></content:encoded>
-            <dc:title><![CDATA[Digging up ancient animals in Amazonia]]></dc:title>
-            <dc:creator>Magali Reinert</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03004-7</dc:identifier>
-            <dc:source>Nature, Published online: 2023-09-28; | doi:10.1038/d41586-023-03004-7</dc:source>
-            <dc:date>2023-09-28</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03004-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03004-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03092-5">
-            <title><![CDATA[Daily briefing: Grape DNA reveals the true origins of wine]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03092-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 28 September 2023; <a href="https://www.nature.com/articles/d41586-023-03092-5">doi:10.1038/d41586-023-03092-5</a></p>DNA analysis rewrites the story of where wine came from. Plus, antimatter experiences the same force of gravity as regular matter and how to stop deepfakes from sinking society.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: Grape DNA reveals the true origins of wine]]></dc:title>
-            <dc:creator>Flora Graham</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03092-5</dc:identifier>
-            <dc:source>Nature, Published online: 2023-09-28; | doi:10.1038/d41586-023-03092-5</dc:source>
-            <dc:date>2023-09-28</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03092-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03092-5</prism:url>
         </item>
     
 </rdf:RDF>
