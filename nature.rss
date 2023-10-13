@@ -18,6 +18,20 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03207-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03108-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02973-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03177-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03212-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03192-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02640-3"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03087-2"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03206-z"/>
@@ -154,20 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03141-z"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03044-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02841-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03156-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06611-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06468-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06581-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06600-9"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,111 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03207-y">
+            <title><![CDATA[How to build Moon roads using focused beams of sunlight]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03207-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 12 October 2023; <a href="https://www.nature.com/articles/d41586-023-03207-y">doi:10.1038/d41586-023-03207-y</a></p>Experiments with lasers reveal a way to melt lunar dust into solid paving slabs.]]></content:encoded>
+            <dc:title><![CDATA[How to build Moon roads using focused beams of sunlight]]></dc:title>
+            <dc:creator>Katharine Sanderson</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03207-y</dc:identifier>
+            <dc:source>Nature, Published online: 2023-10-12; | doi:10.1038/d41586-023-03207-y</dc:source>
+            <dc:date>2023-10-12</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03207-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03207-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03108-0">
+            <title><![CDATA[Bamboo gains super strength thanks to an ingredient from within]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03108-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 12 October 2023; <a href="https://www.nature.com/articles/d41586-023-03108-0">doi:10.1038/d41586-023-03108-0</a></p>A component of bamboo itself can be used to bind the plant’s cells to form a strong material — no petrochemical glue needed.]]></content:encoded>
+            <dc:title><![CDATA[Bamboo gains super strength thanks to an ingredient from within]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-03108-0</dc:identifier>
+            <dc:source>Nature, Published online: 2023-10-12; | doi:10.1038/d41586-023-03108-0</dc:source>
+            <dc:date>2023-10-12</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03108-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03108-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02973-z">
+            <title><![CDATA[Mental health: The invisible effects of neglected tropical diseases]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02973-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 12 October 2023; <a href="https://www.nature.com/articles/d41586-023-02973-z">doi:10.1038/d41586-023-02973-z</a></p>The psychological burden of disability and stigma has been overlooked, to the detriment of those affected and their carers.]]></content:encoded>
+            <dc:title><![CDATA[Mental health: The invisible effects of neglected tropical diseases]]></dc:title>
+            <dc:creator>Simon Makin</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02973-z</dc:identifier>
+            <dc:source>Nature, Published online: 2023-10-12; | doi:10.1038/d41586-023-02973-z</dc:source>
+            <dc:date>2023-10-12</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02973-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02973-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03177-1">
+            <title><![CDATA[Reproducibility trial: 246 biologists get different results from same data sets]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03177-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 12 October 2023; <a href="https://www.nature.com/articles/d41586-023-03177-1">doi:10.1038/d41586-023-03177-1</a></p>Wide distribution of findings shows how analytical choices drive conclusions.]]></content:encoded>
+            <dc:title><![CDATA[Reproducibility trial: 246 biologists get different results from same data sets]]></dc:title>
+            <dc:creator>Anil Oza</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03177-1</dc:identifier>
+            <dc:source>Nature, Published online: 2023-10-12; | doi:10.1038/d41586-023-03177-1</dc:source>
+            <dc:date>2023-10-12</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03177-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03177-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03212-1">
+            <title><![CDATA[AI reads text from ancient Herculaneum scroll for the first time]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03212-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 12 October 2023; <a href="https://www.nature.com/articles/d41586-023-03212-1">doi:10.1038/d41586-023-03212-1</a></p>Machine-learning technique reveals Greek words in CT scans of rolled-up papyrus.]]></content:encoded>
+            <dc:title><![CDATA[AI reads text from ancient Herculaneum scroll for the first time]]></dc:title>
+            <dc:creator>Jo Marchant</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03212-1</dc:identifier>
+            <dc:source>Nature, Published online: 2023-10-12; | doi:10.1038/d41586-023-03212-1</dc:source>
+            <dc:date>2023-10-12</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03212-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03212-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03192-2">
+            <title><![CDATA[This is the largest map of the human brain ever made]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03192-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 12 October 2023; <a href="https://www.nature.com/articles/d41586-023-03192-2">doi:10.1038/d41586-023-03192-2</a></p>Researchers catalogue more than 3,000 different types of cell in our most complex organ.]]></content:encoded>
+            <dc:title><![CDATA[This is the largest map of the human brain ever made]]></dc:title>
+            <dc:creator>Gemma Conroy</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03192-2</dc:identifier>
+            <dc:source>Nature, Published online: 2023-10-12; | doi:10.1038/d41586-023-03192-2</dc:source>
+            <dc:date>2023-10-12</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03192-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03192-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02640-3">
+            <title><![CDATA[<i>Clostridioides difficile</i> infection drives neuronal inflammation]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02640-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 12 October 2023; <a href="https://www.nature.com/articles/d41586-023-02640-3">doi:10.1038/d41586-023-02640-3</a></p>Infection by the bacterium Clostridioides difficile can be fatal in a clinical setting. Insights into the molecular mechanisms underlying such infection might offer targets for the search to develop new treatments.]]></content:encoded>
+            <dc:title><![CDATA[<i>Clostridioides difficile</i> infection drives neuronal inflammation]]></dc:title>
+            <dc:creator>Klaus  Aktories</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02640-3</dc:identifier>
+            <dc:source>Nature, Published online: 2023-10-12; | doi:10.1038/d41586-023-02640-3</dc:source>
+            <dc:date>2023-10-12</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02640-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02640-3</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03087-2">
             <title><![CDATA[Climate and conservation science persevere in the face of major challenges]]></title>
@@ -613,11 +718,11 @@
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03178-0">
-            <title><![CDATA[“Incredible” asteroid sample ferried to Earth is rich in the building blocks of life]]></title>
+            <title><![CDATA[‘Incredible’ asteroid sample ferried to Earth is rich in the building blocks of life]]></title>
             <link>https://www.nature.com/articles/d41586-023-03178-0</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 11 October 2023; <a href="https://www.nature.com/articles/d41586-023-03178-0">doi:10.1038/d41586-023-03178-0</a></p>Samples of asteroid Bennu delivered by the OSIRIS-REx mission include carbon, water and other ingredients of the primordial Solar System.]]></content:encoded>
-            <dc:title><![CDATA[“Incredible” asteroid sample ferried to Earth is rich in the building blocks of life]]></dc:title>
+                <![CDATA[<p>Nature, Published online: 11 October 2023; <a href="https://www.nature.com/articles/d41586-023-03178-0">doi:10.1038/d41586-023-03178-0</a></p>Samples of asteroid Bennu delivered by the OSIRIS-REx mission contain carbon, water and other ingredients from the primordial Solar System.]]></content:encoded>
+            <dc:title><![CDATA[‘Incredible’ asteroid sample ferried to Earth is rich in the building blocks of life]]></dc:title>
             <dc:creator>Alexandra Witze</dc:creator>
             <dc:identifier>doi:10.1038/d41586-023-03178-0</dc:identifier>
             <dc:source>Nature, Published online: 2023-10-11; | doi:10.1038/d41586-023-03178-0</dc:source>
@@ -1195,111 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03141-z</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03141-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03044-z">
-            <title><![CDATA[‘In case I die, I need to publish this paper’: scientist who left the lab to fight in Ukraine]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03044-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 05 October 2023; <a href="https://www.nature.com/articles/d41586-023-03044-z">doi:10.1038/d41586-023-03044-z</a></p>Neuroscientist Sergiy Sylantyev tells Nature that science and war cannot be separated.]]></content:encoded>
-            <dc:title><![CDATA[‘In case I die, I need to publish this paper’: scientist who left the lab to fight in Ukraine]]></dc:title>
-            <dc:creator>Layal  Liverpool</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03044-z</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-05; | doi:10.1038/d41586-023-03044-z</dc:source>
-            <dc:date>2023-10-05</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03044-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03044-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02841-w">
-            <title><![CDATA[South Korean scientists’ outcry over planned R&amp;D budget cuts]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02841-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 05 October 2023; <a href="https://www.nature.com/articles/d41586-023-02841-w">doi:10.1038/d41586-023-02841-w</a></p>In a nation with historically high levels of spending on research and development, the proposed cuts have provoked a strong response.]]></content:encoded>
-            <dc:title><![CDATA[South Korean scientists’ outcry over planned R&amp;D budget cuts]]></dc:title>
-            <dc:creator>Sara Reardon</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02841-w</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-05; | doi:10.1038/d41586-023-02841-w</dc:source>
-            <dc:date>2023-10-05</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02841-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02841-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03156-6">
-            <title><![CDATA[Daily briefing: Cats purr without muscles or brain input]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03156-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 05 October 2023; <a href="https://www.nature.com/articles/d41586-023-03156-6">doi:10.1038/d41586-023-03156-6</a></p>Domestic cats’ voice boxes can sustain purring sound without requiring input from muscles or the brain. Plus, researchers have a rare opportunity to make progress in protecting global biodiversity and rings of RNA could be the next blockbuster drug.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: Cats purr without muscles or brain input]]></dc:title>
-            <dc:creator>Flora Graham</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03156-6</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-05; | doi:10.1038/d41586-023-03156-6</dc:source>
-            <dc:date>2023-10-05</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03156-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03156-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06611-6">
-            <title><![CDATA[An extra-erythrocyte role of haemoglobin body in chondrocyte hypoxia adaption]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06611-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 04 October 2023; <a href="https://www.nature.com/articles/s41586-023-06611-6">doi:10.1038/s41586-023-06611-6</a></p>Haemoglobin produced by chondrocytes forms eosin-positive haemoglobin bodies in their cytoplasm, and deletion of these bodies causes severe hypoxia.]]></content:encoded>
-            <dc:title><![CDATA[An extra-erythrocyte role of haemoglobin body in chondrocyte hypoxia adaption]]></dc:title>
-            <dc:creator>Feng Zhang</dc:creator><dc:creator>Bo Zhang</dc:creator><dc:creator>Yuying Wang</dc:creator><dc:creator>Runmin Jiang</dc:creator><dc:creator>Jin Liu</dc:creator><dc:creator>Yuexian Wei</dc:creator><dc:creator>Xinyue Gao</dc:creator><dc:creator>Yichao Zhu</dc:creator><dc:creator>Xinli Wang</dc:creator><dc:creator>Mao Sun</dc:creator><dc:creator>Junjun Kang</dc:creator><dc:creator>Yingying Liu</dc:creator><dc:creator>Guoxing You</dc:creator><dc:creator>Ding Wei</dc:creator><dc:creator>Jiajia Xin</dc:creator><dc:creator>Junxiang Bao</dc:creator><dc:creator>Meiqing Wang</dc:creator><dc:creator>Yu Gu</dc:creator><dc:creator>Zhe Wang</dc:creator><dc:creator>Jing Ye</dc:creator><dc:creator>Shuangping Guo</dc:creator><dc:creator>Hongyan Huang</dc:creator><dc:creator>Qiang Sun</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06611-6</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-04; | doi:10.1038/s41586-023-06611-6</dc:source>
-            <dc:date>2023-10-04</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06611-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06611-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06468-9">
-            <title><![CDATA[Global evidence of rapid urban growth in flood zones since 1985]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06468-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 04 October 2023; <a href="https://www.nature.com/articles/s41586-023-06468-9">doi:10.1038/s41586-023-06468-9</a></p>Analysis of high-resolution annual data shows that global human settlements have expanded continuously and rapidly into flood zones, with those in the most hazardous zones increasing by 122% from 1985 to 2015.]]></content:encoded>
-            <dc:title><![CDATA[Global evidence of rapid urban growth in flood zones since 1985]]></dc:title>
-            <dc:creator>Jun Rentschler</dc:creator><dc:creator>Paolo Avner</dc:creator><dc:creator>Mattia Marconcini</dc:creator><dc:creator>Rui Su</dc:creator><dc:creator>Emanuele Strano</dc:creator><dc:creator>Michalis Vousdoukas</dc:creator><dc:creator>Stéphane Hallegatte</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06468-9</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-04; | doi:10.1038/s41586-023-06468-9</dc:source>
-            <dc:date>2023-10-04</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06468-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06468-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06581-9">
-            <title><![CDATA[Rock organic carbon oxidation CO<sub>2</sub> release offsets silicate weathering sink]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06581-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 04 October 2023; <a href="https://www.nature.com/articles/s41586-023-06581-9">doi:10.1038/s41586-023-06581-9</a></p>Silicate weathering of uplifted rock depletes atmospheric CO2, but oxidation of revealed rock organic carbon supplies CO2, offsetting depletion to a degree dependent on regional geological history.]]></content:encoded>
-            <dc:title><![CDATA[Rock organic carbon oxidation CO<sub>2</sub> release offsets silicate weathering sink]]></dc:title>
-            <dc:creator>Jesse R. Zondervan</dc:creator><dc:creator>Robert G. Hilton</dc:creator><dc:creator>Mathieu Dellinger</dc:creator><dc:creator>Fiona J. Clubb</dc:creator><dc:creator>Tobias Roylands</dc:creator><dc:creator>Mateja Ogrič</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06581-9</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-04; | doi:10.1038/s41586-023-06581-9</dc:source>
-            <dc:date>2023-10-04</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06581-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06581-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06600-9">
-            <title><![CDATA[Assembly theory explains and quantifies selection and evolution]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06600-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 04 October 2023; <a href="https://www.nature.com/articles/s41586-023-06600-9">doi:10.1038/s41586-023-06600-9</a></p>Assembly theory conceptualizes objects as entities defined by their possible formation histories, allowing a unified language for describing selection, evolution and the generation of novelty.]]></content:encoded>
-            <dc:title><![CDATA[Assembly theory explains and quantifies selection and evolution]]></dc:title>
-            <dc:creator>Abhishek Sharma</dc:creator><dc:creator>Dániel Czégel</dc:creator><dc:creator>Michael Lachmann</dc:creator><dc:creator>Christopher P. Kempes</dc:creator><dc:creator>Sara I. Walker</dc:creator><dc:creator>Leroy Cronin</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06600-9</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-04; | doi:10.1038/s41586-023-06600-9</dc:source>
-            <dc:date>2023-10-04</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06600-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06600-9</prism:url>
         </item>
     
 </rdf:RDF>
