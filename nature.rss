@@ -18,6 +18,8 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03106-2"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06695-0"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06703-3"/>
@@ -166,8 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03194-0"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03163-7"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,21 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03106-2">
+            <title><![CDATA[Snowbanks are set to get whiter — offsetting climate change’s effects]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03106-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 14 October 2023; <a href="https://www.nature.com/articles/d41586-023-03106-2">doi:10.1038/d41586-023-03106-2</a></p>Projected decreases in soot deposition mean that Northern Hemisphere snow will be more reflective and thus less prone to melting before 2100.]]></content:encoded>
+            <dc:title><![CDATA[Snowbanks are set to get whiter — offsetting climate change’s effects]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-03106-2</dc:identifier>
+            <dc:source>Nature, Published online: 2023-10-14; | doi:10.1038/d41586-023-03106-2</dc:source>
+            <dc:date>2023-10-14</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03106-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03106-2</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06695-0">
             <title><![CDATA[Author Correction: Child wasting and concurrent stunting in low- and middle-income countries]]></title>
@@ -1285,21 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03194-0</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03194-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03163-7">
-            <title><![CDATA[Postdoc career optimism rebounds after COVID in global <i>Nature</i> survey]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03163-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 09 October 2023; <a href="https://www.nature.com/articles/d41586-023-03163-7">doi:10.1038/d41586-023-03163-7</a></p>Postdoctoral researchers still feel as though they are academia’s drudge labourers, but have more confidence about job prospects in a post-pandemic world.]]></content:encoded>
-            <dc:title><![CDATA[Postdoc career optimism rebounds after COVID in global <i>Nature</i> survey]]></dc:title>
-            <dc:creator>Linda Nordling</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03163-7</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-09; | doi:10.1038/d41586-023-03163-7</dc:source>
-            <dc:date>2023-10-09</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03163-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03163-7</prism:url>
         </item>
     
 </rdf:RDF>
