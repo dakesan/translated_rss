@@ -18,6 +18,12 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03220-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03240-x"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03225-w"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03221-0"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03233-w"/>
@@ -39,6 +45,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03229-6"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03239-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03260-7"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06744-8"/>
                 
@@ -160,14 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03088-1"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02931-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03178-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03213-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03090-7"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,51 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03220-1">
+            <title><![CDATA[Hope rises that a vaccine can shield people with HIV from a deadly threat]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03220-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 18 October 2023; <a href="https://www.nature.com/articles/d41586-023-03220-1">doi:10.1038/d41586-023-03220-1</a></p>Tests on monkeys with a simian version of the virus show that the BCG vaccine provides protection against the bacterium that causes TB.]]></content:encoded>
+            <dc:title><![CDATA[Hope rises that a vaccine can shield people with HIV from a deadly threat]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-03220-1</dc:identifier>
+            <dc:source>Nature, Published online: 2023-10-18; | doi:10.1038/d41586-023-03220-1</dc:source>
+            <dc:date>2023-10-18</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03220-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03220-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03240-x">
+            <title><![CDATA[Carl Sagan’s audacious search for Earth has lessons for science today]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03240-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 18 October 2023; <a href="https://www.nature.com/articles/d41586-023-03240-x">doi:10.1038/d41586-023-03240-x</a></p>The test 30 years ago of what remote sensing could tell us about our own planet shows the value of looking with unbiased eyes at what we think we already know.]]></content:encoded>
+            <dc:title><![CDATA[Carl Sagan’s audacious search for Earth has lessons for science today]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-03240-x</dc:identifier>
+            <dc:source>Nature, Published online: 2023-10-18; | doi:10.1038/d41586-023-03240-x</dc:source>
+            <dc:date>2023-10-18</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03240-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03240-x</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03225-w">
+            <title><![CDATA[Long COVID research risks losing momentum – we need a moonshot]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03225-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 18 October 2023; <a href="https://www.nature.com/articles/d41586-023-03225-w">doi:10.1038/d41586-023-03225-w</a></p>Investing US$1 billion every year for the next ten years into long COVID research could improve the lives of millions and save trillions in economic costs.]]></content:encoded>
+            <dc:title><![CDATA[Long COVID research risks losing momentum – we need a moonshot]]></dc:title>
+            <dc:creator>Lisa  McCorkell</dc:creator><dc:creator>Michael J.  Peluso</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03225-w</dc:identifier>
+            <dc:source>Nature, Published online: 2023-10-18; | doi:10.1038/d41586-023-03225-w</dc:source>
+            <dc:date>2023-10-18</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03225-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03225-w</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03221-0">
             <title><![CDATA[A mystery source of pollution fouling the Great Barrier Reef is found at last]]></title>
@@ -340,6 +385,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03239-4</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03239-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03260-7">
+            <title><![CDATA[Daily briefing: ‘Milkshake brain’ — why we gravitate towards fatty foods]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03260-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 17 October 2023; <a href="https://www.nature.com/articles/d41586-023-03260-7">doi:10.1038/d41586-023-03260-7</a></p>A brain area helps to guide our eating behaviour by responding to the smooth texture of milkshakes and other rich options. Plus, first evidence that Neanderthals hunted cave lions and Carl Sagan’s groundbreaking plan to search for life on Earth.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: ‘Milkshake brain’ — why we gravitate towards fatty foods]]></dc:title>
+            <dc:creator>Katrina Krämer</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03260-7</dc:identifier>
+            <dc:source>Nature, Published online: 2023-10-17; | doi:10.1038/d41586-023-03260-7</dc:source>
+            <dc:date>2023-10-17</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03260-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03260-7</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06744-8">
@@ -1240,66 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03088-1</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03088-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02931-9">
-            <title><![CDATA[Learn from the past to predict viral pandemics]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02931-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 11 October 2023; <a href="https://www.nature.com/articles/d41586-023-02931-9">doi:10.1038/d41586-023-02931-9</a></p>The COVID-19 pandemic highlighted the need to understand the emergence of viral variants, given that these can have implications for vaccination success. A bioinformatics tool offers a way to predict viral evolution.]]></content:encoded>
-            <dc:title><![CDATA[Learn from the past to predict viral pandemics]]></dc:title>
-            <dc:creator>Nash D. Rochman</dc:creator><dc:creator>Eugene V. Koonin</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02931-9</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-11; | doi:10.1038/d41586-023-02931-9</dc:source>
-            <dc:date>2023-10-11</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02931-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02931-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03178-0">
-            <title><![CDATA[‘Incredible’ asteroid sample ferried to Earth is rich in the building blocks of life]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03178-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 11 October 2023; <a href="https://www.nature.com/articles/d41586-023-03178-0">doi:10.1038/d41586-023-03178-0</a></p>Samples of asteroid Bennu delivered by the OSIRIS-REx mission contain carbon, water and other ingredients from the primordial Solar System.]]></content:encoded>
-            <dc:title><![CDATA[‘Incredible’ asteroid sample ferried to Earth is rich in the building blocks of life]]></dc:title>
-            <dc:creator>Alexandra Witze</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03178-0</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-11; | doi:10.1038/d41586-023-03178-0</dc:source>
-            <dc:date>2023-10-11</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03178-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03178-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03213-0">
-            <title><![CDATA[Daily briefing: Fossilized footprints show people’s first steps into the Americas]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03213-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 11 October 2023; <a href="https://www.nature.com/articles/d41586-023-03213-0">doi:10.1038/d41586-023-03213-0</a></p>Human footprints might be the oldest direct evidence that people lived in the Americas thousands of years earlier than thought. Plus, gene editing makes chickens flu-resistant and how to lower the risk of a Nipah virus pandemic.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: Fossilized footprints show people’s first steps into the Americas]]></dc:title>
-            <dc:creator>Flora Graham</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03213-0</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-11; | doi:10.1038/d41586-023-03213-0</dc:source>
-            <dc:date>2023-10-11</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03213-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03213-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03090-7">
-            <title><![CDATA[Achieving UN climate goals needs purposeful, persistent action from science]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03090-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 11 October 2023; <a href="https://www.nature.com/articles/d41586-023-03090-7">doi:10.1038/d41586-023-03090-7</a></p>To contribute fully to the Sustainable Development Goals, global research must change gear.]]></content:encoded>
-            <dc:title><![CDATA[Achieving UN climate goals needs purposeful, persistent action from science]]></dc:title>
-            <dc:creator>James Mitchell Crow</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03090-7</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-11; | doi:10.1038/d41586-023-03090-7</dc:source>
-            <dc:date>2023-10-11</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03090-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03090-7</prism:url>
         </item>
     
 </rdf:RDF>
