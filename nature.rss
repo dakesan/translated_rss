@@ -18,11 +18,17 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03221-0"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03233-w"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03231-y"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03232-x"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03157-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03244-7"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03072-9"/>
                 
@@ -31,6 +37,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03150-y"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03229-6"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03239-4"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06744-8"/>
                 
@@ -160,14 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03090-7"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03201-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03206-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03173-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02817-w"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,21 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03221-0">
+            <title><![CDATA[A mystery source of pollution fouling the Great Barrier Reef is found at last]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03221-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 17 October 2023; <a href="https://www.nature.com/articles/d41586-023-03221-0">doi:10.1038/d41586-023-03221-0</a></p>Nutrient-laced groundwater seeping up through the sea bed adds to an excess of nitrogen and phosphorus threatening the ecosystem.]]></content:encoded>
+            <dc:title><![CDATA[A mystery source of pollution fouling the Great Barrier Reef is found at last]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-03221-0</dc:identifier>
+            <dc:source>Nature, Published online: 2023-10-17; | doi:10.1038/d41586-023-03221-0</dc:source>
+            <dc:date>2023-10-17</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03221-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03221-0</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03233-w">
             <title><![CDATA[Making conventional farming more biodiversity friendly]]></title>
@@ -220,6 +235,36 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03232-x</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03232-x</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03157-5">
+            <title><![CDATA[From the archive: animal behaviour, and Darwin discusses organ loss]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03157-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 17 October 2023; <a href="https://www.nature.com/articles/d41586-023-03157-5">doi:10.1038/d41586-023-03157-5</a></p>Snippets from Nature’s past.]]></content:encoded>
+            <dc:title><![CDATA[From the archive: animal behaviour, and Darwin discusses organ loss]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-03157-5</dc:identifier>
+            <dc:source>Nature, Published online: 2023-10-17; | doi:10.1038/d41586-023-03157-5</dc:source>
+            <dc:date>2023-10-17</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03157-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03157-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03244-7">
+            <title><![CDATA[Smell loss from COVID fades quickly with help of new pill]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03244-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 17 October 2023; <a href="https://www.nature.com/articles/d41586-023-03244-7">doi:10.1038/d41586-023-03244-7</a></p>The antiviral drug ensitrelvir eases both smell and taste loss, and is one of the few COVID-19 drugs available to people not at high risk of grave illness.]]></content:encoded>
+            <dc:title><![CDATA[Smell loss from COVID fades quickly with help of new pill]]></dc:title>
+            <dc:creator>Mariana Lenharo</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03244-7</dc:identifier>
+            <dc:source>Nature, Published online: 2023-10-17; | doi:10.1038/d41586-023-03244-7</dc:source>
+            <dc:date>2023-10-17</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03244-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03244-7</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03072-9">
@@ -280,6 +325,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03229-6</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03229-6</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03239-4">
+            <title><![CDATA[How to share data — not just equally, but equitably]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03239-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 17 October 2023; <a href="https://www.nature.com/articles/d41586-023-03239-4">doi:10.1038/d41586-023-03239-4</a></p>Just as with many natural resources, wealthy countries have been extracting scientific data from poorer nations for centuries. Researchers are changing that.]]></content:encoded>
+            <dc:title><![CDATA[How to share data — not just equally, but equitably]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-03239-4</dc:identifier>
+            <dc:source>Nature, Published online: 2023-10-17; | doi:10.1038/d41586-023-03239-4</dc:source>
+            <dc:date>2023-10-17</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03239-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03239-4</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06744-8">
@@ -1240,66 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03090-7</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03090-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03201-4">
-            <title><![CDATA[How AlphaFold and other AI tools could help us prepare for the next pandemic]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03201-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 11 October 2023; <a href="https://www.nature.com/articles/d41586-023-03201-4">doi:10.1038/d41586-023-03201-4</a></p>Researchers are using machine-learning programs to predict the evolution of viruses and design vaccines.]]></content:encoded>
-            <dc:title><![CDATA[How AlphaFold and other AI tools could help us prepare for the next pandemic]]></dc:title>
-            <dc:creator>Ewen Callaway</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03201-4</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-11; | doi:10.1038/d41586-023-03201-4</dc:source>
-            <dc:date>2023-10-11</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03201-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03201-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03206-z">
-            <title><![CDATA[Gene edits move pig organs closer to human transplantation]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03206-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 11 October 2023; <a href="https://www.nature.com/articles/d41586-023-03206-z">doi:10.1038/d41586-023-03206-z</a></p>Monkeys with CRISPR-edited pig kidneys survive for more than a year, and why our brains struggle to count more than four objects.]]></content:encoded>
-            <dc:title><![CDATA[Gene edits move pig organs closer to human transplantation]]></dc:title>
-            <dc:creator>Benjamin Thompson</dc:creator><dc:creator>Shamini Bundell</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03206-z</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-11; | doi:10.1038/d41586-023-03206-z</dc:source>
-            <dc:date>2023-10-11</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03206-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03206-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03173-5">
-            <title><![CDATA[Half a million children die of malaria every year. Finally we can change that]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03173-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 11 October 2023; <a href="https://www.nature.com/articles/d41586-023-03173-5">doi:10.1038/d41586-023-03173-5</a></p>With two vaccines available, this killer disease could now be eliminated — but will the world pull together to make it happen?]]></content:encoded>
-            <dc:title><![CDATA[Half a million children die of malaria every year. Finally we can change that]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-03173-5</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-11; | doi:10.1038/d41586-023-03173-5</dc:source>
-            <dc:date>2023-10-11</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03173-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03173-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02817-w">
-            <title><![CDATA[Pig-to-primate organ transplants require genetic modifications of donor]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02817-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 11 October 2023; <a href="https://www.nature.com/articles/d41586-023-02817-w">doi:10.1038/d41586-023-02817-w</a></p>A raft of alterations to the pig genome — removing three antigen-encoding genes, adding seven human genes and eliminating a retrovirus — allows kidneys to be transplanted into monkeys, with implications for clinical trials.]]></content:encoded>
-            <dc:title><![CDATA[Pig-to-primate organ transplants require genetic modifications of donor]]></dc:title>
-            <dc:creator>Muhammad M. Mohiuddin</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02817-w</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-11; | doi:10.1038/d41586-023-02817-w</dc:source>
-            <dc:date>2023-10-11</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02817-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02817-w</prism:url>
         </item>
     
 </rdf:RDF>
