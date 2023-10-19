@@ -18,6 +18,10 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03277-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03263-4"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03223-y"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03252-7"/>
@@ -67,6 +71,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06623-2"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03148-6"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03273-2"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03179-z"/>
                 
@@ -162,12 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03241-w"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03246-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03183-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03207-y"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,36 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03277-y">
+            <title><![CDATA[AI could be an opportunity for research managers]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03277-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 19 October 2023; <a href="https://www.nature.com/articles/d41586-023-03277-y">doi:10.1038/d41586-023-03277-y</a></p>The head of Europe’s main body for research-management professionals talks about the impact of artificial intelligence and the continued battle for recognition for those supporting scientists’ work.]]></content:encoded>
+            <dc:title><![CDATA[AI could be an opportunity for research managers]]></dc:title>
+            <dc:creator>Simon Baker</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03277-y</dc:identifier>
+            <dc:source>Nature, Published online: 2023-10-19; | doi:10.1038/d41586-023-03277-y</dc:source>
+            <dc:date>2023-10-19</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03277-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03277-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03263-4">
+            <title><![CDATA[NIH director hearing highlights science’s politicization in wake of COVID pandemic]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03263-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 19 October 2023; <a href="https://www.nature.com/articles/d41586-023-03263-4">doi:10.1038/d41586-023-03263-4</a></p>Monica Bertagnolli, nominee for the biomedical agency’s top job, fields questions from US senators about how she will rebuild trust in science.]]></content:encoded>
+            <dc:title><![CDATA[NIH director hearing highlights science’s politicization in wake of COVID pandemic]]></dc:title>
+            <dc:creator>Max Kozlov</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03263-4</dc:identifier>
+            <dc:source>Nature, Published online: 2023-10-19; | doi:10.1038/d41586-023-03263-4</dc:source>
+            <dc:date>2023-10-19</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03263-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03263-4</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03223-y">
             <title><![CDATA[Fossilized skull shows that early bats had modern sonar]]></title>
@@ -552,6 +582,21 @@
             <prism:url>https://www.nature.com/articles/d41586-023-03148-6</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03273-2">
+            <title><![CDATA[Daily briefing: COVID drug helps to bring back sense of smell]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03273-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 18 October 2023; <a href="https://www.nature.com/articles/d41586-023-03273-2">doi:10.1038/d41586-023-03273-2</a></p>An antiviral helps smell and taste return more quickly COVID infection. Plus, how to share data equitably and how lost varieties could unlock better apples.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: COVID drug helps to bring back sense of smell]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03273-2</dc:identifier>
+            <dc:source>Nature, Published online: 2023-10-18; | doi:10.1038/d41586-023-03273-2</dc:source>
+            <dc:date>2023-10-18</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03273-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03273-2</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-023-03179-z">
             <title><![CDATA[Meet the unsung scientists behind the Nobel for quantum dots]]></title>
             <link>https://www.nature.com/articles/d41586-023-03179-z</link>
@@ -613,11 +658,11 @@
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03250-9">
-            <title><![CDATA[Greenland's massive ice sheet is melting — here's how to save it]]></title>
+            <title><![CDATA[Greenland’s massive ice sheet is melting — here’s how to save it]]></title>
             <link>https://www.nature.com/articles/d41586-023-03250-9</link>
             <content:encoded>
                 <![CDATA[<p>Nature, Published online: 18 October 2023; <a href="https://www.nature.com/articles/d41586-023-03250-9">doi:10.1038/d41586-023-03250-9</a></p>The ice sheet could experience runaway melting if the world overshoots climate targets, but even then quick action could stabilize it.]]></content:encoded>
-            <dc:title><![CDATA[Greenland's massive ice sheet is melting — here's how to save it]]></dc:title>
+            <dc:title><![CDATA[Greenland’s massive ice sheet is melting — here’s how to save it]]></dc:title>
             <dc:creator>Alexandra Witze</dc:creator>
             <dc:identifier>doi:10.1038/d41586-023-03250-9</dc:identifier>
             <dc:source>Nature, Published online: 2023-10-18; | doi:10.1038/d41586-023-03250-9</dc:source>
@@ -1255,51 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03241-w</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03241-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03246-5">
-            <title><![CDATA[Daily briefing: Words detected inside ancient Roman scrolls sealed by Mount Vesuvius eruption]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03246-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 October 2023; <a href="https://www.nature.com/articles/d41586-023-03246-5">doi:10.1038/d41586-023-03246-5</a></p>A student has cracked a method for reading charred, unopenable scrolls from the ancient Roman city of Herculaneum. Plus, how to build Moon roads using focused beams of sunlight, and the largest-ever atlas of the human brain.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: Words detected inside ancient Roman scrolls sealed by Mount Vesuvius eruption]]></dc:title>
-            <dc:creator>Flora Graham</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03246-5</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-13; | doi:10.1038/d41586-023-03246-5</dc:source>
-            <dc:date>2023-10-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03246-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03246-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03183-3">
-            <title><![CDATA[Anti-obesity drugs’ side effects: what we know so far]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03183-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 October 2023; <a href="https://www.nature.com/articles/d41586-023-03183-3">doi:10.1038/d41586-023-03183-3</a></p>Recent studies evaluate risks associated with drugs such as Wegovy and Mounjaro.]]></content:encoded>
-            <dc:title><![CDATA[Anti-obesity drugs’ side effects: what we know so far]]></dc:title>
-            <dc:creator>Mariana Lenharo</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03183-3</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-13; | doi:10.1038/d41586-023-03183-3</dc:source>
-            <dc:date>2023-10-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03183-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03183-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03207-y">
-            <title><![CDATA[How to build Moon roads using focused beams of sunlight]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03207-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 12 October 2023; <a href="https://www.nature.com/articles/d41586-023-03207-y">doi:10.1038/d41586-023-03207-y</a></p>Experiments with lasers reveal a way to melt lunar dust into solid paving slabs.]]></content:encoded>
-            <dc:title><![CDATA[How to build Moon roads using focused beams of sunlight]]></dc:title>
-            <dc:creator>Katharine Sanderson</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03207-y</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-12; | doi:10.1038/d41586-023-03207-y</dc:source>
-            <dc:date>2023-10-12</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03207-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03207-y</prism:url>
         </item>
     
 </rdf:RDF>
