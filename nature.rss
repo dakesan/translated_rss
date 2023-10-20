@@ -18,6 +18,14 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03264-3"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02894-x"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03266-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03267-0"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03277-y"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03263-4"/>
@@ -160,14 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03219-8"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03238-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03165-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03208-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03241-w"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,66 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03264-3">
+            <title><![CDATA[This fast radio burst took 8 billion years to reach Earth]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03264-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 19 October 2023; <a href="https://www.nature.com/articles/d41586-023-03264-3">doi:10.1038/d41586-023-03264-3</a></p>The bright flash has cosmologists adjusting their models on how such intergalactic energy behaves.]]></content:encoded>
+            <dc:title><![CDATA[This fast radio burst took 8 billion years to reach Earth]]></dc:title>
+            <dc:creator>Gemma Conroy</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03264-3</dc:identifier>
+            <dc:source>Nature, Published online: 2023-10-19; | doi:10.1038/d41586-023-03264-3</dc:source>
+            <dc:date>2023-10-19</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03264-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03264-3</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-02894-x">
+            <title><![CDATA[AI tidies up Wikipedia’s references — and boosts reliability]]></title>
+            <link>https://www.nature.com/articles/d41586-023-02894-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 19 October 2023; <a href="https://www.nature.com/articles/d41586-023-02894-x">doi:10.1038/d41586-023-02894-x</a></p>A neural network can identify references that are unlikely to support an article’s claims, and scour the web for better sources.]]></content:encoded>
+            <dc:title><![CDATA[AI tidies up Wikipedia’s references — and boosts reliability]]></dc:title>
+            <dc:creator>Chris Stokel-Walker</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-02894-x</dc:identifier>
+            <dc:source>Nature, Published online: 2023-10-19; | doi:10.1038/d41586-023-02894-x</dc:source>
+            <dc:date>2023-10-19</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-02894-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-02894-x</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03266-1">
+            <title><![CDATA[Living guidelines for generative AI — why scientists must oversee its use]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03266-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 19 October 2023; <a href="https://www.nature.com/articles/d41586-023-03266-1">doi:10.1038/d41586-023-03266-1</a></p>Establish an independent scientific body to test and certify generative artificial intelligence, before the technology damages science and public trust.]]></content:encoded>
+            <dc:title><![CDATA[Living guidelines for generative AI — why scientists must oversee its use]]></dc:title>
+            <dc:creator>Claudi L.  Bockting</dc:creator><dc:creator>Eva A. M.  van Dis</dc:creator><dc:creator>Robert  van Rooij</dc:creator><dc:creator>Willem  Zuidema</dc:creator><dc:creator>Johan  Bollen</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03266-1</dc:identifier>
+            <dc:source>Nature, Published online: 2023-10-19; | doi:10.1038/d41586-023-03266-1</dc:source>
+            <dc:date>2023-10-19</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03266-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03266-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03267-0">
+            <title><![CDATA[‘Mind-blowing’ IBM chip speeds up AI]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03267-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 19 October 2023; <a href="https://www.nature.com/articles/d41586-023-03267-0">doi:10.1038/d41586-023-03267-0</a></p>IBM’s NorthPole processor sidesteps need to access external memory, boosting computing power and saving energy.]]></content:encoded>
+            <dc:title><![CDATA[‘Mind-blowing’ IBM chip speeds up AI]]></dc:title>
+            <dc:creator>Davide Castelvecchi</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03267-0</dc:identifier>
+            <dc:source>Nature, Published online: 2023-10-19; | doi:10.1038/d41586-023-03267-0</dc:source>
+            <dc:date>2023-10-19</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03267-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03267-0</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03277-y">
             <title><![CDATA[AI could be an opportunity for research managers]]></title>
@@ -193,11 +253,11 @@
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03263-4">
-            <title><![CDATA[NIH director hearing highlights science’s politicization in wake of COVID pandemic]]></title>
+            <title><![CDATA[How to rebuild trust in science: NIH director nominee fields questions]]></title>
             <link>https://www.nature.com/articles/d41586-023-03263-4</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 19 October 2023; <a href="https://www.nature.com/articles/d41586-023-03263-4">doi:10.1038/d41586-023-03263-4</a></p>Monica Bertagnolli, nominee for the biomedical agency’s top job, fields questions from US senators about how she will rebuild trust in science.]]></content:encoded>
-            <dc:title><![CDATA[NIH director hearing highlights science’s politicization in wake of COVID pandemic]]></dc:title>
+                <![CDATA[<p>Nature, Published online: 19 October 2023; <a href="https://www.nature.com/articles/d41586-023-03263-4">doi:10.1038/d41586-023-03263-4</a></p>US senators grilled Monica Bertagnolli during a hearing over her plans for the National Institutes of Health, including how she will repair the agency’s reputation.]]></content:encoded>
+            <dc:title><![CDATA[How to rebuild trust in science: NIH director nominee fields questions]]></dc:title>
             <dc:creator>Max Kozlov</dc:creator>
             <dc:identifier>doi:10.1038/d41586-023-03263-4</dc:identifier>
             <dc:source>Nature, Published online: 2023-10-19; | doi:10.1038/d41586-023-03263-4</dc:source>
@@ -298,11 +358,11 @@
         </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06590-8">
-            <title><![CDATA[Highest terrestial <sup>3</sup>He/<sup>4</sup>He credibly from the core]]></title>
+            <title><![CDATA[Highest terrestrial <sup>3</sup>He/<sup>4</sup>He credibly from the core]]></title>
             <link>https://www.nature.com/articles/s41586-023-06590-8</link>
             <content:encoded>
                 <![CDATA[<p>Nature, Published online: 18 October 2023; <a href="https://www.nature.com/articles/s41586-023-06590-8">doi:10.1038/s41586-023-06590-8</a></p>Olivines from Baffin Island lavas have the highest magmatic 3He/4He ratio measured so far in terrestrial igneous rocks, indicating that the helium in these lavas might derive from Earth’s core.]]></content:encoded>
-            <dc:title><![CDATA[Highest terrestial <sup>3</sup>He/<sup>4</sup>He credibly from the core]]></dc:title>
+            <dc:title><![CDATA[Highest terrestrial <sup>3</sup>He/<sup>4</sup>He credibly from the core]]></dc:title>
             <dc:creator>F. Horton</dc:creator><dc:creator>P. D. Asimow</dc:creator><dc:creator>K. A. Farley</dc:creator><dc:creator>J. Curtice</dc:creator><dc:creator>M. D. Kurz</dc:creator><dc:creator>J. Blusztajn</dc:creator><dc:creator>J. A. Biasi</dc:creator><dc:creator>X. M. Boyes</dc:creator>
             <dc:identifier>doi:10.1038/s41586-023-06590-8</dc:identifier>
             <dc:source>Nature, Published online: 2023-10-18; | doi:10.1038/s41586-023-06590-8</dc:source>
@@ -1096,7 +1156,7 @@
             <title><![CDATA[Soft-landing methods aim to simplify structural biology]]></title>
             <link>https://www.nature.com/articles/d41586-023-03236-7</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 16 October 2023; <a href="https://www.nature.com/articles/d41586-023-03236-7">doi:10.1038/d41586-023-03236-7</a></p>Linking mass spectroscopy with cryo-electron microscopy could transform understanding of complex protein structures — if scientists can show that samples remain intact when they hit their target.]]></content:encoded>
+                <![CDATA[<p>Nature, Published online: 16 October 2023; <a href="https://www.nature.com/articles/d41586-023-03236-7">doi:10.1038/d41586-023-03236-7</a></p>Linking mass spectrometry with cryo-electron microscopy could transform understanding of complex protein structures — if scientists can show that samples remain intact when they hit their target.]]></content:encoded>
             <dc:title><![CDATA[Soft-landing methods aim to simplify structural biology]]></dc:title>
             <dc:creator>Michael Eisenstein</dc:creator>
             <dc:identifier>doi:10.1038/d41586-023-03236-7</dc:identifier>
@@ -1240,66 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03219-8</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03219-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03238-5">
-            <title><![CDATA[ChatGPT use shows that the grant-application system is broken]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03238-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 October 2023; <a href="https://www.nature.com/articles/d41586-023-03238-5">doi:10.1038/d41586-023-03238-5</a></p>The fact that artificial intelligence can do much of the work makes a mockery of the process. It’s time to make it easier for scientists to ask for research funding.]]></content:encoded>
-            <dc:title><![CDATA[ChatGPT use shows that the grant-application system is broken]]></dc:title>
-            <dc:creator>Juan Manuel  Parrilla</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03238-5</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-13; | doi:10.1038/d41586-023-03238-5</dc:source>
-            <dc:date>2023-10-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03238-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03238-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03165-5">
-            <title><![CDATA[NASA’s Psyche mission is on its way to this huge metal asteroid]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03165-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 October 2023; <a href="https://www.nature.com/articles/d41586-023-03165-5">doi:10.1038/d41586-023-03165-5</a></p>The space rock — possibly the exposed core of a planet that didn’t finish forming — could reveal details about the Solar System’s origins.]]></content:encoded>
-            <dc:title><![CDATA[NASA’s Psyche mission is on its way to this huge metal asteroid]]></dc:title>
-            <dc:creator>Alexandra Witze</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03165-5</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-13; | doi:10.1038/d41586-023-03165-5</dc:source>
-            <dc:date>2023-10-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03165-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03165-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03208-x">
-            <title><![CDATA[Astronomy society revises harassment policy after outcry]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03208-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 October 2023; <a href="https://www.nature.com/articles/d41586-023-03208-x">doi:10.1038/d41586-023-03208-x</a></p>The International Astronomical Union clarified changes to its code of conduct after researchers voiced concern that it protected harassers.]]></content:encoded>
-            <dc:title><![CDATA[Astronomy society revises harassment policy after outcry]]></dc:title>
-            <dc:creator>Sarah Wild</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03208-x</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-13; | doi:10.1038/d41586-023-03208-x</dc:source>
-            <dc:date>2023-10-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03208-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03208-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03241-w">
-            <title><![CDATA[I advocate an African research agenda for African development]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03241-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 October 2023; <a href="https://www.nature.com/articles/d41586-023-03241-w">doi:10.1038/d41586-023-03241-w</a></p>As Uganda’s science minister, Monica Musenero pushes to connect scientific research to economic development in her country and her continent.]]></content:encoded>
-            <dc:title><![CDATA[I advocate an African research agenda for African development]]></dc:title>
-            <dc:creator>Christopher Bendana</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03241-w</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-13; | doi:10.1038/d41586-023-03241-w</dc:source>
-            <dc:date>2023-10-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03241-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03241-w</prism:url>
         </item>
     
 </rdf:RDF>
