@@ -18,11 +18,15 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03287-w"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03264-3"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02894-x"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03266-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03294-x"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03267-0"/>
                 
@@ -164,10 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03105-3"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03030-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03219-8"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,21 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03287-w">
+            <title><![CDATA[Campus surveillance: students and professors decry sensors in buildings]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03287-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 20 October 2023; <a href="https://www.nature.com/articles/d41586-023-03287-w">doi:10.1038/d41586-023-03287-w</a></p>Privacy campaigners fear that the devices could be used for disciplinary purposes, and some universities have deactivated them after protests.]]></content:encoded>
+            <dc:title><![CDATA[Campus surveillance: students and professors decry sensors in buildings]]></dc:title>
+            <dc:creator>Anne Gulland </dc:creator><dc:creator>Fayth Tan</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03287-w</dc:identifier>
+            <dc:source>Nature, Published online: 2023-10-20; | doi:10.1038/d41586-023-03287-w</dc:source>
+            <dc:date>2023-10-20</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03287-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03287-w</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03264-3">
             <title><![CDATA[This fast radio burst took 8 billion years to reach Earth]]></title>
@@ -220,6 +235,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03266-1</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03266-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03294-x">
+            <title><![CDATA[Daily briefing: Sleeping people can still follow simple commands]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03294-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 19 October 2023; <a href="https://www.nature.com/articles/d41586-023-03294-x">doi:10.1038/d41586-023-03294-x</a></p>Deep sleep doesn’t cut us off from the outside world as much as scientists had thought. Plus, the Greenland ice sheet can be saved if we claw back global temperatures and meet the unsung scientists behind Nobel-prizewinning quantum dots.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Sleeping people can still follow simple commands]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03294-x</dc:identifier>
+            <dc:source>Nature, Published online: 2023-10-19; | doi:10.1038/d41586-023-03294-x</dc:source>
+            <dc:date>2023-10-19</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03294-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03294-x</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03267-0">
@@ -1270,36 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03105-3</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03105-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03030-5">
-            <title><![CDATA[Australia’s feral horses need ‘urgent’ control: scientists welcome latest report]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03030-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 October 2023; <a href="https://www.nature.com/articles/d41586-023-03030-5">doi:10.1038/d41586-023-03030-5</a></p>Ecologists have praised government recommendations, but some say more concrete action — including a cull — is needed.]]></content:encoded>
-            <dc:title><![CDATA[Australia’s feral horses need ‘urgent’ control: scientists welcome latest report]]></dc:title>
-            <dc:creator>Dyani Lewis</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03030-5</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-13; | doi:10.1038/d41586-023-03030-5</dc:source>
-            <dc:date>2023-10-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03030-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03030-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03219-8">
-            <title><![CDATA[Could new ‘narrative’ CVs transform research culture?]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03219-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 October 2023; <a href="https://www.nature.com/articles/d41586-023-03219-8">doi:10.1038/d41586-023-03219-8</a></p>Funders are turning to a format that probes societal impact and acknowledges contributions from non-academic colleagues.]]></content:encoded>
-            <dc:title><![CDATA[Could new ‘narrative’ CVs transform research culture?]]></dc:title>
-            <dc:creator>Dom Byrne</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03219-8</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-13; | doi:10.1038/d41586-023-03219-8</dc:source>
-            <dc:date>2023-10-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03219-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03219-8</prism:url>
         </item>
     
 </rdf:RDF>
