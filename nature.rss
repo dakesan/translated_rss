@@ -18,6 +18,8 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03289-8"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06755-5"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06748-4"/>
@@ -166,8 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06695-0"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06703-3"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,21 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03289-8">
+            <title><![CDATA[Scientist deliberately gave women Zika — here’s why]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03289-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 21 October 2023; <a href="https://www.nature.com/articles/d41586-023-03289-8">doi:10.1038/d41586-023-03289-8</a></p>‘Human challenge’ results suggest that such trials could be used to test vaccines when Zika incidence is low.]]></content:encoded>
+            <dc:title><![CDATA[Scientist deliberately gave women Zika — here’s why]]></dc:title>
+            <dc:creator>Mariana Lenharo</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03289-8</dc:identifier>
+            <dc:source>Nature, Published online: 2023-10-21; | doi:10.1038/d41586-023-03289-8</dc:source>
+            <dc:date>2023-10-21</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03289-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03289-8</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06755-5">
             <title><![CDATA[Publisher Correction: Inhibition of fatty acid oxidation enables heart regeneration in adult mice]]></title>
@@ -1285,21 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/s41586-023-06695-0</prism:doi>
             <prism:url>https://www.nature.com/articles/s41586-023-06695-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06703-3">
-            <title><![CDATA[Author Correction: Early-childhood linear growth faltering in low- and middle-income countries]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06703-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 October 2023; <a href="https://www.nature.com/articles/s41586-023-06703-3">doi:10.1038/s41586-023-06703-3</a></p>Author Correction: Early-childhood linear growth faltering in low- and middle-income countries]]></content:encoded>
-            <dc:title><![CDATA[Author Correction: Early-childhood linear growth faltering in low- and middle-income countries]]></dc:title>
-            <dc:creator>Jade Benjamin-Chung</dc:creator><dc:creator>Andrew Mertens</dc:creator><dc:creator>John M. Colford Jr</dc:creator><dc:creator>Alan E. Hubbard</dc:creator><dc:creator>Mark J. van der Laan</dc:creator><dc:creator>Jeremy Coyle</dc:creator><dc:creator>Oleg Sofrygin</dc:creator><dc:creator>Wilson Cai</dc:creator><dc:creator>Anna Nguyen</dc:creator><dc:creator>Nolan N. Pokpongkiat</dc:creator><dc:creator>Stephanie Djajadi</dc:creator><dc:creator>Anmol Seth</dc:creator><dc:creator>Wendy Jilek</dc:creator><dc:creator>Esther Jung</dc:creator><dc:creator>Esther O. Chung</dc:creator><dc:creator>Sonali Rosete</dc:creator><dc:creator>Nima Hejazi</dc:creator><dc:creator>Ivana Malenica</dc:creator><dc:creator>Haodong Li</dc:creator><dc:creator>Ryan Hafen</dc:creator><dc:creator>Vishak Subramoney</dc:creator><dc:creator>Jonas Häggström</dc:creator><dc:creator>Thea Norman</dc:creator><dc:creator>Kenneth H. Brown</dc:creator><dc:creator>Parul Christian</dc:creator><dc:creator>Benjamin F. Arnold</dc:creator><dc:creator>Souheila Abbeddou</dc:creator><dc:creator>Linda S. Adair</dc:creator><dc:creator>Tahmeed Ahmed</dc:creator><dc:creator>Asad Ali</dc:creator><dc:creator>Hasmot Ali</dc:creator><dc:creator>Per Ashorn</dc:creator><dc:creator>Rajiv Bahl</dc:creator><dc:creator>Mauricio L. Barreto</dc:creator><dc:creator>France Begín</dc:creator><dc:creator>Pascal Obong Bessong</dc:creator><dc:creator>Maharaj Kishan Bhan</dc:creator><dc:creator>Nita Bhandari</dc:creator><dc:creator>Santosh K. Bhargava</dc:creator><dc:creator>Zulfiqar A. Bhutta</dc:creator><dc:creator>Robert E. Black</dc:creator><dc:creator>Ladaporn Bodhidatta</dc:creator><dc:creator>Delia Carba</dc:creator><dc:creator>Ines Gonzalez Casanova</dc:creator><dc:creator>William Checkley</dc:creator><dc:creator>Jean E. Crabtree</dc:creator><dc:creator>Kathryn G. Dewey</dc:creator><dc:creator>Christopher P. Duggan</dc:creator><dc:creator>Caroline H. D. Fall</dc:creator><dc:creator>Abu Syed Golam Faruque</dc:creator><dc:creator>Wafaie W. Fawzi</dc:creator><dc:creator>José Quirino da Silva Filho</dc:creator><dc:creator>Robert H. Gilman</dc:creator><dc:creator>Richard L. Guerrant</dc:creator><dc:creator>Rashidul Haque</dc:creator><dc:creator>Sonja Y. Hess</dc:creator><dc:creator>Eric R. Houpt</dc:creator><dc:creator>Jean H. Humphrey</dc:creator><dc:creator>Najeeha Talat Iqbal</dc:creator><dc:creator>Elizabeth Yakes Jimenez</dc:creator><dc:creator>Jacob John</dc:creator><dc:creator>Sushil Matthew John</dc:creator><dc:creator>Gagandeep Kang</dc:creator><dc:creator>Margaret Kosek</dc:creator><dc:creator>Michael S. Kramer</dc:creator><dc:creator>Alain Labrique</dc:creator><dc:creator>Nanette R. Lee</dc:creator><dc:creator>Aldo Ângelo Moreira Lima</dc:creator><dc:creator>Mustafa Mahfuz</dc:creator><dc:creator>Tjale Cloupas Mahopo</dc:creator><dc:creator>Kenneth Maleta</dc:creator><dc:creator>Dharma S. Manandhar</dc:creator><dc:creator>Karim P. Manji</dc:creator><dc:creator>Reynaldo Martorell</dc:creator><dc:creator>Sarmila Mazumder</dc:creator><dc:creator>Estomih Mduma</dc:creator><dc:creator>Venkata Raghava Mohan</dc:creator><dc:creator>Sophie E. Moore</dc:creator><dc:creator>Ishita Mostafa</dc:creator><dc:creator>Robert Ntozini</dc:creator><dc:creator>Mzwakhe Emanuel Nyathi</dc:creator><dc:creator>Maribel Paredes Olortegui</dc:creator><dc:creator>William A. Petri</dc:creator><dc:creator>Prasanna Samuel Premkumar</dc:creator><dc:creator>Andrew M. Prentice</dc:creator><dc:creator>Najeeb Rahman</dc:creator><dc:creator>Harshpal Singh Sachdev</dc:creator><dc:creator>Kamran Sadiq</dc:creator><dc:creator>Rajiv Sarkar</dc:creator><dc:creator>Naomi M. Saville</dc:creator><dc:creator>Saijuddin Shaikh</dc:creator><dc:creator>Bhim P. Shrestha</dc:creator><dc:creator>Sanjaya Kumar Shrestha</dc:creator><dc:creator>Alberto Melo Soares</dc:creator><dc:creator>Bakary Sonko</dc:creator><dc:creator>Aryeh D. Stein</dc:creator><dc:creator>Erling Svensen</dc:creator><dc:creator>Sana Syed</dc:creator><dc:creator>Fayaz Umrani</dc:creator><dc:creator>Honorine D. Ward</dc:creator><dc:creator>Keith P. West Jr</dc:creator><dc:creator>Lee Shu Fune Wu</dc:creator><dc:creator>Seungmi Yang</dc:creator><dc:creator>Pablo Penataro Yori</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06703-3</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-13; | doi:10.1038/s41586-023-06703-3</dc:source>
-            <dc:date>2023-10-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06703-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06703-3</prism:url>
         </item>
     
 </rdf:RDF>
