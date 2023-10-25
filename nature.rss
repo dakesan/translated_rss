@@ -18,6 +18,12 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03322-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03301-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03290-1"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03313-x"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03158-4"/>
@@ -27,6 +33,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03279-w"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03312-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03327-5"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03299-6"/>
                 
@@ -160,14 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03098-z"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03133-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03256-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03221-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03233-w"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,51 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03322-w">
+            <title><![CDATA[African researchers’ work is being overlooked — here’s how to change that]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03322-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 25 October 2023; <a href="https://www.nature.com/articles/d41586-023-03322-w">doi:10.1038/d41586-023-03322-w</a></p>The continent’s scientists see opportunities in international collaborations that are rooted in Africa, rather than originating in Europe and North America.]]></content:encoded>
+            <dc:title><![CDATA[African researchers’ work is being overlooked — here’s how to change that]]></dc:title>
+            <dc:creator>Munyaradzi  Makoni</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03322-w</dc:identifier>
+            <dc:source>Nature, Published online: 2023-10-25; | doi:10.1038/d41586-023-03322-w</dc:source>
+            <dc:date>2023-10-25</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03322-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03322-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03301-1">
+            <title><![CDATA[Staring at the Sun — close-up images from space rewrite solar science]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03301-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 25 October 2023; <a href="https://www.nature.com/articles/d41586-023-03301-1">doi:10.1038/d41586-023-03301-1</a></p>Researchers have never had such detailed views of our nearest star.]]></content:encoded>
+            <dc:title><![CDATA[Staring at the Sun — close-up images from space rewrite solar science]]></dc:title>
+            <dc:creator>Alexandra Witze</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03301-1</dc:identifier>
+            <dc:source>Nature, Published online: 2023-10-25; | doi:10.1038/d41586-023-03301-1</dc:source>
+            <dc:date>2023-10-25</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03301-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03301-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03290-1">
+            <title><![CDATA[Japanese research no longer world class — here's why]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03290-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 25 October 2023; <a href="https://www.nature.com/articles/d41586-023-03290-1">doi:10.1038/d41586-023-03290-1</a></p>Despite a strong workforce, Japan’s research continues to slide down the indicators of quality.]]></content:encoded>
+            <dc:title><![CDATA[Japanese research no longer world class — here's why]]></dc:title>
+            <dc:creator>Anna Ikarashi</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03290-1</dc:identifier>
+            <dc:source>Nature, Published online: 2023-10-25; | doi:10.1038/d41586-023-03290-1</dc:source>
+            <dc:date>2023-10-25</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03290-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03290-1</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03313-x">
             <title><![CDATA[Britain and Ireland’s largest lake is dying in plain sight]]></title>
@@ -250,6 +295,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03312-y</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03312-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03327-5">
+            <title><![CDATA[Daily briefing: Severe COVID linked to bad fungal microbiome]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03327-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 24 October 2023; <a href="https://www.nature.com/articles/d41586-023-03327-5">doi:10.1038/d41586-023-03327-5</a></p>An imbalance of fungi in the gut could contribute to excessive inflammation in people with severe COVID-19. Plus, mummified mice reveal mammals’ unexpected survival skills and the Moon could be 40 million years older than we thought.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Severe COVID linked to bad fungal microbiome]]></dc:title>
+            <dc:creator>Katrina Krämer</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03327-5</dc:identifier>
+            <dc:source>Nature, Published online: 2023-10-24; | doi:10.1038/d41586-023-03327-5</dc:source>
+            <dc:date>2023-10-24</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03327-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03327-5</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03299-6">
@@ -358,11 +418,11 @@
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03298-7">
-            <title><![CDATA[Postdocs are organizing to obtain better pay and working conditions — that can only be a good thing]]></title>
+            <title><![CDATA[Postdocs are pushing back against low pay and conditions — more institutions must take heed]]></title>
             <link>https://www.nature.com/articles/d41586-023-03298-7</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 24 October 2023; <a href="https://www.nature.com/articles/d41586-023-03298-7">doi:10.1038/d41586-023-03298-7</a></p>The issues of low pay, job insecurity and a lack of career progression are well known. Now, postdocs are demanding change.]]></content:encoded>
-            <dc:title><![CDATA[Postdocs are organizing to obtain better pay and working conditions — that can only be a good thing]]></dc:title>
+                <![CDATA[<p>Nature, Published online: 24 October 2023; <a href="https://www.nature.com/articles/d41586-023-03298-7">doi:10.1038/d41586-023-03298-7</a></p>Postdoctoral dissatisfaction about pay, job security and career progression cannot continue. Institutions must up their game or risk losing the next generation.]]></content:encoded>
+            <dc:title><![CDATA[Postdocs are pushing back against low pay and conditions — more institutions must take heed]]></dc:title>
             
             <dc:identifier>doi:10.1038/d41586-023-03298-7</dc:identifier>
             <dc:source>Nature, Published online: 2023-10-24; | doi:10.1038/d41586-023-03298-7</dc:source>
@@ -1240,66 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03098-z</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03098-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03133-z">
-            <title><![CDATA[Viruses use RNA decoys to thwart CRISPR defences]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03133-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 18 October 2023; <a href="https://www.nature.com/articles/d41586-023-03133-z">doi:10.1038/d41586-023-03133-z</a></p>Bacteria and archaea are microorganisms that often use RNA-guided defences called CRISPR to destroy the genomes of viruses that infect them. It now emerges that viruses make RNAs that act as mimics to divert such defences.]]></content:encoded>
-            <dc:title><![CDATA[Viruses use RNA decoys to thwart CRISPR defences]]></dc:title>
-            <dc:creator>Carolyn  Kraus</dc:creator><dc:creator>Erik J.   Sontheimer</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03133-z</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-18; | doi:10.1038/d41586-023-03133-z</dc:source>
-            <dc:date>2023-10-18</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03133-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03133-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03256-3">
-            <title><![CDATA[How the current bird flu strain evolved to be so deadly]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03256-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 18 October 2023; <a href="https://www.nature.com/articles/d41586-023-03256-3">doi:10.1038/d41586-023-03256-3</a></p>Genetic changes to avian influenza viruses have led to spread among many wild species, creating an uncontrollable global outbreak.]]></content:encoded>
-            <dc:title><![CDATA[How the current bird flu strain evolved to be so deadly]]></dc:title>
-            <dc:creator>Miryam Naddaf</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03256-3</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-18; | doi:10.1038/d41586-023-03256-3</dc:source>
-            <dc:date>2023-10-18</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03256-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03256-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03221-0">
-            <title><![CDATA[A mystery source of pollution fouling the Great Barrier Reef is found at last]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03221-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 17 October 2023; <a href="https://www.nature.com/articles/d41586-023-03221-0">doi:10.1038/d41586-023-03221-0</a></p>Nutrient-laced groundwater seeping up through the sea bed adds to an excess of nitrogen and phosphorus threatening the ecosystem.]]></content:encoded>
-            <dc:title><![CDATA[A mystery source of pollution fouling the Great Barrier Reef is found at last]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-03221-0</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-17; | doi:10.1038/d41586-023-03221-0</dc:source>
-            <dc:date>2023-10-17</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03221-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03221-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03233-w">
-            <title><![CDATA[Making conventional farming more biodiversity friendly]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03233-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 17 October 2023; <a href="https://www.nature.com/articles/d41586-023-03233-w">doi:10.1038/d41586-023-03233-w</a></p>Making conventional farming more biodiversity friendly]]></content:encoded>
-            <dc:title><![CDATA[Making conventional farming more biodiversity friendly]]></dc:title>
-            <dc:creator>Tobias  Kuemmerle</dc:creator><dc:creator>Patrick  Meyfroidt</dc:creator><dc:creator>Florence  Pendrill</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03233-w</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-17; | doi:10.1038/d41586-023-03233-w</dc:source>
-            <dc:date>2023-10-17</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03233-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03233-w</prism:url>
         </item>
     
 </rdf:RDF>
