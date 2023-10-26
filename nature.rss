@@ -72,6 +72,8 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03301-1"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03344-4"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02797-x"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03085-4"/>
@@ -165,8 +167,6 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03277-y"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03263-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03223-y"/>
                 
             </rdf:Seq>
         </items>
@@ -580,6 +580,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03301-1</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03301-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03344-4">
+            <title><![CDATA[Daily briefing: Postdocs in their thirties express unhappiness with careers]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03344-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 25 October 2023; <a href="https://www.nature.com/articles/d41586-023-03344-4">doi:10.1038/d41586-023-03344-4</a></p>Postdocs in their thirties are less happy in their careers, overall, than are their peers in their twenties. Plus, ancient rock carvings exposed by severe drought and how the Israel–Hamas war affects scientists.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Postdocs in their thirties express unhappiness with careers]]></dc:title>
+            <dc:creator>Katrina Krämer</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03344-4</dc:identifier>
+            <dc:source>Nature, Published online: 2023-10-25; | doi:10.1038/d41586-023-03344-4</dc:source>
+            <dc:date>2023-10-25</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03344-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03344-4</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-02797-x">
@@ -1285,21 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03263-4</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03263-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03223-y">
-            <title><![CDATA[Fossilized skull shows that early bats had modern sonar]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03223-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 18 October 2023; <a href="https://www.nature.com/articles/d41586-023-03223-y">doi:10.1038/d41586-023-03223-y</a></p>Remains suggest that ancient bats used the same form of echolocation as species flying the skies now.]]></content:encoded>
-            <dc:title><![CDATA[Fossilized skull shows that early bats had modern sonar]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-03223-y</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-18; | doi:10.1038/d41586-023-03223-y</dc:source>
-            <dc:date>2023-10-18</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03223-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03223-y</prism:url>
         </item>
     
 </rdf:RDF>
