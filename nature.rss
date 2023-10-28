@@ -18,6 +18,8 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03317-7"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03357-z"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03388-6"/>
@@ -166,8 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03289-8"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06755-5"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,21 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03317-7">
+            <title><![CDATA[Is CRISPR safe? Genome editing gets its first FDA scrutiny]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03317-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 October 2023; <a href="https://www.nature.com/articles/d41586-023-03317-7">doi:10.1038/d41586-023-03317-7</a></p>Advisors to the US regulatory agency will examine the safety profile of a CRISPR-based treatment for sickle-cell disease.]]></content:encoded>
+            <dc:title><![CDATA[Is CRISPR safe? Genome editing gets its first FDA scrutiny]]></dc:title>
+            <dc:creator>Heidi Ledford</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03317-7</dc:identifier>
+            <dc:source>Nature, Published online: 2023-10-28; | doi:10.1038/d41586-023-03317-7</dc:source>
+            <dc:date>2023-10-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03317-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03317-7</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03357-z">
             <title><![CDATA[Thrilling volcanoes, astonishing beetles and numbers made material: Books in brief]]></title>
@@ -1285,21 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03289-8</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03289-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06755-5">
-            <title><![CDATA[Publisher Correction: Inhibition of fatty acid oxidation enables heart regeneration in adult mice]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06755-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 20 October 2023; <a href="https://www.nature.com/articles/s41586-023-06755-5">doi:10.1038/s41586-023-06755-5</a></p>Publisher Correction: Inhibition of fatty acid oxidation enables heart regeneration in adult mice]]></content:encoded>
-            <dc:title><![CDATA[Publisher Correction: Inhibition of fatty acid oxidation enables heart regeneration in adult mice]]></dc:title>
-            <dc:creator>Xiang Li</dc:creator><dc:creator>Fan Wu</dc:creator><dc:creator>Stefan Günther</dc:creator><dc:creator>Mario Looso</dc:creator><dc:creator>Carsten Kuenne</dc:creator><dc:creator>Ting Zhang</dc:creator><dc:creator>Marion Wiesnet</dc:creator><dc:creator>Stephan Klatt</dc:creator><dc:creator>Sven Zukunft</dc:creator><dc:creator>Ingrid Fleming</dc:creator><dc:creator>Gernot Poschet</dc:creator><dc:creator>Astrid Wietelmann</dc:creator><dc:creator>Ann Atzberger</dc:creator><dc:creator>Michael Potente</dc:creator><dc:creator>Xuejun Yuan</dc:creator><dc:creator>Thomas Braun</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06755-5</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-20; | doi:10.1038/s41586-023-06755-5</dc:source>
-            <dc:date>2023-10-20</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06755-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06755-5</prism:url>
         </item>
     
 </rdf:RDF>
