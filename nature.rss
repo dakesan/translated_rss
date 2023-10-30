@@ -18,6 +18,8 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03335-5"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03317-7"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03357-z"/>
@@ -166,8 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03295-w"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03289-8"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -177,11 +177,26 @@
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03335-5">
+            <title><![CDATA[Consciousness: what it is, where it comes from — and whether machines can have it]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03335-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 30 October 2023; <a href="https://www.nature.com/articles/d41586-023-03335-5">doi:10.1038/d41586-023-03335-5</a></p>To understand where artificial intelligence might be heading, we must first understand what consciousness, the self and free will mean in ourselves.]]></content:encoded>
+            <dc:title><![CDATA[Consciousness: what it is, where it comes from — and whether machines can have it]]></dc:title>
+            <dc:creator>Liad Mudrik</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03335-5</dc:identifier>
+            <dc:source>Nature, Published online: 2023-10-30; | doi:10.1038/d41586-023-03335-5</dc:source>
+            <dc:date>2023-10-30</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03335-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03335-5</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-023-03317-7">
             <title><![CDATA[Is CRISPR safe? Genome editing gets its first FDA scrutiny]]></title>
             <link>https://www.nature.com/articles/d41586-023-03317-7</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 28 October 2023; <a href="https://www.nature.com/articles/d41586-023-03317-7">doi:10.1038/d41586-023-03317-7</a></p>Advisors to the US regulatory agency will examine the safety profile of a CRISPR-based treatment for sickle-cell disease.]]></content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 October 2023; <a href="https://www.nature.com/articles/d41586-023-03317-7">doi:10.1038/d41586-023-03317-7</a></p>Advisers to the US regulatory agency will examine the safety profile of a CRISPR-based treatment for sickle-cell disease.]]></content:encoded>
             <dc:title><![CDATA[Is CRISPR safe? Genome editing gets its first FDA scrutiny]]></dc:title>
             <dc:creator>Heidi Ledford</dc:creator>
             <dc:identifier>doi:10.1038/d41586-023-03317-7</dc:identifier>
@@ -1285,21 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03295-w</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03295-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03289-8">
-            <title><![CDATA[Scientists deliberately gave women Zika — here’s why]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03289-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 21 October 2023; <a href="https://www.nature.com/articles/d41586-023-03289-8">doi:10.1038/d41586-023-03289-8</a></p>‘Human challenge’ results suggest that such trials could be used to test vaccines when Zika incidence is low.]]></content:encoded>
-            <dc:title><![CDATA[Scientists deliberately gave women Zika — here’s why]]></dc:title>
-            <dc:creator>Mariana Lenharo</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03289-8</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-21; | doi:10.1038/d41586-023-03289-8</dc:source>
-            <dc:date>2023-10-21</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03289-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03289-8</prism:url>
         </item>
     
 </rdf:RDF>
