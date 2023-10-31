@@ -18,6 +18,16 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03350-6"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03349-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03347-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03348-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03342-6"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06779-x"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03257-2"/>
@@ -158,16 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03321-x"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03300-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03298-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03296-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06750-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06745-7"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,81 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03350-6">
+            <title><![CDATA[Crop yields: speed up delivery of promising genes]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03350-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 31 October 2023; <a href="https://www.nature.com/articles/d41586-023-03350-6">doi:10.1038/d41586-023-03350-6</a></p>Crop yields: speed up delivery of promising genes]]></content:encoded>
+            <dc:title><![CDATA[Crop yields: speed up delivery of promising genes]]></dc:title>
+            <dc:creator>Guan Zhang</dc:creator><dc:creator>Qingyu Wu</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03350-6</dc:identifier>
+            <dc:source>Nature, Published online: 2023-10-31; | doi:10.1038/d41586-023-03350-6</dc:source>
+            <dc:date>2023-10-31</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03350-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03350-6</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03349-z">
+            <title><![CDATA[Gaza’s broken health-care system is compounding the risk of disease]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03349-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 31 October 2023; <a href="https://www.nature.com/articles/d41586-023-03349-z">doi:10.1038/d41586-023-03349-z</a></p>Gaza’s broken health-care system is compounding the risk of disease]]></content:encoded>
+            <dc:title><![CDATA[Gaza’s broken health-care system is compounding the risk of disease]]></dc:title>
+            <dc:creator>Ru’a Rimawi</dc:creator><dc:creator>Navid Madani</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03349-z</dc:identifier>
+            <dc:source>Nature, Published online: 2023-10-31; | doi:10.1038/d41586-023-03349-z</dc:source>
+            <dc:date>2023-10-31</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03349-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03349-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03347-1">
+            <title><![CDATA[Africa: include community healers in health policies]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03347-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 31 October 2023; <a href="https://www.nature.com/articles/d41586-023-03347-1">doi:10.1038/d41586-023-03347-1</a></p>Africa: include community healers in health policies]]></content:encoded>
+            <dc:title><![CDATA[Africa: include community healers in health policies]]></dc:title>
+            <dc:creator>Luís Cordeiro-Rodrigues</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03347-1</dc:identifier>
+            <dc:source>Nature, Published online: 2023-10-31; | doi:10.1038/d41586-023-03347-1</dc:source>
+            <dc:date>2023-10-31</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03347-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03347-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03348-0">
+            <title><![CDATA[US universities must tackle their huge carbon footprints]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03348-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 31 October 2023; <a href="https://www.nature.com/articles/d41586-023-03348-0">doi:10.1038/d41586-023-03348-0</a></p>US universities must tackle their huge carbon footprints]]></content:encoded>
+            <dc:title><![CDATA[US universities must tackle their huge carbon footprints]]></dc:title>
+            <dc:creator>Mark O. Huising</dc:creator><dc:creator>Adam R. Aron</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03348-0</dc:identifier>
+            <dc:source>Nature, Published online: 2023-10-31; | doi:10.1038/d41586-023-03348-0</dc:source>
+            <dc:date>2023-10-31</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03348-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03348-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03342-6">
+            <title><![CDATA[Open-access reformers launch next bold publishing plan]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03342-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 31 October 2023; <a href="https://www.nature.com/articles/d41586-023-03342-6">doi:10.1038/d41586-023-03342-6</a></p>The group behind Plan S has already accelerated the open-access movement. Now it is proposing a more radical revolution for science publishing.]]></content:encoded>
+            <dc:title><![CDATA[Open-access reformers launch next bold publishing plan]]></dc:title>
+            <dc:creator>Layal Liverpool</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03342-6</dc:identifier>
+            <dc:source>Nature, Published online: 2023-10-31; | doi:10.1038/d41586-023-03342-6</dc:source>
+            <dc:date>2023-10-31</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03342-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03342-6</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06779-x">
             <title><![CDATA[Publisher Correction: R-loop formation and conformational activation mechanisms of Cas9]]></title>
@@ -1225,81 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03321-x</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03321-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03300-2">
-            <title><![CDATA[Scientists in diaspora are a powerful resource for their home countries]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03300-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 24 October 2023; <a href="https://www.nature.com/articles/d41586-023-03300-2">doi:10.1038/d41586-023-03300-2</a></p>Networks of émigré researchers can be potent forces for good when they are member-driven, involve youth and connect with each other.]]></content:encoded>
-            <dc:title><![CDATA[Scientists in diaspora are a powerful resource for their home countries]]></dc:title>
-            <dc:creator>Rana Dajani</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03300-2</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-24; | doi:10.1038/d41586-023-03300-2</dc:source>
-            <dc:date>2023-10-24</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03300-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03300-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03298-7">
-            <title><![CDATA[Postdocs are pushing back against low pay and conditions — more institutions must take heed]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03298-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 24 October 2023; <a href="https://www.nature.com/articles/d41586-023-03298-7">doi:10.1038/d41586-023-03298-7</a></p>Postdoctoral dissatisfaction about pay, job security and career progression cannot continue. Institutions must up their game or risk losing the next generation.]]></content:encoded>
-            <dc:title><![CDATA[Postdocs are pushing back against low pay and conditions — more institutions must take heed]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-03298-7</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-24; | doi:10.1038/d41586-023-03298-7</dc:source>
-            <dc:date>2023-10-24</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03298-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03298-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03296-9">
-            <title><![CDATA[Falling behind: postdocs in their thirties tire of putting life on hold]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03296-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 24 October 2023; <a href="https://www.nature.com/articles/d41586-023-03296-9">doi:10.1038/d41586-023-03296-9</a></p>Temporary contracts, low salaries and cost-of-living hikes force many researchers to put off parenthood and other big decisions.]]></content:encoded>
-            <dc:title><![CDATA[Falling behind: postdocs in their thirties tire of putting life on hold]]></dc:title>
-            <dc:creator>Linda Nordling</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03296-9</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-24; | doi:10.1038/d41586-023-03296-9</dc:source>
-            <dc:date>2023-10-24</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03296-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03296-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06750-w">
-            <title><![CDATA[Antigenicity and receptor affinity of SARS-CoV-2 BA.2.86 spike]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06750-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 23 October 2023; <a href="https://www.nature.com/articles/s41586-023-06750-w">doi:10.1038/s41586-023-06750-w</a></p>Antigenicity and receptor affinity of SARS-CoV-2 BA.2.86 spike]]></content:encoded>
-            <dc:title><![CDATA[Antigenicity and receptor affinity of SARS-CoV-2 BA.2.86 spike]]></dc:title>
-            <dc:creator>Qian Wang</dc:creator><dc:creator>Yicheng Guo</dc:creator><dc:creator>Liyuan Liu</dc:creator><dc:creator>Logan T. Schwanz</dc:creator><dc:creator>Zhiteng Li</dc:creator><dc:creator>Manoj S. Nair</dc:creator><dc:creator>Jerren Ho</dc:creator><dc:creator>Richard M. Zhang</dc:creator><dc:creator>Sho Iketani</dc:creator><dc:creator>Jian Yu</dc:creator><dc:creator>Yiming Huang</dc:creator><dc:creator>Yiming Qu</dc:creator><dc:creator>Riccardo Valdez</dc:creator><dc:creator>Adam S. Lauring</dc:creator><dc:creator>Yaoxing Huang</dc:creator><dc:creator>Aubree Gordon</dc:creator><dc:creator>Harris H. Wang</dc:creator><dc:creator>Lihong Liu</dc:creator><dc:creator>David D. Ho</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06750-w</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-23; | doi:10.1038/s41586-023-06750-w</dc:source>
-            <dc:date>2023-10-23</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06750-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06750-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06745-7">
-            <title><![CDATA[Low-loss contacts on textured substrates for inverted perovskite solar cells]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06745-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 23 October 2023; <a href="https://www.nature.com/articles/s41586-023-06745-7">doi:10.1038/s41586-023-06745-7</a></p>Low-loss contacts on textured substrates for inverted perovskite solar cells]]></content:encoded>
-            <dc:title><![CDATA[Low-loss contacts on textured substrates for inverted perovskite solar cells]]></dc:title>
-            <dc:creator>So Min Park</dc:creator><dc:creator>Mingyang Wei</dc:creator><dc:creator>Nikolaos Lempesis</dc:creator><dc:creator>Wenjin Yu</dc:creator><dc:creator>Tareq Hossain</dc:creator><dc:creator>Lorenzo Agosta</dc:creator><dc:creator>Virginia Carnevali</dc:creator><dc:creator>Harindi R. Atapattu</dc:creator><dc:creator>Peter Serles</dc:creator><dc:creator>Felix T. Eickemeyer</dc:creator><dc:creator>Heejong Shin</dc:creator><dc:creator>Maral Vafaie</dc:creator><dc:creator>Deokjae Choi</dc:creator><dc:creator>Kasra Darabi</dc:creator><dc:creator>Eui Dae Jung</dc:creator><dc:creator>Yi Yang</dc:creator><dc:creator>Da Bin Kim</dc:creator><dc:creator>Shaik M. Zakeeruddin</dc:creator><dc:creator>Bin Chen</dc:creator><dc:creator>Aram Amassian</dc:creator><dc:creator>Tobin Filleter</dc:creator><dc:creator>Mercouri G. Kanatzidis</dc:creator><dc:creator>Kenneth R. Graham</dc:creator><dc:creator>Lixin Xiao</dc:creator><dc:creator>Ursula Rothlisberger</dc:creator><dc:creator>Michael Grätzel</dc:creator><dc:creator>Edward H. Sargent</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06745-7</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-23; | doi:10.1038/s41586-023-06745-7</dc:source>
-            <dc:date>2023-10-23</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06745-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06745-7</prism:url>
         </item>
     
 </rdf:RDF>
