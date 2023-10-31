@@ -18,6 +18,20 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06779-x"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03257-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03354-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03338-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03406-7"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03337-3"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03408-5"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03335-5"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03317-7"/>
@@ -29,6 +43,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03346-2"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03328-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03404-9"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03280-3"/>
                 
@@ -152,22 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06745-7"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03278-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03304-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03281-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03282-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03303-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03193-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03320-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03295-w"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,111 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-023-06779-x">
+            <title><![CDATA[Publisher Correction: R-loop formation and conformational activation mechanisms of Cas9]]></title>
+            <link>https://www.nature.com/articles/s41586-023-06779-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 30 October 2023; <a href="https://www.nature.com/articles/s41586-023-06779-x">doi:10.1038/s41586-023-06779-x</a></p>Publisher Correction: R-loop formation and conformational activation mechanisms of Cas9]]></content:encoded>
+            <dc:title><![CDATA[Publisher Correction: R-loop formation and conformational activation mechanisms of Cas9]]></dc:title>
+            <dc:creator>Martin Pacesa</dc:creator><dc:creator>Luuk Loeff</dc:creator><dc:creator>Irma Querques</dc:creator><dc:creator>Lena M. Muckenfuss</dc:creator><dc:creator>Marta Sawicka</dc:creator><dc:creator>Martin Jinek</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-023-06779-x</dc:identifier>
+            <dc:source>Nature, Published online: 2023-10-30; | doi:10.1038/s41586-023-06779-x</dc:source>
+            <dc:date>2023-10-30</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-023-06779-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-023-06779-x</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03257-2">
+            <title><![CDATA[Audio long read: Why BMI is flawed — and how to redefine obesity]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03257-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 30 October 2023; <a href="https://www.nature.com/articles/d41586-023-03257-2">doi:10.1038/d41586-023-03257-2</a></p>Although body mass index is the main diagnostic test for obesity, it leaves out many factors that can affect how healthy someone is.]]></content:encoded>
+            <dc:title><![CDATA[Audio long read: Why BMI is flawed — and how to redefine obesity]]></dc:title>
+            <dc:creator>McKenzie Prillaman</dc:creator><dc:creator>Benjamin Thompson</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03257-2</dc:identifier>
+            <dc:source>Nature, Published online: 2023-10-30; | doi:10.1038/d41586-023-03257-2</dc:source>
+            <dc:date>2023-10-30</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03257-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03257-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03354-2">
+            <title><![CDATA[The Solar System’s biggest moon is spattered with salt]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03354-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 30 October 2023; <a href="https://www.nature.com/articles/d41586-023-03354-2">doi:10.1038/d41586-023-03354-2</a></p>Dried brine from a subsurface ocean speckles the surface of Ganymede, which orbits Jupiter.]]></content:encoded>
+            <dc:title><![CDATA[The Solar System’s biggest moon is spattered with salt]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-03354-2</dc:identifier>
+            <dc:source>Nature, Published online: 2023-10-30; | doi:10.1038/d41586-023-03354-2</dc:source>
+            <dc:date>2023-10-30</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03354-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03354-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03338-2">
+            <title><![CDATA[‘Ash was falling like rain’: how I became a volcanologist]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03338-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 30 October 2023; <a href="https://www.nature.com/articles/d41586-023-03338-2">doi:10.1038/d41586-023-03338-2</a></p>Richard Robertson monitors seismic activity across the Lesser Antilles islands in the Caribbean.]]></content:encoded>
+            <dc:title><![CDATA[‘Ash was falling like rain’: how I became a volcanologist]]></dc:title>
+            <dc:creator>Nicola Jones</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03338-2</dc:identifier>
+            <dc:source>Nature, Published online: 2023-10-30; | doi:10.1038/d41586-023-03338-2</dc:source>
+            <dc:date>2023-10-30</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03338-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03338-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03406-7">
+            <title><![CDATA[Did dust from the Chicxulub asteroid impact kill the dinosaurs?]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03406-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 30 October 2023; <a href="https://www.nature.com/articles/d41586-023-03406-7">doi:10.1038/d41586-023-03406-7</a></p>Fine particles kicked up by the collision could have blocked out the Sun for years, resulting in global cooling and disastrous consequences for ecosystems.]]></content:encoded>
+            <dc:title><![CDATA[Did dust from the Chicxulub asteroid impact kill the dinosaurs?]]></dc:title>
+            <dc:creator>Katharine Sanderson</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03406-7</dc:identifier>
+            <dc:source>Nature, Published online: 2023-10-30; | doi:10.1038/d41586-023-03406-7</dc:source>
+            <dc:date>2023-10-30</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03406-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03406-7</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03337-3">
+            <title><![CDATA[How to switch research fields successfully]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03337-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 30 October 2023; <a href="https://www.nature.com/articles/d41586-023-03337-3">doi:10.1038/d41586-023-03337-3</a></p>Four researchers offer tips for excelling in interdisciplinary training.]]></content:encoded>
+            <dc:title><![CDATA[How to switch research fields successfully]]></dc:title>
+            <dc:creator>Andy Tay</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03337-3</dc:identifier>
+            <dc:source>Nature, Published online: 2023-10-30; | doi:10.1038/d41586-023-03337-3</dc:source>
+            <dc:date>2023-10-30</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03337-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03337-3</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03408-5">
+            <title><![CDATA[Ian Wilmut, embryologist who helped to produce Dolly the sheep (1944–2023)]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03408-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 30 October 2023; <a href="https://www.nature.com/articles/d41586-023-03408-5">doi:10.1038/d41586-023-03408-5</a></p>Developmental biologist who led team that cloned the first mammal using adult cells.]]></content:encoded>
+            <dc:title><![CDATA[Ian Wilmut, embryologist who helped to produce Dolly the sheep (1944–2023)]]></dc:title>
+            <dc:creator>Sarah Franklin</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03408-5</dc:identifier>
+            <dc:source>Nature, Published online: 2023-10-30; | doi:10.1038/d41586-023-03408-5</dc:source>
+            <dc:date>2023-10-30</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03408-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03408-5</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03335-5">
             <title><![CDATA[Consciousness: what it is, where it comes from — and whether machines can have it]]></title>
@@ -265,6 +370,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03328-4</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03328-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03404-9">
+            <title><![CDATA[Daily briefing: Why forecasters failed to predict Hurricane Otis]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03404-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 27 October 2023; <a href="https://www.nature.com/articles/d41586-023-03404-9">doi:10.1038/d41586-023-03404-9</a></p>Tropical storm Otis shocked meteorologists when it turned into the strongest hurricane to ever strike Mexico. Plus, rogue greenhouse-gas emissions traced back to China and chimpanzees deepen the mystery of menopause.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Why forecasters failed to predict Hurricane Otis]]></dc:title>
+            <dc:creator>Katrina Krämer</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03404-9</dc:identifier>
+            <dc:source>Nature, Published online: 2023-10-27; | doi:10.1038/d41586-023-03404-9</dc:source>
+            <dc:date>2023-10-27</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03404-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03404-9</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03280-3">
@@ -1180,126 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/s41586-023-06745-7</prism:doi>
             <prism:url>https://www.nature.com/articles/s41586-023-06745-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03278-x">
-            <title><![CDATA[Ancient DNA reveals traces of elusive first humans in Europe]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03278-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 23 October 2023; <a href="https://www.nature.com/articles/d41586-023-03278-x">doi:10.1038/d41586-023-03278-x</a></p>Europe’s earliest Homo sapiens seemed to have vanished without a genetic legacy — but genomic studies now show otherwise.]]></content:encoded>
-            <dc:title><![CDATA[Ancient DNA reveals traces of elusive first humans in Europe]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-03278-x</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-23; | doi:10.1038/d41586-023-03278-x</dc:source>
-            <dc:date>2023-10-23</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03278-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03278-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03304-y">
-            <title><![CDATA[I tread the delicate line between culture and conservation]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03304-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 23 October 2023; <a href="https://www.nature.com/articles/d41586-023-03304-y">doi:10.1038/d41586-023-03304-y</a></p>Ethno-ecologist Nolwazi Mbongwa investigates the deeply rooted cultural practices of South African traditional healers, and works with conservationists to protect wildlife.]]></content:encoded>
-            <dc:title><![CDATA[I tread the delicate line between culture and conservation]]></dc:title>
-            <dc:creator>Linda Nordling</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03304-y</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-23; | doi:10.1038/d41586-023-03304-y</dc:source>
-            <dc:date>2023-10-23</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03304-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03304-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03281-2">
-            <title><![CDATA[Fierce ferns make insect-fighting proteins]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03281-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 23 October 2023; <a href="https://www.nature.com/articles/d41586-023-03281-2">doi:10.1038/d41586-023-03281-2</a></p>Natural compounds could help to protect maize and soya beans against pests that have evolved resistance to conventional insecticides.]]></content:encoded>
-            <dc:title><![CDATA[Fierce ferns make insect-fighting proteins]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-03281-2</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-23; | doi:10.1038/d41586-023-03281-2</dc:source>
-            <dc:date>2023-10-23</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03281-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03281-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03282-1">
-            <title><![CDATA[Mysterious mouse mummies found atop lofty volcanoes]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03282-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 23 October 2023; <a href="https://www.nature.com/articles/d41586-023-03282-1">doi:10.1038/d41586-023-03282-1</a></p>Naturally freeze-dried leaf-eared mice found above 6,000 metres show mammals can dwell at extraordinary heights.]]></content:encoded>
-            <dc:title><![CDATA[Mysterious mouse mummies found atop lofty volcanoes]]></dc:title>
-            <dc:creator>Anil Oza</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03282-1</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-23; | doi:10.1038/d41586-023-03282-1</dc:source>
-            <dc:date>2023-10-23</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03282-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03282-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03303-z">
-            <title><![CDATA[The plant poisons that shape our daily lives]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03303-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 23 October 2023; <a href="https://www.nature.com/articles/d41586-023-03303-z">doi:10.1038/d41586-023-03303-z</a></p>An exploration of nature’s toxins reveals complex relationships between humans and the plant chemicals we use as foods, medicines and mind-altering drugs.]]></content:encoded>
-            <dc:title><![CDATA[The plant poisons that shape our daily lives]]></dc:title>
-            <dc:creator>Emily Monosson</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03303-z</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-23; | doi:10.1038/d41586-023-03303-z</dc:source>
-            <dc:date>2023-10-23</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03303-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03303-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03193-1">
-            <title><![CDATA[Grand plan to drought-proof India could reduce rainfall]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03193-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 23 October 2023; <a href="https://www.nature.com/articles/d41586-023-03193-1">doi:10.1038/d41586-023-03193-1</a></p>The major engineering scheme aims to interlink several Indian rivers to support irrigation.]]></content:encoded>
-            <dc:title><![CDATA[Grand plan to drought-proof India could reduce rainfall]]></dc:title>
-            <dc:creator>Rishika Pardikar</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03193-1</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-23; | doi:10.1038/d41586-023-03193-1</dc:source>
-            <dc:date>2023-10-23</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03193-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03193-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03320-y">
-            <title><![CDATA[Daily briefing: Why women were deliberately infected with Zika]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03320-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 23 October 2023; <a href="https://www.nature.com/articles/d41586-023-03320-y">doi:10.1038/d41586-023-03320-y</a></p>The first study to deliberately infect people with Zika virus suggests that this strategy could help to test vaccines. Plus, a gigantic plan to link India’s rivers could reduce rainfall in already arid regions and how scientists are studying the evolution of the city mouse.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: Why women were deliberately infected with Zika]]></dc:title>
-            <dc:creator>Katrina Krämer</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03320-y</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-23; | doi:10.1038/d41586-023-03320-y</dc:source>
-            <dc:date>2023-10-23</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03320-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03320-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03295-w">
-            <title><![CDATA[Inflammation in severe COVID linked to bad fungal microbiome]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03295-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 23 October 2023; <a href="https://www.nature.com/articles/d41586-023-03295-w">doi:10.1038/d41586-023-03295-w</a></p>An overabundant ‘mycobiota’ in the gut might be involved in triggering harmful immune responses.]]></content:encoded>
-            <dc:title><![CDATA[Inflammation in severe COVID linked to bad fungal microbiome]]></dc:title>
-            <dc:creator>McKenzie Prillaman</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03295-w</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-23; | doi:10.1038/d41586-023-03295-w</dc:source>
-            <dc:date>2023-10-23</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03295-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03295-w</prism:url>
         </item>
     
 </rdf:RDF>
