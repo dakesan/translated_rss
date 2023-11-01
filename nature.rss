@@ -18,6 +18,10 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03351-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03332-8"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06778-y"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06783-1"/>
@@ -164,10 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02947-1"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03313-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03158-4"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,36 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03351-5">
+            <title><![CDATA[Woolly-rhino genome emerges from cave hyena’s fossilized poo]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03351-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 01 November 2023; <a href="https://www.nature.com/articles/d41586-023-03351-5">doi:10.1038/d41586-023-03351-5</a></p>Analysis shows that the now-extinct beast split into two populations almost half a million years ago.]]></content:encoded>
+            <dc:title><![CDATA[Woolly-rhino genome emerges from cave hyena’s fossilized poo]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-03351-5</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-01; | doi:10.1038/d41586-023-03351-5</dc:source>
+            <dc:date>2023-11-01</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03351-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03351-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03332-8">
+            <title><![CDATA[Protect the ‘right to science’ for people and the planet]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03332-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 01 November 2023; <a href="https://www.nature.com/articles/d41586-023-03332-8">doi:10.1038/d41586-023-03332-8</a></p>Upholding human rights can ensure that environmental policy is driven by facts and evidence, not denialism, greed and profit.]]></content:encoded>
+            <dc:title><![CDATA[Protect the ‘right to science’ for people and the planet]]></dc:title>
+            <dc:creator>Volker Türk</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03332-8</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-01; | doi:10.1038/d41586-023-03332-8</dc:source>
+            <dc:date>2023-11-01</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03332-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03332-8</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06778-y">
             <title><![CDATA[Author Correction: H3K4me3 regulates RNA polymerase II promoter-proximal pause-release]]></title>
@@ -1270,36 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-02947-1</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-02947-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03313-x">
-            <title><![CDATA[Britain and Ireland’s largest lake is dying in plain sight]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03313-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 24 October 2023; <a href="https://www.nature.com/articles/d41586-023-03313-x">doi:10.1038/d41586-023-03313-x</a></p>Britain and Ireland’s largest lake is dying in plain sight]]></content:encoded>
-            <dc:title><![CDATA[Britain and Ireland’s largest lake is dying in plain sight]]></dc:title>
-            <dc:creator>Neil Reid</dc:creator><dc:creator>Mark C. Emmerson</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03313-x</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-24; | doi:10.1038/d41586-023-03313-x</dc:source>
-            <dc:date>2023-10-24</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03313-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03313-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03158-4">
-            <title><![CDATA[From the archive: soap success, and Michael Faraday’s lecture tips]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03158-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 24 October 2023; <a href="https://www.nature.com/articles/d41586-023-03158-4">doi:10.1038/d41586-023-03158-4</a></p>Snippets from Nature’s past.]]></content:encoded>
-            <dc:title><![CDATA[From the archive: soap success, and Michael Faraday’s lecture tips]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-03158-4</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-24; | doi:10.1038/d41586-023-03158-4</dc:source>
-            <dc:date>2023-10-24</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03158-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03158-4</prism:url>
         </item>
     
 </rdf:RDF>
