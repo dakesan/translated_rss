@@ -18,15 +18,33 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06778-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06783-1"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03350-6"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03349-z"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03347-1"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03340-8"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03348-0"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03407-6"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03341-7"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03316-8"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03342-6"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03397-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03333-7"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03343-5"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06779-x"/>
                 
@@ -43,6 +61,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03408-5"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03335-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03409-4"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03317-7"/>
                 
@@ -148,26 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03158-4"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03311-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03279-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03312-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03327-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03299-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03153-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03248-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03302-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03323-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03321-x"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,36 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-023-06778-y">
+            <title><![CDATA[Author Correction: H3K4me3 regulates RNA polymerase II promoter-proximal pause-release]]></title>
+            <link>https://www.nature.com/articles/s41586-023-06778-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 31 October 2023; <a href="https://www.nature.com/articles/s41586-023-06778-y">doi:10.1038/s41586-023-06778-y</a></p>Author Correction: H3K4me3 regulates RNA polymerase II promoter-proximal pause-release]]></content:encoded>
+            <dc:title><![CDATA[Author Correction: H3K4me3 regulates RNA polymerase II promoter-proximal pause-release]]></dc:title>
+            <dc:creator>Hua Wang</dc:creator><dc:creator>Zheng Fan</dc:creator><dc:creator>Pavel V. Shliaha</dc:creator><dc:creator>Matthew Miele</dc:creator><dc:creator>Ronald C. Hendrickson</dc:creator><dc:creator>Xuejun Jiang</dc:creator><dc:creator>Kristian Helin</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-023-06778-y</dc:identifier>
+            <dc:source>Nature, Published online: 2023-10-31; | doi:10.1038/s41586-023-06778-y</dc:source>
+            <dc:date>2023-10-31</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-023-06778-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-023-06778-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-023-06783-1">
+            <title><![CDATA[CHIT1-positive microglia drive motor neuron aging in the primate spinal cord]]></title>
+            <link>https://www.nature.com/articles/s41586-023-06783-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 31 October 2023; <a href="https://www.nature.com/articles/s41586-023-06783-1">doi:10.1038/s41586-023-06783-1</a></p>CHIT1-positive microglia drive motor neuron aging in the primate spinal cord]]></content:encoded>
+            <dc:title><![CDATA[CHIT1-positive microglia drive motor neuron aging in the primate spinal cord]]></dc:title>
+            <dc:creator>Shuhui Sun</dc:creator><dc:creator>Jiaming Li</dc:creator><dc:creator>Si Wang</dc:creator><dc:creator>Jingyi Li</dc:creator><dc:creator>Jie Ren</dc:creator><dc:creator>Zhaoshi Bao</dc:creator><dc:creator>Le Sun</dc:creator><dc:creator>Xibo Ma</dc:creator><dc:creator>Fangshuo Zheng</dc:creator><dc:creator>Shuai Ma</dc:creator><dc:creator>Liang Sun</dc:creator><dc:creator>Min Wang</dc:creator><dc:creator>Yan Yu</dc:creator><dc:creator>Miyang Ma</dc:creator><dc:creator>Qiaoran Wang</dc:creator><dc:creator>Zhiyuan Chen</dc:creator><dc:creator>He Ma</dc:creator><dc:creator>Xuebao Wang</dc:creator><dc:creator>Zeming Wu</dc:creator><dc:creator>Hui Zhang</dc:creator><dc:creator>Kaowen Yan</dc:creator><dc:creator>Yuanhan Yang</dc:creator><dc:creator>Yixin Zhang</dc:creator><dc:creator>Sheng Zhang</dc:creator><dc:creator>Jinghui Lei</dc:creator><dc:creator>Zhao-Qian Teng</dc:creator><dc:creator>Chang-Mei Liu</dc:creator><dc:creator>Ge Bai</dc:creator><dc:creator>Yan-Jiang Wang</dc:creator><dc:creator>Jian Li</dc:creator><dc:creator>Xiaoqun Wang</dc:creator><dc:creator>Guoguang Zhao</dc:creator><dc:creator>Tao Jiang</dc:creator><dc:creator>Juan Carlos Izpisua Belmonte</dc:creator><dc:creator>Jing Qu</dc:creator><dc:creator>Weiqi Zhang</dc:creator><dc:creator>Guang-Hui Liu</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-023-06783-1</dc:identifier>
+            <dc:source>Nature, Published online: 2023-10-31; | doi:10.1038/s41586-023-06783-1</dc:source>
+            <dc:date>2023-10-31</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-023-06783-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-023-06783-1</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03350-6">
             <title><![CDATA[Crop yields: speed up delivery of promising genes]]></title>
@@ -222,6 +252,21 @@
             <prism:url>https://www.nature.com/articles/d41586-023-03347-1</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03340-8">
+            <title><![CDATA[From the archive: Halloween horrors]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03340-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 31 October 2023; <a href="https://www.nature.com/articles/d41586-023-03340-8">doi:10.1038/d41586-023-03340-8</a></p>Spooky snippets from Nature’s past.]]></content:encoded>
+            <dc:title><![CDATA[From the archive: Halloween horrors]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-03340-8</dc:identifier>
+            <dc:source>Nature, Published online: 2023-10-31; | doi:10.1038/d41586-023-03340-8</dc:source>
+            <dc:date>2023-10-31</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03340-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03340-8</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-023-03348-0">
             <title><![CDATA[US universities must tackle their huge carbon footprints]]></title>
             <link>https://www.nature.com/articles/d41586-023-03348-0</link>
@@ -237,6 +282,51 @@
             <prism:url>https://www.nature.com/articles/d41586-023-03348-0</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03407-6">
+            <title><![CDATA[Dengue is spreading in Europe: how worried should we be?]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03407-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 31 October 2023; <a href="https://www.nature.com/articles/d41586-023-03407-6">doi:10.1038/d41586-023-03407-6</a></p>The post-COVID travel boom combined with a warm summer have led to dengue outbreaks in Italy and France.]]></content:encoded>
+            <dc:title><![CDATA[Dengue is spreading in Europe: how worried should we be?]]></dc:title>
+            <dc:creator>Miryam Naddaf</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03407-6</dc:identifier>
+            <dc:source>Nature, Published online: 2023-10-31; | doi:10.1038/d41586-023-03407-6</dc:source>
+            <dc:date>2023-10-31</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03407-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03407-6</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03341-7">
+            <title><![CDATA[Sudan’s disastrous war — and the science it is imperilling]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03341-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 31 October 2023; <a href="https://www.nature.com/articles/d41586-023-03341-7">doi:10.1038/d41586-023-03341-7</a></p>Ongoing conflict has displaced students and destroyed institutions that were once among Africa’s best. Small projects show how a brighter future can be built]]></content:encoded>
+            <dc:title><![CDATA[Sudan’s disastrous war — and the science it is imperilling]]></dc:title>
+            <dc:creator>Mohamed H. A. Hassan</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03341-7</dc:identifier>
+            <dc:source>Nature, Published online: 2023-10-31; | doi:10.1038/d41586-023-03341-7</dc:source>
+            <dc:date>2023-10-31</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03341-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03341-7</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03316-8">
+            <title><![CDATA[Garbage in, garbage out: mitigating risks and maximizing benefits of AI in research]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03316-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 31 October 2023; <a href="https://www.nature.com/articles/d41586-023-03316-8">doi:10.1038/d41586-023-03316-8</a></p>Artificial-intelligence tools are transforming data-driven science — better ethical standards and more robust data curation are needed to fuel the boom and prevent a bust.]]></content:encoded>
+            <dc:title><![CDATA[Garbage in, garbage out: mitigating risks and maximizing benefits of AI in research]]></dc:title>
+            <dc:creator>Brooks Hanson</dc:creator><dc:creator>Shelley Stall</dc:creator><dc:creator>Joel Cutcher-Gershenfeld</dc:creator><dc:creator>Kristina Vrouwenvelder</dc:creator><dc:creator>Christopher Wirz</dc:creator><dc:creator>Yuhan (Douglas) Rao</dc:creator><dc:creator>Ge Peng</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03316-8</dc:identifier>
+            <dc:source>Nature, Published online: 2023-10-31; | doi:10.1038/d41586-023-03316-8</dc:source>
+            <dc:date>2023-10-31</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03316-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03316-8</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-023-03342-6">
             <title><![CDATA[Open-access reformers launch next bold publishing plan]]></title>
             <link>https://www.nature.com/articles/d41586-023-03342-6</link>
@@ -250,6 +340,51 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03342-6</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03342-6</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03397-5">
+            <title><![CDATA[Terrifying tarantula fangs and more — October’s best science images]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03397-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 31 October 2023; <a href="https://www.nature.com/articles/d41586-023-03397-5">doi:10.1038/d41586-023-03397-5</a></p>The month’s sharpest science shots — selected by Nature’s photo team.]]></content:encoded>
+            <dc:title><![CDATA[Terrifying tarantula fangs and more — October’s best science images]]></dc:title>
+            <dc:creator>Emma Stoye</dc:creator><dc:creator>Carissa Wong</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03397-5</dc:identifier>
+            <dc:source>Nature, Published online: 2023-10-31; | doi:10.1038/d41586-023-03397-5</dc:source>
+            <dc:date>2023-10-31</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03397-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03397-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03333-7">
+            <title><![CDATA[Why the UK-led global AI summit is missing the point]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03333-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 31 October 2023; <a href="https://www.nature.com/articles/d41586-023-03333-7">doi:10.1038/d41586-023-03333-7</a></p>Robust regulation of AI technologies will be crucial to protecting against harms. Researchers’ voices must be heard.]]></content:encoded>
+            <dc:title><![CDATA[Why the UK-led global AI summit is missing the point]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-03333-7</dc:identifier>
+            <dc:source>Nature, Published online: 2023-10-31; | doi:10.1038/d41586-023-03333-7</dc:source>
+            <dc:date>2023-10-31</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03333-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03333-7</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03343-5">
+            <title><![CDATA[Blood-sucking fish had flesh-eating ancestors]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03343-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 31 October 2023; <a href="https://www.nature.com/articles/d41586-023-03343-5">doi:10.1038/d41586-023-03343-5</a></p>Two ‘superbly preserved’ fossil lampreys from the Jurassic period help piece together the past of the unusual jawless fish.]]></content:encoded>
+            <dc:title><![CDATA[Blood-sucking fish had flesh-eating ancestors]]></dc:title>
+            <dc:creator>Xiaoying You</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03343-5</dc:identifier>
+            <dc:source>Nature, Published online: 2023-10-31; | doi:10.1038/d41586-023-03343-5</dc:source>
+            <dc:date>2023-10-31</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03343-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03343-5</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06779-x">
@@ -370,6 +505,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03335-5</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03335-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03409-4">
+            <title><![CDATA[Daily briefing: Safety review is big step towards the first FDA-approved CRISPR therapy]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03409-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 30 October 2023; <a href="https://www.nature.com/articles/d41586-023-03409-4">doi:10.1038/d41586-023-03409-4</a></p>The US Food and Drug Administration is examining the safety of a DNA-altering treatment for sickle-cell disease. Plus, encouraging results from a big trial of anti-dengue mosquitoes and how to successfully switch fields.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Safety review is big step towards the first FDA-approved CRISPR therapy]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03409-4</dc:identifier>
+            <dc:source>Nature, Published online: 2023-10-30; | doi:10.1038/d41586-023-03409-4</dc:source>
+            <dc:date>2023-10-30</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03409-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03409-4</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03317-7">
@@ -511,7 +661,7 @@
             <title><![CDATA[Scientists call out rogue emissions from China at global ozone summit]]></title>
             <link>https://www.nature.com/articles/d41586-023-03325-7</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 26 October 2023; <a href="https://www.nature.com/articles/d41586-023-03325-7">doi:10.1038/d41586-023-03325-7</a></p>Researchers confirm a powerful greenhouse gas being emitted from eastern China despite reports to the contrary.]]></content:encoded>
+                <![CDATA[<p>Nature, Published online: 26 October 2023; <a href="https://www.nature.com/articles/d41586-023-03325-7">doi:10.1038/d41586-023-03325-7</a></p>Researchers confirm a powerful greenhouse gas is being emitted from eastern China, despite reports to the contrary.]]></content:encoded>
             <dc:title><![CDATA[Scientists call out rogue emissions from China at global ozone summit]]></dc:title>
             <dc:creator>Jeff Tollefson</dc:creator>
             <dc:identifier>doi:10.1038/d41586-023-03325-7</dc:identifier>
@@ -1150,156 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03158-4</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03158-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03311-z">
-            <title><![CDATA[Extreme drought is again isolating people in Amazonia]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03311-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 24 October 2023; <a href="https://www.nature.com/articles/d41586-023-03311-z">doi:10.1038/d41586-023-03311-z</a></p>Extreme drought is again isolating people in Amazonia]]></content:encoded>
-            <dc:title><![CDATA[Extreme drought is again isolating people in Amazonia]]></dc:title>
-            <dc:creator>Letícia Santos de Lima</dc:creator><dc:creator>Hernani Fernandes Magalhães de Oliveira</dc:creator><dc:creator>Ayan Santos Fleischmann</dc:creator><dc:creator>Marcia Nunes Macedo</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03311-z</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-24; | doi:10.1038/d41586-023-03311-z</dc:source>
-            <dc:date>2023-10-24</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03311-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03311-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03279-w">
-            <title><![CDATA[Give these ‘living composite’ objects a squeeze and watch them glow]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03279-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 24 October 2023; <a href="https://www.nature.com/articles/d41586-023-03279-w">doi:10.1038/d41586-023-03279-w</a></p>A material made from tiny algae and a natural polymer can be 3D printed into a variety of shapes.]]></content:encoded>
-            <dc:title><![CDATA[Give these ‘living composite’ objects a squeeze and watch them glow]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-03279-w</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-24; | doi:10.1038/d41586-023-03279-w</dc:source>
-            <dc:date>2023-10-24</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03279-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03279-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03312-y">
-            <title><![CDATA[Quantify wild areas that optimize agricultural yields]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03312-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 24 October 2023; <a href="https://www.nature.com/articles/d41586-023-03312-y">doi:10.1038/d41586-023-03312-y</a></p>Quantify wild areas that optimize agricultural yields]]></content:encoded>
-            <dc:title><![CDATA[Quantify wild areas that optimize agricultural yields]]></dc:title>
-            <dc:creator>Iris Berger</dc:creator><dc:creator>Lynn V. Dicks</dc:creator><dc:creator>Francisco d’Albertas Gomes de Carvalho</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03312-y</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-24; | doi:10.1038/d41586-023-03312-y</dc:source>
-            <dc:date>2023-10-24</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03312-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03312-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03327-5">
-            <title><![CDATA[Daily briefing: Severe COVID linked to bad fungal microbiome]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03327-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 24 October 2023; <a href="https://www.nature.com/articles/d41586-023-03327-5">doi:10.1038/d41586-023-03327-5</a></p>An imbalance of fungi in the gut could contribute to excessive inflammation in people with severe COVID-19. Plus, mummified mice reveal mammals’ unexpected survival skills and the Moon could be 40 million years older than we thought.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: Severe COVID linked to bad fungal microbiome]]></dc:title>
-            <dc:creator>Katrina Krämer</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03327-5</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-24; | doi:10.1038/d41586-023-03327-5</dc:source>
-            <dc:date>2023-10-24</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03327-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03327-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03299-6">
-            <title><![CDATA[China’s Belt and Road Initiative is boosting science — the West must engage, not withdraw]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03299-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 24 October 2023; <a href="https://www.nature.com/articles/d41586-023-03299-6">doi:10.1038/d41586-023-03299-6</a></p>China is deepening scientific links with low- and middle-income countries. Europe and the United States would be wise to join this effort, which could help to resolve economic, environmental and political crises.]]></content:encoded>
-            <dc:title><![CDATA[China’s Belt and Road Initiative is boosting science — the West must engage, not withdraw]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-03299-6</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-24; | doi:10.1038/d41586-023-03299-6</dc:source>
-            <dc:date>2023-10-24</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03299-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03299-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03153-9">
-            <title><![CDATA[Assessing the scale of rubber deforestation in southeast Asia]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03153-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 24 October 2023; <a href="https://www.nature.com/articles/d41586-023-03153-9">doi:10.1038/d41586-023-03153-9</a></p>Understanding the extent of deforestation associated with agriculturally harvested crops has implications for conservation efforts. A method to assess satellite data offers an accurate way to estimate rubber deforestation.]]></content:encoded>
-            <dc:title><![CDATA[Assessing the scale of rubber deforestation in southeast Asia]]></dc:title>
-            <dc:creator>Carlos Souza Jr</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03153-9</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-24; | doi:10.1038/d41586-023-03153-9</dc:source>
-            <dc:date>2023-10-24</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03153-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03153-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03248-3">
-            <title><![CDATA[Anti-COVID drug accelerates viral evolution]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03248-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 24 October 2023; <a href="https://www.nature.com/articles/d41586-023-03248-3">doi:10.1038/d41586-023-03248-3</a></p>Molnupiravir, an antiviral drug used to treat COVID-19, induces numerous mutations in the SARS-CoV-2 genome that can increase the rate at which the virus evolves — yielding viral variants that might survive and be passed on.]]></content:encoded>
-            <dc:title><![CDATA[Anti-COVID drug accelerates viral evolution]]></dc:title>
-            <dc:creator>Sergei L. Kosakovsky Pond</dc:creator><dc:creator>Darren Martin</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03248-3</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-24; | doi:10.1038/d41586-023-03248-3</dc:source>
-            <dc:date>2023-10-24</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03248-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03248-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03302-0">
-            <title><![CDATA[An AI revolution is brewing in medicine. What will it look like?]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03302-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 24 October 2023; <a href="https://www.nature.com/articles/d41586-023-03302-0">doi:10.1038/d41586-023-03302-0</a></p>Emerging generalist models could overcome some limitations of first-generation machine-learning tools for clinical use.]]></content:encoded>
-            <dc:title><![CDATA[An AI revolution is brewing in medicine. What will it look like?]]></dc:title>
-            <dc:creator>Mariana Lenharo</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03302-0</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-24; | doi:10.1038/d41586-023-03302-0</dc:source>
-            <dc:date>2023-10-24</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03302-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03302-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03323-9">
-            <title><![CDATA[Why I use Notion to organize my PhD research]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03323-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 24 October 2023; <a href="https://www.nature.com/articles/d41586-023-03323-9">doi:10.1038/d41586-023-03323-9</a></p>Maya Gosztyla describes the database tool as a ‘second brain’, helping her to coordinate her work.]]></content:encoded>
-            <dc:title><![CDATA[Why I use Notion to organize my PhD research]]></dc:title>
-            <dc:creator>Maya  Gosztyla</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03323-9</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-24; | doi:10.1038/d41586-023-03323-9</dc:source>
-            <dc:date>2023-10-24</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03323-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03323-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03321-x">
-            <title><![CDATA[Gordon Conway (1938–2023), leader in sustainable development]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03321-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 24 October 2023; <a href="https://www.nature.com/articles/d41586-023-03321-x">doi:10.1038/d41586-023-03321-x</a></p>Agricultural ecologist who promoted sustainable practices by engaging farmers worldwide.]]></content:encoded>
-            <dc:title><![CDATA[Gordon Conway (1938–2023), leader in sustainable development]]></dc:title>
-            <dc:creator>Ian  Scoones</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03321-x</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-24; | doi:10.1038/d41586-023-03321-x</dc:source>
-            <dc:date>2023-10-24</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03321-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03321-x</prism:url>
         </item>
     
 </rdf:RDF>
