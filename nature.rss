@@ -18,6 +18,16 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03353-3"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03352-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03421-8"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03318-6"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03415-6"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06784-0"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06795-x"/>
@@ -65,6 +75,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03430-7"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03339-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03454-z"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03334-6"/>
                 
@@ -156,18 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03280-3"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03308-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03356-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03325-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03258-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06759-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06761-7"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,81 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03353-3">
+            <title><![CDATA[A robot performs heart surgery with a strong but delicate touch]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03353-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 02 November 2023; <a href="https://www.nature.com/articles/d41586-023-03353-3">doi:10.1038/d41586-023-03353-3</a></p>Device can wield tools inside one of the heart’s chambers while bracing itself against a stabilizer fitted into a major cardiac vein.]]></content:encoded>
+            <dc:title><![CDATA[A robot performs heart surgery with a strong but delicate touch]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-03353-3</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-02; | doi:10.1038/d41586-023-03353-3</dc:source>
+            <dc:date>2023-11-02</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03353-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03353-3</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03352-4">
+            <title><![CDATA[Potent antibodies have surprise source: people with chronic infections ]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03352-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 02 November 2023; <a href="https://www.nature.com/articles/d41586-023-03352-4">doi:10.1038/d41586-023-03352-4</a></p>Bacteria-fighting immune molecules are isolated from people who have long-term infections with the micro-organism Pseudomonas aeruginosa.]]></content:encoded>
+            <dc:title><![CDATA[Potent antibodies have surprise source: people with chronic infections ]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-03352-4</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-02; | doi:10.1038/d41586-023-03352-4</dc:source>
+            <dc:date>2023-11-02</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03352-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03352-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03421-8">
+            <title><![CDATA[Cancer trial results show power of weaponized antibodies]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03421-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 02 November 2023; <a href="https://www.nature.com/articles/d41586-023-03421-8">doi:10.1038/d41586-023-03421-8</a></p>Tumour-targeting antibodies coupled with toxic chemicals are an unprecedented success in treating bladder cancer.]]></content:encoded>
+            <dc:title><![CDATA[Cancer trial results show power of weaponized antibodies]]></dc:title>
+            <dc:creator>Heidi Ledford</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03421-8</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-02; | doi:10.1038/d41586-023-03421-8</dc:source>
+            <dc:date>2023-11-02</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03421-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03421-8</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03318-6">
+            <title><![CDATA[Asteroid sampler’s hypersonic return thrilled scientists: here’s what they learnt]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03318-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 02 November 2023; <a href="https://www.nature.com/articles/d41586-023-03318-6">doi:10.1038/d41586-023-03318-6</a></p>The re-entry of the OSIRIS-REx sample canister is the most closely observed of its type in history.]]></content:encoded>
+            <dc:title><![CDATA[Asteroid sampler’s hypersonic return thrilled scientists: here’s what they learnt]]></dc:title>
+            <dc:creator>Alexandra Witze</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03318-6</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-02; | doi:10.1038/d41586-023-03318-6</dc:source>
+            <dc:date>2023-11-02</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03318-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03318-6</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03415-6">
+            <title><![CDATA[New explanation for infertility: eggs lacking a mysterious ‘lattice’]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03415-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 02 November 2023; <a href="https://www.nature.com/articles/d41586-023-03415-6">doi:10.1038/d41586-023-03415-6</a></p>The discovery of a ‘storage locker’ for essential proteins could explain some cases of infertility.]]></content:encoded>
+            <dc:title><![CDATA[New explanation for infertility: eggs lacking a mysterious ‘lattice’]]></dc:title>
+            <dc:creator>Gayathri Vaidyanathan</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03415-6</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-02; | doi:10.1038/d41586-023-03415-6</dc:source>
+            <dc:date>2023-11-02</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03415-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03415-6</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06784-0">
             <title><![CDATA[Out-of-plane cations homogenise perovskite composition for solar cells]]></title>
@@ -537,6 +612,21 @@
             <prism:url>https://www.nature.com/articles/d41586-023-03339-1</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03454-z">
+            <title><![CDATA[Daily briefing: Watch the mesmerizing flow of warning signals across a plant’s leaves]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03454-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 01 November 2023; <a href="https://www.nature.com/articles/d41586-023-03454-z">doi:10.1038/d41586-023-03454-z</a></p>See how plants detect their neighbours’ warning messages — plus other fascinating science images. Also, meet the flesh-eating Jurassic ancestors of lampreys and explore how psychedelics work.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Watch the mesmerizing flow of warning signals across a plant’s leaves]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03454-z</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-01; | doi:10.1038/d41586-023-03454-z</dc:source>
+            <dc:date>2023-11-01</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03454-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03454-z</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-023-03334-6">
             <title><![CDATA[Psychedelic treatments are speeding towards approval — but no one knows how they work]]></title>
             <link>https://www.nature.com/articles/d41586-023-03334-6</link>
@@ -616,7 +706,7 @@
             <title><![CDATA[What causes fainting? Scientists finally have an answer]]></title>
             <link>https://www.nature.com/articles/d41586-023-03450-3</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 01 November 2023; <a href="https://www.nature.com/articles/d41586-023-03450-3">doi:10.1038/d41586-023-03450-3</a></p>Mouse experiments reveal the brain-heart connections that cause us to rapidly lose consciousness — and wake up moments later.]]></content:encoded>
+                <![CDATA[<p>Nature, Published online: 01 November 2023; <a href="https://www.nature.com/articles/d41586-023-03450-3">doi:10.1038/d41586-023-03450-3</a></p>Mouse experiments reveal the brain–heart connections that cause us to lose consciousness rapidly — and wake up moments later.]]></content:encoded>
             <dc:title><![CDATA[What causes fainting? Scientists finally have an answer]]></dc:title>
             <dc:creator>Miryam Naddaf</dc:creator>
             <dc:identifier>doi:10.1038/d41586-023-03450-3</dc:identifier>
@@ -1210,96 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03280-3</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03280-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03308-8">
-            <title><![CDATA[Menopausal chimpanzees deepen the mystery of why women stop reproducing]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03308-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 26 October 2023; <a href="https://www.nature.com/articles/d41586-023-03308-8">doi:10.1038/d41586-023-03308-8</a></p>Some chimpanzees have been found to experience menopause. But are they the exception or the rule?]]></content:encoded>
-            <dc:title><![CDATA[Menopausal chimpanzees deepen the mystery of why women stop reproducing]]></dc:title>
-            <dc:creator>Dyani Lewis</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03308-8</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-26; | doi:10.1038/d41586-023-03308-8</dc:source>
-            <dc:date>2023-10-26</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03308-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03308-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03356-0">
-            <title><![CDATA[Daily briefing: A unique layer of molten rock envelops Mars’s core]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03356-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 26 October 2023; <a href="https://www.nature.com/articles/d41586-023-03356-0">doi:10.1038/d41586-023-03356-0</a></p>Mars has a surprise layer around its liquid-metal core. Plus, the editor of a prominent journal is fired in wake of Israel–Hamas remarks and an AI that has human-like ability to generalize language.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: A unique layer of molten rock envelops Mars’s core]]></dc:title>
-            <dc:creator>Katrina Krämer</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03356-0</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-26; | doi:10.1038/d41586-023-03356-0</dc:source>
-            <dc:date>2023-10-26</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03356-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03356-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03325-7">
-            <title><![CDATA[Scientists call out rogue emissions from China at global ozone summit]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03325-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 26 October 2023; <a href="https://www.nature.com/articles/d41586-023-03325-7">doi:10.1038/d41586-023-03325-7</a></p>Researchers confirm a powerful greenhouse gas is being emitted from eastern China, despite reports to the contrary.]]></content:encoded>
-            <dc:title><![CDATA[Scientists call out rogue emissions from China at global ozone summit]]></dc:title>
-            <dc:creator>Jeff Tollefson</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03325-7</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-26; | doi:10.1038/d41586-023-03325-7</dc:source>
-            <dc:date>2023-10-26</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03325-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03325-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03258-1">
-            <title><![CDATA[How robots can learn to follow a moral code]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03258-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 26 October 2023; <a href="https://www.nature.com/articles/d41586-023-03258-1">doi:10.1038/d41586-023-03258-1</a></p>Ethical artificial intelligence aims to impart human values on machine-learning systems.]]></content:encoded>
-            <dc:title><![CDATA[How robots can learn to follow a moral code]]></dc:title>
-            <dc:creator>Neil Savage</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03258-1</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-26; | doi:10.1038/d41586-023-03258-1</dc:source>
-            <dc:date>2023-10-26</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03258-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03258-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06759-1">
-            <title><![CDATA[Heavy element production in a compact object merger observed by JWST]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06759-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 25 October 2023; <a href="https://www.nature.com/articles/s41586-023-06759-1">doi:10.1038/s41586-023-06759-1</a></p>Heavy element production in a compact object merger observed by JWST]]></content:encoded>
-            <dc:title><![CDATA[Heavy element production in a compact object merger observed by JWST]]></dc:title>
-            <dc:creator>Andrew Levan</dc:creator><dc:creator>Benjamin P. Gompertz</dc:creator><dc:creator>Om Sharan Salafia</dc:creator><dc:creator>Mattia Bulla</dc:creator><dc:creator>Eric Burns</dc:creator><dc:creator>Kenta Hotokezaka</dc:creator><dc:creator>Luca Izzo</dc:creator><dc:creator>Gavin P. Lamb</dc:creator><dc:creator>Daniele B. Malesani</dc:creator><dc:creator>Samantha R. Oates</dc:creator><dc:creator>Maria Edvige Ravasio</dc:creator><dc:creator>Alicia Rouco Escorial</dc:creator><dc:creator>Benjamin Schneider</dc:creator><dc:creator>Nikhil Sarin</dc:creator><dc:creator>Steve Schulze</dc:creator><dc:creator>Nial R. Tanvir</dc:creator><dc:creator>Kendall Ackley</dc:creator><dc:creator>Gemma Anderson</dc:creator><dc:creator>Gabriel B. Brammer</dc:creator><dc:creator>Lise Christensen</dc:creator><dc:creator>Vikram S. Dhillon</dc:creator><dc:creator>Phil A. Evans</dc:creator><dc:creator>Michael Fausnaugh</dc:creator><dc:creator>Wen-fai Fong</dc:creator><dc:creator>Andrew S. Fruchter</dc:creator><dc:creator>Chris Fryer</dc:creator><dc:creator>Johan P. U. Fynbo</dc:creator><dc:creator>Nicola Gaspari</dc:creator><dc:creator>Kasper E. Heintz</dc:creator><dc:creator>Jens Hjorth</dc:creator><dc:creator>Jamie A. Kennea</dc:creator><dc:creator>Mark R. Kennedy</dc:creator><dc:creator>Tanmoy Laskar</dc:creator><dc:creator>Giorgos Leloudas</dc:creator><dc:creator>Ilya Mandel</dc:creator><dc:creator>Antonio Martin-Carrillo</dc:creator><dc:creator>Brian D. Metzger</dc:creator><dc:creator>Matt Nicholl</dc:creator><dc:creator>Anya Nugent</dc:creator><dc:creator>Jesse T. Palmerio</dc:creator><dc:creator>Giovanna Pugliese</dc:creator><dc:creator>Jillian Rastinejad</dc:creator><dc:creator>Lauren Rhodes</dc:creator><dc:creator>Andrea Rossi</dc:creator><dc:creator>Andrea Saccardi</dc:creator><dc:creator>Stephen J. Smartt</dc:creator><dc:creator>Heloise F. Stevance</dc:creator><dc:creator>Aaron Tohuvavohu</dc:creator><dc:creator>Alexander van der Horst</dc:creator><dc:creator>Susanna D. Vergani</dc:creator><dc:creator>Darach Watson</dc:creator><dc:creator>Thomas Barclay</dc:creator><dc:creator>Kornpob Bhirombhakdi</dc:creator><dc:creator>Elmé Breedt</dc:creator><dc:creator>Alice A. Breeveld</dc:creator><dc:creator>Alexander J. Brown</dc:creator><dc:creator>Sergio Campana</dc:creator><dc:creator>Ashley A. Chrimes</dc:creator><dc:creator>Paolo D’Avanzo</dc:creator><dc:creator>Valerio D’Elia</dc:creator><dc:creator>Massimiliano De Pasquale</dc:creator><dc:creator>Martin J. Dyer</dc:creator><dc:creator>Duncan K. Galloway</dc:creator><dc:creator>James A. Garbutt</dc:creator><dc:creator>Matthew J. Green</dc:creator><dc:creator>Dieter H. Hartmann</dc:creator><dc:creator>Páll Jakobsson</dc:creator><dc:creator>Paul Kerry</dc:creator><dc:creator>Chryssa Kouveliotou</dc:creator><dc:creator>Danial Langeroodi</dc:creator><dc:creator>Emeric Le Floc’h</dc:creator><dc:creator>James K. Leung</dc:creator><dc:creator>Stuart P. Littlefair</dc:creator><dc:creator>James Munday</dc:creator><dc:creator>Paul O’Brien</dc:creator><dc:creator>Steven G. Parsons</dc:creator><dc:creator>Ingrid Pelisoli</dc:creator><dc:creator>David I. Sahman</dc:creator><dc:creator>Ruben Salvaterra</dc:creator><dc:creator>Boris Sbarufatti</dc:creator><dc:creator>Danny Steeghs</dc:creator><dc:creator>Gianpiero Tagliaferri</dc:creator><dc:creator>Christina C. Thöne</dc:creator><dc:creator>Antonio de Ugarte Postigo</dc:creator><dc:creator>David Alexander Kann</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06759-1</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-25; | doi:10.1038/s41586-023-06759-1</dc:source>
-            <dc:date>2023-10-25</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06759-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06759-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06761-7">
-            <title><![CDATA[TMPRSS2 is a functional receptor for human coronavirus HKU1]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06761-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 25 October 2023; <a href="https://www.nature.com/articles/s41586-023-06761-7">doi:10.1038/s41586-023-06761-7</a></p>TMPRSS2 is a functional receptor for human coronavirus HKU1]]></content:encoded>
-            <dc:title><![CDATA[TMPRSS2 is a functional receptor for human coronavirus HKU1]]></dc:title>
-            <dc:creator>Nell Saunders</dc:creator><dc:creator>Ignacio Fernandez</dc:creator><dc:creator>Cyril Planchais</dc:creator><dc:creator>Vincent Michel</dc:creator><dc:creator>Maaran Michael Rajah</dc:creator><dc:creator>Eduard Baquero Salazar</dc:creator><dc:creator>Jeanne Postal</dc:creator><dc:creator>Francoise Porrot</dc:creator><dc:creator>Florence Guivel-Benhassine</dc:creator><dc:creator>Catherine Blanc</dc:creator><dc:creator>Gaëlle Chauveau-Le Friec</dc:creator><dc:creator>Augustin Martin</dc:creator><dc:creator>Ludivine Grzelak</dc:creator><dc:creator>Rischa Maya Oktavia</dc:creator><dc:creator>Annalisa Meola</dc:creator><dc:creator>Olivia Ahouzi</dc:creator><dc:creator>Hunter Hoover-Watson</dc:creator><dc:creator>Matthieu Prot</dc:creator><dc:creator>Deborah Delaune</dc:creator><dc:creator>Marion Cornelissen</dc:creator><dc:creator>Martin Deijs</dc:creator><dc:creator>Véronique Meriaux</dc:creator><dc:creator>Hugo Mouquet</dc:creator><dc:creator>Etienne Simon-Lorière</dc:creator><dc:creator>Lia van der Hoek</dc:creator><dc:creator>Pierre Lafaye</dc:creator><dc:creator>Felix Rey</dc:creator><dc:creator>Julian Buchrieser</dc:creator><dc:creator>Olivier Schwartz</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06761-7</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-25; | doi:10.1038/s41586-023-06761-7</dc:source>
-            <dc:date>2023-10-25</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06761-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06761-7</prism:url>
         </item>
     
 </rdf:RDF>
