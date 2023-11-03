@@ -18,6 +18,8 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03414-7"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03353-3"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03352-4"/>
@@ -166,8 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03404-9"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03280-3"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,21 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03414-7">
+            <title><![CDATA[Are these moths blinding children? Nepalese researchers seek answers]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03414-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 03 November 2023; <a href="https://www.nature.com/articles/d41586-023-03414-7">doi:10.1038/d41586-023-03414-7</a></p>Researchers are carrying out environmental surveys and genomic sequencing to try to learn more about SHAPU, a severe eye condition that mainly affects children — but funding is still scarce.]]></content:encoded>
+            <dc:title><![CDATA[Are these moths blinding children? Nepalese researchers seek answers]]></dc:title>
+            <dc:creator>Saugat Bolakhe</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03414-7</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-03; | doi:10.1038/d41586-023-03414-7</dc:source>
+            <dc:date>2023-11-03</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03414-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03414-7</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03353-3">
             <title><![CDATA[A robot performs heart surgery with a strong but delicate touch]]></title>
@@ -1285,21 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03404-9</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03404-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03280-3">
-            <title><![CDATA[How big quantum computers could keep their qubits under control]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03280-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 26 October 2023; <a href="https://www.nature.com/articles/d41586-023-03280-3">doi:10.1038/d41586-023-03280-3</a></p>Multitasking electrodes could enable 1,000 qubits to fit onto one device.]]></content:encoded>
-            <dc:title><![CDATA[How big quantum computers could keep their qubits under control]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-03280-3</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-26; | doi:10.1038/d41586-023-03280-3</dc:source>
-            <dc:date>2023-10-26</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03280-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03280-3</prism:url>
         </item>
     
 </rdf:RDF>
