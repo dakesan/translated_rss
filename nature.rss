@@ -18,7 +18,21 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03386-8"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03467-8"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03468-7"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03414-7"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03389-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03471-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03472-x"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03458-9"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03353-3"/>
                 
@@ -154,20 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03335-5"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03409-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03317-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03357-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03388-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03346-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03328-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03404-9"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,51 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03386-8">
+            <title><![CDATA[You smell your coffee in stereo: the brain records an odour’s spatial information]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03386-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 03 November 2023; <a href="https://www.nature.com/articles/d41586-023-03386-8">doi:10.1038/d41586-023-03386-8</a></p>Scent information from the two nostrils leads to two types of neural activity.]]></content:encoded>
+            <dc:title><![CDATA[You smell your coffee in stereo: the brain records an odour’s spatial information]]></dc:title>
+            <dc:creator>Saima Sidik</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03386-8</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-03; | doi:10.1038/d41586-023-03386-8</dc:source>
+            <dc:date>2023-11-03</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03386-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03386-8</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03467-8">
+            <title><![CDATA[<i>Nature'</i>s Take: How will ChatGPT and generative AI transform research?]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03467-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 03 November 2023; <a href="https://www.nature.com/articles/d41586-023-03467-8">doi:10.1038/d41586-023-03467-8</a></p>Nature staff take on the big topics that matter in science.]]></content:encoded>
+            <dc:title><![CDATA[<i>Nature'</i>s Take: How will ChatGPT and generative AI transform research?]]></dc:title>
+            <dc:creator>Nick Petrić Howe</dc:creator><dc:creator>Magdalena Skipper</dc:creator><dc:creator>Richard  Van Noorden</dc:creator><dc:creator>Yann Sweeney</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03467-8</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-03; | doi:10.1038/d41586-023-03467-8</dc:source>
+            <dc:date>2023-11-03</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03467-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03467-8</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03468-7">
+            <title><![CDATA[Why we fall for scams, and the new is bad for the planet: Books in brief]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03468-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 03 November 2023; <a href="https://www.nature.com/articles/d41586-023-03468-7">doi:10.1038/d41586-023-03468-7</a></p>Andrew Robinson reviews five of the best science picks.]]></content:encoded>
+            <dc:title><![CDATA[Why we fall for scams, and the new is bad for the planet: Books in brief]]></dc:title>
+            <dc:creator>Andrew Robinson</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03468-7</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-03; | doi:10.1038/d41586-023-03468-7</dc:source>
+            <dc:date>2023-11-03</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03468-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03468-7</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03414-7">
             <title><![CDATA[Are these moths blinding children? Nepalese researchers seek answers]]></title>
@@ -190,6 +235,66 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03414-7</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03414-7</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03389-5">
+            <title><![CDATA[Art and science: close cousins or polar opposites?]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03389-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 03 November 2023; <a href="https://www.nature.com/articles/d41586-023-03389-5">doi:10.1038/d41586-023-03389-5</a></p>Scientists and artists share a curiosity about the world around them, but do the similarities end there?]]></content:encoded>
+            <dc:title><![CDATA[Art and science: close cousins or polar opposites?]]></dc:title>
+            <dc:creator>Julie Gould</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03389-5</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-03; | doi:10.1038/d41586-023-03389-5</dc:source>
+            <dc:date>2023-11-03</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03389-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03389-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03471-y">
+            <title><![CDATA[My path to heading a biotech company]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03471-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 03 November 2023; <a href="https://www.nature.com/articles/d41586-023-03471-y">doi:10.1038/d41586-023-03471-y</a></p>Shadi Farhangrazi describes how she accidentally became a chief executive.]]></content:encoded>
+            <dc:title><![CDATA[My path to heading a biotech company]]></dc:title>
+            <dc:creator>Raveena  Bhambra</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03471-y</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-03; | doi:10.1038/d41586-023-03471-y</dc:source>
+            <dc:date>2023-11-03</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03471-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03471-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03472-x">
+            <title><![CDATA[The world’s week on AI safety: powerful computing efforts launched to boost research]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03472-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 03 November 2023; <a href="https://www.nature.com/articles/d41586-023-03472-x">doi:10.1038/d41586-023-03472-x</a></p>UK and US governments establish efforts to democratize access to supercomputers that will aid studies on AI systems.]]></content:encoded>
+            <dc:title><![CDATA[The world’s week on AI safety: powerful computing efforts launched to boost research]]></dc:title>
+            <dc:creator>Nicola Jones</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03472-x</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-03; | doi:10.1038/d41586-023-03472-x</dc:source>
+            <dc:date>2023-11-03</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03472-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03472-x</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03458-9">
+            <title><![CDATA[Don’t overlook race and ethnicity: new guidelines urge change for psychology research]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03458-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 03 November 2023; <a href="https://www.nature.com/articles/d41586-023-03458-9">doi:10.1038/d41586-023-03458-9</a></p>Recommendations aimed at authors, reviewers and editors establish standards for addressing issues that have often gotten short shrift.]]></content:encoded>
+            <dc:title><![CDATA[Don’t overlook race and ethnicity: new guidelines urge change for psychology research]]></dc:title>
+            <dc:creator>Heidi Ledford</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03458-9</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-03; | doi:10.1038/d41586-023-03458-9</dc:source>
+            <dc:date>2023-11-03</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03458-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03458-9</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03353-3">
@@ -208,11 +313,11 @@
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03352-4">
-            <title><![CDATA[Potent antibodies have surprise source: people with chronic infections ]]></title>
+            <title><![CDATA[Potent antibodies have surprise source: people with chronic infections]]></title>
             <link>https://www.nature.com/articles/d41586-023-03352-4</link>
             <content:encoded>
                 <![CDATA[<p>Nature, Published online: 02 November 2023; <a href="https://www.nature.com/articles/d41586-023-03352-4">doi:10.1038/d41586-023-03352-4</a></p>Bacteria-fighting immune molecules are isolated from people who have long-term infections with the micro-organism Pseudomonas aeruginosa.]]></content:encoded>
-            <dc:title><![CDATA[Potent antibodies have surprise source: people with chronic infections ]]></dc:title>
+            <dc:title><![CDATA[Potent antibodies have surprise source: people with chronic infections]]></dc:title>
             
             <dc:identifier>doi:10.1038/d41586-023-03352-4</dc:identifier>
             <dc:source>Nature, Published online: 2023-11-02; | doi:10.1038/d41586-023-03352-4</dc:source>
@@ -1195,111 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03335-5</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03335-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03409-4">
-            <title><![CDATA[Daily briefing: Safety review is big step towards the first FDA-approved CRISPR therapy]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03409-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 30 October 2023; <a href="https://www.nature.com/articles/d41586-023-03409-4">doi:10.1038/d41586-023-03409-4</a></p>The US Food and Drug Administration is examining the safety of a DNA-altering treatment for sickle-cell disease. Plus, encouraging results from a big trial of anti-dengue mosquitoes and how to successfully switch fields.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: Safety review is big step towards the first FDA-approved CRISPR therapy]]></dc:title>
-            <dc:creator>Flora Graham</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03409-4</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-30; | doi:10.1038/d41586-023-03409-4</dc:source>
-            <dc:date>2023-10-30</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03409-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03409-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03317-7">
-            <title><![CDATA[Is CRISPR safe? Genome editing gets its first FDA scrutiny]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03317-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 28 October 2023; <a href="https://www.nature.com/articles/d41586-023-03317-7">doi:10.1038/d41586-023-03317-7</a></p>Advisers to the US regulatory agency will examine the safety profile of a CRISPR-based treatment for sickle-cell disease.]]></content:encoded>
-            <dc:title><![CDATA[Is CRISPR safe? Genome editing gets its first FDA scrutiny]]></dc:title>
-            <dc:creator>Heidi Ledford</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03317-7</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-28; | doi:10.1038/d41586-023-03317-7</dc:source>
-            <dc:date>2023-10-28</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03317-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03317-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03357-z">
-            <title><![CDATA[Thrilling volcanoes, astonishing beetles and numbers made material: Books in brief]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03357-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 27 October 2023; <a href="https://www.nature.com/articles/d41586-023-03357-z">doi:10.1038/d41586-023-03357-z</a></p>Andrew Robinson reviews five of the best science picks.]]></content:encoded>
-            <dc:title><![CDATA[Thrilling volcanoes, astonishing beetles and numbers made material: Books in brief]]></dc:title>
-            <dc:creator>Andrew Robinson</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03357-z</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-27; | doi:10.1038/d41586-023-03357-z</dc:source>
-            <dc:date>2023-10-27</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03357-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03357-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03388-6">
-            <title><![CDATA[Martian sounds reveal the secrets of the red planet's core]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03388-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 27 October 2023; <a href="https://www.nature.com/articles/d41586-023-03388-6">doi:10.1038/d41586-023-03388-6</a></p>NASA's InSight mission recorded vibrations of Mars exposing a surprising layer of silicate around the core.]]></content:encoded>
-            <dc:title><![CDATA[Martian sounds reveal the secrets of the red planet's core]]></dc:title>
-            <dc:creator>Geoff Marsh</dc:creator><dc:creator>Nick Petrić Howe</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03388-6</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-27; | doi:10.1038/d41586-023-03388-6</dc:source>
-            <dc:date>2023-10-27</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03388-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03388-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03346-2">
-            <title><![CDATA[Dengue rates drop after release of modified mosquitoes in Colombia]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03346-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 27 October 2023; <a href="https://www.nature.com/articles/d41586-023-03346-2">doi:10.1038/d41586-023-03346-2</a></p>Largest-ever deployment of Wolbachia-infected mosquitoes yields ‘encouraging’ results in three densely populated cities.]]></content:encoded>
-            <dc:title><![CDATA[Dengue rates drop after release of modified mosquitoes in Colombia]]></dc:title>
-            <dc:creator>Mariana Lenharo</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03346-2</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-27; | doi:10.1038/d41586-023-03346-2</dc:source>
-            <dc:date>2023-10-27</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03346-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03346-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03328-4">
-            <title><![CDATA[How AI can help to save endangered species]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03328-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 27 October 2023; <a href="https://www.nature.com/articles/d41586-023-03328-4">doi:10.1038/d41586-023-03328-4</a></p>Scientists are using artificial intelligence to fight biodiversity loss by analysing vast amounts of data, monitoring ecosystems and spotting trends over time.]]></content:encoded>
-            <dc:title><![CDATA[How AI can help to save endangered species]]></dc:title>
-            <dc:creator>Tosin Thompson</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03328-4</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-27; | doi:10.1038/d41586-023-03328-4</dc:source>
-            <dc:date>2023-10-27</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03328-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03328-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03404-9">
-            <title><![CDATA[Daily briefing: Why forecasters failed to predict Hurricane Otis]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03404-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 27 October 2023; <a href="https://www.nature.com/articles/d41586-023-03404-9">doi:10.1038/d41586-023-03404-9</a></p>Tropical storm Otis shocked meteorologists when it turned into the strongest hurricane to ever strike Mexico. Plus, rogue greenhouse-gas emissions traced back to China and chimpanzees deepen the mystery of menopause.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: Why forecasters failed to predict Hurricane Otis]]></dc:title>
-            <dc:creator>Katrina Krämer</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03404-9</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-27; | doi:10.1038/d41586-023-03404-9</dc:source>
-            <dc:date>2023-10-27</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03404-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03404-9</prism:url>
         </item>
     
 </rdf:RDF>
