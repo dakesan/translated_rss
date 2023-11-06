@@ -18,6 +18,10 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03437-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03425-4"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03386-8"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03467-8"/>
@@ -33,6 +37,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03472-x"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03458-9"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03463-y"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03353-3"/>
                 
@@ -162,12 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03406-7"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03337-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03408-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03335-5"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,36 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03437-0">
+            <title><![CDATA[Five ways in which rookie lab leaders can get up to speed]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03437-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 November 2023; <a href="https://www.nature.com/articles/d41586-023-03437-0">doi:10.1038/d41586-023-03437-0</a></p>An array of spreadsheets, courses and online resources are available to support principal investigators leading their first research groups.]]></content:encoded>
+            <dc:title><![CDATA[Five ways in which rookie lab leaders can get up to speed]]></dc:title>
+            <dc:creator>Jyoti Madhusoodanan</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03437-0</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-06; | doi:10.1038/d41586-023-03437-0</dc:source>
+            <dc:date>2023-11-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03437-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03437-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03425-4">
+            <title><![CDATA[‘Oceans are hugely complex’: modelling marine microbes is key to climate forecasts]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03425-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 November 2023; <a href="https://www.nature.com/articles/d41586-023-03425-4">doi:10.1038/d41586-023-03425-4</a></p>Microorganisms are the engines that drive most marine processes. Ocean modelling must evolve to take their biological complexity into account.]]></content:encoded>
+            <dc:title><![CDATA[‘Oceans are hugely complex’: modelling marine microbes is key to climate forecasts]]></dc:title>
+            <dc:creator>Alessandro   Tagliabue</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03425-4</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-06; | doi:10.1038/d41586-023-03425-4</dc:source>
+            <dc:date>2023-11-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03425-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03425-4</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03386-8">
             <title><![CDATA[You smell your coffee in stereo: the brain records an odour’s spatial information]]></title>
@@ -295,6 +325,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03458-9</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03458-9</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03463-y">
+            <title><![CDATA[Rich countries fall short on climate aid for poor nations]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03463-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 03 November 2023; <a href="https://www.nature.com/articles/d41586-023-03463-y">doi:10.1038/d41586-023-03463-y</a></p>Low-income countries need 10–18 times more global funding than they are receiving to help them adapt to climate change.]]></content:encoded>
+            <dc:title><![CDATA[Rich countries fall short on climate aid for poor nations]]></dc:title>
+            <dc:creator>Carissa Wong</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03463-y</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-03; | doi:10.1038/d41586-023-03463-y</dc:source>
+            <dc:date>2023-11-03</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03463-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03463-y</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03353-3">
@@ -1255,51 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03406-7</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03406-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03337-3">
-            <title><![CDATA[How to switch research fields successfully]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03337-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 30 October 2023; <a href="https://www.nature.com/articles/d41586-023-03337-3">doi:10.1038/d41586-023-03337-3</a></p>Four researchers offer tips for excelling in interdisciplinary training.]]></content:encoded>
-            <dc:title><![CDATA[How to switch research fields successfully]]></dc:title>
-            <dc:creator>Andy Tay</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03337-3</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-30; | doi:10.1038/d41586-023-03337-3</dc:source>
-            <dc:date>2023-10-30</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03337-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03337-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03408-5">
-            <title><![CDATA[Ian Wilmut, embryologist who helped to produce Dolly the sheep (1944–2023)]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03408-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 30 October 2023; <a href="https://www.nature.com/articles/d41586-023-03408-5">doi:10.1038/d41586-023-03408-5</a></p>Developmental biologist who led team that cloned the first mammal using adult cells.]]></content:encoded>
-            <dc:title><![CDATA[Ian Wilmut, embryologist who helped to produce Dolly the sheep (1944–2023)]]></dc:title>
-            <dc:creator>Sarah Franklin</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03408-5</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-30; | doi:10.1038/d41586-023-03408-5</dc:source>
-            <dc:date>2023-10-30</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03408-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03408-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03335-5">
-            <title><![CDATA[Consciousness: what it is, where it comes from — and whether machines can have it]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03335-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 30 October 2023; <a href="https://www.nature.com/articles/d41586-023-03335-5">doi:10.1038/d41586-023-03335-5</a></p>To understand where artificial intelligence might be heading, we must first understand what consciousness, the self and free will mean in ourselves.]]></content:encoded>
-            <dc:title><![CDATA[Consciousness: what it is, where it comes from — and whether machines can have it]]></dc:title>
-            <dc:creator>Liad Mudrik</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03335-5</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-30; | doi:10.1038/d41586-023-03335-5</dc:source>
-            <dc:date>2023-10-30</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03335-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03335-5</prism:url>
         </item>
     
 </rdf:RDF>
