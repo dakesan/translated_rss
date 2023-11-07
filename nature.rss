@@ -18,15 +18,35 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06814-x"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06813-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03438-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03452-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03306-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03464-x"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03479-4"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03437-0"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03425-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03451-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03484-7"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03386-8"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03467-8"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03468-7"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03478-5"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03414-7"/>
                 
@@ -43,6 +63,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03353-3"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03352-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03466-9"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03421-8"/>
                 
@@ -146,28 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03341-7"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03427-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03316-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03342-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03397-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03333-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03343-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06779-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03257-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03354-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03338-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03406-7"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,111 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-023-06814-x">
+            <title><![CDATA[Author Correction: Sustained antidepressant effect of ketamine through NMDAR trapping in the LHb]]></title>
+            <link>https://www.nature.com/articles/s41586-023-06814-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 November 2023; <a href="https://www.nature.com/articles/s41586-023-06814-x">doi:10.1038/s41586-023-06814-x</a></p>Author Correction: Sustained antidepressant effect of ketamine through NMDAR trapping in the LHb]]></content:encoded>
+            <dc:title><![CDATA[Author Correction: Sustained antidepressant effect of ketamine through NMDAR trapping in the LHb]]></dc:title>
+            <dc:creator>Shuangshuang Ma</dc:creator><dc:creator>Min Chen</dc:creator><dc:creator>Yihao Jiang</dc:creator><dc:creator>Xinkuan Xiang</dc:creator><dc:creator>Shiqi Wang</dc:creator><dc:creator>Zuohang Wu</dc:creator><dc:creator>Shuo Li</dc:creator><dc:creator>Yihui Cui</dc:creator><dc:creator>Junying Wang</dc:creator><dc:creator>Yanqing Zhu</dc:creator><dc:creator>Yan Zhang</dc:creator><dc:creator>Huan Ma</dc:creator><dc:creator>Shumin Duan</dc:creator><dc:creator>Haohong Li</dc:creator><dc:creator>Yan Yang</dc:creator><dc:creator>Christopher J. Lingle</dc:creator><dc:creator>Hailan Hu</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-023-06814-x</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-06; | doi:10.1038/s41586-023-06814-x</dc:source>
+            <dc:date>2023-11-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-023-06814-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-023-06814-x</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-023-06813-y">
+            <title><![CDATA[<sup>15</sup>NH<sub>3</sub> in the atmosphere of a cool brown dwarf]]></title>
+            <link>https://www.nature.com/articles/s41586-023-06813-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 November 2023; <a href="https://www.nature.com/articles/s41586-023-06813-y">doi:10.1038/s41586-023-06813-y</a></p><sup>15</sup>NH<sub>3</sub> in the atmosphere of a cool brown dwarf]]></content:encoded>
+            <dc:title><![CDATA[<sup>15</sup>NH<sub>3</sub> in the atmosphere of a cool brown dwarf]]></dc:title>
+            <dc:creator>David Barrado</dc:creator><dc:creator>Paul Mollière</dc:creator><dc:creator>Polychronis Patapis</dc:creator><dc:creator>Michiel Min</dc:creator><dc:creator>Pascal Tremblin</dc:creator><dc:creator>Francisco Ardevol Martinez</dc:creator><dc:creator>Niall Whiteford</dc:creator><dc:creator>Malavika Vasist</dc:creator><dc:creator>Ioannis Argyriou</dc:creator><dc:creator>Matthias Samland</dc:creator><dc:creator>Pierre-Olivier Lagage</dc:creator><dc:creator>Leen Decin</dc:creator><dc:creator>Rens Waters</dc:creator><dc:creator>Thomas Henning</dc:creator><dc:creator>María Morales-Calderón</dc:creator><dc:creator>Manuel Guedel</dc:creator><dc:creator>Bart Vandenbussche</dc:creator><dc:creator>Olivier Absil</dc:creator><dc:creator>Pierre Baudoz</dc:creator><dc:creator>Anthony Boccaletti</dc:creator><dc:creator>Jeroen Bouwman</dc:creator><dc:creator>Christophe Cossou</dc:creator><dc:creator>Alain Coulais</dc:creator><dc:creator>Nicolas Crouzet</dc:creator><dc:creator>René Gastaud</dc:creator><dc:creator>Alistair Glasse</dc:creator><dc:creator>Adrian M. Glauser</dc:creator><dc:creator>Inga Kamp</dc:creator><dc:creator>Sarah Kendrew</dc:creator><dc:creator>Oliver Krause</dc:creator><dc:creator>Fred Lahuis</dc:creator><dc:creator>Michael Mueller</dc:creator><dc:creator>Göran Olofsson</dc:creator><dc:creator>John Pye</dc:creator><dc:creator>Daniel Rouan</dc:creator><dc:creator>Pierre Royer</dc:creator><dc:creator>Silvia Scheithauer</dc:creator><dc:creator>Ingo Waldmann</dc:creator><dc:creator>Luis Colina</dc:creator><dc:creator>Ewine F. van Dishoeck</dc:creator><dc:creator>Tom Ray</dc:creator><dc:creator>Göran Östlin</dc:creator><dc:creator>Gillian Wright</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-023-06813-y</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-06; | doi:10.1038/s41586-023-06813-y</dc:source>
+            <dc:date>2023-11-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-023-06813-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-023-06813-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03438-z">
+            <title><![CDATA[How to make petunias naturally orange]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03438-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 November 2023; <a href="https://www.nature.com/articles/d41586-023-03438-z">doi:10.1038/d41586-023-03438-z</a></p>Biotechnologist Sara Abdou explores the genetics that regulate colour in ornamental flowers.]]></content:encoded>
+            <dc:title><![CDATA[How to make petunias naturally orange]]></dc:title>
+            <dc:creator>Nikki Forrester</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03438-z</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-06; | doi:10.1038/d41586-023-03438-z</dc:source>
+            <dc:date>2023-11-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03438-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03438-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03452-1">
+            <title><![CDATA[Spinal implant helps man with advanced Parkinson’s to walk without falling]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03452-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 November 2023; <a href="https://www.nature.com/articles/d41586-023-03452-1">doi:10.1038/d41586-023-03452-1</a></p>Electrical stimulation improved his mobility, although researchers say that a larger study is needed to assess the device.]]></content:encoded>
+            <dc:title><![CDATA[Spinal implant helps man with advanced Parkinson’s to walk without falling]]></dc:title>
+            <dc:creator>Emily Waltz</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03452-1</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-06; | doi:10.1038/d41586-023-03452-1</dc:source>
+            <dc:date>2023-11-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03452-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03452-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03306-w">
+            <title><![CDATA[Brain cancer thrives by hijacking mechanisms to boost synapse strength]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03306-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 November 2023; <a href="https://www.nature.com/articles/d41586-023-03306-w">doi:10.1038/d41586-023-03306-w</a></p>Synaptic connections between cancer cells and neurons can boost tumour growth. Analyses of brain tumours reveal how cancer cells enhance the strength of synapses with neurons to promote tumour survival.]]></content:encoded>
+            <dc:title><![CDATA[Brain cancer thrives by hijacking mechanisms to boost synapse strength]]></dc:title>
+            <dc:creator>Matthew B. Dalva</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03306-w</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-06; | doi:10.1038/d41586-023-03306-w</dc:source>
+            <dc:date>2023-11-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03306-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03306-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03464-x">
+            <title><![CDATA[How big is science’s fake-paper problem?]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03464-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 November 2023; <a href="https://www.nature.com/articles/d41586-023-03464-x">doi:10.1038/d41586-023-03464-x</a></p>An unpublished analysis suggests that there are hundreds of thousands of bogus ‘paper-mill’ articles lurking in the literature.]]></content:encoded>
+            <dc:title><![CDATA[How big is science’s fake-paper problem?]]></dc:title>
+            <dc:creator>Richard Van Noorden</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03464-x</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-06; | doi:10.1038/d41586-023-03464-x</dc:source>
+            <dc:date>2023-11-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03464-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03464-x</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03479-4">
+            <title><![CDATA[‘ChatGPT detector’ catches AI-generated papers with unprecedented accuracy]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03479-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 November 2023; <a href="https://www.nature.com/articles/d41586-023-03479-4">doi:10.1038/d41586-023-03479-4</a></p>Tool based on machine learning uses features of writing style to distinguish between human and AI authors.]]></content:encoded>
+            <dc:title><![CDATA[‘ChatGPT detector’ catches AI-generated papers with unprecedented accuracy]]></dc:title>
+            <dc:creator>McKenzie Prillaman</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03479-4</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-06; | doi:10.1038/d41586-023-03479-4</dc:source>
+            <dc:date>2023-11-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03479-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03479-4</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03437-0">
             <title><![CDATA[Five ways in which rookie lab leaders can get up to speed]]></title>
@@ -205,6 +310,36 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03425-4</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03425-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03451-2">
+            <title><![CDATA[How to keep wildcats wild: ancient DNA offers fresh insights]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03451-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 November 2023; <a href="https://www.nature.com/articles/d41586-023-03451-2">doi:10.1038/d41586-023-03451-2</a></p>Ancient-genomics studies are boosting efforts to save Scotland’s endangered ‘Highland tigers’ — and keep them separate from domestic cats.]]></content:encoded>
+            <dc:title><![CDATA[How to keep wildcats wild: ancient DNA offers fresh insights]]></dc:title>
+            <dc:creator>Ewen Callaway</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03451-2</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-06; | doi:10.1038/d41586-023-03451-2</dc:source>
+            <dc:date>2023-11-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03451-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03451-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03484-7">
+            <title><![CDATA[How five researchers fared after their ‘great resignation’ from academia]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03484-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 November 2023; <a href="https://www.nature.com/articles/d41586-023-03484-7">doi:10.1038/d41586-023-03484-7</a></p>A career leap into the unknown can be unsettling, but you can take steps to ease the transition.]]></content:encoded>
+            <dc:title><![CDATA[How five researchers fared after their ‘great resignation’ from academia]]></dc:title>
+            <dc:creator>Virginia Gewin</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03484-7</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-06; | doi:10.1038/d41586-023-03484-7</dc:source>
+            <dc:date>2023-11-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03484-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03484-7</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03386-8">
@@ -250,6 +385,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03468-7</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03468-7</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03478-5">
+            <title><![CDATA[Daily briefing: Egg-cell ‘lattice’ linked to infertility]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03478-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 03 November 2023; <a href="https://www.nature.com/articles/d41586-023-03478-5">doi:10.1038/d41586-023-03478-5</a></p>Missing fibres that usually float in egg cells could be one cause of infertility. Plus, we are busting our carbon budget and an injectable prosthesis that could help to heal damaged muscles.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Egg-cell ‘lattice’ linked to infertility]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03478-5</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-03; | doi:10.1038/d41586-023-03478-5</dc:source>
+            <dc:date>2023-11-03</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03478-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03478-5</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03414-7">
@@ -370,6 +520,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03352-4</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03352-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03466-9">
+            <title><![CDATA[Daily briefing: We finally know what causes fainting]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03466-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 02 November 2023; <a href="https://www.nature.com/articles/d41586-023-03466-9">doi:10.1038/d41586-023-03466-9</a></p>Experiments in mice have identified the neuronsresponsible for syncope — otherwise known as fainting. Plus, chunks of a different planet are stuck in Earth’s mantle and how a starfish would wear trousers.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: We finally know what causes fainting]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03466-9</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-02; | doi:10.1038/d41586-023-03466-9</dc:source>
+            <dc:date>2023-11-02</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03466-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03466-9</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03421-8">
@@ -1135,171 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03341-7</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03341-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03427-2">
-            <title><![CDATA[Daily briefing: Deep-diving seals led scientists to an undiscovered underwater canyon]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03427-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 31 October 2023; <a href="https://www.nature.com/articles/d41586-023-03427-2">doi:10.1038/d41586-023-03427-2</a></p>Researchers tracked seals diving deeper in the Antarctic Ocean than would be possible according to existing maps. Plus, mouse embryos in space suggest human babies could develop normally there.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: Deep-diving seals led scientists to an undiscovered underwater canyon]]></dc:title>
-            <dc:creator>Katrina Krämer</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03427-2</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-31; | doi:10.1038/d41586-023-03427-2</dc:source>
-            <dc:date>2023-10-31</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03427-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03427-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03316-8">
-            <title><![CDATA[Garbage in, garbage out: mitigating risks and maximizing benefits of AI in research]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03316-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 31 October 2023; <a href="https://www.nature.com/articles/d41586-023-03316-8">doi:10.1038/d41586-023-03316-8</a></p>Artificial-intelligence tools are transforming data-driven science — better ethical standards and more robust data curation are needed to fuel the boom and prevent a bust.]]></content:encoded>
-            <dc:title><![CDATA[Garbage in, garbage out: mitigating risks and maximizing benefits of AI in research]]></dc:title>
-            <dc:creator>Brooks Hanson</dc:creator><dc:creator>Shelley Stall</dc:creator><dc:creator>Joel Cutcher-Gershenfeld</dc:creator><dc:creator>Kristina Vrouwenvelder</dc:creator><dc:creator>Christopher Wirz</dc:creator><dc:creator>Yuhan (Douglas) Rao</dc:creator><dc:creator>Ge Peng</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03316-8</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-31; | doi:10.1038/d41586-023-03316-8</dc:source>
-            <dc:date>2023-10-31</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03316-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03316-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03342-6">
-            <title><![CDATA[Open-access reformers launch next bold publishing plan]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03342-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 31 October 2023; <a href="https://www.nature.com/articles/d41586-023-03342-6">doi:10.1038/d41586-023-03342-6</a></p>The group behind Plan S has already accelerated the open-access movement. Now it is proposing a more radical revolution for science publishing.]]></content:encoded>
-            <dc:title><![CDATA[Open-access reformers launch next bold publishing plan]]></dc:title>
-            <dc:creator>Layal Liverpool</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03342-6</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-31; | doi:10.1038/d41586-023-03342-6</dc:source>
-            <dc:date>2023-10-31</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03342-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03342-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03397-5">
-            <title><![CDATA[Terrifying tarantula fangs and more — October’s best science images]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03397-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 31 October 2023; <a href="https://www.nature.com/articles/d41586-023-03397-5">doi:10.1038/d41586-023-03397-5</a></p>The month’s sharpest science shots — selected by Nature’s photo team.]]></content:encoded>
-            <dc:title><![CDATA[Terrifying tarantula fangs and more — October’s best science images]]></dc:title>
-            <dc:creator>Emma Stoye</dc:creator><dc:creator>Carissa Wong</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03397-5</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-31; | doi:10.1038/d41586-023-03397-5</dc:source>
-            <dc:date>2023-10-31</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03397-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03397-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03333-7">
-            <title><![CDATA[Why the UK-led global AI summit is missing the point]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03333-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 31 October 2023; <a href="https://www.nature.com/articles/d41586-023-03333-7">doi:10.1038/d41586-023-03333-7</a></p>Robust regulation of AI technologies will be crucial to protecting against harms. Researchers’ voices must be heard.]]></content:encoded>
-            <dc:title><![CDATA[Why the UK-led global AI summit is missing the point]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-03333-7</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-31; | doi:10.1038/d41586-023-03333-7</dc:source>
-            <dc:date>2023-10-31</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03333-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03333-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03343-5">
-            <title><![CDATA[Blood-sucking fish had flesh-eating ancestors]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03343-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 31 October 2023; <a href="https://www.nature.com/articles/d41586-023-03343-5">doi:10.1038/d41586-023-03343-5</a></p>Two ‘superbly preserved’ fossil lampreys from the Jurassic period help piece together the past of the unusual jawless fish.]]></content:encoded>
-            <dc:title><![CDATA[Blood-sucking fish had flesh-eating ancestors]]></dc:title>
-            <dc:creator>Xiaoying You</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03343-5</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-31; | doi:10.1038/d41586-023-03343-5</dc:source>
-            <dc:date>2023-10-31</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03343-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03343-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06779-x">
-            <title><![CDATA[Publisher Correction: R-loop formation and conformational activation mechanisms of Cas9]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06779-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 30 October 2023; <a href="https://www.nature.com/articles/s41586-023-06779-x">doi:10.1038/s41586-023-06779-x</a></p>Publisher Correction: R-loop formation and conformational activation mechanisms of Cas9]]></content:encoded>
-            <dc:title><![CDATA[Publisher Correction: R-loop formation and conformational activation mechanisms of Cas9]]></dc:title>
-            <dc:creator>Martin Pacesa</dc:creator><dc:creator>Luuk Loeff</dc:creator><dc:creator>Irma Querques</dc:creator><dc:creator>Lena M. Muckenfuss</dc:creator><dc:creator>Marta Sawicka</dc:creator><dc:creator>Martin Jinek</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06779-x</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-30; | doi:10.1038/s41586-023-06779-x</dc:source>
-            <dc:date>2023-10-30</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06779-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06779-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03257-2">
-            <title><![CDATA[Audio long read: Why BMI is flawed — and how to redefine obesity]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03257-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 30 October 2023; <a href="https://www.nature.com/articles/d41586-023-03257-2">doi:10.1038/d41586-023-03257-2</a></p>Although body mass index is the main diagnostic test for obesity, it leaves out many factors that can affect how healthy someone is.]]></content:encoded>
-            <dc:title><![CDATA[Audio long read: Why BMI is flawed — and how to redefine obesity]]></dc:title>
-            <dc:creator>McKenzie Prillaman</dc:creator><dc:creator>Benjamin Thompson</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03257-2</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-30; | doi:10.1038/d41586-023-03257-2</dc:source>
-            <dc:date>2023-10-30</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03257-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03257-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03354-2">
-            <title><![CDATA[The Solar System’s biggest moon is spattered with salt]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03354-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 30 October 2023; <a href="https://www.nature.com/articles/d41586-023-03354-2">doi:10.1038/d41586-023-03354-2</a></p>Dried brine from a subsurface ocean speckles the surface of Ganymede, which orbits Jupiter.]]></content:encoded>
-            <dc:title><![CDATA[The Solar System’s biggest moon is spattered with salt]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-03354-2</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-30; | doi:10.1038/d41586-023-03354-2</dc:source>
-            <dc:date>2023-10-30</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03354-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03354-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03338-2">
-            <title><![CDATA[‘Ash was falling like rain’: how I became a volcanologist]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03338-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 30 October 2023; <a href="https://www.nature.com/articles/d41586-023-03338-2">doi:10.1038/d41586-023-03338-2</a></p>Richard Robertson monitors seismic activity across the Lesser Antilles islands in the Caribbean.]]></content:encoded>
-            <dc:title><![CDATA[‘Ash was falling like rain’: how I became a volcanologist]]></dc:title>
-            <dc:creator>Nicola Jones</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03338-2</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-30; | doi:10.1038/d41586-023-03338-2</dc:source>
-            <dc:date>2023-10-30</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03338-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03338-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03406-7">
-            <title><![CDATA[Did dust from the Chicxulub asteroid impact kill the dinosaurs?]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03406-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 30 October 2023; <a href="https://www.nature.com/articles/d41586-023-03406-7">doi:10.1038/d41586-023-03406-7</a></p>Fine particles kicked up by the collision could have blocked out the Sun for years, resulting in global cooling and disastrous consequences for ecosystems.]]></content:encoded>
-            <dc:title><![CDATA[Did dust from the Chicxulub asteroid impact kill the dinosaurs?]]></dc:title>
-            <dc:creator>Katharine Sanderson</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03406-7</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-30; | doi:10.1038/d41586-023-03406-7</dc:source>
-            <dc:date>2023-10-30</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03406-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03406-7</prism:url>
         </item>
     
 </rdf:RDF>
