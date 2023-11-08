@@ -18,23 +18,41 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06775-1"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06774-2"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06815-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06804-z"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03459-8"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03480-x"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03462-z"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03460-1"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03432-5"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03461-0"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03426-3"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03398-4"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03424-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03483-8"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03453-0"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06814-x"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06813-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03402-x"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03438-z"/>
                 
@@ -43,6 +61,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03306-w"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03464-x"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03488-3"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03479-4"/>
                 
@@ -148,26 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03450-3"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03123-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03076-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03418-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03079-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03307-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03385-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03336-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03211-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06778-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06783-1"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,21 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-023-06775-1">
+            <title><![CDATA[Recognition of methamphetamine and other amines by trace amine receptor TAAR1]]></title>
+            <link>https://www.nature.com/articles/s41586-023-06775-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 07 November 2023; <a href="https://www.nature.com/articles/s41586-023-06775-1">doi:10.1038/s41586-023-06775-1</a></p>Recognition of methamphetamine and other amines by trace amine receptor TAAR1]]></content:encoded>
+            <dc:title><![CDATA[Recognition of methamphetamine and other amines by trace amine receptor TAAR1]]></dc:title>
+            <dc:creator>Heng Liu</dc:creator><dc:creator>You Zheng</dc:creator><dc:creator>Yue Wang</dc:creator><dc:creator>Yumeng Wang</dc:creator><dc:creator>Xinheng He</dc:creator><dc:creator>Peiyu Xu</dc:creator><dc:creator>Sijie Huang</dc:creator><dc:creator>Qingning Yuan</dc:creator><dc:creator>Xinyue Zhang</dc:creator><dc:creator>Ling Wang</dc:creator><dc:creator>Kexin Jiang</dc:creator><dc:creator>Hong Chen</dc:creator><dc:creator>Zhen Li</dc:creator><dc:creator>Wenbin Liu</dc:creator><dc:creator>Sheng Wang</dc:creator><dc:creator>H. Eric Xu</dc:creator><dc:creator>Fei Xu</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-023-06775-1</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-07; | doi:10.1038/s41586-023-06775-1</dc:source>
+            <dc:date>2023-11-07</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-023-06775-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-023-06775-1</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06774-2">
             <title><![CDATA[Retraction Note: Evidence of near-ambient superconductivity in a N-doped lutetium hydride]]></title>
@@ -192,6 +207,36 @@
             <prism:url>https://www.nature.com/articles/s41586-023-06774-2</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/s41586-023-06815-w">
+            <title><![CDATA[Publisher Correction: First observation of <sup>28</sup>O]]></title>
+            <link>https://www.nature.com/articles/s41586-023-06815-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 07 November 2023; <a href="https://www.nature.com/articles/s41586-023-06815-w">doi:10.1038/s41586-023-06815-w</a></p>Publisher Correction: First observation of <sup>28</sup>O]]></content:encoded>
+            <dc:title><![CDATA[Publisher Correction: First observation of <sup>28</sup>O]]></dc:title>
+            <dc:creator>Y. Kondo</dc:creator><dc:creator>N. L. Achouri</dc:creator><dc:creator>H. Al Falou</dc:creator><dc:creator>L. Atar</dc:creator><dc:creator>T. Aumann</dc:creator><dc:creator>H. Baba</dc:creator><dc:creator>K. Boretzky</dc:creator><dc:creator>C. Caesar</dc:creator><dc:creator>D. Calvet</dc:creator><dc:creator>H. Chae</dc:creator><dc:creator>N. Chiga</dc:creator><dc:creator>A. Corsi</dc:creator><dc:creator>F. Delaunay</dc:creator><dc:creator>A. Delbart</dc:creator><dc:creator>Q. Deshayes</dc:creator><dc:creator>Zs. Dombrádi</dc:creator><dc:creator>C. A. Douma</dc:creator><dc:creator>A. Ekström</dc:creator><dc:creator>Z. Elekes</dc:creator><dc:creator>C. Forssén</dc:creator><dc:creator>I. Gašparić</dc:creator><dc:creator>J.-M. Gheller</dc:creator><dc:creator>J. Gibelin</dc:creator><dc:creator>A. Gillibert</dc:creator><dc:creator>G. Hagen</dc:creator><dc:creator>M. N. Harakeh</dc:creator><dc:creator>A. Hirayama</dc:creator><dc:creator>C. R. Hoffman</dc:creator><dc:creator>M. Holl</dc:creator><dc:creator>A. Horvat</dc:creator><dc:creator>Á. Horváth</dc:creator><dc:creator>J. W. Hwang</dc:creator><dc:creator>T. Isobe</dc:creator><dc:creator>W. G. Jiang</dc:creator><dc:creator>J. Kahlbow</dc:creator><dc:creator>N. Kalantar-Nayestanaki</dc:creator><dc:creator>S. Kawase</dc:creator><dc:creator>S. Kim</dc:creator><dc:creator>K. Kisamori</dc:creator><dc:creator>T. Kobayashi</dc:creator><dc:creator>D. Körper</dc:creator><dc:creator>S. Koyama</dc:creator><dc:creator>I. Kuti</dc:creator><dc:creator>V. Lapoux</dc:creator><dc:creator>S. Lindberg</dc:creator><dc:creator>F. M. Marqués</dc:creator><dc:creator>S. Masuoka</dc:creator><dc:creator>J. Mayer</dc:creator><dc:creator>K. Miki</dc:creator><dc:creator>T. Murakami</dc:creator><dc:creator>M. Najafi</dc:creator><dc:creator>T. Nakamura</dc:creator><dc:creator>K. Nakano</dc:creator><dc:creator>N. Nakatsuka</dc:creator><dc:creator>T. Nilsson</dc:creator><dc:creator>A. Obertelli</dc:creator><dc:creator>K. Ogata</dc:creator><dc:creator>F. de Oliveira Santos</dc:creator><dc:creator>N. A. Orr</dc:creator><dc:creator>H. Otsu</dc:creator><dc:creator>T. Otsuka</dc:creator><dc:creator>T. Ozaki</dc:creator><dc:creator>V. Panin</dc:creator><dc:creator>T. Papenbrock</dc:creator><dc:creator>S. Paschalis</dc:creator><dc:creator>A. Revel</dc:creator><dc:creator>D. Rossi</dc:creator><dc:creator>A. T. Saito</dc:creator><dc:creator>T. Y. Saito</dc:creator><dc:creator>M. Sasano</dc:creator><dc:creator>H. Sato</dc:creator><dc:creator>Y. Satou</dc:creator><dc:creator>H. Scheit</dc:creator><dc:creator>F. Schindler</dc:creator><dc:creator>P. Schrock</dc:creator><dc:creator>M. Shikata</dc:creator><dc:creator>N. Shimizu</dc:creator><dc:creator>Y. Shimizu</dc:creator><dc:creator>H. Simon</dc:creator><dc:creator>D. Sohler</dc:creator><dc:creator>O. Sorlin</dc:creator><dc:creator>L. Stuhl</dc:creator><dc:creator>Z. H. Sun</dc:creator><dc:creator>S. Takeuchi</dc:creator><dc:creator>M. Tanaka</dc:creator><dc:creator>M. Thoennessen</dc:creator><dc:creator>H. Törnqvist</dc:creator><dc:creator>Y. Togano</dc:creator><dc:creator>T. Tomai</dc:creator><dc:creator>J. Tscheuschner</dc:creator><dc:creator>J. Tsubota</dc:creator><dc:creator>N. Tsunoda</dc:creator><dc:creator>T. Uesaka</dc:creator><dc:creator>Y. Utsuno</dc:creator><dc:creator>I. Vernon</dc:creator><dc:creator>H. Wang</dc:creator><dc:creator>Z. Yang</dc:creator><dc:creator>M. Yasuda</dc:creator><dc:creator>K. Yoneda</dc:creator><dc:creator>S. Yoshida</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-023-06815-w</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-07; | doi:10.1038/s41586-023-06815-w</dc:source>
+            <dc:date>2023-11-07</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-023-06815-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-023-06815-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-023-06804-z">
+            <title><![CDATA[Ligand recognition and G protein coupling of trace amine receptor TAAR1]]></title>
+            <link>https://www.nature.com/articles/s41586-023-06804-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 07 November 2023; <a href="https://www.nature.com/articles/s41586-023-06804-z">doi:10.1038/s41586-023-06804-z</a></p>Ligand recognition and G protein coupling of trace amine receptor TAAR1]]></content:encoded>
+            <dc:title><![CDATA[Ligand recognition and G protein coupling of trace amine receptor TAAR1]]></dc:title>
+            <dc:creator>Zheng Xu</dc:creator><dc:creator>Lulu Guo</dc:creator><dc:creator>Jingjing Yu</dc:creator><dc:creator>Siyuan Shen</dc:creator><dc:creator>Chao Wu</dc:creator><dc:creator>Weifeng Zhang</dc:creator><dc:creator>Chang Zhao</dc:creator><dc:creator>Yue Deng</dc:creator><dc:creator>Xiaowen Tian</dc:creator><dc:creator>Yuying Feng</dc:creator><dc:creator>Hanlin Hou</dc:creator><dc:creator>Lantian Su</dc:creator><dc:creator>Hongshuang Wang</dc:creator><dc:creator>Shuo Guo</dc:creator><dc:creator>Heli Wang</dc:creator><dc:creator>Kexin Wang</dc:creator><dc:creator>Peipei Chen</dc:creator><dc:creator>Jie Zhao</dc:creator><dc:creator>Xiaoyu Zhang</dc:creator><dc:creator>Xihao Yong</dc:creator><dc:creator>Lin Cheng</dc:creator><dc:creator>Lunxu Liu</dc:creator><dc:creator>Shengyong Yang</dc:creator><dc:creator>Fan Yang</dc:creator><dc:creator>Xiaohui Wang</dc:creator><dc:creator>Xiao Yu</dc:creator><dc:creator>Yunfei Xu</dc:creator><dc:creator>Jin-Peng Sun</dc:creator><dc:creator>Wei Yan</dc:creator><dc:creator>Zhenhua Shao</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-023-06804-z</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-07; | doi:10.1038/s41586-023-06804-z</dc:source>
+            <dc:date>2023-11-07</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-023-06804-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-023-06804-z</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-023-03459-8">
             <title><![CDATA[Nobel win: spotlight on the attrition of women in science]]></title>
             <link>https://www.nature.com/articles/d41586-023-03459-8</link>
@@ -205,6 +250,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03459-8</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03459-8</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03480-x">
+            <title><![CDATA[Cutting health and science support should not be an option in Argentina’s election]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03480-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 07 November 2023; <a href="https://www.nature.com/articles/d41586-023-03480-x">doi:10.1038/d41586-023-03480-x</a></p>As the nation chooses its next president, citizens must consider the wider benefits of research investment — long-term prosperity, well-being and growth.]]></content:encoded>
+            <dc:title><![CDATA[Cutting health and science support should not be an option in Argentina’s election]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-03480-x</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-07; | doi:10.1038/d41586-023-03480-x</dc:source>
+            <dc:date>2023-11-07</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03480-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03480-x</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03462-z">
@@ -237,6 +297,21 @@
             <prism:url>https://www.nature.com/articles/d41586-023-03460-1</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03432-5">
+            <title><![CDATA[From the archive: why the chicken crossed the road, and a frog in puffed breeches]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03432-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 07 November 2023; <a href="https://www.nature.com/articles/d41586-023-03432-5">doi:10.1038/d41586-023-03432-5</a></p>Snippets from Nature’s past.]]></content:encoded>
+            <dc:title><![CDATA[From the archive: why the chicken crossed the road, and a frog in puffed breeches]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-03432-5</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-07; | doi:10.1038/d41586-023-03432-5</dc:source>
+            <dc:date>2023-11-07</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03432-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03432-5</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-023-03461-0">
             <title><![CDATA[Stop violation of international water laws in Gaza]]></title>
             <link>https://www.nature.com/articles/d41586-023-03461-0</link>
@@ -267,6 +342,21 @@
             <prism:url>https://www.nature.com/articles/d41586-023-03426-3</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03398-4">
+            <title><![CDATA[<i>Nature</i> retracts controversial superconductivity paper by embattled physicist]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03398-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 07 November 2023; <a href="https://www.nature.com/articles/d41586-023-03398-4">doi:10.1038/d41586-023-03398-4</a></p>This is the third high-profile retraction for Ranga Dias. Researchers worry the controversy is damaging the field’s reputation.]]></content:encoded>
+            <dc:title><![CDATA[<i>Nature</i> retracts controversial superconductivity paper by embattled physicist]]></dc:title>
+            <dc:creator>Davide Castelvecchi</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03398-4</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-07; | doi:10.1038/d41586-023-03398-4</dc:source>
+            <dc:date>2023-11-07</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03398-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03398-4</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-023-03424-5">
             <title><![CDATA[The ‘brazen’ science that paved the way for the Higgs boson (and a lot more)]]></title>
             <link>https://www.nature.com/articles/d41586-023-03424-5</link>
@@ -280,6 +370,36 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03424-5</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03424-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03483-8">
+            <title><![CDATA[The new Twitter is becoming a cesspit of disinformation — study it now]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03483-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 07 November 2023; <a href="https://www.nature.com/articles/d41586-023-03483-8">doi:10.1038/d41586-023-03483-8</a></p>Social-media researchers overemphasized the platform now called X for years. But now, as it rapidly changes into something new and frightening, we risk paying too little attention.]]></content:encoded>
+            <dc:title><![CDATA[The new Twitter is becoming a cesspit of disinformation — study it now]]></dc:title>
+            <dc:creator>Mike Caulfield</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03483-8</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-07; | doi:10.1038/d41586-023-03483-8</dc:source>
+            <dc:date>2023-11-07</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03483-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03483-8</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03453-0">
+            <title><![CDATA[Dengue is spreading. Can new vaccines and antivirals halt its rise?]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03453-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 07 November 2023; <a href="https://www.nature.com/articles/d41586-023-03453-0">doi:10.1038/d41586-023-03453-0</a></p>Scientists warn that it will take multiple methods to stop the disease, which is also known as breakbone fever and was once confined to the tropics.]]></content:encoded>
+            <dc:title><![CDATA[Dengue is spreading. Can new vaccines and antivirals halt its rise?]]></dc:title>
+            <dc:creator>Mariana Lenharo</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03453-0</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-07; | doi:10.1038/d41586-023-03453-0</dc:source>
+            <dc:date>2023-11-07</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03453-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03453-0</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06814-x">
@@ -310,6 +430,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/s41586-023-06813-y</prism:doi>
             <prism:url>https://www.nature.com/articles/s41586-023-06813-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03402-x">
+            <title><![CDATA[Powerful gusts unleashed by thunderstorms are getting stronger]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03402-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 November 2023; <a href="https://www.nature.com/articles/d41586-023-03402-x">doi:10.1038/d41586-023-03402-x</a></p>Climate change is intensifying straight-line winds, which can be as damaging as tornadoes.]]></content:encoded>
+            <dc:title><![CDATA[Powerful gusts unleashed by thunderstorms are getting stronger]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-03402-x</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-06; | doi:10.1038/d41586-023-03402-x</dc:source>
+            <dc:date>2023-11-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03402-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03402-x</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03438-z">
@@ -370,6 +505,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03464-x</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03464-x</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03488-3">
+            <title><![CDATA[Daily briefing: Countries begin weaving an AI safety net]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03488-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 November 2023; <a href="https://www.nature.com/articles/d41586-023-03488-3">doi:10.1038/d41586-023-03488-3</a></p>New AI-safety plans have been whipped up by the United States and by leaders at a UK-hosted summit Plus, a bold call for the ‘right to science’ and how our nostrils smell in stereo.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Countries begin weaving an AI safety net]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03488-3</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-06; | doi:10.1038/d41586-023-03488-3</dc:source>
+            <dc:date>2023-11-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03488-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03488-3</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03479-4">
@@ -448,11 +598,11 @@
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03386-8">
-            <title><![CDATA[Coffee in stereo: how your brain records an odour’s spatial information]]></title>
+            <title><![CDATA[Coffee in stereo: your brain records an odour’s spatial information]]></title>
             <link>https://www.nature.com/articles/d41586-023-03386-8</link>
             <content:encoded>
                 <![CDATA[<p>Nature, Published online: 03 November 2023; <a href="https://www.nature.com/articles/d41586-023-03386-8">doi:10.1038/d41586-023-03386-8</a></p>Scent information from the two nostrils leads to two types of neural activity.]]></content:encoded>
-            <dc:title><![CDATA[Coffee in stereo: how your brain records an odour’s spatial information]]></dc:title>
+            <dc:title><![CDATA[Coffee in stereo: your brain records an odour’s spatial information]]></dc:title>
             <dc:creator>Saima Sidik</dc:creator>
             <dc:identifier>doi:10.1038/d41586-023-03386-8</dc:identifier>
             <dc:source>Nature, Published online: 2023-11-03; | doi:10.1038/d41586-023-03386-8</dc:source>
@@ -1150,156 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03450-3</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03450-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03123-1">
-            <title><![CDATA[A radical evolutionary makeover gave echinoderms their unusual body plan]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03123-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 01 November 2023; <a href="https://www.nature.com/articles/d41586-023-03123-1">doi:10.1038/d41586-023-03123-1</a></p>Echinoderms such as starfish are unusual for their five-fold body symmetry. Maps of gene-expression patterns show how this body plan was acquired, and that the genes specifying head structures do the heavy lifting.]]></content:encoded>
-            <dc:title><![CDATA[A radical evolutionary makeover gave echinoderms their unusual body plan]]></dc:title>
-            <dc:creator>Thurston Lacalli</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03123-1</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-01; | doi:10.1038/d41586-023-03123-1</dc:source>
-            <dc:date>2023-11-01</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03123-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03123-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03076-5">
-            <title><![CDATA[Identification of neuronal connections between heart and brain that trigger fainting]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03076-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 01 November 2023; <a href="https://www.nature.com/articles/d41586-023-03076-5">doi:10.1038/d41586-023-03076-5</a></p>The neural pathways involved in syncope, or fainting, are not well understood. Studies in mice have identified a defined subset of vagal sensory neurons that connect the heart and brain. Stimulation of these neurons causes reduced heart rate, blood pressure, breathing and neuronal activity in the brain, resulting in syncope.]]></content:encoded>
-            <dc:title><![CDATA[Identification of neuronal connections between heart and brain that trigger fainting]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-03076-5</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-01; | doi:10.1038/d41586-023-03076-5</dc:source>
-            <dc:date>2023-11-01</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03076-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03076-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03418-3">
-            <title><![CDATA[The fight to end bullying in academia: UK researchers launch nationwide campaign]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03418-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 01 November 2023; <a href="https://www.nature.com/articles/d41586-023-03418-3">doi:10.1038/d41586-023-03418-3</a></p>Representatives from several UK universities have set up a dedicated advocacy group to which targets of bullying can go for support.]]></content:encoded>
-            <dc:title><![CDATA[The fight to end bullying in academia: UK researchers launch nationwide campaign]]></dc:title>
-            <dc:creator>Alexandra Witze</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03418-3</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-01; | doi:10.1038/d41586-023-03418-3</dc:source>
-            <dc:date>2023-11-01</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03418-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03418-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03079-2">
-            <title><![CDATA[Genome rewriting generates mouse models of human diseases]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03079-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 01 November 2023; <a href="https://www.nature.com/articles/d41586-023-03079-2">doi:10.1038/d41586-023-03079-2</a></p>Many human diseases lack accurate mouse models because it is technically difficult to create extensively genetically humanized mice. A technique that allows large stretches of DNA to be rapidly rewritten in mouse embryonic stem cells can be used to produce improved animal models.]]></content:encoded>
-            <dc:title><![CDATA[Genome rewriting generates mouse models of human diseases]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-03079-2</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-01; | doi:10.1038/d41586-023-03079-2</dc:source>
-            <dc:date>2023-11-01</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03079-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03079-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03307-9">
-            <title><![CDATA[Getting to the heart of thick-filament structure]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03307-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 01 November 2023; <a href="https://www.nature.com/articles/d41586-023-03307-9">doi:10.1038/d41586-023-03307-9</a></p>Thick filaments contain the protein myosin that generates the force of every heartbeat. Two studies report how these myosin molecules pack together in thick filaments with other proteins to form a surprisingly complex structure.]]></content:encoded>
-            <dc:title><![CDATA[Getting to the heart of thick-filament structure]]></dc:title>
-            <dc:creator>Peter J. Knight</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03307-9</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-01; | doi:10.1038/d41586-023-03307-9</dc:source>
-            <dc:date>2023-11-01</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03307-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03307-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03385-9">
-            <title><![CDATA[Strange blobs in Earth’s mantle are relics of a massive collision]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03385-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 01 November 2023; <a href="https://www.nature.com/articles/d41586-023-03385-9">doi:10.1038/d41586-023-03385-9</a></p>Impact with a body called Theia 4.5 billion years ago left remnants deep inside Earth — and also created the Moon.]]></content:encoded>
-            <dc:title><![CDATA[Strange blobs in Earth’s mantle are relics of a massive collision]]></dc:title>
-            <dc:creator>Anil Oza</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03385-9</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-01; | doi:10.1038/d41586-023-03385-9</dc:source>
-            <dc:date>2023-11-01</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03385-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03385-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03336-4">
-            <title><![CDATA[Keeping secrets in a quantum world]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03336-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 01 November 2023; <a href="https://www.nature.com/articles/d41586-023-03336-4">doi:10.1038/d41586-023-03336-4</a></p>Cryptographers are preparing for new quantum computers that will break their ciphers.]]></content:encoded>
-            <dc:title><![CDATA[Keeping secrets in a quantum world]]></dc:title>
-            <dc:creator>Neil Savage</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03336-4</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-01; | doi:10.1038/d41586-023-03336-4</dc:source>
-            <dc:date>2023-11-01</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03336-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03336-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03211-2">
-            <title><![CDATA[Hydrogel implant rehabilitates muscles through electrical stimulation]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03211-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 01 November 2023; <a href="https://www.nature.com/articles/d41586-023-03211-2">doi:10.1038/d41586-023-03211-2</a></p>An electrically conductive hydrogel injected into an injured muscle can help the muscle to regenerate and reconnect with the nervous system. This effective soft prosthesis has enabled rats to walk soon after muscular injury.]]></content:encoded>
-            <dc:title><![CDATA[Hydrogel implant rehabilitates muscles through electrical stimulation]]></dc:title>
-            <dc:creator>Milica Radisic</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03211-2</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-01; | doi:10.1038/d41586-023-03211-2</dc:source>
-            <dc:date>2023-11-01</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03211-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03211-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06778-y">
-            <title><![CDATA[Author Correction: H3K4me3 regulates RNA polymerase II promoter-proximal pause-release]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06778-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 31 October 2023; <a href="https://www.nature.com/articles/s41586-023-06778-y">doi:10.1038/s41586-023-06778-y</a></p>Author Correction: H3K4me3 regulates RNA polymerase II promoter-proximal pause-release]]></content:encoded>
-            <dc:title><![CDATA[Author Correction: H3K4me3 regulates RNA polymerase II promoter-proximal pause-release]]></dc:title>
-            <dc:creator>Hua Wang</dc:creator><dc:creator>Zheng Fan</dc:creator><dc:creator>Pavel V. Shliaha</dc:creator><dc:creator>Matthew Miele</dc:creator><dc:creator>Ronald C. Hendrickson</dc:creator><dc:creator>Xuejun Jiang</dc:creator><dc:creator>Kristian Helin</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06778-y</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-31; | doi:10.1038/s41586-023-06778-y</dc:source>
-            <dc:date>2023-10-31</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06778-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06778-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06783-1">
-            <title><![CDATA[CHIT1-positive microglia drive motor neuron aging in the primate spinal cord]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06783-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 31 October 2023; <a href="https://www.nature.com/articles/s41586-023-06783-1">doi:10.1038/s41586-023-06783-1</a></p>CHIT1-positive microglia drive motor neuron aging in the primate spinal cord]]></content:encoded>
-            <dc:title><![CDATA[CHIT1-positive microglia drive motor neuron aging in the primate spinal cord]]></dc:title>
-            <dc:creator>Shuhui Sun</dc:creator><dc:creator>Jiaming Li</dc:creator><dc:creator>Si Wang</dc:creator><dc:creator>Jingyi Li</dc:creator><dc:creator>Jie Ren</dc:creator><dc:creator>Zhaoshi Bao</dc:creator><dc:creator>Le Sun</dc:creator><dc:creator>Xibo Ma</dc:creator><dc:creator>Fangshuo Zheng</dc:creator><dc:creator>Shuai Ma</dc:creator><dc:creator>Liang Sun</dc:creator><dc:creator>Min Wang</dc:creator><dc:creator>Yan Yu</dc:creator><dc:creator>Miyang Ma</dc:creator><dc:creator>Qiaoran Wang</dc:creator><dc:creator>Zhiyuan Chen</dc:creator><dc:creator>He Ma</dc:creator><dc:creator>Xuebao Wang</dc:creator><dc:creator>Zeming Wu</dc:creator><dc:creator>Hui Zhang</dc:creator><dc:creator>Kaowen Yan</dc:creator><dc:creator>Yuanhan Yang</dc:creator><dc:creator>Yixin Zhang</dc:creator><dc:creator>Sheng Zhang</dc:creator><dc:creator>Jinghui Lei</dc:creator><dc:creator>Zhao-Qian Teng</dc:creator><dc:creator>Chang-Mei Liu</dc:creator><dc:creator>Ge Bai</dc:creator><dc:creator>Yan-Jiang Wang</dc:creator><dc:creator>Jian Li</dc:creator><dc:creator>Xiaoqun Wang</dc:creator><dc:creator>Guoguang Zhao</dc:creator><dc:creator>Tao Jiang</dc:creator><dc:creator>Juan Carlos Izpisua Belmonte</dc:creator><dc:creator>Jing Qu</dc:creator><dc:creator>Weiqi Zhang</dc:creator><dc:creator>Guang-Hui Liu</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06783-1</dc:identifier>
-            <dc:source>Nature, Published online: 2023-10-31; | doi:10.1038/s41586-023-06783-1</dc:source>
-            <dc:date>2023-10-31</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06783-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06783-1</prism:url>
         </item>
     
 </rdf:RDF>
