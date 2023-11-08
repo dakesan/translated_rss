@@ -18,6 +18,14 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03490-9"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03496-3"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03411-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03423-6"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06775-1"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06774-2"/>
@@ -34,6 +42,8 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03460-1"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03401-y"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03432-5"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03461-0"/>
@@ -47,6 +57,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03483-8"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03453-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03494-5"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06814-x"/>
                 
@@ -156,18 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03454-z"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03334-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03082-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03297-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03448-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03332-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03450-3"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,66 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03490-9">
+            <title><![CDATA[How Paris is becoming a happy home for health-technology start-up companies]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03490-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 November 2023; <a href="https://www.nature.com/articles/d41586-023-03490-9">doi:10.1038/d41586-023-03490-9</a></p>A long-term investment plan is helping the French capital to attract talent.]]></content:encoded>
+            <dc:title><![CDATA[How Paris is becoming a happy home for health-technology start-up companies]]></dc:title>
+            <dc:creator>Nic Fleming</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03490-9</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-08; | doi:10.1038/d41586-023-03490-9</dc:source>
+            <dc:date>2023-11-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03490-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03490-9</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03496-3">
+            <title><![CDATA[Why a climate researcher pushed the limits of low-carbon travel — and his employer’s patience]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03496-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 November 2023; <a href="https://www.nature.com/articles/d41586-023-03496-3">doi:10.1038/d41586-023-03496-3</a></p>A refusal to fly to Papua New Guinea for fieldwork took Gianluca Grimalda the long way across 22,000 kilometres and 12 countries.]]></content:encoded>
+            <dc:title><![CDATA[Why a climate researcher pushed the limits of low-carbon travel — and his employer’s patience]]></dc:title>
+            <dc:creator>Christine Ro</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03496-3</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-08; | doi:10.1038/d41586-023-03496-3</dc:source>
+            <dc:date>2023-11-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03496-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03496-3</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03411-w">
+            <title><![CDATA[Why postdocs need entrepreneurship training]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03411-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 November 2023; <a href="https://www.nature.com/articles/d41586-023-03411-w">doi:10.1038/d41586-023-03411-w</a></p>Landing tenure is a pipe dream for most postdoctoral researchers. They need business skills to help them thrive outside academia.]]></content:encoded>
+            <dc:title><![CDATA[Why postdocs need entrepreneurship training]]></dc:title>
+            <dc:creator>Muhammad Shehryar Khan</dc:creator><dc:creator>Jeffrey Casello</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03411-w</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-08; | doi:10.1038/d41586-023-03411-w</dc:source>
+            <dc:date>2023-11-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03411-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03411-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03423-6">
+            <title><![CDATA[The rise of brain-reading technology: what you need to know]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03423-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 November 2023; <a href="https://www.nature.com/articles/d41586-023-03423-6">doi:10.1038/d41586-023-03423-6</a></p>As implanted devices and commercial headsets advance, what will the real-world impacts be?]]></content:encoded>
+            <dc:title><![CDATA[The rise of brain-reading technology: what you need to know]]></dc:title>
+            <dc:creator>Liam Drew</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03423-6</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-08; | doi:10.1038/d41586-023-03423-6</dc:source>
+            <dc:date>2023-11-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03423-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03423-6</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06775-1">
             <title><![CDATA[Recognition of methamphetamine and other amines by trace amine receptor TAAR1]]></title>
@@ -297,6 +357,21 @@
             <prism:url>https://www.nature.com/articles/d41586-023-03460-1</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03401-y">
+            <title><![CDATA[Male-killing virus leads to more female moths]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03401-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 07 November 2023; <a href="https://www.nature.com/articles/d41586-023-03401-y">doi:10.1038/d41586-023-03401-y</a></p>Virus that quashes survival of male moth embryos arose independently of other microorganisms that skew sex ratios.]]></content:encoded>
+            <dc:title><![CDATA[Male-killing virus leads to more female moths]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-03401-y</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-07; | doi:10.1038/d41586-023-03401-y</dc:source>
+            <dc:date>2023-11-07</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03401-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03401-y</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-023-03432-5">
             <title><![CDATA[From the archive: why the chicken crossed the road, and a frog in puffed breeches]]></title>
             <link>https://www.nature.com/articles/d41586-023-03432-5</link>
@@ -373,11 +448,11 @@
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03483-8">
-            <title><![CDATA[The new Twitter is becoming a cesspit of disinformation — study it now]]></title>
+            <title><![CDATA[The new Twitter is changing rapidly — study it before it’s too late]]></title>
             <link>https://www.nature.com/articles/d41586-023-03483-8</link>
             <content:encoded>
                 <![CDATA[<p>Nature, Published online: 07 November 2023; <a href="https://www.nature.com/articles/d41586-023-03483-8">doi:10.1038/d41586-023-03483-8</a></p>Social-media researchers overemphasized the platform now called X for years. But now, as it rapidly changes into something new and frightening, we risk paying too little attention.]]></content:encoded>
-            <dc:title><![CDATA[The new Twitter is becoming a cesspit of disinformation — study it now]]></dc:title>
+            <dc:title><![CDATA[The new Twitter is changing rapidly — study it before it’s too late]]></dc:title>
             <dc:creator>Mike Caulfield</dc:creator>
             <dc:identifier>doi:10.1038/d41586-023-03483-8</dc:identifier>
             <dc:source>Nature, Published online: 2023-11-07; | doi:10.1038/d41586-023-03483-8</dc:source>
@@ -400,6 +475,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03453-0</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03453-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03494-5">
+            <title><![CDATA[Daily briefing: Blockbuster room-temperature superconductivity paper retracted]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03494-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 07 November 2023; <a href="https://www.nature.com/articles/d41586-023-03494-5">doi:10.1038/d41586-023-03494-5</a></p>Nature superconductivity paper is the third high-profile retraction for the two lead authors. Plus, how to breed house-cat DNA out of Scottish wildcats and a NASA spacecraft spots an asteroid’s tiny companion.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Blockbuster room-temperature superconductivity paper retracted]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03494-5</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-07; | doi:10.1038/d41586-023-03494-5</dc:source>
+            <dc:date>2023-11-07</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03494-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03494-5</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06814-x">
@@ -1210,96 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03454-z</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03454-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03334-6">
-            <title><![CDATA[Psychedelic treatments are speeding towards approval — but no one knows how they work]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03334-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 01 November 2023; <a href="https://www.nature.com/articles/d41586-023-03334-6">doi:10.1038/d41586-023-03334-6</a></p>Many questions remain about the formerly taboo chemicals that are being used to treat trauma and depression.]]></content:encoded>
-            <dc:title><![CDATA[Psychedelic treatments are speeding towards approval — but no one knows how they work]]></dc:title>
-            <dc:creator>Sara Reardon</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03334-6</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-01; | doi:10.1038/d41586-023-03334-6</dc:source>
-            <dc:date>2023-11-01</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03334-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03334-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03082-7">
-            <title><![CDATA[Personal motivations polarize people’s memories of the COVID-19 pandemic]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03082-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 01 November 2023; <a href="https://www.nature.com/articles/d41586-023-03082-7">doi:10.1038/d41586-023-03082-7</a></p>How accurately a person recalls the COVID-19 pandemic is affected by motivational factors, including how they feel about their vaccination status. The recollections of vaccinated and unvaccinated people are skewed in opposite directions, leading to different retrospective narratives about the pandemic. This distorted recall influences how individuals evaluate past political action, and will complicate preparation for future crises.]]></content:encoded>
-            <dc:title><![CDATA[Personal motivations polarize people’s memories of the COVID-19 pandemic]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-03082-7</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-01; | doi:10.1038/d41586-023-03082-7</dc:source>
-            <dc:date>2023-11-01</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03082-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03082-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03297-8">
-            <title><![CDATA[Atom-swap chemistry could aid drug discovery]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03297-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 01 November 2023; <a href="https://www.nature.com/articles/d41586-023-03297-8">doi:10.1038/d41586-023-03297-8</a></p>An unconventional route for modifying pharmaceutically relevant molecules swaps an atom of carbon for one of nitrogen. The resulting derivatives might open up avenues of research in medicinal-chemistry campaigns.]]></content:encoded>
-            <dc:title><![CDATA[Atom-swap chemistry could aid drug discovery]]></dc:title>
-            <dc:creator>Filippo Ficarra</dc:creator><dc:creator>Mattia Silvi</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03297-8</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-01; | doi:10.1038/d41586-023-03297-8</dc:source>
-            <dc:date>2023-11-01</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03297-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03297-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03448-x">
-            <title><![CDATA[‘Groundbreaking’: first treatment targeting ‘super-gonorrhoea’ passes trial]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03448-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 01 November 2023; <a href="https://www.nature.com/articles/d41586-023-03448-x">doi:10.1038/d41586-023-03448-x</a></p>Antibiotic could turn the tide on drug-resistant form of the infection — if it’s used wisely.]]></content:encoded>
-            <dc:title><![CDATA[‘Groundbreaking’: first treatment targeting ‘super-gonorrhoea’ passes trial]]></dc:title>
-            <dc:creator>Ewen Callaway</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03448-x</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-01; | doi:10.1038/d41586-023-03448-x</dc:source>
-            <dc:date>2023-11-01</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03448-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03448-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03332-8">
-            <title><![CDATA[Protect the ‘right to science’ for people and the planet]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03332-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 01 November 2023; <a href="https://www.nature.com/articles/d41586-023-03332-8">doi:10.1038/d41586-023-03332-8</a></p>Upholding human rights can ensure that environmental policy is driven by facts and evidence, not denialism, greed and profit.]]></content:encoded>
-            <dc:title><![CDATA[Protect the ‘right to science’ for people and the planet]]></dc:title>
-            <dc:creator>Volker Türk</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03332-8</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-01; | doi:10.1038/d41586-023-03332-8</dc:source>
-            <dc:date>2023-11-01</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03332-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03332-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03450-3">
-            <title><![CDATA[What causes fainting? Scientists finally have an answer]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03450-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 01 November 2023; <a href="https://www.nature.com/articles/d41586-023-03450-3">doi:10.1038/d41586-023-03450-3</a></p>Mouse experiments reveal the brain–heart connections that cause us to lose consciousness rapidly — and wake up moments later.]]></content:encoded>
-            <dc:title><![CDATA[What causes fainting? Scientists finally have an answer]]></dc:title>
-            <dc:creator>Miryam Naddaf</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03450-3</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-01; | doi:10.1038/d41586-023-03450-3</dc:source>
-            <dc:date>2023-11-01</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03450-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03450-3</prism:url>
         </item>
     
 </rdf:RDF>
