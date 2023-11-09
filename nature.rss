@@ -18,6 +18,10 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06796-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03400-z"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06731-z"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03499-0"/>
@@ -164,10 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03479-4"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03437-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03425-4"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,36 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-023-06796-w">
+            <title><![CDATA[Author Correction: Plastic pollution on the world’s coral reefs]]></title>
+            <link>https://www.nature.com/articles/s41586-023-06796-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 09 November 2023; <a href="https://www.nature.com/articles/s41586-023-06796-w">doi:10.1038/s41586-023-06796-w</a></p>Author Correction: Plastic pollution on the world’s coral reefs]]></content:encoded>
+            <dc:title><![CDATA[Author Correction: Plastic pollution on the world’s coral reefs]]></dc:title>
+            <dc:creator>Hudson T. Pinheiro</dc:creator><dc:creator>Chancey MacDonald</dc:creator><dc:creator>Robson G. Santos</dc:creator><dc:creator>Ramadhoine Ali</dc:creator><dc:creator>Ayesha Bobat</dc:creator><dc:creator>Benjamin J. Cresswell</dc:creator><dc:creator>Ronaldo Francini-Filho</dc:creator><dc:creator>Rui Freitas</dc:creator><dc:creator>Gemma F. Galbraith</dc:creator><dc:creator>Peter Musembi</dc:creator><dc:creator>Tyler A. Phelps</dc:creator><dc:creator>Juan P. Quimbayo</dc:creator><dc:creator>T. E. Angela L. Quiros</dc:creator><dc:creator>Bart Shepherd</dc:creator><dc:creator>Paris V. Stefanoudis</dc:creator><dc:creator>Sheena Talma</dc:creator><dc:creator>João B. Teixeira</dc:creator><dc:creator>Lucy C. Woodall</dc:creator><dc:creator>Luiz A. Rocha</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-023-06796-w</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-09; | doi:10.1038/s41586-023-06796-w</dc:source>
+            <dc:date>2023-11-09</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-023-06796-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-023-06796-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03400-z">
+            <title><![CDATA[One brain area helps you to enjoy a joke — but another helps you to get it]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03400-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 09 November 2023; <a href="https://www.nature.com/articles/d41586-023-03400-z">doi:10.1038/d41586-023-03400-z</a></p>Seinfeld episodes help scientists to distinguish between the brain regions involved in understanding and appreciating humour.]]></content:encoded>
+            <dc:title><![CDATA[One brain area helps you to enjoy a joke — but another helps you to get it]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-03400-z</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-09; | doi:10.1038/d41586-023-03400-z</dc:source>
+            <dc:date>2023-11-09</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03400-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03400-z</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06731-z">
             <title><![CDATA[Retraction Note: Cross-HLA targeting of intracellular oncoproteins with peptide-centric CARs]]></title>
@@ -196,7 +226,7 @@
             <title><![CDATA[How to tame a toxic yet life-saving antifungal]]></title>
             <link>https://www.nature.com/articles/d41586-023-03499-0</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 08 November 2023; <a href="https://www.nature.com/articles/d41586-023-03499-0">doi:10.1038/d41586-023-03499-0</a></p>Researchers modify drug' to prevent kidney damage, and the mystery of the phosphorus at the Milky Way’s edge.]]></content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 November 2023; <a href="https://www.nature.com/articles/d41586-023-03499-0">doi:10.1038/d41586-023-03499-0</a></p>Researchers modify drug to prevent kidney damage, and the mystery of the phosphorus at the Milky Way’s edge.]]></content:encoded>
             <dc:title><![CDATA[How to tame a toxic yet life-saving antifungal]]></dc:title>
             <dc:creator>Benjamin Thompson</dc:creator><dc:creator>Nick Petrić Howe</dc:creator>
             <dc:identifier>doi:10.1038/d41586-023-03499-0</dc:identifier>
@@ -1270,36 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03479-4</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03479-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03437-0">
-            <title><![CDATA[Five ways in which rookie lab leaders can get up to speed]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03437-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 06 November 2023; <a href="https://www.nature.com/articles/d41586-023-03437-0">doi:10.1038/d41586-023-03437-0</a></p>An array of spreadsheets, courses and online resources are available to support principal investigators leading their first research groups.]]></content:encoded>
-            <dc:title><![CDATA[Five ways in which rookie lab leaders can get up to speed]]></dc:title>
-            <dc:creator>Jyoti Madhusoodanan</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03437-0</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-06; | doi:10.1038/d41586-023-03437-0</dc:source>
-            <dc:date>2023-11-06</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03437-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03437-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03425-4">
-            <title><![CDATA[‘Oceans are hugely complex’: modelling marine microbes is key to climate forecasts]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03425-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 06 November 2023; <a href="https://www.nature.com/articles/d41586-023-03425-4">doi:10.1038/d41586-023-03425-4</a></p>Microorganisms are the engines that drive most marine processes. Ocean modelling must evolve to take their biological complexity into account.]]></content:encoded>
-            <dc:title><![CDATA[‘Oceans are hugely complex’: modelling marine microbes is key to climate forecasts]]></dc:title>
-            <dc:creator>Alessandro   Tagliabue</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03425-4</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-06; | doi:10.1038/d41586-023-03425-4</dc:source>
-            <dc:date>2023-11-06</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03425-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03425-4</prism:url>
         </item>
     
 </rdf:RDF>
