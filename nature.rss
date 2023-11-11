@@ -18,6 +18,18 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03399-3"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03482-9"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03516-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03523-3"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03517-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03390-y"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06796-w"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03400-z"/>
@@ -156,18 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03453-0"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03494-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06814-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06813-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03402-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03438-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03475-8"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,96 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03399-3">
+            <title><![CDATA[Citizen scientists find a rarity: an asteroid trying to be a comet]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03399-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 10 November 2023; <a href="https://www.nature.com/articles/d41586-023-03399-3">doi:10.1038/d41586-023-03399-3</a></p>An object that orbits the Sun beyond the main asteroid belt and occasionally sports a tail is spotted in archival images.]]></content:encoded>
+            <dc:title><![CDATA[Citizen scientists find a rarity: an asteroid trying to be a comet]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-03399-3</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-10; | doi:10.1038/d41586-023-03399-3</dc:source>
+            <dc:date>2023-11-10</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03399-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03399-3</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03482-9">
+            <title><![CDATA[AI that reads brain scans shows promise for finding Alzheimer’s genes]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03482-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 10 November 2023; <a href="https://www.nature.com/articles/d41586-023-03482-9">doi:10.1038/d41586-023-03482-9</a></p>Machine-learning approach detects Alzheimer’s disease with an accuracy of more than 90% — a potential boon for clinicians and scientists developing treatments.]]></content:encoded>
+            <dc:title><![CDATA[AI that reads brain scans shows promise for finding Alzheimer’s genes]]></dc:title>
+            <dc:creator>Max Kozlov</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03482-9</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-10; | doi:10.1038/d41586-023-03482-9</dc:source>
+            <dc:date>2023-11-10</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03482-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03482-9</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03516-2">
+            <title><![CDATA[Colombia begins sterilizing its invasive hippos: what scientists think]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03516-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 10 November 2023; <a href="https://www.nature.com/articles/d41586-023-03516-2">doi:10.1038/d41586-023-03516-2</a></p>Environment ministry launches programme that also includes exporting and euthanizing the animals, which threaten the country’s biodiversity.]]></content:encoded>
+            <dc:title><![CDATA[Colombia begins sterilizing its invasive hippos: what scientists think]]></dc:title>
+            <dc:creator>Luke  Taylor</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03516-2</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-10; | doi:10.1038/d41586-023-03516-2</dc:source>
+            <dc:date>2023-11-10</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03516-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03516-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03523-3">
+            <title><![CDATA[Earth just had its hottest year on record — climate change is to blame]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03523-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 10 November 2023; <a href="https://www.nature.com/articles/d41586-023-03523-3">doi:10.1038/d41586-023-03523-3</a></p>Around 7.3 billion people faced temperatures strongly influenced by global warming over the past year.]]></content:encoded>
+            <dc:title><![CDATA[Earth just had its hottest year on record — climate change is to blame]]></dc:title>
+            <dc:creator>Carissa Wong</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03523-3</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-10; | doi:10.1038/d41586-023-03523-3</dc:source>
+            <dc:date>2023-11-10</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03523-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03523-3</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03517-1">
+            <title><![CDATA[Why is Delhi’s air pollution so bad right now?]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03517-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 10 November 2023; <a href="https://www.nature.com/articles/d41586-023-03517-1">doi:10.1038/d41586-023-03517-1</a></p>The post-monsoon season creates ideal conditions for air pollution to accumulate in the Indian megacity.]]></content:encoded>
+            <dc:title><![CDATA[Why is Delhi’s air pollution so bad right now?]]></dc:title>
+            <dc:creator>Dyani Lewis</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03517-1</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-10; | doi:10.1038/d41586-023-03517-1</dc:source>
+            <dc:date>2023-11-10</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03517-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03517-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03390-y">
+            <title><![CDATA[The unexpected outcomes of artist-scientist collaborations]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03390-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 10 November 2023; <a href="https://www.nature.com/articles/d41586-023-03390-y">doi:10.1038/d41586-023-03390-y</a></p>Artists love working with scientists, and when they do it can unlock new perspectives for research.]]></content:encoded>
+            <dc:title><![CDATA[The unexpected outcomes of artist-scientist collaborations]]></dc:title>
+            <dc:creator>Julie Gould</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03390-y</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-10; | doi:10.1038/d41586-023-03390-y</dc:source>
+            <dc:date>2023-11-10</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03390-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03390-y</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06796-w">
             <title><![CDATA[Author Correction: Plastic pollution on the world’s coral reefs]]></title>
@@ -211,7 +301,7 @@
             <title><![CDATA[This hybrid baby monkey is made of cells from two embryos]]></title>
             <link>https://www.nature.com/articles/d41586-023-03473-w</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 09 November 2023; <a href="https://www.nature.com/articles/d41586-023-03473-w">doi:10.1038/d41586-023-03473-w</a></p>The monkey’s creation paves the way for scientists to use chimaeric primates to study human diseases.]]></content:encoded>
+                <![CDATA[<p>Nature, Published online: 09 November 2023; <a href="https://www.nature.com/articles/d41586-023-03473-w">doi:10.1038/d41586-023-03473-w</a></p>The work paves the way for scientists to use chimeric primates to study human diseases.]]></content:encoded>
             <dc:title><![CDATA[This hybrid baby monkey is made of cells from two embryos]]></dc:title>
             <dc:creator>Carissa Wong</dc:creator>
             <dc:identifier>doi:10.1038/d41586-023-03473-w</dc:identifier>
@@ -1210,96 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03453-0</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03453-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03494-5">
-            <title><![CDATA[Daily briefing: Blockbuster room-temperature superconductivity paper retracted]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03494-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 07 November 2023; <a href="https://www.nature.com/articles/d41586-023-03494-5">doi:10.1038/d41586-023-03494-5</a></p>Nature superconductivity paper is the third high-profile retraction for the two lead authors. Plus, how to breed house-cat DNA out of Scottish wildcats and a NASA spacecraft spots an asteroid’s tiny companion.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: Blockbuster room-temperature superconductivity paper retracted]]></dc:title>
-            <dc:creator>Flora Graham</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03494-5</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-07; | doi:10.1038/d41586-023-03494-5</dc:source>
-            <dc:date>2023-11-07</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03494-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03494-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06814-x">
-            <title><![CDATA[Author Correction: Sustained antidepressant effect of ketamine through NMDAR trapping in the LHb]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06814-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 06 November 2023; <a href="https://www.nature.com/articles/s41586-023-06814-x">doi:10.1038/s41586-023-06814-x</a></p>Author Correction: Sustained antidepressant effect of ketamine through NMDAR trapping in the LHb]]></content:encoded>
-            <dc:title><![CDATA[Author Correction: Sustained antidepressant effect of ketamine through NMDAR trapping in the LHb]]></dc:title>
-            <dc:creator>Shuangshuang Ma</dc:creator><dc:creator>Min Chen</dc:creator><dc:creator>Yihao Jiang</dc:creator><dc:creator>Xinkuan Xiang</dc:creator><dc:creator>Shiqi Wang</dc:creator><dc:creator>Zuohang Wu</dc:creator><dc:creator>Shuo Li</dc:creator><dc:creator>Yihui Cui</dc:creator><dc:creator>Junying Wang</dc:creator><dc:creator>Yanqing Zhu</dc:creator><dc:creator>Yan Zhang</dc:creator><dc:creator>Huan Ma</dc:creator><dc:creator>Shumin Duan</dc:creator><dc:creator>Haohong Li</dc:creator><dc:creator>Yan Yang</dc:creator><dc:creator>Christopher J. Lingle</dc:creator><dc:creator>Hailan Hu</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06814-x</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-06; | doi:10.1038/s41586-023-06814-x</dc:source>
-            <dc:date>2023-11-06</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06814-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06814-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06813-y">
-            <title><![CDATA[<sup>15</sup>NH<sub>3</sub> in the atmosphere of a cool brown dwarf]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06813-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 06 November 2023; <a href="https://www.nature.com/articles/s41586-023-06813-y">doi:10.1038/s41586-023-06813-y</a></p><sup>15</sup>NH<sub>3</sub> in the atmosphere of a cool brown dwarf]]></content:encoded>
-            <dc:title><![CDATA[<sup>15</sup>NH<sub>3</sub> in the atmosphere of a cool brown dwarf]]></dc:title>
-            <dc:creator>David Barrado</dc:creator><dc:creator>Paul Mollière</dc:creator><dc:creator>Polychronis Patapis</dc:creator><dc:creator>Michiel Min</dc:creator><dc:creator>Pascal Tremblin</dc:creator><dc:creator>Francisco Ardevol Martinez</dc:creator><dc:creator>Niall Whiteford</dc:creator><dc:creator>Malavika Vasist</dc:creator><dc:creator>Ioannis Argyriou</dc:creator><dc:creator>Matthias Samland</dc:creator><dc:creator>Pierre-Olivier Lagage</dc:creator><dc:creator>Leen Decin</dc:creator><dc:creator>Rens Waters</dc:creator><dc:creator>Thomas Henning</dc:creator><dc:creator>María Morales-Calderón</dc:creator><dc:creator>Manuel Guedel</dc:creator><dc:creator>Bart Vandenbussche</dc:creator><dc:creator>Olivier Absil</dc:creator><dc:creator>Pierre Baudoz</dc:creator><dc:creator>Anthony Boccaletti</dc:creator><dc:creator>Jeroen Bouwman</dc:creator><dc:creator>Christophe Cossou</dc:creator><dc:creator>Alain Coulais</dc:creator><dc:creator>Nicolas Crouzet</dc:creator><dc:creator>René Gastaud</dc:creator><dc:creator>Alistair Glasse</dc:creator><dc:creator>Adrian M. Glauser</dc:creator><dc:creator>Inga Kamp</dc:creator><dc:creator>Sarah Kendrew</dc:creator><dc:creator>Oliver Krause</dc:creator><dc:creator>Fred Lahuis</dc:creator><dc:creator>Michael Mueller</dc:creator><dc:creator>Göran Olofsson</dc:creator><dc:creator>John Pye</dc:creator><dc:creator>Daniel Rouan</dc:creator><dc:creator>Pierre Royer</dc:creator><dc:creator>Silvia Scheithauer</dc:creator><dc:creator>Ingo Waldmann</dc:creator><dc:creator>Luis Colina</dc:creator><dc:creator>Ewine F. van Dishoeck</dc:creator><dc:creator>Tom Ray</dc:creator><dc:creator>Göran Östlin</dc:creator><dc:creator>Gillian Wright</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06813-y</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-06; | doi:10.1038/s41586-023-06813-y</dc:source>
-            <dc:date>2023-11-06</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06813-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06813-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03402-x">
-            <title><![CDATA[Powerful gusts unleashed by thunderstorms are getting stronger]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03402-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 06 November 2023; <a href="https://www.nature.com/articles/d41586-023-03402-x">doi:10.1038/d41586-023-03402-x</a></p>Climate change is intensifying straight-line winds, which can be as damaging as tornadoes.]]></content:encoded>
-            <dc:title><![CDATA[Powerful gusts unleashed by thunderstorms are getting stronger]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-03402-x</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-06; | doi:10.1038/d41586-023-03402-x</dc:source>
-            <dc:date>2023-11-06</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03402-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03402-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03438-z">
-            <title><![CDATA[How to make petunias naturally orange]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03438-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 06 November 2023; <a href="https://www.nature.com/articles/d41586-023-03438-z">doi:10.1038/d41586-023-03438-z</a></p>Biotechnologist Sara Abdou explores the genetics that regulate colour in ornamental flowers.]]></content:encoded>
-            <dc:title><![CDATA[How to make petunias naturally orange]]></dc:title>
-            <dc:creator>Nikki Forrester</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03438-z</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-06; | doi:10.1038/d41586-023-03438-z</dc:source>
-            <dc:date>2023-11-06</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03438-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03438-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03475-8">
-            <title><![CDATA[Giant black hole is one of the earliest ever seen — with clues for how these weird objects form]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03475-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 06 November 2023; <a href="https://www.nature.com/articles/d41586-023-03475-8">doi:10.1038/d41586-023-03475-8</a></p>Data from the James Webb and Chandra space telescopes reveal a massive object in a galaxy that formed less than half a billion years after the Big Bang.]]></content:encoded>
-            <dc:title><![CDATA[Giant black hole is one of the earliest ever seen — with clues for how these weird objects form]]></dc:title>
-            <dc:creator>Alexandra Witze</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03475-8</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-06; | doi:10.1038/d41586-023-03475-8</dc:source>
-            <dc:date>2023-11-06</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03475-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03475-8</prism:url>
         </item>
     
 </rdf:RDF>
