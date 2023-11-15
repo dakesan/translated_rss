@@ -20,7 +20,11 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06765-3"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06836-5"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03539-9"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03433-4"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03537-x"/>
                 
@@ -30,7 +34,19 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03506-4"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03509-1"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03544-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03469-6"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03434-3"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03545-x"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03552-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03531-3"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06852-5"/>
                 
@@ -152,22 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03446-z"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03286-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03444-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02878-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03496-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03411-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03499-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03435-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03275-0"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -192,6 +192,21 @@
             <prism:url>https://www.nature.com/articles/s41586-023-06765-3</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/s41586-023-06836-5">
+            <title><![CDATA[Author Correction: Single-cell brain organoid screening identifies developmental defects in autism]]></title>
+            <link>https://www.nature.com/articles/s41586-023-06836-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 14 November 2023; <a href="https://www.nature.com/articles/s41586-023-06836-5">doi:10.1038/s41586-023-06836-5</a></p>Author Correction: Single-cell brain organoid screening identifies developmental defects in autism]]></content:encoded>
+            <dc:title><![CDATA[Author Correction: Single-cell brain organoid screening identifies developmental defects in autism]]></dc:title>
+            <dc:creator>Chong Li</dc:creator><dc:creator>Jonas Simon Fleck</dc:creator><dc:creator>Catarina Martins-Costa</dc:creator><dc:creator>Thomas R. Burkard</dc:creator><dc:creator>Jan Themann</dc:creator><dc:creator>Marlene Stuempflen</dc:creator><dc:creator>Angela Maria Peer</dc:creator><dc:creator>Ábel Vertesy</dc:creator><dc:creator>Jamie B. Littleboy</dc:creator><dc:creator>Christopher Esk</dc:creator><dc:creator>Ulrich Elling</dc:creator><dc:creator>Gregor Kasprian</dc:creator><dc:creator>Nina S. Corsini</dc:creator><dc:creator>Barbara Treutlein</dc:creator><dc:creator>Juergen A. Knoblich</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-023-06836-5</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-14; | doi:10.1038/s41586-023-06836-5</dc:source>
+            <dc:date>2023-11-14</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-023-06836-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-023-06836-5</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-023-03539-9">
             <title><![CDATA[Promise of private finance is blocking peatland restoration]]></title>
             <link>https://www.nature.com/articles/d41586-023-03539-9</link>
@@ -205,6 +220,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03539-9</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03539-9</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03433-4">
+            <title><![CDATA[From the archive: air for prairie dogs, and popular fallacies explained]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03433-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 14 November 2023; <a href="https://www.nature.com/articles/d41586-023-03433-4">doi:10.1038/d41586-023-03433-4</a></p>Snippets from Nature’s past.]]></content:encoded>
+            <dc:title><![CDATA[From the archive: air for prairie dogs, and popular fallacies explained]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-03433-4</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-14; | doi:10.1038/d41586-023-03433-4</dc:source>
+            <dc:date>2023-11-14</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03433-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03433-4</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03537-x">
@@ -267,6 +297,21 @@
             <prism:url>https://www.nature.com/articles/d41586-023-03506-4</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03509-1">
+            <title><![CDATA[The world’s chemical-weapons stockpiles are gone — but a new challenge looms]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03509-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 14 November 2023; <a href="https://www.nature.com/articles/d41586-023-03509-1">doi:10.1038/d41586-023-03509-1</a></p>Continued efforts to maintain the ban on chemical weapons depend on nations sharing information to further build trust and global safety.]]></content:encoded>
+            <dc:title><![CDATA[The world’s chemical-weapons stockpiles are gone — but a new challenge looms]]></dc:title>
+            <dc:creator>Peter J.   Hotchkiss</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03509-1</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-14; | doi:10.1038/d41586-023-03509-1</dc:source>
+            <dc:date>2023-11-14</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03509-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03509-1</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-023-03544-y">
             <title><![CDATA[Why postdoctoral training needs a stronger focus on innovation]]></title>
             <link>https://www.nature.com/articles/d41586-023-03544-y</link>
@@ -280,6 +325,81 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03544-y</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03544-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03469-6">
+            <title><![CDATA[The Amazon’s record-setting drought: how bad will it be?]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03469-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 14 November 2023; <a href="https://www.nature.com/articles/d41586-023-03469-6">doi:10.1038/d41586-023-03469-6</a></p>Scientists tell Nature why the rainforest has dried out, and what to expect in the coming months.]]></content:encoded>
+            <dc:title><![CDATA[The Amazon’s record-setting drought: how bad will it be?]]></dc:title>
+            <dc:creator>Meghie Rodrigues</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03469-6</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-14; | doi:10.1038/d41586-023-03469-6</dc:source>
+            <dc:date>2023-11-14</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03469-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03469-6</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03434-3">
+            <title><![CDATA[How our memories of COVID-19 are biased — and why it matters]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03434-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 14 November 2023; <a href="https://www.nature.com/articles/d41586-023-03434-3">doi:10.1038/d41586-023-03434-3</a></p>Our view of the effectiveness of past pandemic responses is influenced by our present vaccination status. Public inquiries and future research must take this factor into account.]]></content:encoded>
+            <dc:title><![CDATA[How our memories of COVID-19 are biased — and why it matters]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-03434-3</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-14; | doi:10.1038/d41586-023-03434-3</dc:source>
+            <dc:date>2023-11-14</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03434-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03434-3</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03545-x">
+            <title><![CDATA[AI writes summaries of preprints in bioRxiv trial]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03545-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 14 November 2023; <a href="https://www.nature.com/articles/d41586-023-03545-x">doi:10.1038/d41586-023-03545-x</a></p>Large language model creates synopses of papers aimed at various reading levels to help scientists sift through the literature.]]></content:encoded>
+            <dc:title><![CDATA[AI writes summaries of preprints in bioRxiv trial]]></dc:title>
+            <dc:creator>Ewen Callaway</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03545-x</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-14; | doi:10.1038/d41586-023-03545-x</dc:source>
+            <dc:date>2023-11-14</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03545-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03545-x</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03552-y">
+            <title><![CDATA[DeepMind AI accurately forecasts weather — on a desktop computer]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03552-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 14 November 2023; <a href="https://www.nature.com/articles/d41586-023-03552-y">doi:10.1038/d41586-023-03552-y</a></p>The machine-learning model takes less than a minute to predict future weather worldwide more precisely than other approaches.]]></content:encoded>
+            <dc:title><![CDATA[DeepMind AI accurately forecasts weather — on a desktop computer]]></dc:title>
+            <dc:creator>Carissa Wong</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03552-y</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-14; | doi:10.1038/d41586-023-03552-y</dc:source>
+            <dc:date>2023-11-14</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03552-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03552-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03531-3">
+            <title><![CDATA[The deep route to low-field MRI with high potential]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03531-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 14 November 2023; <a href="https://www.nature.com/articles/d41586-023-03531-3">doi:10.1038/d41586-023-03531-3</a></p>A type of magnetic resonance imaging, known as low-field MRI, could make the technique more widely accessible, but only if the image quality can be improved. A deep-learning protocol might hold the key.]]></content:encoded>
+            <dc:title><![CDATA[The deep route to low-field MRI with high potential]]></dc:title>
+            <dc:creator>Patricia M.  Johnson</dc:creator><dc:creator>Yvonne W.   Lui</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03531-3</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-14; | doi:10.1038/d41586-023-03531-3</dc:source>
+            <dc:date>2023-11-14</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03531-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03531-3</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06852-5">
@@ -1180,126 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03446-z</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03446-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03286-x">
-            <title><![CDATA[Flat bands find another dimension for exotic physical phases]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03286-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 08 November 2023; <a href="https://www.nature.com/articles/d41586-023-03286-x">doi:10.1038/d41586-023-03286-x</a></p>Experiments reveal flat bands in the relationship between the energy and the momentum of electrons in a 3D solid. Such behaviour is indicative of unusual physical phenomena, and has previously been seen only in 2D materials.]]></content:encoded>
-            <dc:title><![CDATA[Flat bands find another dimension for exotic physical phases]]></dc:title>
-            <dc:creator>Xingjiang Zhou</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03286-x</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-08; | doi:10.1038/d41586-023-03286-x</dc:source>
-            <dc:date>2023-11-08</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03286-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03286-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03444-1">
-            <title><![CDATA[Four science stars on the fast-track to impact]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03444-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 08 November 2023; <a href="https://www.nature.com/articles/d41586-023-03444-1">doi:10.1038/d41586-023-03444-1</a></p>With the world at their feet, these prolific young researchers are making their mark.]]></content:encoded>
-            <dc:title><![CDATA[Four science stars on the fast-track to impact]]></dc:title>
-            <dc:creator>Sandy Ong</dc:creator><dc:creator>Chris Woolston</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03444-1</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-08; | doi:10.1038/d41586-023-03444-1</dc:source>
-            <dc:date>2023-11-08</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03444-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03444-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02878-x">
-            <title><![CDATA[Daily briefing: Surprising findings from India’s Moon mission]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02878-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 08 November 2023; <a href="https://www.nature.com/articles/d41586-023-02878-x">doi:10.1038/d41586-023-02878-x</a></p>India’s Chandrayaan-3 mission has measured the Moon’s surface temperature and recorded a suspected moonquake. Plus, scientific sleuths spot telltale signs of undeclared ChatGPT in papers and the extraordinary story of how the SDGs came to be.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: Surprising findings from India’s Moon mission]]></dc:title>
-            <dc:creator>Flora Graham</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02878-x</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-08; | doi:10.1038/d41586-023-02878-x</dc:source>
-            <dc:date>2023-11-08</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02878-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02878-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03496-3">
-            <title><![CDATA[Why a climate researcher pushed the limits of low-carbon travel — and his employer’s patience]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03496-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 08 November 2023; <a href="https://www.nature.com/articles/d41586-023-03496-3">doi:10.1038/d41586-023-03496-3</a></p>A refusal to fly to Papua New Guinea for fieldwork took Gianluca Grimalda the long way across 22,000 kilometres and 12 countries.]]></content:encoded>
-            <dc:title><![CDATA[Why a climate researcher pushed the limits of low-carbon travel — and his employer’s patience]]></dc:title>
-            <dc:creator>Christine Ro</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03496-3</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-08; | doi:10.1038/d41586-023-03496-3</dc:source>
-            <dc:date>2023-11-08</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03496-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03496-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03411-w">
-            <title><![CDATA[Why postdocs need entrepreneurship training]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03411-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 08 November 2023; <a href="https://www.nature.com/articles/d41586-023-03411-w">doi:10.1038/d41586-023-03411-w</a></p>Landing tenure is a pipe dream for most postdoctoral researchers. They need business skills to help them thrive outside academia.]]></content:encoded>
-            <dc:title><![CDATA[Why postdocs need entrepreneurship training]]></dc:title>
-            <dc:creator>Muhammad Shehryar Khan</dc:creator><dc:creator>Jeffrey Casello</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03411-w</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-08; | doi:10.1038/d41586-023-03411-w</dc:source>
-            <dc:date>2023-11-08</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03411-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03411-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03499-0">
-            <title><![CDATA[How to tame a toxic yet life-saving antifungal]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03499-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 08 November 2023; <a href="https://www.nature.com/articles/d41586-023-03499-0">doi:10.1038/d41586-023-03499-0</a></p>Researchers modify drug to prevent kidney damage, and the mystery of the phosphorus at the Milky Way’s edge.]]></content:encoded>
-            <dc:title><![CDATA[How to tame a toxic yet life-saving antifungal]]></dc:title>
-            <dc:creator>Benjamin Thompson</dc:creator><dc:creator>Nick Petrić Howe</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03499-0</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-08; | doi:10.1038/d41586-023-03499-0</dc:source>
-            <dc:date>2023-11-08</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03499-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03499-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03435-2">
-            <title><![CDATA[Brain and body are more intertwined than we knew]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03435-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 08 November 2023; <a href="https://www.nature.com/articles/d41586-023-03435-2">doi:10.1038/d41586-023-03435-2</a></p>A host of disorders once thought to be nothing to do with the brain are, in fact, tightly coupled to nervous-system activity.]]></content:encoded>
-            <dc:title><![CDATA[Brain and body are more intertwined than we knew]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-03435-2</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-08; | doi:10.1038/d41586-023-03435-2</dc:source>
-            <dc:date>2023-11-08</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03435-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03435-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03275-0">
-            <title><![CDATA[Ultra-compact oddities are galaxies stripped of stars]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03275-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 08 November 2023; <a href="https://www.nature.com/articles/d41586-023-03275-0">doi:10.1038/d41586-023-03275-0</a></p>Observations have shown that some dwarf galaxies lose their stars through interactions with more massive galaxies. The dense nuclei that remain are ultra-compact dwarf galaxies, the origin of which has long been a subject of debate.]]></content:encoded>
-            <dc:title><![CDATA[Ultra-compact oddities are galaxies stripped of stars]]></dc:title>
-            <dc:creator>Katja Fahrion</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03275-0</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-08; | doi:10.1038/d41586-023-03275-0</dc:source>
-            <dc:date>2023-11-08</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03275-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03275-0</prism:url>
         </item>
     
 </rdf:RDF>
