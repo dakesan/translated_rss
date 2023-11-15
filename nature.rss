@@ -18,6 +18,18 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03507-3"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03554-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03519-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03505-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03508-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03510-8"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06765-3"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06836-5"/>
@@ -51,6 +63,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06852-5"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06832-9"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03566-6"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03512-6"/>
                 
@@ -154,20 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03358-y"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03443-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03495-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03490-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03498-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02950-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03439-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03446-z"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,96 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03507-3">
+            <title><![CDATA[ChatGPT has entered the classroom: how LLMs could transform education]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03507-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 15 November 2023; <a href="https://www.nature.com/articles/d41586-023-03507-3">doi:10.1038/d41586-023-03507-3</a></p>Researchers, educators and companies are experimenting with ways to turn flawed but famous large language models into trustworthy, accurate ‘thought partners’ for learning.]]></content:encoded>
+            <dc:title><![CDATA[ChatGPT has entered the classroom: how LLMs could transform education]]></dc:title>
+            <dc:creator>Andy Extance</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03507-3</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-15; | doi:10.1038/d41586-023-03507-3</dc:source>
+            <dc:date>2023-11-15</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03507-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03507-3</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03554-w">
+            <title><![CDATA[Major US climate disasters occur every three weeks, report finds]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03554-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 15 November 2023; <a href="https://www.nature.com/articles/d41586-023-03554-w">doi:10.1038/d41586-023-03554-w</a></p>Fifth National Climate Assessment says nowhere is safe from warming, but some communities are impacted harder than others.]]></content:encoded>
+            <dc:title><![CDATA[Major US climate disasters occur every three weeks, report finds]]></dc:title>
+            <dc:creator>Jeff Tollefson</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03554-w</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-15; | doi:10.1038/d41586-023-03554-w</dc:source>
+            <dc:date>2023-11-15</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03554-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03554-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03519-z">
+            <title><![CDATA[One-third of Indian STEM conferences have no women]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03519-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 15 November 2023; <a href="https://www.nature.com/articles/d41586-023-03519-z">doi:10.1038/d41586-023-03519-z</a></p>Women in science, technology, engineering and mathematics faculty are rare, and women speaking at conferences are even rarer.]]></content:encoded>
+            <dc:title><![CDATA[One-third of Indian STEM conferences have no women]]></dc:title>
+            <dc:creator>Dyani Lewis</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03519-z</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-15; | doi:10.1038/d41586-023-03519-z</dc:source>
+            <dc:date>2023-11-15</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03519-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03519-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03505-5">
+            <title><![CDATA[Why teachers should explore ChatGPT’s potential — despite the risks]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03505-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 15 November 2023; <a href="https://www.nature.com/articles/d41586-023-03505-5">doi:10.1038/d41586-023-03505-5</a></p>Many students now use AI chatbots to help with their assignments. Educators need to study how to include these tools in teaching and learning — and minimize pitfalls.]]></content:encoded>
+            <dc:title><![CDATA[Why teachers should explore ChatGPT’s potential — despite the risks]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-03505-5</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-15; | doi:10.1038/d41586-023-03505-5</dc:source>
+            <dc:date>2023-11-15</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03505-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03505-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03508-2">
+            <title><![CDATA[Yes to global standards for research — as long as they are truly global]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03508-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 15 November 2023; <a href="https://www.nature.com/articles/d41586-023-03508-2">doi:10.1038/d41586-023-03508-2</a></p>Guidelines for research can level the playing field for scientists in low-resource settings — but diverse voices are needed to ensure that people worldwide can actually follow them.]]></content:encoded>
+            <dc:title><![CDATA[Yes to global standards for research — as long as they are truly global]]></dc:title>
+            <dc:creator>Maneesha S.  Inamdar</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03508-2</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-15; | doi:10.1038/d41586-023-03508-2</dc:source>
+            <dc:date>2023-11-15</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03508-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03508-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03510-8">
+            <title><![CDATA[Disaster early-warning systems are ‘doomed to fail’ — only collective action can plug the gaps]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03510-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 15 November 2023; <a href="https://www.nature.com/articles/d41586-023-03510-8">doi:10.1038/d41586-023-03510-8</a></p>From floods to wildfires, and tsunamis to volcanic eruptions, early-warning systems can stop natural hazards becoming human disasters. But more joined-up thinking is urgently needed.]]></content:encoded>
+            <dc:title><![CDATA[Disaster early-warning systems are ‘doomed to fail’ — only collective action can plug the gaps]]></dc:title>
+            <dc:creator>Andrew C.  Tupper</dc:creator><dc:creator>Carina J.  Fearnley</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03510-8</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-15; | doi:10.1038/d41586-023-03510-8</dc:source>
+            <dc:date>2023-11-15</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03510-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03510-8</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06765-3">
             <title><![CDATA[Author Correction: The developing bird pelvis passes through ancestral dinosaurian conditions]]></title>
@@ -430,6 +520,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/s41586-023-06832-9</prism:doi>
             <prism:url>https://www.nature.com/articles/s41586-023-06832-9</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03566-6">
+            <title><![CDATA[The robot chemist helping to pave the way to settlements on Mars]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03566-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 13 November 2023; <a href="https://www.nature.com/articles/d41586-023-03566-6">doi:10.1038/d41586-023-03566-6</a></p>An AI-assisted robot, could use Martian rock to autonomously generate oxygen on the red planet]]></content:encoded>
+            <dc:title><![CDATA[The robot chemist helping to pave the way to settlements on Mars]]></dc:title>
+            <dc:creator>Noah Baker</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03566-6</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-13; | doi:10.1038/d41586-023-03566-6</dc:source>
+            <dc:date>2023-11-13</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03566-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03566-6</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03512-6">
@@ -1195,111 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03358-y</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03358-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03443-2">
-            <title><![CDATA[United States and India are becoming science partners of choice]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03443-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 08 November 2023; <a href="https://www.nature.com/articles/d41586-023-03443-2">doi:10.1038/d41586-023-03443-2</a></p>But collaborations are still hampered by bureaucracy and underfunding.]]></content:encoded>
-            <dc:title><![CDATA[United States and India are becoming science partners of choice]]></dc:title>
-            <dc:creator>Natasha Gilbert</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03443-2</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-08; | doi:10.1038/d41586-023-03443-2</dc:source>
-            <dc:date>2023-11-08</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03443-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03443-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03495-4">
-            <title><![CDATA[Engineered yeast breaks new record: a genome with over 50% synthetic DNA]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03495-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 08 November 2023; <a href="https://www.nature.com/articles/d41586-023-03495-4">doi:10.1038/d41586-023-03495-4</a></p>Highly edited strain survives and replicates despite containing 7.5 artificial chromosomes.]]></content:encoded>
-            <dc:title><![CDATA[Engineered yeast breaks new record: a genome with over 50% synthetic DNA]]></dc:title>
-            <dc:creator>Katherine Bourzac</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03495-4</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-08; | doi:10.1038/d41586-023-03495-4</dc:source>
-            <dc:date>2023-11-08</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03495-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03495-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03490-9">
-            <title><![CDATA[How Paris is becoming a happy home for health-technology start-up companies]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03490-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 08 November 2023; <a href="https://www.nature.com/articles/d41586-023-03490-9">doi:10.1038/d41586-023-03490-9</a></p>A long-term investment plan is helping the French capital to attract talent.]]></content:encoded>
-            <dc:title><![CDATA[How Paris is becoming a happy home for health-technology start-up companies]]></dc:title>
-            <dc:creator>Nic Fleming</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03490-9</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-08; | doi:10.1038/d41586-023-03490-9</dc:source>
-            <dc:date>2023-11-08</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03490-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03490-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03498-1">
-            <title><![CDATA[These incredible images are the first from dark-energy telescope Euclid]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03498-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 08 November 2023; <a href="https://www.nature.com/articles/d41586-023-03498-1">doi:10.1038/d41586-023-03498-1</a></p>A spiral galaxy and the Horsehead Nebula are among the first pictures released by ESA’s Universe-mapping observatory.]]></content:encoded>
-            <dc:title><![CDATA[These incredible images are the first from dark-energy telescope Euclid]]></dc:title>
-            <dc:creator>Davide Castelvecchi</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03498-1</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-08; | doi:10.1038/d41586-023-03498-1</dc:source>
-            <dc:date>2023-11-08</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03498-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03498-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02950-6">
-            <title><![CDATA[Helium droplets help to visualize the start of ion solvation]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02950-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 08 November 2023; <a href="https://www.nature.com/articles/d41586-023-02950-6">doi:10.1038/d41586-023-02950-6</a></p>The number of helium atoms that gradually bind to a single sodium ion at the surface of a liquid helium nanodroplet has been measured as a function of time, as has the amount of energy that dissipates during this process. These findings provide a much-needed glimpse of the early steps of ion solvation.]]></content:encoded>
-            <dc:title><![CDATA[Helium droplets help to visualize the start of ion solvation]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-02950-6</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-08; | doi:10.1038/d41586-023-02950-6</dc:source>
-            <dc:date>2023-11-08</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02950-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02950-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03439-y">
-            <title><![CDATA[Talent &amp; Culture]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03439-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 08 November 2023; <a href="https://www.nature.com/articles/d41586-023-03439-y">doi:10.1038/d41586-023-03439-y</a></p>Family reunited.]]></content:encoded>
-            <dc:title><![CDATA[Talent &amp; Culture]]></dc:title>
-            <dc:creator>Timothy Quinn</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03439-y</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-08; | doi:10.1038/d41586-023-03439-y</dc:source>
-            <dc:date>2023-11-08</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03439-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03439-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03446-z">
-            <title><![CDATA[Denmark puts its money where its life-sciences strategy is]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03446-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 08 November 2023; <a href="https://www.nature.com/articles/d41586-023-03446-z">doi:10.1038/d41586-023-03446-z</a></p>Building on the success of blockbuster drugs, the country’s focus on reinvestment is feeding a stream of discovery.]]></content:encoded>
-            <dc:title><![CDATA[Denmark puts its money where its life-sciences strategy is]]></dc:title>
-            <dc:creator>Bianca Nogrady</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03446-z</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-08; | doi:10.1038/d41586-023-03446-z</dc:source>
-            <dc:date>2023-11-08</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03446-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03446-z</prism:url>
         </item>
     
 </rdf:RDF>
