@@ -18,9 +18,19 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06841-8"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03527-z"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03577-3"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03551-z"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03533-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03550-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03590-6"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06853-4"/>
                 
@@ -158,16 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06723-z"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03549-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03511-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03543-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03522-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03399-3"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,36 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-023-06841-8">
+            <title><![CDATA[Author Correction: Chromatin compartmentalization regulates the response to DNA damage]]></title>
+            <link>https://www.nature.com/articles/s41586-023-06841-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 16 November 2023; <a href="https://www.nature.com/articles/s41586-023-06841-8">doi:10.1038/s41586-023-06841-8</a></p>Author Correction: Chromatin compartmentalization regulates the response to DNA damage]]></content:encoded>
+            <dc:title><![CDATA[Author Correction: Chromatin compartmentalization regulates the response to DNA damage]]></dc:title>
+            <dc:creator>Coline Arnould</dc:creator><dc:creator>Vincent Rocher</dc:creator><dc:creator>Florian Saur</dc:creator><dc:creator>Aldo S. Bader</dc:creator><dc:creator>Fernando Muzzopappa</dc:creator><dc:creator>Sarah Collins</dc:creator><dc:creator>Emma Lesage</dc:creator><dc:creator>Benjamin Le Bozec</dc:creator><dc:creator>Nadine Puget</dc:creator><dc:creator>Thomas Clouaire</dc:creator><dc:creator>Thomas Mangeat</dc:creator><dc:creator>Raphael Mourad</dc:creator><dc:creator>Nadav Ahituv</dc:creator><dc:creator>Daan Noordermeer</dc:creator><dc:creator>Fabian Erdel</dc:creator><dc:creator>Martin Bushell</dc:creator><dc:creator>Aline Marnef</dc:creator><dc:creator>Gaëlle Legube</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-023-06841-8</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-16; | doi:10.1038/s41586-023-06841-8</dc:source>
+            <dc:date>2023-11-16</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-023-06841-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-023-06841-8</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03527-z">
+            <title><![CDATA[A Russian warship’s sinking is linked to strange weather pattern]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03527-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 16 November 2023; <a href="https://www.nature.com/articles/d41586-023-03527-z">doi:10.1038/d41586-023-03527-z</a></p>Unusual temperature inversion might have helped Ukraine to sink the flagship of Russia’s Black Sea fleet last year.]]></content:encoded>
+            <dc:title><![CDATA[A Russian warship’s sinking is linked to strange weather pattern]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-03527-z</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-16; | doi:10.1038/d41586-023-03527-z</dc:source>
+            <dc:date>2023-11-16</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03527-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03527-z</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03577-3">
             <title><![CDATA[As an artist-scientist, ‘I’m obsessed with pigments’]]></title>
@@ -192,6 +222,21 @@
             <prism:url>https://www.nature.com/articles/d41586-023-03577-3</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03551-z">
+            <title><![CDATA[Why superconductor research is in a ‘golden age’ — despite controversy]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03551-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 16 November 2023; <a href="https://www.nature.com/articles/d41586-023-03551-z">doi:10.1038/d41586-023-03551-z</a></p>Last week’s retraction dealt a blow to the search for room-temperature superconductivity, but physicists are optimistic about the field’s future.]]></content:encoded>
+            <dc:title><![CDATA[Why superconductor research is in a ‘golden age’ — despite controversy]]></dc:title>
+            <dc:creator>Davide Castelvecchi</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03551-z</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-16; | doi:10.1038/d41586-023-03551-z</dc:source>
+            <dc:date>2023-11-16</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03551-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03551-z</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-023-03533-1">
             <title><![CDATA[How wild monkeys ‘laundered’ for science could undermine research]]></title>
             <link>https://www.nature.com/articles/d41586-023-03533-1</link>
@@ -205,6 +250,36 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03533-1</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03533-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03550-0">
+            <title><![CDATA[The Israel–Hamas conflict: voices from scientists on the front lines]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03550-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 16 November 2023; <a href="https://www.nature.com/articles/d41586-023-03550-0">doi:10.1038/d41586-023-03550-0</a></p>The deadly 7 October Hamas attacks on Israel, and Israel’s bombardment of Gaza, have upended lives — including those of researchers throughout the region.]]></content:encoded>
+            <dc:title><![CDATA[The Israel–Hamas conflict: voices from scientists on the front lines]]></dc:title>
+            <dc:creator>Nature news team and freelance reporters</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03550-0</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-16; | doi:10.1038/d41586-023-03550-0</dc:source>
+            <dc:date>2023-11-16</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03550-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03550-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03590-6">
+            <title><![CDATA[UK first to approve CRISPR treatment for diseases: what you need to know]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03590-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 16 November 2023; <a href="https://www.nature.com/articles/d41586-023-03590-6">doi:10.1038/d41586-023-03590-6</a></p>The landmark decision could transform the treatment of sickle-cell disease and β-thalassaemia — but the technology is expensive.]]></content:encoded>
+            <dc:title><![CDATA[UK first to approve CRISPR treatment for diseases: what you need to know]]></dc:title>
+            <dc:creator>Carissa Wong</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03590-6</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-16; | doi:10.1038/d41586-023-03590-6</dc:source>
+            <dc:date>2023-11-16</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03590-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03590-6</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06853-4">
@@ -838,11 +913,11 @@
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03524-2">
-            <title><![CDATA[Giant UK programme to lower people's blood-sugar levels really worked]]></title>
+            <title><![CDATA[Giant UK programme to lower people’s blood-sugar levels really works]]></title>
             <link>https://www.nature.com/articles/d41586-023-03524-2</link>
             <content:encoded>
                 <![CDATA[<p>Nature, Published online: 15 November 2023; <a href="https://www.nature.com/articles/d41586-023-03524-2">doi:10.1038/d41586-023-03524-2</a></p>One of the world’s biggest campaigns to prevent diabetes through behaviour change holds promise for public-health gains.]]></content:encoded>
-            <dc:title><![CDATA[Giant UK programme to lower people's blood-sugar levels really worked]]></dc:title>
+            <dc:title><![CDATA[Giant UK programme to lower people’s blood-sugar levels really works]]></dc:title>
             <dc:creator>Heidi Ledford</dc:creator>
             <dc:identifier>doi:10.1038/d41586-023-03524-2</dc:identifier>
             <dc:source>Nature, Published online: 2023-11-15; | doi:10.1038/d41586-023-03524-2</dc:source>
@@ -1225,81 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/s41586-023-06723-z</prism:doi>
             <prism:url>https://www.nature.com/articles/s41586-023-06723-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03549-7">
-            <title><![CDATA[Daily briefing: How Colombia plans to tackle its invasive hippo problem]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03549-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 November 2023; <a href="https://www.nature.com/articles/d41586-023-03549-7">doi:10.1038/d41586-023-03549-7</a></p>Colombia has started sterilizing hippos that escaped from a drug-kingpin’s compound and are overrunning habitats. Plus, how the replication crisis in experimental psychology can be turned around and why neglected tropical diseases are gaining a foothold in Europe.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: How Colombia plans to tackle its invasive hippo problem]]></dc:title>
-            <dc:creator>Flora Graham</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03549-7</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-13; | doi:10.1038/d41586-023-03549-7</dc:source>
-            <dc:date>2023-11-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03549-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03549-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03511-7">
-            <title><![CDATA[The future is quantum: universities look to train engineers for an emerging industry]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03511-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 November 2023; <a href="https://www.nature.com/articles/d41586-023-03511-7">doi:10.1038/d41586-023-03511-7</a></p>With quantum technologies heading for the mainstream, undergraduate courses are preparing the workforce of the future.]]></content:encoded>
-            <dc:title><![CDATA[The future is quantum: universities look to train engineers for an emerging industry]]></dc:title>
-            <dc:creator>Sophia Chen</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03511-7</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-13; | doi:10.1038/d41586-023-03511-7</dc:source>
-            <dc:date>2023-11-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03511-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03511-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03543-z">
-            <title><![CDATA[First trial of ‘base editing’ in humans lowers cholesterol — but raises safety concerns]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03543-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 November 2023; <a href="https://www.nature.com/articles/d41586-023-03543-z">doi:10.1038/d41586-023-03543-z</a></p>Super-precise gene-editing approach switches off a gene in the liver that regulates ‘bad’ cholesterol.]]></content:encoded>
-            <dc:title><![CDATA[First trial of ‘base editing’ in humans lowers cholesterol — but raises safety concerns]]></dc:title>
-            <dc:creator>Miryam Naddaf</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03543-z</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-13; | doi:10.1038/d41586-023-03543-z</dc:source>
-            <dc:date>2023-11-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03543-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03543-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03522-4">
-            <title><![CDATA[This AI robot chemist could make oxygen on Mars]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03522-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 November 2023; <a href="https://www.nature.com/articles/d41586-023-03522-4">doi:10.1038/d41586-023-03522-4</a></p>The system uses Martian materials to produce catalysts that release oxygen from water.]]></content:encoded>
-            <dc:title><![CDATA[This AI robot chemist could make oxygen on Mars]]></dc:title>
-            <dc:creator>Jonathan O&#x27;Callaghan</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03522-4</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-13; | doi:10.1038/d41586-023-03522-4</dc:source>
-            <dc:date>2023-11-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03522-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03522-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03399-3">
-            <title><![CDATA[Citizen scientists find a rarity: an asteroid trying to be a comet]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03399-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 10 November 2023; <a href="https://www.nature.com/articles/d41586-023-03399-3">doi:10.1038/d41586-023-03399-3</a></p>An object that orbits the Sun beyond the main asteroid belt and occasionally sports a tail is spotted in archival images.]]></content:encoded>
-            <dc:title><![CDATA[Citizen scientists find a rarity: an asteroid trying to be a comet]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-03399-3</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-10; | doi:10.1038/d41586-023-03399-3</dc:source>
-            <dc:date>2023-11-10</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03399-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03399-3</prism:url>
         </item>
     
 </rdf:RDF>
