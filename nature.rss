@@ -18,6 +18,12 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03595-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03612-3"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03592-4"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03547-9"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03525-1"/>
@@ -162,12 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03506-4"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03509-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03544-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03469-6"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -177,12 +177,57 @@
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03595-1">
+            <title><![CDATA[‘Electrocaloric’ heat pump could transform air conditioning]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03595-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 20 November 2023; <a href="https://www.nature.com/articles/d41586-023-03595-1">doi:10.1038/d41586-023-03595-1</a></p>Heat pumps are ubiquitous in the form of air conditioners. Scientists just invented one that avoids harmful refrigerant gases.]]></content:encoded>
+            <dc:title><![CDATA[‘Electrocaloric’ heat pump could transform air conditioning]]></dc:title>
+            <dc:creator>Davide Castelvecchi</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03595-1</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-20; | doi:10.1038/d41586-023-03595-1</dc:source>
+            <dc:date>2023-11-20</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03595-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03595-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03612-3">
+            <title><![CDATA[Why we swapped PhD research for secondary-school teaching]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03612-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 20 November 2023; <a href="https://www.nature.com/articles/d41586-023-03612-3">doi:10.1038/d41586-023-03612-3</a></p>Students value being taught by real-life scientists with lived experience of life in the lab, say researchers who switched career.]]></content:encoded>
+            <dc:title><![CDATA[Why we swapped PhD research for secondary-school teaching]]></dc:title>
+            <dc:creator>Anne Marie Conlon</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03612-3</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-20; | doi:10.1038/d41586-023-03612-3</dc:source>
+            <dc:date>2023-11-20</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03612-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03612-3</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03592-4">
+            <title><![CDATA[How my MBA helps me keep my donor-funded research centre afloat]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03592-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 20 November 2023; <a href="https://www.nature.com/articles/d41586-023-03592-4">doi:10.1038/d41586-023-03592-4</a></p>Medicinal chemist Susan Winks shares how she keeps money flowing at the drug-discovery centre she helps to manage.]]></content:encoded>
+            <dc:title><![CDATA[How my MBA helps me keep my donor-funded research centre afloat]]></dc:title>
+            <dc:creator>Sarah Wild</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03592-4</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-20; | doi:10.1038/d41586-023-03592-4</dc:source>
+            <dc:date>2023-11-20</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03592-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03592-4</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-023-03547-9">
-            <title><![CDATA[Record-breaking summer set to hit southern hemisphere]]></title>
+            <title><![CDATA[Record-breaking heat set to hit southern hemisphere as summer begins]]></title>
             <link>https://www.nature.com/articles/d41586-023-03547-9</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 19 November 2023; <a href="https://www.nature.com/articles/d41586-023-03547-9">doi:10.1038/d41586-023-03547-9</a></p>El Niño and climate change expected to deliver heatwaves and extreme weather.]]></content:encoded>
-            <dc:title><![CDATA[Record-breaking summer set to hit southern hemisphere]]></dc:title>
+                <![CDATA[<p>Nature, Published online: 19 November 2023; <a href="https://www.nature.com/articles/d41586-023-03547-9">doi:10.1038/d41586-023-03547-9</a></p>The northern hemisphere experienced a sweltering summer due to climate and meteorological patters. Scientists say the south will not escape.]]></content:encoded>
+            <dc:title><![CDATA[Record-breaking heat set to hit southern hemisphere as summer begins]]></dc:title>
             <dc:creator>Bianca Nogrady</dc:creator>
             <dc:identifier>doi:10.1038/d41586-023-03547-9</dc:identifier>
             <dc:source>Nature, Published online: 2023-11-19; | doi:10.1038/d41586-023-03547-9</dc:source>
@@ -1123,11 +1168,11 @@
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03510-8">
-            <title><![CDATA[Disaster early-warning systems are ‘doomed to fail’ — only collective action can plug the gaps]]></title>
+            <title><![CDATA[Disaster early-warning systems can succeed — but collective action is needed]]></title>
             <link>https://www.nature.com/articles/d41586-023-03510-8</link>
             <content:encoded>
                 <![CDATA[<p>Nature, Published online: 15 November 2023; <a href="https://www.nature.com/articles/d41586-023-03510-8">doi:10.1038/d41586-023-03510-8</a></p>From floods to wildfires, and tsunamis to volcanic eruptions, early-warning systems can stop natural hazards becoming human disasters. But more joined-up thinking is urgently needed.]]></content:encoded>
-            <dc:title><![CDATA[Disaster early-warning systems are ‘doomed to fail’ — only collective action can plug the gaps]]></dc:title>
+            <dc:title><![CDATA[Disaster early-warning systems can succeed — but collective action is needed]]></dc:title>
             <dc:creator>Andrew C.  Tupper</dc:creator><dc:creator>Carina J.  Fearnley</dc:creator>
             <dc:identifier>doi:10.1038/d41586-023-03510-8</dc:identifier>
             <dc:source>Nature, Published online: 2023-11-15; | doi:10.1038/d41586-023-03510-8</dc:source>
@@ -1255,51 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03506-4</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03506-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03509-1">
-            <title><![CDATA[The world’s chemical-weapons stockpiles are gone — but a new challenge looms]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03509-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 14 November 2023; <a href="https://www.nature.com/articles/d41586-023-03509-1">doi:10.1038/d41586-023-03509-1</a></p>Continued efforts to maintain the ban on chemical weapons depend on nations sharing information to further build trust and global safety.]]></content:encoded>
-            <dc:title><![CDATA[The world’s chemical-weapons stockpiles are gone — but a new challenge looms]]></dc:title>
-            <dc:creator>Peter J.   Hotchkiss</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03509-1</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-14; | doi:10.1038/d41586-023-03509-1</dc:source>
-            <dc:date>2023-11-14</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03509-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03509-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03544-y">
-            <title><![CDATA[Why postdoctoral training needs a stronger focus on innovation]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03544-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 14 November 2023; <a href="https://www.nature.com/articles/d41586-023-03544-y">doi:10.1038/d41586-023-03544-y</a></p>Innovation straddles policy, change management, budgeting, negotiating and influencing skills. Researchers need all these and more, says David Bogle.]]></content:encoded>
-            <dc:title><![CDATA[Why postdoctoral training needs a stronger focus on innovation]]></dc:title>
-            <dc:creator>David Bogle </dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03544-y</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-14; | doi:10.1038/d41586-023-03544-y</dc:source>
-            <dc:date>2023-11-14</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03544-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03544-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03469-6">
-            <title><![CDATA[The Amazon’s record-setting drought: how bad will it be?]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03469-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 14 November 2023; <a href="https://www.nature.com/articles/d41586-023-03469-6">doi:10.1038/d41586-023-03469-6</a></p>Scientists tell Nature why the rainforest has dried out, and what to expect in the coming months.]]></content:encoded>
-            <dc:title><![CDATA[The Amazon’s record-setting drought: how bad will it be?]]></dc:title>
-            <dc:creator>Meghie Rodrigues</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03469-6</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-14; | doi:10.1038/d41586-023-03469-6</dc:source>
-            <dc:date>2023-11-14</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03469-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03469-6</prism:url>
         </item>
     
 </rdf:RDF>
