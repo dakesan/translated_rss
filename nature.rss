@@ -18,6 +18,8 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03547-9"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03525-1"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03591-5"/>
@@ -166,8 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03469-6"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03556-8"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,21 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03547-9">
+            <title><![CDATA[Record-breaking summer set to hit southern hemisphere]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03547-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 19 November 2023; <a href="https://www.nature.com/articles/d41586-023-03547-9">doi:10.1038/d41586-023-03547-9</a></p>El Niño and climate change expected to deliver heatwaves and extreme weather.]]></content:encoded>
+            <dc:title><![CDATA[Record-breaking summer set to hit southern hemisphere]]></dc:title>
+            <dc:creator>Bianca Nogrady</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03547-9</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-19; | doi:10.1038/d41586-023-03547-9</dc:source>
+            <dc:date>2023-11-19</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03547-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03547-9</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03525-1">
             <title><![CDATA[Botox’s paralysing effects can relieve an uncontrolled head tremor]]></title>
@@ -1285,21 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03469-6</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03469-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03556-8">
-            <title><![CDATA[Daily briefing: Rats use imagination to create mental maps]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03556-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 14 November 2023; <a href="https://www.nature.com/articles/d41586-023-03556-8">doi:10.1038/d41586-023-03556-8</a></p>Rats can ‘reminisce’ about places they’ve been before. Plus, how a robot chemist could make oxygen on Mars and a gene-editing method reduces cholesterol in the first human trial — but raises safety concerns.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: Rats use imagination to create mental maps]]></dc:title>
-            <dc:creator>Katrina Krämer</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03556-8</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-14; | doi:10.1038/d41586-023-03556-8</dc:source>
-            <dc:date>2023-11-14</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03556-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03556-8</prism:url>
         </item>
     
 </rdf:RDF>
