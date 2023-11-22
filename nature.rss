@@ -18,6 +18,12 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03605-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03615-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03578-2"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03617-y"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03501-9"/>
@@ -162,12 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06652-x"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06756-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06728-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06648-7"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,51 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03605-2">
+            <title><![CDATA[Climate loss-and-damage funding: how to get money to where it’s needed fast]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03605-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 22 November 2023; <a href="https://www.nature.com/articles/d41586-023-03605-2">doi:10.1038/d41586-023-03605-2</a></p>Finance for coping with the harms of climate change must be disbursed swiftly and pragmatically. The world’s largest existing climate fund for supporting climate mitigation and adaptation provides lessons.]]></content:encoded>
+            <dc:title><![CDATA[Climate loss-and-damage funding: how to get money to where it’s needed fast]]></dc:title>
+            <dc:creator>Laura   Kuhl</dc:creator><dc:creator>Istiakh   Ahmed</dc:creator><dc:creator>M. Feisal  Rahman</dc:creator><dc:creator>Jamie   Shinn</dc:creator><dc:creator>Johan  Arango-Quiroga</dc:creator><dc:creator>Saleemul  Huq</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03605-2</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-22; | doi:10.1038/d41586-023-03605-2</dc:source>
+            <dc:date>2023-11-22</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03605-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03605-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03615-0">
+            <title><![CDATA[‘Loss and damage’ — the most controversial words in climate finance today]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03615-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 22 November 2023; <a href="https://www.nature.com/articles/d41586-023-03615-0">doi:10.1038/d41586-023-03615-0</a></p>Crucial talks on how richer countries should compensate poorer countries for the effects of climate-related extreme weather are stuck. The COP28 climate summit must make a breakthrough.]]></content:encoded>
+            <dc:title><![CDATA[‘Loss and damage’ — the most controversial words in climate finance today]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-03615-0</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-22; | doi:10.1038/d41586-023-03615-0</dc:source>
+            <dc:date>2023-11-22</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03615-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03615-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03578-2">
+            <title><![CDATA[Climate loss-and-damage funding: a mechanism to make it work]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03578-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 22 November 2023; <a href="https://www.nature.com/articles/d41586-023-03578-2">doi:10.1038/d41586-023-03578-2</a></p>Compensating for the devastating impacts of heatwaves, hurricanes and floods after they occur is too slow. With climate risks accelerating, the world must predict who needs funds and when.]]></content:encoded>
+            <dc:title><![CDATA[Climate loss-and-damage funding: a mechanism to make it work]]></dc:title>
+            <dc:creator>Richard H.   Clarke</dc:creator><dc:creator>Noah J.   Wescombe</dc:creator><dc:creator>Saleemul  Huq</dc:creator><dc:creator>Mizan  Khan</dc:creator><dc:creator>Bert  Kramer</dc:creator><dc:creator>Domenico  Lombardi</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03578-2</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-22; | doi:10.1038/d41586-023-03578-2</dc:source>
+            <dc:date>2023-11-22</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03578-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03578-2</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03617-y">
             <title><![CDATA[People go the extra mile for food]]></title>
@@ -1255,51 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/s41586-023-06652-x</prism:doi>
             <prism:url>https://www.nature.com/articles/s41586-023-06652-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06756-4">
-            <title><![CDATA[Quasi-experimental evaluation of a nationwide diabetes prevention programme]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06756-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 15 November 2023; <a href="https://www.nature.com/articles/s41586-023-06756-4">doi:10.1038/s41586-023-06756-4</a></p>Analysis of the largest behaviour change programme for prediabetes globally provides causal evidence that lifestyle advice and counselling implemented at scale can improve key cardiovascular risk factors.]]></content:encoded>
-            <dc:title><![CDATA[Quasi-experimental evaluation of a nationwide diabetes prevention programme]]></dc:title>
-            <dc:creator>Julia M. Lemp</dc:creator><dc:creator>Christian Bommer</dc:creator><dc:creator>Min Xie</dc:creator><dc:creator>Felix Michalik</dc:creator><dc:creator>Anant Jani</dc:creator><dc:creator>Justine I. Davies</dc:creator><dc:creator>Till Bärnighausen</dc:creator><dc:creator>Sebastian Vollmer</dc:creator><dc:creator>Pascal Geldsetzer</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06756-4</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-15; | doi:10.1038/s41586-023-06756-4</dc:source>
-            <dc:date>2023-11-15</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06756-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06756-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06728-8">
-            <title><![CDATA[Illuminating protein space with a programmable generative model]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06728-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 15 November 2023; <a href="https://www.nature.com/articles/s41586-023-06728-8">doi:10.1038/s41586-023-06728-8</a></p>Evolution has produced a range of diverse proteins, and now a generative model called Chroma can expand that set by allowing the user to design new proteins and protein complexes with desired properties and functions.]]></content:encoded>
-            <dc:title><![CDATA[Illuminating protein space with a programmable generative model]]></dc:title>
-            <dc:creator>John B. Ingraham</dc:creator><dc:creator>Max Baranov</dc:creator><dc:creator>Zak Costello</dc:creator><dc:creator>Karl W. Barber</dc:creator><dc:creator>Wujie Wang</dc:creator><dc:creator>Ahmed Ismail</dc:creator><dc:creator>Vincent Frappier</dc:creator><dc:creator>Dana M. Lord</dc:creator><dc:creator>Christopher Ng-Thow-Hing</dc:creator><dc:creator>Erik R. Van Vlack</dc:creator><dc:creator>Shan Tie</dc:creator><dc:creator>Vincent Xue</dc:creator><dc:creator>Sarah C. Cowles</dc:creator><dc:creator>Alan Leung</dc:creator><dc:creator>João V. Rodrigues</dc:creator><dc:creator>Claudio L. Morales-Perez</dc:creator><dc:creator>Alex M. Ayoub</dc:creator><dc:creator>Robin Green</dc:creator><dc:creator>Katherine Puentes</dc:creator><dc:creator>Frank Oplinger</dc:creator><dc:creator>Nishant V. Panwar</dc:creator><dc:creator>Fritz Obermeyer</dc:creator><dc:creator>Adam R. Root</dc:creator><dc:creator>Andrew L. Beam</dc:creator><dc:creator>Frank J. Poelwijk</dc:creator><dc:creator>Gevorg Grigoryan</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06728-8</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-15; | doi:10.1038/s41586-023-06728-8</dc:source>
-            <dc:date>2023-11-15</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06728-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06728-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06648-7">
-            <title><![CDATA[Aligned grains and scattered light found in gaps of planet-forming disk]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06648-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 15 November 2023; <a href="https://www.nature.com/articles/s41586-023-06648-7">doi:10.1038/s41586-023-06648-7</a></p>Deep, high-resolution polarization observations of HL Tau at 870  µm show gaps that have polarization angles with a notable azimuthal component and a higher polarization fraction than the rings.]]></content:encoded>
-            <dc:title><![CDATA[Aligned grains and scattered light found in gaps of planet-forming disk]]></dc:title>
-            <dc:creator>Ian W. Stephens</dc:creator><dc:creator>Zhe-Yu Daniel Lin</dc:creator><dc:creator>Manuel Fernández-López</dc:creator><dc:creator>Zhi-Yun Li</dc:creator><dc:creator>Leslie W. Looney</dc:creator><dc:creator>Haifeng Yang</dc:creator><dc:creator>Rachel Harrison</dc:creator><dc:creator>Akimasa Kataoka</dc:creator><dc:creator>Carlos Carrasco-Gonzalez</dc:creator><dc:creator>Satoshi Okuzumi</dc:creator><dc:creator>Ryo Tazaki</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06648-7</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-15; | doi:10.1038/s41586-023-06648-7</dc:source>
-            <dc:date>2023-11-15</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06648-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06648-7</prism:url>
         </item>
     
 </rdf:RDF>
