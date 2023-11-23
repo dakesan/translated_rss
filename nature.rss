@@ -18,6 +18,8 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03678-z"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06880-1"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06869-w"/>
@@ -166,8 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03588-0"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03558-6"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,21 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03678-z">
+            <title><![CDATA[This astronomy centre just achieved gender parity. Here’s how it happened]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03678-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 23 November 2023; <a href="https://www.nature.com/articles/d41586-023-03678-z">doi:10.1038/d41586-023-03678-z</a></p>Education, female leadership and gender-balanced hiring policies were key.]]></content:encoded>
+            <dc:title><![CDATA[This astronomy centre just achieved gender parity. Here’s how it happened]]></dc:title>
+            <dc:creator>Gemma Conroy</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03678-z</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-23; | doi:10.1038/d41586-023-03678-z</dc:source>
+            <dc:date>2023-11-23</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03678-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03678-z</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06880-1">
             <title><![CDATA[Author Correction: Structure and electromechanical coupling of a voltage-gated Na<sup>+</sup>/H<sup>+</sup> exchanger]]></title>
@@ -238,11 +253,11 @@
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03679-y">
-            <title><![CDATA[These brain cells could influence how fast you eat - and when you stop]]></title>
+            <title><![CDATA[These brain cells could influence how fast you eat — and when you stop]]></title>
             <link>https://www.nature.com/articles/d41586-023-03679-y</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 22 November 2023; <a href="https://www.nature.com/articles/d41586-023-03679-y">doi:10.1038/d41586-023-03679-y</a></p>Scientists found the cells in mice - and say they could lead to a better understanding of human appetite.]]></content:encoded>
-            <dc:title><![CDATA[These brain cells could influence how fast you eat - and when you stop]]></dc:title>
+                <![CDATA[<p>Nature, Published online: 22 November 2023; <a href="https://www.nature.com/articles/d41586-023-03679-y">doi:10.1038/d41586-023-03679-y</a></p>Scientists found the cells in mice — and say they could lead to a better understanding of human appetite.]]></content:encoded>
+            <dc:title><![CDATA[These brain cells could influence how fast you eat — and when you stop]]></dc:title>
             <dc:creator>Carissa Wong</dc:creator>
             <dc:identifier>doi:10.1038/d41586-023-03679-y</dc:identifier>
             <dc:source>Nature, Published online: 2023-11-22; | doi:10.1038/d41586-023-03679-y</dc:source>
@@ -1285,21 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03588-0</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03588-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03558-6">
-            <title><![CDATA[CRISPR and ‘e-ink’: new tools could reveal the secrets of cuttlefish camouflage]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03558-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 17 November 2023; <a href="https://www.nature.com/articles/d41586-023-03558-6">doi:10.1038/d41586-023-03558-6</a></p>Technology moves scientists closer than ever to understanding how colour-blind cuttlefish pull off their kaleidoscopic patterns.]]></content:encoded>
-            <dc:title><![CDATA[CRISPR and ‘e-ink’: new tools could reveal the secrets of cuttlefish camouflage]]></dc:title>
-            <dc:creator>Max Kozlov</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03558-6</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-17; | doi:10.1038/d41586-023-03558-6</dc:source>
-            <dc:date>2023-11-17</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03558-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03558-6</prism:url>
         </item>
     
 </rdf:RDF>
