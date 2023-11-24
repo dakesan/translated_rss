@@ -18,6 +18,10 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03559-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03392-w"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03560-y"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03678-z"/>
@@ -29,6 +33,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03677-0"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03700-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03720-0"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03706-y"/>
                 
@@ -162,12 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03613-2"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03595-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03562-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03633-y"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,36 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03559-5">
+            <title><![CDATA[‘Early dark energy’ fails to solve mystery of cosmic expansion]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03559-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 24 November 2023; <a href="https://www.nature.com/articles/d41586-023-03559-5">doi:10.1038/d41586-023-03559-5</a></p>The extra ingredient would explain why the Universe is expanding so fast now — but conflicts with data from ancient quasars.]]></content:encoded>
+            <dc:title><![CDATA[‘Early dark energy’ fails to solve mystery of cosmic expansion]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-03559-5</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-24; | doi:10.1038/d41586-023-03559-5</dc:source>
+            <dc:date>2023-11-24</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03559-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03559-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03392-w">
+            <title><![CDATA[How ChatGPT and sounds from space brought a ‘luminous jelly’ to life]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03392-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 24 November 2023; <a href="https://www.nature.com/articles/d41586-023-03392-w">doi:10.1038/d41586-023-03392-w</a></p>Engineer-turned-artist Diana Scarborough and inorganic chemist Anna Melekhova describe how their art–science collaboration gave voice and form to a new material.]]></content:encoded>
+            <dc:title><![CDATA[How ChatGPT and sounds from space brought a ‘luminous jelly’ to life]]></dc:title>
+            <dc:creator>Julie Gould</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03392-w</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-24; | doi:10.1038/d41586-023-03392-w</dc:source>
+            <dc:date>2023-11-24</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03392-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03392-w</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03560-y">
             <title><![CDATA[Huge California wildfires seeded cirrus clouds half a world away]]></title>
@@ -265,6 +295,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03700-4</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03700-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03720-0">
+            <title><![CDATA[Daily briefing: How AI brought back the Klimt masterpiece destroyed by Nazis]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03720-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 23 November 2023; <a href="https://www.nature.com/articles/d41586-023-03720-0">doi:10.1038/d41586-023-03720-0</a></p>Artificial intelligence can help to regain lost art treasures. Plus, brain cells that control how quickly mice eat have been identified and how to make ‘loss and damage’ climate funding work.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: How AI brought back the Klimt masterpiece destroyed by Nazis]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03720-0</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-23; | doi:10.1038/d41586-023-03720-0</dc:source>
+            <dc:date>2023-11-23</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03720-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03720-0</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03706-y">
@@ -1255,51 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03613-2</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03613-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03595-1">
-            <title><![CDATA[‘Electrocaloric’ heat pump could transform air conditioning]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03595-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 20 November 2023; <a href="https://www.nature.com/articles/d41586-023-03595-1">doi:10.1038/d41586-023-03595-1</a></p>Heat pumps are ubiquitous in the form of air conditioners. Scientists just invented one that avoids harmful refrigerant gases.]]></content:encoded>
-            <dc:title><![CDATA[‘Electrocaloric’ heat pump could transform air conditioning]]></dc:title>
-            <dc:creator>Davide Castelvecchi</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03595-1</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-20; | doi:10.1038/d41586-023-03595-1</dc:source>
-            <dc:date>2023-11-20</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03595-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03595-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03562-w">
-            <title><![CDATA[How to recycle unrecyclable paper cups]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03562-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 20 November 2023; <a href="https://www.nature.com/articles/d41586-023-03562-w">doi:10.1038/d41586-023-03562-w</a></p>Chemistry can transform disposable cups into industrially useful structures called cellulose nanocrystals.]]></content:encoded>
-            <dc:title><![CDATA[How to recycle unrecyclable paper cups]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-03562-w</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-20; | doi:10.1038/d41586-023-03562-w</dc:source>
-            <dc:date>2023-11-20</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03562-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03562-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03633-y">
-            <title><![CDATA[Daily briefing: Why these PhD scientists went into teaching]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03633-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 20 November 2023; <a href="https://www.nature.com/articles/d41586-023-03633-y">doi:10.1038/d41586-023-03633-y</a></p>Some academics seeking a stable and fulfilling career are swapping the laboratory for the classroom. Plus, CRISPR and e-ink investigate how cuttlefish camouflage and how bacteria might help purify rare-earth elements.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: Why these PhD scientists went into teaching]]></dc:title>
-            <dc:creator>Flora Graham</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03633-y</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-20; | doi:10.1038/d41586-023-03633-y</dc:source>
-            <dc:date>2023-11-20</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03633-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03633-y</prism:url>
         </item>
     
 </rdf:RDF>
