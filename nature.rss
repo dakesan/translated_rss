@@ -18,7 +18,19 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03560-y"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03678-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03697-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03693-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03677-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03700-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03706-y"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06880-1"/>
                 
@@ -28,7 +40,11 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06882-z"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03581-7"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03679-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03561-x"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03682-3"/>
                 
@@ -73,6 +89,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03578-2"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03502-8"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03698-9"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03500-w"/>
                 
@@ -146,27 +164,9 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03595-1"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03562-w"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03633-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03612-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03603-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03620-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03592-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03611-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03579-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03547-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03525-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03591-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03588-0"/>
                 
             </rdf:Seq>
         </items>
@@ -176,6 +176,21 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03560-y">
+            <title><![CDATA[Huge California wildfires seeded cirrus clouds half a world away]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03560-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 23 November 2023; <a href="https://www.nature.com/articles/d41586-023-03560-y">doi:10.1038/d41586-023-03560-y</a></p>Smoke from record-breaking fires in 2020 travelled all the way to Cyprus, where it helped to trigger cloud formation.]]></content:encoded>
+            <dc:title><![CDATA[Huge California wildfires seeded cirrus clouds half a world away]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-03560-y</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-23; | doi:10.1038/d41586-023-03560-y</dc:source>
+            <dc:date>2023-11-23</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03560-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03560-y</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03678-z">
             <title><![CDATA[This astronomy centre just achieved gender parity. Here’s how it happened]]></title>
@@ -190,6 +205,81 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03678-z</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03678-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03697-w">
+            <title><![CDATA[‘Treasure trove’ of new CRISPR systems holds promise for genome editing]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03697-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 23 November 2023; <a href="https://www.nature.com/articles/d41586-023-03697-w">doi:10.1038/d41586-023-03697-w</a></p>An algorithm that can analyse hundreds of millions of genetic sequences has identified DNA-cutting genes and enzymes that are extremely rare in nature.]]></content:encoded>
+            <dc:title><![CDATA[‘Treasure trove’ of new CRISPR systems holds promise for genome editing]]></dc:title>
+            <dc:creator>Sara Reardon</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03697-w</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-23; | doi:10.1038/d41586-023-03697-w</dc:source>
+            <dc:date>2023-11-23</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03697-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03697-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03693-0">
+            <title><![CDATA[Réunion’s search for energy self-sufficiency]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03693-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 23 November 2023; <a href="https://www.nature.com/articles/d41586-023-03693-0">doi:10.1038/d41586-023-03693-0</a></p>Whether the French island succeeds in producing all of its electricity depends not only on technology, but also on social and political will.]]></content:encoded>
+            <dc:title><![CDATA[Réunion’s search for energy self-sufficiency]]></dc:title>
+            <dc:creator>Rachel Nuwer</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03693-0</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-23; | doi:10.1038/d41586-023-03693-0</dc:source>
+            <dc:date>2023-11-23</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03693-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03693-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03677-0">
+            <title><![CDATA[The most powerful cosmic ray since the Oh-My-God particle puzzles scientists]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03677-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 23 November 2023; <a href="https://www.nature.com/articles/d41586-023-03677-0">doi:10.1038/d41586-023-03677-0</a></p>Scientists spot a particle of intense energy, but explaining where it came from might require some new physics.]]></content:encoded>
+            <dc:title><![CDATA[The most powerful cosmic ray since the Oh-My-God particle puzzles scientists]]></dc:title>
+            <dc:creator>Gemma Conroy</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03677-0</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-23; | doi:10.1038/d41586-023-03677-0</dc:source>
+            <dc:date>2023-11-23</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03677-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03677-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03700-4">
+            <title><![CDATA[What the OpenAI drama means for AI progress — and safety]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03700-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 23 November 2023; <a href="https://www.nature.com/articles/d41586-023-03700-4">doi:10.1038/d41586-023-03700-4</a></p>A debacle at the company that built ChatGPT highlights concern that commercial forces are acting against the responsible development of artificial-intelligence systems.]]></content:encoded>
+            <dc:title><![CDATA[What the OpenAI drama means for AI progress — and safety]]></dc:title>
+            <dc:creator>Nicola Jones</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03700-4</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-23; | doi:10.1038/d41586-023-03700-4</dc:source>
+            <dc:date>2023-11-23</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03700-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03700-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03706-y">
+            <title><![CDATA[‘Politicians don’t understand science’: advisers give evidence at UK COVID inquiry]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03706-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 23 November 2023; <a href="https://www.nature.com/articles/d41586-023-03706-y">doi:10.1038/d41586-023-03706-y</a></p>Patrick Vallance, Chris Witty and others reflect on advising the UK government during the ongoing investigation into the country’s pandemic response.]]></content:encoded>
+            <dc:title><![CDATA[‘Politicians don’t understand science’: advisers give evidence at UK COVID inquiry]]></dc:title>
+            <dc:creator>Katharine Sanderson</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03706-y</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-23; | doi:10.1038/d41586-023-03706-y</dc:source>
+            <dc:date>2023-11-23</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03706-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03706-y</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06880-1">
@@ -252,6 +342,21 @@
             <prism:url>https://www.nature.com/articles/s41586-023-06882-z</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03581-7">
+            <title><![CDATA[Forty slaughtered horses mark site of ancient mass sacrifices]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03581-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 22 November 2023; <a href="https://www.nature.com/articles/d41586-023-03581-7">doi:10.1038/d41586-023-03581-7</a></p>Cattle and other animals were slaughtered for rituals during the fifth century bc in what is now Spain.]]></content:encoded>
+            <dc:title><![CDATA[Forty slaughtered horses mark site of ancient mass sacrifices]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-03581-7</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-22; | doi:10.1038/d41586-023-03581-7</dc:source>
+            <dc:date>2023-11-22</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03581-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03581-7</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-023-03679-y">
             <title><![CDATA[These brain cells could influence how fast you eat — and when you stop]]></title>
             <link>https://www.nature.com/articles/d41586-023-03679-y</link>
@@ -265,6 +370,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03679-y</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03679-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03561-x">
+            <title><![CDATA[That itchy, scratchy feeling strikes when <i>Staph</i> bacteria get to work]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03561-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 22 November 2023; <a href="https://www.nature.com/articles/d41586-023-03561-x">doi:10.1038/d41586-023-03561-x</a></p>An enzyme wielded by a common skin bacterium acts on nerve receptors that trigger intense itching.]]></content:encoded>
+            <dc:title><![CDATA[That itchy, scratchy feeling strikes when <i>Staph</i> bacteria get to work]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-03561-x</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-22; | doi:10.1038/d41586-023-03561-x</dc:source>
+            <dc:date>2023-11-22</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03561-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03561-x</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03682-3">
@@ -597,6 +717,21 @@
             <prism:url>https://www.nature.com/articles/d41586-023-03502-8</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03698-9">
+            <title><![CDATA[Daily briefing: Deep-sea mining might harm wildlife]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03698-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 22 November 2023; <a href="https://www.nature.com/articles/d41586-023-03698-9">doi:10.1038/d41586-023-03698-9</a></p>Mining of the ocean floor for minerals could harm deep-sea jellyfish by stressing them out with sediment. Plus, Iceland braces for volcanic eruption and seven charts on the challenge to keep global warming below 1.5 °C.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Deep-sea mining might harm wildlife]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03698-9</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-22; | doi:10.1038/d41586-023-03698-9</dc:source>
+            <dc:date>2023-11-22</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03698-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03698-9</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-023-03500-w">
             <title><![CDATA[JWST ends game of hide and seek with methane]]></title>
             <link>https://www.nature.com/articles/d41586-023-03500-w</link>
@@ -678,7 +813,7 @@
             <content:encoded>
                 <![CDATA[<p>Nature, Published online: 21 November 2023; <a href="https://www.nature.com/articles/d41586-023-03617-y">doi:10.1038/d41586-023-03617-y</a></p>GPS data reveal that people travel far from home to buy food in the United States, challenging ideas about how access to food relates to unhealthy eating habits.]]></content:encoded>
             <dc:title><![CDATA[People go the extra mile for food]]></dc:title>
-            
+            <dc:creator>Abigail Klopper</dc:creator>
             <dc:identifier>doi:10.1038/d41586-023-03617-y</dc:identifier>
             <dc:source>Nature, Published online: 2023-11-21; | doi:10.1038/d41586-023-03617-y</dc:source>
             <dc:date>2023-11-21</dc:date>
@@ -1137,6 +1272,21 @@
             <prism:url>https://www.nature.com/articles/d41586-023-03595-1</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03562-w">
+            <title><![CDATA[How to recycle unrecyclable paper cups]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03562-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 20 November 2023; <a href="https://www.nature.com/articles/d41586-023-03562-w">doi:10.1038/d41586-023-03562-w</a></p>Chemistry can transform disposable cups into industrially useful structures called cellulose nanocrystals.]]></content:encoded>
+            <dc:title><![CDATA[How to recycle unrecyclable paper cups]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-03562-w</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-20; | doi:10.1038/d41586-023-03562-w</dc:source>
+            <dc:date>2023-11-20</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03562-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03562-w</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-023-03633-y">
             <title><![CDATA[Daily briefing: Why these PhD scientists went into teaching]]></title>
             <link>https://www.nature.com/articles/d41586-023-03633-y</link>
@@ -1150,156 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03633-y</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03633-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03612-3">
-            <title><![CDATA[Why these PhD scientists swapped research for secondary-school teaching]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03612-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 20 November 2023; <a href="https://www.nature.com/articles/d41586-023-03612-3">doi:10.1038/d41586-023-03612-3</a></p>Students value being taught by real-life scientists with lived experience of life in the lab, say researchers who switched career.]]></content:encoded>
-            <dc:title><![CDATA[Why these PhD scientists swapped research for secondary-school teaching]]></dc:title>
-            <dc:creator>Anne Marie Conlon</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03612-3</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-20; | doi:10.1038/d41586-023-03612-3</dc:source>
-            <dc:date>2023-11-20</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03612-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03612-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03603-4">
-            <title><![CDATA[Migration isn’t increasing, border restrictions don’t reduce crossings — and other home truths]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03603-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 20 November 2023; <a href="https://www.nature.com/articles/d41586-023-03603-4">doi:10.1038/d41586-023-03603-4</a></p>Prejudice, rather than facts, colours our views about human mobility, argues a new book. But the global shock of the COVID-19 pandemic means that the world is changing in front of our eyes.]]></content:encoded>
-            <dc:title><![CDATA[Migration isn’t increasing, border restrictions don’t reduce crossings — and other home truths]]></dc:title>
-            <dc:creator>Alan  Gamlen</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03603-4</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-20; | doi:10.1038/d41586-023-03603-4</dc:source>
-            <dc:date>2023-11-20</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03603-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03603-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03620-3">
-            <title><![CDATA[‘Extremely worrying’: Argentinian researchers reel after election of anti-science president]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03620-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 20 November 2023; <a href="https://www.nature.com/articles/d41586-023-03620-3">doi:10.1038/d41586-023-03620-3</a></p>As part of his plan to address the country’s economic crisis, Javier Milei has promised to slash research funding and shut down key science agencies.]]></content:encoded>
-            <dc:title><![CDATA[‘Extremely worrying’: Argentinian researchers reel after election of anti-science president]]></dc:title>
-            <dc:creator>Martín De Ambrosio</dc:creator><dc:creator>Fermín Koop</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03620-3</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-20; | doi:10.1038/d41586-023-03620-3</dc:source>
-            <dc:date>2023-11-20</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03620-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03620-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03592-4">
-            <title><![CDATA[How my MBA helps me keep my donor-funded research centre afloat]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03592-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 20 November 2023; <a href="https://www.nature.com/articles/d41586-023-03592-4">doi:10.1038/d41586-023-03592-4</a></p>Medicinal chemist Susan Winks shares how she keeps money flowing at the drug-discovery centre she helps to manage.]]></content:encoded>
-            <dc:title><![CDATA[How my MBA helps me keep my donor-funded research centre afloat]]></dc:title>
-            <dc:creator>Sarah Wild</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03592-4</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-20; | doi:10.1038/d41586-023-03592-4</dc:source>
-            <dc:date>2023-11-20</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03592-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03592-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03611-4">
-            <title><![CDATA[Microbial miners take on rare-earth metals]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03611-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 20 November 2023; <a href="https://www.nature.com/articles/d41586-023-03611-4">doi:10.1038/d41586-023-03611-4</a></p>As a tech-hungry world gobbles up rare-earth elements, researchers are adapting bacteria that can isolate and purify the metals in the absence of harsh chemicals.]]></content:encoded>
-            <dc:title><![CDATA[Microbial miners take on rare-earth metals]]></dc:title>
-            <dc:creator>Amber Dance</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03611-4</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-20; | doi:10.1038/d41586-023-03611-4</dc:source>
-            <dc:date>2023-11-20</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03611-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03611-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03579-1">
-            <title><![CDATA[Progress on plastic pollution treaty too slow, scientists say]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03579-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 20 November 2023; <a href="https://www.nature.com/articles/d41586-023-03579-1">doi:10.1038/d41586-023-03579-1</a></p>As national divisions widen over how to address the global waste crisis, researchers fight for more input into the process.]]></content:encoded>
-            <dc:title><![CDATA[Progress on plastic pollution treaty too slow, scientists say]]></dc:title>
-            <dc:creator>Nicola Jones</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03579-1</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-20; | doi:10.1038/d41586-023-03579-1</dc:source>
-            <dc:date>2023-11-20</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03579-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03579-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03547-9">
-            <title><![CDATA[Record-breaking heat set to hit southern hemisphere as summer begins]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03547-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 19 November 2023; <a href="https://www.nature.com/articles/d41586-023-03547-9">doi:10.1038/d41586-023-03547-9</a></p>The northern hemisphere experienced a sweltering summer due to climate and meteorological patters. Scientists say the south will not escape.]]></content:encoded>
-            <dc:title><![CDATA[Record-breaking heat set to hit southern hemisphere as summer begins]]></dc:title>
-            <dc:creator>Bianca Nogrady</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03547-9</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-19; | doi:10.1038/d41586-023-03547-9</dc:source>
-            <dc:date>2023-11-19</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03547-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03547-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03525-1">
-            <title><![CDATA[Botox’s paralysing effects can relieve an uncontrolled head tremor]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03525-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 17 November 2023; <a href="https://www.nature.com/articles/d41586-023-03525-1">doi:10.1038/d41586-023-03525-1</a></p>A bacterial toxin used to reduce wrinkles can also treat a common disorder in older people.]]></content:encoded>
-            <dc:title><![CDATA[Botox’s paralysing effects can relieve an uncontrolled head tremor]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-03525-1</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-17; | doi:10.1038/d41586-023-03525-1</dc:source>
-            <dc:date>2023-11-17</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03525-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03525-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03591-5">
-            <title><![CDATA[Why genes mean less than you think, and other reads: Books in brief]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03591-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 17 November 2023; <a href="https://www.nature.com/articles/d41586-023-03591-5">doi:10.1038/d41586-023-03591-5</a></p>Andrew Robinson reviews five of the best science picks.]]></content:encoded>
-            <dc:title><![CDATA[Why genes mean less than you think, and other reads: Books in brief]]></dc:title>
-            <dc:creator>Andrew Robinson</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03591-5</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-17; | doi:10.1038/d41586-023-03591-5</dc:source>
-            <dc:date>2023-11-17</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03591-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03591-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03588-0">
-            <title><![CDATA[Dust: the tiny substance with enormous power]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03588-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 17 November 2023; <a href="https://www.nature.com/articles/d41586-023-03588-0">doi:10.1038/d41586-023-03588-0</a></p>Jay Owens joins us to talk about her book Dust: The Modern World in a Trillion Particles.]]></content:encoded>
-            <dc:title><![CDATA[Dust: the tiny substance with enormous power]]></dc:title>
-            <dc:creator>Benjamin Thompson</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03588-0</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-17; | doi:10.1038/d41586-023-03588-0</dc:source>
-            <dc:date>2023-11-17</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03588-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03588-0</prism:url>
         </item>
     
 </rdf:RDF>
