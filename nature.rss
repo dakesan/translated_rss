@@ -18,6 +18,8 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03640-z"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03559-5"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03392-w"/>
@@ -166,8 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03563-9"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03613-2"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,21 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03640-z">
+            <title><![CDATA[Audio long read: Apple revival — how science is bringing historic varieties back to life]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03640-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 24 November 2023; <a href="https://www.nature.com/articles/d41586-023-03640-z">doi:10.1038/d41586-023-03640-z</a></p>Genomic studies of heirloom apples could help safeguard the future of the fruit.]]></content:encoded>
+            <dc:title><![CDATA[Audio long read: Apple revival — how science is bringing historic varieties back to life]]></dc:title>
+            <dc:creator>Christopher Kemp</dc:creator><dc:creator>Benjamin Thompson</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03640-z</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-24; | doi:10.1038/d41586-023-03640-z</dc:source>
+            <dc:date>2023-11-24</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03640-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03640-z</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03559-5">
             <title><![CDATA[‘Early dark energy’ fails to solve mystery of cosmic expansion]]></title>
@@ -1285,21 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03563-9</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03563-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03613-2">
-            <title><![CDATA[Eavesdropping on plant chatter]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03613-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 20 November 2023; <a href="https://www.nature.com/articles/d41586-023-03613-2">doi:10.1038/d41586-023-03613-2</a></p>Amie Fornah Sankoh studies how viruses commandeer plant communication at the Donald Danforth Plant Science Center]]></content:encoded>
-            <dc:title><![CDATA[Eavesdropping on plant chatter]]></dc:title>
-            <dc:creator>Virginia Gewin</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03613-2</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-20; | doi:10.1038/d41586-023-03613-2</dc:source>
-            <dc:date>2023-11-20</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03613-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03613-2</prism:url>
         </item>
     
 </rdf:RDF>
