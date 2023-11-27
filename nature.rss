@@ -18,9 +18,17 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06876-x"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03634-x"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03722-y"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03640-z"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03559-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03737-5"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03392-w"/>
                 
@@ -160,14 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03518-0"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03565-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03624-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03629-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03563-9"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,51 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-023-06876-x">
+            <title><![CDATA[Publisher Correction: Dopaminergic systems create reward seeking despite adverse consequences]]></title>
+            <link>https://www.nature.com/articles/s41586-023-06876-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 27 November 2023; <a href="https://www.nature.com/articles/s41586-023-06876-x">doi:10.1038/s41586-023-06876-x</a></p>Publisher Correction: Dopaminergic systems create reward seeking despite adverse consequences]]></content:encoded>
+            <dc:title><![CDATA[Publisher Correction: Dopaminergic systems create reward seeking despite adverse consequences]]></dc:title>
+            <dc:creator>Kristijan D. Jovanoski</dc:creator><dc:creator>Lucille Duquenoy</dc:creator><dc:creator>Jessica Mitchell</dc:creator><dc:creator>Ishaan Kapoor</dc:creator><dc:creator>Christoph D. Treiber</dc:creator><dc:creator>Vincent Croset</dc:creator><dc:creator>Georgia Dempsey</dc:creator><dc:creator>Sai Parepalli</dc:creator><dc:creator>Paola Cognigni</dc:creator><dc:creator>Nils Otto</dc:creator><dc:creator>Johannes Felsenberg</dc:creator><dc:creator>Scott Waddell</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-023-06876-x</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-27; | doi:10.1038/s41586-023-06876-x</dc:source>
+            <dc:date>2023-11-27</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-023-06876-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-023-06876-x</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03634-x">
+            <title><![CDATA[Chemistry is inaccessible: how to reduce barriers for disabled scientists]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03634-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 27 November 2023; <a href="https://www.nature.com/articles/d41586-023-03634-x">doi:10.1038/d41586-023-03634-x</a></p>From classrooms to laboratories and conferences, working in chemistry presents huge challenges to disabled, chronically ill and neurodivergent people. Some simple fixes can help to shift the dial.]]></content:encoded>
+            <dc:title><![CDATA[Chemistry is inaccessible: how to reduce barriers for disabled scientists]]></dc:title>
+            <dc:creator>Blaine G. Fiss</dc:creator><dc:creator>Laena D’Alton</dc:creator><dc:creator>Naumih M. Noah</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03634-x</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-27; | doi:10.1038/d41586-023-03634-x</dc:source>
+            <dc:date>2023-11-27</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03634-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03634-x</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03722-y">
+            <title><![CDATA[AI under the microscope: the algorithms powering the search for cells]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03722-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 27 November 2023; <a href="https://www.nature.com/articles/d41586-023-03722-y">doi:10.1038/d41586-023-03722-y</a></p>Deep learning is driving the rapid evolution of algorithms that can automatically find and trace cells in a wide range of microscopy experiments.]]></content:encoded>
+            <dc:title><![CDATA[AI under the microscope: the algorithms powering the search for cells]]></dc:title>
+            <dc:creator>Michael Eisenstein</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03722-y</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-27; | doi:10.1038/d41586-023-03722-y</dc:source>
+            <dc:date>2023-11-27</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03722-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03722-y</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03640-z">
             <title><![CDATA[Audio long read: Apple revival — how science is bringing historic varieties back to life]]></title>
@@ -205,6 +250,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03559-5</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03559-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03737-5">
+            <title><![CDATA[Daily briefing: What we can learn from disasters that were averted]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03737-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 24 November 2023; <a href="https://www.nature.com/articles/d41586-023-03737-5">doi:10.1038/d41586-023-03737-5</a></p>Tornadoes, earthquakes and wildfires don’t have to lead to death and destruction. Plus, the most powerful cosmic ray since the Oh-My-God particle and a ‘treasure trove’ of new CRISPR systems holds promise for genome editing.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: What we can learn from disasters that were averted]]></dc:title>
+            <dc:creator>Katrina Krämer</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03737-5</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-24; | doi:10.1038/d41586-023-03737-5</dc:source>
+            <dc:date>2023-11-24</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03737-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03737-5</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03392-w">
@@ -1240,66 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03518-0</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03518-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03565-7">
-            <title><![CDATA[These bats are the first mammals found to have non-penetrative mating]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03565-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 20 November 2023; <a href="https://www.nature.com/articles/d41586-023-03565-7">doi:10.1038/d41586-023-03565-7</a></p>A European bat has been captured on film engaging in what appears to be an unusual reproductive strategy.]]></content:encoded>
-            <dc:title><![CDATA[These bats are the first mammals found to have non-penetrative mating]]></dc:title>
-            <dc:creator>Gayathri Vaidyanathan</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03565-7</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-20; | doi:10.1038/d41586-023-03565-7</dc:source>
-            <dc:date>2023-11-20</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03565-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03565-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03624-z">
-            <title><![CDATA[SpaceX Starship launch ends in explosion — what’s next for the mega-rocket?]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03624-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 20 November 2023; <a href="https://www.nature.com/articles/d41586-023-03624-z">doi:10.1038/d41586-023-03624-z</a></p>The craft travelled into space for the first time, before it self-destructed for unknown reasons.]]></content:encoded>
-            <dc:title><![CDATA[SpaceX Starship launch ends in explosion — what’s next for the mega-rocket?]]></dc:title>
-            <dc:creator>Alexandra Witze</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03624-z</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-20; | doi:10.1038/d41586-023-03624-z</dc:source>
-            <dc:date>2023-11-20</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03624-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03624-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03629-8">
-            <title><![CDATA[Massive genetic study finds genes linked to cannabis addiction]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03629-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 20 November 2023; <a href="https://www.nature.com/articles/d41586-023-03629-8">doi:10.1038/d41586-023-03629-8</a></p>Data from more than one million genomes offer fresh insights into excessive cannabis use and its relationship to other diseases.]]></content:encoded>
-            <dc:title><![CDATA[Massive genetic study finds genes linked to cannabis addiction]]></dc:title>
-            <dc:creator>Lilly Tozer</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03629-8</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-20; | doi:10.1038/d41586-023-03629-8</dc:source>
-            <dc:date>2023-11-20</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03629-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03629-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03563-9">
-            <title><![CDATA[These falcons excel at problem-solving — and outdo some of the world’s smartest birds]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03563-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 20 November 2023; <a href="https://www.nature.com/articles/d41586-023-03563-9">doi:10.1038/d41586-023-03563-9</a></p>A bird of prey called the striated caracara can figure out puzzles that are a struggle for Goffin’s cockatoos, which are known for their intelligence.]]></content:encoded>
-            <dc:title><![CDATA[These falcons excel at problem-solving — and outdo some of the world’s smartest birds]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-03563-9</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-20; | doi:10.1038/d41586-023-03563-9</dc:source>
-            <dc:date>2023-11-20</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03563-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03563-9</prism:url>
         </item>
     
 </rdf:RDF>
