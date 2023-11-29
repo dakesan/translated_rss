@@ -18,6 +18,12 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03711-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03714-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03762-4"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03741-9"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03702-2"/>
@@ -35,6 +41,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03721-z"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03712-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03731-x"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03715-x"/>
                 
@@ -160,14 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03617-y"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03501-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03572-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03608-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03606-1"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,51 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03711-1">
+            <title><![CDATA[Global science is splintering into two — and this is becoming a problem]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03711-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 29 November 2023; <a href="https://www.nature.com/articles/d41586-023-03711-1">doi:10.1038/d41586-023-03711-1</a></p>The United States and China are pursuing parallel scientific tracks. To solve crises on multiple fronts, the two roads need to become one.]]></content:encoded>
+            <dc:title><![CDATA[Global science is splintering into two — and this is becoming a problem]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-03711-1</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-29; | doi:10.1038/d41586-023-03711-1</dc:source>
+            <dc:date>2023-11-29</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03711-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03711-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03714-y">
+            <title><![CDATA[A new kind of solar cell is coming: is it the future of green energy?]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03714-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 29 November 2023; <a href="https://www.nature.com/articles/d41586-023-03714-y">doi:10.1038/d41586-023-03714-y</a></p>Firms commercializing perovskite–silicon ‘tandem’ photovoltaics say that the panels will be more efficient and could lead to cheaper electricity.]]></content:encoded>
+            <dc:title><![CDATA[A new kind of solar cell is coming: is it the future of green energy?]]></dc:title>
+            <dc:creator>Mark Peplow</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03714-y</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-29; | doi:10.1038/d41586-023-03714-y</dc:source>
+            <dc:date>2023-11-29</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03714-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03714-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03762-4">
+            <title><![CDATA[Why is China’s high-quality research footprint becoming more introverted?]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03762-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 29 November 2023; <a href="https://www.nature.com/articles/d41586-023-03762-4">doi:10.1038/d41586-023-03762-4</a></p>Data from the Nature Index suggest China-based authors are increasingly publishing without international colleagues.]]></content:encoded>
+            <dc:title><![CDATA[Why is China’s high-quality research footprint becoming more introverted?]]></dc:title>
+            <dc:creator>Brian Owens</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03762-4</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-29; | doi:10.1038/d41586-023-03762-4</dc:source>
+            <dc:date>2023-11-29</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03762-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03762-4</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03741-9">
             <title><![CDATA[State governments could revolutionize health-care data]]></title>
@@ -310,6 +355,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03712-0</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03712-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03731-x">
+            <title><![CDATA["My collaborations would see me jailed”: Australian researchers fear proposed new laws]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03731-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 November 2023; <a href="https://www.nature.com/articles/d41586-023-03731-x">doi:10.1038/d41586-023-03731-x</a></p>Under the proposal, technology with potential military use would need authorization to be shared with non-Australian colleagues.]]></content:encoded>
+            <dc:title><![CDATA["My collaborations would see me jailed”: Australian researchers fear proposed new laws]]></dc:title>
+            <dc:creator>Bianca Nogrady</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03731-x</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-28; | doi:10.1038/d41586-023-03731-x</dc:source>
+            <dc:date>2023-11-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03731-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03731-x</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03715-x">
@@ -1240,66 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03617-y</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03617-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03501-9">
-            <title><![CDATA[From the archive: a juice extractor in an insect’s gut, and amateur radio telephony]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03501-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 21 November 2023; <a href="https://www.nature.com/articles/d41586-023-03501-9">doi:10.1038/d41586-023-03501-9</a></p>Snippets from Nature’s past.]]></content:encoded>
-            <dc:title><![CDATA[From the archive: a juice extractor in an insect’s gut, and amateur radio telephony]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-03501-9</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-21; | doi:10.1038/d41586-023-03501-9</dc:source>
-            <dc:date>2023-11-21</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03501-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03501-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03572-8">
-            <title><![CDATA[A guide to the Nature Index]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03572-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 21 November 2023; <a href="https://www.nature.com/articles/d41586-023-03572-8">doi:10.1038/d41586-023-03572-8</a></p>A description of the terminology and methodology used in this supplement, and a guide to the functionality that is available free online at natureindex.com.]]></content:encoded>
-            <dc:title><![CDATA[A guide to the Nature Index]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-03572-8</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-21; | doi:10.1038/d41586-023-03572-8</dc:source>
-            <dc:date>2023-11-21</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03572-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03572-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03608-z">
-            <title><![CDATA[AI should focus on equity in pandemic preparedness]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03608-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 21 November 2023; <a href="https://www.nature.com/articles/d41586-023-03608-z">doi:10.1038/d41586-023-03608-z</a></p>AI should focus on equity in pandemic preparedness]]></content:encoded>
-            <dc:title><![CDATA[AI should focus on equity in pandemic preparedness]]></dc:title>
-            <dc:creator>Yuan  Shen</dc:creator><dc:creator>Linghua  Yu</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03608-z</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-21; | doi:10.1038/d41586-023-03608-z</dc:source>
-            <dc:date>2023-11-21</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03608-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03608-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03606-1">
-            <title><![CDATA[Expose limitations of SDGs rather than trying to save them]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03606-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 21 November 2023; <a href="https://www.nature.com/articles/d41586-023-03606-1">doi:10.1038/d41586-023-03606-1</a></p>Expose limitations of SDGs rather than trying to save them]]></content:encoded>
-            <dc:title><![CDATA[Expose limitations of SDGs rather than trying to save them]]></dc:title>
-            <dc:creator>Abhik  Chakraborty</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03606-1</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-21; | doi:10.1038/d41586-023-03606-1</dc:source>
-            <dc:date>2023-11-21</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03606-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03606-1</prism:url>
         </item>
     
 </rdf:RDF>
