@@ -20,13 +20,27 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03741-9"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03702-2"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03742-8"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03738-4"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03740-w"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03739-3"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03713-z"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03721-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03712-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03715-x"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03583-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03746-4"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03546-w"/>
                 
@@ -37,6 +51,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03701-3"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03732-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03761-5"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03634-x"/>
                 
@@ -86,8 +102,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03561-x"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03682-3"/>
-                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06762-6"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06758-2"/>
@@ -134,6 +148,8 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03500-w"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03682-3"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03635-w"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03515-3"/>
@@ -151,22 +167,6 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03608-z"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03606-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03625-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03609-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03607-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03571-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03631-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02992-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03636-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03610-5"/>
                 
             </rdf:Seq>
         </items>
@@ -192,6 +192,21 @@
             <prism:url>https://www.nature.com/articles/d41586-023-03741-9</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03702-2">
+            <title><![CDATA[From the archive: renaming the proton, and enthusiasm for sanitary matters]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03702-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 November 2023; <a href="https://www.nature.com/articles/d41586-023-03702-2">doi:10.1038/d41586-023-03702-2</a></p>Snippets from Nature’s past.]]></content:encoded>
+            <dc:title><![CDATA[From the archive: renaming the proton, and enthusiasm for sanitary matters]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-03702-2</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-28; | doi:10.1038/d41586-023-03702-2</dc:source>
+            <dc:date>2023-11-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03702-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03702-2</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-023-03742-8">
             <title><![CDATA[Extraterrestrial life: back story for the control experiment]]></title>
             <link>https://www.nature.com/articles/d41586-023-03742-8</link>
@@ -205,6 +220,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03742-8</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03742-8</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03738-4">
+            <title><![CDATA[Huge survey finds US$10,000 pay gap for disabled scientists]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03738-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 November 2023; <a href="https://www.nature.com/articles/d41586-023-03738-4">doi:10.1038/d41586-023-03738-4</a></p>Disabled people with STEM PhDs earn less than their non-disabled colleagues.]]></content:encoded>
+            <dc:title><![CDATA[Huge survey finds US$10,000 pay gap for disabled scientists]]></dc:title>
+            <dc:creator>Miryam Naddaf</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03738-4</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-28; | doi:10.1038/d41586-023-03738-4</dc:source>
+            <dc:date>2023-11-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03738-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03738-4</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03740-w">
@@ -237,6 +267,21 @@
             <prism:url>https://www.nature.com/articles/d41586-023-03739-3</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03713-z">
+            <title><![CDATA[China and California are leading the way on climate cooperation. Others should follow]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03713-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 November 2023; <a href="https://www.nature.com/articles/d41586-023-03713-z">doi:10.1038/d41586-023-03713-z</a></p>California governor Gavin Newsom’s delegation is building on existing research and policy initiatives with China, showing that effective climate action can happen below the national level.]]></content:encoded>
+            <dc:title><![CDATA[China and California are leading the way on climate cooperation. Others should follow]]></dc:title>
+            <dc:creator>Fan Dai</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03713-z</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-28; | doi:10.1038/d41586-023-03713-z</dc:source>
+            <dc:date>2023-11-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03713-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03713-z</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-023-03721-z">
             <title><![CDATA[How effective are climate protests at swaying policy — and what could make a difference?]]></title>
             <link>https://www.nature.com/articles/d41586-023-03721-z</link>
@@ -250,6 +295,66 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03721-z</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03721-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03712-0">
+            <title><![CDATA[How the ‘right to science’ can help us overcome the many crises we face today]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03712-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 November 2023; <a href="https://www.nature.com/articles/d41586-023-03712-0">doi:10.1038/d41586-023-03712-0</a></p>The Universal Declaration of Human Rights — proclaimed 75 years ago — describes science as fundamental to humanity. Upholding this right has never been more relevant than it is now.]]></content:encoded>
+            <dc:title><![CDATA[How the ‘right to science’ can help us overcome the many crises we face today]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-03712-0</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-28; | doi:10.1038/d41586-023-03712-0</dc:source>
+            <dc:date>2023-11-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03712-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03712-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03715-x">
+            <title><![CDATA[This is how the world finally ends the HIV/AIDS pandemic]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03715-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 November 2023; <a href="https://www.nature.com/articles/d41586-023-03715-x">doi:10.1038/d41586-023-03715-x</a></p>Putting the specific needs of individuals and communities at the heart of HIV/AIDS care, by harnessing behavioural science, is key to building on the progress already been made.]]></content:encoded>
+            <dc:title><![CDATA[This is how the world finally ends the HIV/AIDS pandemic]]></dc:title>
+            <dc:creator>John Nkengasong</dc:creator><dc:creator>Mike Reid</dc:creator><dc:creator>Ingrid T. Katz</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03715-x</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-28; | doi:10.1038/d41586-023-03715-x</dc:source>
+            <dc:date>2023-11-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03715-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03715-x</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03583-5">
+            <title><![CDATA[These volunteers want to be infected with disease to aid research — will their altruism help?]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03583-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 November 2023; <a href="https://www.nature.com/articles/d41586-023-03583-5">doi:10.1038/d41586-023-03583-5</a></p>An advocacy group is pushing for more ‘human challenge’ trials to spur vaccine discovery. Following COVID-19 and Zika studies, hepatitis C could be next.]]></content:encoded>
+            <dc:title><![CDATA[These volunteers want to be infected with disease to aid research — will their altruism help?]]></dc:title>
+            <dc:creator>Ewen Callaway</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03583-5</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-28; | doi:10.1038/d41586-023-03583-5</dc:source>
+            <dc:date>2023-11-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03583-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03583-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03746-4">
+            <title><![CDATA[This sparrow massively expands part of its brain in preparation for mating]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03746-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 November 2023; <a href="https://www.nature.com/articles/d41586-023-03746-4">doi:10.1038/d41586-023-03746-4</a></p>The trick baffles researchers — but they are getting closer to understanding how the songbird does it.]]></content:encoded>
+            <dc:title><![CDATA[This sparrow massively expands part of its brain in preparation for mating]]></dc:title>
+            <dc:creator>Anil Oza</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03746-4</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-28; | doi:10.1038/d41586-023-03746-4</dc:source>
+            <dc:date>2023-11-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03746-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03746-4</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03546-w">
@@ -325,6 +430,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03732-w</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03732-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03761-5">
+            <title><![CDATA[Daily briefing: What’s causing a pneumonia surge in China]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03761-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 27 November 2023; <a href="https://www.nature.com/articles/d41586-023-03761-5">doi:10.1038/d41586-023-03761-5</a></p>A spike in respiratory illnesses in children is the result of common winter infections — not a novel pathogen. Plus, how to stop waves in their tracks and why we might embrace the feeling of uncertainty.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: What’s causing a pneumonia surge in China]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03761-5</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-27; | doi:10.1038/d41586-023-03761-5</dc:source>
+            <dc:date>2023-11-27</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03761-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03761-5</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03634-x">
@@ -687,21 +807,6 @@
             <prism:url>https://www.nature.com/articles/d41586-023-03561-x</prism:url>
         </item>
     
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03682-3">
-            <title><![CDATA[Polio could be eradicated within 3 years — what happens then?]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03682-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 22 November 2023; <a href="https://www.nature.com/articles/d41586-023-03682-3">doi:10.1038/d41586-023-03682-3</a></p>How to ensure polio doesn’t return after eradication, and the space explosion that’s baffling scientists.]]></content:encoded>
-            <dc:title><![CDATA[Polio could be eradicated within 3 years — what happens then?]]></dc:title>
-            <dc:creator>Benjamin Thompson</dc:creator><dc:creator>Shamini Bundell</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03682-3</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-22; | doi:10.1038/d41586-023-03682-3</dc:source>
-            <dc:date>2023-11-22</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03682-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03682-3</prism:url>
-        </item>
-    
         <item rdf:about="https://www.nature.com/articles/s41586-023-06762-6">
             <title><![CDATA[HIV-1 Env trimers asymmetrically engage CD4 receptors in membranes]]></title>
             <link>https://www.nature.com/articles/s41586-023-06762-6</link>
@@ -1047,6 +1152,21 @@
             <prism:url>https://www.nature.com/articles/d41586-023-03500-w</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03682-3">
+            <title><![CDATA[Polio could be eradicated within 3 years — what happens then?]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03682-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 22 November 2023; <a href="https://www.nature.com/articles/d41586-023-03682-3">doi:10.1038/d41586-023-03682-3</a></p>How to ensure polio doesn’t return after eradication, and the space explosion that’s baffling scientists.]]></content:encoded>
+            <dc:title><![CDATA[Polio could be eradicated within 3 years — what happens then?]]></dc:title>
+            <dc:creator>Benjamin Thompson</dc:creator><dc:creator>Shamini Bundell</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03682-3</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-22; | doi:10.1038/d41586-023-03682-3</dc:source>
+            <dc:date>2023-11-22</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03682-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03682-3</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-023-03635-w">
             <title><![CDATA[ChatGPT generates fake data set to support scientific hypothesis]]></title>
             <link>https://www.nature.com/articles/d41586-023-03635-w</link>
@@ -1180,126 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03606-1</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03606-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03625-y">
-            <title><![CDATA[Deep-sea mining threatens jellyfish, suggests first-of-its-kind study]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03625-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 21 November 2023; <a href="https://www.nature.com/articles/d41586-023-03625-y">doi:10.1038/d41586-023-03625-y</a></p>Sediment dislodged by ocean-floor mining could disrupt jellyfish metabolism, potentially causing the animals serious harm.]]></content:encoded>
-            <dc:title><![CDATA[Deep-sea mining threatens jellyfish, suggests first-of-its-kind study]]></dc:title>
-            <dc:creator>Natasha Gilbert</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03625-y</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-21; | doi:10.1038/d41586-023-03625-y</dc:source>
-            <dc:date>2023-11-21</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03625-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03625-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03609-y">
-            <title><![CDATA[China: personalized carbon accounting for consumers]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03609-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 21 November 2023; <a href="https://www.nature.com/articles/d41586-023-03609-y">doi:10.1038/d41586-023-03609-y</a></p>China: personalized carbon accounting for consumers]]></content:encoded>
-            <dc:title><![CDATA[China: personalized carbon accounting for consumers]]></dc:title>
-            <dc:creator>Li  Zhang</dc:creator><dc:creator>Lan  Tao</dc:creator><dc:creator>Dongjie  Sun</dc:creator><dc:creator>Fangyi  Yang</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03609-y</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-21; | doi:10.1038/d41586-023-03609-y</dc:source>
-            <dc:date>2023-11-21</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03609-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03609-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03607-0">
-            <title><![CDATA[The community should also support Palestinian scientists]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03607-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 21 November 2023; <a href="https://www.nature.com/articles/d41586-023-03607-0">doi:10.1038/d41586-023-03607-0</a></p>The community should also support Palestinian scientists]]></content:encoded>
-            <dc:title><![CDATA[The community should also support Palestinian scientists]]></dc:title>
-            <dc:creator>Rana  Dajani</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03607-0</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-21; | doi:10.1038/d41586-023-03607-0</dc:source>
-            <dc:date>2023-11-21</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03607-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03607-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03571-9">
-            <title><![CDATA[Science in cities benefits rural communities, too]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03571-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 21 November 2023; <a href="https://www.nature.com/articles/d41586-023-03571-9">doi:10.1038/d41586-023-03571-9</a></p>Shouting about the far-flung impact of city-based research can help counter attempts at urban–rural division.]]></content:encoded>
-            <dc:title><![CDATA[Science in cities benefits rural communities, too]]></dc:title>
-            <dc:creator>Simon Baker</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03571-9</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-21; | doi:10.1038/d41586-023-03571-9</dc:source>
-            <dc:date>2023-11-21</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03571-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03571-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03631-0">
-            <title><![CDATA[Iceland braces for volcanic eruption: what scientists are watching]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03631-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 21 November 2023; <a href="https://www.nature.com/articles/d41586-023-03631-0">doi:10.1038/d41586-023-03631-0</a></p>Researchers are tracking every aspect of the geological unrest, which began last month.]]></content:encoded>
-            <dc:title><![CDATA[Iceland braces for volcanic eruption: what scientists are watching]]></dc:title>
-            <dc:creator>Alexandra Witze</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03631-0</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-21; | doi:10.1038/d41586-023-03631-0</dc:source>
-            <dc:date>2023-11-21</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03631-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03631-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02992-w">
-            <title><![CDATA[City-based scientists get creative to tackle rural-research needs]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02992-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 21 November 2023; <a href="https://www.nature.com/articles/d41586-023-02992-w">doi:10.1038/d41586-023-02992-w</a></p>Californian projects show how community engagement can break down urban–rural barriers in the United States.]]></content:encoded>
-            <dc:title><![CDATA[City-based scientists get creative to tackle rural-research needs]]></dc:title>
-            <dc:creator>Virginia Gewin</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02992-w</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-21; | doi:10.1038/d41586-023-02992-w</dc:source>
-            <dc:date>2023-11-21</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02992-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02992-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03636-9">
-            <title><![CDATA[Daily briefing: These bats mate more like birds than mammals]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03636-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 21 November 2023; <a href="https://www.nature.com/articles/d41586-023-03636-9">doi:10.1038/d41586-023-03636-9</a></p>Serotine bats are the first mammals found to reproduce through non-penetrative sex. Plus, a genetic link to cannabis addiction and SpaceX’s Starship touches space for the first time.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: These bats mate more like birds than mammals]]></dc:title>
-            <dc:creator>Katrina Krämer</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03636-9</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-21; | doi:10.1038/d41586-023-03636-9</dc:source>
-            <dc:date>2023-11-21</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03636-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03636-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03610-5">
-            <title><![CDATA[Bright satellites are disrupting astronomy research worldwide]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03610-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 21 November 2023; <a href="https://www.nature.com/articles/d41586-023-03610-5">doi:10.1038/d41586-023-03610-5</a></p>A team of amateur and professional astronomers has determined that a satellite one-third of the size of a tennis court is one of the brightest objects in the sky — with dire consequences for ground-based astronomy.]]></content:encoded>
-            <dc:title><![CDATA[Bright satellites are disrupting astronomy research worldwide]]></dc:title>
-            <dc:creator>Samantha Lawler</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03610-5</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-21; | doi:10.1038/d41586-023-03610-5</dc:source>
-            <dc:date>2023-11-21</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03610-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03610-5</prism:url>
         </item>
     
 </rdf:RDF>
