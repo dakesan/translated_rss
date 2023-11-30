@@ -18,6 +18,8 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03763-3"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06697-y"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06698-x"/>
@@ -166,8 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03392-w"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03560-y"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,21 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03763-3">
+            <title><![CDATA[World’s biggest set of human genome sequences opens to scientists]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03763-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 30 November 2023; <a href="https://www.nature.com/articles/d41586-023-03763-3">doi:10.1038/d41586-023-03763-3</a></p>The whole genomes of 500,000 people in the UK Biobank will help researchers to probe our genetic code for links to disease.]]></content:encoded>
+            <dc:title><![CDATA[World’s biggest set of human genome sequences opens to scientists]]></dc:title>
+            <dc:creator>Ewen Callaway</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03763-3</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-30; | doi:10.1038/d41586-023-03763-3</dc:source>
+            <dc:date>2023-11-30</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03763-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03763-3</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06697-y">
             <title><![CDATA[Accelerating ‘Oumuamua with H<sub>2</sub> is challenging]]></title>
@@ -1285,21 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03392-w</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03392-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03560-y">
-            <title><![CDATA[Huge California wildfires seeded cirrus clouds half a world away]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03560-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 23 November 2023; <a href="https://www.nature.com/articles/d41586-023-03560-y">doi:10.1038/d41586-023-03560-y</a></p>Smoke from record-breaking fires in 2020 travelled all the way to Cyprus, where it helped to trigger cloud formation.]]></content:encoded>
-            <dc:title><![CDATA[Huge California wildfires seeded cirrus clouds half a world away]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-03560-y</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-23; | doi:10.1038/d41586-023-03560-y</dc:source>
-            <dc:date>2023-11-23</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03560-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03560-y</prism:url>
         </item>
     
 </rdf:RDF>
