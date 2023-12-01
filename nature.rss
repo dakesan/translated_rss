@@ -18,6 +18,12 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03393-9"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03775-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03819-4"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06881-0"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03749-1"/>
@@ -162,12 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03746-4"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03546-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06876-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03723-x"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,51 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03393-9">
+            <title><![CDATA[How to create compelling scientific data visualisations]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03393-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 01 December 2023; <a href="https://www.nature.com/articles/d41586-023-03393-9">doi:10.1038/d41586-023-03393-9</a></p>Start with pen and paper, keep things simple, do your coding at the end, say data visualisation specialists.]]></content:encoded>
+            <dc:title><![CDATA[How to create compelling scientific data visualisations]]></dc:title>
+            <dc:creator>Julie Gould</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03393-9</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-01; | doi:10.1038/d41586-023-03393-9</dc:source>
+            <dc:date>2023-12-01</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03393-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03393-9</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03775-z">
+            <title><![CDATA[Approaching 1.5 °C: how will we know we’ve reached this crucial warming mark?]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03775-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 01 December 2023; <a href="https://www.nature.com/articles/d41586-023-03775-z">doi:10.1038/d41586-023-03775-z</a></p>Assessing global mean temperature rise using the average warming over the previous one or two decades will delay formal recognition of when Earth breaches the Paris agreement’s 1.5 °C guard rail. Here is what’s needed to avoid the wait.]]></content:encoded>
+            <dc:title><![CDATA[Approaching 1.5 °C: how will we know we’ve reached this crucial warming mark?]]></dc:title>
+            <dc:creator>Richard A. Betts</dc:creator><dc:creator>Stephen E. Belcher</dc:creator><dc:creator>Leon Hermanson</dc:creator><dc:creator>Albert Klein Tank</dc:creator><dc:creator>Jason A. Lowe</dc:creator><dc:creator>Chris D. Jones</dc:creator><dc:creator>Colin P. Morice</dc:creator><dc:creator>Nick A. Rayner</dc:creator><dc:creator>Adam A. Scaife</dc:creator><dc:creator>Peter A. Stott</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03775-z</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-01; | doi:10.1038/d41586-023-03775-z</dc:source>
+            <dc:date>2023-12-01</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03775-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03775-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03819-4">
+            <title><![CDATA[Evelyn Fox Keller (1936–2023), philosopher who questioned gender roles in science]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03819-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 01 December 2023; <a href="https://www.nature.com/articles/d41586-023-03819-4">doi:10.1038/d41586-023-03819-4</a></p>Mathematical biologist, philosopher and historian of science who challenged the vision of science as a masculine activity.]]></content:encoded>
+            <dc:title><![CDATA[Evelyn Fox Keller (1936–2023), philosopher who questioned gender roles in science]]></dc:title>
+            <dc:creator>Marga Vicedo</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03819-4</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-01; | doi:10.1038/d41586-023-03819-4</dc:source>
+            <dc:date>2023-12-01</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03819-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03819-4</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06881-0">
             <title><![CDATA[Author Correction: Thymic mimetic cells function beyond self-tolerance]]></title>
@@ -1255,51 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03746-4</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03746-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03546-w">
-            <title><![CDATA[A 27,000-year-old pyramid? Controversy hits an extraordinary archaeological claim]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03546-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 28 November 2023; <a href="https://www.nature.com/articles/d41586-023-03546-w">doi:10.1038/d41586-023-03546-w</a></p>The massive buried structures at Gunung Padang in Indonesia would be much older than Egypt’s great pyramids — if they’re even human constructions at all.]]></content:encoded>
-            <dc:title><![CDATA[A 27,000-year-old pyramid? Controversy hits an extraordinary archaeological claim]]></dc:title>
-            <dc:creator>Dyani Lewis</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03546-w</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-28; | doi:10.1038/d41586-023-03546-w</dc:source>
-            <dc:date>2023-11-28</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03546-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03546-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06876-x">
-            <title><![CDATA[Publisher Correction: Dopaminergic systems create reward seeking despite adverse consequences]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06876-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 27 November 2023; <a href="https://www.nature.com/articles/s41586-023-06876-x">doi:10.1038/s41586-023-06876-x</a></p>Publisher Correction: Dopaminergic systems create reward seeking despite adverse consequences]]></content:encoded>
-            <dc:title><![CDATA[Publisher Correction: Dopaminergic systems create reward seeking despite adverse consequences]]></dc:title>
-            <dc:creator>Kristijan D. Jovanoski</dc:creator><dc:creator>Lucille Duquenoy</dc:creator><dc:creator>Jessica Mitchell</dc:creator><dc:creator>Ishaan Kapoor</dc:creator><dc:creator>Christoph D. Treiber</dc:creator><dc:creator>Vincent Croset</dc:creator><dc:creator>Georgia Dempsey</dc:creator><dc:creator>Sai Parepalli</dc:creator><dc:creator>Paola Cognigni</dc:creator><dc:creator>Nils Otto</dc:creator><dc:creator>Johannes Felsenberg</dc:creator><dc:creator>Scott Waddell</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06876-x</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-27; | doi:10.1038/s41586-023-06876-x</dc:source>
-            <dc:date>2023-11-27</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06876-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06876-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03723-x">
-            <title><![CDATA[Deep, deep down: a day in the life of a subterranean biologist]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03723-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 27 November 2023; <a href="https://www.nature.com/articles/d41586-023-03723-x">doi:10.1038/d41586-023-03723-x</a></p>Špela Borko tells how cave-diving enhanced her appreciation of the myriad life forms that teem in underground lakes.]]></content:encoded>
-            <dc:title><![CDATA[Deep, deep down: a day in the life of a subterranean biologist]]></dc:title>
-            <dc:creator>Stav Dimitropoulos</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03723-x</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-27; | doi:10.1038/d41586-023-03723-x</dc:source>
-            <dc:date>2023-11-27</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03723-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03723-x</prism:url>
         </item>
     
 </rdf:RDF>
