@@ -18,7 +18,29 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06881-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03749-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03777-x"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03751-7"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03750-8"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03802-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03814-9"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03812-x"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03763-3"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03803-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03765-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03798-6"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06697-y"/>
                 
@@ -77,6 +99,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03379-7"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03711-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03799-5"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03575-5"/>
                 
@@ -144,30 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03723-x"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03701-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03732-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03761-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03634-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03576-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03722-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03626-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03640-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03559-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03737-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03744-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03392-w"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,126 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-023-06881-0">
+            <title><![CDATA[Author Correction: Thymic mimetic cells function beyond self-tolerance]]></title>
+            <link>https://www.nature.com/articles/s41586-023-06881-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 30 November 2023; <a href="https://www.nature.com/articles/s41586-023-06881-0">doi:10.1038/s41586-023-06881-0</a></p>Author Correction: Thymic mimetic cells function beyond self-tolerance]]></content:encoded>
+            <dc:title><![CDATA[Author Correction: Thymic mimetic cells function beyond self-tolerance]]></dc:title>
+            <dc:creator>Tal Givony</dc:creator><dc:creator>Dena Leshkowitz</dc:creator><dc:creator>Diana Del Castillo</dc:creator><dc:creator>Shir Nevo</dc:creator><dc:creator>Noam Kadouri</dc:creator><dc:creator>Bareket Dassa</dc:creator><dc:creator>Yael Gruper</dc:creator><dc:creator>Razi Khalaila</dc:creator><dc:creator>Osher Ben-Nun</dc:creator><dc:creator>Tom Gome</dc:creator><dc:creator>Jan Dobeš</dc:creator><dc:creator>Shifra Ben-Dor</dc:creator><dc:creator>Merav Kedmi</dc:creator><dc:creator>Hadas Keren-Shaul</dc:creator><dc:creator>Rebecca Heffner-Krausz</dc:creator><dc:creator>Ziv Porat</dc:creator><dc:creator>Ofra Golani</dc:creator><dc:creator>Yoseph Addadi</dc:creator><dc:creator>Ori Brenner</dc:creator><dc:creator>David D. Lo</dc:creator><dc:creator>Yael Goldfarb</dc:creator><dc:creator>Jakub Abramson</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-023-06881-0</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-30; | doi:10.1038/s41586-023-06881-0</dc:source>
+            <dc:date>2023-11-30</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-023-06881-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-023-06881-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03749-1">
+            <title><![CDATA[The hunt for dark-matter particles ventures into the wild]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03749-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 30 November 2023; <a href="https://www.nature.com/articles/d41586-023-03749-1">doi:10.1038/d41586-023-03749-1</a></p>Sensors deployed at magnetically quiet rural sites looked for axions and ‘hidden photons’ — with no luck yet.]]></content:encoded>
+            <dc:title><![CDATA[The hunt for dark-matter particles ventures into the wild]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-03749-1</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-30; | doi:10.1038/d41586-023-03749-1</dc:source>
+            <dc:date>2023-11-30</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03749-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03749-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03777-x">
+            <title><![CDATA[Tiny robots made from human cells heal damaged tissue]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03777-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 30 November 2023; <a href="https://www.nature.com/articles/d41586-023-03777-x">doi:10.1038/d41586-023-03777-x</a></p>The ‘anthrobots’ were able to repair a scratch in a layer of neurons in the lab.]]></content:encoded>
+            <dc:title><![CDATA[Tiny robots made from human cells heal damaged tissue]]></dc:title>
+            <dc:creator>Matthew Hutson</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03777-x</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-30; | doi:10.1038/d41586-023-03777-x</dc:source>
+            <dc:date>2023-11-30</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03777-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03777-x</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03751-7">
+            <title><![CDATA[This penguin survives on 4-second microsleeps — thousands of times a day]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03751-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 30 November 2023; <a href="https://www.nature.com/articles/d41586-023-03751-7">doi:10.1038/d41586-023-03751-7</a></p>The power naps of the chinstrap penguin are even briefer and more frequent when it is tending eggs.]]></content:encoded>
+            <dc:title><![CDATA[This penguin survives on 4-second microsleeps — thousands of times a day]]></dc:title>
+            <dc:creator>Mariana Lenharo</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03751-7</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-30; | doi:10.1038/d41586-023-03751-7</dc:source>
+            <dc:date>2023-11-30</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03751-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03751-7</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03750-8">
+            <title><![CDATA[Dolphins have a feel for electric fields]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03750-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 30 November 2023; <a href="https://www.nature.com/articles/d41586-023-03750-8">doi:10.1038/d41586-023-03750-8</a></p>The bottlenose dolphin’s keen ‘electroreception’ sense might help it to locate buried prey and navigate the seas.]]></content:encoded>
+            <dc:title><![CDATA[Dolphins have a feel for electric fields]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-03750-8</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-30; | doi:10.1038/d41586-023-03750-8</dc:source>
+            <dc:date>2023-11-30</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03750-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03750-8</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03802-z">
+            <title><![CDATA[Sanitary products made from plants could help tackle period poverty]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03802-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 30 November 2023; <a href="https://www.nature.com/articles/d41586-023-03802-z">doi:10.1038/d41586-023-03802-z</a></p>Researchers have extracted absorbent materials from the succulent Agave sisalana for making local, low-cost period products.]]></content:encoded>
+            <dc:title><![CDATA[Sanitary products made from plants could help tackle period poverty]]></dc:title>
+            <dc:creator>Julie Gould</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03802-z</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-30; | doi:10.1038/d41586-023-03802-z</dc:source>
+            <dc:date>2023-11-30</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03802-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03802-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03814-9">
+            <title><![CDATA[First cash pledged for countries devastated by climate change: COP28 starts with historic decision]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03814-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 30 November 2023; <a href="https://www.nature.com/articles/d41586-023-03814-9">doi:10.1038/d41586-023-03814-9</a></p>Draft resolution on a “loss and damage fund” has attracted more than $400 million, but climate vulnerable countries say more cash is needed.]]></content:encoded>
+            <dc:title><![CDATA[First cash pledged for countries devastated by climate change: COP28 starts with historic decision]]></dc:title>
+            <dc:creator>Katharine  Sanderson</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03814-9</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-30; | doi:10.1038/d41586-023-03814-9</dc:source>
+            <dc:date>2023-11-30</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03814-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03814-9</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03812-x">
+            <title><![CDATA[Wearable biosensor measures fertility hormones in sweat]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03812-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 30 November 2023; <a href="https://www.nature.com/articles/d41586-023-03812-x">doi:10.1038/d41586-023-03812-x</a></p>Ring-like device blends nanoelectronics and folded RNA to track hormone levels without the need for invasive blood tests.]]></content:encoded>
+            <dc:title><![CDATA[Wearable biosensor measures fertility hormones in sweat]]></dc:title>
+            <dc:creator>Amanda Heidt</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03812-x</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-30; | doi:10.1038/d41586-023-03812-x</dc:source>
+            <dc:date>2023-11-30</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03812-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03812-x</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03763-3">
             <title><![CDATA[World’s biggest set of human genome sequences opens to scientists]]></title>
@@ -190,6 +310,51 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03763-3</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03763-3</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03803-y">
+            <title><![CDATA[Generative AI could revolutionize health care — but not if control is ceded to big tech]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03803-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 30 November 2023; <a href="https://www.nature.com/articles/d41586-023-03803-y">doi:10.1038/d41586-023-03803-y</a></p>Large language models such as that used by ChatGPT could soon become essential tools for diagnosing and treating patients. To protect people’s privacy and safety, medical professionals, not commercial interests, must drive their development and deployment.]]></content:encoded>
+            <dc:title><![CDATA[Generative AI could revolutionize health care — but not if control is ceded to big tech]]></dc:title>
+            <dc:creator>Augustin  Toma</dc:creator><dc:creator>Senthujan  Senkaiahliyan</dc:creator><dc:creator>Patrick R.  Lawler</dc:creator><dc:creator>Barry  Rubin</dc:creator><dc:creator>Bo  Wang</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03803-y</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-30; | doi:10.1038/d41586-023-03803-y</dc:source>
+            <dc:date>2023-11-30</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03803-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03803-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03765-1">
+            <title><![CDATA[Microbiologists at COP28 push for a seat at the climate-policy table]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03765-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 30 November 2023; <a href="https://www.nature.com/articles/d41586-023-03765-1">doi:10.1038/d41586-023-03765-1</a></p>At this week’s big climate summit and beyond, scientists are campaigning for microbes to be included in climate models and solutions.]]></content:encoded>
+            <dc:title><![CDATA[Microbiologists at COP28 push for a seat at the climate-policy table]]></dc:title>
+            <dc:creator>Katherine Bourzac</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03765-1</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-30; | doi:10.1038/d41586-023-03765-1</dc:source>
+            <dc:date>2023-11-30</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03765-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03765-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03798-6">
+            <title><![CDATA[ChatGPT one year on: who is using it, how and why?]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03798-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 30 November 2023; <a href="https://www.nature.com/articles/d41586-023-03798-6">doi:10.1038/d41586-023-03798-6</a></p>In just a year, ChatGPT has permeated scientific research. Seven scientists reveal what they have learnt about how the chatbot should — and shouldn’t — be used.]]></content:encoded>
+            <dc:title><![CDATA[ChatGPT one year on: who is using it, how and why?]]></dc:title>
+            <dc:creator>Marzyeh   Ghassemi</dc:creator><dc:creator>Abeba   Birhane</dc:creator><dc:creator>Mushtaq  Bilal</dc:creator><dc:creator>Siddharth  Kankaria</dc:creator><dc:creator>Claire  Malone</dc:creator><dc:creator>Ethan  Mollick</dc:creator><dc:creator>Francisco   Tustumi</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03798-6</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-30; | doi:10.1038/d41586-023-03798-6</dc:source>
+            <dc:date>2023-11-30</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03798-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03798-6</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06697-y">
@@ -627,6 +792,21 @@
             <prism:url>https://www.nature.com/articles/d41586-023-03711-1</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03799-5">
+            <title><![CDATA[Daily briefing: Why volunteers want to be infected with disease to progress vaccines]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03799-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 29 November 2023; <a href="https://www.nature.com/articles/d41586-023-03799-5">doi:10.1038/d41586-023-03799-5</a></p>An advocacy group is pushing for more ‘human challenge’ trials to aid research. Plus, sparrows nearly double part of their brains to sing better during mating season and COP28 president denies pushing oil deals at climate summit.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Why volunteers want to be infected with disease to progress vaccines]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03799-5</dc:identifier>
+            <dc:source>Nature, Published online: 2023-11-29; | doi:10.1038/d41586-023-03799-5</dc:source>
+            <dc:date>2023-11-29</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03799-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03799-5</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-023-03575-5">
             <title><![CDATA[Carbon rings push limits of chemical theories]]></title>
             <link>https://www.nature.com/articles/d41586-023-03575-5</link>
@@ -703,11 +883,11 @@
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03745-5">
-            <title><![CDATA[ChatGPT for chemistry: AI and robots join forces to build new materials]]></title>
+            <title><![CDATA[Google AI and robots join forces to build new materials]]></title>
             <link>https://www.nature.com/articles/d41586-023-03745-5</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 29 November 2023; <a href="https://www.nature.com/articles/d41586-023-03745-5">doi:10.1038/d41586-023-03745-5</a></p>Google DeepMind tool predicts nearly 400,000 stable substances, and an autonomous system learns to make them in the lab.]]></content:encoded>
-            <dc:title><![CDATA[ChatGPT for chemistry: AI and robots join forces to build new materials]]></dc:title>
+                <![CDATA[<p>Nature, Published online: 29 November 2023; <a href="https://www.nature.com/articles/d41586-023-03745-5">doi:10.1038/d41586-023-03745-5</a></p>Tool from Google DeepMind predicts nearly 400,000 stable substances, and an autonomous system learns to make them in the lab.]]></content:encoded>
+            <dc:title><![CDATA[Google AI and robots join forces to build new materials]]></dc:title>
             <dc:creator>Mark Peplow</dc:creator>
             <dc:identifier>doi:10.1038/d41586-023-03745-5</dc:identifier>
             <dc:source>Nature, Published online: 2023-11-29; | doi:10.1038/d41586-023-03745-5</dc:source>
@@ -733,11 +913,11 @@
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03618-x">
-            <title><![CDATA[‘Disruptive’ science more likely from teams who work in the same place]]></title>
+            <title><![CDATA[‘Disruptive’ science: in-person teams make more breakthroughs than remote groups]]></title>
             <link>https://www.nature.com/articles/d41586-023-03618-x</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 29 November 2023; <a href="https://www.nature.com/articles/d41586-023-03618-x">doi:10.1038/d41586-023-03618-x</a></p>Analysis of millions of papers shows that farflung collaborators produce fewer big breakthroughs than groups working together in person.]]></content:encoded>
-            <dc:title><![CDATA[‘Disruptive’ science more likely from teams who work in the same place]]></dc:title>
+                <![CDATA[<p>Nature, Published online: 29 November 2023; <a href="https://www.nature.com/articles/d41586-023-03618-x">doi:10.1038/d41586-023-03618-x</a></p>Analysis of millions of papers shows that farflung collaborators produce fewer foundational discoveries than groups working together in person.]]></content:encoded>
+            <dc:title><![CDATA[‘Disruptive’ science: in-person teams make more breakthroughs than remote groups]]></dc:title>
             <dc:creator>David Adam</dc:creator>
             <dc:identifier>doi:10.1038/d41586-023-03618-x</dc:identifier>
             <dc:source>Nature, Published online: 2023-11-29; | doi:10.1038/d41586-023-03618-x</dc:source>
@@ -781,7 +961,7 @@
             <title><![CDATA[Why has swine flu emerged in a person in the UK — and what’s next?]]></title>
             <link>https://www.nature.com/articles/d41586-023-03774-0</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 29 November 2023; <a href="https://www.nature.com/articles/d41586-023-03774-0">doi:10.1038/d41586-023-03774-0</a></p>Scientists are closely monitoring a virus that has been detected in a person in the UK for the first time.]]></content:encoded>
+                <![CDATA[<p>Nature, Published online: 29 November 2023; <a href="https://www.nature.com/articles/d41586-023-03774-0">doi:10.1038/d41586-023-03774-0</a></p>Scientists are closely monitoring a virus that has been detected for the first time in a UK individual.]]></content:encoded>
             <dc:title><![CDATA[Why has swine flu emerged in a person in the UK — and what’s next?]]></dc:title>
             <dc:creator>Katharine  Sanderson</dc:creator>
             <dc:identifier>doi:10.1038/d41586-023-03774-0</dc:identifier>
@@ -1081,7 +1261,7 @@
             <title><![CDATA[A 27,000-year-old pyramid? Controversy hits an extraordinary archaeological claim]]></title>
             <link>https://www.nature.com/articles/d41586-023-03546-w</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 28 November 2023; <a href="https://www.nature.com/articles/d41586-023-03546-w">doi:10.1038/d41586-023-03546-w</a></p>The massive buried structures at Gunung Padang in Indonesia would be far older than Egypt’s great pyramids — if they’re even human constructions at all.]]></content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 November 2023; <a href="https://www.nature.com/articles/d41586-023-03546-w">doi:10.1038/d41586-023-03546-w</a></p>The massive buried structures at Gunung Padang in Indonesia would be much older than Egypt’s great pyramids — if they’re even human constructions at all.]]></content:encoded>
             <dc:title><![CDATA[A 27,000-year-old pyramid? Controversy hits an extraordinary archaeological claim]]></dc:title>
             <dc:creator>Dyani Lewis</dc:creator>
             <dc:identifier>doi:10.1038/d41586-023-03546-w</dc:identifier>
@@ -1120,186 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03723-x</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03723-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03701-3">
-            <title><![CDATA[California wildlife pays the cost of megafires]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03701-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 27 November 2023; <a href="https://www.nature.com/articles/d41586-023-03701-3">doi:10.1038/d41586-023-03701-3</a></p>Increasingly intense wildfires in the United States could have profound impacts on natural habitats — potentially leaving hundreds of animal species struggling to recover.]]></content:encoded>
-            <dc:title><![CDATA[California wildlife pays the cost of megafires]]></dc:title>
-            <dc:creator>Holly Smith</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03701-3</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-27; | doi:10.1038/d41586-023-03701-3</dc:source>
-            <dc:date>2023-11-27</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03701-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03701-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03732-w">
-            <title><![CDATA[What’s behind China’s mysterious wave of childhood pneumonia?]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03732-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 27 November 2023; <a href="https://www.nature.com/articles/d41586-023-03732-w">doi:10.1038/d41586-023-03732-w</a></p>Scientists expected a surge in respiratory disease, but what is happening in China is unusual.]]></content:encoded>
-            <dc:title><![CDATA[What’s behind China’s mysterious wave of childhood pneumonia?]]></dc:title>
-            <dc:creator>Gemma Conroy</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03732-w</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-27; | doi:10.1038/d41586-023-03732-w</dc:source>
-            <dc:date>2023-11-27</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03732-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03732-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03761-5">
-            <title><![CDATA[Daily briefing: What’s causing a pneumonia surge in China]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03761-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 27 November 2023; <a href="https://www.nature.com/articles/d41586-023-03761-5">doi:10.1038/d41586-023-03761-5</a></p>A spike in respiratory illnesses in children is the result of common winter infections — not a novel pathogen. Plus, how to stop waves in their tracks and why we might embrace the feeling of uncertainty.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: What’s causing a pneumonia surge in China]]></dc:title>
-            <dc:creator>Flora Graham</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03761-5</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-27; | doi:10.1038/d41586-023-03761-5</dc:source>
-            <dc:date>2023-11-27</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03761-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03761-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03634-x">
-            <title><![CDATA[Chemistry is inaccessible: how to reduce barriers for disabled scientists]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03634-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 27 November 2023; <a href="https://www.nature.com/articles/d41586-023-03634-x">doi:10.1038/d41586-023-03634-x</a></p>From classrooms to laboratories and conferences, working in chemistry presents huge challenges to disabled, chronically ill and neurodivergent people. Some simple fixes can help to shift the dial.]]></content:encoded>
-            <dc:title><![CDATA[Chemistry is inaccessible: how to reduce barriers for disabled scientists]]></dc:title>
-            <dc:creator>Blaine G. Fiss</dc:creator><dc:creator>Laena D’Alton</dc:creator><dc:creator>Naumih M. Noah</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03634-x</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-27; | doi:10.1038/d41586-023-03634-x</dc:source>
-            <dc:date>2023-11-27</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03634-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03634-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03576-4">
-            <title><![CDATA[Putting low-cost diagnostics to the test]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03576-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 27 November 2023; <a href="https://www.nature.com/articles/d41586-023-03576-4">doi:10.1038/d41586-023-03576-4</a></p>The COVID-19 pandemic brought home the value of cheap, ‘good enough’ methods of detecting disease. Extending that approach to other illnesses could improve health care in low- and middle-income countries.]]></content:encoded>
-            <dc:title><![CDATA[Putting low-cost diagnostics to the test]]></dc:title>
-            <dc:creator>Michael Eisenstein</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03576-4</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-27; | doi:10.1038/d41586-023-03576-4</dc:source>
-            <dc:date>2023-11-27</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03576-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03576-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03722-y">
-            <title><![CDATA[AI under the microscope: the algorithms powering the search for cells]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03722-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 27 November 2023; <a href="https://www.nature.com/articles/d41586-023-03722-y">doi:10.1038/d41586-023-03722-y</a></p>Deep learning is driving the rapid evolution of algorithms that can automatically find and trace cells in a wide range of microscopy experiments.]]></content:encoded>
-            <dc:title><![CDATA[AI under the microscope: the algorithms powering the search for cells]]></dc:title>
-            <dc:creator>Michael Eisenstein</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03722-y</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-27; | doi:10.1038/d41586-023-03722-y</dc:source>
-            <dc:date>2023-11-27</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03722-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03722-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03626-x">
-            <title><![CDATA[15 years after a giant leap for cancer genomics]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03626-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 27 November 2023; <a href="https://www.nature.com/articles/d41586-023-03626-x">doi:10.1038/d41586-023-03626-x</a></p>In 2008, the first comprehensive sequence of a cancer genome was reported, ushering in a new era of molecular diagnostic, prognostic and therapeutic advances informed by an essential framework to understand cancer’s complexities.]]></content:encoded>
-            <dc:title><![CDATA[15 years after a giant leap for cancer genomics]]></dc:title>
-            <dc:creator>Sheng F. Cai</dc:creator><dc:creator>Ross L. Levine</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03626-x</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-27; | doi:10.1038/d41586-023-03626-x</dc:source>
-            <dc:date>2023-11-27</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03626-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03626-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03640-z">
-            <title><![CDATA[Audio long read: Apple revival — how science is bringing historic varieties back to life]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03640-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 24 November 2023; <a href="https://www.nature.com/articles/d41586-023-03640-z">doi:10.1038/d41586-023-03640-z</a></p>Genomic studies of heirloom apples could help safeguard the future of the fruit.]]></content:encoded>
-            <dc:title><![CDATA[Audio long read: Apple revival — how science is bringing historic varieties back to life]]></dc:title>
-            <dc:creator>Christopher Kemp</dc:creator><dc:creator>Benjamin Thompson</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03640-z</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-24; | doi:10.1038/d41586-023-03640-z</dc:source>
-            <dc:date>2023-11-24</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03640-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03640-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03559-5">
-            <title><![CDATA[‘Early dark energy’ fails to solve mystery of cosmic expansion]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03559-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 24 November 2023; <a href="https://www.nature.com/articles/d41586-023-03559-5">doi:10.1038/d41586-023-03559-5</a></p>The extra ingredient would explain why the Universe is expanding so fast now — but conflicts with data from ancient quasars.]]></content:encoded>
-            <dc:title><![CDATA[‘Early dark energy’ fails to solve mystery of cosmic expansion]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-03559-5</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-24; | doi:10.1038/d41586-023-03559-5</dc:source>
-            <dc:date>2023-11-24</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03559-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03559-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03737-5">
-            <title><![CDATA[Daily briefing: What we can learn from disasters that were averted]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03737-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 24 November 2023; <a href="https://www.nature.com/articles/d41586-023-03737-5">doi:10.1038/d41586-023-03737-5</a></p>Tornadoes, earthquakes and wildfires don’t have to lead to death and destruction. Plus, the most powerful cosmic ray since the Oh-My-God particle and a ‘treasure trove’ of new CRISPR systems holds promise for genome editing.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: What we can learn from disasters that were averted]]></dc:title>
-            <dc:creator>Katrina Krämer</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03737-5</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-24; | doi:10.1038/d41586-023-03737-5</dc:source>
-            <dc:date>2023-11-24</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03737-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03737-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03744-6">
-            <title><![CDATA[Anthropocene briefing: What it will take to stay below 1.5 °C]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03744-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 24 November 2023; <a href="https://www.nature.com/articles/d41586-023-03744-6">doi:10.1038/d41586-023-03744-6</a></p>Can the world get back on track with efforts to stay under 1.5 ℃ of warming? Plus: The US is set to announce its strategy for international partnerships to commercialize nuclear-fusion power.]]></content:encoded>
-            <dc:title><![CDATA[Anthropocene briefing: What it will take to stay below 1.5 °C]]></dc:title>
-            <dc:creator>Jesse Chase-Lubitz</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03744-6</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-24; | doi:10.1038/d41586-023-03744-6</dc:source>
-            <dc:date>2023-11-24</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03744-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03744-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03392-w">
-            <title><![CDATA[How ChatGPT and sounds from space brought a ‘luminous jelly’ to life]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03392-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 24 November 2023; <a href="https://www.nature.com/articles/d41586-023-03392-w">doi:10.1038/d41586-023-03392-w</a></p>Engineer-turned-artist Diana Scarborough and inorganic chemist Anna Melekhova describe how their art–science collaboration gave voice and form to a new material.]]></content:encoded>
-            <dc:title><![CDATA[How ChatGPT and sounds from space brought a ‘luminous jelly’ to life]]></dc:title>
-            <dc:creator>Julie Gould</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03392-w</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-24; | doi:10.1038/d41586-023-03392-w</dc:source>
-            <dc:date>2023-11-24</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03392-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03392-w</prism:url>
         </item>
     
 </rdf:RDF>
