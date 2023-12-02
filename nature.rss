@@ -18,6 +18,8 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03848-z"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06874-z"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03747-3"/>
@@ -166,8 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03739-3"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03713-z"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,21 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03848-z">
+            <title><![CDATA[Disability lawsuit lands Howard Hughes Medical Institute in court]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03848-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 02 December 2023; <a href="https://www.nature.com/articles/d41586-023-03848-z">doi:10.1038/d41586-023-03848-z</a></p>RNA biologist Vivian Cheung accuses the institute of discrimination after it rejected her grant-renewal bid.]]></content:encoded>
+            <dc:title><![CDATA[Disability lawsuit lands Howard Hughes Medical Institute in court]]></dc:title>
+            <dc:creator>Amanda Heidt</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03848-z</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-02; | doi:10.1038/d41586-023-03848-z</dc:source>
+            <dc:date>2023-12-02</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03848-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03848-z</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06874-z">
             <title><![CDATA[Author Correction: A planetary collision afterglow and transit of the resultant debris cloud]]></title>
@@ -1285,21 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03739-3</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03739-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03713-z">
-            <title><![CDATA[China and California are leading the way on climate cooperation. Others should follow]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03713-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 28 November 2023; <a href="https://www.nature.com/articles/d41586-023-03713-z">doi:10.1038/d41586-023-03713-z</a></p>California governor Gavin Newsom’s delegation is building on existing research and policy initiatives with China, showing that effective climate action can happen below the national level.]]></content:encoded>
-            <dc:title><![CDATA[China and California are leading the way on climate cooperation. Others should follow]]></dc:title>
-            <dc:creator>Fan Dai</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03713-z</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-28; | doi:10.1038/d41586-023-03713-z</dc:source>
-            <dc:date>2023-11-28</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03713-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03713-z</prism:url>
         </item>
     
 </rdf:RDF>
