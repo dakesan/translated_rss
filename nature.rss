@@ -18,6 +18,12 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03778-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03820-x"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03748-2"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03848-z"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06874-z"/>
@@ -162,12 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03742-8"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03738-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03740-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03739-3"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,51 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03778-w">
+            <title><![CDATA[How hyenas decide whether to form a lion-fighting mob]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03778-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 04 December 2023; <a href="https://www.nature.com/articles/d41586-023-03778-w">doi:10.1038/d41586-023-03778-w</a></p>Monitoring complex hyena societies in the wild sheds light on factors that predict whether individuals will engage in a risky collective activity.]]></content:encoded>
+            <dc:title><![CDATA[How hyenas decide whether to form a lion-fighting mob]]></dc:title>
+            <dc:creator>Mary Abraham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03778-w</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-04; | doi:10.1038/d41586-023-03778-w</dc:source>
+            <dc:date>2023-12-04</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03778-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03778-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03820-x">
+            <title><![CDATA[Hard data: looking deep into Indigenous forests]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03820-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 04 December 2023; <a href="https://www.nature.com/articles/d41586-023-03820-x">doi:10.1038/d41586-023-03820-x</a></p>Louis De Grandpré studies the traditional lands of Canada’s Pessamit people in the face of widespread logging.]]></content:encoded>
+            <dc:title><![CDATA[Hard data: looking deep into Indigenous forests]]></dc:title>
+            <dc:creator>Nicola Jones</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03820-x</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-04; | doi:10.1038/d41586-023-03820-x</dc:source>
+            <dc:date>2023-12-04</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03820-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03820-x</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03748-2">
+            <title><![CDATA[A low-cost electron microscope maps proteins at speed]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03748-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 04 December 2023; <a href="https://www.nature.com/articles/d41586-023-03748-2">doi:10.1038/d41586-023-03748-2</a></p>Bespoke cryo-electron microscope reveals 3D details of cellular structures — and is an order of magnitude cheaper than its rivals.]]></content:encoded>
+            <dc:title><![CDATA[A low-cost electron microscope maps proteins at speed]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-03748-2</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-04; | doi:10.1038/d41586-023-03748-2</dc:source>
+            <dc:date>2023-12-04</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03748-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03748-2</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03848-z">
             <title><![CDATA[Disability lawsuit lands Howard Hughes Medical Institute in court]]></title>
@@ -1255,51 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03742-8</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03742-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03738-4">
-            <title><![CDATA[Huge survey finds US$10,000 pay gap for disabled scientists]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03738-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 28 November 2023; <a href="https://www.nature.com/articles/d41586-023-03738-4">doi:10.1038/d41586-023-03738-4</a></p>Disabled people with STEM PhDs earn less than their non-disabled colleagues.]]></content:encoded>
-            <dc:title><![CDATA[Huge survey finds US$10,000 pay gap for disabled scientists]]></dc:title>
-            <dc:creator>Miryam Naddaf</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03738-4</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-28; | doi:10.1038/d41586-023-03738-4</dc:source>
-            <dc:date>2023-11-28</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03738-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03738-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03740-w">
-            <title><![CDATA[Submitting papers to several journals at once]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03740-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 28 November 2023; <a href="https://www.nature.com/articles/d41586-023-03740-w">doi:10.1038/d41586-023-03740-w</a></p>Submitting papers to several journals at once]]></content:encoded>
-            <dc:title><![CDATA[Submitting papers to several journals at once]]></dc:title>
-            <dc:creator>Josephat U. Izunobi</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03740-w</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-28; | doi:10.1038/d41586-023-03740-w</dc:source>
-            <dc:date>2023-11-28</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03740-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03740-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03739-3">
-            <title><![CDATA[Adjust the format of papers to improve description by AI]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03739-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 28 November 2023; <a href="https://www.nature.com/articles/d41586-023-03739-3">doi:10.1038/d41586-023-03739-3</a></p>Adjust the format of papers to improve description by AI]]></content:encoded>
-            <dc:title><![CDATA[Adjust the format of papers to improve description by AI]]></dc:title>
-            <dc:creator>Terence Day</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03739-3</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-28; | doi:10.1038/d41586-023-03739-3</dc:source>
-            <dc:date>2023-11-28</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03739-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03739-3</prism:url>
         </item>
     
 </rdf:RDF>
