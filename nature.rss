@@ -18,6 +18,18 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06871-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03855-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03858-x"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03856-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03857-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03817-6"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03778-w"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03757-1"/>
@@ -156,18 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03745-5"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03382-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03618-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03724-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03373-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03774-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03644-9"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,96 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-023-06871-2">
+            <title><![CDATA[Hypoblast from human pluripotent stem cells regulates epiblast development]]></title>
+            <link>https://www.nature.com/articles/s41586-023-06871-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 05 December 2023; <a href="https://www.nature.com/articles/s41586-023-06871-2">doi:10.1038/s41586-023-06871-2</a></p>Hypoblast from human pluripotent stem cells regulates epiblast development]]></content:encoded>
+            <dc:title><![CDATA[Hypoblast from human pluripotent stem cells regulates epiblast development]]></dc:title>
+            <dc:creator>Takumi Okubo</dc:creator><dc:creator>Nicolas Rivron</dc:creator><dc:creator>Mio Kabata</dc:creator><dc:creator>Hideki Masaki</dc:creator><dc:creator>Keiko Kishimoto</dc:creator><dc:creator>Katsunori Semi</dc:creator><dc:creator>May Nakajima-Koyama</dc:creator><dc:creator>Haruko Kunitomi</dc:creator><dc:creator>Belinda Kaswandy</dc:creator><dc:creator>Hideyuki Sato</dc:creator><dc:creator>Hiromitsu Nakauchi</dc:creator><dc:creator>Knut Woltjen</dc:creator><dc:creator>Mitinori Saitou</dc:creator><dc:creator>Erika Sasaki</dc:creator><dc:creator>Takuya Yamamoto</dc:creator><dc:creator>Yasuhiro Takashima</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-023-06871-2</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-05; | doi:10.1038/s41586-023-06871-2</dc:source>
+            <dc:date>2023-12-05</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-023-06871-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-023-06871-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03855-0">
+            <title><![CDATA[Nature-based climate solutions: align policy with science]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03855-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 05 December 2023; <a href="https://www.nature.com/articles/d41586-023-03855-0">doi:10.1038/d41586-023-03855-0</a></p>Nature-based climate solutions: align policy with science]]></content:encoded>
+            <dc:title><![CDATA[Nature-based climate solutions: align policy with science]]></dc:title>
+            <dc:creator>Trevor F. Keenan</dc:creator><dc:creator>Kimberly A. Novick</dc:creator><dc:creator>William R. L. Anderegg</dc:creator><dc:creator>Caroline P. Normile</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03855-0</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-05; | doi:10.1038/d41586-023-03855-0</dc:source>
+            <dc:date>2023-12-05</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03855-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03855-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03858-x">
+            <title><![CDATA[Rescue urban wetlands for flood resilience]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03858-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 05 December 2023; <a href="https://www.nature.com/articles/d41586-023-03858-x">doi:10.1038/d41586-023-03858-x</a></p>Rescue urban wetlands for flood resilience]]></content:encoded>
+            <dc:title><![CDATA[Rescue urban wetlands for flood resilience]]></dc:title>
+            <dc:creator>Dehua Mao</dc:creator><dc:creator>Zongming Wang</dc:creator><dc:creator>Kaishan Song</dc:creator><dc:creator>Hong Yang</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03858-x</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-05; | doi:10.1038/d41586-023-03858-x</dc:source>
+            <dc:date>2023-12-05</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03858-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03858-x</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03856-z">
+            <title><![CDATA[Broaden scope of review boards to boost public trust]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03856-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 05 December 2023; <a href="https://www.nature.com/articles/d41586-023-03856-z">doi:10.1038/d41586-023-03856-z</a></p>Broaden scope of review boards to boost public trust]]></content:encoded>
+            <dc:title><![CDATA[Broaden scope of review boards to boost public trust]]></dc:title>
+            <dc:creator>Daniel Wyzynski</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03856-z</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-05; | doi:10.1038/d41586-023-03856-z</dc:source>
+            <dc:date>2023-12-05</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03856-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03856-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03857-y">
+            <title><![CDATA[A system-transitions report for the next IPCC assessment cycle]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03857-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 05 December 2023; <a href="https://www.nature.com/articles/d41586-023-03857-y">doi:10.1038/d41586-023-03857-y</a></p>A system-transitions report for the next IPCC assessment cycle]]></content:encoded>
+            <dc:title><![CDATA[A system-transitions report for the next IPCC assessment cycle]]></dc:title>
+            <dc:creator>Carl-Friedrich Schleussner</dc:creator><dc:creator>Christopher Trisos</dc:creator><dc:creator>Aditi Mukherji</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03857-y</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-05; | doi:10.1038/d41586-023-03857-y</dc:source>
+            <dc:date>2023-12-05</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03857-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03857-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03817-6">
+            <title><![CDATA[Is AI leading to a reproducibility crisis in science?]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03817-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 05 December 2023; <a href="https://www.nature.com/articles/d41586-023-03817-6">doi:10.1038/d41586-023-03817-6</a></p>Scientists worry that ill-informed use of artificial intelligence is driving a deluge of unreliable or useless research.]]></content:encoded>
+            <dc:title><![CDATA[Is AI leading to a reproducibility crisis in science?]]></dc:title>
+            <dc:creator>Philip Ball</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03817-6</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-05; | doi:10.1038/d41586-023-03817-6</dc:source>
+            <dc:date>2023-12-05</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03817-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03817-6</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03778-w">
             <title><![CDATA[How hyenas decide whether to form a lion-fighting mob]]></title>
@@ -1210,96 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03745-5</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03745-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03382-y">
-            <title><![CDATA[Atomic-level structures show how accuracy is maintained in protein synthesis]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03382-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 29 November 2023; <a href="https://www.nature.com/articles/d41586-023-03382-y">doi:10.1038/d41586-023-03382-y</a></p>A series of structures of the eukaryotic protein-synthesis machinery are imaged at high resolution in defined states of the elongation phase of protein synthesis. Analysis suggests that there are underlying molecular mechanisms that increase the accuracy of translation of genetic information in eukaryotes.]]></content:encoded>
-            <dc:title><![CDATA[Atomic-level structures show how accuracy is maintained in protein synthesis]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-03382-y</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-29; | doi:10.1038/d41586-023-03382-y</dc:source>
-            <dc:date>2023-11-29</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03382-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03382-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03618-x">
-            <title><![CDATA[‘Disruptive’ science: in-person teams make more breakthroughs than remote groups]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03618-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 29 November 2023; <a href="https://www.nature.com/articles/d41586-023-03618-x">doi:10.1038/d41586-023-03618-x</a></p>Analysis of millions of papers shows that farflung collaborators produce fewer foundational discoveries than groups working together in person.]]></content:encoded>
-            <dc:title><![CDATA[‘Disruptive’ science: in-person teams make more breakthroughs than remote groups]]></dc:title>
-            <dc:creator>David Adam</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03618-x</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-29; | doi:10.1038/d41586-023-03618-x</dc:source>
-            <dc:date>2023-11-29</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03618-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03618-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03724-w">
-            <title><![CDATA[Stuck in the middle]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03724-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 29 November 2023; <a href="https://www.nature.com/articles/d41586-023-03724-w">doi:10.1038/d41586-023-03724-w</a></p>What more could you want?]]></content:encoded>
-            <dc:title><![CDATA[Stuck in the middle]]></dc:title>
-            <dc:creator>David Lee Zweifler</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03724-w</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-29; | doi:10.1038/d41586-023-03724-w</dc:source>
-            <dc:date>2023-11-29</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03724-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03724-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03373-z">
-            <title><![CDATA[The myth of cosmopolitan cities: why large urban areas are more segregated]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03373-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 29 November 2023; <a href="https://www.nature.com/articles/d41586-023-03373-z">doi:10.1038/d41586-023-03373-z</a></p>There is a long-standing assumption that large, densely populated cities inherently foster interactions between a diverse range of people. Analysis of 1.6 billion person-to-person encounters in the United States reveals that big cities are actually pockets of extreme segregation, highlighting a need for strategic urban design that fosters more integrated environments.]]></content:encoded>
-            <dc:title><![CDATA[The myth of cosmopolitan cities: why large urban areas are more segregated]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-03373-z</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-29; | doi:10.1038/d41586-023-03373-z</dc:source>
-            <dc:date>2023-11-29</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03373-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03373-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03774-0">
-            <title><![CDATA[Why has swine flu emerged in a person in the UK — and what’s next?]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03774-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 29 November 2023; <a href="https://www.nature.com/articles/d41586-023-03774-0">doi:10.1038/d41586-023-03774-0</a></p>Scientists are closely monitoring a virus that has been detected for the first time in a UK individual.]]></content:encoded>
-            <dc:title><![CDATA[Why has swine flu emerged in a person in the UK — and what’s next?]]></dc:title>
-            <dc:creator>Katharine  Sanderson</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03774-0</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-29; | doi:10.1038/d41586-023-03774-0</dc:source>
-            <dc:date>2023-11-29</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03774-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03774-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03644-9">
-            <title><![CDATA[Pesticide cocktails harm bumblebees in European fields]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03644-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 29 November 2023; <a href="https://www.nature.com/articles/d41586-023-03644-9">doi:10.1038/d41586-023-03644-9</a></p>Exposure to the complex mix of pesticides used in agriculture in Europe significantly reduces bumblebees’ health. This suggests that current risk-assessment processes, in which pesticides are assessed separately, are not fit for purpose. Continuous monitoring is needed to quantify the real-world effects of pesticides on pollinator health.]]></content:encoded>
-            <dc:title><![CDATA[Pesticide cocktails harm bumblebees in European fields]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-03644-9</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-29; | doi:10.1038/d41586-023-03644-9</dc:source>
-            <dc:date>2023-11-29</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03644-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03644-9</prism:url>
         </item>
     
 </rdf:RDF>
