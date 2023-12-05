@@ -20,9 +20,19 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03778-w"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03757-1"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03820-x"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03748-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03854-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06693-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03853-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03692-1"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03848-z"/>
                 
@@ -35,6 +45,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03828-3"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06851-6"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03850-5"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03393-9"/>
                 
@@ -156,18 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03644-9"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03762-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03536-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03628-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03741-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03702-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03742-8"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -190,6 +190,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03778-w</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03778-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03757-1">
+            <title><![CDATA[Earliest known fossil mosquito is a blood-sucking surprise]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03757-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 04 December 2023; <a href="https://www.nature.com/articles/d41586-023-03757-1">doi:10.1038/d41586-023-03757-1</a></p>Insects trapped in amber reveal that male mosquitoes, too, could once extract blood.]]></content:encoded>
+            <dc:title><![CDATA[Earliest known fossil mosquito is a blood-sucking surprise]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-03757-1</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-04; | doi:10.1038/d41586-023-03757-1</dc:source>
+            <dc:date>2023-12-04</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03757-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03757-1</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03820-x">
@@ -220,6 +235,66 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03748-2</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03748-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03854-1">
+            <title><![CDATA[IBM releases first-ever 1,000-qubit quantum chip]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03854-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 04 December 2023; <a href="https://www.nature.com/articles/d41586-023-03854-1">doi:10.1038/d41586-023-03854-1</a></p>The company announces its latest huge chip — but will now focus on developing smaller chips with a fresh approach to ‘error correction’.]]></content:encoded>
+            <dc:title><![CDATA[IBM releases first-ever 1,000-qubit quantum chip]]></dc:title>
+            <dc:creator>Davide Castelvecchi</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03854-1</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-04; | doi:10.1038/d41586-023-03854-1</dc:source>
+            <dc:date>2023-12-04</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03854-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03854-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-023-06693-2">
+            <title><![CDATA[Genetic risk converges on regulatory networks mediating early type 2 diabetes]]></title>
+            <link>https://www.nature.com/articles/s41586-023-06693-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 04 December 2023; <a href="https://www.nature.com/articles/s41586-023-06693-2">doi:10.1038/s41586-023-06693-2</a></p>Integration of multiomics data with functional analysis of pancreatic tissues from individuals with early-stage type 2 diabetes indicates that the genetic risk converges on RFX6, which regulates chromatin architecture at multiple risk loci.]]></content:encoded>
+            <dc:title><![CDATA[Genetic risk converges on regulatory networks mediating early type 2 diabetes]]></dc:title>
+            <dc:creator>John T. Walker</dc:creator><dc:creator>Diane C. Saunders</dc:creator><dc:creator>Vivek Rai</dc:creator><dc:creator>Hung-Hsin Chen</dc:creator><dc:creator>Peter Orchard</dc:creator><dc:creator>Chunhua Dai</dc:creator><dc:creator>Yasminye D. Pettway</dc:creator><dc:creator>Alexander L. Hopkirk</dc:creator><dc:creator>Conrad V. Reihsmann</dc:creator><dc:creator>Yicheng Tao</dc:creator><dc:creator>Simin Fan</dc:creator><dc:creator>Shristi Shrestha</dc:creator><dc:creator>Arushi Varshney</dc:creator><dc:creator>Lauren E. Petty</dc:creator><dc:creator>Jordan J. Wright</dc:creator><dc:creator>Christa Ventresca</dc:creator><dc:creator>Samir Agarwala</dc:creator><dc:creator>Radhika Aramandla</dc:creator><dc:creator>Greg Poffenberger</dc:creator><dc:creator>Regina Jenkins</dc:creator><dc:creator>Shaojun Mei</dc:creator><dc:creator>Nathaniel J. Hart</dc:creator><dc:creator>Sharon Phillips</dc:creator><dc:creator>Hakmook Kang</dc:creator><dc:creator>Dale L. Greiner</dc:creator><dc:creator>Leonard D. Shultz</dc:creator><dc:creator>Rita Bottino</dc:creator><dc:creator>Jie Liu</dc:creator><dc:creator>Jennifer E. Below</dc:creator><dc:creator>Stephen C. J. Parker</dc:creator><dc:creator>Alvin C. Powers</dc:creator><dc:creator>Marcela Brissova</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-023-06693-2</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-04; | doi:10.1038/s41586-023-06693-2</dc:source>
+            <dc:date>2023-12-04</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-023-06693-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-023-06693-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03853-2">
+            <title><![CDATA[Why I launched Malaysia’s first scientific newspaper]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03853-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 04 December 2023; <a href="https://www.nature.com/articles/d41586-023-03853-2">doi:10.1038/d41586-023-03853-2</a></p>Mahaletchumy Arujanan shares how she set up The Petri Dish, Malaysia’s first scientific newspaper, which is aimed at the general public.]]></content:encoded>
+            <dc:title><![CDATA[Why I launched Malaysia’s first scientific newspaper]]></dc:title>
+            <dc:creator>Lia Paola Zambetti</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03853-2</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-04; | doi:10.1038/d41586-023-03853-2</dc:source>
+            <dc:date>2023-12-04</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03853-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03853-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03692-1">
+            <title><![CDATA[Stunning stem cells and Starlink trails — November’s best science images]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03692-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 04 December 2023; <a href="https://www.nature.com/articles/d41586-023-03692-1">doi:10.1038/d41586-023-03692-1</a></p>The month’s sharpest science shots, selected by Nature’s photo team.]]></content:encoded>
+            <dc:title><![CDATA[Stunning stem cells and Starlink trails — November’s best science images]]></dc:title>
+            <dc:creator>Emma Stoye</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03692-1</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-04; | doi:10.1038/d41586-023-03692-1</dc:source>
+            <dc:date>2023-12-04</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03692-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03692-1</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03848-z">
@@ -268,11 +343,11 @@
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03813-w">
-            <title><![CDATA[Gravitational waves from mega black-hole collision reveal long-sought ‘ringing’]]></title>
+            <title><![CDATA[Gravitational waves from giant black-hole collision reveal long-sought ‘ringing’]]></title>
             <link>https://www.nature.com/articles/d41586-023-03813-w</link>
             <content:encoded>
                 <![CDATA[<p>Nature, Published online: 01 December 2023; <a href="https://www.nature.com/articles/d41586-023-03813-w">doi:10.1038/d41586-023-03813-w</a></p>Researchers find massive merger’s signature aftershocks hidden in 2019 data from LIGO and Virgo detectors.]]></content:encoded>
-            <dc:title><![CDATA[Gravitational waves from mega black-hole collision reveal long-sought ‘ringing’]]></dc:title>
+            <dc:title><![CDATA[Gravitational waves from giant black-hole collision reveal long-sought ‘ringing’]]></dc:title>
             <dc:creator>Davide Castelvecchi</dc:creator>
             <dc:identifier>doi:10.1038/d41586-023-03813-w</dc:identifier>
             <dc:source>Nature, Published online: 2023-12-01; | doi:10.1038/d41586-023-03813-w</dc:source>
@@ -310,6 +385,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/s41586-023-06851-6</prism:doi>
             <prism:url>https://www.nature.com/articles/s41586-023-06851-6</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03850-5">
+            <title><![CDATA[Daily briefing: A historic moment for loss and damage at COP28]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03850-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 01 December 2023; <a href="https://www.nature.com/articles/d41586-023-03850-5">doi:10.1038/d41586-023-03850-5</a></p>COP28 started with the first cash pledged for countries devastated by climate change. Plus, penguins survive on thousands of microsleeps and how to finally end the HIV/AIDS pandemic.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: A historic moment for loss and damage at COP28]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03850-5</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-01; | doi:10.1038/d41586-023-03850-5</dc:source>
+            <dc:date>2023-12-01</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03850-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03850-5</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03393-9">
@@ -1210,96 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03644-9</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03644-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03762-4">
-            <title><![CDATA[Why is China’s high-quality research footprint becoming more introverted?]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03762-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 29 November 2023; <a href="https://www.nature.com/articles/d41586-023-03762-4">doi:10.1038/d41586-023-03762-4</a></p>Data from the Nature Index suggest China-based authors are increasingly publishing without international colleagues.]]></content:encoded>
-            <dc:title><![CDATA[Why is China’s high-quality research footprint becoming more introverted?]]></dc:title>
-            <dc:creator>Brian Owens</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03762-4</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-29; | doi:10.1038/d41586-023-03762-4</dc:source>
-            <dc:date>2023-11-29</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03762-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03762-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03536-y">
-            <title><![CDATA[The overlooked role of landscape dynamics in steering biodiversity]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03536-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 29 November 2023; <a href="https://www.nature.com/articles/d41586-023-03536-y">doi:10.1038/d41586-023-03536-y</a></p>Scientists have long sought to understand what drives biodiversity changes. A study unifies ideas about marine and terrestrial biodiversity in one explanatory framework, pointing to physical geography as dictating life’s trajectory.]]></content:encoded>
-            <dc:title><![CDATA[The overlooked role of landscape dynamics in steering biodiversity]]></dc:title>
-            <dc:creator>Alexandre Pohl</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03536-y</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-29; | doi:10.1038/d41586-023-03536-y</dc:source>
-            <dc:date>2023-11-29</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03536-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03536-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03628-9">
-            <title><![CDATA[An immune-cell transcription factor tethers DNA together]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03628-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 29 November 2023; <a href="https://www.nature.com/articles/d41586-023-03628-9">doi:10.1038/d41586-023-03628-9</a></p>A transcription factor in immune cells forms an unexpectedly ladder-like complex with two DNA molecules, allowing the expression of genes that these cells need to suppress harmful immune responses.]]></content:encoded>
-            <dc:title><![CDATA[An immune-cell transcription factor tethers DNA together]]></dc:title>
-            <dc:creator>Zhi Liu</dc:creator><dc:creator>Ye Zheng</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03628-9</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-29; | doi:10.1038/d41586-023-03628-9</dc:source>
-            <dc:date>2023-11-29</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03628-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03628-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03741-9">
-            <title><![CDATA[State governments could revolutionize health-care data]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03741-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 28 November 2023; <a href="https://www.nature.com/articles/d41586-023-03741-9">doi:10.1038/d41586-023-03741-9</a></p>State governments could revolutionize health-care data]]></content:encoded>
-            <dc:title><![CDATA[State governments could revolutionize health-care data]]></dc:title>
-            <dc:creator>Andrew Burt</dc:creator><dc:creator>Daniel Boffa</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03741-9</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-28; | doi:10.1038/d41586-023-03741-9</dc:source>
-            <dc:date>2023-11-28</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03741-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03741-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03702-2">
-            <title><![CDATA[From the archive: renaming the proton, and enthusiasm for sanitary matters]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03702-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 28 November 2023; <a href="https://www.nature.com/articles/d41586-023-03702-2">doi:10.1038/d41586-023-03702-2</a></p>Snippets from Nature’s past.]]></content:encoded>
-            <dc:title><![CDATA[From the archive: renaming the proton, and enthusiasm for sanitary matters]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-03702-2</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-28; | doi:10.1038/d41586-023-03702-2</dc:source>
-            <dc:date>2023-11-28</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03702-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03702-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03742-8">
-            <title><![CDATA[Extraterrestrial life: back story for the control experiment]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03742-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 28 November 2023; <a href="https://www.nature.com/articles/d41586-023-03742-8">doi:10.1038/d41586-023-03742-8</a></p>Extraterrestrial life: back story for the control experiment]]></content:encoded>
-            <dc:title><![CDATA[Extraterrestrial life: back story for the control experiment]]></dc:title>
-            <dc:creator>Manuel Lerdau</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03742-8</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-28; | doi:10.1038/d41586-023-03742-8</dc:source>
-            <dc:date>2023-11-28</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03742-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03742-8</prism:url>
         </item>
     
 </rdf:RDF>
