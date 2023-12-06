@@ -18,6 +18,14 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06928-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03818-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03849-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03816-7"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06871-2"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06929-1"/>
@@ -160,14 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06757-3"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06764-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06788-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06689-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06790-2"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,66 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-023-06928-2">
+            <title><![CDATA[Author Correction: CD201<sup>+</sup> fascia progenitors choreograph injury repair]]></title>
+            <link>https://www.nature.com/articles/s41586-023-06928-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 December 2023; <a href="https://www.nature.com/articles/s41586-023-06928-2">doi:10.1038/s41586-023-06928-2</a></p>Author Correction: CD201<sup>+</sup> fascia progenitors choreograph injury repair]]></content:encoded>
+            <dc:title><![CDATA[Author Correction: CD201<sup>+</sup> fascia progenitors choreograph injury repair]]></dc:title>
+            <dc:creator>Donovan Correa-Gallegos</dc:creator><dc:creator>Haifeng Ye</dc:creator><dc:creator>Bikram Dasgupta</dc:creator><dc:creator>Aydan Sardogan</dc:creator><dc:creator>Safwen Kadri</dc:creator><dc:creator>Ravinder Kandi</dc:creator><dc:creator>Ruoxuan Dai</dc:creator><dc:creator>Yue Lin</dc:creator><dc:creator>Robert Kopplin</dc:creator><dc:creator>Disha Shantaram Shenai</dc:creator><dc:creator>Juliane Wannemacher</dc:creator><dc:creator>Ryo Ichijo</dc:creator><dc:creator>Dongsheng Jiang</dc:creator><dc:creator>Maximilian Strunz</dc:creator><dc:creator>Meshal Ansari</dc:creator><dc:creator>Illias Angelidis</dc:creator><dc:creator>Herbert B. Schiller</dc:creator><dc:creator>Thomas Volz</dc:creator><dc:creator>Hans-Günther Machens</dc:creator><dc:creator>Yuval Rinkevich</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-023-06928-2</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-06; | doi:10.1038/s41586-023-06928-2</dc:source>
+            <dc:date>2023-12-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-023-06928-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-023-06928-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03818-5">
+            <title><![CDATA[Humanity’s oldest art is flaking away. Can scientists save it?]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03818-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 December 2023; <a href="https://www.nature.com/articles/d41586-023-03818-5">doi:10.1038/d41586-023-03818-5</a></p>Ancient humans painted scenes in Indonesian caves more than 45,000 years ago, but their art is disappearing rapidly. Researchers are trying to discover what’s causing the damage and how to stop it — before the murals are gone forever.]]></content:encoded>
+            <dc:title><![CDATA[Humanity’s oldest art is flaking away. Can scientists save it?]]></dc:title>
+            <dc:creator>Dyani Lewis</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03818-5</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-06; | doi:10.1038/d41586-023-03818-5</dc:source>
+            <dc:date>2023-12-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03818-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03818-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03849-y">
+            <title><![CDATA[Catastrophic change looms as Earth nears climate ‘tipping points’, report says]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03849-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 December 2023; <a href="https://www.nature.com/articles/d41586-023-03849-y">doi:10.1038/d41586-023-03849-y</a></p>Polar ice, coral reefs and other Earth systems could cross irrevocable thresholds soon, but urgent action could stave off the worst effects.]]></content:encoded>
+            <dc:title><![CDATA[Catastrophic change looms as Earth nears climate ‘tipping points’, report says]]></dc:title>
+            <dc:creator>Jeff Tollefson</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03849-y</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-06; | doi:10.1038/d41586-023-03849-y</dc:source>
+            <dc:date>2023-12-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03849-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03849-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03816-7">
+            <title><![CDATA[Frugal innovation: why low cost doesn’t have to mean low impact]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03816-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 December 2023; <a href="https://www.nature.com/articles/d41586-023-03816-7">doi:10.1038/d41586-023-03816-7</a></p>Science is starting to recognize the movement to create mass-market products using local knowledge and materials to improve lives around the world.]]></content:encoded>
+            <dc:title><![CDATA[Frugal innovation: why low cost doesn’t have to mean low impact]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-03816-7</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-06; | doi:10.1038/d41586-023-03816-7</dc:source>
+            <dc:date>2023-12-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03816-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03816-7</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06871-2">
             <title><![CDATA[Hypoblast from human pluripotent stem cells regulates epiblast development]]></title>
@@ -1240,66 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/s41586-023-06757-3</prism:doi>
             <prism:url>https://www.nature.com/articles/s41586-023-06757-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06764-4">
-            <title><![CDATA[Evidence for chiral supercurrent in quantum Hall Josephson junctions]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06764-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 29 November 2023; <a href="https://www.nature.com/articles/s41586-023-06764-4">doi:10.1038/s41586-023-06764-4</a></p>Ultra-narrow quantum Hall Josephson junctions defined in encapsulated graphene nanoribbons exhibit a chiral supercurrent, visible up to 8  T.]]></content:encoded>
-            <dc:title><![CDATA[Evidence for chiral supercurrent in quantum Hall Josephson junctions]]></dc:title>
-            <dc:creator>Hadrien Vignaud</dc:creator><dc:creator>David Perconte</dc:creator><dc:creator>Wenmin Yang</dc:creator><dc:creator>Bilal Kousar</dc:creator><dc:creator>Edouard Wagner</dc:creator><dc:creator>Frédéric Gay</dc:creator><dc:creator>Kenji Watanabe</dc:creator><dc:creator>Takashi Taniguchi</dc:creator><dc:creator>Hervé Courtois</dc:creator><dc:creator>Zheng Han</dc:creator><dc:creator>Hermann Sellier</dc:creator><dc:creator>Benjamin Sacépé</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06764-4</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-29; | doi:10.1038/s41586-023-06764-4</dc:source>
-            <dc:date>2023-11-29</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06764-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06764-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06788-w">
-            <title><![CDATA[Disease-specific tau filaments assemble via polymorphic intermediates]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06788-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 29 November 2023; <a href="https://www.nature.com/articles/s41586-023-06788-w">doi:10.1038/s41586-023-06788-w</a></p>A time-resolved cryogenic electron microscopy analysis provides structural information on the processes of primary and secondary nucleation of tau amyloid formation, with implications for the development of new therapies.]]></content:encoded>
-            <dc:title><![CDATA[Disease-specific tau filaments assemble via polymorphic intermediates]]></dc:title>
-            <dc:creator>Sofia Lövestam</dc:creator><dc:creator>David Li</dc:creator><dc:creator>Jane L. Wagstaff</dc:creator><dc:creator>Abhay Kotecha</dc:creator><dc:creator>Dari Kimanius</dc:creator><dc:creator>Stephen H. McLaughlin</dc:creator><dc:creator>Alexey G. Murzin</dc:creator><dc:creator>Stefan M. V. Freund</dc:creator><dc:creator>Michel Goedert</dc:creator><dc:creator>Sjors H. W. Scheres</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06788-w</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-29; | doi:10.1038/s41586-023-06788-w</dc:source>
-            <dc:date>2023-11-29</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06788-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06788-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06689-y">
-            <title><![CDATA[Cascaded compression of size distribution of nanopores in monolayer graphene]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06689-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 29 November 2023; <a href="https://www.nature.com/articles/s41586-023-06689-y">doi:10.1038/s41586-023-06689-y</a></p>Cascaded compression, in which nanopores are compressed by cycles of shrinkage and expansion, is described, leading tohigh-density nanopores in monolayer graphene with a narrow pore-size distribution, left skewness and ultrasmall tail deviation.]]></content:encoded>
-            <dc:title><![CDATA[Cascaded compression of size distribution of nanopores in monolayer graphene]]></dc:title>
-            <dc:creator>Jiangtao Wang</dc:creator><dc:creator>Chi Cheng</dc:creator><dc:creator>Xudong Zheng</dc:creator><dc:creator>Juan Carlos Idrobo</dc:creator><dc:creator>Ang-Yu Lu</dc:creator><dc:creator>Ji-Hoon Park</dc:creator><dc:creator>Bong Gyu Shin</dc:creator><dc:creator>Soon Jung Jung</dc:creator><dc:creator>Tianyi Zhang</dc:creator><dc:creator>Haozhe Wang</dc:creator><dc:creator>Guanhui Gao</dc:creator><dc:creator>Bongki Shin</dc:creator><dc:creator>Xiang Jin</dc:creator><dc:creator>Long Ju</dc:creator><dc:creator>Yimo Han</dc:creator><dc:creator>Lain-Jong Li</dc:creator><dc:creator>Rohit Karnik</dc:creator><dc:creator>Jing Kong</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06689-y</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-29; | doi:10.1038/s41586-023-06689-y</dc:source>
-            <dc:date>2023-11-29</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06689-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06689-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06790-2">
-            <title><![CDATA[A probable Keplerian disk feeding an optically revealed massive young star]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06790-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 29 November 2023; <a href="https://www.nature.com/articles/s41586-023-06790-2">doi:10.1038/s41586-023-06790-2</a></p>The authors suggest that a probable Keplerian disk is feeding an optically revealed massive young stellar object in the Large Magellanic Cloud.]]></content:encoded>
-            <dc:title><![CDATA[A probable Keplerian disk feeding an optically revealed massive young star]]></dc:title>
-            <dc:creator>Anna F. McLeod</dc:creator><dc:creator>Pamela D. Klaassen</dc:creator><dc:creator>Megan Reiter</dc:creator><dc:creator>Jonathan Henshaw</dc:creator><dc:creator>Rolf Kuiper</dc:creator><dc:creator>Adam Ginsburg</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06790-2</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-29; | doi:10.1038/s41586-023-06790-2</dc:source>
-            <dc:date>2023-11-29</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06790-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06790-2</prism:url>
         </item>
     
 </rdf:RDF>
