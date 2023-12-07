@@ -18,6 +18,8 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03932-4"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06928-2"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06927-3"/>
@@ -64,6 +66,8 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03816-7"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03939-x"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03859-w"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03630-1"/>
@@ -103,6 +107,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03815-8"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03881-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03797-7"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03878-7"/>
                 
@@ -162,12 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03750-8"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03802-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03812-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03763-3"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,21 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03932-4">
+            <title><![CDATA[Women who travel boost research networks at home — but only in countries with high gender equity]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03932-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 07 December 2023; <a href="https://www.nature.com/articles/d41586-023-03932-4">doi:10.1038/d41586-023-03932-4</a></p>Researchers moving between institutions in low- and middle-income countries can confer wide-reaching benefits on their colleagues.]]></content:encoded>
+            <dc:title><![CDATA[Women who travel boost research networks at home — but only in countries with high gender equity]]></dc:title>
+            <dc:creator>Natasha Gilbert</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03932-4</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-07; | doi:10.1038/d41586-023-03932-4</dc:source>
+            <dc:date>2023-12-07</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03932-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03932-4</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06928-2">
             <title><![CDATA[Author Correction: CD201<sup>+</sup> fascia progenitors choreograph injury repair]]></title>
@@ -522,6 +537,21 @@
             <prism:url>https://www.nature.com/articles/d41586-023-03816-7</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03939-x">
+            <title><![CDATA[Daily briefing: How to stave off climate tipping points with self-perpetuating solutions]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03939-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 December 2023; <a href="https://www.nature.com/articles/d41586-023-03939-x">doi:10.1038/d41586-023-03939-x</a></p>Planet-altering climate ‘tipping points’ are looming — but positive behavioural and economic shifts could result in runaway benefits for the climate. Plus, scientists race to save ancient cave paintings and how the clumsy use of AI is fuelling the reproducibility crisis.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: How to stave off climate tipping points with self-perpetuating solutions]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03939-x</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-06; | doi:10.1038/d41586-023-03939-x</dc:source>
+            <dc:date>2023-12-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03939-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03939-x</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-023-03859-w">
             <title><![CDATA[Self-copying RNA vaccine wins first full approval: what’s next?]]></title>
             <link>https://www.nature.com/articles/d41586-023-03859-w</link>
@@ -568,11 +598,11 @@
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03866-x">
-            <title><![CDATA[India calls out inequalities at COP28 climate summit]]></title>
+            <title><![CDATA[India and climate: what does the world’s most populous nation want from COP28?]]></title>
             <link>https://www.nature.com/articles/d41586-023-03866-x</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 06 December 2023; <a href="https://www.nature.com/articles/d41586-023-03866-x">doi:10.1038/d41586-023-03866-x</a></p>India wants to be the voice of the global south in the negotiations. But can the world’s most populous nation cut its massive coal use?]]></content:encoded>
-            <dc:title><![CDATA[India calls out inequalities at COP28 climate summit]]></dc:title>
+                <![CDATA[<p>Nature, Published online: 06 December 2023; <a href="https://www.nature.com/articles/d41586-023-03866-x">doi:10.1038/d41586-023-03866-x</a></p>India wants to be the voice of the global south at the climate conference. It is also massively dependent on coal.]]></content:encoded>
+            <dc:title><![CDATA[India and climate: what does the world’s most populous nation want from COP28?]]></dc:title>
             <dc:creator>Gayathri Vaidyanathan </dc:creator>
             <dc:identifier>doi:10.1038/d41586-023-03866-x</dc:identifier>
             <dc:source>Nature, Published online: 2023-12-06; | doi:10.1038/d41586-023-03866-x</dc:source>
@@ -688,11 +718,11 @@
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03870-1">
-            <title><![CDATA[Forecast warns when sea life will get tangled in nets — a year in advance]]></title>
+            <title><![CDATA[Forecast warns when sea life will get tangled in nets — one year in advance]]></title>
             <link>https://www.nature.com/articles/d41586-023-03870-1</link>
             <content:encoded>
                 <![CDATA[<p>Nature, Published online: 05 December 2023; <a href="https://www.nature.com/articles/d41586-023-03870-1">doi:10.1038/d41586-023-03870-1</a></p>Computational model uses sea-surface temperatures to predict when whales and turtles are likely to get stuck in fishing gear.]]></content:encoded>
-            <dc:title><![CDATA[Forecast warns when sea life will get tangled in nets — a year in advance]]></dc:title>
+            <dc:title><![CDATA[Forecast warns when sea life will get tangled in nets — one year in advance]]></dc:title>
             <dc:creator>Carissa Wong</dc:creator>
             <dc:identifier>doi:10.1038/d41586-023-03870-1</dc:identifier>
             <dc:source>Nature, Published online: 2023-12-05; | doi:10.1038/d41586-023-03870-1</dc:source>
@@ -820,6 +850,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03881-y</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03881-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03797-7">
+            <title><![CDATA[CRISPR 2.0: a new wave of gene editors heads for clinical trials]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03797-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 05 December 2023; <a href="https://www.nature.com/articles/d41586-023-03797-7">doi:10.1038/d41586-023-03797-7</a></p>Landmark approval of the first CRISPR therapy paves the way for treatments based on more efficient and more precise genome editors.]]></content:encoded>
+            <dc:title><![CDATA[CRISPR 2.0: a new wave of gene editors heads for clinical trials]]></dc:title>
+            <dc:creator>Heidi Ledford</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03797-7</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-05; | doi:10.1038/d41586-023-03797-7</dc:source>
+            <dc:date>2023-12-05</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03797-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03797-7</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03878-7">
@@ -1255,51 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03750-8</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03750-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03802-z">
-            <title><![CDATA[Sanitary products made from plants could help tackle period poverty]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03802-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 30 November 2023; <a href="https://www.nature.com/articles/d41586-023-03802-z">doi:10.1038/d41586-023-03802-z</a></p>Researchers have extracted absorbent materials from the succulent Agave sisalana for making local, low-cost period products.]]></content:encoded>
-            <dc:title><![CDATA[Sanitary products made from plants could help tackle period poverty]]></dc:title>
-            <dc:creator>Julie Gould</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03802-z</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-30; | doi:10.1038/d41586-023-03802-z</dc:source>
-            <dc:date>2023-11-30</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03802-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03802-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03812-x">
-            <title><![CDATA[Wearable biosensor measures fertility hormones in sweat]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03812-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 30 November 2023; <a href="https://www.nature.com/articles/d41586-023-03812-x">doi:10.1038/d41586-023-03812-x</a></p>Ring-like device blends nanoelectronics and folded RNA to track hormone levels without the need for invasive blood tests.]]></content:encoded>
-            <dc:title><![CDATA[Wearable biosensor measures fertility hormones in sweat]]></dc:title>
-            <dc:creator>Amanda Heidt</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03812-x</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-30; | doi:10.1038/d41586-023-03812-x</dc:source>
-            <dc:date>2023-11-30</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03812-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03812-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03763-3">
-            <title><![CDATA[World’s biggest set of human genome sequences opens to scientists]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03763-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 30 November 2023; <a href="https://www.nature.com/articles/d41586-023-03763-3">doi:10.1038/d41586-023-03763-3</a></p>The whole genomes of 500,000 people in the UK Biobank will help researchers to probe our genetic code for links to disease.]]></content:encoded>
-            <dc:title><![CDATA[World’s biggest set of human genome sequences opens to scientists]]></dc:title>
-            <dc:creator>Ewen Callaway</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03763-3</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-30; | doi:10.1038/d41586-023-03763-3</dc:source>
-            <dc:date>2023-11-30</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03763-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03763-3</prism:url>
         </item>
     
 </rdf:RDF>
