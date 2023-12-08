@@ -18,6 +18,18 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03754-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03755-3"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03801-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03943-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03797-7"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03944-0"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03932-4"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06928-2"/>
@@ -108,8 +120,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03881-y"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03797-7"/>
-                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03878-7"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03871-0"/>
@@ -158,16 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03819-4"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06881-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03749-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03777-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03751-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03750-8"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,96 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03754-4">
+            <title><![CDATA[Holiday side dish: a big helping of indoor air pollution]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03754-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 07 December 2023; <a href="https://www.nature.com/articles/d41586-023-03754-4">doi:10.1038/d41586-023-03754-4</a></p>Particulate-matter levels in US homes peak during mealtime — and especially on Thanksgiving and Christmas.]]></content:encoded>
+            <dc:title><![CDATA[Holiday side dish: a big helping of indoor air pollution]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-03754-4</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-07; | doi:10.1038/d41586-023-03754-4</dc:source>
+            <dc:date>2023-12-07</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03754-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03754-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03755-3">
+            <title><![CDATA[Why coffee particles clump and make a mess during grinding]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03755-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 07 December 2023; <a href="https://www.nature.com/articles/d41586-023-03755-3">doi:10.1038/d41586-023-03755-3</a></p>Scientists studying the electrical charge on coffee particles stumble on a secret to a better cup of joe.]]></content:encoded>
+            <dc:title><![CDATA[Why coffee particles clump and make a mess during grinding]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-03755-3</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-07; | doi:10.1038/d41586-023-03755-3</dc:source>
+            <dc:date>2023-12-07</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03755-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03755-3</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03801-0">
+            <title><![CDATA[This cyborg cockroach could be the future of earthquake search and rescue]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03801-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 07 December 2023; <a href="https://www.nature.com/articles/d41586-023-03801-0">doi:10.1038/d41586-023-03801-0</a></p>From drivable bionic animals to machines made from muscle, biohybrid robots are on their way to a variety of uses.]]></content:encoded>
+            <dc:title><![CDATA[This cyborg cockroach could be the future of earthquake search and rescue]]></dc:title>
+            <dc:creator>Liam Drew</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03801-0</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-07; | doi:10.1038/d41586-023-03801-0</dc:source>
+            <dc:date>2023-12-07</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03801-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03801-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03943-1">
+            <title><![CDATA[Quantum-computing approach uses single molecules as qubits for first time]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03943-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 07 December 2023; <a href="https://www.nature.com/articles/d41586-023-03943-1">doi:10.1038/d41586-023-03943-1</a></p>Platforms based on molecules manipulated using ‘optical tweezers’ might be able to perform complex physics calculations.]]></content:encoded>
+            <dc:title><![CDATA[Quantum-computing approach uses single molecules as qubits for first time]]></dc:title>
+            <dc:creator>Davide Castelvecchi</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03943-1</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-07; | doi:10.1038/d41586-023-03943-1</dc:source>
+            <dc:date>2023-12-07</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03943-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03943-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03797-7">
+            <title><![CDATA[CRISPR 2.0: a new wave of gene editors heads for clinical trials]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03797-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 07 December 2023; <a href="https://www.nature.com/articles/d41586-023-03797-7">doi:10.1038/d41586-023-03797-7</a></p>Landmark approval of the first CRISPR therapy paves the way for treatments based on more efficient and more precise genome editors.]]></content:encoded>
+            <dc:title><![CDATA[CRISPR 2.0: a new wave of gene editors heads for clinical trials]]></dc:title>
+            <dc:creator>Heidi Ledford</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03797-7</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-07; | doi:10.1038/d41586-023-03797-7</dc:source>
+            <dc:date>2023-12-07</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03797-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03797-7</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03944-0">
+            <title><![CDATA[Big Bang observatory tops wish list for big US physics projects]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03944-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 07 December 2023; <a href="https://www.nature.com/articles/d41586-023-03944-0">doi:10.1038/d41586-023-03944-0</a></p>Report also supports projects of unprecedented scale to study dark matter, neutrinos and the Higgs boson.]]></content:encoded>
+            <dc:title><![CDATA[Big Bang observatory tops wish list for big US physics projects]]></dc:title>
+            <dc:creator>Davide Castelvecchi</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03944-0</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-07; | doi:10.1038/d41586-023-03944-0</dc:source>
+            <dc:date>2023-12-07</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03944-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03944-0</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03932-4">
             <title><![CDATA[Women who travel boost research networks at home — but only in countries with high gender equity]]></title>
@@ -751,7 +841,7 @@
             <title><![CDATA[Brain implants help people to recover after severe head injury]]></title>
             <link>https://www.nature.com/articles/d41586-023-02833-w</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 05 December 2023; <a href="https://www.nature.com/articles/d41586-023-02833-w">doi:10.1038/d41586-023-02833-w</a></p>Electrodes placed inside the brains of five people with traumatic injuries improved their performance in attention and memory tests.]]></content:encoded>
+                <![CDATA[<p>Nature, Published online: 05 December 2023; <a href="https://www.nature.com/articles/d41586-023-02833-w">doi:10.1038/d41586-023-02833-w</a></p>Electrodes placed inside the brains of five people with traumatic injuries improved recipients’ performance in attention and memory tests.]]></content:encoded>
             <dc:title><![CDATA[Brain implants help people to recover after severe head injury]]></dc:title>
             <dc:creator>Miryam Naddaf</dc:creator>
             <dc:identifier>doi:10.1038/d41586-023-02833-w</dc:identifier>
@@ -850,21 +940,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03881-y</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03881-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03797-7">
-            <title><![CDATA[CRISPR 2.0: a new wave of gene editors heads for clinical trials]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03797-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 05 December 2023; <a href="https://www.nature.com/articles/d41586-023-03797-7">doi:10.1038/d41586-023-03797-7</a></p>Landmark approval of the first CRISPR therapy paves the way for treatments based on more efficient and more precise genome editors.]]></content:encoded>
-            <dc:title><![CDATA[CRISPR 2.0: a new wave of gene editors heads for clinical trials]]></dc:title>
-            <dc:creator>Heidi Ledford</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03797-7</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-05; | doi:10.1038/d41586-023-03797-7</dc:source>
-            <dc:date>2023-12-05</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03797-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03797-7</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03878-7">
@@ -1225,81 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03819-4</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03819-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06881-0">
-            <title><![CDATA[Author Correction: Thymic mimetic cells function beyond self-tolerance]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06881-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 30 November 2023; <a href="https://www.nature.com/articles/s41586-023-06881-0">doi:10.1038/s41586-023-06881-0</a></p>Author Correction: Thymic mimetic cells function beyond self-tolerance]]></content:encoded>
-            <dc:title><![CDATA[Author Correction: Thymic mimetic cells function beyond self-tolerance]]></dc:title>
-            <dc:creator>Tal Givony</dc:creator><dc:creator>Dena Leshkowitz</dc:creator><dc:creator>Diana Del Castillo</dc:creator><dc:creator>Shir Nevo</dc:creator><dc:creator>Noam Kadouri</dc:creator><dc:creator>Bareket Dassa</dc:creator><dc:creator>Yael Gruper</dc:creator><dc:creator>Razi Khalaila</dc:creator><dc:creator>Osher Ben-Nun</dc:creator><dc:creator>Tom Gome</dc:creator><dc:creator>Jan Dobeš</dc:creator><dc:creator>Shifra Ben-Dor</dc:creator><dc:creator>Merav Kedmi</dc:creator><dc:creator>Hadas Keren-Shaul</dc:creator><dc:creator>Rebecca Heffner-Krausz</dc:creator><dc:creator>Ziv Porat</dc:creator><dc:creator>Ofra Golani</dc:creator><dc:creator>Yoseph Addadi</dc:creator><dc:creator>Ori Brenner</dc:creator><dc:creator>David D. Lo</dc:creator><dc:creator>Yael Goldfarb</dc:creator><dc:creator>Jakub Abramson</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06881-0</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-30; | doi:10.1038/s41586-023-06881-0</dc:source>
-            <dc:date>2023-11-30</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06881-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06881-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03749-1">
-            <title><![CDATA[The hunt for dark-matter particles ventures into the wild]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03749-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 30 November 2023; <a href="https://www.nature.com/articles/d41586-023-03749-1">doi:10.1038/d41586-023-03749-1</a></p>Sensors deployed at magnetically quiet rural sites looked for axions and ‘hidden photons’ — with no luck yet.]]></content:encoded>
-            <dc:title><![CDATA[The hunt for dark-matter particles ventures into the wild]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-03749-1</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-30; | doi:10.1038/d41586-023-03749-1</dc:source>
-            <dc:date>2023-11-30</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03749-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03749-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03777-x">
-            <title><![CDATA[Tiny robots made from human cells heal damaged tissue]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03777-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 30 November 2023; <a href="https://www.nature.com/articles/d41586-023-03777-x">doi:10.1038/d41586-023-03777-x</a></p>The ‘anthrobots’ were able to repair a scratch in a layer of neurons in the lab.]]></content:encoded>
-            <dc:title><![CDATA[Tiny robots made from human cells heal damaged tissue]]></dc:title>
-            <dc:creator>Matthew Hutson</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03777-x</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-30; | doi:10.1038/d41586-023-03777-x</dc:source>
-            <dc:date>2023-11-30</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03777-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03777-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03751-7">
-            <title><![CDATA[This penguin survives on 4-second microsleeps — thousands of times a day]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03751-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 30 November 2023; <a href="https://www.nature.com/articles/d41586-023-03751-7">doi:10.1038/d41586-023-03751-7</a></p>The power naps of the chinstrap penguin are even briefer and more frequent when it is tending eggs.]]></content:encoded>
-            <dc:title><![CDATA[This penguin survives on 4-second microsleeps — thousands of times a day]]></dc:title>
-            <dc:creator>Mariana Lenharo</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03751-7</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-30; | doi:10.1038/d41586-023-03751-7</dc:source>
-            <dc:date>2023-11-30</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03751-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03751-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03750-8">
-            <title><![CDATA[Dolphins have a feel for electric fields]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03750-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 30 November 2023; <a href="https://www.nature.com/articles/d41586-023-03750-8">doi:10.1038/d41586-023-03750-8</a></p>The bottlenose dolphin’s keen ‘electroreception’ sense might help it to locate buried prey and navigate the seas.]]></content:encoded>
-            <dc:title><![CDATA[Dolphins have a feel for electric fields]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-03750-8</dc:identifier>
-            <dc:source>Nature, Published online: 2023-11-30; | doi:10.1038/d41586-023-03750-8</dc:source>
-            <dc:date>2023-11-30</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03750-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03750-8</prism:url>
         </item>
     
 </rdf:RDF>
