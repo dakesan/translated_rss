@@ -18,11 +18,17 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03756-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03895-6"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03754-4"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03755-3"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03801-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03898-3"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03943-1"/>
                 
@@ -162,12 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03775-z"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03822-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03804-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03819-4"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,36 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03756-2">
+            <title><![CDATA[Powerful X-ray reveals the inner life of an electric-vehicle battery]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03756-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 December 2023; <a href="https://www.nature.com/articles/d41586-023-03756-2">doi:10.1038/d41586-023-03756-2</a></p>Researchers get an unprecedented glimpse of how ions behave during a drive.]]></content:encoded>
+            <dc:title><![CDATA[Powerful X-ray reveals the inner life of an electric-vehicle battery]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-03756-2</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-08; | doi:10.1038/d41586-023-03756-2</dc:source>
+            <dc:date>2023-12-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03756-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03756-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03895-6">
+            <title><![CDATA[Time crystal]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03895-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 December 2023; <a href="https://www.nature.com/articles/d41586-023-03895-6">doi:10.1038/d41586-023-03895-6</a></p>Murder most horrid.]]></content:encoded>
+            <dc:title><![CDATA[Time crystal]]></dc:title>
+            <dc:creator>Andrew Spielberg</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03895-6</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-08; | doi:10.1038/d41586-023-03895-6</dc:source>
+            <dc:date>2023-12-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03895-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03895-6</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03754-4">
             <title><![CDATA[Holiday side dish: a big helping of indoor air pollution]]></title>
@@ -220,6 +250,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03801-0</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03801-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03898-3">
+            <title><![CDATA[Early-career NIH researchers vote overwhelmingly to form union]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03898-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 07 December 2023; <a href="https://www.nature.com/articles/d41586-023-03898-3">doi:10.1038/d41586-023-03898-3</a></p>The bargaining group will be the first ever to represent graduate students and postdocs in the US government, as they push for better pay and benefits.]]></content:encoded>
+            <dc:title><![CDATA[Early-career NIH researchers vote overwhelmingly to form union]]></dc:title>
+            <dc:creator>Max Kozlov</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03898-3</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-07; | doi:10.1038/d41586-023-03898-3</dc:source>
+            <dc:date>2023-12-07</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03898-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03898-3</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03943-1">
@@ -1255,51 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03775-z</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03775-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03822-9">
-            <title><![CDATA[Endlings]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03822-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 01 December 2023; <a href="https://www.nature.com/articles/d41586-023-03822-9">doi:10.1038/d41586-023-03822-9</a></p>An accidental meeting.]]></content:encoded>
-            <dc:title><![CDATA[Endlings]]></dc:title>
-            <dc:creator>Giancarla Espinosa Aritao</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03822-9</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-01; | doi:10.1038/d41586-023-03822-9</dc:source>
-            <dc:date>2023-12-01</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03822-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03822-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03804-x">
-            <title><![CDATA[Climate change is also a health crisis — these 3 graphics explain why]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03804-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 01 December 2023; <a href="https://www.nature.com/articles/d41586-023-03804-x">doi:10.1038/d41586-023-03804-x</a></p>Health is on the agenda at the COP28 climate meeting. Rising temperatures increase the spread of infectious diseases, claim lives and drive food insecurity.]]></content:encoded>
-            <dc:title><![CDATA[Climate change is also a health crisis — these 3 graphics explain why]]></dc:title>
-            <dc:creator>Carissa Wong</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03804-x</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-01; | doi:10.1038/d41586-023-03804-x</dc:source>
-            <dc:date>2023-12-01</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03804-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03804-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03819-4">
-            <title><![CDATA[Evelyn Fox Keller (1936–2023), philosopher who questioned gender roles in science]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03819-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 01 December 2023; <a href="https://www.nature.com/articles/d41586-023-03819-4">doi:10.1038/d41586-023-03819-4</a></p>Mathematical biologist, philosopher and historian of science who challenged the vision of science as a masculine activity.]]></content:encoded>
-            <dc:title><![CDATA[Evelyn Fox Keller (1936–2023), philosopher who questioned gender roles in science]]></dc:title>
-            <dc:creator>Marga Vicedo</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03819-4</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-01; | doi:10.1038/d41586-023-03819-4</dc:source>
-            <dc:date>2023-12-01</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03819-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03819-4</prism:url>
         </item>
     
 </rdf:RDF>
