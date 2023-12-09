@@ -18,9 +18,25 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06920-w"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03756-2"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03753-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03942-2"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03895-6"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03957-9"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03394-8"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03960-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03958-8"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03937-z"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03754-4"/>
                 
@@ -152,22 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03848-z"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06874-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03747-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03813-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03828-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06851-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03850-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03393-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03775-z"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,21 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-023-06920-w">
+            <title><![CDATA[Publisher Correction: Spatial atlas of the mouse central nervous system at molecular resolution]]></title>
+            <link>https://www.nature.com/articles/s41586-023-06920-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 December 2023; <a href="https://www.nature.com/articles/s41586-023-06920-w">doi:10.1038/s41586-023-06920-w</a></p>Publisher Correction: Spatial atlas of the mouse central nervous system at molecular resolution]]></content:encoded>
+            <dc:title><![CDATA[Publisher Correction: Spatial atlas of the mouse central nervous system at molecular resolution]]></dc:title>
+            <dc:creator>Hailing Shi</dc:creator><dc:creator>Yichun He</dc:creator><dc:creator>Yiming Zhou</dc:creator><dc:creator>Jiahao Huang</dc:creator><dc:creator>Kamal Maher</dc:creator><dc:creator>Brandon Wang</dc:creator><dc:creator>Zefang Tang</dc:creator><dc:creator>Shuchen Luo</dc:creator><dc:creator>Peng Tan</dc:creator><dc:creator>Morgan Wu</dc:creator><dc:creator>Zuwan Lin</dc:creator><dc:creator>Jingyi Ren</dc:creator><dc:creator>Yaman Thapa</dc:creator><dc:creator>Xin Tang</dc:creator><dc:creator>Ken Y. Chan</dc:creator><dc:creator>Benjamin E. Deverman</dc:creator><dc:creator>Hao Shen</dc:creator><dc:creator>Albert Liu</dc:creator><dc:creator>Jia Liu</dc:creator><dc:creator>Xiao Wang</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-023-06920-w</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-08; | doi:10.1038/s41586-023-06920-w</dc:source>
+            <dc:date>2023-12-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-023-06920-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-023-06920-w</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03756-2">
             <title><![CDATA[Powerful X-ray reveals the inner life of an electric-vehicle battery]]></title>
@@ -192,6 +207,36 @@
             <prism:url>https://www.nature.com/articles/d41586-023-03756-2</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03753-5">
+            <title><![CDATA[Mini fat particles help to turn platelets into protein factories]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03753-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 December 2023; <a href="https://www.nature.com/articles/d41586-023-03753-5">doi:10.1038/d41586-023-03753-5</a></p>Genetically modified blood cells could churn out therapeutic proteins for treating inflammation and other conditions.]]></content:encoded>
+            <dc:title><![CDATA[Mini fat particles help to turn platelets into protein factories]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-03753-5</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-08; | doi:10.1038/d41586-023-03753-5</dc:source>
+            <dc:date>2023-12-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03753-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03753-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03942-2">
+            <title><![CDATA[My brief appearance in <i>Downton Abbey</i>: <i>Nature</i> readers share stories of side gigs]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03942-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 December 2023; <a href="https://www.nature.com/articles/d41586-023-03942-2">doi:10.1038/d41586-023-03942-2</a></p>From rugby refereeing to film and television work, a poll reveals scientists’ first jobs and what they learnt from them.]]></content:encoded>
+            <dc:title><![CDATA[My brief appearance in <i>Downton Abbey</i>: <i>Nature</i> readers share stories of side gigs]]></dc:title>
+            <dc:creator>Jop de Vrieze</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03942-2</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-08; | doi:10.1038/d41586-023-03942-2</dc:source>
+            <dc:date>2023-12-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03942-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03942-2</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-023-03895-6">
             <title><![CDATA[Time crystal]]></title>
             <link>https://www.nature.com/articles/d41586-023-03895-6</link>
@@ -205,6 +250,81 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03895-6</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03895-6</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03957-9">
+            <title><![CDATA[Massive shake-up of French science system is biggest in decades]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03957-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 December 2023; <a href="https://www.nature.com/articles/d41586-023-03957-9">doi:10.1038/d41586-023-03957-9</a></p>Billion-euro plan includes greater oversight for national research institutes and the creation of a top-level council to advise the president on science.]]></content:encoded>
+            <dc:title><![CDATA[Massive shake-up of French science system is biggest in decades]]></dc:title>
+            <dc:creator>Barbara Casassus</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03957-9</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-08; | doi:10.1038/d41586-023-03957-9</dc:source>
+            <dc:date>2023-12-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03957-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03957-9</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03394-8">
+            <title><![CDATA[Why we need an academic career path that combines science and art]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03394-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 December 2023; <a href="https://www.nature.com/articles/d41586-023-03394-8">doi:10.1038/d41586-023-03394-8</a></p>Researchers who are as skilled in the studio as they are in the lab are forced to chooose between disciplines.]]></content:encoded>
+            <dc:title><![CDATA[Why we need an academic career path that combines science and art]]></dc:title>
+            <dc:creator>Julie Gould</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03394-8</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-08; | doi:10.1038/d41586-023-03394-8</dc:source>
+            <dc:date>2023-12-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03394-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03394-8</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03960-0">
+            <title><![CDATA[Eat less meat: Will the first global climate deal on food work?]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03960-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 December 2023; <a href="https://www.nature.com/articles/d41586-023-03960-0">doi:10.1038/d41586-023-03960-0</a></p>The first global declaration on reducing the eye-watering emissions from food production is a start, say researchers – but sidesteps some of the most contentious issues.]]></content:encoded>
+            <dc:title><![CDATA[Eat less meat: Will the first global climate deal on food work?]]></dc:title>
+            <dc:creator>Carissa Wong</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03960-0</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-08; | doi:10.1038/d41586-023-03960-0</dc:source>
+            <dc:date>2023-12-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03960-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03960-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03958-8">
+            <title><![CDATA[How to slay your zombies]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03958-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 December 2023; <a href="https://www.nature.com/articles/d41586-023-03958-8">doi:10.1038/d41586-023-03958-8</a></p>Triaging undead research projects and learning to move on.]]></content:encoded>
+            <dc:title><![CDATA[How to slay your zombies]]></dc:title>
+            <dc:creator>A. R. Siders</dc:creator><dc:creator>Nicola Ulibarri </dc:creator><dc:creator>Amanda E. Cravens </dc:creator><dc:creator>Rebecca L. Nelson</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03958-8</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-08; | doi:10.1038/d41586-023-03958-8</dc:source>
+            <dc:date>2023-12-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03958-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03958-8</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03937-z">
+            <title><![CDATA[The world’s largest proteins? These mega-molecules turn bacteria into predators]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03937-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 December 2023; <a href="https://www.nature.com/articles/d41586-023-03937-z">doi:10.1038/d41586-023-03937-z</a></p>A candidate for the largest known protein might help killer aquatic bacteria to devour other microbes — but it’s not easy to study the behemoths, or prove they’re even real.]]></content:encoded>
+            <dc:title><![CDATA[The world’s largest proteins? These mega-molecules turn bacteria into predators]]></dc:title>
+            <dc:creator>Ewen Callaway</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03937-z</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-08; | doi:10.1038/d41586-023-03937-z</dc:source>
+            <dc:date>2023-12-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03937-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03937-z</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03754-4">
@@ -253,11 +373,11 @@
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03898-3">
-            <title><![CDATA[Early-career NIH researchers vote overwhelmingly to form union]]></title>
+            <title><![CDATA[NIH researchers vote to form a union for the first time]]></title>
             <link>https://www.nature.com/articles/d41586-023-03898-3</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 07 December 2023; <a href="https://www.nature.com/articles/d41586-023-03898-3">doi:10.1038/d41586-023-03898-3</a></p>The bargaining group will be the first ever to represent graduate students and postdocs in the US government, as they push for better pay and benefits.]]></content:encoded>
-            <dc:title><![CDATA[Early-career NIH researchers vote overwhelmingly to form union]]></dc:title>
+                <![CDATA[<p>Nature, Published online: 07 December 2023; <a href="https://www.nature.com/articles/d41586-023-03898-3">doi:10.1038/d41586-023-03898-3</a></p>The new bargaining group will represent thousands of early-career scientists at the US National Institutes of Health.]]></content:encoded>
+            <dc:title><![CDATA[NIH researchers vote to form a union for the first time]]></dc:title>
             <dc:creator>Max Kozlov</dc:creator>
             <dc:identifier>doi:10.1038/d41586-023-03898-3</dc:identifier>
             <dc:source>Nature, Published online: 2023-12-07; | doi:10.1038/d41586-023-03898-3</dc:source>
@@ -1180,126 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03848-z</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03848-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06874-z">
-            <title><![CDATA[Author Correction: A planetary collision afterglow and transit of the resultant debris cloud]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06874-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 01 December 2023; <a href="https://www.nature.com/articles/s41586-023-06874-z">doi:10.1038/s41586-023-06874-z</a></p>Author Correction: A planetary collision afterglow and transit of the resultant debris cloud]]></content:encoded>
-            <dc:title><![CDATA[Author Correction: A planetary collision afterglow and transit of the resultant debris cloud]]></dc:title>
-            <dc:creator>Matthew Kenworthy</dc:creator><dc:creator>Simon Lock</dc:creator><dc:creator>Grant Kennedy</dc:creator><dc:creator>Richelle van Capelleveen</dc:creator><dc:creator>Eric Mamajek</dc:creator><dc:creator>Ludmila Carone</dc:creator><dc:creator>Franz-Josef Hambsch</dc:creator><dc:creator>Joseph Masiero</dc:creator><dc:creator>Amy Mainzer</dc:creator><dc:creator>J. Davy Kirkpatrick</dc:creator><dc:creator>Edward Gomez</dc:creator><dc:creator>Zoë Leinhardt</dc:creator><dc:creator>Jingyao Dou</dc:creator><dc:creator>Pavan Tanna</dc:creator><dc:creator>Arttu Sainio</dc:creator><dc:creator>Hamish Barker</dc:creator><dc:creator>Stéphane Charbonnel</dc:creator><dc:creator>Olivier Garde</dc:creator><dc:creator>Pascal Le Dû</dc:creator><dc:creator>Lionel Mulato</dc:creator><dc:creator>Thomas Petit</dc:creator><dc:creator>Michael Rizzo Smith</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06874-z</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-01; | doi:10.1038/s41586-023-06874-z</dc:source>
-            <dc:date>2023-12-01</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06874-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06874-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03747-3">
-            <title><![CDATA[Tinkering with immune cells gives cancer treatment a boost]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03747-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 01 December 2023; <a href="https://www.nature.com/articles/d41586-023-03747-3">doi:10.1038/d41586-023-03747-3</a></p>Tumours respond more readily to radiation and other therapies in mice without a specific protein in their dendritic cells.]]></content:encoded>
-            <dc:title><![CDATA[Tinkering with immune cells gives cancer treatment a boost]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-03747-3</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-01; | doi:10.1038/d41586-023-03747-3</dc:source>
-            <dc:date>2023-12-01</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03747-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03747-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03813-w">
-            <title><![CDATA[Gravitational waves from giant black-hole collision reveal long-sought ‘ringing’]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03813-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 01 December 2023; <a href="https://www.nature.com/articles/d41586-023-03813-w">doi:10.1038/d41586-023-03813-w</a></p>Researchers find massive merger’s signature aftershocks hidden in 2019 data from LIGO and Virgo detectors.]]></content:encoded>
-            <dc:title><![CDATA[Gravitational waves from giant black-hole collision reveal long-sought ‘ringing’]]></dc:title>
-            <dc:creator>Davide Castelvecchi</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03813-w</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-01; | doi:10.1038/d41586-023-03813-w</dc:source>
-            <dc:date>2023-12-01</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03813-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03813-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03828-3">
-            <title><![CDATA[Writing dissected, and big answers to simple questions: Books in brief]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03828-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 01 December 2023; <a href="https://www.nature.com/articles/d41586-023-03828-3">doi:10.1038/d41586-023-03828-3</a></p>Andrew Robinson reviews five of the best science picks.]]></content:encoded>
-            <dc:title><![CDATA[Writing dissected, and big answers to simple questions: Books in brief]]></dc:title>
-            <dc:creator>Andrew Robinson</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03828-3</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-01; | doi:10.1038/d41586-023-03828-3</dc:source>
-            <dc:date>2023-12-01</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03828-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03828-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06851-6">
-            <title><![CDATA[Author Correction: Ongoing declines for the world’s amphibians in the face of emerging threats]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06851-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 01 December 2023; <a href="https://www.nature.com/articles/s41586-023-06851-6">doi:10.1038/s41586-023-06851-6</a></p>Author Correction: Ongoing declines for the world’s amphibians in the face of emerging threats]]></content:encoded>
-            <dc:title><![CDATA[Author Correction: Ongoing declines for the world’s amphibians in the face of emerging threats]]></dc:title>
-            <dc:creator>Jennifer A. Luedtke</dc:creator><dc:creator>Janice Chanson</dc:creator><dc:creator>Kelsey Neam</dc:creator><dc:creator>Louise Hobin</dc:creator><dc:creator>Adriano O. Maciel</dc:creator><dc:creator>Alessandro Catenazzi</dc:creator><dc:creator>Amaël Borzée</dc:creator><dc:creator>Amir Hamidy</dc:creator><dc:creator>Anchalee Aowphol</dc:creator><dc:creator>Anderson Jean</dc:creator><dc:creator>Ángel Sosa-Bartuano</dc:creator><dc:creator>Ansel Fong G.</dc:creator><dc:creator>Anslem de Silva</dc:creator><dc:creator>Antoine Fouquet</dc:creator><dc:creator>Ariadne Angulo</dc:creator><dc:creator>Artem A. Kidov</dc:creator><dc:creator>Arturo Muñoz Saravia</dc:creator><dc:creator>Arvin C. Diesmos</dc:creator><dc:creator>Atsushi Tominaga</dc:creator><dc:creator>Biraj Shrestha</dc:creator><dc:creator>Brian Gratwicke</dc:creator><dc:creator>Burhan Tjaturadi</dc:creator><dc:creator>Carlos C. Martínez Rivera</dc:creator><dc:creator>Carlos R. Vásquez Almazán</dc:creator><dc:creator>Celsa Señaris</dc:creator><dc:creator>Chandramouli S. R.</dc:creator><dc:creator>Christine Strüssmann</dc:creator><dc:creator>Claudia Fabiola Cortez Fernández</dc:creator><dc:creator>Claudio Azat</dc:creator><dc:creator>Conrad J. Hoskin</dc:creator><dc:creator>Craig Hilton-Taylor</dc:creator><dc:creator>Damion L. Whyte</dc:creator><dc:creator>David J. Gower</dc:creator><dc:creator>Deanna H. Olson</dc:creator><dc:creator>Diego F. Cisneros-Heredia</dc:creator><dc:creator>Diego José Santana</dc:creator><dc:creator>Elizah Nagombi</dc:creator><dc:creator>Elnaz Najafi-Majd</dc:creator><dc:creator>Evan S. H. Quah</dc:creator><dc:creator>Federico Bolaños</dc:creator><dc:creator>Feng Xie</dc:creator><dc:creator>Francisco Brusquetti</dc:creator><dc:creator>Francisco S. Álvarez</dc:creator><dc:creator>Franco Andreone</dc:creator><dc:creator>Frank Glaw</dc:creator><dc:creator>Franklin Enrique Castañeda</dc:creator><dc:creator>Fred Kraus</dc:creator><dc:creator>Gabriela Parra-Olea</dc:creator><dc:creator>Gerardo Chaves</dc:creator><dc:creator>Guido F. Medina-Rangel</dc:creator><dc:creator>Gustavo González-Durán</dc:creator><dc:creator>H. Mauricio Ortega-Andrade</dc:creator><dc:creator>Iberê F. Machado</dc:creator><dc:creator>Indraneil Das</dc:creator><dc:creator>Iuri Ribeiro Dias</dc:creator><dc:creator>J. Nicolas Urbina-Cardona</dc:creator><dc:creator>Jelka Crnobrnja-Isailović</dc:creator><dc:creator>Jian-Huan Yang</dc:creator><dc:creator>Jiang Jianping</dc:creator><dc:creator>Jigme Tshelthrim Wangyal</dc:creator><dc:creator>Jodi J. L. Rowley</dc:creator><dc:creator>John Measey</dc:creator><dc:creator>Karthikeyan Vasudevan</dc:creator><dc:creator>Kin Onn Chan</dc:creator><dc:creator>Kotambylu Vasudeva Gururaja</dc:creator><dc:creator>Kristiina Ovaska</dc:creator><dc:creator>Lauren C. Warr</dc:creator><dc:creator>Luis Canseco-Márquez</dc:creator><dc:creator>Luís Felipe Toledo</dc:creator><dc:creator>Luis M. Díaz</dc:creator><dc:creator>M. Monirul H. Khan</dc:creator><dc:creator>Madhava Meegaskumbura</dc:creator><dc:creator>Manuel E. Acevedo</dc:creator><dc:creator>Marcelo Felgueiras Napoli</dc:creator><dc:creator>Marcos A. Ponce</dc:creator><dc:creator>Marcos Vaira</dc:creator><dc:creator>Margarita Lampo</dc:creator><dc:creator>Mario H. Yánez-Muñoz</dc:creator><dc:creator>Mark D. Scherz</dc:creator><dc:creator>Mark-Oliver Rödel</dc:creator><dc:creator>Masafumi Matsui</dc:creator><dc:creator>Maxon Fildor</dc:creator><dc:creator>Mirza D. Kusrini</dc:creator><dc:creator>Mohammad Firoz Ahmed</dc:creator><dc:creator>Muhammad Rais</dc:creator><dc:creator>N’Goran G. Kouamé</dc:creator><dc:creator>Nieves García</dc:creator><dc:creator>Nono Legrand Gonwouo</dc:creator><dc:creator>Patricia A. Burrowes</dc:creator><dc:creator>Paul Y. Imbun</dc:creator><dc:creator>Philipp Wagner</dc:creator><dc:creator>Philippe J. R. Kok</dc:creator><dc:creator>Rafael L. Joglar</dc:creator><dc:creator>Renoir J. Auguste</dc:creator><dc:creator>Reuber Albuquerque Brandão</dc:creator><dc:creator>Roberto Ibáñez</dc:creator><dc:creator>Rudolf von May</dc:creator><dc:creator>S. Blair Hedges</dc:creator><dc:creator>S. D. Biju</dc:creator><dc:creator>S. R. Ganesh</dc:creator><dc:creator>Sally Wren</dc:creator><dc:creator>Sandeep Das</dc:creator><dc:creator>Sandra V. Flechas</dc:creator><dc:creator>Sara L. Ashpole</dc:creator><dc:creator>Silvia J. Robleto-Hernández</dc:creator><dc:creator>Simon P. Loader</dc:creator><dc:creator>Sixto J. Incháustegui</dc:creator><dc:creator>Sonali Garg</dc:creator><dc:creator>Somphouthone Phimmachak</dc:creator><dc:creator>Stephen J. Richards</dc:creator><dc:creator>Tahar Slimani</dc:creator><dc:creator>Tamara Osborne-Naikatini</dc:creator><dc:creator>Tatianne P. F. Abreu-Jardim</dc:creator><dc:creator>Thais H. Condez</dc:creator><dc:creator>Thiago R. De Carvalho</dc:creator><dc:creator>Timothy P. Cutajar</dc:creator><dc:creator>Todd W. Pierson</dc:creator><dc:creator>Truong Q. Nguyen</dc:creator><dc:creator>Uğur Kaya</dc:creator><dc:creator>Zhiyong Yuan</dc:creator><dc:creator>Barney Long</dc:creator><dc:creator>Penny Langhammer</dc:creator><dc:creator>Simon N. Stuart</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06851-6</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-01; | doi:10.1038/s41586-023-06851-6</dc:source>
-            <dc:date>2023-12-01</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06851-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06851-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03850-5">
-            <title><![CDATA[Daily briefing: A historic moment for loss and damage at COP28]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03850-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 01 December 2023; <a href="https://www.nature.com/articles/d41586-023-03850-5">doi:10.1038/d41586-023-03850-5</a></p>COP28 started with the first cash pledged for countries devastated by climate change. Plus, penguins survive on thousands of microsleeps and how to finally end the HIV/AIDS pandemic.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: A historic moment for loss and damage at COP28]]></dc:title>
-            <dc:creator>Flora Graham</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03850-5</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-01; | doi:10.1038/d41586-023-03850-5</dc:source>
-            <dc:date>2023-12-01</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03850-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03850-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03393-9">
-            <title><![CDATA[How to create compelling scientific data visualisations]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03393-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 01 December 2023; <a href="https://www.nature.com/articles/d41586-023-03393-9">doi:10.1038/d41586-023-03393-9</a></p>Start with pen and paper, keep things simple, do your coding at the end, say data visualisation specialists.]]></content:encoded>
-            <dc:title><![CDATA[How to create compelling scientific data visualisations]]></dc:title>
-            <dc:creator>Julie Gould</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03393-9</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-01; | doi:10.1038/d41586-023-03393-9</dc:source>
-            <dc:date>2023-12-01</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03393-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03393-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03775-z">
-            <title><![CDATA[Approaching 1.5 °C: how will we know we’ve reached this crucial warming mark?]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03775-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 01 December 2023; <a href="https://www.nature.com/articles/d41586-023-03775-z">doi:10.1038/d41586-023-03775-z</a></p>Assessing global mean temperature rise using the average warming over the previous one or two decades will delay formal recognition of when Earth breaches the Paris agreement’s 1.5 °C guard rail. Here is what’s needed to avoid the wait.]]></content:encoded>
-            <dc:title><![CDATA[Approaching 1.5 °C: how will we know we’ve reached this crucial warming mark?]]></dc:title>
-            <dc:creator>Richard A. Betts</dc:creator><dc:creator>Stephen E. Belcher</dc:creator><dc:creator>Leon Hermanson</dc:creator><dc:creator>Albert Klein Tank</dc:creator><dc:creator>Jason A. Lowe</dc:creator><dc:creator>Chris D. Jones</dc:creator><dc:creator>Colin P. Morice</dc:creator><dc:creator>Nick A. Rayner</dc:creator><dc:creator>Adam A. Scaife</dc:creator><dc:creator>Peter A. Stott</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03775-z</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-01; | doi:10.1038/d41586-023-03775-z</dc:source>
-            <dc:date>2023-12-01</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03775-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03775-z</prism:url>
         </item>
     
 </rdf:RDF>
