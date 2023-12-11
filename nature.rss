@@ -18,9 +18,17 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03862-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03860-3"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03865-y"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06920-w"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03756-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03964-w"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03753-5"/>
                 
@@ -41,6 +49,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03754-4"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03755-3"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03947-x"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03801-0"/>
                 
@@ -158,16 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03854-1"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06693-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03853-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03868-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03692-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03848-z"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,51 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03862-1">
+            <title><![CDATA[Were Neanderthals soulful inventors or strange cannibals?]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03862-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 11 December 2023; <a href="https://www.nature.com/articles/d41586-023-03862-1">doi:10.1038/d41586-023-03862-1</a></p>To understand the true otherness of Neanderthals, researchers must rethink the meaning they give to their archaeological finds, argues a new book.]]></content:encoded>
+            <dc:title><![CDATA[Were Neanderthals soulful inventors or strange cannibals?]]></dc:title>
+            <dc:creator>Rebecca Wragg Sykes</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03862-1</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-11; | doi:10.1038/d41586-023-03862-1</dc:source>
+            <dc:date>2023-12-11</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03862-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03862-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03860-3">
+            <title><![CDATA[Is cannabis bad for teens? Here’s what the data say]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03860-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 11 December 2023; <a href="https://www.nature.com/articles/d41586-023-03860-3">doi:10.1038/d41586-023-03860-3</a></p>Ten years after cannabis was first legalized for casual use in adults, scientists are struggling to provide evidence-based recommendations about the risks to young people.]]></content:encoded>
+            <dc:title><![CDATA[Is cannabis bad for teens? Here’s what the data say]]></dc:title>
+            <dc:creator>Anil Oza</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03860-3</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-11; | doi:10.1038/d41586-023-03860-3</dc:source>
+            <dc:date>2023-12-11</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03860-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03860-3</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03865-y">
+            <title><![CDATA[Surge in number of ‘extremely productive’ authors concerns scientists]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03865-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 11 December 2023; <a href="https://www.nature.com/articles/d41586-023-03865-y">doi:10.1038/d41586-023-03865-y</a></p>Some researchers publish a new paper every five days, on average. Data trackers suspect not all their manuscripts were produced through honest labour.]]></content:encoded>
+            <dc:title><![CDATA[Surge in number of ‘extremely productive’ authors concerns scientists]]></dc:title>
+            <dc:creator>Gemma Conroy</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03865-y</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-11; | doi:10.1038/d41586-023-03865-y</dc:source>
+            <dc:date>2023-12-11</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03865-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03865-y</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06920-w">
             <title><![CDATA[Publisher Correction: Spatial atlas of the mouse central nervous system at molecular resolution]]></title>
@@ -205,6 +250,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03756-2</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03756-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03964-w">
+            <title><![CDATA[The low carbon cost of alleviating poverty]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03964-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 December 2023; <a href="https://www.nature.com/articles/d41586-023-03964-w">doi:10.1038/d41586-023-03964-w</a></p>New modeling study suggests that reducing global poverty does not have to derail decarbonization efforts]]></content:encoded>
+            <dc:title><![CDATA[The low carbon cost of alleviating poverty]]></dc:title>
+            <dc:creator>Alex Lathbridge</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03964-w</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-08; | doi:10.1038/d41586-023-03964-w</dc:source>
+            <dc:date>2023-12-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03964-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03964-w</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03753-5">
@@ -355,6 +415,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03755-3</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03755-3</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03947-x">
+            <title><![CDATA[Daily briefing: Organs that look old before their time are linked to disease risk]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03947-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 07 December 2023; <a href="https://www.nature.com/articles/d41586-023-03947-x">doi:10.1038/d41586-023-03947-x</a></p>Your major organs can age at different rates — and organs that look old before their time are linked to disease risk. Plus, sisal menstrual pads show the power of ‘frugal innovation’ and the first self-amplifying RNA vaccine wins full regulatory approval.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Organs that look old before their time are linked to disease risk]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03947-x</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-07; | doi:10.1038/d41586-023-03947-x</dc:source>
+            <dc:date>2023-12-07</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03947-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03947-x</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03801-0">
@@ -1225,81 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03854-1</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03854-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06693-2">
-            <title><![CDATA[Genetic risk converges on regulatory networks mediating early type 2 diabetes]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06693-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 04 December 2023; <a href="https://www.nature.com/articles/s41586-023-06693-2">doi:10.1038/s41586-023-06693-2</a></p>Integration of multiomics data with functional analysis of pancreatic tissues from individuals with early-stage type 2 diabetes indicates that the genetic risk converges on RFX6, which regulates chromatin architecture at multiple risk loci.]]></content:encoded>
-            <dc:title><![CDATA[Genetic risk converges on regulatory networks mediating early type 2 diabetes]]></dc:title>
-            <dc:creator>John T. Walker</dc:creator><dc:creator>Diane C. Saunders</dc:creator><dc:creator>Vivek Rai</dc:creator><dc:creator>Hung-Hsin Chen</dc:creator><dc:creator>Peter Orchard</dc:creator><dc:creator>Chunhua Dai</dc:creator><dc:creator>Yasminye D. Pettway</dc:creator><dc:creator>Alexander L. Hopkirk</dc:creator><dc:creator>Conrad V. Reihsmann</dc:creator><dc:creator>Yicheng Tao</dc:creator><dc:creator>Simin Fan</dc:creator><dc:creator>Shristi Shrestha</dc:creator><dc:creator>Arushi Varshney</dc:creator><dc:creator>Lauren E. Petty</dc:creator><dc:creator>Jordan J. Wright</dc:creator><dc:creator>Christa Ventresca</dc:creator><dc:creator>Samir Agarwala</dc:creator><dc:creator>Radhika Aramandla</dc:creator><dc:creator>Greg Poffenberger</dc:creator><dc:creator>Regina Jenkins</dc:creator><dc:creator>Shaojun Mei</dc:creator><dc:creator>Nathaniel J. Hart</dc:creator><dc:creator>Sharon Phillips</dc:creator><dc:creator>Hakmook Kang</dc:creator><dc:creator>Dale L. Greiner</dc:creator><dc:creator>Leonard D. Shultz</dc:creator><dc:creator>Rita Bottino</dc:creator><dc:creator>Jie Liu</dc:creator><dc:creator>Jennifer E. Below</dc:creator><dc:creator>Stephen C. J. Parker</dc:creator><dc:creator>Alvin C. Powers</dc:creator><dc:creator>Marcela Brissova</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06693-2</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-04; | doi:10.1038/s41586-023-06693-2</dc:source>
-            <dc:date>2023-12-04</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06693-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06693-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03853-2">
-            <title><![CDATA[Why I launched Malaysia’s first scientific newspaper]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03853-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 04 December 2023; <a href="https://www.nature.com/articles/d41586-023-03853-2">doi:10.1038/d41586-023-03853-2</a></p>Mahaletchumy Arujanan shares how she set up The Petri Dish, Malaysia’s first scientific newspaper, which is aimed at the general public.]]></content:encoded>
-            <dc:title><![CDATA[Why I launched Malaysia’s first scientific newspaper]]></dc:title>
-            <dc:creator>Lia Paola Zambetti</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03853-2</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-04; | doi:10.1038/d41586-023-03853-2</dc:source>
-            <dc:date>2023-12-04</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03853-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03853-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03868-9">
-            <title><![CDATA[Daily briefing: Biosensor ring detects sex hormone in sweat]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03868-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 04 December 2023; <a href="https://www.nature.com/articles/d41586-023-03868-9">doi:10.1038/d41586-023-03868-9</a></p>A prototype biosensor that is worn as a ring can detect tiny amounts of oestradiol in sweat. Plus, colliding black holes ring like bells and dolphins can sense electricity.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: Biosensor ring detects sex hormone in sweat]]></dc:title>
-            <dc:creator>Flora Graham</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03868-9</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-04; | doi:10.1038/d41586-023-03868-9</dc:source>
-            <dc:date>2023-12-04</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03868-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03868-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03692-1">
-            <title><![CDATA[Stunning stem cells and Starlink trails — November’s best science images]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03692-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 04 December 2023; <a href="https://www.nature.com/articles/d41586-023-03692-1">doi:10.1038/d41586-023-03692-1</a></p>The month’s sharpest science shots, selected by Nature’s photo team.]]></content:encoded>
-            <dc:title><![CDATA[Stunning stem cells and Starlink trails — November’s best science images]]></dc:title>
-            <dc:creator>Emma Stoye</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03692-1</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-04; | doi:10.1038/d41586-023-03692-1</dc:source>
-            <dc:date>2023-12-04</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03692-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03692-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03848-z">
-            <title><![CDATA[Disability lawsuit lands Howard Hughes Medical Institute in court]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03848-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 02 December 2023; <a href="https://www.nature.com/articles/d41586-023-03848-z">doi:10.1038/d41586-023-03848-z</a></p>RNA biologist Vivian Cheung accuses the institute of discrimination after it decided not to renew her funding.]]></content:encoded>
-            <dc:title><![CDATA[Disability lawsuit lands Howard Hughes Medical Institute in court]]></dc:title>
-            <dc:creator>Amanda Heidt</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03848-z</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-02; | doi:10.1038/d41586-023-03848-z</dc:source>
-            <dc:date>2023-12-02</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03848-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03848-z</prism:url>
         </item>
     
 </rdf:RDF>
