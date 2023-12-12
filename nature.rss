@@ -18,6 +18,20 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03949-9"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03948-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03950-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03951-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03863-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03764-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03786-w"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06926-4"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06925-5"/>
@@ -154,20 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06906-8"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03855-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03858-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03870-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03856-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-02833-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03779-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03857-y"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,111 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03949-9">
+            <title><![CDATA[Can AI deliver advice that is judgement-free for science policy?]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03949-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 12 December 2023; <a href="https://www.nature.com/articles/d41586-023-03949-9">doi:10.1038/d41586-023-03949-9</a></p>Can AI deliver advice that is judgement-free for science policy?]]></content:encoded>
+            <dc:title><![CDATA[Can AI deliver advice that is judgement-free for science policy?]]></dc:title>
+            <dc:creator>Stefano Canali</dc:creator><dc:creator>Francesco Barone-Adesi</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03949-9</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-12; | doi:10.1038/d41586-023-03949-9</dc:source>
+            <dc:date>2023-12-12</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03949-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03949-9</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03948-w">
+            <title><![CDATA[The AI revolution in chemistry is not that far away]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03948-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 12 December 2023; <a href="https://www.nature.com/articles/d41586-023-03948-w">doi:10.1038/d41586-023-03948-w</a></p>The AI revolution in chemistry is not that far away]]></content:encoded>
+            <dc:title><![CDATA[The AI revolution in chemistry is not that far away]]></dc:title>
+            <dc:creator>Pedro J. Ballester</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03948-w</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-12; | doi:10.1038/d41586-023-03948-w</dc:source>
+            <dc:date>2023-12-12</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03948-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03948-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03950-2">
+            <title><![CDATA[Generate verifiable soil carbon credits from croplands]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03950-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 12 December 2023; <a href="https://www.nature.com/articles/d41586-023-03950-2">doi:10.1038/d41586-023-03950-2</a></p>Generate verifiable soil carbon credits from croplands]]></content:encoded>
+            <dc:title><![CDATA[Generate verifiable soil carbon credits from croplands]]></dc:title>
+            <dc:creator>Peng Fu</dc:creator><dc:creator>David Schurman</dc:creator><dc:creator>Mitchell Donovan</dc:creator><dc:creator>James R. Kellner</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03950-2</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-12; | doi:10.1038/d41586-023-03950-2</dc:source>
+            <dc:date>2023-12-12</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03950-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03950-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03951-1">
+            <title><![CDATA[The burden of calling out toxic academic practices]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03951-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 12 December 2023; <a href="https://www.nature.com/articles/d41586-023-03951-1">doi:10.1038/d41586-023-03951-1</a></p>The burden of calling out toxic academic practices]]></content:encoded>
+            <dc:title><![CDATA[The burden of calling out toxic academic practices]]></dc:title>
+            <dc:creator>David N. Thomas</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03951-1</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-12; | doi:10.1038/d41586-023-03951-1</dc:source>
+            <dc:date>2023-12-12</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03951-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03951-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03863-0">
+            <title><![CDATA[What the Ottomans did for science — and science did for the Ottomans]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03863-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 12 December 2023; <a href="https://www.nature.com/articles/d41586-023-03863-0">doi:10.1038/d41586-023-03863-0</a></p>A hundred years after the birth of modern Turkey, a monumental research project is uncovering the untold story of science and technology during six centuries of the Ottoman Empire.]]></content:encoded>
+            <dc:title><![CDATA[What the Ottomans did for science — and science did for the Ottomans]]></dc:title>
+            <dc:creator>Ehsan Masood</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03863-0</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-12; | doi:10.1038/d41586-023-03863-0</dc:source>
+            <dc:date>2023-12-12</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03863-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03863-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03764-2">
+            <title><![CDATA[MYC protein helps cancer to take its vitamins]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03764-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 12 December 2023; <a href="https://www.nature.com/articles/d41586-023-03764-2">doi:10.1038/d41586-023-03764-2</a></p>Identifying nutrient dependencies of cancer cells is crucial for developing new therapies. The discovery that an aggressive type of cancer cell has a high uptake of vitamin B5 sheds light on the link between vitamin availability and tumour growth.]]></content:encoded>
+            <dc:title><![CDATA[MYC protein helps cancer to take its vitamins]]></dc:title>
+            <dc:creator>Martina Wallace</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03764-2</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-12; | doi:10.1038/d41586-023-03764-2</dc:source>
+            <dc:date>2023-12-12</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03764-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03764-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03786-w">
+            <title><![CDATA[Structures of the amphetamine-binding receptor will aid drug discovery]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03786-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 12 December 2023; <a href="https://www.nature.com/articles/d41586-023-03786-w">doi:10.1038/d41586-023-03786-w</a></p>High-resolution structures of TAAR1 — the receptor bound by amphetamines and molecules called trace amines — reveal detailed interactions with ligand molecules that will inform efforts to design antipsychotic drugs.]]></content:encoded>
+            <dc:title><![CDATA[Structures of the amphetamine-binding receptor will aid drug discovery]]></dc:title>
+            <dc:creator>Harald H. Sitte</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03786-w</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-12; | doi:10.1038/d41586-023-03786-w</dc:source>
+            <dc:date>2023-12-12</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03786-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03786-w</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06926-4">
             <title><![CDATA[Transport and inhibition mechanisms of human VMAT2]]></title>
@@ -1195,111 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/s41586-023-06906-8</prism:doi>
             <prism:url>https://www.nature.com/articles/s41586-023-06906-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03855-0">
-            <title><![CDATA[Nature-based climate solutions: align policy with science]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03855-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 05 December 2023; <a href="https://www.nature.com/articles/d41586-023-03855-0">doi:10.1038/d41586-023-03855-0</a></p>Nature-based climate solutions: align policy with science]]></content:encoded>
-            <dc:title><![CDATA[Nature-based climate solutions: align policy with science]]></dc:title>
-            <dc:creator>Trevor F. Keenan</dc:creator><dc:creator>Kimberly A. Novick</dc:creator><dc:creator>William R. L. Anderegg</dc:creator><dc:creator>Caroline P. Normile</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03855-0</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-05; | doi:10.1038/d41586-023-03855-0</dc:source>
-            <dc:date>2023-12-05</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03855-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03855-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03858-x">
-            <title><![CDATA[Rescue urban wetlands for flood resilience]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03858-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 05 December 2023; <a href="https://www.nature.com/articles/d41586-023-03858-x">doi:10.1038/d41586-023-03858-x</a></p>Rescue urban wetlands for flood resilience]]></content:encoded>
-            <dc:title><![CDATA[Rescue urban wetlands for flood resilience]]></dc:title>
-            <dc:creator>Dehua Mao</dc:creator><dc:creator>Zongming Wang</dc:creator><dc:creator>Kaishan Song</dc:creator><dc:creator>Hong Yang</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03858-x</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-05; | doi:10.1038/d41586-023-03858-x</dc:source>
-            <dc:date>2023-12-05</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03858-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03858-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03870-1">
-            <title><![CDATA[Forecast warns when sea life will get tangled in nets — one year in advance]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03870-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 05 December 2023; <a href="https://www.nature.com/articles/d41586-023-03870-1">doi:10.1038/d41586-023-03870-1</a></p>Computational model uses sea-surface temperatures to predict when whales and turtles are likely to get stuck in fishing gear.]]></content:encoded>
-            <dc:title><![CDATA[Forecast warns when sea life will get tangled in nets — one year in advance]]></dc:title>
-            <dc:creator>Carissa Wong</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03870-1</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-05; | doi:10.1038/d41586-023-03870-1</dc:source>
-            <dc:date>2023-12-05</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03870-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03870-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03856-z">
-            <title><![CDATA[Broaden scope of review boards to boost public trust]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03856-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 05 December 2023; <a href="https://www.nature.com/articles/d41586-023-03856-z">doi:10.1038/d41586-023-03856-z</a></p>Broaden scope of review boards to boost public trust]]></content:encoded>
-            <dc:title><![CDATA[Broaden scope of review boards to boost public trust]]></dc:title>
-            <dc:creator>Daniel Wyzynski</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03856-z</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-05; | doi:10.1038/d41586-023-03856-z</dc:source>
-            <dc:date>2023-12-05</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03856-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03856-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-02833-w">
-            <title><![CDATA[Brain implants help people to recover after severe head injury]]></title>
-            <link>https://www.nature.com/articles/d41586-023-02833-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 05 December 2023; <a href="https://www.nature.com/articles/d41586-023-02833-w">doi:10.1038/d41586-023-02833-w</a></p>Electrodes placed inside the brains of five people with traumatic injuries improved recipients’ performance in attention and memory tests.]]></content:encoded>
-            <dc:title><![CDATA[Brain implants help people to recover after severe head injury]]></dc:title>
-            <dc:creator>Miryam Naddaf</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-02833-w</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-05; | doi:10.1038/d41586-023-02833-w</dc:source>
-            <dc:date>2023-12-05</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-02833-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-02833-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03779-9">
-            <title><![CDATA[From the archive: Uri Geller’s tricks, and willows to the rescue]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03779-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 05 December 2023; <a href="https://www.nature.com/articles/d41586-023-03779-9">doi:10.1038/d41586-023-03779-9</a></p>Snippets from Nature’s past.]]></content:encoded>
-            <dc:title><![CDATA[From the archive: Uri Geller’s tricks, and willows to the rescue]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-03779-9</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-05; | doi:10.1038/d41586-023-03779-9</dc:source>
-            <dc:date>2023-12-05</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03779-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03779-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03857-y">
-            <title><![CDATA[A system-transitions report for the next IPCC assessment cycle]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03857-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 05 December 2023; <a href="https://www.nature.com/articles/d41586-023-03857-y">doi:10.1038/d41586-023-03857-y</a></p>A system-transitions report for the next IPCC assessment cycle]]></content:encoded>
-            <dc:title><![CDATA[A system-transitions report for the next IPCC assessment cycle]]></dc:title>
-            <dc:creator>Carl-Friedrich Schleussner</dc:creator><dc:creator>Christopher Trisos</dc:creator><dc:creator>Aditi Mukherji</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03857-y</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-05; | doi:10.1038/d41586-023-03857-y</dc:source>
-            <dc:date>2023-12-05</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03857-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03857-y</prism:url>
         </item>
     
 </rdf:RDF>
