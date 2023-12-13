@@ -18,6 +18,10 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03787-9"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03861-2"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06937-1"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06935-3"/>
@@ -51,6 +55,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03968-6"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03978-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04014-1"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03863-0"/>
                 
@@ -162,12 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06806-x"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06797-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06802-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06816-9"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,36 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03787-9">
+            <title><![CDATA[Modified messenger-RNA components alter the encoded protein]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03787-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 13 December 2023; <a href="https://www.nature.com/articles/d41586-023-03787-9">doi:10.1038/d41586-023-03787-9</a></p>Modified components of messenger RNA can cause the protein-production machinery to stall during the process of translation. This might change the protein being made, a finding with implications for vaccines or therapies.]]></content:encoded>
+            <dc:title><![CDATA[Modified messenger-RNA components alter the encoded protein]]></dc:title>
+            <dc:creator>Nicholas J. Tursi</dc:creator><dc:creator>David B. Weiner</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03787-9</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-13; | doi:10.1038/d41586-023-03787-9</dc:source>
+            <dc:date>2023-12-13</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03787-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03787-9</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03861-2">
+            <title><![CDATA[Research in Chornobyl zone restarts amid ravages of war]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03861-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 13 December 2023; <a href="https://www.nature.com/articles/d41586-023-03861-2">doi:10.1038/d41586-023-03861-2</a></p>The area surrounding the nuclear reactor was a science hotspot — until it was on the front line of the Ukraine war.]]></content:encoded>
+            <dc:title><![CDATA[Research in Chornobyl zone restarts amid ravages of war]]></dc:title>
+            <dc:creator>Matthew Ponsford</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03861-2</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-13; | doi:10.1038/d41586-023-03861-2</dc:source>
+            <dc:date>2023-12-13</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03861-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03861-2</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06937-1">
             <title><![CDATA[Prevention of respiratory virus transmission by resident memory CD8<sup>+</sup> T cells]]></title>
@@ -430,6 +460,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03978-4</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03978-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-04014-1">
+            <title><![CDATA[AI &amp; robotics briefing: How ill-informed AI use is fuelling a reproducibility crisis]]></title>
+            <link>https://www.nature.com/articles/d41586-023-04014-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 12 December 2023; <a href="https://www.nature.com/articles/d41586-023-04014-1">doi:10.1038/d41586-023-04014-1</a></p>The naive use of AI is driving a deluge of unreliable, useless or wrong research. Plus, behind the hype around Google’s new AI system, Gemini, and a robot chemist sparks row with claim it created new materials.]]></content:encoded>
+            <dc:title><![CDATA[AI &amp; robotics briefing: How ill-informed AI use is fuelling a reproducibility crisis]]></dc:title>
+            <dc:creator>Katrina Krämer</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-04014-1</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-12; | doi:10.1038/d41586-023-04014-1</dc:source>
+            <dc:date>2023-12-12</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-04014-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-04014-1</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03863-0">
@@ -1255,51 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/s41586-023-06806-x</prism:doi>
             <prism:url>https://www.nature.com/articles/s41586-023-06806-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06797-9">
-            <title><![CDATA[An IL-4 signalling axis in bone marrow drives pro-tumorigenic myelopoiesis]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06797-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 06 December 2023; <a href="https://www.nature.com/articles/s41586-023-06797-9">doi:10.1038/s41586-023-06797-9</a></p>Single-cell transcriptomics studies on human and mouse non-small cell lung cancer and conditional knockout mouse models show that IL-4 from bone marrow basophils drives the development of granulocyte-monocyte progenitors to myeloid cells that suppress antitumour immunity.]]></content:encoded>
-            <dc:title><![CDATA[An IL-4 signalling axis in bone marrow drives pro-tumorigenic myelopoiesis]]></dc:title>
-            <dc:creator>Nelson M. LaMarche</dc:creator><dc:creator>Samarth Hegde</dc:creator><dc:creator>Matthew D. Park</dc:creator><dc:creator>Barbara B. Maier</dc:creator><dc:creator>Leanna Troncoso</dc:creator><dc:creator>Jessica Le Berichel</dc:creator><dc:creator>Pauline Hamon</dc:creator><dc:creator>Meriem Belabed</dc:creator><dc:creator>Raphaël Mattiuz</dc:creator><dc:creator>Clotilde Hennequin</dc:creator><dc:creator>Theodore Chin</dc:creator><dc:creator>Amanda M. Reid</dc:creator><dc:creator>Iván Reyes-Torres</dc:creator><dc:creator>Erika Nemeth</dc:creator><dc:creator>Ruiyuan Zhang</dc:creator><dc:creator>Oakley C. Olson</dc:creator><dc:creator>Deborah B. Doroshow</dc:creator><dc:creator>Nicholas C. Rohs</dc:creator><dc:creator>Jorge E. Gomez</dc:creator><dc:creator>Rajwanth Veluswamy</dc:creator><dc:creator>Nicole Hall</dc:creator><dc:creator>Nicholas Venturini</dc:creator><dc:creator>Florent Ginhoux</dc:creator><dc:creator>Zhaoyuan Liu</dc:creator><dc:creator>Mark Buckup</dc:creator><dc:creator>Igor Figueiredo</dc:creator><dc:creator>Vladimir Roudko</dc:creator><dc:creator>Kensuke Miyake</dc:creator><dc:creator>Hajime Karasuyama</dc:creator><dc:creator>Edgar Gonzalez-Kozlova</dc:creator><dc:creator>Sacha Gnjatic</dc:creator><dc:creator>Emmanuelle Passegué</dc:creator><dc:creator>Seunghee Kim-Schulze</dc:creator><dc:creator>Brian D. Brown</dc:creator><dc:creator>Fred R. Hirsch</dc:creator><dc:creator>Brian S. Kim</dc:creator><dc:creator>Thomas U. Marron</dc:creator><dc:creator>Miriam Merad</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06797-9</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-06; | doi:10.1038/s41586-023-06797-9</dc:source>
-            <dc:date>2023-12-06</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06797-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06797-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06802-1">
-            <title><![CDATA[Organ aging signatures in the plasma proteome track health and disease]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06802-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 06 December 2023; <a href="https://www.nature.com/articles/s41586-023-06802-1">doi:10.1038/s41586-023-06802-1</a></p>Blood plasma protein data was combined with machine learning models for a simple method to determine differences in organ-specific aging; the study provides a basis for the prediction of diseases and aging effects using plasma proteomics.]]></content:encoded>
-            <dc:title><![CDATA[Organ aging signatures in the plasma proteome track health and disease]]></dc:title>
-            <dc:creator>Hamilton Se-Hwee Oh</dc:creator><dc:creator>Jarod Rutledge</dc:creator><dc:creator>Daniel Nachun</dc:creator><dc:creator>Róbert Pálovics</dc:creator><dc:creator>Olamide Abiose</dc:creator><dc:creator>Patricia Moran-Losada</dc:creator><dc:creator>Divya Channappa</dc:creator><dc:creator>Deniz Yagmur Urey</dc:creator><dc:creator>Kate Kim</dc:creator><dc:creator>Yun Ju Sung</dc:creator><dc:creator>Lihua Wang</dc:creator><dc:creator>Jigyasha Timsina</dc:creator><dc:creator>Dan Western</dc:creator><dc:creator>Menghan Liu</dc:creator><dc:creator>Pat Kohlfeld</dc:creator><dc:creator>John Budde</dc:creator><dc:creator>Edward N. Wilson</dc:creator><dc:creator>Yann Guen</dc:creator><dc:creator>Taylor M. Maurer</dc:creator><dc:creator>Michael Haney</dc:creator><dc:creator>Andrew C. Yang</dc:creator><dc:creator>Zihuai He</dc:creator><dc:creator>Michael D. Greicius</dc:creator><dc:creator>Katrin I. Andreasson</dc:creator><dc:creator>Sanish Sathyan</dc:creator><dc:creator>Erica F. Weiss</dc:creator><dc:creator>Sofiya Milman</dc:creator><dc:creator>Nir Barzilai</dc:creator><dc:creator>Carlos Cruchaga</dc:creator><dc:creator>Anthony D. Wagner</dc:creator><dc:creator>Elizabeth Mormino</dc:creator><dc:creator>Benoit Lehallier</dc:creator><dc:creator>Victor W. Henderson</dc:creator><dc:creator>Frank M. Longo</dc:creator><dc:creator>Stephen B. Montgomery</dc:creator><dc:creator>Tony Wyss-Coray</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06802-1</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-06; | doi:10.1038/s41586-023-06802-1</dc:source>
-            <dc:date>2023-12-06</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06802-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06802-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06816-9">
-            <title><![CDATA[Dictionary of immune responses to cytokines at single-cell resolution]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06816-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 06 December 2023; <a href="https://www.nature.com/articles/s41586-023-06816-9">doi:10.1038/s41586-023-06816-9</a></p>An extensive global transcriptomics analysis of in vivo responses to 86 cytokines across more than 17 immune cell types reveals enormous complexity of cellular responses to cytokines, providing the basis of the Immune Dictionary and its companion software Immune Response Enrichment Analysis.]]></content:encoded>
-            <dc:title><![CDATA[Dictionary of immune responses to cytokines at single-cell resolution]]></dc:title>
-            <dc:creator>Ang Cui</dc:creator><dc:creator>Teddy Huang</dc:creator><dc:creator>Shuqiang Li</dc:creator><dc:creator>Aileen Ma</dc:creator><dc:creator>Jorge L. Pérez</dc:creator><dc:creator>Chris Sander</dc:creator><dc:creator>Derin B. Keskin</dc:creator><dc:creator>Catherine J. Wu</dc:creator><dc:creator>Ernest Fraenkel</dc:creator><dc:creator>Nir Hacohen</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06816-9</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-06; | doi:10.1038/s41586-023-06816-9</dc:source>
-            <dc:date>2023-12-06</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06816-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06816-9</prism:url>
         </item>
     
 </rdf:RDF>
