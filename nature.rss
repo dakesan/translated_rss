@@ -18,6 +18,8 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03953-z"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06951-3"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06933-5"/>
@@ -166,8 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04035-w"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03952-0"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,21 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03953-z">
+            <title><![CDATA[How a bullying scandal closed a historic astronomy department]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03953-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 15 December 2023; <a href="https://www.nature.com/articles/d41586-023-03953-z">doi:10.1038/d41586-023-03953-z</a></p>Lund University in Sweden reorganizes in the face of years of accusations against two professors.]]></content:encoded>
+            <dc:title><![CDATA[How a bullying scandal closed a historic astronomy department]]></dc:title>
+            <dc:creator>Alexandra Witze</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03953-z</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-15; | doi:10.1038/d41586-023-03953-z</dc:source>
+            <dc:date>2023-12-15</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03953-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03953-z</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06951-3">
             <title><![CDATA[Mucosal boosting enhances vaccine protection against SARS-CoV-2 in macaques]]></title>
@@ -1285,21 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-04035-w</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-04035-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03952-0">
-            <title><![CDATA[How our brains decode speech: special neurons process certain sounds]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03952-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 December 2023; <a href="https://www.nature.com/articles/d41586-023-03952-0">doi:10.1038/d41586-023-03952-0</a></p>Wire-thin probes inserted into the brains of living people show the parts played by individual neurons.]]></content:encoded>
-            <dc:title><![CDATA[How our brains decode speech: special neurons process certain sounds]]></dc:title>
-            <dc:creator>Saima Sidik</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03952-0</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-13; | doi:10.1038/d41586-023-03952-0</dc:source>
-            <dc:date>2023-12-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03952-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03952-0</prism:url>
         </item>
     
 </rdf:RDF>
