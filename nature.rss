@@ -18,6 +18,16 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06951-3"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06933-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06924-6"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06947-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04040-z"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03984-6"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03883-w"/>
@@ -28,6 +38,10 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03961-z"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03973-9"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04002-5"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04005-2"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03884-9"/>
@@ -37,6 +51,10 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03899-2"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03962-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04043-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03873-y"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06941-5"/>
                 
@@ -146,27 +164,9 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03914-6"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04035-w"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03952-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03787-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03921-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03940-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03893-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03936-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03785-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03905-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03924-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03929-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03912-8"/>
                 
             </rdf:Seq>
         </items>
@@ -176,6 +176,81 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-023-06951-3">
+            <title><![CDATA[Mucosal boosting enhances vaccine protection against SARS-CoV-2 in macaques]]></title>
+            <link>https://www.nature.com/articles/s41586-023-06951-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 14 December 2023; <a href="https://www.nature.com/articles/s41586-023-06951-3">doi:10.1038/s41586-023-06951-3</a></p>Mucosal boosting enhances vaccine protection against SARS-CoV-2 in macaques]]></content:encoded>
+            <dc:title><![CDATA[Mucosal boosting enhances vaccine protection against SARS-CoV-2 in macaques]]></dc:title>
+            <dc:creator>Katherine McMahan</dc:creator><dc:creator>Frank Wegmann</dc:creator><dc:creator>Malika Aid</dc:creator><dc:creator>Michaela Sciacca</dc:creator><dc:creator>Jinyan Liu</dc:creator><dc:creator>Nicole P. Hachmann</dc:creator><dc:creator>Jessica Miller</dc:creator><dc:creator>Catherine Jacob-Dolan</dc:creator><dc:creator>Olivia Powers</dc:creator><dc:creator>David Hope</dc:creator><dc:creator>Cindy Wu</dc:creator><dc:creator>Juliana Pereira</dc:creator><dc:creator>Tetyana Murdza</dc:creator><dc:creator>Camille R. Mazurek</dc:creator><dc:creator>Amelia Hoyt</dc:creator><dc:creator>Adrianus C. M. Boon</dc:creator><dc:creator>Meredith Davis-Gardner</dc:creator><dc:creator>Mehul S. Suthar</dc:creator><dc:creator>Amanda J. Martinot</dc:creator><dc:creator>Mona Boursiquot</dc:creator><dc:creator>Anthony Cook</dc:creator><dc:creator>Laurent Pessaint</dc:creator><dc:creator>Mark G. Lewis</dc:creator><dc:creator>Hanne Andersen</dc:creator><dc:creator>Jeroen Tolboom</dc:creator><dc:creator>Jan Serroyen</dc:creator><dc:creator>Laura Solforosi</dc:creator><dc:creator>Lea M. M. Costes</dc:creator><dc:creator>Roland C. Zahn</dc:creator><dc:creator>Dan H. Barouch</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-023-06951-3</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-14; | doi:10.1038/s41586-023-06951-3</dc:source>
+            <dc:date>2023-12-14</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-023-06951-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-023-06951-3</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-023-06933-5">
+            <title><![CDATA[Template and target site recognition by human LINE-1 in retrotransposition]]></title>
+            <link>https://www.nature.com/articles/s41586-023-06933-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 14 December 2023; <a href="https://www.nature.com/articles/s41586-023-06933-5">doi:10.1038/s41586-023-06933-5</a></p>Template and target site recognition by human LINE-1 in retrotransposition]]></content:encoded>
+            <dc:title><![CDATA[Template and target site recognition by human LINE-1 in retrotransposition]]></dc:title>
+            <dc:creator>Akanksha Thawani</dc:creator><dc:creator>Alfredo Jose Florez Ariza</dc:creator><dc:creator>Eva Nogales</dc:creator><dc:creator>Kathleen Collins</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-023-06933-5</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-14; | doi:10.1038/s41586-023-06933-5</dc:source>
+            <dc:date>2023-12-14</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-023-06933-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-023-06933-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-023-06924-6">
+            <title><![CDATA[Mathematical discoveries from program search with large language models]]></title>
+            <link>https://www.nature.com/articles/s41586-023-06924-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 14 December 2023; <a href="https://www.nature.com/articles/s41586-023-06924-6">doi:10.1038/s41586-023-06924-6</a></p>Mathematical discoveries from program search with large language models]]></content:encoded>
+            <dc:title><![CDATA[Mathematical discoveries from program search with large language models]]></dc:title>
+            <dc:creator>Bernardino Romera-Paredes</dc:creator><dc:creator>Mohammadamin Barekatain</dc:creator><dc:creator>Alexander Novikov</dc:creator><dc:creator>Matej Balog</dc:creator><dc:creator>M. Pawan Kumar</dc:creator><dc:creator>Emilien Dupont</dc:creator><dc:creator>Francisco J. R. Ruiz</dc:creator><dc:creator>Jordan S. Ellenberg</dc:creator><dc:creator>Pengming Wang</dc:creator><dc:creator>Omar Fawzi</dc:creator><dc:creator>Pushmeet Kohli</dc:creator><dc:creator>Alhussein Fawzi</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-023-06924-6</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-14; | doi:10.1038/s41586-023-06924-6</dc:source>
+            <dc:date>2023-12-14</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-023-06924-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-023-06924-6</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-023-06947-z">
+            <title><![CDATA[Structures, functions, and adaptations of the human LINE-1 ORF2 protein]]></title>
+            <link>https://www.nature.com/articles/s41586-023-06947-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 14 December 2023; <a href="https://www.nature.com/articles/s41586-023-06947-z">doi:10.1038/s41586-023-06947-z</a></p>Structures, functions, and adaptations of the human LINE-1 ORF2 protein]]></content:encoded>
+            <dc:title><![CDATA[Structures, functions, and adaptations of the human LINE-1 ORF2 protein]]></dc:title>
+            <dc:creator>Eric T. Baldwin</dc:creator><dc:creator>Trevor van Eeuwen</dc:creator><dc:creator>David Hoyos</dc:creator><dc:creator>Arthur Zalevsky</dc:creator><dc:creator>Egor P. Tchesnokov</dc:creator><dc:creator>Roberto Sánchez</dc:creator><dc:creator>Bryant D. Miller</dc:creator><dc:creator>Luciano H. Di Stefano</dc:creator><dc:creator>Francesc Xavier Ruiz</dc:creator><dc:creator>Matthew Hancock</dc:creator><dc:creator>Esin Işik</dc:creator><dc:creator>Carlos Mendez-Dorantes</dc:creator><dc:creator>Thomas Walpole</dc:creator><dc:creator>Charles Nichols</dc:creator><dc:creator>Paul Wan</dc:creator><dc:creator>Kirsi Riento</dc:creator><dc:creator>Rowan Halls-Kass</dc:creator><dc:creator>Martin Augustin</dc:creator><dc:creator>Alfred Lammens</dc:creator><dc:creator>Anja Jestel</dc:creator><dc:creator>Paula Upla</dc:creator><dc:creator>Kera Xibinaku</dc:creator><dc:creator>Samantha Congreve</dc:creator><dc:creator>Maximiliaan Hennink</dc:creator><dc:creator>Kacper B. Rogala</dc:creator><dc:creator>Anna M. Schneider</dc:creator><dc:creator>Jennifer E. Fairman</dc:creator><dc:creator>Shawn M. Christensen</dc:creator><dc:creator>Brian Desrosiers</dc:creator><dc:creator>Gregory S. Bisacchi</dc:creator><dc:creator>Oliver L. Saunders</dc:creator><dc:creator>Nafeeza Hafeez</dc:creator><dc:creator>Wenyan Miao</dc:creator><dc:creator>Rosana Kapeller</dc:creator><dc:creator>Dennis M. Zaller</dc:creator><dc:creator>Andrej Sali</dc:creator><dc:creator>Oliver Weichenrieder</dc:creator><dc:creator>Kathleen H. Burns</dc:creator><dc:creator>Matthias Götte</dc:creator><dc:creator>Michael P. Rout</dc:creator><dc:creator>Eddy Arnold</dc:creator><dc:creator>Benjamin D. Greenbaum</dc:creator><dc:creator>Donna L. Romero</dc:creator><dc:creator>John LaCava</dc:creator><dc:creator>Martin S. Taylor</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-023-06947-z</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-14; | doi:10.1038/s41586-023-06947-z</dc:source>
+            <dc:date>2023-12-14</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-023-06947-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-023-06947-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-04040-z">
+            <title><![CDATA[Inhaled vaccine prevents COVID in monkeys]]></title>
+            <link>https://www.nature.com/articles/d41586-023-04040-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 14 December 2023; <a href="https://www.nature.com/articles/d41586-023-04040-z">doi:10.1038/d41586-023-04040-z</a></p>New study suggests boosters delivered to the lungs could stop infection.]]></content:encoded>
+            <dc:title><![CDATA[Inhaled vaccine prevents COVID in monkeys]]></dc:title>
+            <dc:creator>Nick Petrić Howe</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-04040-z</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-14; | doi:10.1038/d41586-023-04040-z</dc:source>
+            <dc:date>2023-12-14</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-04040-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-04040-z</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03984-6">
             <title><![CDATA[Webcast: How water researchers are rethinking the global flood crisis]]></title>
@@ -252,6 +327,36 @@
             <prism:url>https://www.nature.com/articles/d41586-023-03961-z</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03973-9">
+            <title><![CDATA[Why hidden xenophobia is surging into the open]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03973-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 14 December 2023; <a href="https://www.nature.com/articles/d41586-023-03973-9">doi:10.1038/d41586-023-03973-9</a></p>Sociologist Mathew Creighton discusses how events in Europe in the past month are fed by people’s covert prejudices.]]></content:encoded>
+            <dc:title><![CDATA[Why hidden xenophobia is surging into the open]]></dc:title>
+            <dc:creator>Emma Marris</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03973-9</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-14; | doi:10.1038/d41586-023-03973-9</dc:source>
+            <dc:date>2023-12-14</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03973-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03973-9</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-04002-5">
+            <title><![CDATA[Scientists drilled through 500 metres of Greenland’s ice — here’s what they found at the bottom]]></title>
+            <link>https://www.nature.com/articles/d41586-023-04002-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 14 December 2023; <a href="https://www.nature.com/articles/d41586-023-04002-5">doi:10.1038/d41586-023-04002-5</a></p>Bedrock extracted from beneath the island’s frozen covering offers hints of the ice sheet’s past and future.]]></content:encoded>
+            <dc:title><![CDATA[Scientists drilled through 500 metres of Greenland’s ice — here’s what they found at the bottom]]></dc:title>
+            <dc:creator>Alexandra Witze</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-04002-5</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-14; | doi:10.1038/d41586-023-04002-5</dc:source>
+            <dc:date>2023-12-14</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-04002-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-04002-5</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-023-04005-2">
             <title><![CDATA[Korean lunar mission provides a view into the Moon’s dark spaces]]></title>
             <link>https://www.nature.com/articles/d41586-023-04005-2</link>
@@ -325,6 +430,36 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03962-y</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03962-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-04043-w">
+            <title><![CDATA[DeepMind AI outdoes human mathematicians on unsolved problem]]></title>
+            <link>https://www.nature.com/articles/d41586-023-04043-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 14 December 2023; <a href="https://www.nature.com/articles/d41586-023-04043-w">doi:10.1038/d41586-023-04043-w</a></p>Large language model improves on efforts to solve combinatorics problems inspired by the card game Set.]]></content:encoded>
+            <dc:title><![CDATA[DeepMind AI outdoes human mathematicians on unsolved problem]]></dc:title>
+            <dc:creator>Davide Castelvecchi</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-04043-w</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-14; | doi:10.1038/d41586-023-04043-w</dc:source>
+            <dc:date>2023-12-14</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-04043-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-04043-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03873-y">
+            <title><![CDATA[Grad students still waiting for pay boost one year after historic US research strike]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03873-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 14 December 2023; <a href="https://www.nature.com/articles/d41586-023-03873-y">doi:10.1038/d41586-023-03873-y</a></p>Some 2,000 out of 48,000 academic workers say they aren’t receiving wages agreed upon by the University of California, but a resolution is near.]]></content:encoded>
+            <dc:title><![CDATA[Grad students still waiting for pay boost one year after historic US research strike]]></dc:title>
+            <dc:creator>Mariana Lenharo</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03873-y</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-14; | doi:10.1038/d41586-023-03873-y</dc:source>
+            <dc:date>2023-12-14</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03873-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03873-y</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06941-5">
@@ -1137,6 +1272,21 @@
             <prism:url>https://www.nature.com/articles/d41586-023-03914-6</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-023-04035-w">
+            <title><![CDATA[Daily briefing: Record number of papers retracted in 2023]]></title>
+            <link>https://www.nature.com/articles/d41586-023-04035-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 13 December 2023; <a href="https://www.nature.com/articles/d41586-023-04035-w">doi:10.1038/d41586-023-04035-w</a></p>The number of retractions this year has passed 10,000 as publishers struggle to clean up a slew of sham papers and peer-review fraud. Plus, COP28 agreement names and shames fossil fuels and CAR-T therapy shows promise against autoimmune diseases.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Record number of papers retracted in 2023]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-04035-w</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-13; | doi:10.1038/d41586-023-04035-w</dc:source>
+            <dc:date>2023-12-13</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-04035-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-04035-w</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-023-03952-0">
             <title><![CDATA[How our brains decode speech: special neurons process certain sounds]]></title>
             <link>https://www.nature.com/articles/d41586-023-03952-0</link>
@@ -1150,156 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03952-0</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03952-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03787-9">
-            <title><![CDATA[Modified messenger-RNA components alter the encoded protein]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03787-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 December 2023; <a href="https://www.nature.com/articles/d41586-023-03787-9">doi:10.1038/d41586-023-03787-9</a></p>Modified components of messenger RNA can cause the protein-production machinery to stall during the process of translation. This might change the protein being made, a finding with implications for vaccines or therapies.]]></content:encoded>
-            <dc:title><![CDATA[Modified messenger-RNA components alter the encoded protein]]></dc:title>
-            <dc:creator>Nicholas J. Tursi</dc:creator><dc:creator>David B. Weiner</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03787-9</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-13; | doi:10.1038/d41586-023-03787-9</dc:source>
-            <dc:date>2023-12-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03787-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03787-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03921-7">
-            <title><![CDATA[Amazon protector: the Brazilian politician who turned the tide on deforestation]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03921-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 December 2023; <a href="https://www.nature.com/articles/d41586-023-03921-7">doi:10.1038/d41586-023-03921-7</a></p>As Brazil’s environment minister, Marina Silva helped to rein in rampant deforestation and rebuild institutions that were weakened by the previous government.]]></content:encoded>
-            <dc:title><![CDATA[Amazon protector: the Brazilian politician who turned the tide on deforestation]]></dc:title>
-            <dc:creator>Meghie Rodrigues</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03921-7</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-13; | doi:10.1038/d41586-023-03921-7</dc:source>
-            <dc:date>2023-12-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03921-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03921-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03940-4">
-            <title><![CDATA[Nausea and vomiting in pregnancy linked to hormone from fetus]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03940-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 December 2023; <a href="https://www.nature.com/articles/d41586-023-03940-4">doi:10.1038/d41586-023-03940-4</a></p>Maternal sensitivity to a hormone produced by the fetus might underlie the risk of severe nausea and vomiting in human pregnancy — a finding that could open up strategies for the treatment of this debilitating condition.]]></content:encoded>
-            <dc:title><![CDATA[Nausea and vomiting in pregnancy linked to hormone from fetus]]></dc:title>
-            <dc:creator>Alice E. Hughes</dc:creator><dc:creator>Rachel M. Freathy</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03940-4</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-13; | doi:10.1038/d41586-023-03940-4</dc:source>
-            <dc:date>2023-12-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03940-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03940-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03893-8">
-            <title><![CDATA[Curiosity shop]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03893-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 December 2023; <a href="https://www.nature.com/articles/d41586-023-03893-8">doi:10.1038/d41586-023-03893-8</a></p>A helping hand.]]></content:encoded>
-            <dc:title><![CDATA[Curiosity shop]]></dc:title>
-            <dc:creator>Robert Dawson</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03893-8</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-13; | doi:10.1038/d41586-023-03893-8</dc:source>
-            <dc:date>2023-12-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03893-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03893-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03936-0">
-            <title><![CDATA[Neurons responsible for poor sleep and stress found in mice]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03936-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 December 2023; <a href="https://www.nature.com/articles/d41586-023-03936-0">doi:10.1038/d41586-023-03936-0</a></p>Frightened mice sleep poorly. Researchers have identified at least some of the neurons responsible.]]></content:encoded>
-            <dc:title><![CDATA[Neurons responsible for poor sleep and stress found in mice]]></dc:title>
-            <dc:creator>Jude Coleman</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03936-0</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-13; | doi:10.1038/d41586-023-03936-0</dc:source>
-            <dc:date>2023-12-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03936-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03936-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03785-x">
-            <title><![CDATA[Indigenous diversity in Australia’s DNA tapestry unlocked for genetic equity]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03785-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 December 2023; <a href="https://www.nature.com/articles/d41586-023-03785-x">doi:10.1038/d41586-023-03785-x</a></p>Diverse genomic sequences might boost equity in areas such as health care. Genomic data from Indigenous Australians, shared through a community-consultation framework, aids efforts to boost genetic representation.]]></content:encoded>
-            <dc:title><![CDATA[Indigenous diversity in Australia’s DNA tapestry unlocked for genetic equity]]></dc:title>
-            <dc:creator>Katrina G. Claw</dc:creator><dc:creator>Amber Nashoba</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03785-x</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-13; | doi:10.1038/d41586-023-03785-x</dc:source>
-            <dc:date>2023-12-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03785-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03785-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03905-7">
-            <title><![CDATA[How to level the global publishing playing field]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03905-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 December 2023; <a href="https://www.nature.com/articles/d41586-023-03905-7">doi:10.1038/d41586-023-03905-7</a></p>Alternative strategies could shift a system that is stacked against the global south.]]></content:encoded>
-            <dc:title><![CDATA[How to level the global publishing playing field]]></dc:title>
-            <dc:creator>Tom Kariuki</dc:creator><dc:creator>Elizabeth Marincola</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03905-7</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-13; | doi:10.1038/d41586-023-03905-7</dc:source>
-            <dc:date>2023-12-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03905-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03905-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03924-4">
-            <title><![CDATA[How Earth’s first global heat officer is tackling climate change]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03924-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 December 2023; <a href="https://www.nature.com/articles/d41586-023-03924-4">doi:10.1038/d41586-023-03924-4</a></p>Eleni Myrivili is helping the world to prepare for the threats of climate change as the United Nations chief heat officer.]]></content:encoded>
-            <dc:title><![CDATA[How Earth’s first global heat officer is tackling climate change]]></dc:title>
-            <dc:creator>Alexandra Witze</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03924-4</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-13; | doi:10.1038/d41586-023-03924-4</dc:source>
-            <dc:date>2023-12-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03924-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03924-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03929-z">
-            <title><![CDATA[The cancer physician who helped to deliver a life-extending treatment]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03929-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 December 2023; <a href="https://www.nature.com/articles/d41586-023-03929-z">doi:10.1038/d41586-023-03929-z</a></p>Thomas Powles’s breakthrough success in treating a deadly bladder cancer could herald the next wave of powerful immunotherapeutic drugs.]]></content:encoded>
-            <dc:title><![CDATA[The cancer physician who helped to deliver a life-extending treatment]]></dc:title>
-            <dc:creator>Carissa Wong</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03929-z</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-13; | doi:10.1038/d41586-023-03929-z</dc:source>
-            <dc:date>2023-12-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03929-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03929-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03912-8">
-            <title><![CDATA[The fight against antimicrobial resistance]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03912-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 December 2023; <a href="https://www.nature.com/articles/d41586-023-03912-8">doi:10.1038/d41586-023-03912-8</a></p>India is developing local solutions to a global problem that was exacerbated by the COVID-19 pandemic.]]></content:encoded>
-            <dc:title><![CDATA[The fight against antimicrobial resistance]]></dc:title>
-            <dc:creator>Bianca Nogrady</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03912-8</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-13; | doi:10.1038/d41586-023-03912-8</dc:source>
-            <dc:date>2023-12-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03912-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03912-8</prism:url>
         </item>
     
 </rdf:RDF>
