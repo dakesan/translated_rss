@@ -18,6 +18,16 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06944-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06943-3"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06822-x"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04026-x"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03793-x"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04054-7"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03979-3"/>
@@ -45,6 +55,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03984-6"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03883-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04049-4"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03876-9"/>
                 
@@ -156,18 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03904-8"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04025-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03923-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03782-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03911-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03930-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03902-w"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,81 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-023-06944-2">
+            <title><![CDATA[Editorial Expression of Concern: The netrin receptor UNC5B mediates guidance events controlling morphogenesis of the vascular system]]></title>
+            <link>https://www.nature.com/articles/s41586-023-06944-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 18 December 2023; <a href="https://www.nature.com/articles/s41586-023-06944-2">doi:10.1038/s41586-023-06944-2</a></p>Editorial Expression of Concern: The netrin receptor UNC5B mediates guidance events controlling morphogenesis of the vascular system]]></content:encoded>
+            <dc:title><![CDATA[Editorial Expression of Concern: The netrin receptor UNC5B mediates guidance events controlling morphogenesis of the vascular system]]></dc:title>
+            <dc:creator>Xiaowei Lu</dc:creator><dc:creator>Ferdinand le Noble</dc:creator><dc:creator>Li Yuan</dc:creator><dc:creator>Quingjan Jiang</dc:creator><dc:creator>Benjamin de Lafarge</dc:creator><dc:creator>Daisuke Sugiyama</dc:creator><dc:creator>Christiane Bréant</dc:creator><dc:creator>Filip Claes</dc:creator><dc:creator>Frederik De Smet</dc:creator><dc:creator>Jean- Léon Thomas</dc:creator><dc:creator>Monica Autiero</dc:creator><dc:creator>Peter Carmeliet</dc:creator><dc:creator>Marc Tessier-Lavigne</dc:creator><dc:creator>Anne Eichmann</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-023-06944-2</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-18; | doi:10.1038/s41586-023-06944-2</dc:source>
+            <dc:date>2023-12-18</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-023-06944-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-023-06944-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-023-06943-3">
+            <title><![CDATA[Retraction Note: APP binds DR6 to trigger axon pruning and neuron death via distinct caspases]]></title>
+            <link>https://www.nature.com/articles/s41586-023-06943-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 18 December 2023; <a href="https://www.nature.com/articles/s41586-023-06943-3">doi:10.1038/s41586-023-06943-3</a></p>Retraction Note: APP binds DR6 to trigger axon pruning and neuron death via distinct caspases]]></content:encoded>
+            <dc:title><![CDATA[Retraction Note: APP binds DR6 to trigger axon pruning and neuron death via distinct caspases]]></dc:title>
+            <dc:creator>Anatoly Nikolaev</dc:creator><dc:creator>Todd McLaughlin</dc:creator><dc:creator>Dennis D. M. O’Leary</dc:creator><dc:creator>Marc Tessier-Lavigne</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-023-06943-3</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-18; | doi:10.1038/s41586-023-06943-3</dc:source>
+            <dc:date>2023-12-18</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-023-06943-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-023-06943-3</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-023-06822-x">
+            <title><![CDATA[A light-driven enzymatic enantioselective radical acylation]]></title>
+            <link>https://www.nature.com/articles/s41586-023-06822-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 18 December 2023; <a href="https://www.nature.com/articles/s41586-023-06822-x">doi:10.1038/s41586-023-06822-x</a></p>Enzyme-bound ketyl radicals derived from thiamine diphosphate are selectively generated through single-electron oxidation by a photoexcited organic dye and shown to lead to enantioselective radical acylation reactions.]]></content:encoded>
+            <dc:title><![CDATA[A light-driven enzymatic enantioselective radical acylation]]></dc:title>
+            <dc:creator>Yuanyuan Xu</dc:creator><dc:creator>Hongwei Chen</dc:creator><dc:creator>Lu Yu</dc:creator><dc:creator>Xichao Peng</dc:creator><dc:creator>Jiawei Zhang</dc:creator><dc:creator>Zhongqiu Xing</dc:creator><dc:creator>Yuyan Bao</dc:creator><dc:creator>Aokun Liu</dc:creator><dc:creator>Yue Zhao</dc:creator><dc:creator>Changlin Tian</dc:creator><dc:creator>Yong Liang</dc:creator><dc:creator>Xiaoqiang Huang</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-023-06822-x</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-18; | doi:10.1038/s41586-023-06822-x</dc:source>
+            <dc:date>2023-12-18</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-023-06822-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-023-06822-x</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-04026-x">
+            <title><![CDATA[Prebunking propaganda, and how to live well: 2023’s best of Books in brief]]></title>
+            <link>https://www.nature.com/articles/d41586-023-04026-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 18 December 2023; <a href="https://www.nature.com/articles/d41586-023-04026-x">doi:10.1038/d41586-023-04026-x</a></p>Connoisseur Andrew Robinson gives ten of his favourite tomes from the year a more expansive review.]]></content:encoded>
+            <dc:title><![CDATA[Prebunking propaganda, and how to live well: 2023’s best of Books in brief]]></dc:title>
+            <dc:creator>Andrew Robinson</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-04026-x</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-18; | doi:10.1038/d41586-023-04026-x</dc:source>
+            <dc:date>2023-12-18</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-04026-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-04026-x</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03793-x">
+            <title><![CDATA[Plastic pollution, viral evolution and drowned coasts: wrapping up a year of remarkable science]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03793-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 18 December 2023; <a href="https://www.nature.com/articles/d41586-023-03793-x">doi:10.1038/d41586-023-03793-x</a></p>Highlights from News & Views published in late 2023.]]></content:encoded>
+            <dc:title><![CDATA[Plastic pollution, viral evolution and drowned coasts: wrapping up a year of remarkable science]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-03793-x</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-18; | doi:10.1038/d41586-023-03793-x</dc:source>
+            <dc:date>2023-12-18</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03793-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03793-x</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-04054-7">
             <title><![CDATA[How to parent AI, and climate change vs democracy: Books in brief]]></title>
@@ -385,6 +460,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03883-w</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03883-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-04049-4">
+            <title><![CDATA[Daily briefing: Hormone released by fetuses might cause debilitating pregnancy sickness]]></title>
+            <link>https://www.nature.com/articles/d41586-023-04049-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 14 December 2023; <a href="https://www.nature.com/articles/d41586-023-04049-4">doi:10.1038/d41586-023-04049-4</a></p>Sensitivity to the hormone GDF15 might be the reason that some people experience hyperemesis gravidarum. Plus, why stressed mice sleep poorly and Nature’s pick of ten people who changed science in 2023.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Hormone released by fetuses might cause debilitating pregnancy sickness]]></dc:title>
+            <dc:creator>Katrina Krämer</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-04049-4</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-14; | doi:10.1038/d41586-023-04049-4</dc:source>
+            <dc:date>2023-12-14</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-04049-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-04049-4</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03876-9">
@@ -1210,96 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03904-8</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03904-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-04025-y">
-            <title><![CDATA[COP28 climate summit signals the end of fossil fuels — but is it enough?]]></title>
-            <link>https://www.nature.com/articles/d41586-023-04025-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 December 2023; <a href="https://www.nature.com/articles/d41586-023-04025-y">doi:10.1038/d41586-023-04025-y</a></p>Nations make historic pledge to 'transition' energy systems away from fossil fuels — some scientists are disappointed by the softened wording.]]></content:encoded>
-            <dc:title><![CDATA[COP28 climate summit signals the end of fossil fuels — but is it enough?]]></dc:title>
-            <dc:creator>Katharine  Sanderson</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-04025-y</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-13; | doi:10.1038/d41586-023-04025-y</dc:source>
-            <dc:date>2023-12-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-04025-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-04025-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03923-5">
-            <title><![CDATA[Nuclear-fusion breakthrough: this physicist helped to achieve the first-ever energy gain]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03923-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 December 2023; <a href="https://www.nature.com/articles/d41586-023-03923-5">doi:10.1038/d41586-023-03923-5</a></p>Annie Kritcher and her team at the US National Ignition Facility designed fusion experiments that generated more energy than they consumed.]]></content:encoded>
-            <dc:title><![CDATA[Nuclear-fusion breakthrough: this physicist helped to achieve the first-ever energy gain]]></dc:title>
-            <dc:creator>Jeff Tollefson</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03923-5</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-13; | doi:10.1038/d41586-023-03923-5</dc:source>
-            <dc:date>2023-12-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03923-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03923-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03782-0">
-            <title><![CDATA[The laser trick that could put an ultraprecise optical clock on a chip]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03782-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 December 2023; <a href="https://www.nature.com/articles/d41586-023-03782-0">doi:10.1038/d41586-023-03782-0</a></p>Researchers have made a key breakthrough in how light is used to control time signals from the world’s most precise clocks. The technique marks a crucial step in bringing this technology into everyday life.]]></content:encoded>
-            <dc:title><![CDATA[The laser trick that could put an ultraprecise optical clock on a chip]]></dc:title>
-            <dc:creator>Mengxi Tan</dc:creator><dc:creator>David J. Moss</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03782-0</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-13; | doi:10.1038/d41586-023-03782-0</dc:source>
-            <dc:date>2023-12-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03782-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03782-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03911-9">
-            <title><![CDATA[I predict solar storms]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03911-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 December 2023; <a href="https://www.nature.com/articles/d41586-023-03911-9">doi:10.1038/d41586-023-03911-9</a></p>Yoshita Baruah says understanding space weather has immediate practical applications for our technology-reliant world.]]></content:encoded>
-            <dc:title><![CDATA[I predict solar storms]]></dc:title>
-            <dc:creator>Sahana Ghosh</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03911-9</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-13; | doi:10.1038/d41586-023-03911-9</dc:source>
-            <dc:date>2023-12-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03911-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03911-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03930-6">
-            <title><![CDATA[ChatGPT and science: the AI system was a force in 2023 — for good and bad]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03930-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 December 2023; <a href="https://www.nature.com/articles/d41586-023-03930-6">doi:10.1038/d41586-023-03930-6</a></p>The poster child for generative AI software is a startling human mimic. It represents a potential new era in research, but brings risks.]]></content:encoded>
-            <dc:title><![CDATA[ChatGPT and science: the AI system was a force in 2023 — for good and bad]]></dc:title>
-            <dc:creator>Richard Van Noorden</dc:creator><dc:creator>Richard Webb</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03930-6</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-13; | doi:10.1038/d41586-023-03930-6</dc:source>
-            <dc:date>2023-12-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03930-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03930-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03902-w">
-            <title><![CDATA[Four global-south researchers making cross-border collaborations count]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03902-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 December 2023; <a href="https://www.nature.com/articles/d41586-023-03902-w">doi:10.1038/d41586-023-03902-w</a></p>Researchers in the developing world navigate many roadblocks when partnering with the global north, but the benefits can be wide-reaching.]]></content:encoded>
-            <dc:title><![CDATA[Four global-south researchers making cross-border collaborations count]]></dc:title>
-            <dc:creator>Virginia Gewin</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03902-w</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-13; | doi:10.1038/d41586-023-03902-w</dc:source>
-            <dc:date>2023-12-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03902-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03902-w</prism:url>
         </item>
     
 </rdf:RDF>
