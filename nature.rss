@@ -18,6 +18,12 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04032-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03733-9"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04029-8"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03789-7"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04060-9"/>
@@ -162,12 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06914-8"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06921-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03919-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04016-z"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,51 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-04032-z">
+            <title><![CDATA[Vaccines reduce the risk of long COVID in children]]></title>
+            <link>https://www.nature.com/articles/d41586-023-04032-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 20 December 2023; <a href="https://www.nature.com/articles/d41586-023-04032-z">doi:10.1038/d41586-023-04032-z</a></p>A study shows that US children who received mRNA COVID-19 vaccines have some protection against developing long-lasting symptoms of the coronavirus SARS-CoV-2.]]></content:encoded>
+            <dc:title><![CDATA[Vaccines reduce the risk of long COVID in children]]></dc:title>
+            <dc:creator>Shannon Hall</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-04032-z</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-20; | doi:10.1038/d41586-023-04032-z</dc:source>
+            <dc:date>2023-12-20</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-04032-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-04032-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03733-9">
+            <title><![CDATA[Scientists question cancer tests that use microscopic nematode worms]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03733-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 20 December 2023; <a href="https://www.nature.com/articles/d41586-023-03733-9">doi:10.1038/d41586-023-03733-9</a></p>Some doctors say a troublingly high number of cancer-free people have tested positive on the tests sold by a Japanese start-up.]]></content:encoded>
+            <dc:title><![CDATA[Scientists question cancer tests that use microscopic nematode worms]]></dc:title>
+            <dc:creator>David McNeill</dc:creator><dc:creator>Momoko Suda</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03733-9</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-20; | doi:10.1038/d41586-023-03733-9</dc:source>
+            <dc:date>2023-12-20</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03733-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03733-9</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-04029-8">
+            <title><![CDATA[To build a better world, stop chasing economic growth]]></title>
+            <link>https://www.nature.com/articles/d41586-023-04029-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 20 December 2023; <a href="https://www.nature.com/articles/d41586-023-04029-8">doi:10.1038/d41586-023-04029-8</a></p>The year 2024 must be a turning point for shifting policies away from gross domestic product and towards sustainable well-being. Here’s why and how.]]></content:encoded>
+            <dc:title><![CDATA[To build a better world, stop chasing economic growth]]></dc:title>
+            <dc:creator>Robert Costanza</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-04029-8</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-20; | doi:10.1038/d41586-023-04029-8</dc:source>
+            <dc:date>2023-12-20</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-04029-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-04029-8</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03789-7">
             <title><![CDATA[From the archive: scientific spelling, and ancient Egyptian art]]></title>
@@ -1255,51 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/s41586-023-06914-8</prism:doi>
             <prism:url>https://www.nature.com/articles/s41586-023-06914-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06921-9">
-            <title><![CDATA[GDF15 linked to maternal risk of nausea and vomiting during pregnancy]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06921-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 December 2023; <a href="https://www.nature.com/articles/s41586-023-06921-9">doi:10.1038/s41586-023-06921-9</a></p>GDF15 linked to maternal risk of nausea and vomiting during pregnancy]]></content:encoded>
-            <dc:title><![CDATA[GDF15 linked to maternal risk of nausea and vomiting during pregnancy]]></dc:title>
-            <dc:creator>M. Fejzo</dc:creator><dc:creator>N. Rocha</dc:creator><dc:creator>I. Cimino</dc:creator><dc:creator>S. M. Lockhart</dc:creator><dc:creator>C. J. Petry</dc:creator><dc:creator>R. G. Kay</dc:creator><dc:creator>K. Burling</dc:creator><dc:creator>P. Barker</dc:creator><dc:creator>A. L. George</dc:creator><dc:creator>N. Yasara</dc:creator><dc:creator>A. Premawardhena</dc:creator><dc:creator>S. Gong</dc:creator><dc:creator>E. Cook</dc:creator><dc:creator>D. Rimmington</dc:creator><dc:creator>K. Rainbow</dc:creator><dc:creator>D. J. Withers</dc:creator><dc:creator>V. Cortessis</dc:creator><dc:creator>P. M. Mullin</dc:creator><dc:creator>K. W. MacGibbon</dc:creator><dc:creator>E. Jin</dc:creator><dc:creator>A. Kam</dc:creator><dc:creator>A. Campbell</dc:creator><dc:creator>O. Polasek</dc:creator><dc:creator>G. Tzoneva</dc:creator><dc:creator>F. M. Gribble</dc:creator><dc:creator>G. S. H. Yeo</dc:creator><dc:creator>B. Y. H. Lam</dc:creator><dc:creator>V. Saudek</dc:creator><dc:creator>I. A. Hughes</dc:creator><dc:creator>K. K. Ong</dc:creator><dc:creator>J. R. B. Perry</dc:creator><dc:creator>A. Sutton Cole</dc:creator><dc:creator>M. Baumgarten</dc:creator><dc:creator>P. Welsh</dc:creator><dc:creator>N. Sattar</dc:creator><dc:creator>G. C. S. Smith</dc:creator><dc:creator>D. S. Charnock-Jones</dc:creator><dc:creator>A. P. Coll</dc:creator><dc:creator>C. L. Meek</dc:creator><dc:creator>S. Mettananda</dc:creator><dc:creator>C. Hayward</dc:creator><dc:creator>N. Mancuso</dc:creator><dc:creator>S. O’Rahilly</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06921-9</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-13; | doi:10.1038/s41586-023-06921-9</dc:source>
-            <dc:date>2023-12-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06921-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06921-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03919-1">
-            <title><![CDATA[<i>Nature</i>’s 10: ten people (and one non-human) who helped shape science in 2023]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03919-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 December 2023; <a href="https://www.nature.com/articles/d41586-023-03919-1">doi:10.1038/d41586-023-03919-1</a></p>An AI pioneer, an architect of India’s Moon mission and the world’s first global heat officer are some of the people behind this year’s big stories.]]></content:encoded>
-            <dc:title><![CDATA[<i>Nature</i>’s 10: ten people (and one non-human) who helped shape science in 2023]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-03919-1</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-13; | doi:10.1038/d41586-023-03919-1</dc:source>
-            <dc:date>2023-12-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03919-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03919-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-04016-z">
-            <title><![CDATA[Cat parasite <i>Toxoplasma</i> tricked to grow in a dish]]></title>
-            <link>https://www.nature.com/articles/d41586-023-04016-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 December 2023; <a href="https://www.nature.com/articles/d41586-023-04016-z">doi:10.1038/d41586-023-04016-z</a></p>Cat-only life-cycle stage cultured in vitro, and the mysterious giant proteins that might turn bacteria into killers.]]></content:encoded>
-            <dc:title><![CDATA[Cat parasite <i>Toxoplasma</i> tricked to grow in a dish]]></dc:title>
-            <dc:creator>Nick Petrić Howe</dc:creator><dc:creator>Shamini Bundell</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-04016-z</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-13; | doi:10.1038/d41586-023-04016-z</dc:source>
-            <dc:date>2023-12-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-04016-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-04016-z</prism:url>
         </item>
     
 </rdf:RDF>
