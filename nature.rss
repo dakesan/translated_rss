@@ -18,6 +18,8 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03789-7"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04060-9"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04056-5"/>
@@ -34,9 +36,25 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04058-3"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04065-4"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03796-8"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04023-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04070-7"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04028-9"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04021-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04080-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04071-6"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04024-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04003-4"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04027-w"/>
                 
@@ -77,6 +95,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04026-x"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04069-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04074-3"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03972-w"/>
                 
@@ -148,26 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04016-z"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03811-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03903-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03901-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04008-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03906-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06842-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06819-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06838-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06821-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06661-w"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,21 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03789-7">
+            <title><![CDATA[From the archive: scientific spelling, and ancient Egyptian art]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03789-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 19 December 2023; <a href="https://www.nature.com/articles/d41586-023-03789-7">doi:10.1038/d41586-023-03789-7</a></p>Snippets from Nature’s past.]]></content:encoded>
+            <dc:title><![CDATA[From the archive: scientific spelling, and ancient Egyptian art]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-03789-7</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-19; | doi:10.1038/d41586-023-03789-7</dc:source>
+            <dc:date>2023-12-19</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03789-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03789-7</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-04060-9">
             <title><![CDATA[Is Brazil ready for gender equality in science?]]></title>
@@ -297,6 +312,21 @@
             <prism:url>https://www.nature.com/articles/d41586-023-04058-3</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-023-04065-4">
+            <title><![CDATA[Humans might have driven 1,500 bird species to extinction — twice previous estimates]]></title>
+            <link>https://www.nature.com/articles/d41586-023-04065-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 19 December 2023; <a href="https://www.nature.com/articles/d41586-023-04065-4">doi:10.1038/d41586-023-04065-4</a></p>Humans are probably responsible for the extinction of 12% of bird species, many of which were never documented.]]></content:encoded>
+            <dc:title><![CDATA[Humans might have driven 1,500 bird species to extinction — twice previous estimates]]></dc:title>
+            <dc:creator>Gemma Conroy</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-04065-4</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-19; | doi:10.1038/d41586-023-04065-4</dc:source>
+            <dc:date>2023-12-19</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-04065-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-04065-4</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-023-03796-8">
             <title><![CDATA[Viruses wrap up bacterial defence systems]]></title>
             <link>https://www.nature.com/articles/d41586-023-03796-8</link>
@@ -312,6 +342,96 @@
             <prism:url>https://www.nature.com/articles/d41586-023-03796-8</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-023-04023-0">
+            <title><![CDATA[Black holes, love and poetry — an artistic exploration of intimacy and adventure]]></title>
+            <link>https://www.nature.com/articles/d41586-023-04023-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 19 December 2023; <a href="https://www.nature.com/articles/d41586-023-04023-0">doi:10.1038/d41586-023-04023-0</a></p>A book by physicist Kip Thorne and artist Lia Halloran explores the mysteries of space through poetry and paintings.]]></content:encoded>
+            <dc:title><![CDATA[Black holes, love and poetry — an artistic exploration of intimacy and adventure]]></dc:title>
+            <dc:creator>Ron Cowen</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-04023-0</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-19; | doi:10.1038/d41586-023-04023-0</dc:source>
+            <dc:date>2023-12-19</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-04023-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-04023-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-04070-7">
+            <title><![CDATA[Has your research influenced policy? Use this free tool to check]]></title>
+            <link>https://www.nature.com/articles/d41586-023-04070-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 19 December 2023; <a href="https://www.nature.com/articles/d41586-023-04070-7">doi:10.1038/d41586-023-04070-7</a></p>Sage Policy Profiles scans a database of 10 million documents to show researchers where their papers have been cited.]]></content:encoded>
+            <dc:title><![CDATA[Has your research influenced policy? Use this free tool to check]]></dc:title>
+            <dc:creator>Dalmeet Singh Chawla</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-04070-7</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-19; | doi:10.1038/d41586-023-04070-7</dc:source>
+            <dc:date>2023-12-19</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-04070-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-04070-7</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-04028-9">
+            <title><![CDATA[The postdoc experience is broken. Funders such as the NIH must help to reimagine it]]></title>
+            <link>https://www.nature.com/articles/d41586-023-04028-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 19 December 2023; <a href="https://www.nature.com/articles/d41586-023-04028-9">doi:10.1038/d41586-023-04028-9</a></p>Postdoctoral woes, especially in biomedical research, are symptomatic of a wider problem. Funding bodies have an opportunity to spearhead a cultural shift.]]></content:encoded>
+            <dc:title><![CDATA[The postdoc experience is broken. Funders such as the NIH must help to reimagine it]]></dc:title>
+            <dc:creator>Ubadah Sabbagh</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-04028-9</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-19; | doi:10.1038/d41586-023-04028-9</dc:source>
+            <dc:date>2023-12-19</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-04028-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-04028-9</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-04021-2">
+            <title><![CDATA[From Einstein to AI: how 100 years have shaped science]]></title>
+            <link>https://www.nature.com/articles/d41586-023-04021-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 19 December 2023; <a href="https://www.nature.com/articles/d41586-023-04021-2">doi:10.1038/d41586-023-04021-2</a></p>Looking back a century reveals how much the research landscape has changed — and how unclear the consequences of scientific innovation can be.]]></content:encoded>
+            <dc:title><![CDATA[From Einstein to AI: how 100 years have shaped science]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-04021-2</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-19; | doi:10.1038/d41586-023-04021-2</dc:source>
+            <dc:date>2023-12-19</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-04021-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-04021-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-04080-5">
+            <title><![CDATA[How <i>Dark Souls</i> and Darth Revan helped me to make sense of my professorship]]></title>
+            <link>https://www.nature.com/articles/d41586-023-04080-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 19 December 2023; <a href="https://www.nature.com/articles/d41586-023-04080-5">doi:10.1038/d41586-023-04080-5</a></p>John Tregoning compares academia to role-playing video games as a way to discuss how the choices we make can affect the paths we take.]]></content:encoded>
+            <dc:title><![CDATA[How <i>Dark Souls</i> and Darth Revan helped me to make sense of my professorship]]></dc:title>
+            <dc:creator>John Tregoning</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-04080-5</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-19; | doi:10.1038/d41586-023-04080-5</dc:source>
+            <dc:date>2023-12-19</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-04080-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-04080-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-04071-6">
+            <title><![CDATA[These scientists aren’t using ChatGPT — here’s why]]></title>
+            <link>https://www.nature.com/articles/d41586-023-04071-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 19 December 2023; <a href="https://www.nature.com/articles/d41586-023-04071-6">doi:10.1038/d41586-023-04071-6</a></p>Some researchers find AI chatbots helpful for writing, coding and gathering information. Others are choosing to avoid the craze.]]></content:encoded>
+            <dc:title><![CDATA[These scientists aren’t using ChatGPT — here’s why]]></dc:title>
+            <dc:creator>Carissa Wong</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-04071-6</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-19; | doi:10.1038/d41586-023-04071-6</dc:source>
+            <dc:date>2023-12-19</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-04071-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-04071-6</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-023-04024-z">
             <title><![CDATA[Does quantum theory imply the entire Universe is preordained?]]></title>
             <link>https://www.nature.com/articles/d41586-023-04024-z</link>
@@ -325,6 +445,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-04024-z</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-04024-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-04003-4">
+            <title><![CDATA[Inhaled COVID vaccines stop infection in its tracks in monkey trials]]></title>
+            <link>https://www.nature.com/articles/d41586-023-04003-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 19 December 2023; <a href="https://www.nature.com/articles/d41586-023-04003-4">doi:10.1038/d41586-023-04003-4</a></p>New results hint at how to perfect ‘mucosal’ vaccines, which are delivered up the nose or down the throat.]]></content:encoded>
+            <dc:title><![CDATA[Inhaled COVID vaccines stop infection in its tracks in monkey trials]]></dc:title>
+            <dc:creator>Ewen Callaway</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-04003-4</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-19; | doi:10.1038/d41586-023-04003-4</dc:source>
+            <dc:date>2023-12-19</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-04003-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-04003-4</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-04027-w">
@@ -625,6 +760,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-04069-0</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-04069-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-04074-3">
+            <title><![CDATA[Daily briefing: Repeated ignition signals nuclear-fusion breakthrough]]></title>
+            <link>https://www.nature.com/articles/d41586-023-04074-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 18 December 2023; <a href="https://www.nature.com/articles/d41586-023-04074-3">doi:10.1038/d41586-023-04074-3</a></p>An experimental fusion lab is sparking hope for a future power source. Plus, a bullying scandal has scuppered a storied astronomy department and Science names GLP-1 weightloss drugs as its breakthrough of the year.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Repeated ignition signals nuclear-fusion breakthrough]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-04074-3</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-18; | doi:10.1038/d41586-023-04074-3</dc:source>
+            <dc:date>2023-12-18</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-04074-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-04074-3</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03972-w">
@@ -1150,156 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-04016-z</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-04016-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03811-y">
-            <title><![CDATA[Hybrid workers scurry to the office when the bosses appear]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03811-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 December 2023; <a href="https://www.nature.com/articles/d41586-023-03811-y">doi:10.1038/d41586-023-03811-y</a></p>Key-card use by more than 40,000 technology-company employees hints at who’s coming to the office and why.]]></content:encoded>
-            <dc:title><![CDATA[Hybrid workers scurry to the office when the bosses appear]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-03811-y</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-13; | doi:10.1038/d41586-023-03811-y</dc:source>
-            <dc:date>2023-12-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03811-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03811-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03903-9">
-            <title><![CDATA[North–south country collaborations reveal untapped potential]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03903-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 December 2023; <a href="https://www.nature.com/articles/d41586-023-03903-9">doi:10.1038/d41586-023-03903-9</a></p>The global north still dominates such partnerships in the Nature Index.]]></content:encoded>
-            <dc:title><![CDATA[North–south country collaborations reveal untapped potential]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-03903-9</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-13; | doi:10.1038/d41586-023-03903-9</dc:source>
-            <dc:date>2023-12-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03903-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03903-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03901-x">
-            <title><![CDATA[North–south publishing data show stark inequities in global research]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03901-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 December 2023; <a href="https://www.nature.com/articles/d41586-023-03901-x">doi:10.1038/d41586-023-03901-x</a></p>Major investment and a shift in strategy are needed to back up the endeavour of researchers.]]></content:encoded>
-            <dc:title><![CDATA[North–south publishing data show stark inequities in global research]]></dc:title>
-            <dc:creator>Simon Baker</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03901-x</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-13; | doi:10.1038/d41586-023-03901-x</dc:source>
-            <dc:date>2023-12-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03901-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03901-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-04008-z">
-            <title><![CDATA[The rubber that stops cracks in their tracks]]></title>
-            <link>https://www.nature.com/articles/d41586-023-04008-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 December 2023; <a href="https://www.nature.com/articles/d41586-023-04008-z">doi:10.1038/d41586-023-04008-z</a></p>Highly entangled polymers allow it to resist cracks from cyclical stress 10 times better than before.]]></content:encoded>
-            <dc:title><![CDATA[The rubber that stops cracks in their tracks]]></dc:title>
-            <dc:creator>Dan Fox</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-04008-z</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-13; | doi:10.1038/d41586-023-04008-z</dc:source>
-            <dc:date>2023-12-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-04008-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-04008-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03906-6">
-            <title><![CDATA[India’s year in science]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03906-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 December 2023; <a href="https://www.nature.com/articles/d41586-023-03906-6">doi:10.1038/d41586-023-03906-6</a></p>The country has made history in many ways in 2023, but is it using science and technology enough to help its economic and social development?]]></content:encoded>
-            <dc:title><![CDATA[India’s year in science]]></dc:title>
-            <dc:creator>Jack Leeming</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03906-6</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-13; | doi:10.1038/d41586-023-03906-6</dc:source>
-            <dc:date>2023-12-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03906-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03906-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06842-7">
-            <title><![CDATA[The landscape of genomic structural variation in Indigenous Australians]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06842-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 December 2023; <a href="https://www.nature.com/articles/s41586-023-06842-7">doi:10.1038/s41586-023-06842-7</a></p>Population-scale whole-genome sequencing across four remote Indigenous Australian communities reveals a large fraction of structural variants that are unique to these populations, emphasizing the genetic distinctiveness of and diversity among Indigenous Australians.]]></content:encoded>
-            <dc:title><![CDATA[The landscape of genomic structural variation in Indigenous Australians]]></dc:title>
-            <dc:creator>Andre L. M. Reis</dc:creator><dc:creator>Melissa Rapadas</dc:creator><dc:creator>Jillian M. Hammond</dc:creator><dc:creator>Hasindu Gamaarachchi</dc:creator><dc:creator>Igor Stevanovski</dc:creator><dc:creator>Meutia Ayuputeri Kumaheri</dc:creator><dc:creator>Sanjog R. Chintalaphani</dc:creator><dc:creator>Duminda S. B. Dissanayake</dc:creator><dc:creator>Owen M. Siggs</dc:creator><dc:creator>Alex W. Hewitt</dc:creator><dc:creator>Bastien Llamas</dc:creator><dc:creator>Alex Brown</dc:creator><dc:creator>Gareth Baynam</dc:creator><dc:creator>Graham J. Mann</dc:creator><dc:creator>Brendan J. McMorran</dc:creator><dc:creator>Simon Easteal</dc:creator><dc:creator>Azure Hermes</dc:creator><dc:creator>Misty R. Jenkins</dc:creator><dc:creator>Glen Pearson</dc:creator><dc:creator>Yvette Roe</dc:creator><dc:creator>Janine Mohamed</dc:creator><dc:creator>Ben Murray</dc:creator><dc:creator>Lyndon Ormond-Parker</dc:creator><dc:creator>Erica Kneipp</dc:creator><dc:creator>Keith Nugent</dc:creator><dc:creator>Graham Mann</dc:creator><dc:creator>Hardip R. Patel</dc:creator><dc:creator>Ira W. Deveson</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06842-7</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-13; | doi:10.1038/s41586-023-06842-7</dc:source>
-            <dc:date>2023-12-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06842-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06842-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06819-6">
-            <title><![CDATA[Conserved and divergent gene regulatory programs of the mammalian neocortex]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06819-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 December 2023; <a href="https://www.nature.com/articles/s41586-023-06819-6">doi:10.1038/s41586-023-06819-6</a></p>A single-cell multiomics analysis of over 200,000 cells of the primary motor cortex of human, macaque, marmoset and mouse shows that divergence of transcription factor expression corresponds to species-specific epigenome landscapes, and conserved and divergent gene regulatory features are reflected in the evolution of the three-dimensional genome.]]></content:encoded>
-            <dc:title><![CDATA[Conserved and divergent gene regulatory programs of the mammalian neocortex]]></dc:title>
-            <dc:creator>Nathan R. Zemke</dc:creator><dc:creator>Ethan J. Armand</dc:creator><dc:creator>Wenliang Wang</dc:creator><dc:creator>Seoyeon Lee</dc:creator><dc:creator>Jingtian Zhou</dc:creator><dc:creator>Yang Eric Li</dc:creator><dc:creator>Hanqing Liu</dc:creator><dc:creator>Wei Tian</dc:creator><dc:creator>Joseph R. Nery</dc:creator><dc:creator>Rosa G. Castanon</dc:creator><dc:creator>Anna Bartlett</dc:creator><dc:creator>Julia K. Osteen</dc:creator><dc:creator>Daofeng Li</dc:creator><dc:creator>Xiaoyu Zhuo</dc:creator><dc:creator>Vincent Xu</dc:creator><dc:creator>Lei Chang</dc:creator><dc:creator>Keyi Dong</dc:creator><dc:creator>Hannah S. Indralingam</dc:creator><dc:creator>Jonathan A. Rink</dc:creator><dc:creator>Yang Xie</dc:creator><dc:creator>Michael Miller</dc:creator><dc:creator>Fenna M. Krienen</dc:creator><dc:creator>Qiangge Zhang</dc:creator><dc:creator>Naz Taskin</dc:creator><dc:creator>Jonathan Ting</dc:creator><dc:creator>Guoping Feng</dc:creator><dc:creator>Steven A. McCarroll</dc:creator><dc:creator>Edward M. Callaway</dc:creator><dc:creator>Ting Wang</dc:creator><dc:creator>Ed S. Lein</dc:creator><dc:creator>M. Margarita Behrens</dc:creator><dc:creator>Joseph R. Ecker</dc:creator><dc:creator>Bing Ren</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06819-6</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-13; | doi:10.1038/s41586-023-06819-6</dc:source>
-            <dc:date>2023-12-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06819-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06819-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06838-3">
-            <title><![CDATA[Bioactive glycans in a microbiome-directed food for children with malnutrition]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06838-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 December 2023; <a href="https://www.nature.com/articles/s41586-023-06838-3">doi:10.1038/s41586-023-06838-3</a></p>Two Prevotella copri metagenome-assembled genomes that are positively associated with ponderal growth are the principal contributors to MDCF-2-induced expression of metabolic pathways involved in utilizing the component glycans of MDCF-2—a microbiome-directed complementary food.]]></content:encoded>
-            <dc:title><![CDATA[Bioactive glycans in a microbiome-directed food for children with malnutrition]]></dc:title>
-            <dc:creator>Matthew C. Hibberd</dc:creator><dc:creator>Daniel M. Webber</dc:creator><dc:creator>Dmitry A. Rodionov</dc:creator><dc:creator>Suzanne Henrissat</dc:creator><dc:creator>Robert Y. Chen</dc:creator><dc:creator>Cyrus Zhou</dc:creator><dc:creator>Hannah M. Lynn</dc:creator><dc:creator>Yi Wang</dc:creator><dc:creator>Hao-Wei Chang</dc:creator><dc:creator>Evan M. Lee</dc:creator><dc:creator>Janaki Lelwala-Guruge</dc:creator><dc:creator>Marat D. Kazanov</dc:creator><dc:creator>Aleksandr A. Arzamasov</dc:creator><dc:creator>Semen A. Leyn</dc:creator><dc:creator>Vincent Lombard</dc:creator><dc:creator>Nicolas Terrapon</dc:creator><dc:creator>Bernard Henrissat</dc:creator><dc:creator>Juan J. Castillo</dc:creator><dc:creator>Garret Couture</dc:creator><dc:creator>Nikita P. Bacalzo Jr</dc:creator><dc:creator>Ye Chen</dc:creator><dc:creator>Carlito B. Lebrilla</dc:creator><dc:creator>Ishita Mostafa</dc:creator><dc:creator>Subhasish Das</dc:creator><dc:creator>Mustafa Mahfuz</dc:creator><dc:creator>Michael J. Barratt</dc:creator><dc:creator>Andrei L. Osterman</dc:creator><dc:creator>Tahmeed Ahmed</dc:creator><dc:creator>Jeffrey I. Gordon</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06838-3</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-13; | doi:10.1038/s41586-023-06838-3</dc:source>
-            <dc:date>2023-12-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06838-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06838-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06821-y">
-            <title><![CDATA[In vitro production of cat-restricted <i>Toxoplasma</i> pre-sexual stages]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06821-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 December 2023; <a href="https://www.nature.com/articles/s41586-023-06821-y">doi:10.1038/s41586-023-06821-y</a></p>A study describes the molecular basis of sexual development of Toxoplasma gondii entirely in vitro, demonstrating the role and interaction of AP2XII-1 and AP2XI-2 in the developmental program of this protozoan parasite.]]></content:encoded>
-            <dc:title><![CDATA[In vitro production of cat-restricted <i>Toxoplasma</i> pre-sexual stages]]></dc:title>
-            <dc:creator>Ana Vera Antunes</dc:creator><dc:creator>Martina Shahinas</dc:creator><dc:creator>Christopher Swale</dc:creator><dc:creator>Dayana C. Farhat</dc:creator><dc:creator>Chandra Ramakrishnan</dc:creator><dc:creator>Christophe Bruley</dc:creator><dc:creator>Dominique Cannella</dc:creator><dc:creator>Marie G. Robert</dc:creator><dc:creator>Charlotte Corrao</dc:creator><dc:creator>Yohann Couté</dc:creator><dc:creator>Adrian B. Hehl</dc:creator><dc:creator>Alexandre Bougdour</dc:creator><dc:creator>Isabelle Coppens</dc:creator><dc:creator>Mohamed-Ali Hakimi</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06821-y</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-13; | doi:10.1038/s41586-023-06821-y</dc:source>
-            <dc:date>2023-12-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06821-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06821-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06661-w">
-            <title><![CDATA[Hold out the genome: a roadmap to solving the <i>cis</i>-regulatory code]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06661-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 December 2023; <a href="https://www.nature.com/articles/s41586-023-06661-w">doi:10.1038/s41586-023-06661-w</a></p>A roadmap towards solving the cis-regulatory code using a combination of machine learning and massively parallel assays of exogenous DNA is proposed.]]></content:encoded>
-            <dc:title><![CDATA[Hold out the genome: a roadmap to solving the <i>cis</i>-regulatory code]]></dc:title>
-            <dc:creator>Carl G. de Boer</dc:creator><dc:creator>Jussi Taipale</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06661-w</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-13; | doi:10.1038/s41586-023-06661-w</dc:source>
-            <dc:date>2023-12-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06661-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06661-w</prism:url>
         </item>
     
 </rdf:RDF>
