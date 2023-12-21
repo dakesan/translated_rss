@@ -18,6 +18,10 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03891-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04157-1"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06963-z"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06952-2"/>
@@ -85,6 +89,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04022-1"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03659-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04159-z"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03833-6"/>
                 
@@ -162,12 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04030-1"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04044-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03662-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04026-x"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,36 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03891-w">
+            <title><![CDATA[Welcome to your post-apocalyptic bunker rental!]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03891-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 21 December 2023; <a href="https://www.nature.com/articles/d41586-023-03891-w">doi:10.1038/d41586-023-03891-w</a></p>A home away from home.]]></content:encoded>
+            <dc:title><![CDATA[Welcome to your post-apocalyptic bunker rental!]]></dc:title>
+            <dc:creator>Wendy Nikel</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03891-w</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-21; | doi:10.1038/d41586-023-03891-w</dc:source>
+            <dc:date>2023-12-21</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03891-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03891-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-04157-1">
+            <title><![CDATA[How I became the ‘hoodie girl’: attending conferences as a neurodiverse scientist]]></title>
+            <link>https://www.nature.com/articles/d41586-023-04157-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 21 December 2023; <a href="https://www.nature.com/articles/d41586-023-04157-1">doi:10.1038/d41586-023-04157-1</a></p>Biostatistician Penny Robinson explains why conferences and networking events present challenges for neurodiverse scientists and suggests some simple fixes.]]></content:encoded>
+            <dc:title><![CDATA[How I became the ‘hoodie girl’: attending conferences as a neurodiverse scientist]]></dc:title>
+            <dc:creator>Anna Napolitano</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-04157-1</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-21; | doi:10.1038/d41586-023-04157-1</dc:source>
+            <dc:date>2023-12-21</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-04157-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-04157-1</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06963-z">
             <title><![CDATA[Global population profile of tropical cyclone exposure from 2002 to 2019]]></title>
@@ -256,7 +286,7 @@
             <title><![CDATA[What ChatGPT is and what it's not: a three minute guide]]></title>
             <link>https://www.nature.com/articles/d41586-023-04156-2</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 20 December 2023; <a href="https://www.nature.com/articles/d41586-023-04156-2">doi:10.1038/d41586-023-04156-2</a></p>A whilste-stop tour under the hood of Chat GPT in which we ask whether we should be calling LLMs intelligent in the first place]]></content:encoded>
+                <![CDATA[<p>Nature, Published online: 20 December 2023; <a href="https://www.nature.com/articles/d41586-023-04156-2">doi:10.1038/d41586-023-04156-2</a></p>A whistle-stop tour under the hood of Chat GPT in which we ask whether we should be calling LLMs intelligent in the first place]]></content:encoded>
             <dc:title><![CDATA[What ChatGPT is and what it's not: a three minute guide]]></dc:title>
             <dc:creator>Richard  Van Noorden</dc:creator><dc:creator>Shamini Bundell</dc:creator>
             <dc:identifier>doi:10.1038/d41586-023-04156-2</dc:identifier>
@@ -685,6 +715,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03659-2</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03659-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-04159-z">
+            <title><![CDATA[Daily briefing: Sexism is a waste of money]]></title>
+            <link>https://www.nature.com/articles/d41586-023-04159-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 20 December 2023; <a href="https://www.nature.com/articles/d41586-023-04159-z">doi:10.1038/d41586-023-04159-z</a></p>Sexism harms people and is one of the biggest sources of public funding inefficiency. Plus, 12% of bird species probably driven to extinction by humans and COVID-19 vaccines lower children’s risk of long COVID.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Sexism is a waste of money]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-04159-z</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-20; | doi:10.1038/d41586-023-04159-z</dc:source>
+            <dc:date>2023-12-20</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-04159-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-04159-z</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03833-6">
@@ -1255,51 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-04030-1</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-04030-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-04044-9">
-            <title><![CDATA[The science events to watch for in 2024]]></title>
-            <link>https://www.nature.com/articles/d41586-023-04044-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 18 December 2023; <a href="https://www.nature.com/articles/d41586-023-04044-9">doi:10.1038/d41586-023-04044-9</a></p>Advanced AI tools, Moon missions and ultrafast supercomputers are among the developments set to shape research in the coming year.]]></content:encoded>
-            <dc:title><![CDATA[The science events to watch for in 2024]]></dc:title>
-            <dc:creator>Miryam Naddaf</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-04044-9</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-18; | doi:10.1038/d41586-023-04044-9</dc:source>
-            <dc:date>2023-12-18</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-04044-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-04044-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03662-7">
-            <title><![CDATA[Oceans can capture more carbon dioxide than previously thought]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03662-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 18 December 2023; <a href="https://www.nature.com/articles/d41586-023-03662-7">doi:10.1038/d41586-023-03662-7</a></p>The strength of the biological carbon pump was estimated using direct measurements of nutrients collected over decades. The findings indicate that ocean waters can capture and store larger amounts of carbon dioxide than previously estimated. This might have implications for climate-change models.]]></content:encoded>
-            <dc:title><![CDATA[Oceans can capture more carbon dioxide than previously thought]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-03662-7</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-18; | doi:10.1038/d41586-023-03662-7</dc:source>
-            <dc:date>2023-12-18</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03662-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03662-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-04026-x">
-            <title><![CDATA[Prebunking propaganda, and how to live well: 2023’s best of Books in brief]]></title>
-            <link>https://www.nature.com/articles/d41586-023-04026-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 18 December 2023; <a href="https://www.nature.com/articles/d41586-023-04026-x">doi:10.1038/d41586-023-04026-x</a></p>Connoisseur Andrew Robinson gives ten of his favourite tomes from the year a more expansive review.]]></content:encoded>
-            <dc:title><![CDATA[Prebunking propaganda, and how to live well: 2023’s best of Books in brief]]></dc:title>
-            <dc:creator>Andrew Robinson</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-04026-x</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-18; | doi:10.1038/d41586-023-04026-x</dc:source>
-            <dc:date>2023-12-18</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-04026-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-04026-x</prism:url>
         </item>
     
 </rdf:RDF>
