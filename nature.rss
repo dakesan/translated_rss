@@ -18,9 +18,23 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04017-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04145-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04063-6"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04042-x"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04047-6"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03891-w"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04160-6"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04157-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04041-y"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06963-z"/>
                 
@@ -67,6 +81,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03791-z"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04032-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03969-5"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03889-4"/>
                 
@@ -152,22 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06961-1"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06766-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06955-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06953-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03794-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04031-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06822-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06769-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04030-1"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,81 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-04017-y">
+            <title><![CDATA[A tale of Silk Road violence as told by a lake’s mud]]></title>
+            <link>https://www.nature.com/articles/d41586-023-04017-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 21 December 2023; <a href="https://www.nature.com/articles/d41586-023-04017-y">doi:10.1038/d41586-023-04017-y</a></p>Soot and other remnants of fires record ancient warfare along the storied trade route.]]></content:encoded>
+            <dc:title><![CDATA[A tale of Silk Road violence as told by a lake’s mud]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-04017-y</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-21; | doi:10.1038/d41586-023-04017-y</dc:source>
+            <dc:date>2023-12-21</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-04017-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-04017-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-04145-5">
+            <title><![CDATA[Polar bear fur-inspired sweater is thinner than a down jacket — and just as warm]]></title>
+            <link>https://www.nature.com/articles/d41586-023-04145-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 21 December 2023; <a href="https://www.nature.com/articles/d41586-023-04145-5">doi:10.1038/d41586-023-04145-5</a></p>The synthetic fibre is an aerogel coated with polyurethane and is flexible, washable and wearable.]]></content:encoded>
+            <dc:title><![CDATA[Polar bear fur-inspired sweater is thinner than a down jacket — and just as warm]]></dc:title>
+            <dc:creator>Gemma Conroy</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-04145-5</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-21; | doi:10.1038/d41586-023-04145-5</dc:source>
+            <dc:date>2023-12-21</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-04145-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-04145-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-04063-6">
+            <title><![CDATA[Contact-tracing app predicts risk of SARS-CoV-2 transmission]]></title>
+            <link>https://www.nature.com/articles/d41586-023-04063-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 21 December 2023; <a href="https://www.nature.com/articles/d41586-023-04063-6">doi:10.1038/d41586-023-04063-6</a></p>The risk of catching COVID-19 as calculated by a smartphone app scales with the probability of subsequently testing positive for the coronavirus SARS-CoV-2, showing that digital contact tracing is a useful tool for fighting future pandemics.]]></content:encoded>
+            <dc:title><![CDATA[Contact-tracing app predicts risk of SARS-CoV-2 transmission]]></dc:title>
+            <dc:creator>Justus Benzler</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-04063-6</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-21; | doi:10.1038/d41586-023-04063-6</dc:source>
+            <dc:date>2023-12-21</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-04063-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-04063-6</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-04042-x">
+            <title><![CDATA[Politics and the environment collide in Brazil: Lula’s first year back in office]]></title>
+            <link>https://www.nature.com/articles/d41586-023-04042-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 21 December 2023; <a href="https://www.nature.com/articles/d41586-023-04042-x">doi:10.1038/d41586-023-04042-x</a></p>Brazil’s left-wing President Luiz Inácio Lula da Silva grapples with deforestation, fossil-fuel pledges and commitments to Indigenous communities — all while having to work with a conservative Congress.]]></content:encoded>
+            <dc:title><![CDATA[Politics and the environment collide in Brazil: Lula’s first year back in office]]></dc:title>
+            <dc:creator>Meghie Rodrigues</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-04042-x</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-21; | doi:10.1038/d41586-023-04042-x</dc:source>
+            <dc:date>2023-12-21</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-04042-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-04042-x</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-04047-6">
+            <title><![CDATA[AI consciousness: scientists say we urgently need answers]]></title>
+            <link>https://www.nature.com/articles/d41586-023-04047-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 21 December 2023; <a href="https://www.nature.com/articles/d41586-023-04047-6">doi:10.1038/d41586-023-04047-6</a></p>Coalition of researchers calls for more funding to study the boundary between conscious and unconscious systems.]]></content:encoded>
+            <dc:title><![CDATA[AI consciousness: scientists say we urgently need answers]]></dc:title>
+            <dc:creator>Mariana Lenharo</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-04047-6</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-21; | doi:10.1038/d41586-023-04047-6</dc:source>
+            <dc:date>2023-12-21</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-04047-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-04047-6</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03891-w">
             <title><![CDATA[Welcome to your post-apocalyptic bunker rental!]]></title>
@@ -192,6 +267,21 @@
             <prism:url>https://www.nature.com/articles/d41586-023-03891-w</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-023-04160-6">
+            <title><![CDATA[How research managers are using AI to get ahead]]></title>
+            <link>https://www.nature.com/articles/d41586-023-04160-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 21 December 2023; <a href="https://www.nature.com/articles/d41586-023-04160-6">doi:10.1038/d41586-023-04160-6</a></p>For those at the interface of funding organizations and the scientific community, platforms such as ChatGPT can tackle menial tasks and free up time for relationship-building work such as coaching and mentoring.]]></content:encoded>
+            <dc:title><![CDATA[How research managers are using AI to get ahead]]></dc:title>
+            <dc:creator>Linda Nordling</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-04160-6</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-21; | doi:10.1038/d41586-023-04160-6</dc:source>
+            <dc:date>2023-12-21</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-04160-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-04160-6</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-023-04157-1">
             <title><![CDATA[How I became the ‘hoodie girl’: attending conferences as a neurodiverse scientist]]></title>
             <link>https://www.nature.com/articles/d41586-023-04157-1</link>
@@ -205,6 +295,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-04157-1</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-04157-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-04041-y">
+            <title><![CDATA[Why 2023 was a bittersweet year for Brazilian science]]></title>
+            <link>https://www.nature.com/articles/d41586-023-04041-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 21 December 2023; <a href="https://www.nature.com/articles/d41586-023-04041-y">doi:10.1038/d41586-023-04041-y</a></p>Expectations were high after Luiz Inácio Lula da Silva won the presidency. But some scientists are frustrated at the slow pace of change.]]></content:encoded>
+            <dc:title><![CDATA[Why 2023 was a bittersweet year for Brazilian science]]></dc:title>
+            <dc:creator>Meghie Rodrigues</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-04041-y</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-21; | doi:10.1038/d41586-023-04041-y</dc:source>
+            <dc:date>2023-12-21</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-04041-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-04041-y</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06963-z">
@@ -550,6 +655,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-04032-z</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-04032-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03969-5">
+            <title><![CDATA[Cancer-fighting CAR-T cells could be made inside body with viral injection]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03969-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 20 December 2023; <a href="https://www.nature.com/articles/d41586-023-03969-5">doi:10.1038/d41586-023-03969-5</a></p>Scientists are devising ways to edit the genomes of immune cells without having to extract them from those being treated.]]></content:encoded>
+            <dc:title><![CDATA[Cancer-fighting CAR-T cells could be made inside body with viral injection]]></dc:title>
+            <dc:creator>Heidi Ledford</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03969-5</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-20; | doi:10.1038/d41586-023-03969-5</dc:source>
+            <dc:date>2023-12-20</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03969-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03969-5</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03889-4">
@@ -1180,126 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/s41586-023-06961-1</prism:doi>
             <prism:url>https://www.nature.com/articles/s41586-023-06961-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06766-2">
-            <title><![CDATA[Author Correction: Downstream nuclear events in brassinosteroid signaling]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06766-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 18 December 2023; <a href="https://www.nature.com/articles/s41586-023-06766-2">doi:10.1038/s41586-023-06766-2</a></p>Author Correction: Downstream nuclear events in brassinosteroid signaling]]></content:encoded>
-            <dc:title><![CDATA[Author Correction: Downstream nuclear events in brassinosteroid signaling]]></dc:title>
-            <dc:creator>Grégory Vert</dc:creator><dc:creator>Joanne Chory</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06766-2</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-18; | doi:10.1038/s41586-023-06766-2</dc:source>
-            <dc:date>2023-12-18</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06766-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06766-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06955-z">
-            <title><![CDATA[Functional and evolutionary significance of unknown genes from uncultivated taxa]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06955-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 18 December 2023; <a href="https://www.nature.com/articles/s41586-023-06955-z">doi:10.1038/s41586-023-06955-z</a></p>Functional and evolutionary significance of unknown genes from uncultivated taxa]]></content:encoded>
-            <dc:title><![CDATA[Functional and evolutionary significance of unknown genes from uncultivated taxa]]></dc:title>
-            <dc:creator>Álvaro Rodríguez del Río</dc:creator><dc:creator>Joaquín Giner-Lamia</dc:creator><dc:creator>Carlos P. Cantalapiedra</dc:creator><dc:creator>Jorge Botas</dc:creator><dc:creator>Ziqi Deng</dc:creator><dc:creator>Ana Hernández-Plaza</dc:creator><dc:creator>Martí Munar-Palmer</dc:creator><dc:creator>Saray Santamaría-Hernando</dc:creator><dc:creator>José J. Rodríguez-Herva</dc:creator><dc:creator>Hans-Joachim Ruscheweyh</dc:creator><dc:creator>Lucas Paoli</dc:creator><dc:creator>Thomas S. B. Schmidt</dc:creator><dc:creator>Shinichi Sunagawa</dc:creator><dc:creator>Peer Bork</dc:creator><dc:creator>Emilia López-Solanilla</dc:creator><dc:creator>Luis Pedro Coelho</dc:creator><dc:creator>Jaime Huerta-Cepas</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06955-z</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-18; | doi:10.1038/s41586-023-06955-z</dc:source>
-            <dc:date>2023-12-18</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06955-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06955-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06953-1">
-            <title><![CDATA[De novo design of high-affinity binders of bioactive helical peptides]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06953-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 18 December 2023; <a href="https://www.nature.com/articles/s41586-023-06953-1">doi:10.1038/s41586-023-06953-1</a></p>De novo design of high-affinity binders of bioactive helical peptides]]></content:encoded>
-            <dc:title><![CDATA[De novo design of high-affinity binders of bioactive helical peptides]]></dc:title>
-            <dc:creator>Susana Vázquez Torres</dc:creator><dc:creator>Philip J. Y. Leung</dc:creator><dc:creator>Preetham Venkatesh</dc:creator><dc:creator>Isaac D. Lutz</dc:creator><dc:creator>Fabian Hink</dc:creator><dc:creator>Huu-Hien Huynh</dc:creator><dc:creator>Jessica Becker</dc:creator><dc:creator>Andy Hsien-Wei Yeh</dc:creator><dc:creator>David Juergens</dc:creator><dc:creator>Nathaniel R. Bennett</dc:creator><dc:creator>Andrew N. Hoofnagle</dc:creator><dc:creator>Eric Huang</dc:creator><dc:creator>Michael J. MacCoss</dc:creator><dc:creator>Marc Expòsit</dc:creator><dc:creator>Gyu Rie Lee</dc:creator><dc:creator>Asim K. Bera</dc:creator><dc:creator>Alex Kang</dc:creator><dc:creator>Joshmyn De La Cruz</dc:creator><dc:creator>Paul M. Levine</dc:creator><dc:creator>Xinting Li</dc:creator><dc:creator>Mila Lamb</dc:creator><dc:creator>Stacey R. Gerben</dc:creator><dc:creator>Analisa Murray</dc:creator><dc:creator>Piper Heine</dc:creator><dc:creator>Elif Nihal Korkmaz</dc:creator><dc:creator>Jeff Nivala</dc:creator><dc:creator>Lance Stewart</dc:creator><dc:creator>Joseph L. Watson</dc:creator><dc:creator>Joseph M. Rogers</dc:creator><dc:creator>David Baker</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06953-1</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-18; | doi:10.1038/s41586-023-06953-1</dc:source>
-            <dc:date>2023-12-18</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06953-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06953-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03794-w">
-            <title><![CDATA[How brine shrimps cope with salt]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03794-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 18 December 2023; <a href="https://www.nature.com/articles/d41586-023-03794-w">doi:10.1038/d41586-023-03794-w</a></p>Mutant ion pumps help brine shrimp survive highly saline waters.]]></content:encoded>
-            <dc:title><![CDATA[How brine shrimps cope with salt]]></dc:title>
-            <dc:creator>Lucia Brunello</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03794-w</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-18; | doi:10.1038/d41586-023-03794-w</dc:source>
-            <dc:date>2023-12-18</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03794-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03794-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-04031-0">
-            <title><![CDATA[How I’m protecting Clanwilliam sandfish]]></title>
-            <link>https://www.nature.com/articles/d41586-023-04031-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 18 December 2023; <a href="https://www.nature.com/articles/d41586-023-04031-0">doi:10.1038/d41586-023-04031-0</a></p>Cecilia Cerrilla’s PhD project is to protect a tiny species of fish from predatory bass.]]></content:encoded>
-            <dc:title><![CDATA[How I’m protecting Clanwilliam sandfish]]></dc:title>
-            <dc:creator>Jack Leeming</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-04031-0</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-18; | doi:10.1038/d41586-023-04031-0</dc:source>
-            <dc:date>2023-12-18</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-04031-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-04031-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06822-x">
-            <title><![CDATA[A light-driven enzymatic enantioselective radical acylation]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06822-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 18 December 2023; <a href="https://www.nature.com/articles/s41586-023-06822-x">doi:10.1038/s41586-023-06822-x</a></p>Enzyme-bound ketyl radicals derived from thiamine diphosphate are selectively generated through single-electron oxidation by a photoexcited organic dye and shown to lead to enantioselective radical acylation reactions.]]></content:encoded>
-            <dc:title><![CDATA[A light-driven enzymatic enantioselective radical acylation]]></dc:title>
-            <dc:creator>Yuanyuan Xu</dc:creator><dc:creator>Hongwei Chen</dc:creator><dc:creator>Lu Yu</dc:creator><dc:creator>Xichao Peng</dc:creator><dc:creator>Jiawei Zhang</dc:creator><dc:creator>Zhongqiu Xing</dc:creator><dc:creator>Yuyan Bao</dc:creator><dc:creator>Aokun Liu</dc:creator><dc:creator>Yue Zhao</dc:creator><dc:creator>Changlin Tian</dc:creator><dc:creator>Yong Liang</dc:creator><dc:creator>Xiaoqiang Huang</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06822-x</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-18; | doi:10.1038/s41586-023-06822-x</dc:source>
-            <dc:date>2023-12-18</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06822-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06822-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06769-z">
-            <title><![CDATA[Unequal climate impacts on global values of natural capital]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06769-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 18 December 2023; <a href="https://www.nature.com/articles/s41586-023-06769-z">doi:10.1038/s41586-023-06769-z</a></p>Country-level changes in economic production and the value of non-market ecosystem benefits show unequal impacts on the global values of natural capital resulting from climate-change-induced shifts in terrestrial vegetation cover.]]></content:encoded>
-            <dc:title><![CDATA[Unequal climate impacts on global values of natural capital]]></dc:title>
-            <dc:creator>B. A. Bastien-Olvera</dc:creator><dc:creator>M. N. Conte</dc:creator><dc:creator>X. Dong</dc:creator><dc:creator>T. Briceno</dc:creator><dc:creator>D. Batker</dc:creator><dc:creator>J. Emmerling</dc:creator><dc:creator>M. Tavoni</dc:creator><dc:creator>F. Granella</dc:creator><dc:creator>F. C. Moore</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06769-z</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-18; | doi:10.1038/s41586-023-06769-z</dc:source>
-            <dc:date>2023-12-18</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06769-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06769-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-04030-1">
-            <title><![CDATA[The scientific workplace in 2023]]></title>
-            <link>https://www.nature.com/articles/d41586-023-04030-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 18 December 2023; <a href="https://www.nature.com/articles/d41586-023-04030-1">doi:10.1038/d41586-023-04030-1</a></p>India’s first Moon landing and a welcome return to Horizon Europe for UK researchers loomed large in an eventful year for working scientists around the world.]]></content:encoded>
-            <dc:title><![CDATA[The scientific workplace in 2023]]></dc:title>
-            <dc:creator>Chris Woolston</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-04030-1</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-18; | doi:10.1038/d41586-023-04030-1</dc:source>
-            <dc:date>2023-12-18</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-04030-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-04030-1</prism:url>
         </item>
     
 </rdf:RDF>
