@@ -18,6 +18,8 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04152-6"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04017-y"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04145-5"/>
@@ -166,8 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06962-0"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06961-1"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,21 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-04152-6">
+            <title><![CDATA[How an AI-powered lion became a teaching tool]]></title>
+            <link>https://www.nature.com/articles/d41586-023-04152-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 22 December 2023; <a href="https://www.nature.com/articles/d41586-023-04152-6">doi:10.1038/d41586-023-04152-6</a></p>The mascot for King’s College London helped Andrés Gvirtz to teach a class, with a little help from generative artificial intelligence.]]></content:encoded>
+            <dc:title><![CDATA[How an AI-powered lion became a teaching tool]]></dc:title>
+            <dc:creator>Andrés  Gvirtz</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-04152-6</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-22; | doi:10.1038/d41586-023-04152-6</dc:source>
+            <dc:date>2023-12-22</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-04152-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-04152-6</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-04017-y">
             <title><![CDATA[A tale of Silk Road violence as told by a lake’s mud]]></title>
@@ -1285,21 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/s41586-023-06962-0</prism:doi>
             <prism:url>https://www.nature.com/articles/s41586-023-06962-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06961-1">
-            <title><![CDATA[Publisher Correction: Slide-tags enables single-nucleus barcoding for multimodal spatial genomics]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06961-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 18 December 2023; <a href="https://www.nature.com/articles/s41586-023-06961-1">doi:10.1038/s41586-023-06961-1</a></p>Publisher Correction: Slide-tags enables single-nucleus barcoding for multimodal spatial genomics]]></content:encoded>
-            <dc:title><![CDATA[Publisher Correction: Slide-tags enables single-nucleus barcoding for multimodal spatial genomics]]></dc:title>
-            <dc:creator>Andrew J. C. Russell</dc:creator><dc:creator>Jackson A. Weir</dc:creator><dc:creator>Naeem M. Nadaf</dc:creator><dc:creator>Matthew Shabet</dc:creator><dc:creator>Vipin Kumar</dc:creator><dc:creator>Sandeep Kambhampati</dc:creator><dc:creator>Ruth Raichur</dc:creator><dc:creator>Giovanni J. Marrero</dc:creator><dc:creator>Sophia Liu</dc:creator><dc:creator>Karol S. Balderrama</dc:creator><dc:creator>Charles R. Vanderburg</dc:creator><dc:creator>Vignesh Shanmugam</dc:creator><dc:creator>Luyi Tian</dc:creator><dc:creator>J. Bryan Iorgulescu</dc:creator><dc:creator>Charles H. Yoon</dc:creator><dc:creator>Catherine J. Wu</dc:creator><dc:creator>Evan Z. Macosko</dc:creator><dc:creator>Fei Chen</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06961-1</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-18; | doi:10.1038/s41586-023-06961-1</dc:source>
-            <dc:date>2023-12-18</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06961-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06961-1</prism:url>
         </item>
     
 </rdf:RDF>
