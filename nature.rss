@@ -18,9 +18,25 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04154-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04034-x"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04152-6"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04087-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04094-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04085-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03474-9"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04166-0"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04017-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04161-5"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04145-5"/>
                 
@@ -98,6 +114,8 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03668-1"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04168-y"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03656-5"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04029-8"/>
@@ -150,24 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04071-6"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04024-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04003-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04027-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06960-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06944-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06932-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06954-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06943-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06962-0"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,36 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-04154-4">
+            <title><![CDATA[How AI works is often a mystery — that's a problem]]></title>
+            <link>https://www.nature.com/articles/d41586-023-04154-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 22 December 2023; <a href="https://www.nature.com/articles/d41586-023-04154-4">doi:10.1038/d41586-023-04154-4</a></p>The inner workings of many AIs are mysterious, but with increasing use of such technologies in high stakes scenarios, how should their inscrutable nature be dealt with?]]></content:encoded>
+            <dc:title><![CDATA[How AI works is often a mystery — that's a problem]]></dc:title>
+            <dc:creator>Nick Petrić Howe</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-04154-4</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-22; | doi:10.1038/d41586-023-04154-4</dc:source>
+            <dc:date>2023-12-22</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-04154-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-04154-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-04034-x">
+            <title><![CDATA[Reindeer can activate sleep mode while eating]]></title>
+            <link>https://www.nature.com/articles/d41586-023-04034-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 22 December 2023; <a href="https://www.nature.com/articles/d41586-023-04034-x">doi:10.1038/d41586-023-04034-x</a></p>Putting the brain into sleep mode helps to maximize food intake during bountiful Arctic summers.]]></content:encoded>
+            <dc:title><![CDATA[Reindeer can activate sleep mode while eating]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-04034-x</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-22; | doi:10.1038/d41586-023-04034-x</dc:source>
+            <dc:date>2023-12-22</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-04034-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-04034-x</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-04152-6">
             <title><![CDATA[How an AI-powered lion became a teaching tool]]></title>
@@ -192,6 +222,81 @@
             <prism:url>https://www.nature.com/articles/d41586-023-04152-6</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-023-04087-y">
+            <title><![CDATA[How a surge in organized crime threatens the Amazon]]></title>
+            <link>https://www.nature.com/articles/d41586-023-04087-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 22 December 2023; <a href="https://www.nature.com/articles/d41586-023-04087-y">doi:10.1038/d41586-023-04087-y</a></p>The global community needs to break the web of transnational crime networks and corruption threatening one of the world’s largest carbon sinks.]]></content:encoded>
+            <dc:title><![CDATA[How a surge in organized crime threatens the Amazon]]></dc:title>
+            <dc:creator>Bram  Ebus</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-04087-y</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-22; | doi:10.1038/d41586-023-04087-y</dc:source>
+            <dc:date>2023-12-22</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-04087-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-04087-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-04094-z">
+            <title><![CDATA[Will superintelligent AI sneak up on us? New study offers reassurance]]></title>
+            <link>https://www.nature.com/articles/d41586-023-04094-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 22 December 2023; <a href="https://www.nature.com/articles/d41586-023-04094-z">doi:10.1038/d41586-023-04094-z</a></p>Improvements in the performance of large language models such as ChatGPT are more predictable than they appear.]]></content:encoded>
+            <dc:title><![CDATA[Will superintelligent AI sneak up on us? New study offers reassurance]]></dc:title>
+            <dc:creator>Matthew Hutson</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-04094-z</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-22; | doi:10.1038/d41586-023-04094-z</dc:source>
+            <dc:date>2023-12-22</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-04094-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-04094-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-04085-0">
+            <title><![CDATA[Neutrino secrets could be revealed by Earth’s atmosphere]]></title>
+            <link>https://www.nature.com/articles/d41586-023-04085-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 22 December 2023; <a href="https://www.nature.com/articles/d41586-023-04085-0">doi:10.1038/d41586-023-04085-0</a></p>Scientists typically look at the skies or take to the laboratory to probe the neutrino’s properties. But neutrinos produced in Earth’s atmosphere could reveal this long-sought information — and the experiments are already well under way.]]></content:encoded>
+            <dc:title><![CDATA[Neutrino secrets could be revealed by Earth’s atmosphere]]></dc:title>
+            <dc:creator>Josh  Spitz</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-04085-0</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-22; | doi:10.1038/d41586-023-04085-0</dc:source>
+            <dc:date>2023-12-22</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-04085-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-04085-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03474-9">
+            <title><![CDATA[Citations show gender bias — and the reasons are surprising]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03474-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 22 December 2023; <a href="https://www.nature.com/articles/d41586-023-03474-9">doi:10.1038/d41586-023-03474-9</a></p>Gender bias in paper citations is less common among younger scientists, but it still plays a part in making women’s research less visible.]]></content:encoded>
+            <dc:title><![CDATA[Citations show gender bias — and the reasons are surprising]]></dc:title>
+            <dc:creator>Anil Oza</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03474-9</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-22; | doi:10.1038/d41586-023-03474-9</dc:source>
+            <dc:date>2023-12-22</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03474-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03474-9</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-04166-0">
+            <title><![CDATA[Saleemul Huq (1952–2023), climate visionary]]></title>
+            <link>https://www.nature.com/articles/d41586-023-04166-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 22 December 2023; <a href="https://www.nature.com/articles/d41586-023-04166-0">doi:10.1038/d41586-023-04166-0</a></p>A relentless climate scientist who was the voice of the voiceless in the global climate fight.]]></content:encoded>
+            <dc:title><![CDATA[Saleemul Huq (1952–2023), climate visionary]]></dc:title>
+            <dc:creator>Achala C.  Abeysinghe</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-04166-0</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-22; | doi:10.1038/d41586-023-04166-0</dc:source>
+            <dc:date>2023-12-22</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-04166-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-04166-0</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-023-04017-y">
             <title><![CDATA[A tale of Silk Road violence as told by a lake’s mud]]></title>
             <link>https://www.nature.com/articles/d41586-023-04017-y</link>
@@ -205,6 +310,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-04017-y</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-04017-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-04161-5">
+            <title><![CDATA[What were some of the biggest stories of 2023? Join us for the <i>Nature Podcast</i> quiz!]]></title>
+            <link>https://www.nature.com/articles/d41586-023-04161-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 21 December 2023; <a href="https://www.nature.com/articles/d41586-023-04161-5">doi:10.1038/d41586-023-04161-5</a></p>In a game of twenty questions our contestants stretch their memories to remember some of the science stories that made headlines this year.]]></content:encoded>
+            <dc:title><![CDATA[What were some of the biggest stories of 2023? Join us for the <i>Nature Podcast</i> quiz!]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-04161-5</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-21; | doi:10.1038/d41586-023-04161-5</dc:source>
+            <dc:date>2023-12-21</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-04161-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-04161-5</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-04145-5">
@@ -777,6 +897,21 @@
             <prism:url>https://www.nature.com/articles/d41586-023-03668-1</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-023-04168-y">
+            <title><![CDATA[Daily briefing: Criticism hits nematode cancer tests]]></title>
+            <link>https://www.nature.com/articles/d41586-023-04168-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 20 December 2023; <a href="https://www.nature.com/articles/d41586-023-04168-y">doi:10.1038/d41586-023-04168-y</a></p>Doctors have raised concerns that a commercial cancer test produces high levels of false negatives and false positives. Plus, a surge in extreme forest fires fuels global emissions and what quantum theory implies about determinism.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Criticism hits nematode cancer tests]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-04168-y</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-20; | doi:10.1038/d41586-023-04168-y</dc:source>
+            <dc:date>2023-12-20</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-04168-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-04168-y</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-023-03656-5">
             <title><![CDATA[Atomic electron tomography reveals chemical order in medium- and high-entropy alloys]]></title>
             <link>https://www.nature.com/articles/d41586-023-03656-5</link>
@@ -1165,141 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-04071-6</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-04071-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-04024-z">
-            <title><![CDATA[Does quantum theory imply the entire Universe is preordained?]]></title>
-            <link>https://www.nature.com/articles/d41586-023-04024-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 19 December 2023; <a href="https://www.nature.com/articles/d41586-023-04024-z">doi:10.1038/d41586-023-04024-z</a></p>The popular idea that quantum physics implies everything is random and nothing is certain might be as far from the truth as it could possibly be.]]></content:encoded>
-            <dc:title><![CDATA[Does quantum theory imply the entire Universe is preordained?]]></dc:title>
-            <dc:creator>Eddy Keming Chen</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-04024-z</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-19; | doi:10.1038/d41586-023-04024-z</dc:source>
-            <dc:date>2023-12-19</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-04024-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-04024-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-04003-4">
-            <title><![CDATA[Inhaled COVID vaccines stop infection in its tracks in monkey trials]]></title>
-            <link>https://www.nature.com/articles/d41586-023-04003-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 19 December 2023; <a href="https://www.nature.com/articles/d41586-023-04003-4">doi:10.1038/d41586-023-04003-4</a></p>New results hint at how to perfect ‘mucosal’ vaccines, which are delivered up the nose or down the throat.]]></content:encoded>
-            <dc:title><![CDATA[Inhaled COVID vaccines stop infection in its tracks in monkey trials]]></dc:title>
-            <dc:creator>Ewen Callaway</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-04003-4</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-19; | doi:10.1038/d41586-023-04003-4</dc:source>
-            <dc:date>2023-12-19</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-04003-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-04003-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-04027-w">
-            <title><![CDATA[Research prizes are opaque and rife with bias — it’s time to shake them up]]></title>
-            <link>https://www.nature.com/articles/d41586-023-04027-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 19 December 2023; <a href="https://www.nature.com/articles/d41586-023-04027-w">doi:10.1038/d41586-023-04027-w</a></p>Awards should be standard-bearers for transparent, robust research that is inclusive, equitable and trustworthy. But that is not what they are right now.]]></content:encoded>
-            <dc:title><![CDATA[Research prizes are opaque and rife with bias — it’s time to shake them up]]></dc:title>
-            <dc:creator>Malgorzata Lagisz</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-04027-w</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-19; | doi:10.1038/d41586-023-04027-w</dc:source>
-            <dc:date>2023-12-19</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-04027-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-04027-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06960-2">
-            <title><![CDATA[Author Correction: Rift-induced disruption of cratonic keels drives kimberlite volcanism]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06960-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 18 December 2023; <a href="https://www.nature.com/articles/s41586-023-06960-2">doi:10.1038/s41586-023-06960-2</a></p>Author Correction: Rift-induced disruption of cratonic keels drives kimberlite volcanism]]></content:encoded>
-            <dc:title><![CDATA[Author Correction: Rift-induced disruption of cratonic keels drives kimberlite volcanism]]></dc:title>
-            <dc:creator>Thomas M. Gernon</dc:creator><dc:creator>Stephen M. Jones</dc:creator><dc:creator>Sascha Brune</dc:creator><dc:creator>Thea K. Hincks</dc:creator><dc:creator>Martin R. Palmer</dc:creator><dc:creator>John C. Schumacher</dc:creator><dc:creator>Rebecca M. Primiceri</dc:creator><dc:creator>Matthew Field</dc:creator><dc:creator>William L. Griffin</dc:creator><dc:creator>Suzanne Y. O’Reilly</dc:creator><dc:creator>Derek Keir</dc:creator><dc:creator>Christopher J. Spencer</dc:creator><dc:creator>Andrew S. Merdith</dc:creator><dc:creator>Anne Glerum</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06960-2</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-18; | doi:10.1038/s41586-023-06960-2</dc:source>
-            <dc:date>2023-12-18</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06960-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06960-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06944-2">
-            <title><![CDATA[Editorial Expression of Concern: The netrin receptor UNC5B mediates guidance events controlling morphogenesis of the vascular system]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06944-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 18 December 2023; <a href="https://www.nature.com/articles/s41586-023-06944-2">doi:10.1038/s41586-023-06944-2</a></p>Editorial Expression of Concern: The netrin receptor UNC5B mediates guidance events controlling morphogenesis of the vascular system]]></content:encoded>
-            <dc:title><![CDATA[Editorial Expression of Concern: The netrin receptor UNC5B mediates guidance events controlling morphogenesis of the vascular system]]></dc:title>
-            <dc:creator>Xiaowei Lu</dc:creator><dc:creator>Ferdinand le Noble</dc:creator><dc:creator>Li Yuan</dc:creator><dc:creator>Quingjan Jiang</dc:creator><dc:creator>Benjamin de Lafarge</dc:creator><dc:creator>Daisuke Sugiyama</dc:creator><dc:creator>Christiane Bréant</dc:creator><dc:creator>Filip Claes</dc:creator><dc:creator>Frederik De Smet</dc:creator><dc:creator>Jean- Léon Thomas</dc:creator><dc:creator>Monica Autiero</dc:creator><dc:creator>Peter Carmeliet</dc:creator><dc:creator>Marc Tessier-Lavigne</dc:creator><dc:creator>Anne Eichmann</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06944-2</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-18; | doi:10.1038/s41586-023-06944-2</dc:source>
-            <dc:date>2023-12-18</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06944-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06944-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06932-6">
-            <title><![CDATA[Designer Phospholipid Capping Ligands for Soft Metal Halide Nanocrystals]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06932-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 18 December 2023; <a href="https://www.nature.com/articles/s41586-023-06932-6">doi:10.1038/s41586-023-06932-6</a></p>XXX.]]></content:encoded>
-            <dc:title><![CDATA[Designer Phospholipid Capping Ligands for Soft Metal Halide Nanocrystals]]></dc:title>
-            <dc:creator>Viktoriia Morad</dc:creator><dc:creator>Andriy Stelmakh</dc:creator><dc:creator>Mariia Svyrydenko</dc:creator><dc:creator>Leon G. Feld</dc:creator><dc:creator>Simon C. Boehme</dc:creator><dc:creator>Marcel Aebli</dc:creator><dc:creator>Joel Affolter</dc:creator><dc:creator>Christoph J. Kaul</dc:creator><dc:creator>Nadine J. Schrenker</dc:creator><dc:creator>Sara Bals</dc:creator><dc:creator>Yesim Sahin</dc:creator><dc:creator>Dmitry N. Dirin</dc:creator><dc:creator>Ihor Cherniukh</dc:creator><dc:creator>Gabriele Raino</dc:creator><dc:creator>Andrij Baumketner</dc:creator><dc:creator>Maksym V. Kovalenko</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06932-6</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-18; | doi:10.1038/s41586-023-06932-6</dc:source>
-            <dc:date>2023-12-18</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06932-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06932-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06954-0">
-            <title><![CDATA[The energetic and allosteric landscape for KRAS inhibition]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06954-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 18 December 2023; <a href="https://www.nature.com/articles/s41586-023-06954-0">doi:10.1038/s41586-023-06954-0</a></p>The energetic and allosteric landscape for KRAS inhibition]]></content:encoded>
-            <dc:title><![CDATA[The energetic and allosteric landscape for KRAS inhibition]]></dc:title>
-            <dc:creator>Chenchun Weng</dc:creator><dc:creator>Andre J. Faure</dc:creator><dc:creator>Albert Escobedo</dc:creator><dc:creator>Ben Lehner</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06954-0</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-18; | doi:10.1038/s41586-023-06954-0</dc:source>
-            <dc:date>2023-12-18</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06954-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06954-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06943-3">
-            <title><![CDATA[Retraction Note: APP binds DR6 to trigger axon pruning and neuron death via distinct caspases]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06943-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 18 December 2023; <a href="https://www.nature.com/articles/s41586-023-06943-3">doi:10.1038/s41586-023-06943-3</a></p>Retraction Note: APP binds DR6 to trigger axon pruning and neuron death via distinct caspases]]></content:encoded>
-            <dc:title><![CDATA[Retraction Note: APP binds DR6 to trigger axon pruning and neuron death via distinct caspases]]></dc:title>
-            <dc:creator>Anatoly Nikolaev</dc:creator><dc:creator>Todd McLaughlin</dc:creator><dc:creator>Dennis D. M. O’Leary</dc:creator><dc:creator>Marc Tessier-Lavigne</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06943-3</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-18; | doi:10.1038/s41586-023-06943-3</dc:source>
-            <dc:date>2023-12-18</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06943-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06943-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06962-0">
-            <title><![CDATA[Country-specific net-zero strategies of the pulp and paper industry]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06962-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 18 December 2023; <a href="https://www.nature.com/articles/s41586-023-06962-0">doi:10.1038/s41586-023-06962-0</a></p>Country-specific net-zero strategies of the pulp and paper industry]]></content:encoded>
-            <dc:title><![CDATA[Country-specific net-zero strategies of the pulp and paper industry]]></dc:title>
-            <dc:creator>Min Dai</dc:creator><dc:creator>Mingxing Sun</dc:creator><dc:creator>Bin Chen</dc:creator><dc:creator>Lei Shi</dc:creator><dc:creator>Mingzhou Jin</dc:creator><dc:creator>Yi Man</dc:creator><dc:creator>Ziyang Liang</dc:creator><dc:creator>Cecilia Maria Villas Bôas de Almeida</dc:creator><dc:creator>Jiashuo Li</dc:creator><dc:creator>Pengfei Zhang</dc:creator><dc:creator>Anthony S. F. Chiu</dc:creator><dc:creator>Ming Xu</dc:creator><dc:creator>Huajun Yu</dc:creator><dc:creator>Jing Meng</dc:creator><dc:creator>Yutao Wang</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06962-0</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-18; | doi:10.1038/s41586-023-06962-0</dc:source>
-            <dc:date>2023-12-18</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06962-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06962-0</prism:url>
         </item>
     
 </rdf:RDF>
