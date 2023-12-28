@@ -18,6 +18,12 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04046-7"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04167-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04078-z"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04170-4"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04154-4"/>
@@ -162,12 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04028-9"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04146-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04021-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04080-5"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,51 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-04046-7">
+            <title><![CDATA[The <i>Nature Podcast</i> highlights of 2023]]></title>
+            <link>https://www.nature.com/articles/d41586-023-04046-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 27 December 2023; <a href="https://www.nature.com/articles/d41586-023-04046-7">doi:10.1038/d41586-023-04046-7</a></p>The team select some of their favourite stories from the past 12 months.]]></content:encoded>
+            <dc:title><![CDATA[The <i>Nature Podcast</i> highlights of 2023]]></dc:title>
+            <dc:creator>Benjamin Thompson</dc:creator><dc:creator>Nick Petrić Howe</dc:creator><dc:creator>Noah Baker</dc:creator><dc:creator>Dan Fox</dc:creator><dc:creator>Shamini Bundell</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-04046-7</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-27; | doi:10.1038/d41586-023-04046-7</dc:source>
+            <dc:date>2023-12-27</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-04046-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-04046-7</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-04167-z">
+            <title><![CDATA[Super-propulsion: how sharpshooting insects flick their pee]]></title>
+            <link>https://www.nature.com/articles/d41586-023-04167-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 27 December 2023; <a href="https://www.nature.com/articles/d41586-023-04167-z">doi:10.1038/d41586-023-04167-z</a></p>High-speed cameras reveal tiny insects employing a physical phenomenon, never-before seen in a natural system to avoid drowning in their own urine]]></content:encoded>
+            <dc:title><![CDATA[Super-propulsion: how sharpshooting insects flick their pee]]></dc:title>
+            <dc:creator>Noah Baker</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-04167-z</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-27; | doi:10.1038/d41586-023-04167-z</dc:source>
+            <dc:date>2023-12-27</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-04167-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-04167-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-04078-z">
+            <title><![CDATA[From the archive: waltzing mice, and Louis Pasteur’s beer battle]]></title>
+            <link>https://www.nature.com/articles/d41586-023-04078-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 27 December 2023; <a href="https://www.nature.com/articles/d41586-023-04078-z">doi:10.1038/d41586-023-04078-z</a></p>Snippets from Nature’s past.]]></content:encoded>
+            <dc:title><![CDATA[From the archive: waltzing mice, and Louis Pasteur’s beer battle]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-04078-z</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-27; | doi:10.1038/d41586-023-04078-z</dc:source>
+            <dc:date>2023-12-27</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-04078-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-04078-z</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-04170-4">
             <title><![CDATA[Festive parody songs from the <i>Nature Podcast</i>]]></title>
@@ -391,7 +436,7 @@
             <title><![CDATA[AI consciousness: scientists say we urgently need answers]]></title>
             <link>https://www.nature.com/articles/d41586-023-04047-6</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 21 December 2023; <a href="https://www.nature.com/articles/d41586-023-04047-6">doi:10.1038/d41586-023-04047-6</a></p>Researchers calls for more funding to study the boundary between conscious and unconscious systems.]]></content:encoded>
+                <![CDATA[<p>Nature, Published online: 21 December 2023; <a href="https://www.nature.com/articles/d41586-023-04047-6">doi:10.1038/d41586-023-04047-6</a></p>Researchers call for more funding to study the boundary between conscious and unconscious systems.]]></content:encoded>
             <dc:title><![CDATA[AI consciousness: scientists say we urgently need answers]]></dc:title>
             <dc:creator>Mariana Lenharo</dc:creator>
             <dc:identifier>doi:10.1038/d41586-023-04047-6</dc:identifier>
@@ -1255,51 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-04028-9</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-04028-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-04146-4">
-            <title><![CDATA[AI &amp; robotics briefing: First non-human on <i>Nature</i>’s 10 list]]></title>
-            <link>https://www.nature.com/articles/d41586-023-04146-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 19 December 2023; <a href="https://www.nature.com/articles/d41586-023-04146-4">doi:10.1038/d41586-023-04146-4</a></p>ChatGPT is the first non-human addition to the list of people who shaped science. Plus, DeepMind AI outdoes human mathematicians on unsolved problem and chatbot can help to bridge political divides.]]></content:encoded>
-            <dc:title><![CDATA[AI &amp; robotics briefing: First non-human on <i>Nature</i>’s 10 list]]></dc:title>
-            <dc:creator>Katrina Krämer</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-04146-4</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-19; | doi:10.1038/d41586-023-04146-4</dc:source>
-            <dc:date>2023-12-19</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-04146-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-04146-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-04021-2">
-            <title><![CDATA[From Einstein to AI: how 100 years have shaped science]]></title>
-            <link>https://www.nature.com/articles/d41586-023-04021-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 19 December 2023; <a href="https://www.nature.com/articles/d41586-023-04021-2">doi:10.1038/d41586-023-04021-2</a></p>Looking back a century reveals how much the research landscape has changed — and how unclear the consequences of scientific innovation can be.]]></content:encoded>
-            <dc:title><![CDATA[From Einstein to AI: how 100 years have shaped science]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-04021-2</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-19; | doi:10.1038/d41586-023-04021-2</dc:source>
-            <dc:date>2023-12-19</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-04021-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-04021-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-04080-5">
-            <title><![CDATA[How <i>Dark Souls</i> and Darth Revan helped me to make sense of my professorship]]></title>
-            <link>https://www.nature.com/articles/d41586-023-04080-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 19 December 2023; <a href="https://www.nature.com/articles/d41586-023-04080-5">doi:10.1038/d41586-023-04080-5</a></p>John Tregoning compares academia to role-playing video games as a way to discuss how the choices we make can affect the paths we take.]]></content:encoded>
-            <dc:title><![CDATA[How <i>Dark Souls</i> and Darth Revan helped me to make sense of my professorship]]></dc:title>
-            <dc:creator>John Tregoning</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-04080-5</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-19; | doi:10.1038/d41586-023-04080-5</dc:source>
-            <dc:date>2023-12-19</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-04080-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-04080-5</prism:url>
         </item>
     
 </rdf:RDF>
