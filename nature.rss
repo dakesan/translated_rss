@@ -18,15 +18,31 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06994-6"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06930-8"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06995-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-07002-7"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04164-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03999-z"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04162-4"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04165-1"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04019-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04092-1"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04163-3"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04089-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04091-2"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04007-0"/>
                 
@@ -152,22 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03833-6"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03789-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04060-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04056-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04059-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04061-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04057-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04055-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04062-7"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,66 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-023-06994-6">
+            <title><![CDATA[Publisher Correction: m<sup>1</sup>A in CAG repeat RNA binds to TDP-43 and induces neurodegeneration]]></title>
+            <link>https://www.nature.com/articles/s41586-023-06994-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 02 January 2024; <a href="https://www.nature.com/articles/s41586-023-06994-6">doi:10.1038/s41586-023-06994-6</a></p>Publisher Correction: m<sup>1</sup>A in CAG repeat RNA binds to TDP-43 and induces neurodegeneration]]></content:encoded>
+            <dc:title><![CDATA[Publisher Correction: m<sup>1</sup>A in CAG repeat RNA binds to TDP-43 and induces neurodegeneration]]></dc:title>
+            <dc:creator>Yuxiang Sun</dc:creator><dc:creator>Hui Dai</dc:creator><dc:creator>Xiaoxia Dai</dc:creator><dc:creator>Jiekai Yin</dc:creator><dc:creator>Yuxiang Cui</dc:creator><dc:creator>Xiaochuan Liu</dc:creator><dc:creator>Gwendolyn Gonzalez</dc:creator><dc:creator>Jun Yuan</dc:creator><dc:creator>Feng Tang</dc:creator><dc:creator>Nan Wang</dc:creator><dc:creator>Alexandra E. Perlegos</dc:creator><dc:creator>Nancy M. Bonini</dc:creator><dc:creator>X. William Yang</dc:creator><dc:creator>Weifeng Gu</dc:creator><dc:creator>Yinsheng Wang</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-023-06994-6</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-02; | doi:10.1038/s41586-023-06994-6</dc:source>
+            <dc:date>2024-01-02</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-023-06994-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-023-06994-6</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-023-06930-8">
+            <title><![CDATA[Author Correction: Geophysical evidence for an enriched molten silicate layer above Mars’s core]]></title>
+            <link>https://www.nature.com/articles/s41586-023-06930-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 02 January 2024; <a href="https://www.nature.com/articles/s41586-023-06930-8">doi:10.1038/s41586-023-06930-8</a></p>Author Correction: Geophysical evidence for an enriched molten silicate layer above Mars’s core]]></content:encoded>
+            <dc:title><![CDATA[Author Correction: Geophysical evidence for an enriched molten silicate layer above Mars’s core]]></dc:title>
+            <dc:creator>Henri Samuel</dc:creator><dc:creator>Mélanie Drilleau</dc:creator><dc:creator>Attilio Rivoldini</dc:creator><dc:creator>Zongbo Xu</dc:creator><dc:creator>Quancheng Huang</dc:creator><dc:creator>Raphaël F. Garcia</dc:creator><dc:creator>Vedran Lekić</dc:creator><dc:creator>Jessica C. E. Irving</dc:creator><dc:creator>James Badro</dc:creator><dc:creator>Philippe H. Lognonné</dc:creator><dc:creator>James A. D. Connolly</dc:creator><dc:creator>Taichi Kawamura</dc:creator><dc:creator>Tamara Gudkova</dc:creator><dc:creator>William B. Banerdt</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-023-06930-8</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-02; | doi:10.1038/s41586-023-06930-8</dc:source>
+            <dc:date>2024-01-02</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-023-06930-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-023-06930-8</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-023-06995-5">
+            <title><![CDATA[Author Correction: Bacterial pathogens deliver water- and solute-permeable channels to plant cells]]></title>
+            <link>https://www.nature.com/articles/s41586-023-06995-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 02 January 2024; <a href="https://www.nature.com/articles/s41586-023-06995-5">doi:10.1038/s41586-023-06995-5</a></p>Author Correction: Bacterial pathogens deliver water- and solute-permeable channels to plant cells]]></content:encoded>
+            <dc:title><![CDATA[Author Correction: Bacterial pathogens deliver water- and solute-permeable channels to plant cells]]></dc:title>
+            <dc:creator>Kinya Nomura</dc:creator><dc:creator>Felipe Andreazza</dc:creator><dc:creator>Jie Cheng</dc:creator><dc:creator>Ke Dong</dc:creator><dc:creator>Pei Zhou</dc:creator><dc:creator>Sheng Yang He</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-023-06995-5</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-02; | doi:10.1038/s41586-023-06995-5</dc:source>
+            <dc:date>2024-01-02</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-023-06995-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-023-06995-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-023-07002-7">
+            <title><![CDATA[Author Correction: Apoptotic stress causes mtDNA release during senescence and drives the SASP]]></title>
+            <link>https://www.nature.com/articles/s41586-023-07002-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 02 January 2024; <a href="https://www.nature.com/articles/s41586-023-07002-7">doi:10.1038/s41586-023-07002-7</a></p>Author Correction: Apoptotic stress causes mtDNA release during senescence and drives the SASP]]></content:encoded>
+            <dc:title><![CDATA[Author Correction: Apoptotic stress causes mtDNA release during senescence and drives the SASP]]></dc:title>
+            <dc:creator>Stella Victorelli</dc:creator><dc:creator>Hanna Salmonowicz</dc:creator><dc:creator>James Chapman</dc:creator><dc:creator>Helene Martini</dc:creator><dc:creator>Maria Grazia Vizioli</dc:creator><dc:creator>Joel S. Riley</dc:creator><dc:creator>Catherine Cloix</dc:creator><dc:creator>Ella Hall-Younger</dc:creator><dc:creator>Jair Machado Espindola-Netto</dc:creator><dc:creator>Diana Jurk</dc:creator><dc:creator>Anthony B. Lagnado</dc:creator><dc:creator>Lilian Sales Gomez</dc:creator><dc:creator>Joshua N. Farr</dc:creator><dc:creator>Dominik Saul</dc:creator><dc:creator>Rebecca Reed</dc:creator><dc:creator>George Kelly</dc:creator><dc:creator>Madeline Eppard</dc:creator><dc:creator>Laura C. Greaves</dc:creator><dc:creator>Zhixun Dou</dc:creator><dc:creator>Nicholas Pirius</dc:creator><dc:creator>Karolina Szczepanowska</dc:creator><dc:creator>Rebecca A. Porritt</dc:creator><dc:creator>Huijie Huang</dc:creator><dc:creator>Timothy Y. Huang</dc:creator><dc:creator>Derek A. Mann</dc:creator><dc:creator>Claudio Akio Masuda</dc:creator><dc:creator>Sundeep Khosla</dc:creator><dc:creator>Haiming Dai</dc:creator><dc:creator>Scott H. Kaufmann</dc:creator><dc:creator>Emmanouil Zacharioudakis</dc:creator><dc:creator>Evripidis Gavathiotis</dc:creator><dc:creator>Nathan K. LeBrasseur</dc:creator><dc:creator>Xue Lei</dc:creator><dc:creator>Alva G. Sainz</dc:creator><dc:creator>Viktor I. Korolchuk</dc:creator><dc:creator>Peter D. Adams</dc:creator><dc:creator>Gerald S. Shadel</dc:creator><dc:creator>Stephen W. G. Tait</dc:creator><dc:creator>João F. Passos</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-023-07002-7</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-02; | doi:10.1038/s41586-023-07002-7</dc:source>
+            <dc:date>2024-01-02</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-023-07002-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-023-07002-7</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-04164-2">
             <title><![CDATA[Ethics compliance should not delay biomedical advances]]></title>
@@ -190,6 +250,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-04164-2</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-04164-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03999-z">
+            <title><![CDATA[From the archive: a towering legacy, and unseasonal wasps]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03999-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 02 January 2024; <a href="https://www.nature.com/articles/d41586-023-03999-z">doi:10.1038/d41586-023-03999-z</a></p>Snippets from Nature’s past.]]></content:encoded>
+            <dc:title><![CDATA[From the archive: a towering legacy, and unseasonal wasps]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-03999-z</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-02; | doi:10.1038/d41586-023-03999-z</dc:source>
+            <dc:date>2024-01-02</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03999-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03999-z</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-04162-4">
@@ -222,6 +297,36 @@
             <prism:url>https://www.nature.com/articles/d41586-023-04165-1</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-023-04019-w">
+            <title><![CDATA[Guardian immune cells keep kidney stones at bay]]></title>
+            <link>https://www.nature.com/articles/d41586-023-04019-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 02 January 2024; <a href="https://www.nature.com/articles/d41586-023-04019-w">doi:10.1038/d41586-023-04019-w</a></p>Macrophages clear the urine of particles that could clump together to form painful masses.]]></content:encoded>
+            <dc:title><![CDATA[Guardian immune cells keep kidney stones at bay]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-04019-w</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-02; | doi:10.1038/d41586-023-04019-w</dc:source>
+            <dc:date>2024-01-02</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-04019-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-04019-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-04092-1">
+            <title><![CDATA[How badly does climate change affect coral? I dive to find out]]></title>
+            <link>https://www.nature.com/articles/d41586-023-04092-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 02 January 2024; <a href="https://www.nature.com/articles/d41586-023-04092-1">doi:10.1038/d41586-023-04092-1</a></p>By putting on my scuba suit and keeping track of corals in French Polynesia, I hope to determine how much stress they’re under.]]></content:encoded>
+            <dc:title><![CDATA[How badly does climate change affect coral? I dive to find out]]></dc:title>
+            <dc:creator>Patricia Maia Noronha</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-04092-1</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-02; | doi:10.1038/d41586-023-04092-1</dc:source>
+            <dc:date>2024-01-02</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-04092-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-04092-1</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-023-04163-3">
             <title><![CDATA[Eliminate undeclared as well as declared chemical weapons]]></title>
             <link>https://www.nature.com/articles/d41586-023-04163-3</link>
@@ -250,6 +355,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-04089-w</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-04089-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-04091-2">
+            <title><![CDATA[How sharing your science in an opinion piece can boost your career]]></title>
+            <link>https://www.nature.com/articles/d41586-023-04091-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 02 January 2024; <a href="https://www.nature.com/articles/d41586-023-04091-2">doi:10.1038/d41586-023-04091-2</a></p>Don’t rely solely on academic papers to raise your professional profile. General readers are interested in your opinions, too.]]></content:encoded>
+            <dc:title><![CDATA[How sharing your science in an opinion piece can boost your career]]></dc:title>
+            <dc:creator>Jane Palmer</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-04091-2</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-02; | doi:10.1038/d41586-023-04091-2</dc:source>
+            <dc:date>2024-01-02</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-04091-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-04091-2</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-04007-0">
@@ -1180,126 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-03833-6</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-03833-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03789-7">
-            <title><![CDATA[From the archive: scientific spelling, and ancient Egyptian art]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03789-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 19 December 2023; <a href="https://www.nature.com/articles/d41586-023-03789-7">doi:10.1038/d41586-023-03789-7</a></p>Snippets from Nature’s past.]]></content:encoded>
-            <dc:title><![CDATA[From the archive: scientific spelling, and ancient Egyptian art]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-03789-7</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-19; | doi:10.1038/d41586-023-03789-7</dc:source>
-            <dc:date>2023-12-19</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03789-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03789-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-04060-9">
-            <title><![CDATA[Is Brazil ready for gender equality in science?]]></title>
-            <link>https://www.nature.com/articles/d41586-023-04060-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 19 December 2023; <a href="https://www.nature.com/articles/d41586-023-04060-9">doi:10.1038/d41586-023-04060-9</a></p>Is Brazil ready for gender equality in science?]]></content:encoded>
-            <dc:title><![CDATA[Is Brazil ready for gender equality in science?]]></dc:title>
-            <dc:creator>Fernanda Staniscuaski</dc:creator><dc:creator>Leticia de Oliveira</dc:creator><dc:creator>Camila Infanger</dc:creator><dc:creator>Charikleia Tzanakou</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-04060-9</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-19; | doi:10.1038/d41586-023-04060-9</dc:source>
-            <dc:date>2023-12-19</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-04060-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-04060-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-04056-5">
-            <title><![CDATA[Devise an ethical open-access publishing model]]></title>
-            <link>https://www.nature.com/articles/d41586-023-04056-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 19 December 2023; <a href="https://www.nature.com/articles/d41586-023-04056-5">doi:10.1038/d41586-023-04056-5</a></p>Devise an ethical open-access publishing model]]></content:encoded>
-            <dc:title><![CDATA[Devise an ethical open-access publishing model]]></dc:title>
-            <dc:creator>Mark A. Elgar</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-04056-5</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-19; | doi:10.1038/d41586-023-04056-5</dc:source>
-            <dc:date>2023-12-19</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-04056-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-04056-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-04059-2">
-            <title><![CDATA[Heal the aftermath of intergenerational trauma and grief]]></title>
-            <link>https://www.nature.com/articles/d41586-023-04059-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 19 December 2023; <a href="https://www.nature.com/articles/d41586-023-04059-2">doi:10.1038/d41586-023-04059-2</a></p>Heal the aftermath of intergenerational trauma and grief]]></content:encoded>
-            <dc:title><![CDATA[Heal the aftermath of intergenerational trauma and grief]]></dc:title>
-            <dc:creator>Yafit Levin</dc:creator><dc:creator>Menachem Ben-Ezra</dc:creator><dc:creator>Yaira Hamama-Raz</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-04059-2</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-19; | doi:10.1038/d41586-023-04059-2</dc:source>
-            <dc:date>2023-12-19</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-04059-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-04059-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-04061-8">
-            <title><![CDATA[Canada must uphold its classification of single-use plastics]]></title>
-            <link>https://www.nature.com/articles/d41586-023-04061-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 19 December 2023; <a href="https://www.nature.com/articles/d41586-023-04061-8">doi:10.1038/d41586-023-04061-8</a></p>Canada must uphold its classification of single-use plastics]]></content:encoded>
-            <dc:title><![CDATA[Canada must uphold its classification of single-use plastics]]></dc:title>
-            <dc:creator>Tony R. Walker</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-04061-8</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-19; | doi:10.1038/d41586-023-04061-8</dc:source>
-            <dc:date>2023-12-19</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-04061-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-04061-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-04057-4">
-            <title><![CDATA[Short-sighted policies are fuelling Brazilian deforestation]]></title>
-            <link>https://www.nature.com/articles/d41586-023-04057-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 19 December 2023; <a href="https://www.nature.com/articles/d41586-023-04057-4">doi:10.1038/d41586-023-04057-4</a></p>Short-sighted policies are fuelling Brazilian deforestation]]></content:encoded>
-            <dc:title><![CDATA[Short-sighted policies are fuelling Brazilian deforestation]]></dc:title>
-            <dc:creator>Richard Fuchs</dc:creator><dc:creator>Joanna Raymond</dc:creator><dc:creator>Karina Winkler</dc:creator><dc:creator>Mark Rounsevell</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-04057-4</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-19; | doi:10.1038/d41586-023-04057-4</dc:source>
-            <dc:date>2023-12-19</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-04057-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-04057-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-04055-6">
-            <title><![CDATA[Should scientists delegate their writing to ChatGPT?]]></title>
-            <link>https://www.nature.com/articles/d41586-023-04055-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 19 December 2023; <a href="https://www.nature.com/articles/d41586-023-04055-6">doi:10.1038/d41586-023-04055-6</a></p>Should scientists delegate their writing to ChatGPT?]]></content:encoded>
-            <dc:title><![CDATA[Should scientists delegate their writing to ChatGPT?]]></dc:title>
-            <dc:creator>Christopher Basgier</dc:creator><dc:creator>Shyam Sharma</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-04055-6</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-19; | doi:10.1038/d41586-023-04055-6</dc:source>
-            <dc:date>2023-12-19</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-04055-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-04055-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-04062-7">
-            <title><![CDATA[Mentor–trainee dialogue on proper use of AI tools]]></title>
-            <link>https://www.nature.com/articles/d41586-023-04062-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 19 December 2023; <a href="https://www.nature.com/articles/d41586-023-04062-7">doi:10.1038/d41586-023-04062-7</a></p>Mentor–trainee dialogue on proper use of AI tools]]></content:encoded>
-            <dc:title><![CDATA[Mentor–trainee dialogue on proper use of AI tools]]></dc:title>
-            <dc:creator>Kazunari Yoshida</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-04062-7</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-19; | doi:10.1038/d41586-023-04062-7</dc:source>
-            <dc:date>2023-12-19</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-04062-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-04062-7</prism:url>
         </item>
     
 </rdf:RDF>
