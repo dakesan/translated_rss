@@ -18,6 +18,8 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00011-0"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06942-4"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00003-0"/>
@@ -166,8 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06883-y"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06867-y"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,21 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00011-0">
+            <title><![CDATA[Start 2024 by asking: ‘Why do science?’]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00011-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 04 January 2024; <a href="https://www.nature.com/articles/d41586-024-00011-0">doi:10.1038/d41586-024-00011-0</a></p>Step back from the usual lab-meeting format, and ask yourself and your colleagues why you all do what you do, say Mirko Treccani and Laura Veschetti.]]></content:encoded>
+            <dc:title><![CDATA[Start 2024 by asking: ‘Why do science?’]]></dc:title>
+            <dc:creator>Mirko  Treccani</dc:creator><dc:creator>Laura Veschetti</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00011-0</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-04; | doi:10.1038/d41586-024-00011-0</dc:source>
+            <dc:date>2024-01-04</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00011-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00011-0</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06942-4">
             <title><![CDATA[Publisher Correction: Structural insights into cytokine cleavage by inflammatory caspase-4]]></title>
@@ -1285,21 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/s41586-023-06883-y</prism:doi>
             <prism:url>https://www.nature.com/articles/s41586-023-06883-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06867-y">
-            <title><![CDATA[Structures of the promoter-bound respiratory syncytial virus polymerase]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06867-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 20 December 2023; <a href="https://www.nature.com/articles/s41586-023-06867-y">doi:10.1038/s41586-023-06867-y</a></p>A study reports cryogenic electron microscopy structures of the respiratory syncytial virus polymerase bound to its genomic and antigenomic viral RNA promoters.]]></content:encoded>
-            <dc:title><![CDATA[Structures of the promoter-bound respiratory syncytial virus polymerase]]></dc:title>
-            <dc:creator>Dongdong Cao</dc:creator><dc:creator>Yunrong Gao</dc:creator><dc:creator>Zhenhang Chen</dc:creator><dc:creator>Inesh Gooneratne</dc:creator><dc:creator>Claire Roesler</dc:creator><dc:creator>Cristopher Mera</dc:creator><dc:creator>Paul D’Cunha</dc:creator><dc:creator>Anna Antonova</dc:creator><dc:creator>Deepak Katta</dc:creator><dc:creator>Sarah Romanelli</dc:creator><dc:creator>Qi Wang</dc:creator><dc:creator>Samantha Rice</dc:creator><dc:creator>Wesley Lemons</dc:creator><dc:creator>Anita Ramanathan</dc:creator><dc:creator>Bo Liang</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06867-y</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-20; | doi:10.1038/s41586-023-06867-y</dc:source>
-            <dc:date>2023-12-20</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06867-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06867-y</prism:url>
         </item>
     
 </rdf:RDF>
