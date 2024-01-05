@@ -18,6 +18,8 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00019-6"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04018-x"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04020-3"/>
@@ -166,8 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06857-0"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06845-4"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,21 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00019-6">
+            <title><![CDATA[The handwriting of the greats, and solutions that make things worse: Books in brief]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00019-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 05 January 2024; <a href="https://www.nature.com/articles/d41586-024-00019-6">doi:10.1038/d41586-024-00019-6</a></p>Andrew Robinson reviews five of the best science picks.]]></content:encoded>
+            <dc:title><![CDATA[The handwriting of the greats, and solutions that make things worse: Books in brief]]></dc:title>
+            <dc:creator>Andrew Robinson</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00019-6</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-05; | doi:10.1038/d41586-024-00019-6</dc:source>
+            <dc:date>2024-01-05</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00019-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00019-6</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-04018-x">
             <title><![CDATA[A record-setting transplant heals a baby’s broken heart]]></title>
@@ -1285,21 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/s41586-023-06857-0</prism:doi>
             <prism:url>https://www.nature.com/articles/s41586-023-06857-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06845-4">
-            <title><![CDATA[RNA-mediated symmetry breaking enables singular olfactory receptor choice]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06845-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 20 December 2023; <a href="https://www.nature.com/articles/s41586-023-06845-4">doi:10.1038/s41586-023-06845-4</a></p>Messenger RNAs transcribed from olfactory-receptor genes may have non-coding functions that include recruitment of transcriptional enhancers and inhibition of potentially thousands of competing alleles to ensure stable transcription of a single allele.]]></content:encoded>
-            <dc:title><![CDATA[RNA-mediated symmetry breaking enables singular olfactory receptor choice]]></dc:title>
-            <dc:creator>Ariel D. Pourmorady</dc:creator><dc:creator>Elizaveta V. Bashkirova</dc:creator><dc:creator>Andrea M. Chiariello</dc:creator><dc:creator>Houda Belagzhal</dc:creator><dc:creator>Albana Kodra</dc:creator><dc:creator>Rachel Duffié</dc:creator><dc:creator>Jerome Kahiapo</dc:creator><dc:creator>Kevin Monahan</dc:creator><dc:creator>Joan Pulupa</dc:creator><dc:creator>Ira Schieren</dc:creator><dc:creator>Alexa Osterhoudt</dc:creator><dc:creator>Job Dekker</dc:creator><dc:creator>Mario Nicodemi</dc:creator><dc:creator>Stavros Lomvardas</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06845-4</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-20; | doi:10.1038/s41586-023-06845-4</dc:source>
-            <dc:date>2023-12-20</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06845-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06845-4</prism:url>
         </item>
     
 </rdf:RDF>
