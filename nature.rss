@@ -18,7 +18,11 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-07007-2"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00019-6"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00012-z"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04018-x"/>
                 
@@ -164,10 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04151-7"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06861-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06857-0"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,21 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-023-07007-2">
+            <title><![CDATA[Publisher Correction: Landscape-scale benefits of protected areas for tropical biodiversity]]></title>
+            <link>https://www.nature.com/articles/s41586-023-07007-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 05 January 2024; <a href="https://www.nature.com/articles/s41586-023-07007-2">doi:10.1038/s41586-023-07007-2</a></p>Publisher Correction: Landscape-scale benefits of protected areas for tropical biodiversity]]></content:encoded>
+            <dc:title><![CDATA[Publisher Correction: Landscape-scale benefits of protected areas for tropical biodiversity]]></dc:title>
+            <dc:creator>Jedediah F. Brodie</dc:creator><dc:creator>Jayasilan Mohd-Azlan</dc:creator><dc:creator>Cheng Chen</dc:creator><dc:creator>Oliver R. Wearn</dc:creator><dc:creator>Mairin C. M. Deith</dc:creator><dc:creator>James G. C. Ball</dc:creator><dc:creator>Eleanor M. Slade</dc:creator><dc:creator>David F. R. P. Burslem</dc:creator><dc:creator>Shu Woan Teoh</dc:creator><dc:creator>Peter J. Williams</dc:creator><dc:creator>An Nguyen</dc:creator><dc:creator>Jonathan H. Moore</dc:creator><dc:creator>Scott J. Goetz</dc:creator><dc:creator>Patrick Burns</dc:creator><dc:creator>Patrick Jantz</dc:creator><dc:creator>Christopher R. Hakkenberg</dc:creator><dc:creator>Zaneta M. Kaszta</dc:creator><dc:creator>Sam Cushman</dc:creator><dc:creator>David Coomes</dc:creator><dc:creator>Olga E. Helmy</dc:creator><dc:creator>Glen Reynolds</dc:creator><dc:creator>Jon Paul Rodríguez</dc:creator><dc:creator>Walter Jetz</dc:creator><dc:creator>Matthew Scott Luskin</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-023-07007-2</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-05; | doi:10.1038/s41586-023-07007-2</dc:source>
+            <dc:date>2024-01-05</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-023-07007-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-023-07007-2</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00019-6">
             <title><![CDATA[The handwriting of the greats, and solutions that make things worse: Books in brief]]></title>
@@ -190,6 +205,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00019-6</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00019-6</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00012-z">
+            <title><![CDATA[Potent psychedelic drug banishes PTSD, small study finds]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00012-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 05 January 2024; <a href="https://www.nature.com/articles/d41586-024-00012-z">doi:10.1038/d41586-024-00012-z</a></p>Military veterans with cognitive and psychological problems saw drastic improvements after a dose of ibogaine.]]></content:encoded>
+            <dc:title><![CDATA[Potent psychedelic drug banishes PTSD, small study finds]]></dc:title>
+            <dc:creator>Max Kozlov</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00012-z</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-05; | doi:10.1038/d41586-024-00012-z</dc:source>
+            <dc:date>2024-01-05</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00012-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00012-z</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-04018-x">
@@ -1270,36 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-04151-7</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-04151-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06861-4">
-            <title><![CDATA[Disproportionate declines of formerly abundant species underlie insect loss]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06861-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 20 December 2023; <a href="https://www.nature.com/articles/s41586-023-06861-4">doi:10.1038/s41586-023-06861-4</a></p>An analysis of more than 500 sites distributed worldwide finds that declines in the abundance of terrestrial insects are attributable mainly to decreases in species that were formerly abundant, rather than being the result of losses of rare species.]]></content:encoded>
-            <dc:title><![CDATA[Disproportionate declines of formerly abundant species underlie insect loss]]></dc:title>
-            <dc:creator>Roel van Klink</dc:creator><dc:creator>Diana E. Bowler</dc:creator><dc:creator>Konstantin B. Gongalsky</dc:creator><dc:creator>Minghua Shen</dc:creator><dc:creator>Scott R. Swengel</dc:creator><dc:creator>Jonathan M. Chase</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06861-4</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-20; | doi:10.1038/s41586-023-06861-4</dc:source>
-            <dc:date>2023-12-20</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06861-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06861-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06857-0">
-            <title><![CDATA[Mitochondrial dysfunction abrogates dietary lipid processing in enterocytes]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06857-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 20 December 2023; <a href="https://www.nature.com/articles/s41586-023-06857-0">doi:10.1038/s41586-023-06857-0</a></p>Mitochondria have a pivotal role in the transport of dietary lipids in enterocytes, a finding that might have relevance to understanding the aberrant gastrointestinal function in patients with mitochondrial disorders.]]></content:encoded>
-            <dc:title><![CDATA[Mitochondrial dysfunction abrogates dietary lipid processing in enterocytes]]></dc:title>
-            <dc:creator>Chrysanthi Moschandrea</dc:creator><dc:creator>Vangelis Kondylis</dc:creator><dc:creator>Ioannis Evangelakos</dc:creator><dc:creator>Marija Herholz</dc:creator><dc:creator>Farina Schneider</dc:creator><dc:creator>Christina Schmidt</dc:creator><dc:creator>Ming Yang</dc:creator><dc:creator>Sandra Ehret</dc:creator><dc:creator>Markus Heine</dc:creator><dc:creator>Michelle Y. Jaeckstein</dc:creator><dc:creator>Karolina Szczepanowska</dc:creator><dc:creator>Robin Schwarzer</dc:creator><dc:creator>Linda Baumann</dc:creator><dc:creator>Theresa Bock</dc:creator><dc:creator>Efterpi Nikitopoulou</dc:creator><dc:creator>Susanne Brodesser</dc:creator><dc:creator>Marcus Krüger</dc:creator><dc:creator>Christian Frezza</dc:creator><dc:creator>Joerg Heeren</dc:creator><dc:creator>Aleksandra Trifunovic</dc:creator><dc:creator>Manolis Pasparakis</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06857-0</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-20; | doi:10.1038/s41586-023-06857-0</dc:source>
-            <dc:date>2023-12-20</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06857-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06857-0</prism:url>
         </item>
     
 </rdf:RDF>
