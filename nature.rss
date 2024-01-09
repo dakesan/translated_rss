@@ -18,6 +18,20 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00008-9"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00034-7"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00018-7"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06752-8"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00016-9"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04064-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00017-8"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04077-0"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-07007-2"/>
@@ -132,6 +146,8 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04085-0"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00002-1"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03474-9"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04166-0"/>
@@ -152,22 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04160-6"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04168-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04157-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04041-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06963-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06952-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06976-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06981-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04073-4"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,111 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00008-9">
+            <title><![CDATA[Life is short for baby monkeys amid the oil palms]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00008-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 January 2024; <a href="https://www.nature.com/articles/d41586-024-00008-9">doi:10.1038/d41586-024-00008-9</a></p>Young southern pig-tailed macaques, an endangered species, are less likely to reach their first birthday if they spend time on plantations.]]></content:encoded>
+            <dc:title><![CDATA[Life is short for baby monkeys amid the oil palms]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-00008-9</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-08; | doi:10.1038/d41586-024-00008-9</dc:source>
+            <dc:date>2024-01-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00008-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00008-9</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00034-7">
+            <title><![CDATA[Tasmanian devil die-off is shifting another predator’s genetics]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00034-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 January 2024; <a href="https://www.nature.com/articles/d41586-024-00034-7">doi:10.1038/d41586-024-00034-7</a></p>Devil population crashes caused by contagious tumours have knock-on effects elsewhere in the food chain.]]></content:encoded>
+            <dc:title><![CDATA[Tasmanian devil die-off is shifting another predator’s genetics]]></dc:title>
+            <dc:creator>Miryam Naddaf</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00034-7</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-08; | doi:10.1038/d41586-024-00034-7</dc:source>
+            <dc:date>2024-01-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00034-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00034-7</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00018-7">
+            <title><![CDATA[How I fuse Western science with Traditional Knowledge]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00018-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 January 2024; <a href="https://www.nature.com/articles/d41586-024-00018-7">doi:10.1038/d41586-024-00018-7</a></p>Indigenous Canadian ecologist Jennifer Grenz abandons colonial restoration dogma to reshape land systems according to community needs.]]></content:encoded>
+            <dc:title><![CDATA[How I fuse Western science with Traditional Knowledge]]></dc:title>
+            <dc:creator>Virginia Gewin</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00018-7</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-08; | doi:10.1038/d41586-024-00018-7</dc:source>
+            <dc:date>2024-01-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00018-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00018-7</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-023-06752-8">
+            <title><![CDATA[Ionized gas extends over 40 kpc in an odd radio circle host galaxy]]></title>
+            <link>https://www.nature.com/articles/s41586-023-06752-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 January 2024; <a href="https://www.nature.com/articles/s41586-023-06752-8">doi:10.1038/s41586-023-06752-8</a></p>We find that the optical emission due to ionized gas that is characteristic of a shock extends 40 kpc in diameter across the host galaxy of an odd radio circle.]]></content:encoded>
+            <dc:title><![CDATA[Ionized gas extends over 40 kpc in an odd radio circle host galaxy]]></dc:title>
+            <dc:creator>Alison L. Coil</dc:creator><dc:creator>Serena Perrotta</dc:creator><dc:creator>David S. N. Rupke</dc:creator><dc:creator>Cassandra Lochhaas</dc:creator><dc:creator>Christy A. Tremonti</dc:creator><dc:creator>Aleks Diamond-Stanic</dc:creator><dc:creator>Drummond Fielding</dc:creator><dc:creator>James E. Geach</dc:creator><dc:creator>Ryan C. Hickox</dc:creator><dc:creator>John Moustakas</dc:creator><dc:creator>Gregory H. Rudnick</dc:creator><dc:creator>Paul Sell</dc:creator><dc:creator>Kelly E. Whalen</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-023-06752-8</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-08; | doi:10.1038/s41586-023-06752-8</dc:source>
+            <dc:date>2024-01-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-023-06752-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-023-06752-8</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00016-9">
+            <title><![CDATA[How we remember the dead by their digital afterlives]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00016-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 January 2024; <a href="https://www.nature.com/articles/d41586-024-00016-9">doi:10.1038/d41586-024-00016-9</a></p>A broad-ranging analysis asks whether we can achieve a kind of immortality by documenting our lives and deaths online.]]></content:encoded>
+            <dc:title><![CDATA[How we remember the dead by their digital afterlives]]></dc:title>
+            <dc:creator>Margaret  Gibson</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00016-9</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-08; | doi:10.1038/d41586-024-00016-9</dc:source>
+            <dc:date>2024-01-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00016-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00016-9</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-04064-5">
+            <title><![CDATA[Private US Moon mission launches — will it open a new era for science?]]></title>
+            <link>https://www.nature.com/articles/d41586-023-04064-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 January 2024; <a href="https://www.nature.com/articles/d41586-023-04064-5">doi:10.1038/d41586-023-04064-5</a></p>Astrobotic could be the first commercial firm to successfully deliver research equipment to the lunar surface, if it sticks the landing.]]></content:encoded>
+            <dc:title><![CDATA[Private US Moon mission launches — will it open a new era for science?]]></dc:title>
+            <dc:creator>Alexandra Witze</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-04064-5</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-08; | doi:10.1038/d41586-023-04064-5</dc:source>
+            <dc:date>2024-01-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-04064-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-04064-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00017-8">
+            <title><![CDATA[Boosting microbiome science worldwide could save millions of children’s lives]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00017-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 January 2024; <a href="https://www.nature.com/articles/d41586-024-00017-8">doi:10.1038/d41586-024-00017-8</a></p>Studies of the microbes living on and in our bodies are conducted mainly in a few rich countries, squandering opportunities to improve the health of people globally.]]></content:encoded>
+            <dc:title><![CDATA[Boosting microbiome science worldwide could save millions of children’s lives]]></dc:title>
+            <dc:creator>Hilary P.  Browne</dc:creator><dc:creator>Najeeha Talat  Iqbal</dc:creator><dc:creator>Majdi  Osman</dc:creator><dc:creator>Caroline  Tigoi</dc:creator><dc:creator>Trevor D.  Lawley</dc:creator><dc:creator>Jeffrey I.  Gordon</dc:creator><dc:creator>Tahmeed   Ahmed</dc:creator><dc:creator>Samuel  Kariuki</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00017-8</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-08; | doi:10.1038/d41586-024-00017-8</dc:source>
+            <dc:date>2024-01-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00017-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00017-8</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-04077-0">
             <title><![CDATA[Antibiotic resistance is a growing threat — is climate change making it worse?]]></title>
@@ -1032,6 +1137,21 @@
             <prism:url>https://www.nature.com/articles/d41586-023-04085-0</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00002-1">
+            <title><![CDATA[Daily briefing: Cosy jumper mimics polar bear fur]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00002-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 22 December 2023; <a href="https://www.nature.com/articles/d41586-024-00002-1">doi:10.1038/d41586-024-00002-1</a></p>A polar-bear-fur-inspired jumper is thinner than a down jacket and just as warm. Plus, a GPT-powered robot chemist might be the best lab partner and ten of the best science books of 2023.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Cosy jumper mimics polar bear fur]]></dc:title>
+            <dc:creator>Katrina Krämer</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00002-1</dc:identifier>
+            <dc:source>Nature, Published online: 2023-12-22; | doi:10.1038/d41586-024-00002-1</dc:source>
+            <dc:date>2023-12-22</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00002-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00002-1</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-023-03474-9">
             <title><![CDATA[Citations show gender bias — and the reasons are surprising]]></title>
             <link>https://www.nature.com/articles/d41586-023-03474-9</link>
@@ -1180,126 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-04160-6</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-04160-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-04168-y">
-            <title><![CDATA[Daily briefing: Criticism hits nematode cancer tests]]></title>
-            <link>https://www.nature.com/articles/d41586-023-04168-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 21 December 2023; <a href="https://www.nature.com/articles/d41586-023-04168-y">doi:10.1038/d41586-023-04168-y</a></p>Doctors have raised concerns that a commercial cancer test produces high levels of false negatives and false positives. Plus, a surge in extreme forest fires fuels global emissions and what quantum theory implies about determinism.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: Criticism hits nematode cancer tests]]></dc:title>
-            <dc:creator>Flora Graham</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-04168-y</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-21; | doi:10.1038/d41586-023-04168-y</dc:source>
-            <dc:date>2023-12-21</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-04168-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-04168-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-04157-1">
-            <title><![CDATA[How I became the ‘hoodie girl’: attending conferences as a neurodiverse scientist]]></title>
-            <link>https://www.nature.com/articles/d41586-023-04157-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 21 December 2023; <a href="https://www.nature.com/articles/d41586-023-04157-1">doi:10.1038/d41586-023-04157-1</a></p>Biostatistician Penny Robinson explains why conferences and networking events present challenges for neurodiverse scientists and suggests some simple fixes.]]></content:encoded>
-            <dc:title><![CDATA[How I became the ‘hoodie girl’: attending conferences as a neurodiverse scientist]]></dc:title>
-            <dc:creator>Anna Napolitano</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-04157-1</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-21; | doi:10.1038/d41586-023-04157-1</dc:source>
-            <dc:date>2023-12-21</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-04157-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-04157-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-04041-y">
-            <title><![CDATA[Why 2023 was a bittersweet year for Brazilian science]]></title>
-            <link>https://www.nature.com/articles/d41586-023-04041-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 21 December 2023; <a href="https://www.nature.com/articles/d41586-023-04041-y">doi:10.1038/d41586-023-04041-y</a></p>Expectations were high after Luiz Inácio Lula da Silva won the presidency. But some scientists are frustrated at the slow pace of change.]]></content:encoded>
-            <dc:title><![CDATA[Why 2023 was a bittersweet year for Brazilian science]]></dc:title>
-            <dc:creator>Meghie Rodrigues</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-04041-y</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-21; | doi:10.1038/d41586-023-04041-y</dc:source>
-            <dc:date>2023-12-21</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-04041-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-04041-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06963-z">
-            <title><![CDATA[Global population profile of tropical cyclone exposure from 2002 to 2019]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06963-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 20 December 2023; <a href="https://www.nature.com/articles/s41586-023-06963-z">doi:10.1038/s41586-023-06963-z</a></p>Global population profile of tropical cyclone exposure from 2002 to 2019]]></content:encoded>
-            <dc:title><![CDATA[Global population profile of tropical cyclone exposure from 2002 to 2019]]></dc:title>
-            <dc:creator>Renzhi Jing</dc:creator><dc:creator>Sam Heft-Neal</dc:creator><dc:creator>Daniel R. Chavas</dc:creator><dc:creator>Max Griswold</dc:creator><dc:creator>Zetianyu Wang</dc:creator><dc:creator>Aaron Clark-Ginsberg</dc:creator><dc:creator>Debarati Guha-Sapir</dc:creator><dc:creator>Eran Bendavid</dc:creator><dc:creator>Zachary Wagner</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06963-z</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-20; | doi:10.1038/s41586-023-06963-z</dc:source>
-            <dc:date>2023-12-20</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06963-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06963-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06952-2">
-            <title><![CDATA[Digital measurement of SARS-CoV-2 transmission risk from 7 million contacts]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06952-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 20 December 2023; <a href="https://www.nature.com/articles/s41586-023-06952-2">doi:10.1038/s41586-023-06952-2</a></p>Digital measurement of SARS-CoV-2 transmission risk from 7 million contacts]]></content:encoded>
-            <dc:title><![CDATA[Digital measurement of SARS-CoV-2 transmission risk from 7 million contacts]]></dc:title>
-            <dc:creator>Luca Ferretti</dc:creator><dc:creator>Chris Wymant</dc:creator><dc:creator>James Petrie</dc:creator><dc:creator>Daphne Tsallis</dc:creator><dc:creator>Michelle Kendall</dc:creator><dc:creator>Alice Ledda</dc:creator><dc:creator>Francesco Di Lauro</dc:creator><dc:creator>Adam Fowler</dc:creator><dc:creator>Andrea Di Francia</dc:creator><dc:creator>Jasmina Panovska-Griffiths</dc:creator><dc:creator>Lucie Abeler-Dörner</dc:creator><dc:creator>Marcos Charalambides</dc:creator><dc:creator>Mark Briers</dc:creator><dc:creator>Christophe Fraser</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06952-2</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-20; | doi:10.1038/s41586-023-06952-2</dc:source>
-            <dc:date>2023-12-20</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06952-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06952-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06976-8">
-            <title><![CDATA[Stable blue phosphorescent organic LEDs that use polariton-enhanced Purcell effects]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06976-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 20 December 2023; <a href="https://www.nature.com/articles/s41586-023-06976-8">doi:10.1038/s41586-023-06976-8</a></p>Stable blue phosphorescent organic LEDs that use polariton-enhanced Purcell effects]]></content:encoded>
-            <dc:title><![CDATA[Stable blue phosphorescent organic LEDs that use polariton-enhanced Purcell effects]]></dc:title>
-            <dc:creator>Haonan Zhao</dc:creator><dc:creator>Claire E. Arneson</dc:creator><dc:creator>Dejiu Fan</dc:creator><dc:creator>Stephen R. Forrest</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06976-8</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-20; | doi:10.1038/s41586-023-06976-8</dc:source>
-            <dc:date>2023-12-20</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06976-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06976-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06981-x">
-            <title><![CDATA[Protracted neuronal recruitment in the temporal lobe of young children]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06981-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 20 December 2023; <a href="https://www.nature.com/articles/s41586-023-06981-x">doi:10.1038/s41586-023-06981-x</a></p>Protracted neuronal recruitment in the temporal lobe of young children]]></content:encoded>
-            <dc:title><![CDATA[Protracted neuronal recruitment in the temporal lobe of young children]]></dc:title>
-            <dc:creator>Marcos Assis Nascimento</dc:creator><dc:creator>Sean Biagiotti</dc:creator><dc:creator>Vicente Herranz-Pérez</dc:creator><dc:creator>Samara Santiago</dc:creator><dc:creator>Raymund Bueno</dc:creator><dc:creator>Chun J. Ye</dc:creator><dc:creator>Taylor J. Abel</dc:creator><dc:creator>Zhuangzhi Zhang</dc:creator><dc:creator>Juan S. Rubio-Moll</dc:creator><dc:creator>Arnold R. Kriegstein</dc:creator><dc:creator>Zhengang Yang</dc:creator><dc:creator>Jose Manuel Garcia-Verdugo</dc:creator><dc:creator>Eric J. Huang</dc:creator><dc:creator>Arturo Alvarez-Buylla</dc:creator><dc:creator>Shawn F. Sorrells</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06981-x</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-20; | doi:10.1038/s41586-023-06981-x</dc:source>
-            <dc:date>2023-12-20</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06981-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06981-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-04073-4">
-            <title><![CDATA[This GPT-powered robot chemist designs reactions and makes drugs — on its own]]></title>
-            <link>https://www.nature.com/articles/d41586-023-04073-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 20 December 2023; <a href="https://www.nature.com/articles/d41586-023-04073-4">doi:10.1038/d41586-023-04073-4</a></p>A system called Coscientist scours the Internet for instructions, then designs and executes experiments to synthesize molecules.]]></content:encoded>
-            <dc:title><![CDATA[This GPT-powered robot chemist designs reactions and makes drugs — on its own]]></dc:title>
-            <dc:creator>Katharine  Sanderson</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-04073-4</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-20; | doi:10.1038/d41586-023-04073-4</dc:source>
-            <dc:date>2023-12-20</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-04073-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-04073-4</prism:url>
         </item>
     
 </rdf:RDF>
