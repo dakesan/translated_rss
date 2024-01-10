@@ -18,6 +18,8 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00029-4"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00022-x"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00020-z"/>
@@ -166,8 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04087-y"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04094-z"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,21 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00029-4">
+            <title><![CDATA[There are holes in Europe’s AI Act — and researchers can help to fill them]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00029-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 10 January 2024; <a href="https://www.nature.com/articles/d41586-024-00029-4">doi:10.1038/d41586-024-00029-4</a></p>Scientists have been promised a front-row seat for the formulation of the EU’s proposed AI regulatory structures. They should seize this opportunity to bridge some big gaps.]]></content:encoded>
+            <dc:title><![CDATA[There are holes in Europe’s AI Act — and researchers can help to fill them]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-00029-4</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-10; | doi:10.1038/d41586-024-00029-4</dc:source>
+            <dc:date>2024-01-10</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00029-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00029-4</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00022-x">
             <title><![CDATA[AI could transform metal recycling globally]]></title>
@@ -316,7 +331,7 @@
             <title><![CDATA[How online misinformation exploits ‘information voids’ – and what to do about it]]></title>
             <link>https://www.nature.com/articles/d41586-024-00030-x</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 09 January 2024; <a href="https://www.nature.com/articles/d41586-024-00030-x">doi:10.1038/d41586-024-00030-x</a></p>In 2024’s super election year, providers of online search engines and their users need to be especially aware of how online misinformation can seem all too believable.]]></content:encoded>
+                <![CDATA[<p>Nature, Published online: 09 January 2024; <a href="https://www.nature.com/articles/d41586-024-00030-x">doi:10.1038/d41586-024-00030-x</a></p>In 2024’s super election year, providers of online search engines and their users need to be especially aware of how online misinformation can seem all too credible.]]></content:encoded>
             <dc:title><![CDATA[How online misinformation exploits ‘information voids’ – and what to do about it]]></dc:title>
             
             <dc:identifier>doi:10.1038/d41586-024-00030-x</dc:identifier>
@@ -1285,21 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-04087-y</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-04087-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-04094-z">
-            <title><![CDATA[Will superintelligent AI sneak up on us? New study offers reassurance]]></title>
-            <link>https://www.nature.com/articles/d41586-023-04094-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 22 December 2023; <a href="https://www.nature.com/articles/d41586-023-04094-z">doi:10.1038/d41586-023-04094-z</a></p>Improvements in the performance of large language models such as ChatGPT are more predictable than they seem.]]></content:encoded>
-            <dc:title><![CDATA[Will superintelligent AI sneak up on us? New study offers reassurance]]></dc:title>
-            <dc:creator>Matthew Hutson</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-04094-z</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-22; | doi:10.1038/d41586-023-04094-z</dc:source>
-            <dc:date>2023-12-22</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-04094-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-04094-z</prism:url>
         </item>
     
 </rdf:RDF>
