@@ -22,11 +22,25 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00020-z"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00004-z"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00023-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04000-7"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00021-y"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00005-y"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00015-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00044-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00030-x"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00038-3"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00045-4"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00008-9"/>
                 
@@ -154,20 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04094-z"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04085-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00002-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03474-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04166-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04017-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04161-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04145-5"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -207,6 +207,21 @@
             <prism:url>https://www.nature.com/articles/d41586-024-00020-z</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00004-z">
+            <title><![CDATA[Stiff gel as squishable as a sponge takes its cue from cartilage]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00004-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 09 January 2024; <a href="https://www.nature.com/articles/d41586-024-00004-z">doi:10.1038/d41586-024-00004-z</a></p>Polymers similar to those used in bulletproof vests are a key component of the water-rich ‘hydrospongel’.]]></content:encoded>
+            <dc:title><![CDATA[Stiff gel as squishable as a sponge takes its cue from cartilage]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-00004-z</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-09; | doi:10.1038/d41586-024-00004-z</dc:source>
+            <dc:date>2024-01-09</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00004-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00004-z</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-024-00023-w">
             <title><![CDATA[Climate policy must integrate blue energy with food security]]></title>
             <link>https://www.nature.com/articles/d41586-024-00023-w</link>
@@ -220,6 +235,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00023-w</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00023-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-04000-7">
+            <title><![CDATA[From the archive: the other Darwin, and illegitimate access to honey]]></title>
+            <link>https://www.nature.com/articles/d41586-023-04000-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 09 January 2024; <a href="https://www.nature.com/articles/d41586-023-04000-7">doi:10.1038/d41586-023-04000-7</a></p>Snippets from Nature’s past.]]></content:encoded>
+            <dc:title><![CDATA[From the archive: the other Darwin, and illegitimate access to honey]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-04000-7</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-09; | doi:10.1038/d41586-023-04000-7</dc:source>
+            <dc:date>2024-01-09</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-04000-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-04000-7</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00021-y">
@@ -237,6 +267,21 @@
             <prism:url>https://www.nature.com/articles/d41586-024-00021-y</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00005-y">
+            <title><![CDATA[Why the immune response to a vaccine varies from person to person]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00005-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 09 January 2024; <a href="https://www.nature.com/articles/d41586-024-00005-y">doi:10.1038/d41586-024-00005-y</a></p>A dormant immune system before receiving the BCG vaccine is tied to a greater innate immune response afterwards.]]></content:encoded>
+            <dc:title><![CDATA[Why the immune response to a vaccine varies from person to person]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-00005-y</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-09; | doi:10.1038/d41586-024-00005-y</dc:source>
+            <dc:date>2024-01-09</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00005-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00005-y</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-024-00015-w">
             <title><![CDATA[How CRISPR could yield the next blockbuster crop]]></title>
             <link>https://www.nature.com/articles/d41586-024-00015-w</link>
@@ -250,6 +295,66 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00015-w</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00015-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00044-5">
+            <title><![CDATA[Breaking the menstruation taboo to make fieldwork more inclusive]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00044-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 09 January 2024; <a href="https://www.nature.com/articles/d41586-024-00044-5">doi:10.1038/d41586-024-00044-5</a></p>We need to talk about periods when planning routine fieldwork trips, say ecologist Sarah E. Dalrymple and glaciologist Timothy P. Lane.]]></content:encoded>
+            <dc:title><![CDATA[Breaking the menstruation taboo to make fieldwork more inclusive]]></dc:title>
+            <dc:creator>Sarah  Dalrymple</dc:creator><dc:creator>Timothy  Lane</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00044-5</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-09; | doi:10.1038/d41586-024-00044-5</dc:source>
+            <dc:date>2024-01-09</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00044-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00044-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00030-x">
+            <title><![CDATA[How online misinformation exploits ‘information voids’ – and what to do about it]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00030-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 09 January 2024; <a href="https://www.nature.com/articles/d41586-024-00030-x">doi:10.1038/d41586-024-00030-x</a></p>In 2024’s super election year, providers of online search engines and their users need to be especially aware of how online misinformation can seem all too believable.]]></content:encoded>
+            <dc:title><![CDATA[How online misinformation exploits ‘information voids’ – and what to do about it]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-00030-x</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-09; | doi:10.1038/d41586-024-00030-x</dc:source>
+            <dc:date>2024-01-09</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00030-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00030-x</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00038-3">
+            <title><![CDATA[Mission failure feared for private US Moon lander — what’s next?]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00038-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 09 January 2024; <a href="https://www.nature.com/articles/d41586-024-00038-3">doi:10.1038/d41586-024-00038-3</a></p>Astrobotic, the firm that launched the Peregrine spacecraft, says it will learn from any missteps and look ahead to its next attempt.]]></content:encoded>
+            <dc:title><![CDATA[Mission failure feared for private US Moon lander — what’s next?]]></dc:title>
+            <dc:creator>Alexandra Witze</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00038-3</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-09; | doi:10.1038/d41586-024-00038-3</dc:source>
+            <dc:date>2024-01-09</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00038-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00038-3</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00045-4">
+            <title><![CDATA[In Brazil, one in two female researchers has faced sexual harassment]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00045-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 09 January 2024; <a href="https://www.nature.com/articles/d41586-024-00045-4">doi:10.1038/d41586-024-00045-4</a></p>A survey by the Brazilian Academy of Sciences bolsters calls to tackle the problem.]]></content:encoded>
+            <dc:title><![CDATA[In Brazil, one in two female researchers has faced sexual harassment]]></dc:title>
+            <dc:creator>Meghie Rodrigues</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00045-4</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-09; | doi:10.1038/d41586-024-00045-4</dc:source>
+            <dc:date>2024-01-09</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00045-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00045-4</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00008-9">
@@ -1195,111 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-04094-z</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-04094-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-04085-0">
-            <title><![CDATA[Neutrino secrets could be revealed by Earth’s atmosphere]]></title>
-            <link>https://www.nature.com/articles/d41586-023-04085-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 22 December 2023; <a href="https://www.nature.com/articles/d41586-023-04085-0">doi:10.1038/d41586-023-04085-0</a></p>Scientists typically look at the skies or take to the laboratory to probe the neutrino’s properties. But neutrinos produced in Earth’s atmosphere could reveal this long-sought information — and the experiments are already well under way.]]></content:encoded>
-            <dc:title><![CDATA[Neutrino secrets could be revealed by Earth’s atmosphere]]></dc:title>
-            <dc:creator>Josh  Spitz</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-04085-0</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-22; | doi:10.1038/d41586-023-04085-0</dc:source>
-            <dc:date>2023-12-22</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-04085-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-04085-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00002-1">
-            <title><![CDATA[Daily briefing: Cosy jumper mimics polar bear fur]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00002-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 22 December 2023; <a href="https://www.nature.com/articles/d41586-024-00002-1">doi:10.1038/d41586-024-00002-1</a></p>A polar-bear-fur-inspired jumper is thinner than a down jacket and just as warm. Plus, a GPT-powered robot chemist might be the best lab partner and ten of the best science books of 2023.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: Cosy jumper mimics polar bear fur]]></dc:title>
-            <dc:creator>Katrina Krämer</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00002-1</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-22; | doi:10.1038/d41586-024-00002-1</dc:source>
-            <dc:date>2023-12-22</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00002-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00002-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03474-9">
-            <title><![CDATA[Citations show gender bias — and the reasons are surprising]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03474-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 22 December 2023; <a href="https://www.nature.com/articles/d41586-023-03474-9">doi:10.1038/d41586-023-03474-9</a></p>Gender bias in paper citations is less common among younger scientists, but it still plays a part in making women’s research less visible.]]></content:encoded>
-            <dc:title><![CDATA[Citations show gender bias — and the reasons are surprising]]></dc:title>
-            <dc:creator>Anil Oza</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03474-9</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-22; | doi:10.1038/d41586-023-03474-9</dc:source>
-            <dc:date>2023-12-22</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03474-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03474-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-04166-0">
-            <title><![CDATA[Saleemul Huq (1952–2023), climate visionary]]></title>
-            <link>https://www.nature.com/articles/d41586-023-04166-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 22 December 2023; <a href="https://www.nature.com/articles/d41586-023-04166-0">doi:10.1038/d41586-023-04166-0</a></p>A relentless climate scientist who was the voice of the voiceless in the global climate fight.]]></content:encoded>
-            <dc:title><![CDATA[Saleemul Huq (1952–2023), climate visionary]]></dc:title>
-            <dc:creator>Achala C.  Abeysinghe</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-04166-0</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-22; | doi:10.1038/d41586-023-04166-0</dc:source>
-            <dc:date>2023-12-22</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-04166-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-04166-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-04017-y">
-            <title><![CDATA[A tale of Silk Road violence as told by a lake’s mud]]></title>
-            <link>https://www.nature.com/articles/d41586-023-04017-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 21 December 2023; <a href="https://www.nature.com/articles/d41586-023-04017-y">doi:10.1038/d41586-023-04017-y</a></p>Soot and other remnants of fires record ancient warfare along the storied trade route.]]></content:encoded>
-            <dc:title><![CDATA[A tale of Silk Road violence as told by a lake’s mud]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-04017-y</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-21; | doi:10.1038/d41586-023-04017-y</dc:source>
-            <dc:date>2023-12-21</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-04017-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-04017-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-04161-5">
-            <title><![CDATA[What were some of the biggest stories of 2023? Join us for the <i>Nature Podcast</i> quiz!]]></title>
-            <link>https://www.nature.com/articles/d41586-023-04161-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 21 December 2023; <a href="https://www.nature.com/articles/d41586-023-04161-5">doi:10.1038/d41586-023-04161-5</a></p>In a game of twenty questions our contestants stretch their memories to remember some of the science stories that made headlines this year.]]></content:encoded>
-            <dc:title><![CDATA[What were some of the biggest stories of 2023? Join us for the <i>Nature Podcast</i> quiz!]]></dc:title>
-            <dc:creator>Shamini Bundell</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-04161-5</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-21; | doi:10.1038/d41586-023-04161-5</dc:source>
-            <dc:date>2023-12-21</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-04161-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-04161-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-04145-5">
-            <title><![CDATA[Polar bear fur-inspired sweater is thinner than a down jacket — and just as warm]]></title>
-            <link>https://www.nature.com/articles/d41586-023-04145-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 21 December 2023; <a href="https://www.nature.com/articles/d41586-023-04145-5">doi:10.1038/d41586-023-04145-5</a></p>The synthetic fibre is an aerogel coated with polyurethane and is flexible, washable and wearable.]]></content:encoded>
-            <dc:title><![CDATA[Polar bear fur-inspired sweater is thinner than a down jacket — and just as warm]]></dc:title>
-            <dc:creator>Gemma Conroy</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-04145-5</dc:identifier>
-            <dc:source>Nature, Published online: 2023-12-21; | doi:10.1038/d41586-023-04145-5</dc:source>
-            <dc:date>2023-12-21</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-04145-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-04145-5</prism:url>
         </item>
     
 </rdf:RDF>
