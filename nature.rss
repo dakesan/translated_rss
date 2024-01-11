@@ -74,6 +74,8 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03674-3"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00091-y"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03992-6"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03995-3"/>
@@ -112,6 +114,8 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00015-w"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00049-0"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00084-x"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00044-5"/>
@@ -133,6 +137,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00016-9"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04064-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00040-9"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00017-8"/>
                 
@@ -161,12 +167,6 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06786-y"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06888-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06893-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06799-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06858-z"/>
                 
             </rdf:Seq>
         </items>
@@ -597,6 +597,21 @@
             <prism:url>https://www.nature.com/articles/d41586-023-03674-3</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00091-y">
+            <title><![CDATA[Daily briefing: The earliest fossil evidence of photosynthesis]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00091-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 10 January 2024; <a href="https://www.nature.com/articles/d41586-024-00091-y">doi:10.1038/d41586-024-00091-y</a></p>Photosynthetic structures in tiny fossils are 1.2 billion years older than previous finds. Plus, Neptune isn’t as blue as most people think and what happens when plagiarism is weaponized.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: The earliest fossil evidence of photosynthesis]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00091-y</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-10; | doi:10.1038/d41586-024-00091-y</dc:source>
+            <dc:date>2024-01-10</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00091-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00091-y</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-023-03992-6">
             <title><![CDATA[A 2D route to 3D computer chips]]></title>
             <link>https://www.nature.com/articles/d41586-023-03992-6</link>
@@ -882,6 +897,21 @@
             <prism:url>https://www.nature.com/articles/d41586-024-00015-w</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00049-0">
+            <title><![CDATA[Daily briefing: What makes pee yellow]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00049-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 09 January 2024; <a href="https://www.nature.com/articles/d41586-024-00049-0">doi:10.1038/d41586-024-00049-0</a></p>The enzyme that turns a red-orange precursor into urine’s yellow compound has finally been identified. Plus, the latest private Moon mission might be doomed and a baby’s heart-valve transplant has grown with its young recipient.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: What makes pee yellow]]></dc:title>
+            <dc:creator>Katrina Krämer</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00049-0</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-09; | doi:10.1038/d41586-024-00049-0</dc:source>
+            <dc:date>2024-01-09</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00049-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00049-0</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-024-00084-x">
             <title><![CDATA[AI &amp; robotics briefing: Why superintelligent AI won’t sneak up on us]]></title>
             <link>https://www.nature.com/articles/d41586-024-00084-x</link>
@@ -1045,6 +1075,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-04064-5</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-04064-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00040-9">
+            <title><![CDATA[Daily briefing: Where long COVID is understudied and ignored]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00040-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 January 2024; <a href="https://www.nature.com/articles/d41586-024-00040-9">doi:10.1038/d41586-024-00040-9</a></p>A lack of data and recognition is hampering action on long COVID in many low-income countries. Plus, half of the world’s mining areas are undocumented and reindeer can chew while they snooze.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Where long COVID is understudied and ignored]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00040-9</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-08; | doi:10.1038/d41586-024-00040-9</dc:source>
+            <dc:date>2024-01-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00040-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00040-9</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00017-8">
@@ -1255,51 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/s41586-023-06888-7</prism:doi>
             <prism:url>https://www.nature.com/articles/s41586-023-06888-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06893-w">
-            <title><![CDATA[Host genetic regulation of human gut microbial structural variation]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06893-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 03 January 2024; <a href="https://www.nature.com/articles/s41586-023-06893-w">doi:10.1038/s41586-023-06893-w</a></p>A meta-analysis of associations between human genetic variation and gut microbial structural variations shows that ABO genotype differentially affects the presence of Faecalibacterium prausnitzii strains containing GalNAc utilization pathway in the gut.]]></content:encoded>
-            <dc:title><![CDATA[Host genetic regulation of human gut microbial structural variation]]></dc:title>
-            <dc:creator>Daria V. Zhernakova</dc:creator><dc:creator>Daoming Wang</dc:creator><dc:creator>Lei Liu</dc:creator><dc:creator>Sergio Andreu-Sánchez</dc:creator><dc:creator>Yue Zhang</dc:creator><dc:creator>Angel J. Ruiz-Moreno</dc:creator><dc:creator>Haoran Peng</dc:creator><dc:creator>Niels Plomp</dc:creator><dc:creator>Ángela Del Castillo-Izquierdo</dc:creator><dc:creator>Ranko Gacesa</dc:creator><dc:creator>Esteban A. Lopera-Maya</dc:creator><dc:creator>Godfrey S. Temba</dc:creator><dc:creator>Vesla I. Kullaya</dc:creator><dc:creator>Sander S. van Leeuwen</dc:creator><dc:creator>Raul Aguirre-Gamboa</dc:creator><dc:creator>Patrick Deelen</dc:creator><dc:creator>Lude Franke</dc:creator><dc:creator>Jan A. Kuivenhoven</dc:creator><dc:creator>Ilja M. Nolte</dc:creator><dc:creator>Serena Sanna</dc:creator><dc:creator>Harold Snieder</dc:creator><dc:creator>Morris A. Swertz</dc:creator><dc:creator>Peter M. Visscher</dc:creator><dc:creator>Judith M. Vonk</dc:creator><dc:creator>Ramnik J. Xavier</dc:creator><dc:creator>Quirijn de Mast</dc:creator><dc:creator>Leo A. B. Joosten</dc:creator><dc:creator>Niels P. Riksen</dc:creator><dc:creator>Joost H. W. Rutten</dc:creator><dc:creator>Mihai G. Netea</dc:creator><dc:creator>Serena Sanna</dc:creator><dc:creator>Cisca Wijmenga</dc:creator><dc:creator>Rinse K. Weersma</dc:creator><dc:creator>Alexandra Zhernakova</dc:creator><dc:creator>Hermie J. M. Harmsen</dc:creator><dc:creator>Jingyuan Fu</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06893-w</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-03; | doi:10.1038/s41586-023-06893-w</dc:source>
-            <dc:date>2024-01-03</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06893-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06893-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06799-7">
-            <title><![CDATA[A new antibiotic traps lipopolysaccharide in its intermembrane transporter]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06799-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 03 January 2024; <a href="https://www.nature.com/articles/s41586-023-06799-7">doi:10.1038/s41586-023-06799-7</a></p>A mechanism of lipid transport inhibition has been identified for a class of peptide antibiotics effective against resistant Acinetobacter strains, which may have applications in the inhibition of other Gram-negative pathogens.]]></content:encoded>
-            <dc:title><![CDATA[A new antibiotic traps lipopolysaccharide in its intermembrane transporter]]></dc:title>
-            <dc:creator>Karanbir S. Pahil</dc:creator><dc:creator>Morgan S. A. Gilman</dc:creator><dc:creator>Vadim Baidin</dc:creator><dc:creator>Thomas Clairfeuille</dc:creator><dc:creator>Patrizio Mattei</dc:creator><dc:creator>Christoph Bieniossek</dc:creator><dc:creator>Fabian Dey</dc:creator><dc:creator>Dieter Muri</dc:creator><dc:creator>Remo Baettig</dc:creator><dc:creator>Michael Lobritz</dc:creator><dc:creator>Kenneth Bradley</dc:creator><dc:creator>Andrew C. Kruse</dc:creator><dc:creator>Daniel Kahne</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06799-7</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-03; | doi:10.1038/s41586-023-06799-7</dc:source>
-            <dc:date>2024-01-03</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06799-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06799-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06858-z">
-            <title><![CDATA[Heat conductance of the quantum Hall bulk]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06858-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 03 January 2024; <a href="https://www.nature.com/articles/s41586-023-06858-z">doi:10.1038/s41586-023-06858-z</a></p>We measure efficient heat conductance through the electrically insulating quantum Hall bulk and propose a theoretical model based on the role played by the localized states.]]></content:encoded>
-            <dc:title><![CDATA[Heat conductance of the quantum Hall bulk]]></dc:title>
-            <dc:creator>Ron Aharon Melcer</dc:creator><dc:creator>Avigail Gil</dc:creator><dc:creator>Arup Kumar Paul</dc:creator><dc:creator>Priya Tiwari</dc:creator><dc:creator>Vladimir Umansky</dc:creator><dc:creator>Moty Heiblum</dc:creator><dc:creator>Yuval Oreg</dc:creator><dc:creator>Ady Stern</dc:creator><dc:creator>Erez Berg</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06858-z</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-03; | doi:10.1038/s41586-023-06858-z</dc:source>
-            <dc:date>2024-01-03</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06858-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06858-z</prism:url>
         </item>
     
 </rdf:RDF>
