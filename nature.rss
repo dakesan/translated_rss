@@ -18,6 +18,24 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00093-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00006-x"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00094-9"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00081-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00013-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00032-9"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00035-6"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04083-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03996-2"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07035-6"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-07013-4"/>
@@ -150,24 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00012-z"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04018-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04020-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00011-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00014-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06942-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00003-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06894-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06786-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06888-7"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,141 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00093-w">
+            <title><![CDATA[‘Set it and forget it’: automated lab uses AI and robotics to improve proteins]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00093-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 11 January 2024; <a href="https://www.nature.com/articles/d41586-024-00093-w">doi:10.1038/d41586-024-00093-w</a></p>A self-driving lab system spent half a year engineering enzymes to work at higher temperatures.]]></content:encoded>
+            <dc:title><![CDATA[‘Set it and forget it’: automated lab uses AI and robotics to improve proteins]]></dc:title>
+            <dc:creator>Ewen Callaway</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00093-w</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-11; | doi:10.1038/d41586-024-00093-w</dc:source>
+            <dc:date>2024-01-11</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00093-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00093-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00006-x">
+            <title><![CDATA[The Higgs boson is caught in a singular  transformation]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00006-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 11 January 2024; <a href="https://www.nature.com/articles/d41586-024-00006-x">doi:10.1038/d41586-024-00006-x</a></p>Detectors at the Large Hadron Collider spot the famed particle decaying into a photon and a ‘Z boson’.]]></content:encoded>
+            <dc:title><![CDATA[The Higgs boson is caught in a singular  transformation]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-00006-x</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-11; | doi:10.1038/d41586-024-00006-x</dc:source>
+            <dc:date>2024-01-11</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00006-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00006-x</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00094-9">
+            <title><![CDATA[Medical AI falters when assessing patients it hasn’t seen]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00094-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 11 January 2024; <a href="https://www.nature.com/articles/d41586-024-00094-9">doi:10.1038/d41586-024-00094-9</a></p>Physicians rely on algorithms for personalized medicine — but an analysis of schizophrenia trials shows the tools fail to adapt to new data sets.]]></content:encoded>
+            <dc:title><![CDATA[Medical AI falters when assessing patients it hasn’t seen]]></dc:title>
+            <dc:creator>Miryam Naddaf</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00094-9</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-11; | doi:10.1038/d41586-024-00094-9</dc:source>
+            <dc:date>2024-01-11</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00094-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00094-9</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00081-0">
+            <title><![CDATA[Oceans break heat records five years in a row]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00081-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 11 January 2024; <a href="https://www.nature.com/articles/d41586-024-00081-0">doi:10.1038/d41586-024-00081-0</a></p>The heat stored in the world’s oceans increased by the greatest margin ever in 2023.]]></content:encoded>
+            <dc:title><![CDATA[Oceans break heat records five years in a row]]></dc:title>
+            <dc:creator>Xiaoying You</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00081-0</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-11; | doi:10.1038/d41586-024-00081-0</dc:source>
+            <dc:date>2024-01-11</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00081-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00081-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00013-y">
+            <title><![CDATA[Yaws could soon be eradicated — 70 years behind schedule]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00013-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 11 January 2024; <a href="https://www.nature.com/articles/d41586-024-00013-y">doi:10.1038/d41586-024-00013-y</a></p>Researchers are cautiously optimistic that the neglected tropical disease could be gone by 2030, but new barriers — including antibiotic resistance and primate reservoirs — might stand in the way.]]></content:encoded>
+            <dc:title><![CDATA[Yaws could soon be eradicated — 70 years behind schedule]]></dc:title>
+            <dc:creator>Sam Jones</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00013-y</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-11; | doi:10.1038/d41586-024-00013-y</dc:source>
+            <dc:date>2024-01-11</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00013-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00013-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00032-9">
+            <title><![CDATA[This is the oldest fossilized reptile skin ever found — it pre-dates the dinosaurs]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00032-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 11 January 2024; <a href="https://www.nature.com/articles/d41586-024-00032-9">doi:10.1038/d41586-024-00032-9</a></p>Permian-period petroleum helped to preserve minute scraps of pebbly hide that probably belonged to a lizard-like creature.]]></content:encoded>
+            <dc:title><![CDATA[This is the oldest fossilized reptile skin ever found — it pre-dates the dinosaurs]]></dc:title>
+            <dc:creator>Emma Marris</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00032-9</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-11; | doi:10.1038/d41586-024-00032-9</dc:source>
+            <dc:date>2024-01-11</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00032-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00032-9</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00035-6">
+            <title><![CDATA[What counts as plagiarism? Harvard president’s resignation sparks debate]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00035-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 11 January 2024; <a href="https://www.nature.com/articles/d41586-024-00035-6">doi:10.1038/d41586-024-00035-6</a></p>Allegations against Claudine Gay have left researchers arguing over academic standards and practices.]]></content:encoded>
+            <dc:title><![CDATA[What counts as plagiarism? Harvard president’s resignation sparks debate]]></dc:title>
+            <dc:creator>Jeff Tollefson</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00035-6</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-11; | doi:10.1038/d41586-024-00035-6</dc:source>
+            <dc:date>2024-01-11</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00035-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00035-6</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-04083-2">
+            <title><![CDATA[Urban youth most isolated in largest cities]]></title>
+            <link>https://www.nature.com/articles/d41586-023-04083-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 11 January 2024; <a href="https://www.nature.com/articles/d41586-023-04083-2">doi:10.1038/d41586-023-04083-2</a></p>GPS data reveal that young people encounter fewer individuals from diverse groups than do adults. The isolation of young people is exacerbated in larger cities, and for those living in poverty.]]></content:encoded>
+            <dc:title><![CDATA[Urban youth most isolated in largest cities]]></dc:title>
+            <dc:creator>Victor  Couture</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-04083-2</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-11; | doi:10.1038/d41586-023-04083-2</dc:source>
+            <dc:date>2024-01-11</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-04083-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-04083-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03996-2">
+            <title><![CDATA[Sticky gels designed for tissue-healing therapies and diagnostics]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03996-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 11 January 2024; <a href="https://www.nature.com/articles/d41586-023-03996-2">doi:10.1038/d41586-023-03996-2</a></p>Materials that adhere tightly to human tissues can promote healing and boost the sensitivity of biomedical diagnostic devices. An ‘evolving’ gel has been made that synergizes two strategies for forming interfaces with tissue.]]></content:encoded>
+            <dc:title><![CDATA[Sticky gels designed for tissue-healing therapies and diagnostics]]></dc:title>
+            <dc:creator>Sophia J. Bailey</dc:creator><dc:creator>Eric A. Appel</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03996-2</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-11; | doi:10.1038/d41586-023-03996-2</dc:source>
+            <dc:date>2024-01-11</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03996-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03996-2</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07035-6">
             <title><![CDATA[Author Correction: A new antibiotic traps lipopolysaccharide in its intermembrane transporter]]></title>
@@ -1165,141 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00012-z</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00012-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-04018-x">
-            <title><![CDATA[A record-setting transplant heals a baby’s broken heart]]></title>
-            <link>https://www.nature.com/articles/d41586-023-04018-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 04 January 2024; <a href="https://www.nature.com/articles/d41586-023-04018-x">doi:10.1038/d41586-023-04018-x</a></p>Partial-heart transplant from a living donor allows an infant's heart valves to grow as he does.]]></content:encoded>
-            <dc:title><![CDATA[A record-setting transplant heals a baby’s broken heart]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-04018-x</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-04; | doi:10.1038/d41586-023-04018-x</dc:source>
-            <dc:date>2024-01-04</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-04018-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-04018-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-04020-3">
-            <title><![CDATA[A bounty of rice comes at a price: soaring methane emissions]]></title>
-            <link>https://www.nature.com/articles/d41586-023-04020-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 04 January 2024; <a href="https://www.nature.com/articles/d41586-023-04020-3">doi:10.1038/d41586-023-04020-3</a></p>The spread of rice paddies in sub-Saharan Africa helps to drive up atmospheric concentrations of a potent greenhouse gas.]]></content:encoded>
-            <dc:title><![CDATA[A bounty of rice comes at a price: soaring methane emissions]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-04020-3</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-04; | doi:10.1038/d41586-023-04020-3</dc:source>
-            <dc:date>2024-01-04</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-04020-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-04020-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00011-0">
-            <title><![CDATA[Start 2024 by asking: ‘Why do science?’]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00011-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 04 January 2024; <a href="https://www.nature.com/articles/d41586-024-00011-0">doi:10.1038/d41586-024-00011-0</a></p>Step back from the usual lab-meeting format, and ask yourself and your colleagues why you all do what you do, say Mirko Treccani and Laura Veschetti.]]></content:encoded>
-            <dc:title><![CDATA[Start 2024 by asking: ‘Why do science?’]]></dc:title>
-            <dc:creator>Mirko  Treccani</dc:creator><dc:creator>Laura Veschetti</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00011-0</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-04; | doi:10.1038/d41586-024-00011-0</dc:source>
-            <dc:date>2024-01-04</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00011-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00011-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00014-x">
-            <title><![CDATA[US project seeks standard way to communicate research retractions]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00014-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 04 January 2024; <a href="https://www.nature.com/articles/d41586-024-00014-x">doi:10.1038/d41586-024-00014-x</a></p>Retracted papers continue to be cited because notices are unclear and hard to spot. Information scientist Jodi Schneider explains how consistent reporting would help to keep researchers in the loop.]]></content:encoded>
-            <dc:title><![CDATA[US project seeks standard way to communicate research retractions]]></dc:title>
-            <dc:creator>Dalmeet Singh Chawla</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00014-x</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-04; | doi:10.1038/d41586-024-00014-x</dc:source>
-            <dc:date>2024-01-04</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00014-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00014-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06942-4">
-            <title><![CDATA[Publisher Correction: Structural insights into cytokine cleavage by inflammatory caspase-4]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06942-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 03 January 2024; <a href="https://www.nature.com/articles/s41586-023-06942-4">doi:10.1038/s41586-023-06942-4</a></p>Publisher Correction: Structural insights into cytokine cleavage by inflammatory caspase-4]]></content:encoded>
-            <dc:title><![CDATA[Publisher Correction: Structural insights into cytokine cleavage by inflammatory caspase-4]]></dc:title>
-            <dc:creator>Pascal Devant</dc:creator><dc:creator>Ying Dong</dc:creator><dc:creator>Julian Mintseris</dc:creator><dc:creator>Weiyi Ma</dc:creator><dc:creator>Steven P. Gygi</dc:creator><dc:creator>Hao Wu</dc:creator><dc:creator>Jonathan C. Kagan</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06942-4</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-03; | doi:10.1038/s41586-023-06942-4</dc:source>
-            <dc:date>2024-01-03</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06942-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06942-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00003-0">
-            <title><![CDATA[Science in 2024: what to expect this year]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00003-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 03 January 2024; <a href="https://www.nature.com/articles/d41586-024-00003-0">doi:10.1038/d41586-024-00003-0</a></p>AI, moon missions, weaponized mosquitos and superfast supercomputers - we'll run through what to look out for in the new year]]></content:encoded>
-            <dc:title><![CDATA[Science in 2024: what to expect this year]]></dc:title>
-            <dc:creator>Noah Baker</dc:creator><dc:creator>Miryam Naddaf</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00003-0</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-03; | doi:10.1038/d41586-024-00003-0</dc:source>
-            <dc:date>2024-01-03</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00003-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00003-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06894-9">
-            <title><![CDATA[Negative mixing enthalpy solid solutions deliver high strength and ductility]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06894-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 03 January 2024; <a href="https://www.nature.com/articles/s41586-023-06894-9">doi:10.1038/s41586-023-06894-9</a></p>A HfNbTiVAl10 alloy shows tensile ductility and ultrahigh yield strength from the addition of aluminium to a HfNbTiV alloy, resulting in a negative mixing enthalpy solid solution, which promotes strength and favours formation of hierarchical chemical fluctuations.]]></content:encoded>
-            <dc:title><![CDATA[Negative mixing enthalpy solid solutions deliver high strength and ductility]]></dc:title>
-            <dc:creator>Zibing An</dc:creator><dc:creator>Ang Li</dc:creator><dc:creator>Shengcheng Mao</dc:creator><dc:creator>Tao Yang</dc:creator><dc:creator>Lingyu Zhu</dc:creator><dc:creator>Rui Wang</dc:creator><dc:creator>Zhaoxuan Wu</dc:creator><dc:creator>Bin Zhang</dc:creator><dc:creator>Ruiwen Shao</dc:creator><dc:creator>Cheng Jiang</dc:creator><dc:creator>Boxuan Cao</dc:creator><dc:creator>Caijuan Shi</dc:creator><dc:creator>Yang Ren</dc:creator><dc:creator>Cheng Liu</dc:creator><dc:creator>Haibo Long</dc:creator><dc:creator>Jianfei Zhang</dc:creator><dc:creator>Wei Li</dc:creator><dc:creator>Feng He</dc:creator><dc:creator>Ligang Sun</dc:creator><dc:creator>Junbo Zhao</dc:creator><dc:creator>Luyan Yang</dc:creator><dc:creator>Xiaoyuan Zhou</dc:creator><dc:creator>Xiao Wei</dc:creator><dc:creator>Yunmin Chen</dc:creator><dc:creator>Zhouguang Lu</dc:creator><dc:creator>Fuzeng Ren</dc:creator><dc:creator>Chain-Tsuan Liu</dc:creator><dc:creator>Ze Zhang</dc:creator><dc:creator>Xiaodong Han</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06894-9</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-03; | doi:10.1038/s41586-023-06894-9</dc:source>
-            <dc:date>2024-01-03</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06894-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06894-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06786-y">
-            <title><![CDATA[Disordered enthalpy–entropy descriptor for high-entropy ceramics discovery]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06786-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 03 January 2024; <a href="https://www.nature.com/articles/s41586-023-06786-y">doi:10.1038/s41586-023-06786-y</a></p>DEED captures the balance between entropy gains and costs, allowing the correct classification of functional synthesizability of multicomponent ceramics, regardless of chemistry and structure, and provides an array of potential new candidates, ripe for experimental discoveries.]]></content:encoded>
-            <dc:title><![CDATA[Disordered enthalpy–entropy descriptor for high-entropy ceramics discovery]]></dc:title>
-            <dc:creator>Simon Divilov</dc:creator><dc:creator>Hagen Eckert</dc:creator><dc:creator>David Hicks</dc:creator><dc:creator>Corey Oses</dc:creator><dc:creator>Cormac Toher</dc:creator><dc:creator>Rico Friedrich</dc:creator><dc:creator>Marco Esters</dc:creator><dc:creator>Michael J. Mehl</dc:creator><dc:creator>Adam C. Zettel</dc:creator><dc:creator>Yoav Lederer</dc:creator><dc:creator>Eva Zurek</dc:creator><dc:creator>Jon-Paul Maria</dc:creator><dc:creator>Donald W. Brenner</dc:creator><dc:creator>Xiomara Campilongo</dc:creator><dc:creator>Suzana Filipović</dc:creator><dc:creator>William G. Fahrenholtz</dc:creator><dc:creator>Caillin J. Ryan</dc:creator><dc:creator>Christopher M. DeSalle</dc:creator><dc:creator>Ryan J. Crealese</dc:creator><dc:creator>Douglas E. Wolfe</dc:creator><dc:creator>Arrigo Calzolari</dc:creator><dc:creator>Stefano Curtarolo</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06786-y</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-03; | doi:10.1038/s41586-023-06786-y</dc:source>
-            <dc:date>2024-01-03</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06786-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06786-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06888-7">
-            <title><![CDATA[Na<sub>v</sub>1.7 as a chondrocyte regulator and therapeutic target for osteoarthritis]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06888-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 03 January 2024; <a href="https://www.nature.com/articles/s41586-023-06888-7">doi:10.1038/s41586-023-06888-7</a></p>The voltage-gated sodium channel Nav1.7 has a dual role in osteoarthritis—in chondrocytes, it promotes joint damage, and in dorsal root ganglia neurons, it increases pain transmission.]]></content:encoded>
-            <dc:title><![CDATA[Na<sub>v</sub>1.7 as a chondrocyte regulator and therapeutic target for osteoarthritis]]></dc:title>
-            <dc:creator>Wenyu Fu</dc:creator><dc:creator>Dmytro Vasylyev</dc:creator><dc:creator>Yufei Bi</dc:creator><dc:creator>Mingshuang Zhang</dc:creator><dc:creator>Guodong Sun</dc:creator><dc:creator>Asya Khleborodova</dc:creator><dc:creator>Guiwu Huang</dc:creator><dc:creator>Libo Zhao</dc:creator><dc:creator>Renpeng Zhou</dc:creator><dc:creator>Yonggang Li</dc:creator><dc:creator>Shujun Liu</dc:creator><dc:creator>Xianyi Cai</dc:creator><dc:creator>Wenjun He</dc:creator><dc:creator>Min Cui</dc:creator><dc:creator>Xiangli Zhao</dc:creator><dc:creator>Aubryanna Hettinghouse</dc:creator><dc:creator>Julia Good</dc:creator><dc:creator>Ellen Kim</dc:creator><dc:creator>Eric Strauss</dc:creator><dc:creator>Philipp Leucht</dc:creator><dc:creator>Ran Schwarzkopf</dc:creator><dc:creator>Edward X. Guo</dc:creator><dc:creator>Jonathan Samuels</dc:creator><dc:creator>Wenhuo Hu</dc:creator><dc:creator>Mukundan Attur</dc:creator><dc:creator>Stephen G. Waxman</dc:creator><dc:creator>Chuan-ju Liu</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06888-7</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-03; | doi:10.1038/s41586-023-06888-7</dc:source>
-            <dc:date>2024-01-03</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06888-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06888-7</prism:url>
         </item>
     
 </rdf:RDF>
