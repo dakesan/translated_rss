@@ -18,6 +18,12 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00101-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00074-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00099-4"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00093-w"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00006-x"/>
@@ -33,6 +39,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00035-6"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04083-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00097-6"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03996-2"/>
                 
@@ -160,14 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00017-8"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04077-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-07007-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00019-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00012-z"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,51 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00101-z">
+            <title><![CDATA[Ancient DNA reveals first known case of sex-development disorder]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00101-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 12 January 2024; <a href="https://www.nature.com/articles/d41586-024-00101-z">doi:10.1038/d41586-024-00101-z</a></p>Researchers identified six ancient humans with chromosomal conditions, including the earliest case of Turner syndrome.]]></content:encoded>
+            <dc:title><![CDATA[Ancient DNA reveals first known case of sex-development disorder]]></dc:title>
+            <dc:creator>Carissa Wong</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00101-z</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-12; | doi:10.1038/d41586-024-00101-z</dc:source>
+            <dc:date>2024-01-12</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00101-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00101-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00074-z">
+            <title><![CDATA[Earth boiled in 2023 — will it happen again in 2024?]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00074-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 12 January 2024; <a href="https://www.nature.com/articles/d41586-024-00074-z">doi:10.1038/d41586-024-00074-z</a></p>With last year now officially the hottest on record, climate researchers look ahead with trepidation.]]></content:encoded>
+            <dc:title><![CDATA[Earth boiled in 2023 — will it happen again in 2024?]]></dc:title>
+            <dc:creator>Alexandra Witze</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00074-z</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-12; | doi:10.1038/d41586-024-00074-z</dc:source>
+            <dc:date>2024-01-12</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00074-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00074-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00099-4">
+            <title><![CDATA[Google AI has better bedside manner than human doctors — and makes better diagnoses]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00099-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 12 January 2024; <a href="https://www.nature.com/articles/d41586-024-00099-4">doi:10.1038/d41586-024-00099-4</a></p>Researchers say their artificial-intelligence system could help to democratize medicine.]]></content:encoded>
+            <dc:title><![CDATA[Google AI has better bedside manner than human doctors — and makes better diagnoses]]></dc:title>
+            <dc:creator>Mariana Lenharo</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00099-4</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-12; | doi:10.1038/d41586-024-00099-4</dc:source>
+            <dc:date>2024-01-12</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00099-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00099-4</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00093-w">
             <title><![CDATA[‘Set it and forget it’: automated lab uses AI and robotics to improve proteins]]></title>
@@ -295,6 +340,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-04083-2</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-04083-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00097-6">
+            <title><![CDATA[Daily briefing: Norway is first to approve controversial seabed mining]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00097-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 11 January 2024; <a href="https://www.nature.com/articles/d41586-024-00097-6">doi:10.1038/d41586-024-00097-6</a></p>Norwegian scientists say that the government ignored their advice when they approved mining that could irreversibly damage biodiversity and ecosystems. Plus, many traits of modern Europeans have roots in ancient migrations and insects use clever physics to fling pee.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Norway is first to approve controversial seabed mining]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00097-6</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-11; | doi:10.1038/d41586-024-00097-6</dc:source>
+            <dc:date>2024-01-11</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00097-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00097-6</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-023-03996-2">
@@ -1240,66 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00017-8</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00017-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-04077-0">
-            <title><![CDATA[Antibiotic resistance is a growing threat — is climate change making it worse?]]></title>
-            <link>https://www.nature.com/articles/d41586-023-04077-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 08 January 2024; <a href="https://www.nature.com/articles/d41586-023-04077-0">doi:10.1038/d41586-023-04077-0</a></p>Researchers are studying how extreme weather and rising temperatures can encourage the spread of drug-resistant infections.]]></content:encoded>
-            <dc:title><![CDATA[Antibiotic resistance is a growing threat — is climate change making it worse?]]></dc:title>
-            <dc:creator>Carissa Wong</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-04077-0</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-08; | doi:10.1038/d41586-023-04077-0</dc:source>
-            <dc:date>2024-01-08</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-04077-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-04077-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-07007-2">
-            <title><![CDATA[Publisher Correction: Landscape-scale benefits of protected areas for tropical biodiversity]]></title>
-            <link>https://www.nature.com/articles/s41586-023-07007-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 05 January 2024; <a href="https://www.nature.com/articles/s41586-023-07007-2">doi:10.1038/s41586-023-07007-2</a></p>Publisher Correction: Landscape-scale benefits of protected areas for tropical biodiversity]]></content:encoded>
-            <dc:title><![CDATA[Publisher Correction: Landscape-scale benefits of protected areas for tropical biodiversity]]></dc:title>
-            <dc:creator>Jedediah F. Brodie</dc:creator><dc:creator>Jayasilan Mohd-Azlan</dc:creator><dc:creator>Cheng Chen</dc:creator><dc:creator>Oliver R. Wearn</dc:creator><dc:creator>Mairin C. M. Deith</dc:creator><dc:creator>James G. C. Ball</dc:creator><dc:creator>Eleanor M. Slade</dc:creator><dc:creator>David F. R. P. Burslem</dc:creator><dc:creator>Shu Woan Teoh</dc:creator><dc:creator>Peter J. Williams</dc:creator><dc:creator>An Nguyen</dc:creator><dc:creator>Jonathan H. Moore</dc:creator><dc:creator>Scott J. Goetz</dc:creator><dc:creator>Patrick Burns</dc:creator><dc:creator>Patrick Jantz</dc:creator><dc:creator>Christopher R. Hakkenberg</dc:creator><dc:creator>Zaneta M. Kaszta</dc:creator><dc:creator>Sam Cushman</dc:creator><dc:creator>David Coomes</dc:creator><dc:creator>Olga E. Helmy</dc:creator><dc:creator>Glen Reynolds</dc:creator><dc:creator>Jon Paul Rodríguez</dc:creator><dc:creator>Walter Jetz</dc:creator><dc:creator>Matthew Scott Luskin</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-07007-2</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-05; | doi:10.1038/s41586-023-07007-2</dc:source>
-            <dc:date>2024-01-05</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-07007-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-07007-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00019-6">
-            <title><![CDATA[The handwriting of the greats, and solutions that make things worse: Books in brief]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00019-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 05 January 2024; <a href="https://www.nature.com/articles/d41586-024-00019-6">doi:10.1038/d41586-024-00019-6</a></p>Andrew Robinson reviews five of the best science picks.]]></content:encoded>
-            <dc:title><![CDATA[The handwriting of the greats, and solutions that make things worse: Books in brief]]></dc:title>
-            <dc:creator>Andrew Robinson</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00019-6</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-05; | doi:10.1038/d41586-024-00019-6</dc:source>
-            <dc:date>2024-01-05</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00019-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00019-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00012-z">
-            <title><![CDATA[Potent psychedelic drug banishes PTSD, small study finds]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00012-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 05 January 2024; <a href="https://www.nature.com/articles/d41586-024-00012-z">doi:10.1038/d41586-024-00012-z</a></p>Military veterans with cognitive and psychological problems saw drastic improvements after a dose of ibogaine.]]></content:encoded>
-            <dc:title><![CDATA[Potent psychedelic drug banishes PTSD, small study finds]]></dc:title>
-            <dc:creator>Max Kozlov</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00012-z</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-05; | doi:10.1038/d41586-024-00012-z</dc:source>
-            <dc:date>2024-01-05</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00012-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00012-z</prism:url>
         </item>
     
 </rdf:RDF>
