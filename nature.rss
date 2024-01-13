@@ -28,8 +28,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00006-x"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00094-9"/>
-                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00081-0"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00013-y"/>
@@ -39,6 +37,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00035-6"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04083-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00094-9"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00097-6"/>
                 
@@ -252,21 +252,6 @@
             <prism:url>https://www.nature.com/articles/d41586-024-00006-x</prism:url>
         </item>
     
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00094-9">
-            <title><![CDATA[Medical AI falters when assessing patients it hasn’t seen]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00094-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 11 January 2024; <a href="https://www.nature.com/articles/d41586-024-00094-9">doi:10.1038/d41586-024-00094-9</a></p>Physicians rely on algorithms for personalized medicine — but an analysis of schizophrenia trials shows the tools fail to adapt to new data sets.]]></content:encoded>
-            <dc:title><![CDATA[Medical AI falters when assessing patients it hasn’t seen]]></dc:title>
-            <dc:creator>Miryam Naddaf</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00094-9</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-11; | doi:10.1038/d41586-024-00094-9</dc:source>
-            <dc:date>2024-01-11</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00094-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00094-9</prism:url>
-        </item>
-    
         <item rdf:about="https://www.nature.com/articles/d41586-024-00081-0">
             <title><![CDATA[Oceans break heat records five years in a row]]></title>
             <link>https://www.nature.com/articles/d41586-024-00081-0</link>
@@ -340,6 +325,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-04083-2</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-04083-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00094-9">
+            <title><![CDATA[Medical AI falters when assessing patients it hasn’t seen]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00094-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 11 January 2024; <a href="https://www.nature.com/articles/d41586-024-00094-9">doi:10.1038/d41586-024-00094-9</a></p>Physicians rely on algorithms for personalized medicine — but an analysis of schizophrenia trials shows the tools fail to adapt to new data sets.]]></content:encoded>
+            <dc:title><![CDATA[Medical AI falters when assessing patients it hasn’t seen]]></dc:title>
+            <dc:creator>Miryam Naddaf</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00094-9</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-11; | doi:10.1038/d41586-024-00094-9</dc:source>
+            <dc:date>2024-01-11</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00094-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00094-9</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00097-6">
