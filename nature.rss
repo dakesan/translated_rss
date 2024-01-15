@@ -18,6 +18,12 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00102-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00110-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00109-5"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00101-z"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00074-z"/>
@@ -162,12 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00016-9"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04064-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00040-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00017-8"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,51 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00102-y">
+            <title><![CDATA[Can foreign coral save a dying reef? Radical idea sparks debate]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00102-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 15 January 2024; <a href="https://www.nature.com/articles/d41586-024-00102-y">doi:10.1038/d41586-024-00102-y</a></p>Devastation brought on by climate change and other threats prompts a last-resort proposal to rescue Caribbean corals.]]></content:encoded>
+            <dc:title><![CDATA[Can foreign coral save a dying reef? Radical idea sparks debate]]></dc:title>
+            <dc:creator>Heidi Ledford</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00102-y</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-15; | doi:10.1038/d41586-024-00102-y</dc:source>
+            <dc:date>2024-01-15</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00102-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00102-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00110-y">
+            <title><![CDATA[Insights from four female scientists caught at the early-career crossroads]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00110-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 15 January 2024; <a href="https://www.nature.com/articles/d41586-024-00110-y">doi:10.1038/d41586-024-00110-y</a></p>Facing challenges including parenthood, mental-health strain and financial pressures, these researchers give advice for navigating the uncertain paths before them.]]></content:encoded>
+            <dc:title><![CDATA[Insights from four female scientists caught at the early-career crossroads]]></dc:title>
+            <dc:creator>Lesley Evans Ogden </dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00110-y</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-15; | doi:10.1038/d41586-024-00110-y</dc:source>
+            <dc:date>2024-01-15</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00110-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00110-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00109-5">
+            <title><![CDATA[How a forgotten physicist’s discovery broke the symmetry of the Universe]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00109-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 15 January 2024; <a href="https://www.nature.com/articles/d41586-024-00109-5">doi:10.1038/d41586-024-00109-5</a></p>When Rosemary Brown identified a strange particle decay 75 years ago, it set events in motion that would rewrite the laws of physics.]]></content:encoded>
+            <dc:title><![CDATA[How a forgotten physicist’s discovery broke the symmetry of the Universe]]></dc:title>
+            <dc:creator>Suzie Sheehy</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00109-5</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-15; | doi:10.1038/d41586-024-00109-5</dc:source>
+            <dc:date>2024-01-15</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00109-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00109-5</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00101-z">
             <title><![CDATA[Ancient DNA reveals first known case of sex-development disorder]]></title>
@@ -1255,51 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00016-9</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00016-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-04064-5">
-            <title><![CDATA[Private US Moon mission launches — will it open a new era for science?]]></title>
-            <link>https://www.nature.com/articles/d41586-023-04064-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 08 January 2024; <a href="https://www.nature.com/articles/d41586-023-04064-5">doi:10.1038/d41586-023-04064-5</a></p>Astrobotic could be the first commercial firm to successfully deliver research equipment to the lunar surface, if it sticks the landing.]]></content:encoded>
-            <dc:title><![CDATA[Private US Moon mission launches — will it open a new era for science?]]></dc:title>
-            <dc:creator>Alexandra Witze</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-04064-5</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-08; | doi:10.1038/d41586-023-04064-5</dc:source>
-            <dc:date>2024-01-08</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-04064-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-04064-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00040-9">
-            <title><![CDATA[Daily briefing: Where long COVID is understudied and ignored]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00040-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 08 January 2024; <a href="https://www.nature.com/articles/d41586-024-00040-9">doi:10.1038/d41586-024-00040-9</a></p>A lack of data and recognition is hampering action on long COVID in many low-income countries. Plus, half of the world’s mining areas are undocumented and reindeer can chew while they snooze.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: Where long COVID is understudied and ignored]]></dc:title>
-            <dc:creator>Flora Graham</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00040-9</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-08; | doi:10.1038/d41586-024-00040-9</dc:source>
-            <dc:date>2024-01-08</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00040-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00040-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00017-8">
-            <title><![CDATA[Boosting microbiome science worldwide could save millions of children’s lives]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00017-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 08 January 2024; <a href="https://www.nature.com/articles/d41586-024-00017-8">doi:10.1038/d41586-024-00017-8</a></p>Studies of the microbes living on and in our bodies are conducted mainly in a few rich countries, squandering opportunities to improve the health of people globally.]]></content:encoded>
-            <dc:title><![CDATA[Boosting microbiome science worldwide could save millions of children’s lives]]></dc:title>
-            <dc:creator>Hilary P.  Browne</dc:creator><dc:creator>Najeeha Talat  Iqbal</dc:creator><dc:creator>Majdi  Osman</dc:creator><dc:creator>Caroline  Tigoi</dc:creator><dc:creator>Trevor D.  Lawley</dc:creator><dc:creator>Jeffrey I.  Gordon</dc:creator><dc:creator>Tahmeed   Ahmed</dc:creator><dc:creator>Samuel  Kariuki</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00017-8</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-08; | doi:10.1038/d41586-024-00017-8</dc:source>
-            <dc:date>2024-01-08</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00017-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00017-8</prism:url>
         </item>
     
 </rdf:RDF>
