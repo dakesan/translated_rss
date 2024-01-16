@@ -18,6 +18,20 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07031-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00114-8"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00115-7"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00113-9"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00116-6"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00108-6"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00031-w"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00129-1"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00111-x"/>
@@ -29,6 +43,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00086-9"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00112-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00131-7"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00110-y"/>
                 
@@ -46,6 +62,8 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00006-x"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00094-9"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00081-0"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00013-y"/>
@@ -55,8 +73,6 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00035-6"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04083-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00094-9"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00097-6"/>
                 
@@ -152,22 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04000-7"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00021-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00005-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00015-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00049-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00084-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00044-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00030-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00038-3"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,111 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07031-w">
+            <title><![CDATA[Author Correction: A dense ring of the trans-Neptunian object Quaoar outside its Roche limit]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07031-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 16 January 2024; <a href="https://www.nature.com/articles/s41586-024-07031-w">doi:10.1038/s41586-024-07031-w</a></p>Author Correction: A dense ring of the trans-Neptunian object Quaoar outside its Roche limit]]></content:encoded>
+            <dc:title><![CDATA[Author Correction: A dense ring of the trans-Neptunian object Quaoar outside its Roche limit]]></dc:title>
+            <dc:creator>B. E. Morgado</dc:creator><dc:creator>B. Sicardy</dc:creator><dc:creator>F. Braga-Ribas</dc:creator><dc:creator>J. L. Ortiz</dc:creator><dc:creator>H. Salo</dc:creator><dc:creator>F. Vachier</dc:creator><dc:creator>J. Desmars</dc:creator><dc:creator>C. L. Pereira</dc:creator><dc:creator>P. Santos-Sanz</dc:creator><dc:creator>R. Sfair</dc:creator><dc:creator>T. de Santana</dc:creator><dc:creator>M. Assafin</dc:creator><dc:creator>R. Vieira-Martins</dc:creator><dc:creator>A. R. Gomes-Júnior</dc:creator><dc:creator>G. Margoti</dc:creator><dc:creator>V. S. Dhillon</dc:creator><dc:creator>E. Fernández-Valenzuela</dc:creator><dc:creator>J. Broughton</dc:creator><dc:creator>J. Bradshaw</dc:creator><dc:creator>R. Langersek</dc:creator><dc:creator>G. Benedetti-Rossi</dc:creator><dc:creator>D. Souami</dc:creator><dc:creator>B. J. Holler</dc:creator><dc:creator>M. Kretlow</dc:creator><dc:creator>R. C. Boufleur</dc:creator><dc:creator>J. I. B. Camargo</dc:creator><dc:creator>R. Duffard</dc:creator><dc:creator>W. Beisker</dc:creator><dc:creator>N. Morales</dc:creator><dc:creator>J. Lecacheux</dc:creator><dc:creator>F. L. Rommel</dc:creator><dc:creator>D. Herald</dc:creator><dc:creator>W. Benz</dc:creator><dc:creator>E. Jehin</dc:creator><dc:creator>F. Jankowsky</dc:creator><dc:creator>T. R. Marsh</dc:creator><dc:creator>S. P. Littlefair</dc:creator><dc:creator>G. Bruno</dc:creator><dc:creator>I. Pagano</dc:creator><dc:creator>A. Brandeker</dc:creator><dc:creator>A. Collier-Cameron</dc:creator><dc:creator>H. G. Florén</dc:creator><dc:creator>N. Hara</dc:creator><dc:creator>G. Olofsson</dc:creator><dc:creator>T. G. Wilson</dc:creator><dc:creator>Z. Benkhaldoun</dc:creator><dc:creator>R. Busuttil</dc:creator><dc:creator>A. Burdanov</dc:creator><dc:creator>M. Ferrais</dc:creator><dc:creator>D. Gault</dc:creator><dc:creator>M. Gillon</dc:creator><dc:creator>W. Hanna</dc:creator><dc:creator>S. Kerr</dc:creator><dc:creator>U. Kolb</dc:creator><dc:creator>P. Nosworthy</dc:creator><dc:creator>D. Sebastian</dc:creator><dc:creator>C. Snodgrass</dc:creator><dc:creator>J. P. Teng</dc:creator><dc:creator>J. de Wit</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07031-w</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-16; | doi:10.1038/s41586-024-07031-w</dc:source>
+            <dc:date>2024-01-16</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07031-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07031-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00114-8">
+            <title><![CDATA[Safeguard Amazon’s aquatic fauna against climate change]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00114-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 16 January 2024; <a href="https://www.nature.com/articles/d41586-024-00114-8">doi:10.1038/d41586-024-00114-8</a></p>Safeguard Amazon’s aquatic fauna against climate change]]></content:encoded>
+            <dc:title><![CDATA[Safeguard Amazon’s aquatic fauna against climate change]]></dc:title>
+            <dc:creator>Miriam Marmontel</dc:creator><dc:creator>Ayan Fleischmann</dc:creator><dc:creator>Adalberto Val</dc:creator><dc:creator>Bruce Forsberg</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00114-8</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-16; | doi:10.1038/d41586-024-00114-8</dc:source>
+            <dc:date>2024-01-16</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00114-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00114-8</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00115-7">
+            <title><![CDATA[Does generative AI help academics to do more or less?]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00115-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 16 January 2024; <a href="https://www.nature.com/articles/d41586-024-00115-7">doi:10.1038/d41586-024-00115-7</a></p>Does generative AI help academics to do more or less?]]></content:encoded>
+            <dc:title><![CDATA[Does generative AI help academics to do more or less?]]></dc:title>
+            <dc:creator>Richard Watermeyer</dc:creator><dc:creator>Donna Lanclos</dc:creator><dc:creator>Lawrie Phipps</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00115-7</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-16; | doi:10.1038/d41586-024-00115-7</dc:source>
+            <dc:date>2024-01-16</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00115-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00115-7</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00113-9">
+            <title><![CDATA[Centres of Excellence in AI for global health equity — a strategic vision for LMICs]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00113-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 16 January 2024; <a href="https://www.nature.com/articles/d41586-024-00113-9">doi:10.1038/d41586-024-00113-9</a></p>Centres of Excellence in AI for global health equity — a strategic vision for LMICs]]></content:encoded>
+            <dc:title><![CDATA[Centres of Excellence in AI for global health equity — a strategic vision for LMICs]]></dc:title>
+            <dc:creator>Hossein Akbarialiabad</dc:creator><dc:creator>Nelson K. Sewankambo</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00113-9</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-16; | doi:10.1038/d41586-024-00113-9</dc:source>
+            <dc:date>2024-01-16</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00113-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00113-9</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00116-6">
+            <title><![CDATA[Authors from wealthy countries cannot all pay publishing fees]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00116-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 16 January 2024; <a href="https://www.nature.com/articles/d41586-024-00116-6">doi:10.1038/d41586-024-00116-6</a></p>Authors from wealthy countries cannot all pay publishing fees]]></content:encoded>
+            <dc:title><![CDATA[Authors from wealthy countries cannot all pay publishing fees]]></dc:title>
+            <dc:creator>Loren B. Byrne</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00116-6</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-16; | doi:10.1038/d41586-024-00116-6</dc:source>
+            <dc:date>2024-01-16</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00116-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00116-6</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00108-6">
+            <title><![CDATA[Chimpanzees are dying from our colds — these scientists are trying to save them]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00108-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 16 January 2024; <a href="https://www.nature.com/articles/d41586-024-00108-6">doi:10.1038/d41586-024-00108-6</a></p>Humans are increasingly passing pathogens to animal populations, imperilling endangered species such as chimpanzees and gorillas.]]></content:encoded>
+            <dc:title><![CDATA[Chimpanzees are dying from our colds — these scientists are trying to save them]]></dc:title>
+            <dc:creator>Rachel Nuwer</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00108-6</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-16; | doi:10.1038/d41586-024-00108-6</dc:source>
+            <dc:date>2024-01-16</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00108-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00108-6</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00031-w">
+            <title><![CDATA[Organize your –80 °C freezer to save time and prevent frozen fingertips]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00031-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 16 January 2024; <a href="https://www.nature.com/articles/d41586-024-00031-w">doi:10.1038/d41586-024-00031-w</a></p>Start the new year by sorting out your lab’s cold storage, to simplify purchasing, improve experiment planning and reduce the frequency of lost samples.]]></content:encoded>
+            <dc:title><![CDATA[Organize your –80 °C freezer to save time and prevent frozen fingertips]]></dc:title>
+            <dc:creator>Kelsey Alexandra Woodruff</dc:creator><dc:creator>Christina Marie Termini</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00031-w</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-16; | doi:10.1038/d41586-024-00031-w</dc:source>
+            <dc:date>2024-01-16</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00031-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00031-w</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00129-1">
             <title><![CDATA[In pictures: lava flows into Icelandic town during volcanic eruption]]></title>
@@ -265,6 +370,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00112-w</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00112-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00131-7">
+            <title><![CDATA[Daily briefing: Iron-Age woman had the earliest-known case of Turner syndrome]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00131-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 15 January 2024; <a href="https://www.nature.com/articles/d41586-024-00131-7">doi:10.1038/d41586-024-00131-7</a></p>DNA shows people with sex-development disorders thrived in ancient times. Plus, a record-breaking year of climate change and a controversial plan to save dying reefs with non-native coral.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Iron-Age woman had the earliest-known case of Turner syndrome]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00131-7</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-15; | doi:10.1038/d41586-024-00131-7</dc:source>
+            <dc:date>2024-01-15</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00131-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00131-7</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00110-y">
@@ -387,6 +507,21 @@
             <prism:url>https://www.nature.com/articles/d41586-024-00006-x</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00094-9">
+            <title><![CDATA[Medical AI falters when assessing patients it hasn’t seen]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00094-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 11 January 2024; <a href="https://www.nature.com/articles/d41586-024-00094-9">doi:10.1038/d41586-024-00094-9</a></p>Physicians rely on algorithms for personalized medicine — but an analysis of schizophrenia trials shows that the tools fail to adapt to new data sets.]]></content:encoded>
+            <dc:title><![CDATA[Medical AI falters when assessing patients it hasn’t seen]]></dc:title>
+            <dc:creator>Miryam Naddaf</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00094-9</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-11; | doi:10.1038/d41586-024-00094-9</dc:source>
+            <dc:date>2024-01-11</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00094-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00094-9</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-024-00081-0">
             <title><![CDATA[Oceans break heat records five years in a row]]></title>
             <link>https://www.nature.com/articles/d41586-024-00081-0</link>
@@ -460,21 +595,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-04083-2</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-04083-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00094-9">
-            <title><![CDATA[Medical AI falters when assessing patients it hasn’t seen]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00094-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 11 January 2024; <a href="https://www.nature.com/articles/d41586-024-00094-9">doi:10.1038/d41586-024-00094-9</a></p>Physicians rely on algorithms for personalized medicine — but an analysis of schizophrenia trials shows the tools fail to adapt to new data sets.]]></content:encoded>
-            <dc:title><![CDATA[Medical AI falters when assessing patients it hasn’t seen]]></dc:title>
-            <dc:creator>Miryam Naddaf</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00094-9</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-11; | doi:10.1038/d41586-024-00094-9</dc:source>
-            <dc:date>2024-01-11</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00094-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00094-9</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00097-6">
@@ -1180,126 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-04000-7</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-04000-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00021-y">
-            <title><![CDATA[Apply publication-charge waivers across hybrid journals, too]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00021-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 09 January 2024; <a href="https://www.nature.com/articles/d41586-024-00021-y">doi:10.1038/d41586-024-00021-y</a></p>Apply publication-charge waivers across hybrid journals, too]]></content:encoded>
-            <dc:title><![CDATA[Apply publication-charge waivers across hybrid journals, too]]></dc:title>
-            <dc:creator>Daniel  Keirs</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00021-y</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-09; | doi:10.1038/d41586-024-00021-y</dc:source>
-            <dc:date>2024-01-09</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00021-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00021-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00005-y">
-            <title><![CDATA[Why the immune response to a vaccine varies from person to person]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00005-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 09 January 2024; <a href="https://www.nature.com/articles/d41586-024-00005-y">doi:10.1038/d41586-024-00005-y</a></p>A dormant immune system before receiving the BCG vaccine is tied to a greater innate immune response afterwards.]]></content:encoded>
-            <dc:title><![CDATA[Why the immune response to a vaccine varies from person to person]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-00005-y</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-09; | doi:10.1038/d41586-024-00005-y</dc:source>
-            <dc:date>2024-01-09</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00005-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00005-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00015-w">
-            <title><![CDATA[How CRISPR could yield the next blockbuster crop]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00015-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 09 January 2024; <a href="https://www.nature.com/articles/d41586-024-00015-w">doi:10.1038/d41586-024-00015-w</a></p>Scientists are attempting to rapidly domesticate wild plant species by editing specific genes, but they face major technical challenges — and concerns about exploitation of Indigenous knowledge.]]></content:encoded>
-            <dc:title><![CDATA[How CRISPR could yield the next blockbuster crop]]></dc:title>
-            <dc:creator>Michael Marshall</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00015-w</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-09; | doi:10.1038/d41586-024-00015-w</dc:source>
-            <dc:date>2024-01-09</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00015-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00015-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00049-0">
-            <title><![CDATA[Daily briefing: What makes pee yellow]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00049-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 09 January 2024; <a href="https://www.nature.com/articles/d41586-024-00049-0">doi:10.1038/d41586-024-00049-0</a></p>The enzyme that turns a red-orange precursor into urine’s yellow compound has finally been identified. Plus, the latest private Moon mission might be doomed and a baby’s heart-valve transplant has grown with its young recipient.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: What makes pee yellow]]></dc:title>
-            <dc:creator>Katrina Krämer</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00049-0</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-09; | doi:10.1038/d41586-024-00049-0</dc:source>
-            <dc:date>2024-01-09</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00049-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00049-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00084-x">
-            <title><![CDATA[AI &amp; robotics briefing: Why superintelligent AI won’t sneak up on us]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00084-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 09 January 2024; <a href="https://www.nature.com/articles/d41586-024-00084-x">doi:10.1038/d41586-024-00084-x</a></p>Sudden jumps in large language models’ apparent intelligence are often a result of the way their performance is tested. Plus, a GPT-powered robot chemist designs reactions and what’s in store for AI in 2024.]]></content:encoded>
-            <dc:title><![CDATA[AI &amp; robotics briefing: Why superintelligent AI won’t sneak up on us]]></dc:title>
-            <dc:creator>Katrina Krämer</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00084-x</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-09; | doi:10.1038/d41586-024-00084-x</dc:source>
-            <dc:date>2024-01-09</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00084-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00084-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00044-5">
-            <title><![CDATA[Breaking the menstruation taboo to make fieldwork more inclusive]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00044-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 09 January 2024; <a href="https://www.nature.com/articles/d41586-024-00044-5">doi:10.1038/d41586-024-00044-5</a></p>We need to talk about periods when planning routine fieldwork trips, say ecologist Sarah E. Dalrymple and glaciologist Timothy P. Lane.]]></content:encoded>
-            <dc:title><![CDATA[Breaking the menstruation taboo to make fieldwork more inclusive]]></dc:title>
-            <dc:creator>Sarah  Dalrymple</dc:creator><dc:creator>Timothy  Lane</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00044-5</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-09; | doi:10.1038/d41586-024-00044-5</dc:source>
-            <dc:date>2024-01-09</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00044-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00044-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00030-x">
-            <title><![CDATA[How online misinformation exploits ‘information voids’ — and what to do about it]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00030-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 09 January 2024; <a href="https://www.nature.com/articles/d41586-024-00030-x">doi:10.1038/d41586-024-00030-x</a></p>In 2024’s super election year, providers of online search engines and their users need to be especially aware of how online misinformation can seem all too credible.]]></content:encoded>
-            <dc:title><![CDATA[How online misinformation exploits ‘information voids’ — and what to do about it]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-00030-x</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-09; | doi:10.1038/d41586-024-00030-x</dc:source>
-            <dc:date>2024-01-09</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00030-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00030-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00038-3">
-            <title><![CDATA[Mission failure feared for private US Moon lander — what’s next?]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00038-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 09 January 2024; <a href="https://www.nature.com/articles/d41586-024-00038-3">doi:10.1038/d41586-024-00038-3</a></p>Astrobotic, the firm that launched the Peregrine spacecraft, says it will learn from any missteps and look ahead to its next attempt.]]></content:encoded>
-            <dc:title><![CDATA[Mission failure feared for private US Moon lander — what’s next?]]></dc:title>
-            <dc:creator>Alexandra Witze</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00038-3</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-09; | doi:10.1038/d41586-024-00038-3</dc:source>
-            <dc:date>2024-01-09</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00038-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00038-3</prism:url>
         </item>
     
 </rdf:RDF>
