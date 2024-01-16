@@ -18,7 +18,17 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00129-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00111-x"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07050-7"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00102-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00086-9"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00112-w"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00110-y"/>
                 
@@ -29,6 +39,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00074-z"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00099-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00120-w"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00093-w"/>
                 
@@ -156,18 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00038-3"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00045-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00008-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00034-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00018-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06752-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00016-9"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,51 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00129-1">
+            <title><![CDATA[In pictures: lava flows into Icelandic town during volcanic eruption]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00129-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 15 January 2024; <a href="https://www.nature.com/articles/d41586-024-00129-1">doi:10.1038/d41586-024-00129-1</a></p>The latest outburst sent lava pouring into the port town of Grindavík, igniting homes.]]></content:encoded>
+            <dc:title><![CDATA[In pictures: lava flows into Icelandic town during volcanic eruption]]></dc:title>
+            <dc:creator>Alexandra Witze</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00129-1</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-15; | doi:10.1038/d41586-024-00129-1</dc:source>
+            <dc:date>2024-01-15</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00129-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00129-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00111-x">
+            <title><![CDATA[Giving thanks for a glovebox: helping to make medicines from natural substances]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00111-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 15 January 2024; <a href="https://www.nature.com/articles/d41586-024-00111-x">doi:10.1038/d41586-024-00111-x</a></p>Richmond Sarpong wishes more people had access to the nitrogen-regulated device.]]></content:encoded>
+            <dc:title><![CDATA[Giving thanks for a glovebox: helping to make medicines from natural substances]]></dc:title>
+            <dc:creator>James Mitchell Crow</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00111-x</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-15; | doi:10.1038/d41586-024-00111-x</dc:source>
+            <dc:date>2024-01-15</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00111-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00111-x</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07050-7">
+            <title><![CDATA[Author Correction: A genomic mutational constraint map using variation in 76,156 human genomes]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07050-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 15 January 2024; <a href="https://www.nature.com/articles/s41586-024-07050-7">doi:10.1038/s41586-024-07050-7</a></p>Author Correction: A genomic mutational constraint map using variation in 76,156 human genomes]]></content:encoded>
+            <dc:title><![CDATA[Author Correction: A genomic mutational constraint map using variation in 76,156 human genomes]]></dc:title>
+            <dc:creator>Siwei Chen</dc:creator><dc:creator>Laurent C. Francioli</dc:creator><dc:creator>Julia K. Goodrich</dc:creator><dc:creator>Ryan L. Collins</dc:creator><dc:creator>Masahiro Kanai</dc:creator><dc:creator>Qingbo Wang</dc:creator><dc:creator>Jessica Alföldi</dc:creator><dc:creator>Nicholas A. Watts</dc:creator><dc:creator>Christopher Vittal</dc:creator><dc:creator>Laura D. Gauthier</dc:creator><dc:creator>Timothy Poterba</dc:creator><dc:creator>Michael W. Wilson</dc:creator><dc:creator>Yekaterina Tarasova</dc:creator><dc:creator>William Phu</dc:creator><dc:creator>Riley Grant</dc:creator><dc:creator>Mary T. Yohannes</dc:creator><dc:creator>Zan Koenig</dc:creator><dc:creator>Yossi Farjoun</dc:creator><dc:creator>Eric Banks</dc:creator><dc:creator>Stacey Donnelly</dc:creator><dc:creator>Stacey Gabriel</dc:creator><dc:creator>Namrata Gupta</dc:creator><dc:creator>Steven Ferriera</dc:creator><dc:creator>Charlotte Tolonen</dc:creator><dc:creator>Sam Novod</dc:creator><dc:creator>Louis Bergelson</dc:creator><dc:creator>David Roazen</dc:creator><dc:creator>Valentin Ruano-Rubio</dc:creator><dc:creator>Miguel Covarrubias</dc:creator><dc:creator>Christopher Llanwarne</dc:creator><dc:creator>Nikelle Petrillo</dc:creator><dc:creator>Gordon Wade</dc:creator><dc:creator>Thibault Jeandet</dc:creator><dc:creator>Ruchi Munshi</dc:creator><dc:creator>Kathleen Tibbetts</dc:creator><dc:creator>Maria Abreu</dc:creator><dc:creator>Carlos A. Aguilar Salinas</dc:creator><dc:creator>Tariq Ahmad</dc:creator><dc:creator>Christine M. Albert</dc:creator><dc:creator>Diego Ardissino</dc:creator><dc:creator>Irina M. Armean</dc:creator><dc:creator>Elizabeth G. Atkinson</dc:creator><dc:creator>Gil Atzmon</dc:creator><dc:creator>John Barnard</dc:creator><dc:creator>Samantha M. Baxter</dc:creator><dc:creator>Laurent Beaugerie</dc:creator><dc:creator>Emelia J. Benjamin</dc:creator><dc:creator>David Benjamin</dc:creator><dc:creator>Michael Boehnke</dc:creator><dc:creator>Lori L. Bonnycastle</dc:creator><dc:creator>Erwin P. Bottinger</dc:creator><dc:creator>Donald W. Bowden</dc:creator><dc:creator>Matthew J. Bown</dc:creator><dc:creator>Harrison Brand</dc:creator><dc:creator>Steven Brant</dc:creator><dc:creator>Ted Brookings</dc:creator><dc:creator>Sam Bryant</dc:creator><dc:creator>Sarah E. Calvo</dc:creator><dc:creator>Hannia Campos</dc:creator><dc:creator>John C. Chambers</dc:creator><dc:creator>Juliana C. Chan</dc:creator><dc:creator>Katherine R. Chao</dc:creator><dc:creator>Sinéad Chapman</dc:creator><dc:creator>Daniel I. Chasman</dc:creator><dc:creator>Rex Chisholm</dc:creator><dc:creator>Judy Cho</dc:creator><dc:creator>Rajiv Chowdhury</dc:creator><dc:creator>Mina K. Chung</dc:creator><dc:creator>Wendy K. Chung</dc:creator><dc:creator>Kristian Cibulskis</dc:creator><dc:creator>Bruce Cohen</dc:creator><dc:creator>Kristen M. Connolly</dc:creator><dc:creator>Adolfo Correa</dc:creator><dc:creator>Beryl B. Cummings</dc:creator><dc:creator>Dana Dabelea</dc:creator><dc:creator>John Danesh</dc:creator><dc:creator>Dawood Darbar</dc:creator><dc:creator>Phil Darnowsky</dc:creator><dc:creator>Joshua Denny</dc:creator><dc:creator>Ravindranath Duggirala</dc:creator><dc:creator>Josée Dupuis</dc:creator><dc:creator>Patrick T. Ellinor</dc:creator><dc:creator>Roberto Elosua</dc:creator><dc:creator>James Emery</dc:creator><dc:creator>Eleina England</dc:creator><dc:creator>Jeanette Erdmann</dc:creator><dc:creator>Tõnu Esko</dc:creator><dc:creator>Emily Evangelista</dc:creator><dc:creator>Diane Fatkin</dc:creator><dc:creator>Jose Florez</dc:creator><dc:creator>Andre Franke</dc:creator><dc:creator>Jack Fu</dc:creator><dc:creator>Martti Färkkilä</dc:creator><dc:creator>Kiran Garimella</dc:creator><dc:creator>Jeff Gentry</dc:creator><dc:creator>Gad Getz</dc:creator><dc:creator>David C. Glahn</dc:creator><dc:creator>Benjamin Glaser</dc:creator><dc:creator>Stephen J. Glatt</dc:creator><dc:creator>David Goldstein</dc:creator><dc:creator>Clicerio Gonzalez</dc:creator><dc:creator>Leif Groop</dc:creator><dc:creator>Sanna Gudmundsson</dc:creator><dc:creator>Andrea Haessly</dc:creator><dc:creator>Christopher Haiman</dc:creator><dc:creator>Ira Hall</dc:creator><dc:creator>Craig L. Hanis</dc:creator><dc:creator>Matthew Harms</dc:creator><dc:creator>Mikko Hiltunen</dc:creator><dc:creator>Matti M. Holi</dc:creator><dc:creator>Christina M. Hultman</dc:creator><dc:creator>Chaim Jalas</dc:creator><dc:creator>Mikko Kallela</dc:creator><dc:creator>Diane Kaplan</dc:creator><dc:creator>Jaakko Kaprio</dc:creator><dc:creator>Sekar Kathiresan</dc:creator><dc:creator>Eimear E. Kenny</dc:creator><dc:creator>Bong-Jo Kim</dc:creator><dc:creator>Young Jin Kim</dc:creator><dc:creator>Daniel King</dc:creator><dc:creator>George Kirov</dc:creator><dc:creator>Jaspal Kooner</dc:creator><dc:creator>Seppo Koskinen</dc:creator><dc:creator>Harlan M. Krumholz</dc:creator><dc:creator>Subra Kugathasan</dc:creator><dc:creator>Soo Heon Kwak</dc:creator><dc:creator>Markku Laakso</dc:creator><dc:creator>Nicole Lake</dc:creator><dc:creator>Trevyn Langsford</dc:creator><dc:creator>Kristen M. Laricchia</dc:creator><dc:creator>Terho Lehtimäki</dc:creator><dc:creator>Monkol Lek</dc:creator><dc:creator>Emily Lipscomb</dc:creator><dc:creator>Ruth J. F. Loos</dc:creator><dc:creator>Wenhan Lu</dc:creator><dc:creator>Steven A. Lubitz</dc:creator><dc:creator>Teresa Tusie Luna</dc:creator><dc:creator>Ronald C. W. Ma</dc:creator><dc:creator>Gregory M. Marcus</dc:creator><dc:creator>Jaume Marrugat</dc:creator><dc:creator>Kari M. Mattila</dc:creator><dc:creator>Steven McCarroll</dc:creator><dc:creator>Mark I. McCarthy</dc:creator><dc:creator>Jacob L. McCauley</dc:creator><dc:creator>Dermot McGovern</dc:creator><dc:creator>Ruth McPherson</dc:creator><dc:creator>James B. Meigs</dc:creator><dc:creator>Olle Melander</dc:creator><dc:creator>Andres Metspalu</dc:creator><dc:creator>Deborah Meyers</dc:creator><dc:creator>Eric V. Minikel</dc:creator><dc:creator>Braxton D. Mitchell</dc:creator><dc:creator>Vamsi K. Mootha</dc:creator><dc:creator>Aliya Naheed</dc:creator><dc:creator>Saman Nazarian</dc:creator><dc:creator>Peter M. Nilsson</dc:creator><dc:creator>Michael C. O’Donovan</dc:creator><dc:creator>Yukinori Okada</dc:creator><dc:creator>Dost Ongur</dc:creator><dc:creator>Lorena Orozco</dc:creator><dc:creator>Michael J. Owen</dc:creator><dc:creator>Colin Palmer</dc:creator><dc:creator>Nicholette D. Palmer</dc:creator><dc:creator>Aarno Palotie</dc:creator><dc:creator>Kyong Soo Park</dc:creator><dc:creator>Carlos Pato</dc:creator><dc:creator>Ann E. Pulver</dc:creator><dc:creator>Dan Rader</dc:creator><dc:creator>Nazneen Rahman</dc:creator><dc:creator>Alex Reiner</dc:creator><dc:creator>Anne M. Remes</dc:creator><dc:creator>Dan Rhodes</dc:creator><dc:creator>Stephen Rich</dc:creator><dc:creator>John D. Rioux</dc:creator><dc:creator>Samuli Ripatti</dc:creator><dc:creator>Dan M. Roden</dc:creator><dc:creator>Jerome I. Rotter</dc:creator><dc:creator>Nareh Sahakian</dc:creator><dc:creator>Danish Saleheen</dc:creator><dc:creator>Veikko Salomaa</dc:creator><dc:creator>Andrea Saltzman</dc:creator><dc:creator>Nilesh J. Samani</dc:creator><dc:creator>Kaitlin E. Samocha</dc:creator><dc:creator>Alba Sanchis-Juan</dc:creator><dc:creator>Jeremiah Scharf</dc:creator><dc:creator>Molly Schleicher</dc:creator><dc:creator>Heribert Schunkert</dc:creator><dc:creator>Sebastian Schönherr</dc:creator><dc:creator>Eleanor G. Seaby</dc:creator><dc:creator>Svati H. Shah</dc:creator><dc:creator>Megan Shand</dc:creator><dc:creator>Ted Sharpe</dc:creator><dc:creator>Moore B. Shoemaker</dc:creator><dc:creator>Tai Shyong</dc:creator><dc:creator>Edwin K. Silverman</dc:creator><dc:creator>Moriel Singer-Berk</dc:creator><dc:creator>Pamela Sklar</dc:creator><dc:creator>Jonathan T. Smith</dc:creator><dc:creator>J. Gustav Smith</dc:creator><dc:creator>Hilkka Soininen</dc:creator><dc:creator>Harry Sokol</dc:creator><dc:creator>Rachel G. Son</dc:creator><dc:creator>Jose Soto</dc:creator><dc:creator>Tim Spector</dc:creator><dc:creator>Christine Stevens</dc:creator><dc:creator>Nathan O. Stitziel</dc:creator><dc:creator>Patrick F. Sullivan</dc:creator><dc:creator>Jaana Suvisaari</dc:creator><dc:creator>E. Shyong Tai</dc:creator><dc:creator>Kent D. Taylor</dc:creator><dc:creator>Yik Ying Teo</dc:creator><dc:creator>Ming Tsuang</dc:creator><dc:creator>Tiinamaija Tuomi</dc:creator><dc:creator>Dan Turner</dc:creator><dc:creator>Teresa Tusie-Luna</dc:creator><dc:creator>Erkki Vartiainen</dc:creator><dc:creator>Marquis Vawter</dc:creator><dc:creator>Lily Wang</dc:creator><dc:creator>Arcturus Wang</dc:creator><dc:creator>James S. Ware</dc:creator><dc:creator>Hugh Watkins</dc:creator><dc:creator>Rinse K. Weersma</dc:creator><dc:creator>Ben Weisburd</dc:creator><dc:creator>Maija Wessman</dc:creator><dc:creator>Nicola Whiffin</dc:creator><dc:creator>James G. Wilson</dc:creator><dc:creator>Ramnik J. Xavier</dc:creator><dc:creator>Anne O’Donnell-Luria</dc:creator><dc:creator>Matthew Solomonson</dc:creator><dc:creator>Cotton Seed</dc:creator><dc:creator>Alicia R. Martin</dc:creator><dc:creator>Michael E. Talkowski</dc:creator><dc:creator>Heidi L. Rehm</dc:creator><dc:creator>Mark J. Daly</dc:creator><dc:creator>Grace Tiao</dc:creator><dc:creator>Benjamin M. Neale</dc:creator><dc:creator>Daniel G. MacArthur</dc:creator><dc:creator>Konrad J. Karczewski</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07050-7</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-15; | doi:10.1038/s41586-024-07050-7</dc:source>
+            <dc:date>2024-01-15</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07050-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07050-7</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00102-y">
             <title><![CDATA[Can foreign coral save a dying reef? Radical idea sparks debate]]></title>
@@ -190,6 +235,36 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00102-y</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00102-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00086-9">
+            <title><![CDATA[New NIH chief opens up about risky pathogens, postdoc salaries and the year ahead]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00086-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 15 January 2024; <a href="https://www.nature.com/articles/d41586-024-00086-9">doi:10.1038/d41586-024-00086-9</a></p>Nature talks to Monica Bertagnolli about hot-button issues and her top priorities for 2024.]]></content:encoded>
+            <dc:title><![CDATA[New NIH chief opens up about risky pathogens, postdoc salaries and the year ahead]]></dc:title>
+            <dc:creator>Max Kozlov</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00086-9</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-15; | doi:10.1038/d41586-024-00086-9</dc:source>
+            <dc:date>2024-01-15</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00086-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00086-9</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00112-w">
+            <title><![CDATA[Snapshots of genetic copy-and-paste machinery in action]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00112-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 15 January 2024; <a href="https://www.nature.com/articles/d41586-024-00112-w">doi:10.1038/d41586-024-00112-w</a></p>LINE-1 DNA elements self-duplicate, inserting the copy into new regions of the genome — a key process in chromosome evolution. Structures of the machinery that performs this process in humans are now reported.]]></content:encoded>
+            <dc:title><![CDATA[Snapshots of genetic copy-and-paste machinery in action]]></dc:title>
+            <dc:creator>Gael Cristofari</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00112-w</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-15; | doi:10.1038/d41586-024-00112-w</dc:source>
+            <dc:date>2024-01-15</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00112-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00112-w</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00110-y">
@@ -265,6 +340,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00099-4</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00099-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00120-w">
+            <title><![CDATA[Daily briefing: Huge ancient civilization discovered in the Amazon]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00120-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 12 January 2024; <a href="https://www.nature.com/articles/d41586-024-00120-w">doi:10.1038/d41586-024-00120-w</a></p>A 2,500-year-old network of interconnected cities has been found hidden under vegetation in Ecuador. Plus, the oldest reptile skin ever found pre-dates the dinosaurs.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Huge ancient civilization discovered in the Amazon]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00120-w</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-12; | doi:10.1038/d41586-024-00120-w</dc:source>
+            <dc:date>2024-01-12</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00120-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00120-w</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00093-w">
@@ -1210,96 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00038-3</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00038-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00045-4">
-            <title><![CDATA[In Brazil, one in two female researchers has faced sexual harassment]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00045-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 09 January 2024; <a href="https://www.nature.com/articles/d41586-024-00045-4">doi:10.1038/d41586-024-00045-4</a></p>A survey by the Brazilian Academy of Sciences bolsters calls to tackle the problem.]]></content:encoded>
-            <dc:title><![CDATA[In Brazil, one in two female researchers has faced sexual harassment]]></dc:title>
-            <dc:creator>Meghie Rodrigues</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00045-4</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-09; | doi:10.1038/d41586-024-00045-4</dc:source>
-            <dc:date>2024-01-09</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00045-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00045-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00008-9">
-            <title><![CDATA[Life is short for baby monkeys amid the oil palms]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00008-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 08 January 2024; <a href="https://www.nature.com/articles/d41586-024-00008-9">doi:10.1038/d41586-024-00008-9</a></p>Young southern pig-tailed macaques, an endangered species, are less likely to reach their first birthday if they spend time on plantations.]]></content:encoded>
-            <dc:title><![CDATA[Life is short for baby monkeys amid the oil palms]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-00008-9</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-08; | doi:10.1038/d41586-024-00008-9</dc:source>
-            <dc:date>2024-01-08</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00008-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00008-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00034-7">
-            <title><![CDATA[Tasmanian devil die-off is shifting another predator’s genetics]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00034-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 08 January 2024; <a href="https://www.nature.com/articles/d41586-024-00034-7">doi:10.1038/d41586-024-00034-7</a></p>Devil population crashes caused by contagious tumours have knock-on effects elsewhere in the food chain.]]></content:encoded>
-            <dc:title><![CDATA[Tasmanian devil die-off is shifting another predator’s genetics]]></dc:title>
-            <dc:creator>Miryam Naddaf</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00034-7</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-08; | doi:10.1038/d41586-024-00034-7</dc:source>
-            <dc:date>2024-01-08</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00034-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00034-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00018-7">
-            <title><![CDATA[How I fuse Western science with Traditional Knowledge]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00018-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 08 January 2024; <a href="https://www.nature.com/articles/d41586-024-00018-7">doi:10.1038/d41586-024-00018-7</a></p>Indigenous Canadian ecologist Jennifer Grenz abandons colonial restoration dogma to reshape land systems according to community needs.]]></content:encoded>
-            <dc:title><![CDATA[How I fuse Western science with Traditional Knowledge]]></dc:title>
-            <dc:creator>Virginia Gewin</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00018-7</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-08; | doi:10.1038/d41586-024-00018-7</dc:source>
-            <dc:date>2024-01-08</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00018-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00018-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06752-8">
-            <title><![CDATA[Ionized gas extends over 40 kpc in an odd radio circle host galaxy]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06752-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 08 January 2024; <a href="https://www.nature.com/articles/s41586-023-06752-8">doi:10.1038/s41586-023-06752-8</a></p>We find that the optical emission due to ionized gas that is characteristic of a shock extends 40 kpc in diameter across the host galaxy of an odd radio circle.]]></content:encoded>
-            <dc:title><![CDATA[Ionized gas extends over 40 kpc in an odd radio circle host galaxy]]></dc:title>
-            <dc:creator>Alison L. Coil</dc:creator><dc:creator>Serena Perrotta</dc:creator><dc:creator>David S. N. Rupke</dc:creator><dc:creator>Cassandra Lochhaas</dc:creator><dc:creator>Christy A. Tremonti</dc:creator><dc:creator>Aleks Diamond-Stanic</dc:creator><dc:creator>Drummond Fielding</dc:creator><dc:creator>James E. Geach</dc:creator><dc:creator>Ryan C. Hickox</dc:creator><dc:creator>John Moustakas</dc:creator><dc:creator>Gregory H. Rudnick</dc:creator><dc:creator>Paul Sell</dc:creator><dc:creator>Kelly E. Whalen</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06752-8</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-08; | doi:10.1038/s41586-023-06752-8</dc:source>
-            <dc:date>2024-01-08</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06752-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06752-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00016-9">
-            <title><![CDATA[How we remember the dead by their digital afterlives]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00016-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 08 January 2024; <a href="https://www.nature.com/articles/d41586-024-00016-9">doi:10.1038/d41586-024-00016-9</a></p>A broad-ranging analysis asks whether we can achieve a kind of immortality by documenting our lives and deaths online.]]></content:encoded>
-            <dc:title><![CDATA[How we remember the dead by their digital afterlives]]></dc:title>
-            <dc:creator>Margaret  Gibson</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00016-9</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-08; | doi:10.1038/d41586-024-00016-9</dc:source>
-            <dc:date>2024-01-08</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00016-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00016-9</prism:url>
         </item>
     
 </rdf:RDF>
