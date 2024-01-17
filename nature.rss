@@ -18,6 +18,14 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00119-3"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00107-7"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00105-9"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00124-6"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07031-w"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04001-6"/>
@@ -40,9 +48,13 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00108-6"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00139-z"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00106-8"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00104-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00048-1"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00031-w"/>
                 
@@ -156,18 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00042-7"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03842-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03993-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04102-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00033-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00029-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03977-5"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,66 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00119-3">
+            <title><![CDATA[Could giant underwater curtains slow ice-sheet melting?]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00119-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 17 January 2024; <a href="https://www.nature.com/articles/d41586-024-00119-3">doi:10.1038/d41586-024-00119-3</a></p>The curtains would separate polar ice sheets from warm ocean waters — but like other geoengineering proposals, the idea divides scientists.]]></content:encoded>
+            <dc:title><![CDATA[Could giant underwater curtains slow ice-sheet melting?]]></dc:title>
+            <dc:creator>Xiaoying You</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00119-3</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-17; | doi:10.1038/d41586-024-00119-3</dc:source>
+            <dc:date>2024-01-17</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00119-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00119-3</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00107-7">
+            <title><![CDATA[The consciousness wars: can scientists ever agree on how the mind works?]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00107-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 17 January 2024; <a href="https://www.nature.com/articles/d41586-024-00107-7">doi:10.1038/d41586-024-00107-7</a></p>There are dozens of theories of how the brain produces conscious experience, and a new type of study is testing some of them head-to-head.]]></content:encoded>
+            <dc:title><![CDATA[The consciousness wars: can scientists ever agree on how the mind works?]]></dc:title>
+            <dc:creator>Mariana Lenharo</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00107-7</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-17; | doi:10.1038/d41586-024-00107-7</dc:source>
+            <dc:date>2024-01-17</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00107-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00107-7</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00105-9">
+            <title><![CDATA[US particle physicists want to build a muon collider — Europe should pitch in]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00105-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 17 January 2024; <a href="https://www.nature.com/articles/d41586-024-00105-9">doi:10.1038/d41586-024-00105-9</a></p>A feasibility study for a muon smasher in the United States could be an affordable way to maintain particle physics unity.]]></content:encoded>
+            <dc:title><![CDATA[US particle physicists want to build a muon collider — Europe should pitch in]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-00105-9</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-17; | doi:10.1038/d41586-024-00105-9</dc:source>
+            <dc:date>2024-01-17</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00105-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00105-9</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00124-6">
+            <title><![CDATA[Piracy at sea is waning — but hotspots remain]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00124-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 17 January 2024; <a href="https://www.nature.com/articles/d41586-024-00124-6">doi:10.1038/d41586-024-00124-6</a></p>A greater understanding of pirate attacks can help to inform the development of countermeasures.]]></content:encoded>
+            <dc:title><![CDATA[Piracy at sea is waning — but hotspots remain]]></dc:title>
+            <dc:creator>Freda Kreier</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00124-6</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-17; | doi:10.1038/d41586-024-00124-6</dc:source>
+            <dc:date>2024-01-17</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00124-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00124-6</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07031-w">
             <title><![CDATA[Author Correction: A dense ring of the trans-Neptunian object Quaoar outside its Roche limit]]></title>
@@ -342,6 +402,21 @@
             <prism:url>https://www.nature.com/articles/d41586-024-00108-6</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00139-z">
+            <title><![CDATA[Daily briefing: Testers say Google AI has a better bedside manner than human doctors]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00139-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 16 January 2024; <a href="https://www.nature.com/articles/d41586-024-00139-z">doi:10.1038/d41586-024-00139-z</a></p>A Google AI system outperformed human physicians in diagnosing certain medical conditions ranked higher on empathy. Plus, a mysterious fossil skull could belong to new tyrannosaur species and why great apes are dying from our colds.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Testers say Google AI has a better bedside manner than human doctors]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00139-z</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-16; | doi:10.1038/d41586-024-00139-z</dc:source>
+            <dc:date>2024-01-16</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00139-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00139-z</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-024-00106-8">
             <title><![CDATA[Stop sending human remains to the Moon]]></title>
             <link>https://www.nature.com/articles/d41586-024-00106-8</link>
@@ -370,6 +445,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00104-w</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00104-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00048-1">
+            <title><![CDATA[How a peer network made my worst day as a grad student bearable]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00048-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 16 January 2024; <a href="https://www.nature.com/articles/d41586-024-00048-1">doi:10.1038/d41586-024-00048-1</a></p>Anxiety and depression affect nearly half of all early-career researchers. Strengthening our communities from within can provide relief, says Taylor Tibbs.]]></content:encoded>
+            <dc:title><![CDATA[How a peer network made my worst day as a grad student bearable]]></dc:title>
+            <dc:creator>Taylor Tibbs</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00048-1</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-16; | doi:10.1038/d41586-024-00048-1</dc:source>
+            <dc:date>2024-01-16</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00048-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00048-1</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00031-w">
@@ -1210,96 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00042-7</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00042-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03842-5">
-            <title><![CDATA[Deadly mismatch between nuclear and mitochondrial genes in swordtail fish hybrids]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03842-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 10 January 2024; <a href="https://www.nature.com/articles/d41586-023-03842-5">doi:10.1038/d41586-023-03842-5</a></p>An analysis of the genomes of hybrids of distinct swordtail fish species uncovered a lethal incompatibility between certain combinations of nuclear and mitochondrial genes that encode subunits of complex I — a component of the mitochondrial respiratory chain. The evolutionary history of this incompatibility indicates that the genes involved were transferred between the species through hybridization in the past.]]></content:encoded>
-            <dc:title><![CDATA[Deadly mismatch between nuclear and mitochondrial genes in swordtail fish hybrids]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-03842-5</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-10; | doi:10.1038/d41586-023-03842-5</dc:source>
-            <dc:date>2024-01-10</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03842-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03842-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03993-5">
-            <title><![CDATA[Snow loss pinned to human-induced emissions]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03993-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 10 January 2024; <a href="https://www.nature.com/articles/d41586-023-03993-5">doi:10.1038/d41586-023-03993-5</a></p>Analysis of a large, varied data set reveals that snow cover in the Northern Hemisphere has undergone marked changes in the past four decades. Evidence that humans caused the shift suggests that snow loss will accelerate in the future.]]></content:encoded>
-            <dc:title><![CDATA[Snow loss pinned to human-induced emissions]]></dc:title>
-            <dc:creator>Jouni  Pulliainen</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03993-5</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-10; | doi:10.1038/d41586-023-03993-5</dc:source>
-            <dc:date>2024-01-10</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03993-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03993-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-04102-2">
-            <title><![CDATA[Spin supersolid with giant magnetocaloric effect promises a new route to extreme cooling]]></title>
-            <link>https://www.nature.com/articles/d41586-023-04102-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 10 January 2024; <a href="https://www.nature.com/articles/d41586-023-04102-2">doi:10.1038/d41586-023-04102-2</a></p>Supersolids are long-sought-after quantum materials with two seemingly contradictory features: a rigid solid structure and superfluidity. A triangular-lattice cobaltate material provides evidence for a quantum spin analogue of supersolidity, with an additional giant magnetocaloric effect — discoveries that pave the way for helium-free cooling to temperatures below 1 kelvin with frustrated quantum magnets.]]></content:encoded>
-            <dc:title><![CDATA[Spin supersolid with giant magnetocaloric effect promises a new route to extreme cooling]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-04102-2</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-10; | doi:10.1038/d41586-023-04102-2</dc:source>
-            <dc:date>2024-01-10</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-04102-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-04102-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00033-8">
-            <title><![CDATA[Why did the world’s biggest ape go extinct?]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00033-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 10 January 2024; <a href="https://www.nature.com/articles/d41586-024-00033-8">doi:10.1038/d41586-024-00033-8</a></p>The 300-kilogram primate couldn’t adapt when a changing environment forced a dietary shift.]]></content:encoded>
-            <dc:title><![CDATA[Why did the world’s biggest ape go extinct?]]></dc:title>
-            <dc:creator>Gemma Conroy</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00033-8</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-10; | doi:10.1038/d41586-024-00033-8</dc:source>
-            <dc:date>2024-01-10</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00033-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00033-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00029-4">
-            <title><![CDATA[There are holes in Europe’s AI Act — and researchers can help to fill them]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00029-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 10 January 2024; <a href="https://www.nature.com/articles/d41586-024-00029-4">doi:10.1038/d41586-024-00029-4</a></p>Scientists have been promised a front-row seat for the formulation of the EU’s proposed AI regulatory structures. They should seize this opportunity to bridge some big gaps.]]></content:encoded>
-            <dc:title><![CDATA[There are holes in Europe’s AI Act — and researchers can help to fill them]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-00029-4</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-10; | doi:10.1038/d41586-024-00029-4</dc:source>
-            <dc:date>2024-01-10</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00029-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00029-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-03977-5">
-            <title><![CDATA[Prehistoric events might explain European multiple sclerosis risk]]></title>
-            <link>https://www.nature.com/articles/d41586-023-03977-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 10 January 2024; <a href="https://www.nature.com/articles/d41586-023-03977-5">doi:10.1038/d41586-023-03977-5</a></p>An exploration of more than 1,600 ancient Eurasian genomes suggests that genetic changes that increase autoimmune-disease risk in modern Europeans could have protected ancient Europeans from pathogens.]]></content:encoded>
-            <dc:title><![CDATA[Prehistoric events might explain European multiple sclerosis risk]]></dc:title>
-            <dc:creator>Samira  Asgari</dc:creator><dc:creator>Lionel A.  Pousaz</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-023-03977-5</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-10; | doi:10.1038/d41586-023-03977-5</dc:source>
-            <dc:date>2024-01-10</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-03977-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-03977-5</prism:url>
         </item>
     
 </rdf:RDF>
