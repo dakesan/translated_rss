@@ -18,6 +18,8 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00159-9"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07065-0"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00126-4"/>
@@ -166,8 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00081-0"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00013-y"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,21 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00159-9">
+            <title><![CDATA[Science’s fake-paper problem: high-profile effort will tackle paper mills]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00159-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 19 January 2024; <a href="https://www.nature.com/articles/d41586-024-00159-9">doi:10.1038/d41586-024-00159-9</a></p>EXCLUSIVE: Poor-quality studies are polluting the literature — a group will study the businesses that produce them to stem the flow of bogus research.]]></content:encoded>
+            <dc:title><![CDATA[Science’s fake-paper problem: high-profile effort will tackle paper mills]]></dc:title>
+            <dc:creator>Katharine  Sanderson</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00159-9</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-19; | doi:10.1038/d41586-024-00159-9</dc:source>
+            <dc:date>2024-01-19</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00159-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00159-9</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07065-0">
             <title><![CDATA[Author Correction: Short tRNA anticodon stem and mutant eRF1 allow stop codon reassignment]]></title>
@@ -1285,21 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00081-0</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00081-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00013-y">
-            <title><![CDATA[Yaws could soon be eradicated — 70 years behind schedule]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00013-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 11 January 2024; <a href="https://www.nature.com/articles/d41586-024-00013-y">doi:10.1038/d41586-024-00013-y</a></p>Researchers are cautiously optimistic that the neglected tropical disease could be gone by 2030, but new barriers — including antibiotic resistance and primate reservoirs — might stand in the way.]]></content:encoded>
-            <dc:title><![CDATA[Yaws could soon be eradicated — 70 years behind schedule]]></dc:title>
-            <dc:creator>Sam Jones</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00013-y</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-11; | doi:10.1038/d41586-024-00013-y</dc:source>
-            <dc:date>2024-01-11</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00013-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00013-y</prism:url>
         </item>
     
 </rdf:RDF>
