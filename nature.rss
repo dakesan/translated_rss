@@ -18,6 +18,10 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00173-x"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00151-3"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07082-z"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00127-3"/>
@@ -164,10 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00099-4"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00120-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00093-w"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,36 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00173-x">
+            <title><![CDATA[Seven technologies to watch in 2024]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00173-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 22 January 2024; <a href="https://www.nature.com/articles/d41586-024-00173-x">doi:10.1038/d41586-024-00173-x</a></p>Advances in artificial intelligence are at the heart of many of this year’s most exciting areas of technological innovation]]></content:encoded>
+            <dc:title><![CDATA[Seven technologies to watch in 2024]]></dc:title>
+            <dc:creator>Michael Eisenstein</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00173-x</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-22; | doi:10.1038/d41586-024-00173-x</dc:source>
+            <dc:date>2024-01-22</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00173-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00173-x</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00151-3">
+            <title><![CDATA[Japan’s successful Moon landing was the most precise ever]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00151-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 22 January 2024; <a href="https://www.nature.com/articles/d41586-024-00151-3">doi:10.1038/d41586-024-00151-3</a></p>Landing within 100 metres of its target zone, the craft has pioneered a new image-based automatic navigation. But its mission might be cut short.]]></content:encoded>
+            <dc:title><![CDATA[Japan’s successful Moon landing was the most precise ever]]></dc:title>
+            <dc:creator>Ling Xin</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00151-3</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-22; | doi:10.1038/d41586-024-00151-3</dc:source>
+            <dc:date>2024-01-22</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00151-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00151-3</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07082-z">
             <title><![CDATA[Publisher Correction: Intermediate conformations of CD4-bound HIV-1 Env heterotrimers]]></title>
@@ -1270,36 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00099-4</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00099-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00120-w">
-            <title><![CDATA[Daily briefing: Huge ancient civilization discovered in the Amazon]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00120-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 12 January 2024; <a href="https://www.nature.com/articles/d41586-024-00120-w">doi:10.1038/d41586-024-00120-w</a></p>A 2,500-year-old network of interconnected cities has been found hidden under vegetation in Ecuador. Plus, the oldest reptile skin ever found pre-dates the dinosaurs.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: Huge ancient civilization discovered in the Amazon]]></dc:title>
-            <dc:creator>Flora Graham</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00120-w</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-12; | doi:10.1038/d41586-024-00120-w</dc:source>
-            <dc:date>2024-01-12</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00120-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00120-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00093-w">
-            <title><![CDATA[‘Set it and forget it’: automated lab uses AI and robotics to improve proteins]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00093-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 11 January 2024; <a href="https://www.nature.com/articles/d41586-024-00093-w">doi:10.1038/d41586-024-00093-w</a></p>A self-driving lab system spent half a year engineering enzymes to work at higher temperatures.]]></content:encoded>
-            <dc:title><![CDATA[‘Set it and forget it’: automated lab uses AI and robotics to improve proteins]]></dc:title>
-            <dc:creator>Ewen Callaway</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00093-w</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-11; | doi:10.1038/d41586-024-00093-w</dc:source>
-            <dc:date>2024-01-11</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00093-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00093-w</prism:url>
         </item>
     
 </rdf:RDF>
