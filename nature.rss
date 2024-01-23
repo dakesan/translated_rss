@@ -18,9 +18,19 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07066-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00174-w"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00173-x"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00155-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00172-y"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00151-3"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00135-3"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07082-z"/>
                 
@@ -158,16 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00131-7"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00110-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00109-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00101-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00074-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00099-4"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,36 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07066-z">
+            <title><![CDATA[Deciphering cell states and genealogies of human hematopoiesis]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07066-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 22 January 2024; <a href="https://www.nature.com/articles/s41586-024-07066-z">doi:10.1038/s41586-024-07066-z</a></p>Deciphering cell states and genealogies of human hematopoiesis]]></content:encoded>
+            <dc:title><![CDATA[Deciphering cell states and genealogies of human hematopoiesis]]></dc:title>
+            <dc:creator>Chen Weng</dc:creator><dc:creator>Fulong Yu</dc:creator><dc:creator>Dian Yang</dc:creator><dc:creator>Michael Poeschla</dc:creator><dc:creator>L. Alexander Liggett</dc:creator><dc:creator>Matthew G. Jones</dc:creator><dc:creator>Xiaojie Qiu</dc:creator><dc:creator>Lara Wahlster</dc:creator><dc:creator>Alexis Caulier</dc:creator><dc:creator>Jeffrey A. Hussmann</dc:creator><dc:creator>Alexandra Schnell</dc:creator><dc:creator>Kathryn E. Yost</dc:creator><dc:creator>Luke Koblan</dc:creator><dc:creator>Jorge D. Martin-Rufino</dc:creator><dc:creator>Joseph Min</dc:creator><dc:creator>Alessandro Hammond</dc:creator><dc:creator>Daniel Ssozi</dc:creator><dc:creator>Raphael Bueno</dc:creator><dc:creator>Hari Mallidi</dc:creator><dc:creator>Antonia Kreso</dc:creator><dc:creator>Javier Escabi</dc:creator><dc:creator>William M. Rideout III</dc:creator><dc:creator>Tyler Jacks</dc:creator><dc:creator>Sahand Hormoz</dc:creator><dc:creator>Peter van Galen</dc:creator><dc:creator>Jonathan S. Weissman</dc:creator><dc:creator>Vijay G. Sankaran</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07066-z</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-22; | doi:10.1038/s41586-024-07066-z</dc:source>
+            <dc:date>2024-01-22</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07066-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07066-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00174-w">
+            <title><![CDATA[How I make stretchy electronics for medicine]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00174-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 22 January 2024; <a href="https://www.nature.com/articles/d41586-024-00174-w">doi:10.1038/d41586-024-00174-w</a></p>Mahmood Tavakoli works on wearable electronic devices that are less invasive than standard equipment.]]></content:encoded>
+            <dc:title><![CDATA[How I make stretchy electronics for medicine]]></dc:title>
+            <dc:creator>Patricia Maia Noronha</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00174-w</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-22; | doi:10.1038/d41586-024-00174-w</dc:source>
+            <dc:date>2024-01-22</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00174-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00174-w</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00173-x">
             <title><![CDATA[Seven technologies to watch in 2024]]></title>
@@ -192,6 +222,36 @@
             <prism:url>https://www.nature.com/articles/d41586-024-00173-x</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00155-z">
+            <title><![CDATA[To curb plastic pollution, industry and academia must unite]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00155-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 22 January 2024; <a href="https://www.nature.com/articles/d41586-024-00155-z">doi:10.1038/d41586-024-00155-z</a></p>Collaboration is key to making plastic use greener as soon as possible. Our experience yields tips on how to set up industry–academic partnerships.]]></content:encoded>
+            <dc:title><![CDATA[To curb plastic pollution, industry and academia must unite]]></dc:title>
+            <dc:creator>Collin P. Ward</dc:creator><dc:creator>Christopher M. Reddy</dc:creator><dc:creator>Brian Edwards</dc:creator><dc:creator>Steven T. Perri</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00155-z</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-22; | doi:10.1038/d41586-024-00155-z</dc:source>
+            <dc:date>2024-01-22</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00155-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00155-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00172-y">
+            <title><![CDATA[The open-science movement for sharing laboratory materials gains momentum]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00172-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 22 January 2024; <a href="https://www.nature.com/articles/d41586-024-00172-y">doi:10.1038/d41586-024-00172-y</a></p>Many researchers support open science, but how can they translate this view into behaviours to boost sharing?]]></content:encoded>
+            <dc:title><![CDATA[The open-science movement for sharing laboratory materials gains momentum]]></dc:title>
+            <dc:creator>Andy Tay</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00172-y</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-22; | doi:10.1038/d41586-024-00172-y</dc:source>
+            <dc:date>2024-01-22</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00172-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00172-y</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-024-00151-3">
             <title><![CDATA[Japan’s successful Moon landing was the most precise ever]]></title>
             <link>https://www.nature.com/articles/d41586-024-00151-3</link>
@@ -205,6 +265,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00151-3</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00151-3</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00135-3">
+            <title><![CDATA[Pioneering nuclear-fusion reactor shuts down: what scientists will learn]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00135-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 22 January 2024; <a href="https://www.nature.com/articles/d41586-024-00135-3">doi:10.1038/d41586-024-00135-3</a></p>The decommissioning of the Joint European Torus near Oxford, UK — a test bed for ITER — will take until 2040 and be studied in detail.]]></content:encoded>
+            <dc:title><![CDATA[Pioneering nuclear-fusion reactor shuts down: what scientists will learn]]></dc:title>
+            <dc:creator>Elizabeth Gibney</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00135-3</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-22; | doi:10.1038/d41586-024-00135-3</dc:source>
+            <dc:date>2024-01-22</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00135-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00135-3</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07082-z">
@@ -1225,81 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00131-7</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00131-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00110-y">
-            <title><![CDATA[Insights from four female scientists caught at the early-career crossroads]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00110-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 15 January 2024; <a href="https://www.nature.com/articles/d41586-024-00110-y">doi:10.1038/d41586-024-00110-y</a></p>Facing challenges including parenthood, mental-health strain and financial pressures, these researchers give advice for navigating the uncertain paths before them.]]></content:encoded>
-            <dc:title><![CDATA[Insights from four female scientists caught at the early-career crossroads]]></dc:title>
-            <dc:creator>Lesley Evans Ogden </dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00110-y</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-15; | doi:10.1038/d41586-024-00110-y</dc:source>
-            <dc:date>2024-01-15</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00110-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00110-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00109-5">
-            <title><![CDATA[How a forgotten physicist’s discovery broke the symmetry of the Universe]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00109-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 15 January 2024; <a href="https://www.nature.com/articles/d41586-024-00109-5">doi:10.1038/d41586-024-00109-5</a></p>When Rosemary Brown identified a strange particle decay 75 years ago, it set events in motion that would rewrite the laws of physics.]]></content:encoded>
-            <dc:title><![CDATA[How a forgotten physicist’s discovery broke the symmetry of the Universe]]></dc:title>
-            <dc:creator>Suzie Sheehy</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00109-5</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-15; | doi:10.1038/d41586-024-00109-5</dc:source>
-            <dc:date>2024-01-15</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00109-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00109-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00101-z">
-            <title><![CDATA[Ancient DNA reveals first known case of sex-development disorder]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00101-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 12 January 2024; <a href="https://www.nature.com/articles/d41586-024-00101-z">doi:10.1038/d41586-024-00101-z</a></p>Researchers identified six ancient humans with chromosomal conditions, including the earliest case of Turner syndrome.]]></content:encoded>
-            <dc:title><![CDATA[Ancient DNA reveals first known case of sex-development disorder]]></dc:title>
-            <dc:creator>Carissa Wong</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00101-z</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-12; | doi:10.1038/d41586-024-00101-z</dc:source>
-            <dc:date>2024-01-12</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00101-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00101-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00074-z">
-            <title><![CDATA[Earth boiled in 2023 — will it happen again in 2024?]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00074-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 12 January 2024; <a href="https://www.nature.com/articles/d41586-024-00074-z">doi:10.1038/d41586-024-00074-z</a></p>With last year now officially the hottest on record, climate researchers look ahead with trepidation.]]></content:encoded>
-            <dc:title><![CDATA[Earth boiled in 2023 — will it happen again in 2024?]]></dc:title>
-            <dc:creator>Alexandra Witze</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00074-z</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-12; | doi:10.1038/d41586-024-00074-z</dc:source>
-            <dc:date>2024-01-12</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00074-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00074-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00099-4">
-            <title><![CDATA[Google AI has better bedside manner than human doctors — and makes better diagnoses]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00099-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 12 January 2024; <a href="https://www.nature.com/articles/d41586-024-00099-4">doi:10.1038/d41586-024-00099-4</a></p>Researchers say their artificial-intelligence system could help to democratize medicine.]]></content:encoded>
-            <dc:title><![CDATA[Google AI has better bedside manner than human doctors — and makes better diagnoses]]></dc:title>
-            <dc:creator>Mariana Lenharo</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00099-4</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-12; | doi:10.1038/d41586-024-00099-4</dc:source>
-            <dc:date>2024-01-12</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00099-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00099-4</prism:url>
         </item>
     
 </rdf:RDF>
