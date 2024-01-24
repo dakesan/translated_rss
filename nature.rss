@@ -18,6 +18,10 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00204-7"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00170-0"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07070-3"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07030-x"/>
@@ -35,6 +39,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00184-8"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00187-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00206-5"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00169-7"/>
                 
@@ -162,12 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00123-7"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07031-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04001-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00114-8"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,36 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00204-7">
+            <title><![CDATA[Gripped by dinosaurs, and a unified theory of behaviour: Books in Brief]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00204-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 24 January 2024; <a href="https://www.nature.com/articles/d41586-024-00204-7">doi:10.1038/d41586-024-00204-7</a></p>Andrew Robinson reviews five of the best science picks.]]></content:encoded>
+            <dc:title><![CDATA[Gripped by dinosaurs, and a unified theory of behaviour: Books in Brief]]></dc:title>
+            <dc:creator>Andrew Robinson</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00204-7</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-24; | doi:10.1038/d41586-024-00204-7</dc:source>
+            <dc:date>2024-01-24</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00204-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00204-7</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00170-0">
+            <title><![CDATA[Unethical studies on Chinese minority groups are being retracted — but not fast enough, critics say]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00170-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 24 January 2024; <a href="https://www.nature.com/articles/d41586-024-00170-0">doi:10.1038/d41586-024-00170-0</a></p>Campaigners who want scrutiny of biometrics research on Uyghurs, Tibetans and other groups are frustrated by slow progress.]]></content:encoded>
+            <dc:title><![CDATA[Unethical studies on Chinese minority groups are being retracted — but not fast enough, critics say]]></dc:title>
+            <dc:creator>Dyani Lewis</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00170-0</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-24; | doi:10.1038/d41586-024-00170-0</dc:source>
+            <dc:date>2024-01-24</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00170-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00170-0</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07070-3">
             <title><![CDATA[The hagfish genome and the evolution of vertebrates]]></title>
@@ -310,6 +340,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00187-5</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00187-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00206-5">
+            <title><![CDATA[AI &amp; robotics briefing: AlphaFold predicts thousands of possible psychedelics]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00206-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 23 January 2024; <a href="https://www.nature.com/articles/d41586-024-00206-5">doi:10.1038/d41586-024-00206-5</a></p>For the first time, predicted protein structures have been shown to be just as useful for drug discovery as experimentally derived ones. Plus, a plant-inspired robot that grows like a vine and how an AI figured out geometry.]]></content:encoded>
+            <dc:title><![CDATA[AI &amp; robotics briefing: AlphaFold predicts thousands of possible psychedelics]]></dc:title>
+            <dc:creator>Katrina Krämer</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00206-5</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-23; | doi:10.1038/d41586-024-00206-5</dc:source>
+            <dc:date>2024-01-23</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00206-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00206-5</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00169-7">
@@ -466,7 +511,7 @@
             <title><![CDATA[How I make stretchy electronics for medicine]]></title>
             <link>https://www.nature.com/articles/d41586-024-00174-w</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 22 January 2024; <a href="https://www.nature.com/articles/d41586-024-00174-w">doi:10.1038/d41586-024-00174-w</a></p>Mahmood Tavakoli works on wearable electronic devices that are less invasive than standard equipment.]]></content:encoded>
+                <![CDATA[<p>Nature, Published online: 22 January 2024; <a href="https://www.nature.com/articles/d41586-024-00174-w">doi:10.1038/d41586-024-00174-w</a></p>Mahmoud Tavakoli works on wearable electronic devices that are less invasive than standard equipment.]]></content:encoded>
             <dc:title><![CDATA[How I make stretchy electronics for medicine]]></dc:title>
             <dc:creator>Patricia Maia Noronha</dc:creator>
             <dc:identifier>doi:10.1038/d41586-024-00174-w</dc:identifier>
@@ -1255,51 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00123-7</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00123-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07031-w">
-            <title><![CDATA[Author Correction: A dense ring of the trans-Neptunian object Quaoar outside its Roche limit]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07031-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 16 January 2024; <a href="https://www.nature.com/articles/s41586-024-07031-w">doi:10.1038/s41586-024-07031-w</a></p>Author Correction: A dense ring of the trans-Neptunian object Quaoar outside its Roche limit]]></content:encoded>
-            <dc:title><![CDATA[Author Correction: A dense ring of the trans-Neptunian object Quaoar outside its Roche limit]]></dc:title>
-            <dc:creator>B. E. Morgado</dc:creator><dc:creator>B. Sicardy</dc:creator><dc:creator>F. Braga-Ribas</dc:creator><dc:creator>J. L. Ortiz</dc:creator><dc:creator>H. Salo</dc:creator><dc:creator>F. Vachier</dc:creator><dc:creator>J. Desmars</dc:creator><dc:creator>C. L. Pereira</dc:creator><dc:creator>P. Santos-Sanz</dc:creator><dc:creator>R. Sfair</dc:creator><dc:creator>T. de Santana</dc:creator><dc:creator>M. Assafin</dc:creator><dc:creator>R. Vieira-Martins</dc:creator><dc:creator>A. R. Gomes-Júnior</dc:creator><dc:creator>G. Margoti</dc:creator><dc:creator>V. S. Dhillon</dc:creator><dc:creator>E. Fernández-Valenzuela</dc:creator><dc:creator>J. Broughton</dc:creator><dc:creator>J. Bradshaw</dc:creator><dc:creator>R. Langersek</dc:creator><dc:creator>G. Benedetti-Rossi</dc:creator><dc:creator>D. Souami</dc:creator><dc:creator>B. J. Holler</dc:creator><dc:creator>M. Kretlow</dc:creator><dc:creator>R. C. Boufleur</dc:creator><dc:creator>J. I. B. Camargo</dc:creator><dc:creator>R. Duffard</dc:creator><dc:creator>W. Beisker</dc:creator><dc:creator>N. Morales</dc:creator><dc:creator>J. Lecacheux</dc:creator><dc:creator>F. L. Rommel</dc:creator><dc:creator>D. Herald</dc:creator><dc:creator>W. Benz</dc:creator><dc:creator>E. Jehin</dc:creator><dc:creator>F. Jankowsky</dc:creator><dc:creator>T. R. Marsh</dc:creator><dc:creator>S. P. Littlefair</dc:creator><dc:creator>G. Bruno</dc:creator><dc:creator>I. Pagano</dc:creator><dc:creator>A. Brandeker</dc:creator><dc:creator>A. Collier-Cameron</dc:creator><dc:creator>H. G. Florén</dc:creator><dc:creator>N. Hara</dc:creator><dc:creator>G. Olofsson</dc:creator><dc:creator>T. G. Wilson</dc:creator><dc:creator>Z. Benkhaldoun</dc:creator><dc:creator>R. Busuttil</dc:creator><dc:creator>A. Burdanov</dc:creator><dc:creator>M. Ferrais</dc:creator><dc:creator>D. Gault</dc:creator><dc:creator>M. Gillon</dc:creator><dc:creator>W. Hanna</dc:creator><dc:creator>S. Kerr</dc:creator><dc:creator>U. Kolb</dc:creator><dc:creator>P. Nosworthy</dc:creator><dc:creator>D. Sebastian</dc:creator><dc:creator>C. Snodgrass</dc:creator><dc:creator>J. P. Teng</dc:creator><dc:creator>J. de Wit</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07031-w</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-16; | doi:10.1038/s41586-024-07031-w</dc:source>
-            <dc:date>2024-01-16</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07031-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07031-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-04001-6">
-            <title><![CDATA[From the archive: the royal ‘we’, and an experiment in telegraphy]]></title>
-            <link>https://www.nature.com/articles/d41586-023-04001-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 16 January 2024; <a href="https://www.nature.com/articles/d41586-023-04001-6">doi:10.1038/d41586-023-04001-6</a></p>Snippets from Nature’s past.]]></content:encoded>
-            <dc:title><![CDATA[From the archive: the royal ‘we’, and an experiment in telegraphy]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-04001-6</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-16; | doi:10.1038/d41586-023-04001-6</dc:source>
-            <dc:date>2024-01-16</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-04001-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-04001-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00114-8">
-            <title><![CDATA[Safeguard Amazon’s aquatic fauna against climate change]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00114-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 16 January 2024; <a href="https://www.nature.com/articles/d41586-024-00114-8">doi:10.1038/d41586-024-00114-8</a></p>Safeguard Amazon’s aquatic fauna against climate change]]></content:encoded>
-            <dc:title><![CDATA[Safeguard Amazon’s aquatic fauna against climate change]]></dc:title>
-            <dc:creator>Miriam Marmontel</dc:creator><dc:creator>Ayan Fleischmann</dc:creator><dc:creator>Adalberto Val</dc:creator><dc:creator>Bruce Forsberg</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00114-8</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-16; | doi:10.1038/d41586-024-00114-8</dc:source>
-            <dc:date>2024-01-16</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00114-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00114-8</prism:url>
         </item>
     
 </rdf:RDF>
