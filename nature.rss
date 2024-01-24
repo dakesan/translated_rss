@@ -18,7 +18,17 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07070-3"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07030-x"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07064-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00178-6"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00185-7"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00157-x"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00186-6"/>
                 
@@ -28,7 +38,21 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00169-7"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00188-4"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00171-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00195-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00167-9"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-03934-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00165-x"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00189-3"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00168-8"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07066-z"/>
                 
@@ -39,6 +63,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00173-x"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00155-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00193-7"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00172-y"/>
                 
@@ -51,6 +77,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00127-3"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00159-9"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00182-w"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07065-0"/>
                 
@@ -140,34 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00114-8"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00133-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00115-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00125-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00113-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00128-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00116-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00147-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00136-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00108-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00139-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00106-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00104-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00048-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00031-w"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,66 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07070-3">
+            <title><![CDATA[The hagfish genome and the evolution of vertebrates]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07070-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 23 January 2024; <a href="https://www.nature.com/articles/s41586-024-07070-3">doi:10.1038/s41586-024-07070-3</a></p>The hagfish genome and the evolution of vertebrates]]></content:encoded>
+            <dc:title><![CDATA[The hagfish genome and the evolution of vertebrates]]></dc:title>
+            <dc:creator>Ferdinand Marlétaz</dc:creator><dc:creator>Nataliya Timoshevskaya</dc:creator><dc:creator>Vladimir A. Timoshevskiy</dc:creator><dc:creator>Elise Parey</dc:creator><dc:creator>Oleg Simakov</dc:creator><dc:creator>Daria Gavriouchkina</dc:creator><dc:creator>Masakazu Suzuki</dc:creator><dc:creator>Kaoru Kubokawa</dc:creator><dc:creator>Sydney Brenner</dc:creator><dc:creator>Jeramiah J. Smith</dc:creator><dc:creator>Daniel S. Rokhsar</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07070-3</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-23; | doi:10.1038/s41586-024-07070-3</dc:source>
+            <dc:date>2024-01-23</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07070-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07070-3</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07030-x">
+            <title><![CDATA[Author Correction: Aerial additive manufacturing with multiple autonomous robots]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07030-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 23 January 2024; <a href="https://www.nature.com/articles/s41586-024-07030-x">doi:10.1038/s41586-024-07030-x</a></p>Author Correction: Aerial additive manufacturing with multiple autonomous robots]]></content:encoded>
+            <dc:title><![CDATA[Author Correction: Aerial additive manufacturing with multiple autonomous robots]]></dc:title>
+            <dc:creator>Ketao Zhang</dc:creator><dc:creator>Pisak Chermprayong</dc:creator><dc:creator>Feng Xiao</dc:creator><dc:creator>Dimos Tzoumanikas</dc:creator><dc:creator>Barrie Dams</dc:creator><dc:creator>Sebastian Kay</dc:creator><dc:creator>Basaran Bahadir Kocer</dc:creator><dc:creator>Alec Burns</dc:creator><dc:creator>Lachlan Orr</dc:creator><dc:creator>Talib Alhinai</dc:creator><dc:creator>Christopher Choi</dc:creator><dc:creator>Durgesh Dattatray Darekar</dc:creator><dc:creator>Wenbin Li</dc:creator><dc:creator>Steven Hirschmann</dc:creator><dc:creator>Valentina Soana</dc:creator><dc:creator>Shamsiah Awang Ngah</dc:creator><dc:creator>Clément Grillot</dc:creator><dc:creator>Sina Sareh</dc:creator><dc:creator>Ashutosh Choubey</dc:creator><dc:creator>Laura Margheri</dc:creator><dc:creator>Vijay M. Pawar</dc:creator><dc:creator>Richard J. Ball</dc:creator><dc:creator>Chris Williams</dc:creator><dc:creator>Paul Shepherd</dc:creator><dc:creator>Stefan Leutenegger</dc:creator><dc:creator>Robert Stuart-Smith</dc:creator><dc:creator>Mirko Kovac</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07030-x</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-23; | doi:10.1038/s41586-024-07030-x</dc:source>
+            <dc:date>2024-01-23</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07030-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07030-x</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07064-1">
+            <title><![CDATA[Author Correction: R-loop-derived cytoplasmic RNA–DNA hybrids activate an immune response]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07064-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 23 January 2024; <a href="https://www.nature.com/articles/s41586-024-07064-1">doi:10.1038/s41586-024-07064-1</a></p>Author Correction: R-loop-derived cytoplasmic RNA–DNA hybrids activate an immune response]]></content:encoded>
+            <dc:title><![CDATA[Author Correction: R-loop-derived cytoplasmic RNA–DNA hybrids activate an immune response]]></dc:title>
+            <dc:creator>Magdalena P. Crossley</dc:creator><dc:creator>Chenlin Song</dc:creator><dc:creator>Michael J. Bocek</dc:creator><dc:creator>Jun-Hyuk Choi</dc:creator><dc:creator>Joseph N. Kousouros</dc:creator><dc:creator>Ataya Sathirachinda</dc:creator><dc:creator>Cindy Lin</dc:creator><dc:creator>Joshua R. Brickner</dc:creator><dc:creator>Gongshi Bai</dc:creator><dc:creator>Hannes Lans</dc:creator><dc:creator>Wim Vermeulen</dc:creator><dc:creator>Monther Abu-Remaileh</dc:creator><dc:creator>Karlene A. Cimprich</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07064-1</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-23; | doi:10.1038/s41586-024-07064-1</dc:source>
+            <dc:date>2024-01-23</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07064-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07064-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00178-6">
+            <title><![CDATA[The clever system that gave Roman wines an amber colour and nutty aroma]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00178-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 23 January 2024; <a href="https://www.nature.com/articles/d41586-024-00178-6">doi:10.1038/d41586-024-00178-6</a></p>Wine-fermentation jars used in Georgia today hint at the properties of ancient vintages.]]></content:encoded>
+            <dc:title><![CDATA[The clever system that gave Roman wines an amber colour and nutty aroma]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-00178-6</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-23; | doi:10.1038/d41586-024-00178-6</dc:source>
+            <dc:date>2024-01-23</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00178-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00178-6</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00185-7">
             <title><![CDATA[Tech developers must respect equitable AI access]]></title>
@@ -190,6 +250,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00185-7</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00185-7</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00157-x">
+            <title><![CDATA[From the archive: the mechanics of athletics, and the eating habits of jellyfish]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00157-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 23 January 2024; <a href="https://www.nature.com/articles/d41586-024-00157-x">doi:10.1038/d41586-024-00157-x</a></p>Snippets from Nature’s past.]]></content:encoded>
+            <dc:title><![CDATA[From the archive: the mechanics of athletics, and the eating habits of jellyfish]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-00157-x</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-23; | doi:10.1038/d41586-024-00157-x</dc:source>
+            <dc:date>2024-01-23</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00157-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00157-x</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00186-6">
@@ -252,6 +327,21 @@
             <prism:url>https://www.nature.com/articles/d41586-024-00169-7</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00188-4">
+            <title><![CDATA[How does chronic stress harm the gut? New clues emerge]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00188-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 23 January 2024; <a href="https://www.nature.com/articles/d41586-024-00188-4">doi:10.1038/d41586-024-00188-4</a></p>A bacterium in the intestines of stressed mice interferes with cells that protect against pathogens.]]></content:encoded>
+            <dc:title><![CDATA[How does chronic stress harm the gut? New clues emerge]]></dc:title>
+            <dc:creator>Max Kozlov</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00188-4</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-23; | doi:10.1038/d41586-024-00188-4</dc:source>
+            <dc:date>2024-01-23</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00188-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00188-4</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-024-00171-z">
             <title><![CDATA[How Einstein built on the past to make his breakthroughs]]></title>
             <link>https://www.nature.com/articles/d41586-024-00171-z</link>
@@ -265,6 +355,96 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00171-z</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00171-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00195-5">
+            <title><![CDATA[John L. Heilbron (1934–2023), historian of ‘big science’]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00195-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 23 January 2024; <a href="https://www.nature.com/articles/d41586-024-00195-5">doi:10.1038/d41586-024-00195-5</a></p>Rigorous historian who shed light on how researchers’ personalities and institutions are central to the development of scientific knowledge.]]></content:encoded>
+            <dc:title><![CDATA[John L. Heilbron (1934–2023), historian of ‘big science’]]></dc:title>
+            <dc:creator>Cathryn Carson</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00195-5</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-23; | doi:10.1038/d41586-024-00195-5</dc:source>
+            <dc:date>2024-01-23</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00195-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00195-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00167-9">
+            <title><![CDATA[Cities matter to the world’s future — science must serve them better]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00167-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 23 January 2024; <a href="https://www.nature.com/articles/d41586-024-00167-9">doi:10.1038/d41586-024-00167-9</a></p>From governance to climate impacts, the world’s urban environments face many difficulties. A new journal, Nature Cities, aims to bring together researchers who are rising to the challenge.]]></content:encoded>
+            <dc:title><![CDATA[Cities matter to the world’s future — science must serve them better]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-00167-9</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-23; | doi:10.1038/d41586-024-00167-9</dc:source>
+            <dc:date>2024-01-23</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00167-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00167-9</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-03934-2">
+            <title><![CDATA[Coping with climate change could be a matter of what building you’re in]]></title>
+            <link>https://www.nature.com/articles/d41586-023-03934-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 23 January 2024; <a href="https://www.nature.com/articles/d41586-023-03934-2">doi:10.1038/d41586-023-03934-2</a></p>Extreme heat and cold brought on by climate change put people at risk. Beefing up building codes now could help to save lives.]]></content:encoded>
+            <dc:title><![CDATA[Coping with climate change could be a matter of what building you’re in]]></dc:title>
+            <dc:creator>Meredydd Evans</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-03934-2</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-23; | doi:10.1038/d41586-023-03934-2</dc:source>
+            <dc:date>2024-01-23</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-03934-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-03934-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00165-x">
+            <title><![CDATA[All arabica coffee is genetically similar: how can beans taste so different?]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00165-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 23 January 2024; <a href="https://www.nature.com/articles/d41586-024-00165-x">doi:10.1038/d41586-024-00165-x</a></p>Flavour variations are mainly the result of changes at the chromosome level, sequencing effort finds.]]></content:encoded>
+            <dc:title><![CDATA[All arabica coffee is genetically similar: how can beans taste so different?]]></dc:title>
+            <dc:creator>Bianca Nogrady</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00165-x</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-23; | doi:10.1038/d41586-024-00165-x</dc:source>
+            <dc:date>2024-01-23</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00165-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00165-x</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00189-3">
+            <title><![CDATA[Two-faced AI language models learn to hide deception]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00189-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 23 January 2024; <a href="https://www.nature.com/articles/d41586-024-00189-3">doi:10.1038/d41586-024-00189-3</a></p>‘Sleeper agents’ seem benign during testing but behave differently once deployed. And methods to stop them aren’t working.]]></content:encoded>
+            <dc:title><![CDATA[Two-faced AI language models learn to hide deception]]></dc:title>
+            <dc:creator>Matthew Hutson</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00189-3</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-23; | doi:10.1038/d41586-024-00189-3</dc:source>
+            <dc:date>2024-01-23</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00189-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00189-3</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00168-8">
+            <title><![CDATA[Computers make mistakes and AI will make things worse — the law must recognize that]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00168-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 23 January 2024; <a href="https://www.nature.com/articles/d41586-024-00168-8">doi:10.1038/d41586-024-00168-8</a></p>A tragic scandal at the UK Post Office highlights the need for legal change, especially as organizations embrace artificial intelligence to enhance decision-making.]]></content:encoded>
+            <dc:title><![CDATA[Computers make mistakes and AI will make things worse — the law must recognize that]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-00168-8</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-23; | doi:10.1038/d41586-024-00168-8</dc:source>
+            <dc:date>2024-01-23</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00168-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00168-8</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07066-z">
@@ -340,6 +520,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00155-z</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00155-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00193-7">
+            <title><![CDATA[Daily briefing: Japanese spacecraft makes a pin-point landing on the Moon]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00193-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 22 January 2024; <a href="https://www.nature.com/articles/d41586-024-00193-7">doi:10.1038/d41586-024-00193-7</a></p>Japan has become the fifth country to land a lunar spacecraft. Plus, Nature’s pick of the technologies to get excited about and how to go further with open science.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Japanese spacecraft makes a pin-point landing on the Moon]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00193-7</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-22; | doi:10.1038/d41586-024-00193-7</dc:source>
+            <dc:date>2024-01-22</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00193-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00193-7</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00172-y">
@@ -430,6 +625,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00159-9</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00159-9</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00182-w">
+            <title><![CDATA[Daily briefing: ‘I never felt I was going to work’]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00182-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 19 January 2024; <a href="https://www.nature.com/articles/d41586-024-00182-w">doi:10.1038/d41586-024-00182-w</a></p>Remembering life at Bell Labs’ ‘factory of ideas’ as it moves home. Plus, AlphaFold can find potential new psychedelics and biomarkers predict the risk of long COVID.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: ‘I never felt I was going to work’]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00182-w</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-19; | doi:10.1038/d41586-024-00182-w</dc:source>
+            <dc:date>2024-01-19</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00182-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00182-w</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07065-0">
@@ -1090,216 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00114-8</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00114-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00133-5">
-            <title><![CDATA[Largest genetic database of marine microbes could aid drug discovery]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00133-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 16 January 2024; <a href="https://www.nature.com/articles/d41586-024-00133-5">doi:10.1038/d41586-024-00133-5</a></p>A trove of more than 300 million gene groups from ocean bacteria, fungi and viruses has been made freely available online.]]></content:encoded>
-            <dc:title><![CDATA[Largest genetic database of marine microbes could aid drug discovery]]></dc:title>
-            <dc:creator>Carissa Wong</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00133-5</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-16; | doi:10.1038/d41586-024-00133-5</dc:source>
-            <dc:date>2024-01-16</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00133-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00133-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00115-7">
-            <title><![CDATA[Does generative AI help academics to do more or less?]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00115-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 16 January 2024; <a href="https://www.nature.com/articles/d41586-024-00115-7">doi:10.1038/d41586-024-00115-7</a></p>Does generative AI help academics to do more or less?]]></content:encoded>
-            <dc:title><![CDATA[Does generative AI help academics to do more or less?]]></dc:title>
-            <dc:creator>Richard Watermeyer</dc:creator><dc:creator>Donna Lanclos</dc:creator><dc:creator>Lawrie Phipps</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00115-7</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-16; | doi:10.1038/d41586-024-00115-7</dc:source>
-            <dc:date>2024-01-16</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00115-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00115-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00125-5">
-            <title><![CDATA[How an exercise habit paves the way for injured muscles to heal]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00125-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 16 January 2024; <a href="https://www.nature.com/articles/d41586-024-00125-5">doi:10.1038/d41586-024-00125-5</a></p>Mice that work out regularly have higher levels of a molecule that promotes muscle regeneration than sedentary mice do.]]></content:encoded>
-            <dc:title><![CDATA[How an exercise habit paves the way for injured muscles to heal]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-00125-5</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-16; | doi:10.1038/d41586-024-00125-5</dc:source>
-            <dc:date>2024-01-16</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00125-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00125-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00113-9">
-            <title><![CDATA[Centres of Excellence in AI for global health equity — a strategic vision for LMICs]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00113-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 16 January 2024; <a href="https://www.nature.com/articles/d41586-024-00113-9">doi:10.1038/d41586-024-00113-9</a></p>Centres of Excellence in AI for global health equity — a strategic vision for LMICs]]></content:encoded>
-            <dc:title><![CDATA[Centres of Excellence in AI for global health equity — a strategic vision for LMICs]]></dc:title>
-            <dc:creator>Hossein Akbarialiabad</dc:creator><dc:creator>Nelson K. Sewankambo</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00113-9</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-16; | doi:10.1038/d41586-024-00113-9</dc:source>
-            <dc:date>2024-01-16</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00113-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00113-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00128-2">
-            <title><![CDATA[A quantum fix makes e-commerce more tamper-resistant]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00128-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 16 January 2024; <a href="https://www.nature.com/articles/d41586-024-00128-2">doi:10.1038/d41586-024-00128-2</a></p>Light pulses with specific quantum properties could be harnessed to send digital ‘contracts’ between buyer and seller.]]></content:encoded>
-            <dc:title><![CDATA[A quantum fix makes e-commerce more tamper-resistant]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-00128-2</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-16; | doi:10.1038/d41586-024-00128-2</dc:source>
-            <dc:date>2024-01-16</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00128-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00128-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00116-6">
-            <title><![CDATA[Authors from wealthy countries cannot all pay publishing fees]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00116-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 16 January 2024; <a href="https://www.nature.com/articles/d41586-024-00116-6">doi:10.1038/d41586-024-00116-6</a></p>Authors from wealthy countries cannot all pay publishing fees]]></content:encoded>
-            <dc:title><![CDATA[Authors from wealthy countries cannot all pay publishing fees]]></dc:title>
-            <dc:creator>Loren B. Byrne</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00116-6</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-16; | doi:10.1038/d41586-024-00116-6</dc:source>
-            <dc:date>2024-01-16</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00116-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00116-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00147-z">
-            <title><![CDATA[AI &amp; robotics briefing: There’s a 5% risk that AI will wipe out humanity]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00147-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 16 January 2024; <a href="https://www.nature.com/articles/d41586-024-00147-z">doi:10.1038/d41586-024-00147-z</a></p>In a survey of 2,700 AI experts, a majority said there was an at least 5% chance that superintelligent machines will destroy humanity. Plus, how medical AI fails when assessing new patients and AI discovery suggests that human fingerprints aren’t unique.]]></content:encoded>
-            <dc:title><![CDATA[AI &amp; robotics briefing: There’s a 5% risk that AI will wipe out humanity]]></dc:title>
-            <dc:creator>Katrina Krämer</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00147-z</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-16; | doi:10.1038/d41586-024-00147-z</dc:source>
-            <dc:date>2024-01-16</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00147-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00147-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00136-2">
-            <title><![CDATA[Cloned rhesus monkey lives to adulthood for first time]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00136-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 16 January 2024; <a href="https://www.nature.com/articles/d41586-024-00136-2">doi:10.1038/d41586-024-00136-2</a></p>A method that provides cloned embryos with a healthy placenta could pave the way for more research involving the primates.]]></content:encoded>
-            <dc:title><![CDATA[Cloned rhesus monkey lives to adulthood for first time]]></dc:title>
-            <dc:creator>Miryam Naddaf</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00136-2</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-16; | doi:10.1038/d41586-024-00136-2</dc:source>
-            <dc:date>2024-01-16</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00136-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00136-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00108-6">
-            <title><![CDATA[Chimpanzees are dying from our colds — these scientists are trying to save them]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00108-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 16 January 2024; <a href="https://www.nature.com/articles/d41586-024-00108-6">doi:10.1038/d41586-024-00108-6</a></p>Humans are increasingly passing pathogens to animal populations, imperilling endangered species such as chimpanzees and gorillas.]]></content:encoded>
-            <dc:title><![CDATA[Chimpanzees are dying from our colds — these scientists are trying to save them]]></dc:title>
-            <dc:creator>Rachel Nuwer</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00108-6</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-16; | doi:10.1038/d41586-024-00108-6</dc:source>
-            <dc:date>2024-01-16</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00108-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00108-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00139-z">
-            <title><![CDATA[Daily briefing: Testers say Google AI has a better bedside manner than human doctors]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00139-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 16 January 2024; <a href="https://www.nature.com/articles/d41586-024-00139-z">doi:10.1038/d41586-024-00139-z</a></p>A Google AI system outperformed human physicians in diagnosing certain medical conditions ranked higher on empathy. Plus, a mysterious fossil skull could belong to new tyrannosaur species and why great apes are dying from our colds.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: Testers say Google AI has a better bedside manner than human doctors]]></dc:title>
-            <dc:creator>Flora Graham</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00139-z</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-16; | doi:10.1038/d41586-024-00139-z</dc:source>
-            <dc:date>2024-01-16</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00139-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00139-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00106-8">
-            <title><![CDATA[Stop sending human remains to the Moon]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00106-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 16 January 2024; <a href="https://www.nature.com/articles/d41586-024-00106-8">doi:10.1038/d41586-024-00106-8</a></p>The Peregrine lander was due to deposit several people’s ashes on the Moon. The Navajo Nation is calling for broader discussion.]]></content:encoded>
-            <dc:title><![CDATA[Stop sending human remains to the Moon]]></dc:title>
-            <dc:creator>Alvin D. Harvey</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00106-8</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-16; | doi:10.1038/d41586-024-00106-8</dc:source>
-            <dc:date>2024-01-16</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00106-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00106-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00104-w">
-            <title><![CDATA[Norway’s approval of sea-bed mining undermines efforts to protect the ocean]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00104-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 16 January 2024; <a href="https://www.nature.com/articles/d41586-024-00104-w">doi:10.1038/d41586-024-00104-w</a></p>The decision to permit exploratory deep-sea extraction of valuable minerals breaks a promise to the other nations on the Ocean Panel and to scientists.]]></content:encoded>
-            <dc:title><![CDATA[Norway’s approval of sea-bed mining undermines efforts to protect the ocean]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-00104-w</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-16; | doi:10.1038/d41586-024-00104-w</dc:source>
-            <dc:date>2024-01-16</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00104-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00104-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00048-1">
-            <title><![CDATA[How a peer network made my worst day as a grad student bearable]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00048-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 16 January 2024; <a href="https://www.nature.com/articles/d41586-024-00048-1">doi:10.1038/d41586-024-00048-1</a></p>Anxiety and depression affect nearly half of all early-career researchers. Strengthening our communities from within can provide relief, says Taylor Tibbs.]]></content:encoded>
-            <dc:title><![CDATA[How a peer network made my worst day as a grad student bearable]]></dc:title>
-            <dc:creator>Taylor Tibbs</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00048-1</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-16; | doi:10.1038/d41586-024-00048-1</dc:source>
-            <dc:date>2024-01-16</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00048-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00048-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00031-w">
-            <title><![CDATA[Organize your –80 °C freezer to save time and prevent frozen fingertips]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00031-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 16 January 2024; <a href="https://www.nature.com/articles/d41586-024-00031-w">doi:10.1038/d41586-024-00031-w</a></p>Start the new year by sorting out your lab’s cold storage, to simplify purchasing, improve experiment planning and reduce the frequency of lost samples.]]></content:encoded>
-            <dc:title><![CDATA[Organize your –80 °C freezer to save time and prevent frozen fingertips]]></dc:title>
-            <dc:creator>Kelsey Alexandra Woodruff</dc:creator><dc:creator>Christina Marie Termini</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00031-w</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-16; | doi:10.1038/d41586-024-00031-w</dc:source>
-            <dc:date>2024-01-16</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00031-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00031-w</prism:url>
         </item>
     
 </rdf:RDF>
