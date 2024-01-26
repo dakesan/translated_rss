@@ -18,6 +18,8 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00248-9"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07025-8"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07063-2"/>
@@ -166,8 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00130-8"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00089-6"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,21 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00248-9">
+            <title><![CDATA[Record-setting Mars helicopter dies — but leaves a legacy of science ]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00248-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 26 January 2024; <a href="https://www.nature.com/articles/d41586-024-00248-9">doi:10.1038/d41586-024-00248-9</a></p>The first aircraft to fly on another world, Ingenuity broke during a final, fatal flight.]]></content:encoded>
+            <dc:title><![CDATA[Record-setting Mars helicopter dies — but leaves a legacy of science ]]></dc:title>
+            <dc:creator>Alexandra Witze</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00248-9</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-26; | doi:10.1038/d41586-024-00248-9</dc:source>
+            <dc:date>2024-01-26</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00248-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00248-9</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07025-8">
             <title><![CDATA[Publisher Correction: Polθ is phosphorylated by PLK1 to repair double-strand breaks in mitosis]]></title>
@@ -1285,21 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00130-8</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00130-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00089-6">
-            <title><![CDATA[Fingertip oxygen sensors can fail on dark skin — now a physician is suing]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00089-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 18 January 2024; <a href="https://www.nature.com/articles/d41586-024-00089-6">doi:10.1038/d41586-024-00089-6</a></p>A community health centre in California led by the researcher files the first lawsuit against pulse oximeter manufacturers.]]></content:encoded>
-            <dc:title><![CDATA[Fingertip oxygen sensors can fail on dark skin — now a physician is suing]]></dc:title>
-            <dc:creator>Anil Oza</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00089-6</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-18; | doi:10.1038/d41586-024-00089-6</dc:source>
-            <dc:date>2024-01-18</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00089-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00089-6</prism:url>
         </item>
     
 </rdf:RDF>
