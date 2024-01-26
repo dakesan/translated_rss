@@ -18,6 +18,22 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07025-8"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07063-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00177-7"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00218-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00223-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00176-8"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00087-8"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00203-8"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06848-1"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06847-2"/>
@@ -55,6 +71,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06910-y"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06915-7"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00219-0"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00150-4"/>
                 
@@ -150,24 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00089-6"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00158-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00163-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07052-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07040-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00145-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06922-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06892-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06913-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06904-w"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,126 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07025-8">
+            <title><![CDATA[Publisher Correction: Polθ is phosphorylated by PLK1 to repair double-strand breaks in mitosis]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07025-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 25 January 2024; <a href="https://www.nature.com/articles/s41586-024-07025-8">doi:10.1038/s41586-024-07025-8</a></p>Publisher Correction: Polθ is phosphorylated by PLK1 to repair double-strand breaks in mitosis]]></content:encoded>
+            <dc:title><![CDATA[Publisher Correction: Polθ is phosphorylated by PLK1 to repair double-strand breaks in mitosis]]></dc:title>
+            <dc:creator>Camille Gelot</dc:creator><dc:creator>Marton Tibor Kovacs</dc:creator><dc:creator>Simona Miron</dc:creator><dc:creator>Emilie Mylne</dc:creator><dc:creator>Alexis Haan</dc:creator><dc:creator>Liza Boeffard-Dosierre</dc:creator><dc:creator>Rania Ghouil</dc:creator><dc:creator>Tatiana Popova</dc:creator><dc:creator>Florent Dingli</dc:creator><dc:creator>Damarys Loew</dc:creator><dc:creator>Josée Guirouilh-Barbat</dc:creator><dc:creator>Elaine Del Nery</dc:creator><dc:creator>Sophie Zinn-Justin</dc:creator><dc:creator>Raphael Ceccaldi</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07025-8</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-25; | doi:10.1038/s41586-024-07025-8</dc:source>
+            <dc:date>2024-01-25</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07025-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07025-8</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07063-2">
+            <title><![CDATA[Author Correction: Reconstitution of Rab- and SNARE-dependent membrane fusion by synthetic endosomes]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07063-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 25 January 2024; <a href="https://www.nature.com/articles/s41586-024-07063-2">doi:10.1038/s41586-024-07063-2</a></p>Author Correction: Reconstitution of Rab- and SNARE-dependent membrane fusion by synthetic endosomes]]></content:encoded>
+            <dc:title><![CDATA[Author Correction: Reconstitution of Rab- and SNARE-dependent membrane fusion by synthetic endosomes]]></dc:title>
+            <dc:creator>Takeshi Ohya</dc:creator><dc:creator>Marta Miaczynska</dc:creator><dc:creator>Ünal Coskun</dc:creator><dc:creator>Barbara Lommer</dc:creator><dc:creator>Anja Runge</dc:creator><dc:creator>David Drechsel</dc:creator><dc:creator>Yannis Kalaidzidis</dc:creator><dc:creator>Marino Zerial</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07063-2</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-25; | doi:10.1038/s41586-024-07063-2</dc:source>
+            <dc:date>2024-01-25</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07063-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07063-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00177-7">
+            <title><![CDATA[This fast-living marsupial chooses sex over sleep — and dies young]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00177-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 25 January 2024; <a href="https://www.nature.com/articles/d41586-024-00177-7">doi:10.1038/d41586-024-00177-7</a></p>Male antechinus make the most of their single breeding season by forgoing shut-eye.]]></content:encoded>
+            <dc:title><![CDATA[This fast-living marsupial chooses sex over sleep — and dies young]]></dc:title>
+            <dc:creator>Sara Reardon</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00177-7</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-25; | doi:10.1038/d41586-024-00177-7</dc:source>
+            <dc:date>2024-01-25</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00177-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00177-7</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00218-1">
+            <title><![CDATA[How I learnt to write research papers as a non-native English speaker]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00218-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 25 January 2024; <a href="https://www.nature.com/articles/d41586-024-00218-1">doi:10.1038/d41586-024-00218-1</a></p>Leaving blanks, studying others and paying careful attention to figures all helped Sri Lankan chemist Nuwan Bandara to hone his skills.]]></content:encoded>
+            <dc:title><![CDATA[How I learnt to write research papers as a non-native English speaker]]></dc:title>
+            <dc:creator>Nuwan Bandara</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00218-1</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-25; | doi:10.1038/d41586-024-00218-1</dc:source>
+            <dc:date>2024-01-25</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00218-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00218-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00223-4">
+            <title><![CDATA[Black hole observations solve cosmic-ray mystery]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00223-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 25 January 2024; <a href="https://www.nature.com/articles/d41586-024-00223-4">doi:10.1038/d41586-024-00223-4</a></p>Data from an African observatory show that jets from a collapsed star are capable of producing some of the Galaxy’s fastest particles.]]></content:encoded>
+            <dc:title><![CDATA[Black hole observations solve cosmic-ray mystery]]></dc:title>
+            <dc:creator>Davide Castelvecchi</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00223-4</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-25; | doi:10.1038/d41586-024-00223-4</dc:source>
+            <dc:date>2024-01-25</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00223-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00223-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00176-8">
+            <title><![CDATA[CRISPR-edited crops break new ground in Africa]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00176-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 25 January 2024; <a href="https://www.nature.com/articles/d41586-024-00176-8">doi:10.1038/d41586-024-00176-8</a></p>Scientists in the global south use the popular technique to protect local crops against local threats.]]></content:encoded>
+            <dc:title><![CDATA[CRISPR-edited crops break new ground in Africa]]></dc:title>
+            <dc:creator>Heidi Ledford</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00176-8</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-25; | doi:10.1038/d41586-024-00176-8</dc:source>
+            <dc:date>2024-01-25</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00176-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00176-8</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00087-8">
+            <title><![CDATA[Tracking down tuberculosis]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00087-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 25 January 2024; <a href="https://www.nature.com/articles/d41586-024-00087-8">doi:10.1038/d41586-024-00087-8</a></p>Improvements in screening and diagnosis could help to eradicate this curable disease.]]></content:encoded>
+            <dc:title><![CDATA[Tracking down tuberculosis]]></dc:title>
+            <dc:creator>Neil Savage</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00087-8</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-25; | doi:10.1038/d41586-024-00087-8</dc:source>
+            <dc:date>2024-01-25</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00087-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00087-8</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00203-8">
+            <title><![CDATA[Canada’s oil sands spew massive amounts of unmonitored polluting gases]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00203-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 25 January 2024; <a href="https://www.nature.com/articles/d41586-024-00203-8">doi:10.1038/d41586-024-00203-8</a></p>Innovative aircraft-based technique records carbon emissions not tracked before from the industrial region.]]></content:encoded>
+            <dc:title><![CDATA[Canada’s oil sands spew massive amounts of unmonitored polluting gases]]></dc:title>
+            <dc:creator>Nicola Jones</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00203-8</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-25; | doi:10.1038/d41586-024-00203-8</dc:source>
+            <dc:date>2024-01-25</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00203-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00203-8</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-023-06848-1">
             <title><![CDATA[Replying to: Probing supernovae and kicks in post-supernova binaries]]></title>
@@ -462,12 +582,27 @@
             <prism:url>https://www.nature.com/articles/s41586-023-06915-7</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00219-0">
+            <title><![CDATA[Daily briefing: Why coffee varieties taste different]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00219-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 24 January 2024; <a href="https://www.nature.com/articles/d41586-024-00219-0">doi:10.1038/d41586-024-00219-0</a></p>The most complete sequencing yet of Coffea arabica’s genome. Plus, how stress triggers gut pain, and a fresh take on Einstein’s achievements.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Why coffee varieties taste different]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00219-0</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-24; | doi:10.1038/d41586-024-00219-0</dc:source>
+            <dc:date>2024-01-24</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00219-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00219-0</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-024-00150-4">
-            <title><![CDATA[Leading US particle physics lab faces uncertain future]]></title>
+            <title><![CDATA[Leading US particle-physics lab faces uncertain future]]></title>
             <link>https://www.nature.com/articles/d41586-024-00150-4</link>
             <content:encoded>
                 <![CDATA[<p>Nature, Published online: 24 January 2024; <a href="https://www.nature.com/articles/d41586-024-00150-4">doi:10.1038/d41586-024-00150-4</a></p>Several organizations are vying for the contract to manage Fermilab, after it received failing grades from the US Department of Energy.]]></content:encoded>
-            <dc:title><![CDATA[Leading US particle physics lab faces uncertain future]]></dc:title>
+            <dc:title><![CDATA[Leading US particle-physics lab faces uncertain future]]></dc:title>
             <dc:creator>Dan Garisto</dc:creator>
             <dc:identifier>doi:10.1038/d41586-024-00150-4</dc:identifier>
             <dc:source>Nature, Published online: 2024-01-24; | doi:10.1038/d41586-024-00150-4</dc:source>
@@ -1165,141 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00089-6</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00089-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00158-w">
-            <title><![CDATA[Long-COVID signatures identified in huge analysis of blood proteins]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00158-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 18 January 2024; <a href="https://www.nature.com/articles/d41586-024-00158-w">doi:10.1038/d41586-024-00158-w</a></p>Proteins involved in immunity, clotting and inflammation could help to unravel the complexity of long COVID.]]></content:encoded>
-            <dc:title><![CDATA[Long-COVID signatures identified in huge analysis of blood proteins]]></dc:title>
-            <dc:creator>Miryam Naddaf</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00158-w</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-18; | doi:10.1038/d41586-024-00158-w</dc:source>
-            <dc:date>2024-01-18</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00158-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00158-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00163-z">
-            <title><![CDATA[Daily briefing: Cheap new pill provides potent COVID relief]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00163-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 18 January 2024; <a href="https://www.nature.com/articles/d41586-024-00163-z">doi:10.1038/d41586-024-00163-z</a></p>A drug called simnotrelvir speeds up recovery from mild to moderate COVID-19. Plus, an algorithm that is as good at geometry as maths-Olympiad gold medallists and new evidence challenges claim that the Black Death shaped the human genome.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: Cheap new pill provides potent COVID relief]]></dc:title>
-            <dc:creator>Katrina Krämer</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00163-z</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-18; | doi:10.1038/d41586-024-00163-z</dc:source>
-            <dc:date>2024-01-18</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00163-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00163-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07052-5">
-            <title><![CDATA[A small and vigorous black hole in the early Universe]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07052-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 17 January 2024; <a href="https://www.nature.com/articles/s41586-024-07052-5">doi:10.1038/s41586-024-07052-5</a></p>A small and vigorous black hole in the early Universe]]></content:encoded>
-            <dc:title><![CDATA[A small and vigorous black hole in the early Universe]]></dc:title>
-            <dc:creator>Roberto Maiolino</dc:creator><dc:creator>Jan Scholtz</dc:creator><dc:creator>Joris Witstok</dc:creator><dc:creator>Stefano Carniani</dc:creator><dc:creator>Francesco D’Eugenio</dc:creator><dc:creator>Anna de Graaff</dc:creator><dc:creator>Hannah Übler</dc:creator><dc:creator>Sandro Tacchella</dc:creator><dc:creator>Emma Curtis-Lake</dc:creator><dc:creator>Santiago Arribas</dc:creator><dc:creator>Andrew Bunker</dc:creator><dc:creator>Stéphane Charlot</dc:creator><dc:creator>Jacopo Chevallard</dc:creator><dc:creator>Mirko Curti</dc:creator><dc:creator>Tobias J. Looser</dc:creator><dc:creator>Michael V. Maseda</dc:creator><dc:creator>Tim Rawle</dc:creator><dc:creator>Bruno Rodríguez Del Pino</dc:creator><dc:creator>Chris J. Willott</dc:creator><dc:creator>Eiichi Egami</dc:creator><dc:creator>Daniel Eisenstein</dc:creator><dc:creator>Kevin Hainline</dc:creator><dc:creator>Brant Robertson</dc:creator><dc:creator>Christina C. Williams</dc:creator><dc:creator>Christopher N. A. Willmer</dc:creator><dc:creator>William M. Baker</dc:creator><dc:creator>Kristan Boyett</dc:creator><dc:creator>Christa DeCoursey</dc:creator><dc:creator>Andrew C. Fabian</dc:creator><dc:creator>Jakob M. Helton</dc:creator><dc:creator>Zhiyuan Ji</dc:creator><dc:creator>Gareth C. Jones</dc:creator><dc:creator>Nimisha Kumari</dc:creator><dc:creator>Nicolas Laporte</dc:creator><dc:creator>Erica Nelson</dc:creator><dc:creator>Michele Perna</dc:creator><dc:creator>Lester Sandles</dc:creator><dc:creator>Irene Shivaei</dc:creator><dc:creator>Fengwu Sun</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07052-5</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-17; | doi:10.1038/s41586-024-07052-5</dc:source>
-            <dc:date>2024-01-17</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07052-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07052-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07040-9">
-            <title><![CDATA[Sulphur dioxide in the mid-infrared transmission spectrum of WASP-39b]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07040-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 17 January 2024; <a href="https://www.nature.com/articles/s41586-024-07040-9">doi:10.1038/s41586-024-07040-9</a></p>Sulphur dioxide in the mid-infrared transmission spectrum of WASP-39b]]></content:encoded>
-            <dc:title><![CDATA[Sulphur dioxide in the mid-infrared transmission spectrum of WASP-39b]]></dc:title>
-            <dc:creator>Diana Powell</dc:creator><dc:creator>Adina D. Feinstein</dc:creator><dc:creator>Elspeth K. H. Lee</dc:creator><dc:creator>Michael Zhang</dc:creator><dc:creator>Shang-Min Tsai</dc:creator><dc:creator>Jake Taylor</dc:creator><dc:creator>James Kirk</dc:creator><dc:creator>Taylor Bell</dc:creator><dc:creator>Joanna K. Barstow</dc:creator><dc:creator>Peter Gao</dc:creator><dc:creator>Jacob L. Bean</dc:creator><dc:creator>Jasmina Blecic</dc:creator><dc:creator>Katy L. Chubb</dc:creator><dc:creator>Ian J. M. Crossfield</dc:creator><dc:creator>Sean Jordan</dc:creator><dc:creator>Daniel Kitzmann</dc:creator><dc:creator>Sarah E. Moran</dc:creator><dc:creator>Giuseppe Morello</dc:creator><dc:creator>Julianne I. Moses</dc:creator><dc:creator>Luis Welbanks</dc:creator><dc:creator>Jeehyun Yang</dc:creator><dc:creator>Xi Zhang</dc:creator><dc:creator>Eva-Maria Ahrer</dc:creator><dc:creator>Aaron Bello-Arufe</dc:creator><dc:creator>Jonathan Brande</dc:creator><dc:creator>S. L. Casewell</dc:creator><dc:creator>Nicolas Crouzet</dc:creator><dc:creator>Patricio E. Cubillos</dc:creator><dc:creator>Brice-Olivier Demory</dc:creator><dc:creator>Achrène Dyrek</dc:creator><dc:creator>Laura Flagg</dc:creator><dc:creator>Renyu Hu</dc:creator><dc:creator>Julie Inglis</dc:creator><dc:creator>Kathryn D. Jones</dc:creator><dc:creator>Laura Kreidberg</dc:creator><dc:creator>Mercedes López-Morales</dc:creator><dc:creator>Pierre-Olivier Lagage</dc:creator><dc:creator>Erik A. Meier Valdés</dc:creator><dc:creator>Yamila Miguel</dc:creator><dc:creator>Vivien Parmentier</dc:creator><dc:creator>Anjali A. A. Piette</dc:creator><dc:creator>Benjamin V. Rackham</dc:creator><dc:creator>Michael Radica</dc:creator><dc:creator>Seth Redfield</dc:creator><dc:creator>Kevin B. Stevenson</dc:creator><dc:creator>Hannah R. Wakeford</dc:creator><dc:creator>Keshav Aggarwal</dc:creator><dc:creator>Munazza K. Alam</dc:creator><dc:creator>Natalie M. Batalha</dc:creator><dc:creator>Natasha E. Batalha</dc:creator><dc:creator>Björn Benneke</dc:creator><dc:creator>Zach K. Berta-Thompson</dc:creator><dc:creator>Ryan P. Brady</dc:creator><dc:creator>Claudio Caceres</dc:creator><dc:creator>Aarynn L. Carter</dc:creator><dc:creator>Jean-Michel Désert</dc:creator><dc:creator>Joseph Harrington</dc:creator><dc:creator>Nicolas Iro</dc:creator><dc:creator>Michael R. Line</dc:creator><dc:creator>Joshua D. Lothringer</dc:creator><dc:creator>Ryan J. MacDonald</dc:creator><dc:creator>Luigi Mancini</dc:creator><dc:creator>Karan Molaverdikhani</dc:creator><dc:creator>Sagnick Mukherjee</dc:creator><dc:creator>Matthew C. Nixon</dc:creator><dc:creator>Apurva V. Oza</dc:creator><dc:creator>Enric Palle</dc:creator><dc:creator>Zafar Rustamkulov</dc:creator><dc:creator>David K. Sing</dc:creator><dc:creator>Maria E. Steinrueck</dc:creator><dc:creator>Olivia Venot</dc:creator><dc:creator>Peter J. Wheatley</dc:creator><dc:creator>Sergei N. Yurchenko</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07040-9</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-17; | doi:10.1038/s41586-024-07040-9</dc:source>
-            <dc:date>2024-01-17</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07040-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07040-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00145-1">
-            <title><![CDATA[This AI just figured out geometry — is this a step towards artificial reasoning?]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00145-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 17 January 2024; <a href="https://www.nature.com/articles/d41586-024-00145-1">doi:10.1038/d41586-024-00145-1</a></p>How ‘AlphaGeometry’ solves Mathematical Olympiad-level problems, and what happens to an ecosystem after a mass predator die-off.]]></content:encoded>
-            <dc:title><![CDATA[This AI just figured out geometry — is this a step towards artificial reasoning?]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-00145-1</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-17; | doi:10.1038/d41586-024-00145-1</dc:source>
-            <dc:date>2024-01-17</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00145-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00145-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06922-8">
-            <title><![CDATA[Affinity-optimizing enhancer variants disrupt development]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06922-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 17 January 2024; <a href="https://www.nature.com/articles/s41586-023-06922-8">doi:10.1038/s41586-023-06922-8</a></p>Low-affinity transcription factor binding sites are prevalent across the genome, and single nucleotide changes that increase binding affinity even slightly can cause gain-of-function gene expression and phenotypes (such as polydactyly).]]></content:encoded>
-            <dc:title><![CDATA[Affinity-optimizing enhancer variants disrupt development]]></dc:title>
-            <dc:creator>Fabian Lim</dc:creator><dc:creator>Joe J. Solvason</dc:creator><dc:creator>Genevieve E. Ryan</dc:creator><dc:creator>Sophia H. Le</dc:creator><dc:creator>Granton A. Jindal</dc:creator><dc:creator>Paige Steffen</dc:creator><dc:creator>Simran K. Jandu</dc:creator><dc:creator>Emma K. Farley</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06922-8</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-17; | doi:10.1038/s41586-023-06922-8</dc:source>
-            <dc:date>2024-01-17</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06922-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06922-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06892-x">
-            <title><![CDATA[Multifunctional ytterbium oxide buffer for perovskite solar cells]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06892-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 17 January 2024; <a href="https://www.nature.com/articles/s41586-023-06892-x">doi:10.1038/s41586-023-06892-x</a></p>Ytterbium oxide buffer layer for use in perovskite solar cells yields a certified power conversion efficiency of more than 25%, which enhances stability across a wide variety of perovskite compositions.]]></content:encoded>
-            <dc:title><![CDATA[Multifunctional ytterbium oxide buffer for perovskite solar cells]]></dc:title>
-            <dc:creator>Peng Chen</dc:creator><dc:creator>Yun Xiao</dc:creator><dc:creator>Juntao Hu</dc:creator><dc:creator>Shunde Li</dc:creator><dc:creator>Deying Luo</dc:creator><dc:creator>Rui Su</dc:creator><dc:creator>Pietro Caprioglio</dc:creator><dc:creator>Pascal Kaienburg</dc:creator><dc:creator>Xiaohan Jia</dc:creator><dc:creator>Nan Chen</dc:creator><dc:creator>Jingjing Wu</dc:creator><dc:creator>Yanping Sui</dc:creator><dc:creator>Pengyi Tang</dc:creator><dc:creator>Haoming Yan</dc:creator><dc:creator>Tianyu Huang</dc:creator><dc:creator>Maotao Yu</dc:creator><dc:creator>Qiuyang Li</dc:creator><dc:creator>Lichen Zhao</dc:creator><dc:creator>Cheng-Hung Hou</dc:creator><dc:creator>Yun-Wen You</dc:creator><dc:creator>Jing-Jong Shyue</dc:creator><dc:creator>Dengke Wang</dc:creator><dc:creator>Xiaojun Li</dc:creator><dc:creator>Qing Zhao</dc:creator><dc:creator>Qihuang Gong</dc:creator><dc:creator>Zheng-Hong Lu</dc:creator><dc:creator>Henry J. Snaith</dc:creator><dc:creator>Rui Zhu</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06892-x</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-17; | doi:10.1038/s41586-023-06892-x</dc:source>
-            <dc:date>2024-01-17</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06892-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06892-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06913-9">
-            <title><![CDATA[Alternative splicing of latrophilin-3 controls synapse formation]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06913-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 17 January 2024; <a href="https://www.nature.com/articles/s41586-023-06913-9">doi:10.1038/s41586-023-06913-9</a></p>Latrophilin-3 organizes synapses through a convergent dual-pathway mechanism in which Gαs signalling is activated and phase-separated postsynaptic protein scaffolds are recruited.]]></content:encoded>
-            <dc:title><![CDATA[Alternative splicing of latrophilin-3 controls synapse formation]]></dc:title>
-            <dc:creator>Shuai Wang</dc:creator><dc:creator>Chelsea DeLeon</dc:creator><dc:creator>Wenfei Sun</dc:creator><dc:creator>Stephen R. Quake</dc:creator><dc:creator>Bryan L. Roth</dc:creator><dc:creator>Thomas C. Südhof</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06913-9</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-17; | doi:10.1038/s41586-023-06913-9</dc:source>
-            <dc:date>2024-01-17</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06913-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06913-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06904-w">
-            <title><![CDATA[Tuning commensurability in twisted van der Waals bilayers]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06904-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 17 January 2024; <a href="https://www.nature.com/articles/s41586-023-06904-w">doi:10.1038/s41586-023-06904-w</a></p>Using valley-resolved scanning tunnelling spectroscopy, twisted WSe2 bilayers are studied, including incommensurate dodecagon quasicrystals at 30° and commensurate moiré crystals at 21.8° and 38.2°.]]></content:encoded>
-            <dc:title><![CDATA[Tuning commensurability in twisted van der Waals bilayers]]></dc:title>
-            <dc:creator>Yanxing Li</dc:creator><dc:creator>Fan Zhang</dc:creator><dc:creator>Viet-Anh Ha</dc:creator><dc:creator>Yu-Chuan Lin</dc:creator><dc:creator>Chengye Dong</dc:creator><dc:creator>Qiang Gao</dc:creator><dc:creator>Zhida Liu</dc:creator><dc:creator>Xiaohui Liu</dc:creator><dc:creator>Sae Hee Ryu</dc:creator><dc:creator>Hyunsue Kim</dc:creator><dc:creator>Chris Jozwiak</dc:creator><dc:creator>Aaron Bostwick</dc:creator><dc:creator>Kenji Watanabe</dc:creator><dc:creator>Takashi Taniguchi</dc:creator><dc:creator>Bishoy Kousa</dc:creator><dc:creator>Xiaoqin Li</dc:creator><dc:creator>Eli Rotenberg</dc:creator><dc:creator>Eslam Khalaf</dc:creator><dc:creator>Joshua A. Robinson</dc:creator><dc:creator>Feliciano Giustino</dc:creator><dc:creator>Chih-Kang Shih</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06904-w</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-17; | doi:10.1038/s41586-023-06904-w</dc:source>
-            <dc:date>2024-01-17</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06904-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06904-w</prism:url>
         </item>
     
 </rdf:RDF>
