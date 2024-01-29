@@ -18,9 +18,15 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00242-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00149-x"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00164-y"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00224-3"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00263-w"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00254-x"/>
                 
@@ -162,12 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07082-z"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00127-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00159-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00182-w"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,36 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00242-1">
+            <title><![CDATA[How co-working labs reduce costs and accelerate progress for biotech start-ups]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00242-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 29 January 2024; <a href="https://www.nature.com/articles/d41586-024-00242-1">doi:10.1038/d41586-024-00242-1</a></p>Shared lab spaces provide a streamlined launchpad, offering benches as well as a diverse network of industry mentors.]]></content:encoded>
+            <dc:title><![CDATA[How co-working labs reduce costs and accelerate progress for biotech start-ups]]></dc:title>
+            <dc:creator>Rachel Brazil</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00242-1</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-29; | doi:10.1038/d41586-024-00242-1</dc:source>
+            <dc:date>2024-01-29</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00242-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00242-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00149-x">
+            <title><![CDATA[A giant fund for climate disasters will soon open. Who should be paid first?]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00149-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 29 January 2024; <a href="https://www.nature.com/articles/d41586-024-00149-x">doi:10.1038/d41586-024-00149-x</a></p>More than three billion people stand to benefit from a historic climate loss-and-damage fund. But spending it involves agonizing choices about who has suffered most.]]></content:encoded>
+            <dc:title><![CDATA[A giant fund for climate disasters will soon open. Who should be paid first?]]></dc:title>
+            <dc:creator>Gayathri Vaidyanathan</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00149-x</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-29; | doi:10.1038/d41586-024-00149-x</dc:source>
+            <dc:date>2024-01-29</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00149-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00149-x</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00164-y">
             <title><![CDATA[Engineered natural killer cells show their power against blood cancer]]></title>
@@ -205,6 +235,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00224-3</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00224-3</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00263-w">
+            <title><![CDATA[Daily briefing: oil sands generate more pollution than all Canadians ]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00263-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 26 January 2024; <a href="https://www.nature.com/articles/d41586-024-00263-w">doi:10.1038/d41586-024-00263-w</a></p>The Marscopter will not fly again, and a marsupial that lives fast and dies young.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: oil sands generate more pollution than all Canadians ]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00263-w</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-26; | doi:10.1038/d41586-024-00263-w</dc:source>
+            <dc:date>2024-01-26</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00263-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00263-w</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00254-x">
@@ -1255,51 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/s41586-024-07082-z</prism:doi>
             <prism:url>https://www.nature.com/articles/s41586-024-07082-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00127-3">
-            <title><![CDATA[Flexible geothermal power makes it easier to harness Earth’s inner heat]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00127-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 19 January 2024; <a href="https://www.nature.com/articles/d41586-024-00127-3">doi:10.1038/d41586-024-00127-3</a></p>Next-generation plants that respond to demand could be key to making a low-carbon energy source more economically appealing.]]></content:encoded>
-            <dc:title><![CDATA[Flexible geothermal power makes it easier to harness Earth’s inner heat]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-00127-3</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-19; | doi:10.1038/d41586-024-00127-3</dc:source>
-            <dc:date>2024-01-19</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00127-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00127-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00159-9">
-            <title><![CDATA[Science’s fake-paper problem: high-profile effort will tackle paper mills]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00159-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 19 January 2024; <a href="https://www.nature.com/articles/d41586-024-00159-9">doi:10.1038/d41586-024-00159-9</a></p>EXCLUSIVE: Poor-quality studies are polluting the literature — a group will study the businesses that produce them to stem the flow of bogus research.]]></content:encoded>
-            <dc:title><![CDATA[Science’s fake-paper problem: high-profile effort will tackle paper mills]]></dc:title>
-            <dc:creator>Katharine  Sanderson</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00159-9</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-19; | doi:10.1038/d41586-024-00159-9</dc:source>
-            <dc:date>2024-01-19</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00159-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00159-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00182-w">
-            <title><![CDATA[Daily briefing: ‘I never felt I was going to work’]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00182-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 19 January 2024; <a href="https://www.nature.com/articles/d41586-024-00182-w">doi:10.1038/d41586-024-00182-w</a></p>Remembering life at Bell Labs’ ‘factory of ideas’ as it moves home. Plus, AlphaFold can find potential new psychedelics and biomarkers predict the risk of long COVID.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: ‘I never felt I was going to work’]]></dc:title>
-            <dc:creator>Flora Graham</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00182-w</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-19; | doi:10.1038/d41586-024-00182-w</dc:source>
-            <dc:date>2024-01-19</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00182-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00182-w</prism:url>
         </item>
     
 </rdf:RDF>
