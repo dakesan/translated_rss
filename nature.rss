@@ -18,7 +18,27 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07104-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07072-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07053-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00228-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00179-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00243-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00260-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00268-5"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00242-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00075-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00266-7"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00149-x"/>
                 
@@ -148,26 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00168-8"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07066-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00174-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00166-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00173-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00155-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00193-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00172-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00151-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00135-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07082-z"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,126 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07104-w">
+            <title><![CDATA[Author Correction: Y chromosome loss in cancer drives growth by evasion of adaptive immunity]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07104-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 29 January 2024; <a href="https://www.nature.com/articles/s41586-024-07104-w">doi:10.1038/s41586-024-07104-w</a></p>Author Correction: Y chromosome loss in cancer drives growth by evasion of adaptive immunity]]></content:encoded>
+            <dc:title><![CDATA[Author Correction: Y chromosome loss in cancer drives growth by evasion of adaptive immunity]]></dc:title>
+            <dc:creator>Hany A. Abdel-Hafiz</dc:creator><dc:creator>Johanna M. Schafer</dc:creator><dc:creator>Xingyu Chen</dc:creator><dc:creator>Tong Xiao</dc:creator><dc:creator>Timothy D. Gauntner</dc:creator><dc:creator>Zihai Li</dc:creator><dc:creator>Dan Theodorescu</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07104-w</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-29; | doi:10.1038/s41586-024-07104-w</dc:source>
+            <dc:date>2024-01-29</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07104-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07104-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07072-1">
+            <title><![CDATA[Author Correction: Frustration- and doping-induced magnetism in a Fermi–Hubbard simulator]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07072-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 29 January 2024; <a href="https://www.nature.com/articles/s41586-024-07072-1">doi:10.1038/s41586-024-07072-1</a></p>Author Correction: Frustration- and doping-induced magnetism in a Fermi–Hubbard simulator]]></content:encoded>
+            <dc:title><![CDATA[Author Correction: Frustration- and doping-induced magnetism in a Fermi–Hubbard simulator]]></dc:title>
+            <dc:creator>Muqing Xu</dc:creator><dc:creator>Lev Haldar Kendrick</dc:creator><dc:creator>Anant Kale</dc:creator><dc:creator>Youqi Gang</dc:creator><dc:creator>Geoffrey Ji</dc:creator><dc:creator>Richard T. Scalettar</dc:creator><dc:creator>Martin Lebrat</dc:creator><dc:creator>Markus Greiner</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07072-1</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-29; | doi:10.1038/s41586-024-07072-1</dc:source>
+            <dc:date>2024-01-29</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07072-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07072-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07053-4">
+            <title><![CDATA[A dynamical measure of the black hole mass in a quasar 11 billion years ago]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07053-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 29 January 2024; <a href="https://www.nature.com/articles/s41586-024-07053-4">doi:10.1038/s41586-024-07053-4</a></p>A dynamical measure of the black hole mass in a quasar 11 billion years ago]]></content:encoded>
+            <dc:title><![CDATA[A dynamical measure of the black hole mass in a quasar 11 billion years ago]]></dc:title>
+            <dc:creator>R. Abuter</dc:creator><dc:creator>F. Allouche</dc:creator><dc:creator>A. Amorim</dc:creator><dc:creator>C. Bailet</dc:creator><dc:creator>A. Berdeu</dc:creator><dc:creator>J.-P. Berger</dc:creator><dc:creator>P. Berio</dc:creator><dc:creator>A. Bigioli</dc:creator><dc:creator>O. Boebion</dc:creator><dc:creator>M.-L. Bolzer</dc:creator><dc:creator>H. Bonnet</dc:creator><dc:creator>G. Bourdarot</dc:creator><dc:creator>P. Bourget</dc:creator><dc:creator>W. Brandner</dc:creator><dc:creator>Y. Cao</dc:creator><dc:creator>R. Conzelmann</dc:creator><dc:creator>M. Comin</dc:creator><dc:creator>Y. Clénet</dc:creator><dc:creator>B. Courtney-Barrer</dc:creator><dc:creator>R. Davies</dc:creator><dc:creator>D. Defrère</dc:creator><dc:creator>A. Delboulbé</dc:creator><dc:creator>F. Delplancke-Ströbele</dc:creator><dc:creator>R. Dembet</dc:creator><dc:creator>J. Dexter</dc:creator><dc:creator>P. T. de Zeeuw</dc:creator><dc:creator>A. Drescher</dc:creator><dc:creator>A. Eckart</dc:creator><dc:creator>C. Édouard</dc:creator><dc:creator>F. Eisenhauer</dc:creator><dc:creator>M. Fabricius</dc:creator><dc:creator>H. Feuchtgruber</dc:creator><dc:creator>G. Finger</dc:creator><dc:creator>N. M. Förster Schreiber</dc:creator><dc:creator>P. Garcia</dc:creator><dc:creator>R. Garcia Lopez</dc:creator><dc:creator>F. Gao</dc:creator><dc:creator>E. Gendron</dc:creator><dc:creator>R. Genzel</dc:creator><dc:creator>J. P. Gil</dc:creator><dc:creator>S. Gillessen</dc:creator><dc:creator>T. Gomes</dc:creator><dc:creator>F. Gonté</dc:creator><dc:creator>C. Gouvret</dc:creator><dc:creator>P. Guajardo</dc:creator><dc:creator>S. Guieu</dc:creator><dc:creator>W. Hackenberg</dc:creator><dc:creator>N. Haddad</dc:creator><dc:creator>M. Hartl</dc:creator><dc:creator>X. Haubois</dc:creator><dc:creator>F. Haußmann</dc:creator><dc:creator>G. Heißel</dc:creator><dc:creator>T. Henning</dc:creator><dc:creator>S. Hippler</dc:creator><dc:creator>S. F. Hönig</dc:creator><dc:creator>M. Horrobin</dc:creator><dc:creator>N. Hubin</dc:creator><dc:creator>E. Jacqmart</dc:creator><dc:creator>L. Jocou</dc:creator><dc:creator>A. Kaufer</dc:creator><dc:creator>P. Kervella</dc:creator><dc:creator>J. Kolb</dc:creator><dc:creator>H. Korhonen</dc:creator><dc:creator>S. Lacour</dc:creator><dc:creator>S. Lagarde</dc:creator><dc:creator>O. Lai</dc:creator><dc:creator>V. Lapeyrère</dc:creator><dc:creator>R. Laugier</dc:creator><dc:creator>J.-B. Le Bouquin</dc:creator><dc:creator>J. Leftley</dc:creator><dc:creator>P. Léna</dc:creator><dc:creator>S. Lewis</dc:creator><dc:creator>D. Liu</dc:creator><dc:creator>B. Lopez</dc:creator><dc:creator>D. Lutz</dc:creator><dc:creator>Y. Magnard</dc:creator><dc:creator>F. Mang</dc:creator><dc:creator>A. Marcotto</dc:creator><dc:creator>D. Maurel</dc:creator><dc:creator>A. Mérand</dc:creator><dc:creator>F. Millour</dc:creator><dc:creator>N. More</dc:creator><dc:creator>H. Netzer</dc:creator><dc:creator>H. Nowacki</dc:creator><dc:creator>M. Nowak</dc:creator><dc:creator>S. Oberti</dc:creator><dc:creator>T. Ott</dc:creator><dc:creator>L. Pallanca</dc:creator><dc:creator>T. Paumard</dc:creator><dc:creator>K. Perraut</dc:creator><dc:creator>G. Perrin</dc:creator><dc:creator>R. Petrov</dc:creator><dc:creator>O. Pfuhl</dc:creator><dc:creator>N. Pourré</dc:creator><dc:creator>S. Rabien</dc:creator><dc:creator>C. Rau</dc:creator><dc:creator>M. Riquelme</dc:creator><dc:creator>S. Robbe-Dubois</dc:creator><dc:creator>S. Rochat</dc:creator><dc:creator>M. Salman</dc:creator><dc:creator>J. Sanchez-Bermudez</dc:creator><dc:creator>D. J. D. Santos</dc:creator><dc:creator>S. Scheithauer</dc:creator><dc:creator>M. Schöller</dc:creator><dc:creator>J. Schubert</dc:creator><dc:creator>N. Schuhler</dc:creator><dc:creator>J. Shangguan</dc:creator><dc:creator>P. Shchekaturov</dc:creator><dc:creator>T. T. Shimizu</dc:creator><dc:creator>A. Sevin</dc:creator><dc:creator>F. Soulez</dc:creator><dc:creator>A. Spang</dc:creator><dc:creator>E. Stadler</dc:creator><dc:creator>A. Sternberg</dc:creator><dc:creator>C. Straubmeier</dc:creator><dc:creator>E. Sturm</dc:creator><dc:creator>C. Sykes</dc:creator><dc:creator>L. J. Tacconi</dc:creator><dc:creator>K. R. W. Tristram</dc:creator><dc:creator>F. Vincent</dc:creator><dc:creator>S. von Fellenberg</dc:creator><dc:creator>S. Uysal</dc:creator><dc:creator>F. Widmann</dc:creator><dc:creator>E. Wieprecht</dc:creator><dc:creator>E. Wiezorrek</dc:creator><dc:creator>J. Woillez</dc:creator><dc:creator>G. Zins</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07053-4</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-29; | doi:10.1038/s41586-024-07053-4</dc:source>
+            <dc:date>2024-01-29</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07053-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07053-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00228-z">
+            <title><![CDATA[Bacterial prey turns the tables on predator]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00228-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 29 January 2024; <a href="https://www.nature.com/articles/d41586-024-00228-z">doi:10.1038/d41586-024-00228-z</a></p>A rare example of the reversal of a bacterial predator–prey relationship suggests that such species interactions are more complex than was realized.]]></content:encoded>
+            <dc:title><![CDATA[Bacterial prey turns the tables on predator]]></dc:title>
+            <dc:creator>Andrew Mitchinson</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00228-z</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-29; | doi:10.1038/d41586-024-00228-z</dc:source>
+            <dc:date>2024-01-29</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00228-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00228-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00179-5">
+            <title><![CDATA[Who needs qubits? Physicists make light-based ‘qumodes’ for quantum computing]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00179-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 29 January 2024; <a href="https://www.nature.com/articles/d41586-024-00179-5">doi:10.1038/d41586-024-00179-5</a></p>Careful retooling of laser beams allows scientists to harness photons for performing quantum calculations.]]></content:encoded>
+            <dc:title><![CDATA[Who needs qubits? Physicists make light-based ‘qumodes’ for quantum computing]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-00179-5</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-29; | doi:10.1038/d41586-024-00179-5</dc:source>
+            <dc:date>2024-01-29</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00179-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00179-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00243-0">
+            <title><![CDATA[Spreading paws-itivity]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00243-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 29 January 2024; <a href="https://www.nature.com/articles/d41586-024-00243-0">doi:10.1038/d41586-024-00243-0</a></p>Marguerite Nicodeme works with Snoopy the dog to bring moments of cheerful relief to people with cancer.]]></content:encoded>
+            <dc:title><![CDATA[Spreading paws-itivity]]></dc:title>
+            <dc:creator>Benjamin Plackett</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00243-0</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-29; | doi:10.1038/d41586-024-00243-0</dc:source>
+            <dc:date>2024-01-29</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00243-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00243-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00260-z">
+            <title><![CDATA[Japan’s powered-down moon lander makes a comeback]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00260-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 29 January 2024; <a href="https://www.nature.com/articles/d41586-024-00260-z">doi:10.1038/d41586-024-00260-z</a></p>After nine days in a state of suspension, the upside-down Moon-lander has received enough sunlight to charge its solar panels.]]></content:encoded>
+            <dc:title><![CDATA[Japan’s powered-down moon lander makes a comeback]]></dc:title>
+            <dc:creator>Gemma Conroy</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00260-z</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-29; | doi:10.1038/d41586-024-00260-z</dc:source>
+            <dc:date>2024-01-29</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00260-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00260-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00268-5">
+            <title><![CDATA[Signs of ‘transmissible’ Alzheimer’s seen in people who received growth hormone]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00268-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 29 January 2024; <a href="https://www.nature.com/articles/d41586-024-00268-5">doi:10.1038/d41586-024-00268-5</a></p>The findings support a controversial hypothesis that proteins related to the neurodegenerative disease can be ‘seeded’ in the brain through material taken from cadavers.]]></content:encoded>
+            <dc:title><![CDATA[Signs of ‘transmissible’ Alzheimer’s seen in people who received growth hormone]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-00268-5</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-29; | doi:10.1038/d41586-024-00268-5</dc:source>
+            <dc:date>2024-01-29</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00268-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00268-5</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00242-1">
             <title><![CDATA[How co-working labs reduce costs and accelerate progress for biotech start-ups]]></title>
@@ -190,6 +310,36 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00242-1</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00242-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00075-y">
+            <title><![CDATA[Mobile atoms enable efficient computation with logical qubits]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00075-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 29 January 2024; <a href="https://www.nature.com/articles/d41586-024-00075-y">doi:10.1038/d41586-024-00075-y</a></p>Small groups of mobile neutral atoms have been manipulated with extraordinary control to form ‘logical’ quantum bits. These qubits can perform quantum computations more reliably than can individual atoms.]]></content:encoded>
+            <dc:title><![CDATA[Mobile atoms enable efficient computation with logical qubits]]></dc:title>
+            <dc:creator>Barbara M. Terhal</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00075-y</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-29; | doi:10.1038/d41586-024-00075-y</dc:source>
+            <dc:date>2024-01-29</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00075-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00075-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00266-7">
+            <title><![CDATA[‘Wildly weird’ RNA bits discovered infesting the microbes in our guts]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00266-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 29 January 2024; <a href="https://www.nature.com/articles/d41586-024-00266-7">doi:10.1038/d41586-024-00266-7</a></p>Rod-shaped stuctures named ‘Obelisks’ are even smaller than viruses but can still transmit instructions to cells.]]></content:encoded>
+            <dc:title><![CDATA[‘Wildly weird’ RNA bits discovered infesting the microbes in our guts]]></dc:title>
+            <dc:creator>Saima Sidik</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00266-7</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-29; | doi:10.1038/d41586-024-00266-7</dc:source>
+            <dc:date>2024-01-29</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00266-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00266-7</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00149-x">
@@ -238,11 +388,11 @@
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00263-w">
-            <title><![CDATA[Daily briefing: oil sands generate more pollution than all Canadians ]]></title>
+            <title><![CDATA[Daily briefing: oil sands generate more pollution than all Canadians]]></title>
             <link>https://www.nature.com/articles/d41586-024-00263-w</link>
             <content:encoded>
                 <![CDATA[<p>Nature, Published online: 26 January 2024; <a href="https://www.nature.com/articles/d41586-024-00263-w">doi:10.1038/d41586-024-00263-w</a></p>The Marscopter will not fly again, and a marsupial that lives fast and dies young.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: oil sands generate more pollution than all Canadians ]]></dc:title>
+            <dc:title><![CDATA[Daily briefing: oil sands generate more pollution than all Canadians]]></dc:title>
             <dc:creator>Flora Graham</dc:creator>
             <dc:identifier>doi:10.1038/d41586-024-00263-w</dc:identifier>
             <dc:source>Nature, Published online: 2024-01-26; | doi:10.1038/d41586-024-00263-w</dc:source>
@@ -1150,156 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00168-8</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00168-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07066-z">
-            <title><![CDATA[Deciphering cell states and genealogies of human hematopoiesis]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07066-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 22 January 2024; <a href="https://www.nature.com/articles/s41586-024-07066-z">doi:10.1038/s41586-024-07066-z</a></p>Deciphering cell states and genealogies of human hematopoiesis]]></content:encoded>
-            <dc:title><![CDATA[Deciphering cell states and genealogies of human hematopoiesis]]></dc:title>
-            <dc:creator>Chen Weng</dc:creator><dc:creator>Fulong Yu</dc:creator><dc:creator>Dian Yang</dc:creator><dc:creator>Michael Poeschla</dc:creator><dc:creator>L. Alexander Liggett</dc:creator><dc:creator>Matthew G. Jones</dc:creator><dc:creator>Xiaojie Qiu</dc:creator><dc:creator>Lara Wahlster</dc:creator><dc:creator>Alexis Caulier</dc:creator><dc:creator>Jeffrey A. Hussmann</dc:creator><dc:creator>Alexandra Schnell</dc:creator><dc:creator>Kathryn E. Yost</dc:creator><dc:creator>Luke Koblan</dc:creator><dc:creator>Jorge D. Martin-Rufino</dc:creator><dc:creator>Joseph Min</dc:creator><dc:creator>Alessandro Hammond</dc:creator><dc:creator>Daniel Ssozi</dc:creator><dc:creator>Raphael Bueno</dc:creator><dc:creator>Hari Mallidi</dc:creator><dc:creator>Antonia Kreso</dc:creator><dc:creator>Javier Escabi</dc:creator><dc:creator>William M. Rideout III</dc:creator><dc:creator>Tyler Jacks</dc:creator><dc:creator>Sahand Hormoz</dc:creator><dc:creator>Peter van Galen</dc:creator><dc:creator>Jonathan S. Weissman</dc:creator><dc:creator>Vijay G. Sankaran</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07066-z</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-22; | doi:10.1038/s41586-024-07066-z</dc:source>
-            <dc:date>2024-01-22</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07066-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07066-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00174-w">
-            <title><![CDATA[How I make stretchy electronics for medicine]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00174-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 22 January 2024; <a href="https://www.nature.com/articles/d41586-024-00174-w">doi:10.1038/d41586-024-00174-w</a></p>Mahmoud Tavakoli works on wearable electronic devices that are less invasive than standard equipment.]]></content:encoded>
-            <dc:title><![CDATA[How I make stretchy electronics for medicine]]></dc:title>
-            <dc:creator>Patricia Maia Noronha</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00174-w</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-22; | doi:10.1038/d41586-024-00174-w</dc:source>
-            <dc:date>2024-01-22</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00174-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00174-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00166-w">
-            <title><![CDATA[China’s new dark-matter lab is biggest and deepest yet]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00166-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 22 January 2024; <a href="https://www.nature.com/articles/d41586-024-00166-w">doi:10.1038/d41586-024-00166-w</a></p>The laboratory is scaling up its equipment to hunt for dark matter.]]></content:encoded>
-            <dc:title><![CDATA[China’s new dark-matter lab is biggest and deepest yet]]></dc:title>
-            <dc:creator>Gemma Conroy</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00166-w</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-22; | doi:10.1038/d41586-024-00166-w</dc:source>
-            <dc:date>2024-01-22</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00166-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00166-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00173-x">
-            <title><![CDATA[Seven technologies to watch in 2024]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00173-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 22 January 2024; <a href="https://www.nature.com/articles/d41586-024-00173-x">doi:10.1038/d41586-024-00173-x</a></p>Advances in artificial intelligence are at the heart of many of this year’s most exciting areas of technological innovation]]></content:encoded>
-            <dc:title><![CDATA[Seven technologies to watch in 2024]]></dc:title>
-            <dc:creator>Michael Eisenstein</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00173-x</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-22; | doi:10.1038/d41586-024-00173-x</dc:source>
-            <dc:date>2024-01-22</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00173-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00173-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00155-z">
-            <title><![CDATA[To curb plastic pollution, industry and academia must unite]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00155-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 22 January 2024; <a href="https://www.nature.com/articles/d41586-024-00155-z">doi:10.1038/d41586-024-00155-z</a></p>Collaboration is key to making plastic use greener as soon as possible. Our experience yields tips on how to set up industry–academic partnerships.]]></content:encoded>
-            <dc:title><![CDATA[To curb plastic pollution, industry and academia must unite]]></dc:title>
-            <dc:creator>Collin P. Ward</dc:creator><dc:creator>Christopher M. Reddy</dc:creator><dc:creator>Brian Edwards</dc:creator><dc:creator>Steven T. Perri</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00155-z</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-22; | doi:10.1038/d41586-024-00155-z</dc:source>
-            <dc:date>2024-01-22</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00155-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00155-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00193-7">
-            <title><![CDATA[Daily briefing: Japanese spacecraft makes a pin-point landing on the Moon]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00193-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 22 January 2024; <a href="https://www.nature.com/articles/d41586-024-00193-7">doi:10.1038/d41586-024-00193-7</a></p>Japan has become the fifth country to land a lunar spacecraft. Plus, Nature’s pick of the technologies to get excited about and how to go further with open science.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: Japanese spacecraft makes a pin-point landing on the Moon]]></dc:title>
-            <dc:creator>Flora Graham</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00193-7</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-22; | doi:10.1038/d41586-024-00193-7</dc:source>
-            <dc:date>2024-01-22</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00193-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00193-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00172-y">
-            <title><![CDATA[The open-science movement for sharing laboratory materials gains momentum]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00172-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 22 January 2024; <a href="https://www.nature.com/articles/d41586-024-00172-y">doi:10.1038/d41586-024-00172-y</a></p>Many researchers support open science, but how can they translate this view into behaviours to boost sharing?]]></content:encoded>
-            <dc:title><![CDATA[The open-science movement for sharing laboratory materials gains momentum]]></dc:title>
-            <dc:creator>Andy Tay</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00172-y</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-22; | doi:10.1038/d41586-024-00172-y</dc:source>
-            <dc:date>2024-01-22</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00172-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00172-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00151-3">
-            <title><![CDATA[Japan’s successful Moon landing was the most precise ever]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00151-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 22 January 2024; <a href="https://www.nature.com/articles/d41586-024-00151-3">doi:10.1038/d41586-024-00151-3</a></p>Landing within 100 metres of its target zone, the craft has pioneered a new image-based automatic navigation system. But its mission might be cut short.]]></content:encoded>
-            <dc:title><![CDATA[Japan’s successful Moon landing was the most precise ever]]></dc:title>
-            <dc:creator>Ling Xin</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00151-3</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-22; | doi:10.1038/d41586-024-00151-3</dc:source>
-            <dc:date>2024-01-22</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00151-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00151-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00135-3">
-            <title><![CDATA[Pioneering nuclear-fusion reactor shuts down: what scientists will learn]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00135-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 22 January 2024; <a href="https://www.nature.com/articles/d41586-024-00135-3">doi:10.1038/d41586-024-00135-3</a></p>The decommissioning of the Joint European Torus near Oxford, UK — a test bed for ITER — will take until 2040 and be studied in detail.]]></content:encoded>
-            <dc:title><![CDATA[Pioneering nuclear-fusion reactor shuts down: what scientists will learn]]></dc:title>
-            <dc:creator>Elizabeth Gibney</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00135-3</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-22; | doi:10.1038/d41586-024-00135-3</dc:source>
-            <dc:date>2024-01-22</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00135-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00135-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07082-z">
-            <title><![CDATA[Publisher Correction: Intermediate conformations of CD4-bound HIV-1 Env heterotrimers]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07082-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 19 January 2024; <a href="https://www.nature.com/articles/s41586-024-07082-z">doi:10.1038/s41586-024-07082-z</a></p>Publisher Correction: Intermediate conformations of CD4-bound HIV-1 Env heterotrimers]]></content:encoded>
-            <dc:title><![CDATA[Publisher Correction: Intermediate conformations of CD4-bound HIV-1 Env heterotrimers]]></dc:title>
-            <dc:creator>Kim-Marie A. Dam</dc:creator><dc:creator>Chengcheng Fan</dc:creator><dc:creator>Zhi Yang</dc:creator><dc:creator>Pamela J. Bjorkman</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07082-z</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-19; | doi:10.1038/s41586-024-07082-z</dc:source>
-            <dc:date>2024-01-19</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07082-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07082-z</prism:url>
         </item>
     
 </rdf:RDF>
