@@ -26,11 +26,23 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00198-2"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00261-y"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00200-x"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00199-1"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00234-1"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00152-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00237-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00077-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00273-8"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00239-w"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00241-2"/>
                 
@@ -49,6 +61,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00258-7"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00260-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00272-9"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00268-5"/>
                 
@@ -154,20 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00178-6"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00185-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00157-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00186-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00184-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00187-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00206-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00169-7"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -237,6 +237,21 @@
             <prism:url>https://www.nature.com/articles/d41586-024-00198-2</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00261-y">
+            <title><![CDATA[‘Like a moth to a flame’ — this strange insect behaviour is finally explained]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00261-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 30 January 2024; <a href="https://www.nature.com/articles/d41586-024-00261-y">doi:10.1038/d41586-024-00261-y</a></p>Many explanations have been put forward for insects’ attraction to light, but high tech cameras now suggest a different answer.]]></content:encoded>
+            <dc:title><![CDATA[‘Like a moth to a flame’ — this strange insect behaviour is finally explained]]></dc:title>
+            <dc:creator>Dan Fox</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00261-y</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-30; | doi:10.1038/d41586-024-00261-y</dc:source>
+            <dc:date>2024-01-30</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00261-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00261-y</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-024-00200-x">
             <title><![CDATA[Reaching carbon neutrality requires energy-efficient training of AI]]></title>
             <link>https://www.nature.com/articles/d41586-024-00200-x</link>
@@ -267,6 +282,21 @@
             <prism:url>https://www.nature.com/articles/d41586-024-00199-1</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00234-1">
+            <title><![CDATA[From the archive: Mendelian inheritance, and an enigmatic echo]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00234-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 30 January 2024; <a href="https://www.nature.com/articles/d41586-024-00234-1">doi:10.1038/d41586-024-00234-1</a></p>Snippets from Nature’s past.]]></content:encoded>
+            <dc:title><![CDATA[From the archive: Mendelian inheritance, and an enigmatic echo]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-00234-1</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-30; | doi:10.1038/d41586-024-00234-1</dc:source>
+            <dc:date>2024-01-30</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00234-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00234-1</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-024-00152-2">
             <title><![CDATA[Indian forest act faces challenge in Supreme Court]]></title>
             <link>https://www.nature.com/articles/d41586-024-00152-2</link>
@@ -280,6 +310,66 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00152-2</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00152-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00237-y">
+            <title><![CDATA[Research funders must join the fight for equal access to medicines]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00237-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 30 January 2024; <a href="https://www.nature.com/articles/d41586-024-00237-y">doi:10.1038/d41586-024-00237-y</a></p>Pandemic treaty is a rare opportunity to ensure pandemic-related technologies are accessible and affordable to all.]]></content:encoded>
+            <dc:title><![CDATA[Research funders must join the fight for equal access to medicines]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-00237-y</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-30; | doi:10.1038/d41586-024-00237-y</dc:source>
+            <dc:date>2024-01-30</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00237-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00237-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00077-w">
+            <title><![CDATA[The journey to understand previously unknown microbial genes]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00077-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 30 January 2024; <a href="https://www.nature.com/articles/d41586-024-00077-w">doi:10.1038/d41586-024-00077-w</a></p>The analysis of DNA sequences sheds light on microbial biology, but it is difficult to assess the function of genes that have little or no similarity to characterized genes. Here, scientists discuss this challenge from genomic and microbial perspectives.]]></content:encoded>
+            <dc:title><![CDATA[The journey to understand previously unknown microbial genes]]></dc:title>
+            <dc:creator>Jakob Wirbel</dc:creator><dc:creator>Ami S. Bhatt</dc:creator><dc:creator>Alexander J. Probst</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00077-w</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-30; | doi:10.1038/d41586-024-00077-w</dc:source>
+            <dc:date>2024-01-30</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00077-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00077-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00273-8">
+            <title><![CDATA[How to make academic hiring fair: database lists innovative policies]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00273-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 30 January 2024; <a href="https://www.nature.com/articles/d41586-024-00273-8">doi:10.1038/d41586-024-00273-8</a></p>The Reformscape database is designed to inspire university leaders by collecting examples of responsible career assessment.]]></content:encoded>
+            <dc:title><![CDATA[How to make academic hiring fair: database lists innovative policies]]></dc:title>
+            <dc:creator>Brian Owens</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00273-8</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-30; | doi:10.1038/d41586-024-00273-8</dc:source>
+            <dc:date>2024-01-30</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00273-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00273-8</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00239-w">
+            <title><![CDATA[Academia needs radical change — mothers are ready to pave the way]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00239-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 30 January 2024; <a href="https://www.nature.com/articles/d41586-024-00239-w">doi:10.1038/d41586-024-00239-w</a></p>The research system must lose its overly rigid attitude towards career progression — and mothers are uniting to make that happen.]]></content:encoded>
+            <dc:title><![CDATA[Academia needs radical change — mothers are ready to pave the way]]></dc:title>
+            <dc:creator>Fernanda Staniscuaski</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00239-w</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-30; | doi:10.1038/d41586-024-00239-w</dc:source>
+            <dc:date>2024-01-30</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00239-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00239-w</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00241-2">
@@ -417,13 +507,28 @@
             <prism:url>https://www.nature.com/articles/d41586-024-00260-z</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00272-9">
+            <title><![CDATA[Daily briefing: Drugs such as Ozempic could help with Alzheimer’s and Parkinson’s]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00272-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 29 January 2024; <a href="https://www.nature.com/articles/d41586-024-00272-9">doi:10.1038/d41586-024-00272-9</a></p>Anti-obesity drugs’ anti-inflammation effect raises hopes that they could be used to treat diseases characterized by brain inflammation. Plus, a manatee-shaped nebula revealed a source of cosmic rays and poverty’s corrosive effects are also social and psychological.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Drugs such as Ozempic could help with Alzheimer’s and Parkinson’s]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00272-9</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-29; | doi:10.1038/d41586-024-00272-9</dc:source>
+            <dc:date>2024-01-29</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00272-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00272-9</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-024-00268-5">
             <title><![CDATA[Signs of ‘transmissible’ Alzheimer’s seen in people who received growth hormone]]></title>
             <link>https://www.nature.com/articles/d41586-024-00268-5</link>
             <content:encoded>
                 <![CDATA[<p>Nature, Published online: 29 January 2024; <a href="https://www.nature.com/articles/d41586-024-00268-5">doi:10.1038/d41586-024-00268-5</a></p>The findings support a controversial hypothesis that proteins related to the neurodegenerative disease can be ‘seeded’ in the brain through material taken from cadavers.]]></content:encoded>
             <dc:title><![CDATA[Signs of ‘transmissible’ Alzheimer’s seen in people who received growth hormone]]></dc:title>
-            
+            <dc:creator>Carissa Wong</dc:creator>
             <dc:identifier>doi:10.1038/d41586-024-00268-5</dc:identifier>
             <dc:source>Nature, Published online: 2024-01-29; | doi:10.1038/d41586-024-00268-5</dc:source>
             <dc:date>2024-01-29</dc:date>
@@ -466,7 +571,7 @@
             <title><![CDATA[‘Wildly weird’ RNA bits discovered infesting the microbes in our guts]]></title>
             <link>https://www.nature.com/articles/d41586-024-00266-7</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 29 January 2024; <a href="https://www.nature.com/articles/d41586-024-00266-7">doi:10.1038/d41586-024-00266-7</a></p>Rod-shaped stuctures named ‘Obelisks’ are even smaller than viruses but can still transmit instructions to cells.]]></content:encoded>
+                <![CDATA[<p>Nature, Published online: 29 January 2024; <a href="https://www.nature.com/articles/d41586-024-00266-7">doi:10.1038/d41586-024-00266-7</a></p>Rod-shaped structures named ‘obelisks’ are even smaller than viruses but can still transmit instructions to cells.]]></content:encoded>
             <dc:title><![CDATA[‘Wildly weird’ RNA bits discovered infesting the microbes in our guts]]></dc:title>
             <dc:creator>Saima Sidik</dc:creator>
             <dc:identifier>doi:10.1038/d41586-024-00266-7</dc:identifier>
@@ -526,7 +631,7 @@
             <title><![CDATA[Daily briefing: Oil sands generate more pollution than all Canadians]]></title>
             <link>https://www.nature.com/articles/d41586-024-00263-w</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 26 January 2024; <a href="https://www.nature.com/articles/d41586-024-00263-w">doi:10.1038/d41586-024-00263-w</a></p>The Marscopter will not fly again, and a marsupial that lives fast and dies young.]]></content:encoded>
+                <![CDATA[<p>Nature, Published online: 26 January 2024; <a href="https://www.nature.com/articles/d41586-024-00263-w">doi:10.1038/d41586-024-00263-w</a></p>Pollution-causing emissions from the oil sands are up to 64 times greater than reported by industry. Plus, the Marscopter will not fly again, and a marsupial that lives fast and dies young.]]></content:encoded>
             <dc:title><![CDATA[Daily briefing: Oil sands generate more pollution than all Canadians]]></dc:title>
             <dc:creator>Flora Graham</dc:creator>
             <dc:identifier>doi:10.1038/d41586-024-00263-w</dc:identifier>
@@ -1195,111 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00178-6</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00178-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00185-7">
-            <title><![CDATA[Tech developers must respect equitable AI access]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00185-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 23 January 2024; <a href="https://www.nature.com/articles/d41586-024-00185-7">doi:10.1038/d41586-024-00185-7</a></p>Tech developers must respect equitable AI access]]></content:encoded>
-            <dc:title><![CDATA[Tech developers must respect equitable AI access]]></dc:title>
-            <dc:creator>Michał Choraś</dc:creator><dc:creator>Marek Pawlicki</dc:creator><dc:creator>Rafał Kozik</dc:creator><dc:creator>Aleksandra Pawlicka</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00185-7</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-23; | doi:10.1038/d41586-024-00185-7</dc:source>
-            <dc:date>2024-01-23</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00185-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00185-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00157-x">
-            <title><![CDATA[From the archive: the mechanics of athletics, and the eating habits of jellyfish]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00157-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 23 January 2024; <a href="https://www.nature.com/articles/d41586-024-00157-x">doi:10.1038/d41586-024-00157-x</a></p>Snippets from Nature’s past.]]></content:encoded>
-            <dc:title><![CDATA[From the archive: the mechanics of athletics, and the eating habits of jellyfish]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-00157-x</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-23; | doi:10.1038/d41586-024-00157-x</dc:source>
-            <dc:date>2024-01-23</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00157-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00157-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00186-6">
-            <title><![CDATA[Resolve climate-policy uncertainties in the US and China]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00186-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 23 January 2024; <a href="https://www.nature.com/articles/d41586-024-00186-6">doi:10.1038/d41586-024-00186-6</a></p>Resolve climate-policy uncertainties in the US and China]]></content:encoded>
-            <dc:title><![CDATA[Resolve climate-policy uncertainties in the US and China]]></dc:title>
-            <dc:creator>Dayong Zhang</dc:creator><dc:creator>Kun Guo</dc:creator><dc:creator>Qiang Ji</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00186-6</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-23; | doi:10.1038/d41586-024-00186-6</dc:source>
-            <dc:date>2024-01-23</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00186-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00186-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00184-8">
-            <title><![CDATA[Funders must get behind brain project data sharing]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00184-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 23 January 2024; <a href="https://www.nature.com/articles/d41586-024-00184-8">doi:10.1038/d41586-024-00184-8</a></p>Funders must get behind brain project data sharing]]></content:encoded>
-            <dc:title><![CDATA[Funders must get behind brain project data sharing]]></dc:title>
-            <dc:creator>Helena Ledmyr</dc:creator><dc:creator>Mathew Abrams</dc:creator><dc:creator>Randy McIntosh</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00184-8</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-23; | doi:10.1038/d41586-024-00184-8</dc:source>
-            <dc:date>2024-01-23</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00184-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00184-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00187-5">
-            <title><![CDATA[Are we part of a unified work of absurd art?]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00187-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 23 January 2024; <a href="https://www.nature.com/articles/d41586-024-00187-5">doi:10.1038/d41586-024-00187-5</a></p>Are we part of a unified work of absurd art?]]></content:encoded>
-            <dc:title><![CDATA[Are we part of a unified work of absurd art?]]></dc:title>
-            <dc:creator>Ryan Shirlow</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00187-5</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-23; | doi:10.1038/d41586-024-00187-5</dc:source>
-            <dc:date>2024-01-23</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00187-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00187-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00206-5">
-            <title><![CDATA[AI &amp; robotics briefing: AlphaFold predicts thousands of possible psychedelics]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00206-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 23 January 2024; <a href="https://www.nature.com/articles/d41586-024-00206-5">doi:10.1038/d41586-024-00206-5</a></p>For the first time, predicted protein structures have been shown to be just as useful for drug discovery as experimentally derived ones. Plus, a plant-inspired robot that grows like a vine and how an AI figured out geometry.]]></content:encoded>
-            <dc:title><![CDATA[AI &amp; robotics briefing: AlphaFold predicts thousands of possible psychedelics]]></dc:title>
-            <dc:creator>Katrina Krämer</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00206-5</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-23; | doi:10.1038/d41586-024-00206-5</dc:source>
-            <dc:date>2024-01-23</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00206-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00206-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00169-7">
-            <title><![CDATA[Can autoimmune diseases be cured? Scientists see hope at last]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00169-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 23 January 2024; <a href="https://www.nature.com/articles/d41586-024-00169-7">doi:10.1038/d41586-024-00169-7</a></p>After decades of frustration and failed attempts, scientists might finally be on the cusp of developing therapies to restore immune ‘tolerance’ in conditions such as diabetes, lupus and multiple sclerosis.]]></content:encoded>
-            <dc:title><![CDATA[Can autoimmune diseases be cured? Scientists see hope at last]]></dc:title>
-            <dc:creator>Cassandra Willyard</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00169-7</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-23; | doi:10.1038/d41586-024-00169-7</dc:source>
-            <dc:date>2024-01-23</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00169-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00169-7</prism:url>
         </item>
     
 </rdf:RDF>
