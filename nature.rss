@@ -18,6 +18,14 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07122-8"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00238-x"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00240-3"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04114-y"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07124-6"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07099-4"/>
@@ -160,14 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00191-9"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07070-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07030-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07064-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00178-6"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,66 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07122-8">
+            <title><![CDATA[Publisher Correction: Revising the global biogeography of annual and perennial plants]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07122-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 31 January 2024; <a href="https://www.nature.com/articles/s41586-024-07122-8">doi:10.1038/s41586-024-07122-8</a></p>Publisher Correction: Revising the global biogeography of annual and perennial plants]]></content:encoded>
+            <dc:title><![CDATA[Publisher Correction: Revising the global biogeography of annual and perennial plants]]></dc:title>
+            <dc:creator>Tyler Poppenwimer</dc:creator><dc:creator>Itay Mayrose</dc:creator><dc:creator>Niv DeMalach</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07122-8</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-31; | doi:10.1038/s41586-024-07122-8</dc:source>
+            <dc:date>2024-01-31</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07122-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07122-8</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00238-x">
+            <title><![CDATA[How can scientists make the most of the public’s trust in them?]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00238-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 31 January 2024; <a href="https://www.nature.com/articles/d41586-024-00238-x">doi:10.1038/d41586-024-00238-x</a></p>Researchers have a part to play in addressing concerns about government interference in science.]]></content:encoded>
+            <dc:title><![CDATA[How can scientists make the most of the public’s trust in them?]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-00238-x</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-31; | doi:10.1038/d41586-024-00238-x</dc:source>
+            <dc:date>2024-01-31</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00238-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00238-x</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00240-3">
+            <title><![CDATA[How cancer hijacks the nervous system to grow and spread]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00240-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 31 January 2024; <a href="https://www.nature.com/articles/d41586-024-00240-3">doi:10.1038/d41586-024-00240-3</a></p>A new wave of research is unpicking the relationship between cancer and neurons — and looking for ways to stop the crosstalk.]]></content:encoded>
+            <dc:title><![CDATA[How cancer hijacks the nervous system to grow and spread]]></dc:title>
+            <dc:creator>McKenzie Prillaman</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00240-3</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-31; | doi:10.1038/d41586-024-00240-3</dc:source>
+            <dc:date>2024-01-31</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00240-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00240-3</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-04114-y">
+            <title><![CDATA[Embryo model made using pluripotent stem cells reveals details of early development in humans]]></title>
+            <link>https://www.nature.com/articles/d41586-023-04114-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 31 January 2024; <a href="https://www.nature.com/articles/d41586-023-04114-y">doi:10.1038/d41586-023-04114-y</a></p>Early embryonic development in humans remains poorly understood. A 3D cellular model called bilaminoids, generated using ‘naive’ pluripotent stem cells and derived cell types, successfully recapitulates early development and enables mechanistic studies to examine how various cellular components interact to regulate early embryogenesis.]]></content:encoded>
+            <dc:title><![CDATA[Embryo model made using pluripotent stem cells reveals details of early development in humans]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-04114-y</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-31; | doi:10.1038/d41586-023-04114-y</dc:source>
+            <dc:date>2024-01-31</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-04114-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-04114-y</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07124-6">
             <title><![CDATA[Publisher Correction: The persistence of memory in ionic conduction probed by nonlinear optics]]></title>
@@ -346,7 +406,7 @@
             <title><![CDATA[How to make academic hiring fair: database lists innovative policies]]></title>
             <link>https://www.nature.com/articles/d41586-024-00273-8</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 30 January 2024; <a href="https://www.nature.com/articles/d41586-024-00273-8">doi:10.1038/d41586-024-00273-8</a></p>The Reformscape database is designed to inspire university leaders by collecting examples of responsible career assessment.]]></content:encoded>
+                <![CDATA[<p>Nature, Published online: 30 January 2024; <a href="https://www.nature.com/articles/d41586-024-00273-8">doi:10.1038/d41586-024-00273-8</a></p>Reformscape is designed to inspire university leaders by collecting examples of responsible career assessment.]]></content:encoded>
             <dc:title><![CDATA[How to make academic hiring fair: database lists innovative policies]]></dc:title>
             <dc:creator>Brian Owens</dc:creator>
             <dc:identifier>doi:10.1038/d41586-024-00273-8</dc:identifier>
@@ -778,11 +838,11 @@
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00223-4">
-            <title><![CDATA[Black hole observations solve cosmic-ray mystery]]></title>
+            <title><![CDATA[Black-hole observations solve cosmic-ray mystery]]></title>
             <link>https://www.nature.com/articles/d41586-024-00223-4</link>
             <content:encoded>
                 <![CDATA[<p>Nature, Published online: 25 January 2024; <a href="https://www.nature.com/articles/d41586-024-00223-4">doi:10.1038/d41586-024-00223-4</a></p>Data from an African observatory show that jets from a collapsed star are capable of producing some of the Galaxy’s fastest particles.]]></content:encoded>
-            <dc:title><![CDATA[Black hole observations solve cosmic-ray mystery]]></dc:title>
+            <dc:title><![CDATA[Black-hole observations solve cosmic-ray mystery]]></dc:title>
             <dc:creator>Davide Castelvecchi</dc:creator>
             <dc:identifier>doi:10.1038/d41586-024-00223-4</dc:identifier>
             <dc:source>Nature, Published online: 2024-01-25; | doi:10.1038/d41586-024-00223-4</dc:source>
@@ -1240,66 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00191-9</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00191-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07070-3">
-            <title><![CDATA[The hagfish genome and the evolution of vertebrates]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07070-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 23 January 2024; <a href="https://www.nature.com/articles/s41586-024-07070-3">doi:10.1038/s41586-024-07070-3</a></p>The hagfish genome and the evolution of vertebrates]]></content:encoded>
-            <dc:title><![CDATA[The hagfish genome and the evolution of vertebrates]]></dc:title>
-            <dc:creator>Ferdinand Marlétaz</dc:creator><dc:creator>Nataliya Timoshevskaya</dc:creator><dc:creator>Vladimir A. Timoshevskiy</dc:creator><dc:creator>Elise Parey</dc:creator><dc:creator>Oleg Simakov</dc:creator><dc:creator>Daria Gavriouchkina</dc:creator><dc:creator>Masakazu Suzuki</dc:creator><dc:creator>Kaoru Kubokawa</dc:creator><dc:creator>Sydney Brenner</dc:creator><dc:creator>Jeramiah J. Smith</dc:creator><dc:creator>Daniel S. Rokhsar</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07070-3</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-23; | doi:10.1038/s41586-024-07070-3</dc:source>
-            <dc:date>2024-01-23</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07070-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07070-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07030-x">
-            <title><![CDATA[Author Correction: Aerial additive manufacturing with multiple autonomous robots]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07030-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 23 January 2024; <a href="https://www.nature.com/articles/s41586-024-07030-x">doi:10.1038/s41586-024-07030-x</a></p>Author Correction: Aerial additive manufacturing with multiple autonomous robots]]></content:encoded>
-            <dc:title><![CDATA[Author Correction: Aerial additive manufacturing with multiple autonomous robots]]></dc:title>
-            <dc:creator>Ketao Zhang</dc:creator><dc:creator>Pisak Chermprayong</dc:creator><dc:creator>Feng Xiao</dc:creator><dc:creator>Dimos Tzoumanikas</dc:creator><dc:creator>Barrie Dams</dc:creator><dc:creator>Sebastian Kay</dc:creator><dc:creator>Basaran Bahadir Kocer</dc:creator><dc:creator>Alec Burns</dc:creator><dc:creator>Lachlan Orr</dc:creator><dc:creator>Talib Alhinai</dc:creator><dc:creator>Christopher Choi</dc:creator><dc:creator>Durgesh Dattatray Darekar</dc:creator><dc:creator>Wenbin Li</dc:creator><dc:creator>Steven Hirschmann</dc:creator><dc:creator>Valentina Soana</dc:creator><dc:creator>Shamsiah Awang Ngah</dc:creator><dc:creator>Clément Grillot</dc:creator><dc:creator>Sina Sareh</dc:creator><dc:creator>Ashutosh Choubey</dc:creator><dc:creator>Laura Margheri</dc:creator><dc:creator>Vijay M. Pawar</dc:creator><dc:creator>Richard J. Ball</dc:creator><dc:creator>Chris Williams</dc:creator><dc:creator>Paul Shepherd</dc:creator><dc:creator>Stefan Leutenegger</dc:creator><dc:creator>Robert Stuart-Smith</dc:creator><dc:creator>Mirko Kovac</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07030-x</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-23; | doi:10.1038/s41586-024-07030-x</dc:source>
-            <dc:date>2024-01-23</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07030-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07030-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07064-1">
-            <title><![CDATA[Author Correction: R-loop-derived cytoplasmic RNA–DNA hybrids activate an immune response]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07064-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 23 January 2024; <a href="https://www.nature.com/articles/s41586-024-07064-1">doi:10.1038/s41586-024-07064-1</a></p>Author Correction: R-loop-derived cytoplasmic RNA–DNA hybrids activate an immune response]]></content:encoded>
-            <dc:title><![CDATA[Author Correction: R-loop-derived cytoplasmic RNA–DNA hybrids activate an immune response]]></dc:title>
-            <dc:creator>Magdalena P. Crossley</dc:creator><dc:creator>Chenlin Song</dc:creator><dc:creator>Michael J. Bocek</dc:creator><dc:creator>Jun-Hyuk Choi</dc:creator><dc:creator>Joseph N. Kousouros</dc:creator><dc:creator>Ataya Sathirachinda</dc:creator><dc:creator>Cindy Lin</dc:creator><dc:creator>Joshua R. Brickner</dc:creator><dc:creator>Gongshi Bai</dc:creator><dc:creator>Hannes Lans</dc:creator><dc:creator>Wim Vermeulen</dc:creator><dc:creator>Monther Abu-Remaileh</dc:creator><dc:creator>Karlene A. Cimprich</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07064-1</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-23; | doi:10.1038/s41586-024-07064-1</dc:source>
-            <dc:date>2024-01-23</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07064-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07064-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00178-6">
-            <title><![CDATA[The clever system that gave Roman wines an amber colour and nutty aroma]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00178-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 23 January 2024; <a href="https://www.nature.com/articles/d41586-024-00178-6">doi:10.1038/d41586-024-00178-6</a></p>Wine-fermentation jars used in Georgia today hint at the properties of ancient vintages.]]></content:encoded>
-            <dc:title><![CDATA[The clever system that gave Roman wines an amber colour and nutty aroma]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-00178-6</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-23; | doi:10.1038/d41586-024-00178-6</dc:source>
-            <dc:date>2024-01-23</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00178-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00178-6</prism:url>
         </item>
     
 </rdf:RDF>
