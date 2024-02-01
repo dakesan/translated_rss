@@ -18,6 +18,10 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07129-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00297-0"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07122-8"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00244-z"/>
@@ -104,6 +108,8 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00076-x"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00279-2"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04114-y"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07124-6"/>
@@ -162,12 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00075-y"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00266-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00149-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00164-y"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,36 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07129-1">
+            <title><![CDATA[Publisher Correction: Developmental dynamics of two bipotent thymic epithelial progenitor types]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07129-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 01 February 2024; <a href="https://www.nature.com/articles/s41586-024-07129-1">doi:10.1038/s41586-024-07129-1</a></p>Publisher Correction: Developmental dynamics of two bipotent thymic epithelial progenitor types]]></content:encoded>
+            <dc:title><![CDATA[Publisher Correction: Developmental dynamics of two bipotent thymic epithelial progenitor types]]></dc:title>
+            <dc:creator>Anja Nusser</dc:creator><dc:creator>Sagar</dc:creator><dc:creator>Jeremy B. Swann</dc:creator><dc:creator>Brigitte Krauth</dc:creator><dc:creator>Dagmar Diekhoff</dc:creator><dc:creator>Lesly Calderon</dc:creator><dc:creator>Christiane Happe</dc:creator><dc:creator>Dominic Grün</dc:creator><dc:creator>Thomas Boehm</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07129-1</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-01; | doi:10.1038/s41586-024-07129-1</dc:source>
+            <dc:date>2024-02-01</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07129-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07129-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00297-0">
+            <title><![CDATA[Passion, curiosity and perseverance: my mission to capture women in science on camera]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00297-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 01 February 2024; <a href="https://www.nature.com/articles/d41586-024-00297-0">doi:10.1038/d41586-024-00297-0</a></p>Genetics researcher Elisabetta Citterio explains why she felt compelled to photograph 57 women who work in STEM fields.]]></content:encoded>
+            <dc:title><![CDATA[Passion, curiosity and perseverance: my mission to capture women in science on camera]]></dc:title>
+            <dc:creator>Josie Glausiusz</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00297-0</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-01; | doi:10.1038/d41586-024-00297-0</dc:source>
+            <dc:date>2024-02-01</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00297-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00297-0</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07122-8">
             <title><![CDATA[Publisher Correction: Revising the global biogeography of annual and perennial plants]]></title>
@@ -822,6 +852,21 @@
             <prism:url>https://www.nature.com/articles/d41586-024-00076-x</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00279-2">
+            <title><![CDATA[Brazil’s deforestation ‘police’ on strike — threatening climate goals]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00279-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 31 January 2024; <a href="https://www.nature.com/articles/d41586-024-00279-2">doi:10.1038/d41586-024-00279-2</a></p>Environmental workers in the government have stopped field operations, and might halt work altogether.]]></content:encoded>
+            <dc:title><![CDATA[Brazil’s deforestation ‘police’ on strike — threatening climate goals]]></dc:title>
+            <dc:creator>Meghie Rodrigues</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00279-2</dc:identifier>
+            <dc:source>Nature, Published online: 2024-01-31; | doi:10.1038/d41586-024-00279-2</dc:source>
+            <dc:date>2024-01-31</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00279-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00279-2</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-023-04114-y">
             <title><![CDATA[Embryo model made using pluripotent stem cells reveals details of early development in humans]]></title>
             <link>https://www.nature.com/articles/d41586-023-04114-y</link>
@@ -1255,51 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00075-y</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00075-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00266-7">
-            <title><![CDATA[‘Wildly weird’ RNA bits discovered infesting the microbes in our guts]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00266-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 29 January 2024; <a href="https://www.nature.com/articles/d41586-024-00266-7">doi:10.1038/d41586-024-00266-7</a></p>Rod-shaped structures named ‘obelisks’ are even smaller than viruses but can still transmit instructions to cells.]]></content:encoded>
-            <dc:title><![CDATA[‘Wildly weird’ RNA bits discovered infesting the microbes in our guts]]></dc:title>
-            <dc:creator>Saima Sidik</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00266-7</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-29; | doi:10.1038/d41586-024-00266-7</dc:source>
-            <dc:date>2024-01-29</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00266-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00266-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00149-x">
-            <title><![CDATA[A giant fund for climate disasters will soon open. Who should be paid first?]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00149-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 29 January 2024; <a href="https://www.nature.com/articles/d41586-024-00149-x">doi:10.1038/d41586-024-00149-x</a></p>More than three billion people stand to benefit from a historic climate loss-and-damage fund. But spending it involves agonizing choices about who has suffered most.]]></content:encoded>
-            <dc:title><![CDATA[A giant fund for climate disasters will soon open. Who should be paid first?]]></dc:title>
-            <dc:creator>Gayathri Vaidyanathan</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00149-x</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-29; | doi:10.1038/d41586-024-00149-x</dc:source>
-            <dc:date>2024-01-29</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00149-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00149-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00164-y">
-            <title><![CDATA[Engineered natural killer cells show their power against blood cancer]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00164-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 26 January 2024; <a href="https://www.nature.com/articles/d41586-024-00164-y">doi:10.1038/d41586-024-00164-y</a></p>A variation on CAR T-cell therapy damps down the number of cancerous cells in people with certain types of lymphoma or leukaemia.]]></content:encoded>
-            <dc:title><![CDATA[Engineered natural killer cells show their power against blood cancer]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-00164-y</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-26; | doi:10.1038/d41586-024-00164-y</dc:source>
-            <dc:date>2024-01-26</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00164-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00164-y</prism:url>
         </item>
     
 </rdf:RDF>
