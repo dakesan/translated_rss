@@ -18,6 +18,14 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07123-7"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00246-x"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00278-3"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00209-2"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07129-1"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00312-4"/>
@@ -29,6 +37,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00297-0"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00288-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00314-2"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00267-6"/>
                 
@@ -158,16 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07104-w"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07072-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07053-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00228-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00179-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00243-0"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,66 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07123-7">
+            <title><![CDATA[Author Correction: Satellite mapping reveals extensive industrial activity at sea]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07123-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 02 February 2024; <a href="https://www.nature.com/articles/s41586-024-07123-7">doi:10.1038/s41586-024-07123-7</a></p>Author Correction: Satellite mapping reveals extensive industrial activity at sea]]></content:encoded>
+            <dc:title><![CDATA[Author Correction: Satellite mapping reveals extensive industrial activity at sea]]></dc:title>
+            <dc:creator>Fernando S. Paolo</dc:creator><dc:creator>David Kroodsma</dc:creator><dc:creator>Jennifer Raynor</dc:creator><dc:creator>Tim Hochberg</dc:creator><dc:creator>Pete Davis</dc:creator><dc:creator>Jesse Cleary</dc:creator><dc:creator>Luca Marsaglia</dc:creator><dc:creator>Sara Orofino</dc:creator><dc:creator>Christian Thomas</dc:creator><dc:creator>Patrick Halpin</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07123-7</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-02; | doi:10.1038/s41586-024-07123-7</dc:source>
+            <dc:date>2024-02-02</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07123-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07123-7</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00246-x">
+            <title><![CDATA[The mystery of Feynman’s sprinkler is solved at last]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00246-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 02 February 2024; <a href="https://www.nature.com/articles/d41586-024-00246-x">doi:10.1038/d41586-024-00246-x</a></p>A puzzle named after the Nobel-prizewinning physicist has been solved by experiments with a submerged sprinkler.]]></content:encoded>
+            <dc:title><![CDATA[The mystery of Feynman’s sprinkler is solved at last]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-00246-x</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-02; | doi:10.1038/d41586-024-00246-x</dc:source>
+            <dc:date>2024-02-02</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00246-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00246-x</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00278-3">
+            <title><![CDATA[A forgotten Aztec scholar and more: Books in brief]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00278-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 02 February 2024; <a href="https://www.nature.com/articles/d41586-024-00278-3">doi:10.1038/d41586-024-00278-3</a></p>Andrew Robinson reviews five of the best science picks.]]></content:encoded>
+            <dc:title><![CDATA[A forgotten Aztec scholar and more: Books in brief]]></dc:title>
+            <dc:creator>Andrew Robinson</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00278-3</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-02; | doi:10.1038/d41586-024-00278-3</dc:source>
+            <dc:date>2024-02-02</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00278-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00278-3</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00209-2">
+            <title><![CDATA[‘Blue foods’ to tackle hidden hunger and improve nutrition]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00209-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 02 February 2024; <a href="https://www.nature.com/articles/d41586-024-00209-2">doi:10.1038/d41586-024-00209-2</a></p>Aquatic foods have been overlooked in moves to end food insecurity. That needs to change, says Christopher Golden.]]></content:encoded>
+            <dc:title><![CDATA[‘Blue foods’ to tackle hidden hunger and improve nutrition]]></dc:title>
+            <dc:creator>Dom Byrne</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00209-2</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-02; | doi:10.1038/d41586-024-00209-2</dc:source>
+            <dc:date>2024-02-02</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00209-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00209-2</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07129-1">
             <title><![CDATA[Publisher Correction: Developmental dynamics of two bipotent thymic epithelial progenitor types]]></title>
@@ -265,6 +325,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00288-1</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00288-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00314-2">
+            <title><![CDATA[Daily briefing: Discoveries from a huge study of mothers and babies in China]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00314-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 01 February 2024; <a href="https://www.nature.com/articles/d41586-024-00314-2">doi:10.1038/d41586-024-00314-2</a></p>Landmark study of links between maternal health and fetal development is among the first to look at the genetic profiles of East Asian people. Plus, how sea otters protect shorelines from erosion and what’s behind the alarming surge of measles in Europe.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Discoveries from a huge study of mothers and babies in China]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00314-2</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-01; | doi:10.1038/d41586-024-00314-2</dc:source>
+            <dc:date>2024-02-01</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00314-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00314-2</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00267-6">
@@ -1225,81 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/s41586-024-07104-w</prism:doi>
             <prism:url>https://www.nature.com/articles/s41586-024-07104-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07072-1">
-            <title><![CDATA[Author Correction: Frustration- and doping-induced magnetism in a Fermi–Hubbard simulator]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07072-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 29 January 2024; <a href="https://www.nature.com/articles/s41586-024-07072-1">doi:10.1038/s41586-024-07072-1</a></p>Author Correction: Frustration- and doping-induced magnetism in a Fermi–Hubbard simulator]]></content:encoded>
-            <dc:title><![CDATA[Author Correction: Frustration- and doping-induced magnetism in a Fermi–Hubbard simulator]]></dc:title>
-            <dc:creator>Muqing Xu</dc:creator><dc:creator>Lev Haldar Kendrick</dc:creator><dc:creator>Anant Kale</dc:creator><dc:creator>Youqi Gang</dc:creator><dc:creator>Geoffrey Ji</dc:creator><dc:creator>Richard T. Scalettar</dc:creator><dc:creator>Martin Lebrat</dc:creator><dc:creator>Markus Greiner</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07072-1</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-29; | doi:10.1038/s41586-024-07072-1</dc:source>
-            <dc:date>2024-01-29</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07072-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07072-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07053-4">
-            <title><![CDATA[A dynamical measure of the black hole mass in a quasar 11 billion years ago]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07053-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 29 January 2024; <a href="https://www.nature.com/articles/s41586-024-07053-4">doi:10.1038/s41586-024-07053-4</a></p>A dynamical measure of the black hole mass in a quasar 11 billion years ago]]></content:encoded>
-            <dc:title><![CDATA[A dynamical measure of the black hole mass in a quasar 11 billion years ago]]></dc:title>
-            <dc:creator>R. Abuter</dc:creator><dc:creator>F. Allouche</dc:creator><dc:creator>A. Amorim</dc:creator><dc:creator>C. Bailet</dc:creator><dc:creator>A. Berdeu</dc:creator><dc:creator>J.-P. Berger</dc:creator><dc:creator>P. Berio</dc:creator><dc:creator>A. Bigioli</dc:creator><dc:creator>O. Boebion</dc:creator><dc:creator>M.-L. Bolzer</dc:creator><dc:creator>H. Bonnet</dc:creator><dc:creator>G. Bourdarot</dc:creator><dc:creator>P. Bourget</dc:creator><dc:creator>W. Brandner</dc:creator><dc:creator>Y. Cao</dc:creator><dc:creator>R. Conzelmann</dc:creator><dc:creator>M. Comin</dc:creator><dc:creator>Y. Clénet</dc:creator><dc:creator>B. Courtney-Barrer</dc:creator><dc:creator>R. Davies</dc:creator><dc:creator>D. Defrère</dc:creator><dc:creator>A. Delboulbé</dc:creator><dc:creator>F. Delplancke-Ströbele</dc:creator><dc:creator>R. Dembet</dc:creator><dc:creator>J. Dexter</dc:creator><dc:creator>P. T. de Zeeuw</dc:creator><dc:creator>A. Drescher</dc:creator><dc:creator>A. Eckart</dc:creator><dc:creator>C. Édouard</dc:creator><dc:creator>F. Eisenhauer</dc:creator><dc:creator>M. Fabricius</dc:creator><dc:creator>H. Feuchtgruber</dc:creator><dc:creator>G. Finger</dc:creator><dc:creator>N. M. Förster Schreiber</dc:creator><dc:creator>P. Garcia</dc:creator><dc:creator>R. Garcia Lopez</dc:creator><dc:creator>F. Gao</dc:creator><dc:creator>E. Gendron</dc:creator><dc:creator>R. Genzel</dc:creator><dc:creator>J. P. Gil</dc:creator><dc:creator>S. Gillessen</dc:creator><dc:creator>T. Gomes</dc:creator><dc:creator>F. Gonté</dc:creator><dc:creator>C. Gouvret</dc:creator><dc:creator>P. Guajardo</dc:creator><dc:creator>S. Guieu</dc:creator><dc:creator>W. Hackenberg</dc:creator><dc:creator>N. Haddad</dc:creator><dc:creator>M. Hartl</dc:creator><dc:creator>X. Haubois</dc:creator><dc:creator>F. Haußmann</dc:creator><dc:creator>G. Heißel</dc:creator><dc:creator>T. Henning</dc:creator><dc:creator>S. Hippler</dc:creator><dc:creator>S. F. Hönig</dc:creator><dc:creator>M. Horrobin</dc:creator><dc:creator>N. Hubin</dc:creator><dc:creator>E. Jacqmart</dc:creator><dc:creator>L. Jocou</dc:creator><dc:creator>A. Kaufer</dc:creator><dc:creator>P. Kervella</dc:creator><dc:creator>J. Kolb</dc:creator><dc:creator>H. Korhonen</dc:creator><dc:creator>S. Lacour</dc:creator><dc:creator>S. Lagarde</dc:creator><dc:creator>O. Lai</dc:creator><dc:creator>V. Lapeyrère</dc:creator><dc:creator>R. Laugier</dc:creator><dc:creator>J.-B. Le Bouquin</dc:creator><dc:creator>J. Leftley</dc:creator><dc:creator>P. Léna</dc:creator><dc:creator>S. Lewis</dc:creator><dc:creator>D. Liu</dc:creator><dc:creator>B. Lopez</dc:creator><dc:creator>D. Lutz</dc:creator><dc:creator>Y. Magnard</dc:creator><dc:creator>F. Mang</dc:creator><dc:creator>A. Marcotto</dc:creator><dc:creator>D. Maurel</dc:creator><dc:creator>A. Mérand</dc:creator><dc:creator>F. Millour</dc:creator><dc:creator>N. More</dc:creator><dc:creator>H. Netzer</dc:creator><dc:creator>H. Nowacki</dc:creator><dc:creator>M. Nowak</dc:creator><dc:creator>S. Oberti</dc:creator><dc:creator>T. Ott</dc:creator><dc:creator>L. Pallanca</dc:creator><dc:creator>T. Paumard</dc:creator><dc:creator>K. Perraut</dc:creator><dc:creator>G. Perrin</dc:creator><dc:creator>R. Petrov</dc:creator><dc:creator>O. Pfuhl</dc:creator><dc:creator>N. Pourré</dc:creator><dc:creator>S. Rabien</dc:creator><dc:creator>C. Rau</dc:creator><dc:creator>M. Riquelme</dc:creator><dc:creator>S. Robbe-Dubois</dc:creator><dc:creator>S. Rochat</dc:creator><dc:creator>M. Salman</dc:creator><dc:creator>J. Sanchez-Bermudez</dc:creator><dc:creator>D. J. D. Santos</dc:creator><dc:creator>S. Scheithauer</dc:creator><dc:creator>M. Schöller</dc:creator><dc:creator>J. Schubert</dc:creator><dc:creator>N. Schuhler</dc:creator><dc:creator>J. Shangguan</dc:creator><dc:creator>P. Shchekaturov</dc:creator><dc:creator>T. T. Shimizu</dc:creator><dc:creator>A. Sevin</dc:creator><dc:creator>F. Soulez</dc:creator><dc:creator>A. Spang</dc:creator><dc:creator>E. Stadler</dc:creator><dc:creator>A. Sternberg</dc:creator><dc:creator>C. Straubmeier</dc:creator><dc:creator>E. Sturm</dc:creator><dc:creator>C. Sykes</dc:creator><dc:creator>L. J. Tacconi</dc:creator><dc:creator>K. R. W. Tristram</dc:creator><dc:creator>F. Vincent</dc:creator><dc:creator>S. von Fellenberg</dc:creator><dc:creator>S. Uysal</dc:creator><dc:creator>F. Widmann</dc:creator><dc:creator>E. Wieprecht</dc:creator><dc:creator>E. Wiezorrek</dc:creator><dc:creator>J. Woillez</dc:creator><dc:creator>G. Zins</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07053-4</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-29; | doi:10.1038/s41586-024-07053-4</dc:source>
-            <dc:date>2024-01-29</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07053-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07053-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00228-z">
-            <title><![CDATA[Bacterial prey turns the tables on predator]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00228-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 29 January 2024; <a href="https://www.nature.com/articles/d41586-024-00228-z">doi:10.1038/d41586-024-00228-z</a></p>A rare example of the reversal of a bacterial predator–prey relationship suggests that such species interactions are more complex than was realized.]]></content:encoded>
-            <dc:title><![CDATA[Bacterial prey turns the tables on predator]]></dc:title>
-            <dc:creator>Andrew Mitchinson</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00228-z</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-29; | doi:10.1038/d41586-024-00228-z</dc:source>
-            <dc:date>2024-01-29</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00228-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00228-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00179-5">
-            <title><![CDATA[Who needs qubits? Physicists make light-based ‘qumodes’ for quantum computing]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00179-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 29 January 2024; <a href="https://www.nature.com/articles/d41586-024-00179-5">doi:10.1038/d41586-024-00179-5</a></p>Careful retooling of laser beams allows scientists to harness photons for performing quantum calculations.]]></content:encoded>
-            <dc:title><![CDATA[Who needs qubits? Physicists make light-based ‘qumodes’ for quantum computing]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-00179-5</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-29; | doi:10.1038/d41586-024-00179-5</dc:source>
-            <dc:date>2024-01-29</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00179-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00179-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00243-0">
-            <title><![CDATA[Spreading paws-itivity]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00243-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 29 January 2024; <a href="https://www.nature.com/articles/d41586-024-00243-0">doi:10.1038/d41586-024-00243-0</a></p>Marguerite Nicodeme works with Snoopy the dog to bring moments of cheerful relief to people with cancer.]]></content:encoded>
-            <dc:title><![CDATA[Spreading paws-itivity]]></dc:title>
-            <dc:creator>Benjamin Plackett</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00243-0</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-29; | doi:10.1038/d41586-024-00243-0</dc:source>
-            <dc:date>2024-01-29</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00243-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00243-0</prism:url>
         </item>
     
 </rdf:RDF>
