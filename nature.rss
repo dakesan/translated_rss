@@ -26,6 +26,14 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00209-2"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00320-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04144-6"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00304-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00321-3"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07129-1"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00312-4"/>
@@ -160,14 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00282-7"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00273-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00239-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00241-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07104-w"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -235,6 +235,66 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00209-2</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00209-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00320-4">
+            <title><![CDATA[Israel is flooding Gaza’s tunnel network: scientists assess the risks]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00320-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 02 February 2024; <a href="https://www.nature.com/articles/d41586-024-00320-4">doi:10.1038/d41586-024-00320-4</a></p>The plan to target Hamas involves filling parts of a 500-kilometre-long network of underground tunnels. Researchers warn this could affect Gaza’s water supplies.]]></content:encoded>
+            <dc:title><![CDATA[Israel is flooding Gaza’s tunnel network: scientists assess the risks]]></dc:title>
+            <dc:creator>Josie Glausiusz</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00320-4</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-02; | doi:10.1038/d41586-024-00320-4</dc:source>
+            <dc:date>2024-02-02</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00320-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00320-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-04144-6">
+            <title><![CDATA[Crackdown on skin colour bias by fingertip oxygen sensors is coming, hints FDA]]></title>
+            <link>https://www.nature.com/articles/d41586-023-04144-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 02 February 2024; <a href="https://www.nature.com/articles/d41586-023-04144-6">doi:10.1038/d41586-023-04144-6</a></p>Devices can overestimate oxygen levels of people with dark skin — leading to less or delayed medical care.]]></content:encoded>
+            <dc:title><![CDATA[Crackdown on skin colour bias by fingertip oxygen sensors is coming, hints FDA]]></dc:title>
+            <dc:creator>Max Kozlov</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-023-04144-6</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-02; | doi:10.1038/d41586-023-04144-6</dc:source>
+            <dc:date>2024-02-02</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-04144-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-04144-6</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00304-4">
+            <title><![CDATA[Elon Musk’s Neuralink brain chip: what scientists think of first human trial]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00304-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 02 February 2024; <a href="https://www.nature.com/articles/d41586-024-00304-4">doi:10.1038/d41586-024-00304-4</a></p>Some researchers are concerned about a lack of transparency surrounding the implant, which aims to allow people to control devices through thought alone.]]></content:encoded>
+            <dc:title><![CDATA[Elon Musk’s Neuralink brain chip: what scientists think of first human trial]]></dc:title>
+            <dc:creator>Liam Drew</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00304-4</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-02; | doi:10.1038/d41586-024-00304-4</dc:source>
+            <dc:date>2024-02-02</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00304-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00304-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00321-3">
+            <title><![CDATA[Building used by Marie Curie will be dismantled to erect cancer centre]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00321-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 02 February 2024; <a href="https://www.nature.com/articles/d41586-024-00321-3">doi:10.1038/d41586-024-00321-3</a></p>The disused and formerly radioactive Pavillon des Sources in Paris will be rebuilt nearby, following an agreement between scientists and the French culture ministry.]]></content:encoded>
+            <dc:title><![CDATA[Building used by Marie Curie will be dismantled to erect cancer centre]]></dc:title>
+            <dc:creator>Nisha Gaind</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00321-3</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-02; | doi:10.1038/d41586-024-00321-3</dc:source>
+            <dc:date>2024-02-02</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00321-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00321-3</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07129-1">
@@ -1240,66 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00282-7</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00282-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00273-8">
-            <title><![CDATA[How to make academic hiring fair: database lists innovative policies]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00273-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 30 January 2024; <a href="https://www.nature.com/articles/d41586-024-00273-8">doi:10.1038/d41586-024-00273-8</a></p>Reformscape is designed to inspire university leaders by collecting examples of responsible career assessment.]]></content:encoded>
-            <dc:title><![CDATA[How to make academic hiring fair: database lists innovative policies]]></dc:title>
-            <dc:creator>Brian Owens</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00273-8</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-30; | doi:10.1038/d41586-024-00273-8</dc:source>
-            <dc:date>2024-01-30</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00273-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00273-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00239-w">
-            <title><![CDATA[Academia needs radical change — mothers are ready to pave the way]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00239-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 30 January 2024; <a href="https://www.nature.com/articles/d41586-024-00239-w">doi:10.1038/d41586-024-00239-w</a></p>The research system must lose its overly rigid attitude towards career progression — and mothers are uniting to make that happen.]]></content:encoded>
-            <dc:title><![CDATA[Academia needs radical change — mothers are ready to pave the way]]></dc:title>
-            <dc:creator>Fernanda Staniscuaski</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00239-w</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-30; | doi:10.1038/d41586-024-00239-w</dc:source>
-            <dc:date>2024-01-30</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00239-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00239-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00241-2">
-            <title><![CDATA[Cervical cancer kills 300,000 people a year — here’s how to speed up its elimination]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00241-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 30 January 2024; <a href="https://www.nature.com/articles/d41586-024-00241-2">doi:10.1038/d41586-024-00241-2</a></p>Without rapid change, the World Health Organization’s goals for tackling cervical cancer by 2030 will be missed. Four experts share ways to move the needle.]]></content:encoded>
-            <dc:title><![CDATA[Cervical cancer kills 300,000 people a year — here’s how to speed up its elimination]]></dc:title>
-            <dc:creator>Lynette Denny</dc:creator><dc:creator>Ishu Kataria</dc:creator><dc:creator>Lisa Huang</dc:creator><dc:creator>Kathleen M. Schmeler</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00241-2</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-30; | doi:10.1038/d41586-024-00241-2</dc:source>
-            <dc:date>2024-01-30</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00241-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00241-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07104-w">
-            <title><![CDATA[Author Correction: Y chromosome loss in cancer drives growth by evasion of adaptive immunity]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07104-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 29 January 2024; <a href="https://www.nature.com/articles/s41586-024-07104-w">doi:10.1038/s41586-024-07104-w</a></p>Author Correction: Y chromosome loss in cancer drives growth by evasion of adaptive immunity]]></content:encoded>
-            <dc:title><![CDATA[Author Correction: Y chromosome loss in cancer drives growth by evasion of adaptive immunity]]></dc:title>
-            <dc:creator>Hany A. Abdel-Hafiz</dc:creator><dc:creator>Johanna M. Schafer</dc:creator><dc:creator>Xingyu Chen</dc:creator><dc:creator>Tong Xiao</dc:creator><dc:creator>Timothy D. Gauntner</dc:creator><dc:creator>Zihai Li</dc:creator><dc:creator>Dan Theodorescu</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07104-w</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-29; | doi:10.1038/s41586-024-07104-w</dc:source>
-            <dc:date>2024-01-29</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07104-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07104-w</prism:url>
         </item>
     
 </rdf:RDF>
