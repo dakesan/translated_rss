@@ -18,6 +18,8 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00302-6"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07123-7"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00246-x"/>
@@ -166,8 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00077-w"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00282-7"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,21 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00302-6">
+            <title><![CDATA[Cervical cancer could be eliminated: here’s how]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00302-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 04 February 2024; <a href="https://www.nature.com/articles/d41586-024-00302-6">doi:10.1038/d41586-024-00302-6</a></p>Two experts lay out the steps that need to be taken, and the challenges facing low- and middle-income countries.]]></content:encoded>
+            <dc:title><![CDATA[Cervical cancer could be eliminated: here’s how]]></dc:title>
+            <dc:creator>Nick Petrić Howe</dc:creator><dc:creator>Jennifer Gardiner</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00302-6</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-04; | doi:10.1038/d41586-024-00302-6</dc:source>
+            <dc:date>2024-02-04</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00302-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00302-6</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07123-7">
             <title><![CDATA[Author Correction: Satellite mapping reveals extensive industrial activity at sea]]></title>
@@ -1285,21 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00077-w</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00077-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00282-7">
-            <title><![CDATA[Daily briefing: New evidence supports controversial hypothesis of ‘transmissible’ Alzheimer’s]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00282-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 30 January 2024; <a href="https://www.nature.com/articles/d41586-024-00282-7">doi:10.1038/d41586-024-00282-7</a></p>A small study seems to suggest that proteins related to the neurodegenerative disease can be transferred from person to person through surgical procedures. Plus, Japan’s Moon lander makes a comeback and ‘wildly weird’ scraps of genetic material discovered in gut microbes.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: New evidence supports controversial hypothesis of ‘transmissible’ Alzheimer’s]]></dc:title>
-            <dc:creator>Katrina Krämer</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00282-7</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-30; | doi:10.1038/d41586-024-00282-7</dc:source>
-            <dc:date>2024-01-30</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00282-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00282-7</prism:url>
         </item>
     
 </rdf:RDF>
