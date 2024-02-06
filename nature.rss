@@ -18,6 +18,18 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00298-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00300-8"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00299-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00301-7"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00326-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00329-9"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00247-w"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00245-y"/>
@@ -39,6 +51,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00346-8"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00349-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00356-6"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00328-w"/>
                 
@@ -154,20 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00073-0"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00238-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00240-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00080-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00269-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00078-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00076-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00279-2"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,96 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00298-z">
+            <title><![CDATA[Best practice for LGBTQ+ data collection by STEM organizations]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00298-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 February 2024; <a href="https://www.nature.com/articles/d41586-024-00298-z">doi:10.1038/d41586-024-00298-z</a></p>Best practice for LGBTQ+ data collection by STEM organizations]]></content:encoded>
+            <dc:title><![CDATA[Best practice for LGBTQ+ data collection by STEM organizations]]></dc:title>
+            <dc:creator>Alexander L. Bond</dc:creator><dc:creator>Tyler L. Kelly</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00298-z</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-06; | doi:10.1038/d41586-024-00298-z</dc:source>
+            <dc:date>2024-02-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00298-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00298-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00300-8">
+            <title><![CDATA[Urban trees: how to maximize their benefits for humans and the environment]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00300-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 February 2024; <a href="https://www.nature.com/articles/d41586-024-00300-8">doi:10.1038/d41586-024-00300-8</a></p>Urban trees: how to maximize their benefits for humans and the environment]]></content:encoded>
+            <dc:title><![CDATA[Urban trees: how to maximize their benefits for humans and the environment]]></dc:title>
+            <dc:creator>Lina Tang</dc:creator><dc:creator>Guofan Shao</dc:creator><dc:creator>Peter M. Groffman</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00300-8</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-06; | doi:10.1038/d41586-024-00300-8</dc:source>
+            <dc:date>2024-02-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00300-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00300-8</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00299-y">
+            <title><![CDATA[‘Bee protection’ offsets are as flawed as tree-planting schemes]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00299-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 February 2024; <a href="https://www.nature.com/articles/d41586-024-00299-y">doi:10.1038/d41586-024-00299-y</a></p>‘Bee protection’ offsets are as flawed as tree-planting schemes]]></content:encoded>
+            <dc:title><![CDATA[‘Bee protection’ offsets are as flawed as tree-planting schemes]]></dc:title>
+            <dc:creator>Ainhoa Magrach</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00299-y</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-06; | doi:10.1038/d41586-024-00299-y</dc:source>
+            <dc:date>2024-02-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00299-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00299-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00301-7">
+            <title><![CDATA[Clinical trials: Japan’s opt-out policy raises risks of adverse drug responses]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00301-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 February 2024; <a href="https://www.nature.com/articles/d41586-024-00301-7">doi:10.1038/d41586-024-00301-7</a></p>Clinical trials: Japan’s opt-out policy raises risks of adverse drug responses]]></content:encoded>
+            <dc:title><![CDATA[Clinical trials: Japan’s opt-out policy raises risks of adverse drug responses]]></dc:title>
+            <dc:creator>Mira Namba</dc:creator><dc:creator>Yudai Kaneda</dc:creator><dc:creator>Akihiko Ozaki</dc:creator><dc:creator>Tetsuya Tanimoto</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00301-7</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-06; | doi:10.1038/d41586-024-00301-7</dc:source>
+            <dc:date>2024-02-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00301-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00301-7</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00326-y">
+            <title><![CDATA[Santorini’s volcanic past: underwater clues reveal giant prehistoric eruption]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00326-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 February 2024; <a href="https://www.nature.com/articles/d41586-024-00326-y">doi:10.1038/d41586-024-00326-y</a></p>An expedition that drilled into the sea floor near the famous Greek island found signs of a gargantuan blast 520,000 years ago and more recent eruptions.]]></content:encoded>
+            <dc:title><![CDATA[Santorini’s volcanic past: underwater clues reveal giant prehistoric eruption]]></dc:title>
+            <dc:creator>Alexandra Witze</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00326-y</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-06; | doi:10.1038/d41586-024-00326-y</dc:source>
+            <dc:date>2024-02-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00326-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00326-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00329-9">
+            <title><![CDATA[No ‘easy’ weight loss: don’t overlook the social cost of anti-obesity drugs]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00329-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 February 2024; <a href="https://www.nature.com/articles/d41586-024-00329-9">doi:10.1038/d41586-024-00329-9</a></p>Ideas of diet and exercise as the ‘best’ way to lose weight could stigmatize people taking Ozempic, WeGovy and other blockbuster drugs that affect appetite. Lessons from weight-loss surgery reveal ways to help.]]></content:encoded>
+            <dc:title><![CDATA[No ‘easy’ weight loss: don’t overlook the social cost of anti-obesity drugs]]></dc:title>
+            <dc:creator>Alexandra Brewis</dc:creator><dc:creator>Sarah Trainer</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00329-9</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-06; | doi:10.1038/d41586-024-00329-9</dc:source>
+            <dc:date>2024-02-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00329-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00329-9</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00247-w">
             <title><![CDATA[Ivory artefacts’ origins revealed by telltale peptides]]></title>
@@ -340,6 +430,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00349-5</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00349-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00356-6">
+            <title><![CDATA[Daily briefing: ‘Feynman’s sprinkler’ spin mystery solved]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00356-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 05 February 2024; <a href="https://www.nature.com/articles/d41586-024-00356-6">doi:10.1038/d41586-024-00356-6</a></p>If an S-shaped sprinkler sucks instead of sprays, which way does it spin? Plus, the month’s best science images and what scientists think of the Neuralink human trial.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: ‘Feynman’s sprinkler’ spin mystery solved]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00356-6</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-05; | doi:10.1038/d41586-024-00356-6</dc:source>
+            <dc:date>2024-02-05</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00356-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00356-6</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00328-w">
@@ -1195,111 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00073-0</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00073-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00238-x">
-            <title><![CDATA[How can scientists make the most of the public’s trust in them?]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00238-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 31 January 2024; <a href="https://www.nature.com/articles/d41586-024-00238-x">doi:10.1038/d41586-024-00238-x</a></p>Researchers have a part to play in addressing concerns about government interference in science.]]></content:encoded>
-            <dc:title><![CDATA[How can scientists make the most of the public’s trust in them?]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-00238-x</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-31; | doi:10.1038/d41586-024-00238-x</dc:source>
-            <dc:date>2024-01-31</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00238-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00238-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00240-3">
-            <title><![CDATA[How cancer hijacks the nervous system to grow and spread]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00240-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 31 January 2024; <a href="https://www.nature.com/articles/d41586-024-00240-3">doi:10.1038/d41586-024-00240-3</a></p>A new wave of research is unpicking the relationship between cancer and neurons — and looking for ways to stop the crosstalk.]]></content:encoded>
-            <dc:title><![CDATA[How cancer hijacks the nervous system to grow and spread]]></dc:title>
-            <dc:creator>McKenzie Prillaman</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00240-3</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-31; | doi:10.1038/d41586-024-00240-3</dc:source>
-            <dc:date>2024-01-31</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00240-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00240-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00080-1">
-            <title><![CDATA[Natural inhibitor found for cell death by ferroptosis]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00080-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 31 January 2024; <a href="https://www.nature.com/articles/d41586-024-00080-1">doi:10.1038/d41586-024-00080-1</a></p>The discovery that an evolutionarily conserved molecule used to make cholesterol also acts as a defence against a cell-death mechanism called ferroptosis might lead to new ways to treat cancer and other clinical conditions.]]></content:encoded>
-            <dc:title><![CDATA[Natural inhibitor found for cell death by ferroptosis]]></dc:title>
-            <dc:creator>Donna D. Zhang</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00080-1</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-31; | doi:10.1038/d41586-024-00080-1</dc:source>
-            <dc:date>2024-01-31</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00080-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00080-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00269-4">
-            <title><![CDATA[From a pocketful of rocks to scientific director of palaeontological research]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00269-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 31 January 2024; <a href="https://www.nature.com/articles/d41586-024-00269-4">doi:10.1038/d41586-024-00269-4</a></p>PhD candidate Dirley Cortés says that it takes grit and guts to navigate the challenges of being a Latin American woman in palaeontology.]]></content:encoded>
-            <dc:title><![CDATA[From a pocketful of rocks to scientific director of palaeontological research]]></dc:title>
-            <dc:creator>Efrain Rincon</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00269-4</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-31; | doi:10.1038/d41586-024-00269-4</dc:source>
-            <dc:date>2024-01-31</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00269-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00269-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00078-9">
-            <title><![CDATA[How speech is produced and perceived in the human cortex]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00078-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 31 January 2024; <a href="https://www.nature.com/articles/d41586-024-00078-9">doi:10.1038/d41586-024-00078-9</a></p>A neural probe has been used to capture the activity of large populations of single neurons as people are speaking or listening, providing detailed insights into how the brain encodes specific features of speech.]]></content:encoded>
-            <dc:title><![CDATA[How speech is produced and perceived in the human cortex]]></dc:title>
-            <dc:creator>Yves Boubenec</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00078-9</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-31; | doi:10.1038/d41586-024-00078-9</dc:source>
-            <dc:date>2024-01-31</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00078-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00078-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00076-x">
-            <title><![CDATA[Flexible fibres take fabrics into the information age]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00076-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 31 January 2024; <a href="https://www.nature.com/articles/d41586-024-00076-x">doi:10.1038/d41586-024-00076-x</a></p>A technique for embedding fibres with semiconductor devices produces defect-free strands that are hundreds of metres long. Garments woven with these threads offer a tantalizing glimpse of the wearable electronics of the future.]]></content:encoded>
-            <dc:title><![CDATA[Flexible fibres take fabrics into the information age]]></dc:title>
-            <dc:creator>Xiaoting Jia</dc:creator><dc:creator>Alex Parrott</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00076-x</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-31; | doi:10.1038/d41586-024-00076-x</dc:source>
-            <dc:date>2024-01-31</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00076-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00076-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00279-2">
-            <title><![CDATA[Brazil’s deforestation ‘police’ on strike — threatening climate goals]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00279-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 31 January 2024; <a href="https://www.nature.com/articles/d41586-024-00279-2">doi:10.1038/d41586-024-00279-2</a></p>Environmental workers in the government have stopped field operations, and might halt work altogether.]]></content:encoded>
-            <dc:title><![CDATA[Brazil’s deforestation ‘police’ on strike — threatening climate goals]]></dc:title>
-            <dc:creator>Meghie Rodrigues</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00279-2</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-31; | doi:10.1038/d41586-024-00279-2</dc:source>
-            <dc:date>2024-01-31</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00279-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00279-2</prism:url>
         </item>
     
 </rdf:RDF>
