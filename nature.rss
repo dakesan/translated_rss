@@ -22,13 +22,35 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00300-8"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00235-0"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00299-y"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00301-7"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00319-x"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00326-y"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00361-9"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00324-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00277-4"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00329-9"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00322-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00360-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00353-9"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00276-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00264-9"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00347-7"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00247-w"/>
                 
@@ -61,6 +83,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07123-7"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00246-x"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00317-z"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00278-3"/>
                 
@@ -144,30 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06939-z"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00274-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00253-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00079-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00265-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00072-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00041-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00216-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00270-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00294-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00226-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04132-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00073-0"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -207,6 +207,21 @@
             <prism:url>https://www.nature.com/articles/d41586-024-00300-8</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00235-0">
+            <title><![CDATA[From the archive: lonely cells, and Thomas Henry Huxley backs evolution]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00235-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 February 2024; <a href="https://www.nature.com/articles/d41586-024-00235-0">doi:10.1038/d41586-024-00235-0</a></p>Snippets from Nature’s past.]]></content:encoded>
+            <dc:title><![CDATA[From the archive: lonely cells, and Thomas Henry Huxley backs evolution]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-00235-0</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-06; | doi:10.1038/d41586-024-00235-0</dc:source>
+            <dc:date>2024-02-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00235-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00235-0</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-024-00299-y">
             <title><![CDATA[‘Bee protection’ offsets are as flawed as tree-planting schemes]]></title>
             <link>https://www.nature.com/articles/d41586-024-00299-y</link>
@@ -237,6 +252,21 @@
             <prism:url>https://www.nature.com/articles/d41586-024-00301-7</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00319-x">
+            <title><![CDATA[‘Altruistic’ bull elephant seal lends a helping flipper]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00319-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 February 2024; <a href="https://www.nature.com/articles/d41586-024-00319-x">doi:10.1038/d41586-024-00319-x</a></p>Male elephant seals generally have nothing to do with pups — but astounded scientists observed a notable exception.]]></content:encoded>
+            <dc:title><![CDATA[‘Altruistic’ bull elephant seal lends a helping flipper]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-00319-x</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-06; | doi:10.1038/d41586-024-00319-x</dc:source>
+            <dc:date>2024-02-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00319-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00319-x</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-024-00326-y">
             <title><![CDATA[Santorini’s volcanic past: underwater clues reveal giant prehistoric eruption]]></title>
             <link>https://www.nature.com/articles/d41586-024-00326-y</link>
@@ -252,6 +282,51 @@
             <prism:url>https://www.nature.com/articles/d41586-024-00326-y</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00361-9">
+            <title><![CDATA[EU unveils controversial climate target: what scientists think]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00361-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 February 2024; <a href="https://www.nature.com/articles/d41586-024-00361-9">doi:10.1038/d41586-024-00361-9</a></p>The goal leans heavily on the largely unproven approach of carbon removal, concerning researchers.]]></content:encoded>
+            <dc:title><![CDATA[EU unveils controversial climate target: what scientists think]]></dc:title>
+            <dc:creator>Katharine  Sanderson</dc:creator><dc:creator>Carissa Wong</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00361-9</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-06; | doi:10.1038/d41586-024-00361-9</dc:source>
+            <dc:date>2024-02-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00361-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00361-9</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00324-0">
+            <title><![CDATA[Why the mental cost of a STEM career can be too high for women and people of colour]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00324-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 February 2024; <a href="https://www.nature.com/articles/d41586-024-00324-0">doi:10.1038/d41586-024-00324-0</a></p>Under-represented groups face chronic barriers, creating psychological — and physical — effects. The scientific community must ease this burden.]]></content:encoded>
+            <dc:title><![CDATA[Why the mental cost of a STEM career can be too high for women and people of colour]]></dc:title>
+            <dc:creator>Jean King</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00324-0</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-06; | doi:10.1038/d41586-024-00324-0</dc:source>
+            <dc:date>2024-02-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00324-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00324-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00277-4">
+            <title><![CDATA[Active fluids navigate networks by solving sudoku-like problems]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00277-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 February 2024; <a href="https://www.nature.com/articles/d41586-024-00277-4">doi:10.1038/d41586-024-00277-4</a></p>Networks filled with self-propelled fluids display meandering patterns that have been shown to follow rules similar to those of sudoku puzzles — offering design principles for microfluidic devices, and the possibility of ‘active fluid’ logic.]]></content:encoded>
+            <dc:title><![CDATA[Active fluids navigate networks by solving sudoku-like problems]]></dc:title>
+            <dc:creator>Mathieu Le Verge-Serandour</dc:creator><dc:creator>Karen Alim</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00277-4</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-06; | doi:10.1038/d41586-024-00277-4</dc:source>
+            <dc:date>2024-02-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00277-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00277-4</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-024-00329-9">
             <title><![CDATA[No ‘easy’ weight loss: don’t overlook the social cost of anti-obesity drugs]]></title>
             <link>https://www.nature.com/articles/d41586-024-00329-9</link>
@@ -265,6 +340,96 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00329-9</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00329-9</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00322-2">
+            <title><![CDATA[Open science — embrace it before it’s too late]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00322-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 February 2024; <a href="https://www.nature.com/articles/d41586-024-00322-2">doi:10.1038/d41586-024-00322-2</a></p>A UNESCO report laments the lack of progress in making science more collaborative. Greater awareness could aid efforts to achieve the UN’s Sustainable Development Goals.]]></content:encoded>
+            <dc:title><![CDATA[Open science — embrace it before it’s too late]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-00322-2</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-06; | doi:10.1038/d41586-024-00322-2</dc:source>
+            <dc:date>2024-02-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00322-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00322-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00360-w">
+            <title><![CDATA[Economists count the cost of ‘risky’ science]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00360-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 February 2024; <a href="https://www.nature.com/articles/d41586-024-00360-w">doi:10.1038/d41586-024-00360-w</a></p>A survey seeks to define risk in research and how academics approach it in their work.]]></content:encoded>
+            <dc:title><![CDATA[Economists count the cost of ‘risky’ science]]></dc:title>
+            <dc:creator>Chris Woolston</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00360-w</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-06; | doi:10.1038/d41586-024-00360-w</dc:source>
+            <dc:date>2024-02-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00360-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00360-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00353-9">
+            <title><![CDATA[CERN’s supercollider plan: $17-billion ‘Higgs factory’ would dwarf LHC]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00353-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 February 2024; <a href="https://www.nature.com/articles/d41586-024-00353-9">doi:10.1038/d41586-024-00353-9</a></p>A feasibility study on the Future Circular Collider identifies where and how the machine could be built — but its construction is far from a done deal.]]></content:encoded>
+            <dc:title><![CDATA[CERN’s supercollider plan: $17-billion ‘Higgs factory’ would dwarf LHC]]></dc:title>
+            <dc:creator>Elizabeth Gibney</dc:creator><dc:creator>Davide Castelvecchi</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00353-9</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-06; | doi:10.1038/d41586-024-00353-9</dc:source>
+            <dc:date>2024-02-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00353-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00353-9</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00276-5">
+            <title><![CDATA[How population size shapes the evolution of guppy fish]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00276-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 February 2024; <a href="https://www.nature.com/articles/d41586-024-00276-5">doi:10.1038/d41586-024-00276-5</a></p>A long-term fish experiment reveals how a mechanism called density dependence, in which the population growth rate slows as the number of individuals rises, affects population dynamics on time scales relevant for ecology and evolution.]]></content:encoded>
+            <dc:title><![CDATA[How population size shapes the evolution of guppy fish]]></dc:title>
+            <dc:creator>Bernt-Erik Sæther</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00276-5</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-06; | doi:10.1038/d41586-024-00276-5</dc:source>
+            <dc:date>2024-02-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00276-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00276-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00264-9">
+            <title><![CDATA[Absence of female partners can explain the dawn chorus of birds]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00264-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 February 2024; <a href="https://www.nature.com/articles/d41586-024-00264-9">doi:10.1038/d41586-024-00264-9</a></p>Why birds sing intensely in a dawn chorus during the early morning has long been debated. Evidence gathered from observing birds in the wild offers a fresh perspective on what might drive this phenomenon.]]></content:encoded>
+            <dc:title><![CDATA[Absence of female partners can explain the dawn chorus of birds]]></dc:title>
+            <dc:creator>Diego Gil</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00264-9</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-06; | doi:10.1038/d41586-024-00264-9</dc:source>
+            <dc:date>2024-02-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00264-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00264-9</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00347-7">
+            <title><![CDATA[AI chatbot shows surprising talent for predicting chemical properties and reactions]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00347-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 February 2024; <a href="https://www.nature.com/articles/d41586-024-00347-7">doi:10.1038/d41586-024-00347-7</a></p>Researchers lightly tweak ChatGPT-like system to offer chemistry insight.]]></content:encoded>
+            <dc:title><![CDATA[AI chatbot shows surprising talent for predicting chemical properties and reactions]]></dc:title>
+            <dc:creator>Davide Castelvecchi</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00347-7</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-06; | doi:10.1038/d41586-024-00347-7</dc:source>
+            <dc:date>2024-02-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00347-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00347-7</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00247-w">
@@ -505,6 +670,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00246-x</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00246-x</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00317-z">
+            <title><![CDATA[An ancient tree’s oddball shape is revealed by an extraordinary fossil]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00317-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 02 February 2024; <a href="https://www.nature.com/articles/d41586-024-00317-z">doi:10.1038/d41586-024-00317-z</a></p>Many fossilized trees consist of only the trunk, but a specimen from Canada includes most of the crown of leaves.]]></content:encoded>
+            <dc:title><![CDATA[An ancient tree’s oddball shape is revealed by an extraordinary fossil]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-00317-z</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-02; | doi:10.1038/d41586-024-00317-z</dc:source>
+            <dc:date>2024-02-02</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00317-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00317-z</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00278-3">
@@ -1120,186 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/s41586-023-06939-z</prism:doi>
             <prism:url>https://www.nature.com/articles/s41586-023-06939-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00274-7">
-            <title><![CDATA[Deepfakes, trolls and cybertroopers: how social media could sway elections in 2024]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00274-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 31 January 2024; <a href="https://www.nature.com/articles/d41586-024-00274-7">doi:10.1038/d41586-024-00274-7</a></p>Faced with data restrictions and harassment, researchers are mapping out fresh approaches to studying social media’s political reach.]]></content:encoded>
-            <dc:title><![CDATA[Deepfakes, trolls and cybertroopers: how social media could sway elections in 2024]]></dc:title>
-            <dc:creator>Heidi Ledford</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00274-7</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-31; | doi:10.1038/d41586-024-00274-7</dc:source>
-            <dc:date>2024-01-31</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00274-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00274-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00253-y">
-            <title><![CDATA[Mysterious exploding star and more — January’s best science images]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00253-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 31 January 2024; <a href="https://www.nature.com/articles/d41586-024-00253-y">doi:10.1038/d41586-024-00253-y</a></p>The month’s sharpest science shots, selected by Nature’s photo team.]]></content:encoded>
-            <dc:title><![CDATA[Mysterious exploding star and more — January’s best science images]]></dc:title>
-            <dc:creator>Emma Stoye</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00253-y</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-31; | doi:10.1038/d41586-024-00253-y</dc:source>
-            <dc:date>2024-01-31</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00253-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00253-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00079-8">
-            <title><![CDATA[An early look at birth cohort genetics in China]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00079-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 31 January 2024; <a href="https://www.nature.com/articles/d41586-024-00079-8">doi:10.1038/d41586-024-00079-8</a></p>Genetic sequencing data from more than 4,000 Chinese participants in the Born in Guangzhou Cohort Study provide insights into the population, and a snapshot of what is to come in future phases of the project.]]></content:encoded>
-            <dc:title><![CDATA[An early look at birth cohort genetics in China]]></dc:title>
-            <dc:creator>Nicholas John Timpson</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00079-8</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-31; | doi:10.1038/d41586-024-00079-8</dc:source>
-            <dc:date>2024-01-31</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00079-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00079-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00265-8">
-            <title><![CDATA[Measles outbreaks cause alarm: what the data say]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00265-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 31 January 2024; <a href="https://www.nature.com/articles/d41586-024-00265-8">doi:10.1038/d41586-024-00265-8</a></p>A drastic rise in infections in the United Kingdom and Europe follows a drop in vaccine uptake.]]></content:encoded>
-            <dc:title><![CDATA[Measles outbreaks cause alarm: what the data say]]></dc:title>
-            <dc:creator>Carissa Wong</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00265-8</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-31; | doi:10.1038/d41586-024-00265-8</dc:source>
-            <dc:date>2024-01-31</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00265-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00265-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00072-1">
-            <title><![CDATA[Stone tools in northern Europe made by <i>Homo sapiens</i> 45,000 years ago]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00072-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 31 January 2024; <a href="https://www.nature.com/articles/d41586-024-00072-1">doi:10.1038/d41586-024-00072-1</a></p>DNA analyses of skeletal fragments from a site in Germany provide evidence that humans, rather than Neanderthals, were responsible for a particular stone-tool industry called the Lincombian–Ranisian–Jerzmanowician.]]></content:encoded>
-            <dc:title><![CDATA[Stone tools in northern Europe made by <i>Homo sapiens</i> 45,000 years ago]]></dc:title>
-            <dc:creator>William E. Banks</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00072-1</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-31; | doi:10.1038/d41586-024-00072-1</dc:source>
-            <dc:date>2024-01-31</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00072-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00072-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00041-8">
-            <title><![CDATA[Unravelling how plant cells divide and differ]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00041-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 31 January 2024; <a href="https://www.nature.com/articles/d41586-024-00041-8">doi:10.1038/d41586-024-00041-8</a></p>In a multicellular organism, normal growth requires control of cell division to generate cells that are similar to or different from their parents. Analysis of this process in plant roots reveals how this mechanism is regulated.]]></content:encoded>
-            <dc:title><![CDATA[Unravelling how plant cells divide and differ]]></dc:title>
-            <dc:creator>Ikram Blilou</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00041-8</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-31; | doi:10.1038/d41586-024-00041-8</dc:source>
-            <dc:date>2024-01-31</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00041-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00041-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00216-3">
-            <title><![CDATA[Forget lung, breast or prostate cancer: why tumour naming needs to change]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00216-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 31 January 2024; <a href="https://www.nature.com/articles/d41586-024-00216-3">doi:10.1038/d41586-024-00216-3</a></p>The conventional way of classifying metastatic cancers according to their organ of origin is denying people access to drugs that could help them.]]></content:encoded>
-            <dc:title><![CDATA[Forget lung, breast or prostate cancer: why tumour naming needs to change]]></dc:title>
-            <dc:creator>Fabrice André</dc:creator><dc:creator>Elie Rassy</dc:creator><dc:creator>Aurélien Marabelle</dc:creator><dc:creator>Stefan Michiels</dc:creator><dc:creator>Benjamin Besse</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00216-3</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-31; | doi:10.1038/d41586-024-00216-3</dc:source>
-            <dc:date>2024-01-31</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00216-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00216-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00270-x">
-            <title><![CDATA[New genetic variants found in large Chinese mother–baby study]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00270-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 31 January 2024; <a href="https://www.nature.com/articles/d41586-024-00270-x">doi:10.1038/d41586-024-00270-x</a></p>The study is one of the first in Asia to examine links between the genomes of mothers, babies and their health.]]></content:encoded>
-            <dc:title><![CDATA[New genetic variants found in large Chinese mother–baby study]]></dc:title>
-            <dc:creator>Smriti Mallapaty</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00270-x</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-31; | doi:10.1038/d41586-024-00270-x</dc:source>
-            <dc:date>2024-01-31</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00270-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00270-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00294-3">
-            <title><![CDATA[Daily briefing: Why moths are really drawn to light]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00294-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 31 January 2024; <a href="https://www.nature.com/articles/d41586-024-00294-3">doi:10.1038/d41586-024-00294-3</a></p>Nocturnal insects’ instinct to keep their back to the light makes them appear attracted to lamps. Plus, the emerging field of cancer neuroscience and the cognitive benefits of playing an instrument.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: Why moths are really drawn to light]]></dc:title>
-            <dc:creator>Flora Graham</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00294-3</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-31; | doi:10.1038/d41586-024-00294-3</dc:source>
-            <dc:date>2024-01-31</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00294-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00294-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00226-1">
-            <title><![CDATA[Missense, nosense and nonsense]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00226-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 31 January 2024; <a href="https://www.nature.com/articles/d41586-024-00226-1">doi:10.1038/d41586-024-00226-1</a></p>A literary mystery.]]></content:encoded>
-            <dc:title><![CDATA[Missense, nosense and nonsense]]></dc:title>
-            <dc:creator>David Mathew</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00226-1</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-31; | doi:10.1038/d41586-024-00226-1</dc:source>
-            <dc:date>2024-01-31</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00226-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00226-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-04132-w">
-            <title><![CDATA[Bendy silicon solar cells pack a powerful punch]]></title>
-            <link>https://www.nature.com/articles/d41586-023-04132-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 31 January 2024; <a href="https://www.nature.com/articles/d41586-023-04132-w">doi:10.1038/d41586-023-04132-w</a></p>Crystalline silicon solar cells have been brittle, heavy and fragile until now. Highly flexible versions with high power-to-weight ratios and power conversion efficiencies of 26.06–26.81% were produced by improving manufacturing and design technologies and by using thin wafer substrates.]]></content:encoded>
-            <dc:title><![CDATA[Bendy silicon solar cells pack a powerful punch]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-04132-w</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-31; | doi:10.1038/d41586-023-04132-w</dc:source>
-            <dc:date>2024-01-31</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-04132-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-04132-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00073-0">
-            <title><![CDATA[Ecosystem effects of sea otters limit coastal erosion]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00073-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 31 January 2024; <a href="https://www.nature.com/articles/d41586-024-00073-0">doi:10.1038/d41586-024-00073-0</a></p>Conservation is bringing back certain predators that are high in the food chain, but how this affects an ecosystem overall is debated. Rigorous fieldwork provides strong evidence that sea otters help to mitigate coastal erosion.]]></content:encoded>
-            <dc:title><![CDATA[Ecosystem effects of sea otters limit coastal erosion]]></dc:title>
-            <dc:creator>Johan S. Eklöf</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00073-0</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-31; | doi:10.1038/d41586-024-00073-0</dc:source>
-            <dc:date>2024-01-31</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00073-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00073-0</prism:url>
         </item>
     
 </rdf:RDF>
