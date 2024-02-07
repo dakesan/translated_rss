@@ -18,6 +18,10 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00325-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00323-1"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00298-z"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00300-8"/>
@@ -46,11 +50,15 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00353-9"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00375-3"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00276-5"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00264-9"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00347-7"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00366-4"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00247-w"/>
                 
@@ -160,14 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06948-y"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06983-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06946-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06986-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06939-z"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,36 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00325-z">
+            <title><![CDATA[The new car batteries that could power the electric vehicle revolution]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00325-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 07 February 2024; <a href="https://www.nature.com/articles/d41586-024-00325-z">doi:10.1038/d41586-024-00325-z</a></p>Researchers are experimenting with different designs that could lower costs, extend vehicle ranges and offer other improvements.]]></content:encoded>
+            <dc:title><![CDATA[The new car batteries that could power the electric vehicle revolution]]></dc:title>
+            <dc:creator>Nicola Jones</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00325-z</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-07; | doi:10.1038/d41586-024-00325-z</dc:source>
+            <dc:date>2024-02-07</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00325-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00325-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00323-1">
+            <title><![CDATA[Cyberattacks on knowledge institutions are increasing: what can be done?]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00323-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 07 February 2024; <a href="https://www.nature.com/articles/d41586-024-00323-1">doi:10.1038/d41586-024-00323-1</a></p>For months, ransomware attacks have debilitated research at the British Library in London and Berlin’s natural history museum. They show how vulnerable scientific and educational institutions are to this kind of crime.]]></content:encoded>
+            <dc:title><![CDATA[Cyberattacks on knowledge institutions are increasing: what can be done?]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-00323-1</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-07; | doi:10.1038/d41586-024-00323-1</dc:source>
+            <dc:date>2024-02-07</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00323-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00323-1</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00298-z">
             <title><![CDATA[Best practice for LGBTQ+ data collection by STEM organizations]]></title>
@@ -387,6 +417,21 @@
             <prism:url>https://www.nature.com/articles/d41586-024-00353-9</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00375-3">
+            <title><![CDATA[AI &amp; robotics briefing: Lack of transparency surrounds Neuralink’s ‘brain-reading’ chip]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00375-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 February 2024; <a href="https://www.nature.com/articles/d41586-024-00375-3">doi:10.1038/d41586-024-00375-3</a></p>What scientists think of brain-computer interface company Neuralink’s first human trial. Plus, an AI system learnt language by seeing the world through a baby’s eyes and how ChatGPT could sway climate-change deniers.]]></content:encoded>
+            <dc:title><![CDATA[AI &amp; robotics briefing: Lack of transparency surrounds Neuralink’s ‘brain-reading’ chip]]></dc:title>
+            <dc:creator>Katrina Krämer</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00375-3</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-06; | doi:10.1038/d41586-024-00375-3</dc:source>
+            <dc:date>2024-02-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00375-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00375-3</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-024-00276-5">
             <title><![CDATA[How population size shapes the evolution of guppy fish]]></title>
             <link>https://www.nature.com/articles/d41586-024-00276-5</link>
@@ -430,6 +475,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00347-7</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00347-7</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00366-4">
+            <title><![CDATA[Daily briefing: 300-year-old sponges show 1.5 °C warming]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00366-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 February 2024; <a href="https://www.nature.com/articles/d41586-024-00366-4">doi:10.1038/d41586-024-00366-4</a></p>Evidence from marine sponges suggests that the planet has already passed global warming milestone. Plus, text revealed from inside a scroll burnt by Vesuvius and record demand for JWST telescope time.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: 300-year-old sponges show 1.5 °C warming]]></dc:title>
+            <dc:creator>Katrina Krämer</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00366-4</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-06; | doi:10.1038/d41586-024-00366-4</dc:source>
+            <dc:date>2024-02-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00366-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00366-4</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00247-w">
@@ -583,11 +643,11 @@
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00349-5">
-            <title><![CDATA[I’m not a chatbot – I promise!]]></title>
+            <title><![CDATA[‘Obviously ChatGPT’ — how reviewers accused me of scientific fraud]]></title>
             <link>https://www.nature.com/articles/d41586-024-00349-5</link>
             <content:encoded>
                 <![CDATA[<p>Nature, Published online: 05 February 2024; <a href="https://www.nature.com/articles/d41586-024-00349-5">doi:10.1038/d41586-024-00349-5</a></p>A journal reviewer accused Lizzie Wolkovich of using ChatGPT to write a manuscript. She hadn’t — but her paper was rejected anyway.]]></content:encoded>
-            <dc:title><![CDATA[I’m not a chatbot – I promise!]]></dc:title>
+            <dc:title><![CDATA[‘Obviously ChatGPT’ — how reviewers accused me of scientific fraud]]></dc:title>
             <dc:creator>E. M. Wolkovich</dc:creator>
             <dc:identifier>doi:10.1038/d41586-024-00349-5</dc:identifier>
             <dc:source>Nature, Published online: 2024-02-05; | doi:10.1038/d41586-024-00349-5</dc:source>
@@ -1240,66 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/s41586-023-06948-y</prism:doi>
             <prism:url>https://www.nature.com/articles/s41586-023-06948-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06983-9">
-            <title><![CDATA[7-Dehydrocholesterol dictates ferroptosis sensitivity]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06983-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 31 January 2024; <a href="https://www.nature.com/articles/s41586-023-06983-9">doi:10.1038/s41586-023-06983-9</a></p>7-Dehydrocholesterol (7-DHC) is a natural anti-ferroptotic metabolite and pharmacological manipulation of 7-DHC levels shows promise as a therapeutic strategy for cancer and ischaemia–reperfusion injury.]]></content:encoded>
-            <dc:title><![CDATA[7-Dehydrocholesterol dictates ferroptosis sensitivity]]></dc:title>
-            <dc:creator>Yaxu Li</dc:creator><dc:creator>Qiao Ran</dc:creator><dc:creator>Qiuhui Duan</dc:creator><dc:creator>Jiali Jin</dc:creator><dc:creator>Yanjin Wang</dc:creator><dc:creator>Lei Yu</dc:creator><dc:creator>Chaojie Wang</dc:creator><dc:creator>Zhenyun Zhu</dc:creator><dc:creator>Xin Chen</dc:creator><dc:creator>Linjun Weng</dc:creator><dc:creator>Zan Li</dc:creator><dc:creator>Jia Wang</dc:creator><dc:creator>Qi Wu</dc:creator><dc:creator>Hui Wang</dc:creator><dc:creator>Hongling Tian</dc:creator><dc:creator>Sihui Song</dc:creator><dc:creator>Zezhi Shan</dc:creator><dc:creator>Qiwei Zhai</dc:creator><dc:creator>Huanlong Qin</dc:creator><dc:creator>Shili Chen</dc:creator><dc:creator>Lan Fang</dc:creator><dc:creator>Huiyong Yin</dc:creator><dc:creator>Hu Zhou</dc:creator><dc:creator>Xuejun Jiang</dc:creator><dc:creator>Ping Wang</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06983-9</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-31; | doi:10.1038/s41586-023-06983-9</dc:source>
-            <dc:date>2024-01-31</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06983-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06983-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06946-0">
-            <title><![CDATA[High-quality semiconductor fibres via mechanical design]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06946-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 31 January 2024; <a href="https://www.nature.com/articles/s41586-023-06946-0">doi:10.1038/s41586-023-06946-0</a></p>A mechanical design is developed for the fabrication of ultralong, fracture-free and perturbation-free semiconductor fibres to address the increasing demand for flexible and wearable optoelectronics.]]></content:encoded>
-            <dc:title><![CDATA[High-quality semiconductor fibres via mechanical design]]></dc:title>
-            <dc:creator>Zhixun Wang</dc:creator><dc:creator>Zhe Wang</dc:creator><dc:creator>Dong Li</dc:creator><dc:creator>Chunlei Yang</dc:creator><dc:creator>Qichong Zhang</dc:creator><dc:creator>Ming Chen</dc:creator><dc:creator>Huajian Gao</dc:creator><dc:creator>Lei Wei</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06946-0</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-31; | doi:10.1038/s41586-023-06946-0</dc:source>
-            <dc:date>2024-01-31</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06946-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06946-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06986-6">
-            <title><![CDATA[Ultracold field-linked tetratomic molecules]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06986-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 31 January 2024; <a href="https://www.nature.com/articles/s41586-023-06986-6">doi:10.1038/s41586-023-06986-6</a></p>Ultracold polyatomic molecules can be created by electroassociation in a degenerate Fermi gas of microwave-dressed polar molecules through a field-linked resonance.]]></content:encoded>
-            <dc:title><![CDATA[Ultracold field-linked tetratomic molecules]]></dc:title>
-            <dc:creator>Xing-Yan Chen</dc:creator><dc:creator>Shrestha Biswas</dc:creator><dc:creator>Sebastian Eppelt</dc:creator><dc:creator>Andreas Schindewolf</dc:creator><dc:creator>Fulin Deng</dc:creator><dc:creator>Tao Shi</dc:creator><dc:creator>Su Yi</dc:creator><dc:creator>Timon A. Hilker</dc:creator><dc:creator>Immanuel Bloch</dc:creator><dc:creator>Xin-Yu Luo</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06986-6</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-31; | doi:10.1038/s41586-023-06986-6</dc:source>
-            <dc:date>2024-01-31</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06986-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06986-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06939-z">
-            <title><![CDATA[Designing a circular carbon and plastics economy for a sustainable future]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06939-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 31 January 2024; <a href="https://www.nature.com/articles/s41586-023-06939-z">doi:10.1038/s41586-023-06939-z</a></p>Four future greenhouse gas emission scenarios for the global plastics system are investigated, with the lead scenario achieving net-zero emissions, and a series of technical, legal and economic interventions recommended.]]></content:encoded>
-            <dc:title><![CDATA[Designing a circular carbon and plastics economy for a sustainable future]]></dc:title>
-            <dc:creator>Fernando Vidal</dc:creator><dc:creator>Eva R. van der Marel</dc:creator><dc:creator>Ryan W. F. Kerr</dc:creator><dc:creator>Caitlin McElroy</dc:creator><dc:creator>Nadia Schroeder</dc:creator><dc:creator>Celia Mitchell</dc:creator><dc:creator>Gloria Rosetto</dc:creator><dc:creator>Thomas T. D. Chen</dc:creator><dc:creator>Richard M. Bailey</dc:creator><dc:creator>Cameron Hepburn</dc:creator><dc:creator>Catherine Redgwell</dc:creator><dc:creator>Charlotte K. Williams</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06939-z</dc:identifier>
-            <dc:source>Nature, Published online: 2024-01-31; | doi:10.1038/s41586-023-06939-z</dc:source>
-            <dc:date>2024-01-31</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06939-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06939-z</prism:url>
         </item>
     
 </rdf:RDF>
