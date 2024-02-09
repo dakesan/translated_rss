@@ -18,7 +18,17 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00384-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00316-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07051-6"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00380-6"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00352-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00351-x"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00379-z"/>
                 
@@ -78,6 +88,8 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00345-9"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00386-0"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00230-5"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00381-5"/>
@@ -130,6 +142,8 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00247-w"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00318-y"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00245-y"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00330-2"/>
@@ -154,20 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00328-w"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00302-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07123-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00246-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00317-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00278-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00209-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00320-4"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,66 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00384-2">
+            <title><![CDATA[Mirror-image molecules separated using workhorse of chemistry]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00384-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 February 2024; <a href="https://www.nature.com/articles/d41586-024-00384-2">doi:10.1038/d41586-024-00384-2</a></p>The ability to distinguish between left- and right-handed molecules using mass spectrometry could streamline a laborious part of drug discovery.]]></content:encoded>
+            <dc:title><![CDATA[Mirror-image molecules separated using workhorse of chemistry]]></dc:title>
+            <dc:creator>Katharine  Sanderson</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00384-2</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-08; | doi:10.1038/d41586-024-00384-2</dc:source>
+            <dc:date>2024-02-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00384-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00384-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00316-0">
+            <title><![CDATA[Why an ancient gold-based explosive makes purple smoke]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00316-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 February 2024; <a href="https://www.nature.com/articles/d41586-024-00316-0">doi:10.1038/d41586-024-00316-0</a></p>Gold nanoparticles are confirmed as the source of the flamboyant colour of the smoke produced by fulminating gold.]]></content:encoded>
+            <dc:title><![CDATA[Why an ancient gold-based explosive makes purple smoke]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-00316-0</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-08; | doi:10.1038/d41586-024-00316-0</dc:source>
+            <dc:date>2024-02-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00316-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00316-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07051-6">
+            <title><![CDATA[Author Correction: Genotyping, sequencing and analysis of 140,000 adults from Mexico City]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07051-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 February 2024; <a href="https://www.nature.com/articles/s41586-024-07051-6">doi:10.1038/s41586-024-07051-6</a></p>Author Correction: Genotyping, sequencing and analysis of 140,000 adults from Mexico City]]></content:encoded>
+            <dc:title><![CDATA[Author Correction: Genotyping, sequencing and analysis of 140,000 adults from Mexico City]]></dc:title>
+            <dc:creator>Andrey Ziyatdinov</dc:creator><dc:creator>Jason Torres</dc:creator><dc:creator>Jesús Alegre-Díaz</dc:creator><dc:creator>Joshua Backman</dc:creator><dc:creator>Joelle Mbatchou</dc:creator><dc:creator>Michael Turner</dc:creator><dc:creator>Sheila M. Gaynor</dc:creator><dc:creator>Tyler Joseph</dc:creator><dc:creator>Yuxin Zou</dc:creator><dc:creator>Daren Liu</dc:creator><dc:creator>Rachel Wade</dc:creator><dc:creator>Jeffrey Staples</dc:creator><dc:creator>Razvan Panea</dc:creator><dc:creator>Alex Popov</dc:creator><dc:creator>Xiaodong Bai</dc:creator><dc:creator>Suganthi Balasubramanian</dc:creator><dc:creator>Lukas Habegger</dc:creator><dc:creator>Rouel Lanche</dc:creator><dc:creator>Alex Lopez</dc:creator><dc:creator>Evan Maxwell</dc:creator><dc:creator>Marcus Jones</dc:creator><dc:creator>Humberto García-Ortiz</dc:creator><dc:creator>Raul Ramirez-Reyes</dc:creator><dc:creator>Rogelio Santacruz-Benítez</dc:creator><dc:creator>Abhishek Nag</dc:creator><dc:creator>Katherine R. Smith</dc:creator><dc:creator>Amy Damask</dc:creator><dc:creator>Nan Lin</dc:creator><dc:creator>Charles Paulding</dc:creator><dc:creator>Mark Reppell</dc:creator><dc:creator>Sebastian Zöllner</dc:creator><dc:creator>Eric Jorgenson</dc:creator><dc:creator>William Salerno</dc:creator><dc:creator>Slavé Petrovski</dc:creator><dc:creator>John Overton</dc:creator><dc:creator>Jeffrey Reid</dc:creator><dc:creator>Timothy A. Thornton</dc:creator><dc:creator>Gonçalo Abecasis</dc:creator><dc:creator>Jaime Berumen</dc:creator><dc:creator>Lorena Orozco-Orozco</dc:creator><dc:creator>Rory Collins</dc:creator><dc:creator>Gonçalo Abecasis</dc:creator><dc:creator>Adolfo Ferrando</dc:creator><dc:creator>Michael Cantor</dc:creator><dc:creator>Giovanni Coppola</dc:creator><dc:creator>Andrew Deubler</dc:creator><dc:creator>Aris Economides</dc:creator><dc:creator>Katia Karalis</dc:creator><dc:creator>Luca A. Lotta</dc:creator><dc:creator>Lyndon J. Mitnaul</dc:creator><dc:creator>John D. Overton</dc:creator><dc:creator>Jeffrey G. Reid</dc:creator><dc:creator>Alan Shuldiner</dc:creator><dc:creator>Katherine Siminovitch</dc:creator><dc:creator>Christina Beechert</dc:creator><dc:creator>Erin D. Brian</dc:creator><dc:creator>Laura M. Cremona</dc:creator><dc:creator>Hang Du</dc:creator><dc:creator>Caitlin Forsythe</dc:creator><dc:creator>Zhenhua Gu</dc:creator><dc:creator>Kristy Guevara</dc:creator><dc:creator>Michael Lattari</dc:creator><dc:creator>Alexander Lopez</dc:creator><dc:creator>Kia Manoochehri</dc:creator><dc:creator>Manasi Pradhan</dc:creator><dc:creator>Raymond Reynoso</dc:creator><dc:creator>Ricardo Schiavo</dc:creator><dc:creator>Maria Sotiropoulos Padilla</dc:creator><dc:creator>Chenggu Wang</dc:creator><dc:creator>Sarah E. Wolf</dc:creator><dc:creator>Amelia Averitt</dc:creator><dc:creator>Nilanjana Banerjee</dc:creator><dc:creator>Dadong Li</dc:creator><dc:creator>Sameer Malhotra</dc:creator><dc:creator>Justin Mower</dc:creator><dc:creator>Mudasar Sarwar</dc:creator><dc:creator>Deepika Sharma</dc:creator><dc:creator>Jeffrey C. Staples</dc:creator><dc:creator>Jay Sundaram</dc:creator><dc:creator>Sean Yu</dc:creator><dc:creator>Aaron Zhang</dc:creator><dc:creator>Mona Nafde</dc:creator><dc:creator>George Mitra</dc:creator><dc:creator>Sujit Gokhale</dc:creator><dc:creator>Andrew Bunyea</dc:creator><dc:creator>Janice Clauer</dc:creator><dc:creator>Krishna Pawan Punuru</dc:creator><dc:creator>Sanjay Sreeram</dc:creator><dc:creator>Gisu Eom</dc:creator><dc:creator>Benjamin Sultan</dc:creator><dc:creator>Vrushali Mahajan</dc:creator><dc:creator>Eliot Austin</dc:creator><dc:creator>Koteswararao Makkena</dc:creator><dc:creator>Sean O’Keeffe</dc:creator><dc:creator>Tommy Polanco</dc:creator><dc:creator>Ayesha Rasool</dc:creator><dc:creator>William J. Salerno</dc:creator><dc:creator>Lance Zhang</dc:creator><dc:creator>Boris Boutkov</dc:creator><dc:creator>Evan Edelstein</dc:creator><dc:creator>Alexander Gorovits</dc:creator><dc:creator>Ju Guan</dc:creator><dc:creator>Alicia Hawes</dc:creator><dc:creator>Olga Krasheninina</dc:creator><dc:creator>Adam J. Mansfield</dc:creator><dc:creator>Evan K. Maxwell</dc:creator><dc:creator>Suying Bao</dc:creator><dc:creator>Kathie Sun</dc:creator><dc:creator>Chuanyi Zhang</dc:creator><dc:creator>Manuel Allen Revez Ferreira</dc:creator><dc:creator>Kathy Burch</dc:creator><dc:creator>Adrian Campos</dc:creator><dc:creator>Lei Chen</dc:creator><dc:creator>Sam Choi</dc:creator><dc:creator>Liron Ganel</dc:creator><dc:creator>Sheila Gaynor</dc:creator><dc:creator>Benjamin Geraghty</dc:creator><dc:creator>Akropravo Ghosh</dc:creator><dc:creator>Salvador Romero Martinez</dc:creator><dc:creator>Christopher Gillies</dc:creator><dc:creator>Lauren Gurski</dc:creator><dc:creator>Joseph Herman</dc:creator><dc:creator>Michael Kessler</dc:creator><dc:creator>Jack Kosmicki</dc:creator><dc:creator>Adam Locke</dc:creator><dc:creator>Priyanka Nakka</dc:creator><dc:creator>Anthony Marcketta</dc:creator><dc:creator>Arden Moscati</dc:creator><dc:creator>Aditeya Pandey</dc:creator><dc:creator>Anita Pandit</dc:creator><dc:creator>Jonathan Ross</dc:creator><dc:creator>Carlo Sidore</dc:creator><dc:creator>Eli Stahl</dc:creator><dc:creator>Maria Suciu</dc:creator><dc:creator>Peter VandeHaar</dc:creator><dc:creator>Sailaja Vedantam</dc:creator><dc:creator>Scott Vrieze</dc:creator><dc:creator>Rujin Wang</dc:creator><dc:creator>Kuan-Han Wu</dc:creator><dc:creator>Bin Ye</dc:creator><dc:creator>Blair Zhang</dc:creator><dc:creator>Olivier Delaneau</dc:creator><dc:creator>Maya Ghoussaini</dc:creator><dc:creator>Jingning Zhang</dc:creator><dc:creator>Brian Hobbs</dc:creator><dc:creator>Jon Silver</dc:creator><dc:creator>William Palmer</dc:creator><dc:creator>Rita Guerreiro</dc:creator><dc:creator>Jan Freudenberg</dc:creator><dc:creator>Amit Joshi</dc:creator><dc:creator>Antoine Baldassari</dc:creator><dc:creator>Cristen Willer</dc:creator><dc:creator>Sarah Graham</dc:creator><dc:creator>Jonas Bille Nielsen</dc:creator><dc:creator>Mary Hass</dc:creator><dc:creator>Niek Verweij</dc:creator><dc:creator>George Hindy</dc:creator><dc:creator>Jonas Bovijn</dc:creator><dc:creator>Tanima De</dc:creator><dc:creator>Parsa Akbari</dc:creator><dc:creator>Luanluan Sun</dc:creator><dc:creator>Olukayode Sosina</dc:creator><dc:creator>Arthur Gilly</dc:creator><dc:creator>Peter Dornbos</dc:creator><dc:creator>Juan Rodriguez-Flores</dc:creator><dc:creator>Moeen Riaz</dc:creator><dc:creator>Manav Kapoor</dc:creator><dc:creator>Gannie Tzoneva</dc:creator><dc:creator>Momodou W. Jallow</dc:creator><dc:creator>Anna Alkelai</dc:creator><dc:creator>Ariane Ayer</dc:creator><dc:creator>Veera Rajagopal</dc:creator><dc:creator>Sahar Gelfman</dc:creator><dc:creator>Vijay Kumar</dc:creator><dc:creator>Jacqueline Otto</dc:creator><dc:creator>Neel Parikshak</dc:creator><dc:creator>Aysegul Guvenek</dc:creator><dc:creator>Jose Bras</dc:creator><dc:creator>Silvia Alvarez</dc:creator><dc:creator>Jessie Brown</dc:creator><dc:creator>Jin He</dc:creator><dc:creator>Hossein Khiabanian</dc:creator><dc:creator>Marcus B. Jones</dc:creator><dc:creator>Esteban Chen</dc:creator><dc:creator>Jaimee Hernandez</dc:creator><dc:creator>Michelle G. LeBlanc</dc:creator><dc:creator>Jason Mighty</dc:creator><dc:creator>Nirupama Nishtala</dc:creator><dc:creator>Nadia Rana</dc:creator><dc:creator>Jennifer Rico-Varela</dc:creator><dc:creator>Jonathan R. Emberson</dc:creator><dc:creator>Richard Peto</dc:creator><dc:creator>Abraham Garduño-Martinez</dc:creator><dc:creator>Abril Garcia-Lopez</dc:creator><dc:creator>Adrian Abarca-Cardoso</dc:creator><dc:creator>Adriana Caballero-Mondragon</dc:creator><dc:creator>Adriana Gutierrez-Parra</dc:creator><dc:creator>Adriana Leticia Diaz-Avila</dc:creator><dc:creator>Alan Emiliano Bautista-Hernandez</dc:creator><dc:creator>Alberto Méndez-Villalba</dc:creator><dc:creator>Aldo Shaid Ramos-Hernandez</dc:creator><dc:creator>Alejandra Alejo-Salazar</dc:creator><dc:creator>Alejandra Angelica Perez-Moncada</dc:creator><dc:creator>Alejandra Martinez</dc:creator><dc:creator>Alejandra Peralta-Gallardo</dc:creator><dc:creator>Alejandro Flores-Magana</dc:creator><dc:creator>Alfa Izamar Benitez-Garcia</dc:creator><dc:creator>Alicia González-Castillo</dc:creator><dc:creator>Alicia Villegas-Esparza</dc:creator><dc:creator>Alma Delia Morales-Bravo</dc:creator><dc:creator>Alma Fernanda Mora-Negrete</dc:creator><dc:creator>Alma Hernandez-Galicia</dc:creator><dc:creator>Alma Rosa Arenas-García</dc:creator><dc:creator>Alma Rosa Valentin-Martinez</dc:creator><dc:creator>Amalia Paredes-Rojas</dc:creator><dc:creator>Ambar Nayeli Flores-Sanchez</dc:creator><dc:creator>Amelia Ortiz-Jaen</dc:creator><dc:creator>America Juarez-Salazar</dc:creator><dc:creator>América Victoria Cervantes-Torres</dc:creator><dc:creator>Amparo Luviano-Martínez</dc:creator><dc:creator>Ana del Carmen Alejandro-Perez</dc:creator><dc:creator>Ana Dominguez-Alvarado</dc:creator><dc:creator>Ana Isabel Fuentes-Alvarado</dc:creator><dc:creator>Ana Karen Arreola-Olvera</dc:creator><dc:creator>Ana Laura Bautista-Sanchez</dc:creator><dc:creator>Ana Lilia Enríquez-Álvarez</dc:creator><dc:creator>Ana Lilia Reynoso-Valverde</dc:creator><dc:creator>Ana María Isidro-Cid</dc:creator><dc:creator>Ana Montserrat Lechuga-Mendoza</dc:creator><dc:creator>Andrea Esquivel-Mejía</dc:creator><dc:creator>Andrea Galvino-Antonio</dc:creator><dc:creator>Andrea Gomez-Luna</dc:creator><dc:creator>Andres Martinez-Martinez</dc:creator><dc:creator>Anel Aragón-Domínguez</dc:creator><dc:creator>Angelica Gamboa-Romero</dc:creator><dc:creator>Angelica Guerrero</dc:creator><dc:creator>Angelica Ruiz-Hernandez</dc:creator><dc:creator>Antonia González-María</dc:creator><dc:creator>Araceli Martínez-Santana</dc:creator><dc:creator>Araceli Rojas-Vásquez</dc:creator><dc:creator>Arcelia Rojas-Santamaría</dc:creator><dc:creator>Armida Sánchez-Corral</dc:creator><dc:creator>Athzin Berenice Rosas-Avila</dc:creator><dc:creator>Beatriz Cruz-Acevedo</dc:creator><dc:creator>Beatriz Gonzalez-Ibañes</dc:creator><dc:creator>Beatriz Rojas</dc:creator><dc:creator>Beatriz Velázquez-Mancilla</dc:creator><dc:creator>Belen Escalona-Franco</dc:creator><dc:creator>Bernardo Ochoa-Morales</dc:creator><dc:creator>Braulio Rivera-Cortés</dc:creator><dc:creator>Brenda Castañeda-Gazpar</dc:creator><dc:creator>Brenda J. Calderon-Garcia</dc:creator><dc:creator>Brenda Jimena Jimenez-Gutierrez</dc:creator><dc:creator>Brian Orlando Sanchez-Martin</dc:creator><dc:creator>Carlos Alberto Toxqui-Rico</dc:creator><dc:creator>Carlos Antonio Clemente-Montano</dc:creator><dc:creator>Carlos Daniel Jimenez-Gutierrez</dc:creator><dc:creator>Casandra Alvarez-Meneses</dc:creator><dc:creator>Catalina Gasca-Velázquez</dc:creator><dc:creator>Cecilia Luna-Barroso</dc:creator><dc:creator>César Marín-Pérez</dc:creator><dc:creator>Cinthia Calderon-Camacho</dc:creator><dc:creator>Cinthia Hernandez-Perez</dc:creator><dc:creator>Cinthia Xóchitl Hernández-Peralta</dc:creator><dc:creator>Clarinet Castillo-Rioja</dc:creator><dc:creator>Claudia Bustamante-Durán</dc:creator><dc:creator>Claudia Elizabeth Espinosa-Quintana</dc:creator><dc:creator>Claudia Lilia Galicia-Flores</dc:creator><dc:creator>Claudia Lizbeth Villagomez-Piña</dc:creator><dc:creator>Cynthya Berenice Sierra-Martinez</dc:creator><dc:creator>Daniel Fernández-Corona</dc:creator><dc:creator>Daniel Ordaz-Jiménez</dc:creator><dc:creator>Daniela Oreli Hernandez-Castillo</dc:creator><dc:creator>Daniela Ramirez-Aranda</dc:creator><dc:creator>Dante Zazhil Lopez-Guzman</dc:creator><dc:creator>Diana del Monte-Homobono</dc:creator><dc:creator>Diana Isabel Gonzalez-Enciso</dc:creator><dc:creator>Diana Laura Bolanos-Hernandez</dc:creator><dc:creator>Edith Elizabeth Valdez-Solano</dc:creator><dc:creator>Edith Gonzalez-Torres</dc:creator><dc:creator>Edson Alfonso Mercado-Hernández</dc:creator><dc:creator>Eduardo Alvarado-Valle</dc:creator><dc:creator>Elisa Morales-Martinez</dc:creator><dc:creator>Elizabet Gonzalez</dc:creator><dc:creator>Elsa Yadira Díaz-Martínez</dc:creator><dc:creator>Elvia Isabel Vázquez-Torres</dc:creator><dc:creator>Elvira Ramos-Mendoza</dc:creator><dc:creator>Emiliano del Rio-Gonzalez</dc:creator><dc:creator>Erika Alpizar-Flores</dc:creator><dc:creator>Erika García-García</dc:creator><dc:creator>Erika Pérez-Romero</dc:creator><dc:creator>Esmeralda Sanchez-Martinez</dc:creator><dc:creator>Estefania Perez-Perez</dc:creator><dc:creator>Estela Beatriz López-García</dc:creator><dc:creator>Estela Elisabeth Moran-De Los Santos</dc:creator><dc:creator>Esther Jerónimo-Hernández</dc:creator><dc:creator>Eva María Estefes-Hernández</dc:creator><dc:creator>Evelin Sanchez-Alvarez</dc:creator><dc:creator>Felipe de Jesus Ramirez-Tinajero</dc:creator><dc:creator>Felipe Rivera-Cortés</dc:creator><dc:creator>Francisca Ana Yetzy Lopez-Tellez</dc:creator><dc:creator>Francisco Barajas-Soto</dc:creator><dc:creator>Francisco Javier Garcia-Gonzalez</dc:creator><dc:creator>Francisco Javier Ruvalcaba-López</dc:creator><dc:creator>Gabriel Enrique Jimenez-Vasquez</dc:creator><dc:creator>Gabriela López-Villaseca</dc:creator><dc:creator>Gabriela Paredes-Cruz</dc:creator><dc:creator>Gabriela Rivera-Arredondo</dc:creator><dc:creator>Gardenia Nieto-Valenciano</dc:creator><dc:creator>Genaro Balderas-Martinez</dc:creator><dc:creator>Genoveva Limon</dc:creator><dc:creator>Gerardo Álvarez-Mancilla</dc:creator><dc:creator>Gerardo Fernando Gómez-Dorantes</dc:creator><dc:creator>Gladis Villegas-Ramirez</dc:creator><dc:creator>Gloria Cruz-Angeles</dc:creator><dc:creator>Gloria Hernández-Buendía</dc:creator><dc:creator>Grecia Jimenez-Perez</dc:creator><dc:creator>Guadalupe América Juárez-Salazar</dc:creator><dc:creator>Guadalupe Garduño-Loyola</dc:creator><dc:creator>Hector Hugo Villaseñor-Flores</dc:creator><dc:creator>Hector M. Velasco</dc:creator><dc:creator>Hector Valentin Villanueva-Cervantes</dc:creator><dc:creator>Hectorchavez Mendiola</dc:creator><dc:creator>Hilda Nelly Rodríguez-Neria</dc:creator><dc:creator>Hipatia Lobato-Garcia</dc:creator><dc:creator>Hortencia Torres-Morales</dc:creator><dc:creator>Idith Fabiola Hernández-Peralta</dc:creator><dc:creator>Ingrid Alejandra Ochoa-Ramos</dc:creator><dc:creator>Irais Morales-Casillas</dc:creator><dc:creator>Irene Abuhatab</dc:creator><dc:creator>Irma Garduño-Medina</dc:creator><dc:creator>Irma Palacios-Rivas</dc:creator><dc:creator>Irving Hernandez-Machuca</dc:creator><dc:creator>Irving Israel Ramirez-Ramirez</dc:creator><dc:creator>Isabel Dominguez-Ursula</dc:creator><dc:creator>Isamar Prado-Morales</dc:creator><dc:creator>Israel Adrian Barrios-Custodia</dc:creator><dc:creator>Ivan Abrajan-García</dc:creator><dc:creator>Ivonne Jazmín Aguilar-Flores</dc:creator><dc:creator>Jaime Alfonso Rodriguez-Castro</dc:creator><dc:creator>Jaime Lee Alvarado-Lopez</dc:creator><dc:creator>Jaqueline Guadarrama-Fernández</dc:creator><dc:creator>Jaqueline Lopez-Lopez</dc:creator><dc:creator>Jaredhia Nathaly Pablo-Bautista</dc:creator><dc:creator>Jedini Paola Martinez-Ramirez</dc:creator><dc:creator>Jennifer Mendoza-Mendoza</dc:creator><dc:creator>Jessica Elena Vázquez-Bustamamnte</dc:creator><dc:creator>Joaquín Edmundo Ramírez-Gonzalez</dc:creator><dc:creator>Jorge Hernández-Arellano</dc:creator><dc:creator>Jorge L. Ocana-Monroy</dc:creator><dc:creator>Jorge Ricardo Medina-Torres</dc:creator><dc:creator>Jose Alberto Zavala-Barrera</dc:creator><dc:creator>Jose Cristian Alexis Lemus-Enciso</dc:creator><dc:creator>José Juan Barajas-Gónzalez</dc:creator><dc:creator>José Juan Castañeda-Dorantes</dc:creator><dc:creator>Jose Luis Ocana-Monroy</dc:creator><dc:creator>Josefina Alvarado-Calderón</dc:creator><dc:creator>Josefina Sanchez-Escudero</dc:creator><dc:creator>Joselyn Adali Garcia-Pantoja</dc:creator><dc:creator>Juan Adan Hernandez-Salinas</dc:creator><dc:creator>Juan Carlos Cruz-Hernandez</dc:creator><dc:creator>Juan Carlos Medina-Hernández</dc:creator><dc:creator>Juan Carlos Rodríguez-Ramírez</dc:creator><dc:creator>Juan Gabriel Pérez-Álvarez</dc:creator><dc:creator>Juan Pablo Hernandez-Canales</dc:creator><dc:creator>Juan Rubén Marines-Álvarez</dc:creator><dc:creator>Juana Patricia Romero-Becerril</dc:creator><dc:creator>Julio César Gómez-Dorantes</dc:creator><dc:creator>Julio Ortiz-Sanchez</dc:creator><dc:creator>Karina Adriana Ramos-Perez</dc:creator><dc:creator>Karina Ayala-Escamilla</dc:creator><dc:creator>Karina Sánchez-Ramírez</dc:creator><dc:creator>Karla Patricia Zárate-Barrios</dc:creator><dc:creator>Laura Arroyo-Garfias</dc:creator><dc:creator>Laura Cordoba-Barrios</dc:creator><dc:creator>Laura Limon-Espinoza</dc:creator><dc:creator>Laura Magallón-Nava</dc:creator><dc:creator>Lesley Geraldine Rodriguez-Camacho</dc:creator><dc:creator>Leslie Andrea Avendano-Baltierra</dc:creator><dc:creator>Leslie Nancy Rubio-Rojas</dc:creator><dc:creator>Leticia Cruz-Castañeda</dc:creator><dc:creator>Leticia Martínez-Morales</dc:creator><dc:creator>Lezly Fernanda Arias-Lezama</dc:creator><dc:creator>Lilia Reséndiz-Galván</dc:creator><dc:creator>Liliana Rodríguez-Ayala</dc:creator><dc:creator>Liliana Solano-Vazquez</dc:creator><dc:creator>Lina Velazco-Valdez</dc:creator><dc:creator>Lizbeth Armendáriz-Zahuantitla</dc:creator><dc:creator>Lizbeth Castro</dc:creator><dc:creator>Lucía Torres-Vázquez</dc:creator><dc:creator>Luis Antonio Loa-Orellana</dc:creator><dc:creator>Luis Arturo Vazquez-Padilla</dc:creator><dc:creator>Luis Brandon Toriz-Nava</dc:creator><dc:creator>Luis Ivan Salcedo-Sandoval</dc:creator><dc:creator>Luis Manuel Valdez-Rivera</dc:creator><dc:creator>Luz Xochiquetzalit Morales-Torres</dc:creator><dc:creator>Maciel Areli Camacho-Estrella</dc:creator><dc:creator>Macrina Tapia-Gómez</dc:creator><dc:creator>Magali Abigail Caballero-Sanchez</dc:creator><dc:creator>Magaly Lizbeth Martínez-López</dc:creator><dc:creator>Magdalena Sánchez-Salinas</dc:creator><dc:creator>Marco Antonio Gonzalez-Carranza</dc:creator><dc:creator>Marco Antonio Montes-Mérida</dc:creator><dc:creator>Marco Antonio Salazar-Giron</dc:creator><dc:creator>Margarita Mirta Torres-Rodríguez</dc:creator><dc:creator>María Alejandra Meléndez-Hernández</dc:creator><dc:creator>María Alejandra Ramos-Mendoza</dc:creator><dc:creator>Maria Alexandra Dominguez-Romero</dc:creator><dc:creator>María Antonia-González</dc:creator><dc:creator>María Aurora Pérez-Vargas</dc:creator><dc:creator>María Beatriz Rojas-Aguilar</dc:creator><dc:creator>María Cristina Ruiz-Flores</dc:creator><dc:creator>Maria de los A ngeles Chavez-Corona</dc:creator><dc:creator>María del Carmen Montiel-Pérez</dc:creator><dc:creator>María del Carmen Novelo-Aguilar</dc:creator><dc:creator>María Elena Espinoza-Pérez</dc:creator><dc:creator>María Elena González-Ruiz</dc:creator><dc:creator>María Estela Maya-Colin</dc:creator><dc:creator>Maria Fernanda Kennedy-Vazquez</dc:creator><dc:creator>Maria Hernandez-Soler</dc:creator><dc:creator>María Isabel Medina-Torales</dc:creator><dc:creator>María Olvera-González</dc:creator><dc:creator>Maria Priscila Hernandez-Melendez</dc:creator><dc:creator>María Teresa Villa-Botello</dc:creator><dc:creator>Mariana Andrea Labastida-Luna</dc:creator><dc:creator>Mariana Bolanos-Orduna</dc:creator><dc:creator>Maribel Rodríguez-Ledezma</dc:creator><dc:creator>Marisol Gomez-Collado</dc:creator><dc:creator>Marisol López-Arredondo</dc:creator><dc:creator>Marissa Villa-Ayala</dc:creator><dc:creator>Martha Alvarez-Marin</dc:creator><dc:creator>Martha Decimo-Canales</dc:creator><dc:creator>Martha Flores-Hernández</dc:creator><dc:creator>Martin Flores-Ortiz</dc:creator><dc:creator>Martin Linas-Sanchez</dc:creator><dc:creator>Mauricio Marin-Sanchez</dc:creator><dc:creator>Mayeli Salado-Bazán</dc:creator><dc:creator>Mayra Chagolla-Reyes</dc:creator><dc:creator>Mayranni Marquez-Jimenez</dc:creator><dc:creator>Miguel Angel Martinez-Medina</dc:creator><dc:creator>Miguel Salgado-Martinez</dc:creator><dc:creator>Misael Olivos-Rivera</dc:creator><dc:creator>Moisés Sánchez-Cejudo</dc:creator><dc:creator>Mónica Ernestina Gónzalez-Ramos</dc:creator><dc:creator>Monica Gomez-Abad</dc:creator><dc:creator>Mónica Irineo-Ugarte</dc:creator><dc:creator>Mónica Martínez</dc:creator><dc:creator>Mónica Martínez-Márquez</dc:creator><dc:creator>Nancy Abigail Castillo-Ramos</dc:creator><dc:creator>Nancy Patricia Hernández-Galicia</dc:creator><dc:creator>Natalia Guadalupe Elizarraras-Torres</dc:creator><dc:creator>Natalia Tinoco-Hernandez</dc:creator><dc:creator>Neri Reyna-Salgado</dc:creator><dc:creator>Noé Velázquez-Mandujano</dc:creator><dc:creator>Noemí Zurita-Morán</dc:creator><dc:creator>Norma Alicia Esteban-Cruz</dc:creator><dc:creator>Norma Angelica Orbe-Sierra</dc:creator><dc:creator>Norma Patricia Solís-Calvillo</dc:creator><dc:creator>Oliverio Rivera-Cortez</dc:creator><dc:creator>Omar Santiago-Perez</dc:creator><dc:creator>Oswaldo Hernandez-Camacho</dc:creator><dc:creator>Oswaldo Israel Gómez-Dorantes</dc:creator><dc:creator>Patricia Andrés-Gutiérrez</dc:creator><dc:creator>Patricia Cuarenta-Medina</dc:creator><dc:creator>Patricia Rez</dc:creator><dc:creator>Patricio Marquez-Espino</dc:creator><dc:creator>Paula Morales-Godinez</dc:creator><dc:creator>Paulina Monserrat Montano-Rojas</dc:creator><dc:creator>Ramses Alejandro Bravo-Juarez</dc:creator><dc:creator>Reyna Aurora Garza-Zepeda</dc:creator><dc:creator>Reyna Margarita Contreras-Hernández</dc:creator><dc:creator>Ricardo Manuel Ruiz-Zepeda</dc:creator><dc:creator>Ricardo Marquez-Nunez</dc:creator><dc:creator>Roberto Fabian Pelaez-Granados</dc:creator><dc:creator>Roberto Solera-Calvo</dc:creator><dc:creator>Rocío Hernández-López</dc:creator><dc:creator>Rosalinda García-Anaya</dc:creator><dc:creator>Rosario Dafne Lujan-Velazquez</dc:creator><dc:creator>Rosario Pérez Rul-Rivero</dc:creator><dc:creator>Rosaura Vazquez-Reyes</dc:creator><dc:creator>Rubén Espinoza-Peña</dc:creator><dc:creator>Ruperto García-Pérez</dc:creator><dc:creator>Salomón González-Garrido</dc:creator><dc:creator>Samantha Nayeli-De la Rosa Rodríguez</dc:creator><dc:creator>Sandra Lizbet Colon-Serrano</dc:creator><dc:creator>Sanjuana García-Hernández</dc:creator><dc:creator>Santiago Olvera-Arriaga</dc:creator><dc:creator>Santos Pérez-Gallardo</dc:creator><dc:creator>Sara Heras-Santiago</dc:creator><dc:creator>Sara Yazmin Flores-Jimenez</dc:creator><dc:creator>Sarahi Montiel-Sanchez</dc:creator><dc:creator>Sérgio César Bruno-Baltazar</dc:creator><dc:creator>Sheila Cruz-Martinez</dc:creator><dc:creator>Sibyl Nadir Luna-Ramírez</dc:creator><dc:creator>Silvia Ávila-Jaen</dc:creator><dc:creator>Silvia Cervantes-Saldívar</dc:creator><dc:creator>Socrates Cardenas-Valencia</dc:creator><dc:creator>Sonia Angélica Saldívar-Sánchez</dc:creator><dc:creator>Tania Michelle Sanchez-Damiz</dc:creator><dc:creator>Tomás Dorantes-Rosas</dc:creator><dc:creator>Vera Lopez-Sanchez</dc:creator><dc:creator>Verónica Colín-Hernández</dc:creator><dc:creator>Veronica Perez-Elizalde</dc:creator><dc:creator>Veronica Sanchez-Ortega</dc:creator><dc:creator>Verónica Santos-Sánchez</dc:creator><dc:creator>Veronica Velasco-Nava</dc:creator><dc:creator>Vianey Hernandez-Piña</dc:creator><dc:creator>Violeta Flores-Ramírez</dc:creator><dc:creator>Viridiana Ruiz-Gonzalez</dc:creator><dc:creator>Xiadani Paulina Mejia-Villegas</dc:creator><dc:creator>Xóchitl Cano-Goméz</dc:creator><dc:creator>Yacquelín Mondragón-Martínez</dc:creator><dc:creator>Yamili Evaristo-Montes</dc:creator><dc:creator>Yaquelinne Carcia-Muñoz</dc:creator><dc:creator>Yaxum Mendoza-Rocafuerte</dc:creator><dc:creator>Yazmin Parra-Ortega</dc:creator><dc:creator>Yeni Guadalupe Guadarrama-Fernández</dc:creator><dc:creator>Yojahira Martinez-Morales</dc:creator><dc:creator>Zaira Rebeca Martinez-Vite</dc:creator><dc:creator>Zoraida Lucio-Olmedo</dc:creator><dc:creator>Fernando Rivas-Reyes</dc:creator><dc:creator>Raúl Ramírez-Reyes</dc:creator><dc:creator>Adrián Garcilazo-Ávila</dc:creator><dc:creator>Carlos Gonzáles-Carballo</dc:creator><dc:creator>Diego Aguilar-Ramírez</dc:creator><dc:creator>Doreen Zhu</dc:creator><dc:creator>Eirini Trichia</dc:creator><dc:creator>Erwin Chiquete</dc:creator><dc:creator>Fiona Bragg</dc:creator><dc:creator>Gary Whitlock</dc:creator><dc:creator>Louisa Gnatiuc Friedrichs</dc:creator><dc:creator>Natalie Staplin</dc:creator><dc:creator>Omar Yaxmehen Bello-Chavolla</dc:creator><dc:creator>Richard Haynes</dc:creator><dc:creator>Robert Clarke</dc:creator><dc:creator>Sarah Lewington</dc:creator><dc:creator>William Herrington</dc:creator><dc:creator>Alejandra Vergara</dc:creator><dc:creator>Elizabeth Barrera-Sánchez</dc:creator><dc:creator>Georgina Del Vecchyo-Tenorio</dc:creator><dc:creator>Margarita González-Ruiz</dc:creator><dc:creator>Paulina Baca-Peynado</dc:creator><dc:creator>Tianshu Liu</dc:creator><dc:creator>Yunhe Wang</dc:creator><dc:creator>Adriana Lucrecia Wong y. Wong</dc:creator><dc:creator>Clementina Magos</dc:creator><dc:creator>Fredrik Romer</dc:creator><dc:creator>Herendira Zambrano Martínez</dc:creator><dc:creator>James Wheeler</dc:creator><dc:creator>Kathleen Emmens</dc:creator><dc:creator>Linda Youngman</dc:creator><dc:creator>Martin Radley</dc:creator><dc:creator>Martha Solano Sanchez</dc:creator><dc:creator>Matthew Lacey</dc:creator><dc:creator>Michael R. Hill</dc:creator><dc:creator>Nigel Plunkett</dc:creator><dc:creator>Paul Taylor</dc:creator><dc:creator>Richard Shellard</dc:creator><dc:creator>Sarah Clark</dc:creator><dc:creator>Tim Williams</dc:creator><dc:creator>Gustavo Olaiz Fernandez</dc:creator><dc:creator>Lisa Holland</dc:creator><dc:creator>Malaquias López Cervantes</dc:creator><dc:creator>Aris Baras</dc:creator><dc:creator>Michael R. Hill</dc:creator><dc:creator>Jonathan R. Emberson</dc:creator><dc:creator>Jonathan Marchini</dc:creator><dc:creator>Pablo Kuri-Morales</dc:creator><dc:creator>Roberto Tapia-Conyer</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07051-6</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-08; | doi:10.1038/s41586-024-07051-6</dc:source>
+            <dc:date>2024-02-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07051-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07051-6</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00380-6">
+            <title><![CDATA[US and China likely to delay renewal of key science pact again]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00380-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 February 2024; <a href="https://www.nature.com/articles/d41586-024-00380-6">doi:10.1038/d41586-024-00380-6</a></p>Relations have changed between the two nations, so negotiators are hashing out new terms in the 45-year-old agreement.]]></content:encoded>
+            <dc:title><![CDATA[US and China likely to delay renewal of key science pact again]]></dc:title>
+            <dc:creator>Natasha Gilbert</dc:creator><dc:creator>Smriti Mallapaty</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00380-6</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-08; | doi:10.1038/d41586-024-00380-6</dc:source>
+            <dc:date>2024-02-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00380-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00380-6</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00352-w">
             <title><![CDATA[How to test a Moon landing from Earth]]></title>
@@ -190,6 +250,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00352-w</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00352-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00351-x">
+            <title><![CDATA[Why a cheap, effective treatment for diarrhoea is underused]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00351-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 February 2024; <a href="https://www.nature.com/articles/d41586-024-00351-x">doi:10.1038/d41586-024-00351-x</a></p>Actors posing as dads of sick children reveal the hidden motives behind doctors’ and pharmacists’ prescription decisions.]]></content:encoded>
+            <dc:title><![CDATA[Why a cheap, effective treatment for diarrhoea is underused]]></dc:title>
+            <dc:creator>Smriti Mallapaty</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00351-x</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-08; | doi:10.1038/d41586-024-00351-x</dc:source>
+            <dc:date>2024-02-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00351-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00351-x</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00379-z">
@@ -616,7 +691,7 @@
             <title><![CDATA[The Solar System has a new ocean — it’s buried in a small Saturn moon]]></title>
             <link>https://www.nature.com/articles/d41586-024-00345-9</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 07 February 2024; <a href="https://www.nature.com/articles/d41586-024-00345-9">doi:10.1038/d41586-024-00345-9</a></p>The sea within Saturn’s satellite Mimas formed within the last 25 million years, a blink of the eye in geologic terms.]]></content:encoded>
+                <![CDATA[<p>Nature, Published online: 07 February 2024; <a href="https://www.nature.com/articles/d41586-024-00345-9">doi:10.1038/d41586-024-00345-9</a></p>The sea inside Saturn’s satellite Mimas formed in the past 25 million years, a blink of the eye in geological terms.]]></content:encoded>
             <dc:title><![CDATA[The Solar System has a new ocean — it’s buried in a small Saturn moon]]></dc:title>
             <dc:creator>Alexandra Witze</dc:creator>
             <dc:identifier>doi:10.1038/d41586-024-00345-9</dc:identifier>
@@ -625,6 +700,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00345-9</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00345-9</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00386-0">
+            <title><![CDATA[Daily briefing: Santorini volcano let off a prehistoric mega-blast]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00386-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 07 February 2024; <a href="https://www.nature.com/articles/d41586-024-00386-0">doi:10.1038/d41586-024-00386-0</a></p>An expedition that drilled into the sea floor near the Greek island discovered signs of a huge eruption more than half a million years ago. Plus, the ambitious EU climate strategy and how self-propelled fluids play sudoku.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Santorini volcano let off a prehistoric mega-blast]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00386-0</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-07; | doi:10.1038/d41586-024-00386-0</dc:source>
+            <dc:date>2024-02-07</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00386-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00386-0</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00230-5">
@@ -1017,6 +1107,21 @@
             <prism:url>https://www.nature.com/articles/d41586-024-00247-w</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00318-y">
+            <title><![CDATA[The brain area that lights up in prickly people]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00318-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 05 February 2024; <a href="https://www.nature.com/articles/d41586-024-00318-y">doi:10.1038/d41586-024-00318-y</a></p>Those who are quick to take offence show similar levels of activity in a region of the brain that’s crucial for decision-making.]]></content:encoded>
+            <dc:title><![CDATA[The brain area that lights up in prickly people]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-00318-y</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-05; | doi:10.1038/d41586-024-00318-y</dc:source>
+            <dc:date>2024-02-05</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00318-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00318-y</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-024-00245-y">
             <title><![CDATA[Surprise find: a blood-based immune system is discovered in the gut]]></title>
             <link>https://www.nature.com/articles/d41586-024-00245-y</link>
@@ -1081,7 +1186,7 @@
             <title><![CDATA[JWST is most in-demand telescope ever — leaving many astronomers in the cold]]></title>
             <link>https://www.nature.com/articles/d41586-024-00315-1</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 05 February 2024; <a href="https://www.nature.com/articles/d41586-024-00315-1">doi:10.1038/d41586-024-00315-1</a></p>Reviewers will likely approve only one in every nine research proposals submitted in latest application cycle.]]></content:encoded>
+                <![CDATA[<p>Nature, Published online: 05 February 2024; <a href="https://www.nature.com/articles/d41586-024-00315-1">doi:10.1038/d41586-024-00315-1</a></p>Reviewers will probably approve only one in every nine research proposals submitted in latest application cycle.]]></content:encoded>
             <dc:title><![CDATA[JWST is most in-demand telescope ever — leaving many astronomers in the cold]]></dc:title>
             <dc:creator>Rahul Rao</dc:creator>
             <dc:identifier>doi:10.1038/d41586-024-00315-1</dc:identifier>
@@ -1195,111 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00328-w</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00328-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00302-6">
-            <title><![CDATA[Cervical cancer could be eliminated: here’s how]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00302-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 04 February 2024; <a href="https://www.nature.com/articles/d41586-024-00302-6">doi:10.1038/d41586-024-00302-6</a></p>Two experts lay out the steps that need to be taken, and the challenges facing low- and middle-income countries.]]></content:encoded>
-            <dc:title><![CDATA[Cervical cancer could be eliminated: here’s how]]></dc:title>
-            <dc:creator>Nick Petrić Howe</dc:creator><dc:creator>Jennifer Gardiner</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00302-6</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-04; | doi:10.1038/d41586-024-00302-6</dc:source>
-            <dc:date>2024-02-04</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00302-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00302-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07123-7">
-            <title><![CDATA[Author Correction: Satellite mapping reveals extensive industrial activity at sea]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07123-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 02 February 2024; <a href="https://www.nature.com/articles/s41586-024-07123-7">doi:10.1038/s41586-024-07123-7</a></p>Author Correction: Satellite mapping reveals extensive industrial activity at sea]]></content:encoded>
-            <dc:title><![CDATA[Author Correction: Satellite mapping reveals extensive industrial activity at sea]]></dc:title>
-            <dc:creator>Fernando S. Paolo</dc:creator><dc:creator>David Kroodsma</dc:creator><dc:creator>Jennifer Raynor</dc:creator><dc:creator>Tim Hochberg</dc:creator><dc:creator>Pete Davis</dc:creator><dc:creator>Jesse Cleary</dc:creator><dc:creator>Luca Marsaglia</dc:creator><dc:creator>Sara Orofino</dc:creator><dc:creator>Christian Thomas</dc:creator><dc:creator>Patrick Halpin</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07123-7</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-02; | doi:10.1038/s41586-024-07123-7</dc:source>
-            <dc:date>2024-02-02</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07123-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07123-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00246-x">
-            <title><![CDATA[The mystery of Feynman’s sprinkler is solved at last]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00246-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 02 February 2024; <a href="https://www.nature.com/articles/d41586-024-00246-x">doi:10.1038/d41586-024-00246-x</a></p>A puzzle named after the Nobel-prizewinning physicist has been solved by experiments with a submerged sprinkler.]]></content:encoded>
-            <dc:title><![CDATA[The mystery of Feynman’s sprinkler is solved at last]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-00246-x</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-02; | doi:10.1038/d41586-024-00246-x</dc:source>
-            <dc:date>2024-02-02</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00246-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00246-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00317-z">
-            <title><![CDATA[An ancient tree’s oddball shape is revealed by an extraordinary fossil]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00317-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 02 February 2024; <a href="https://www.nature.com/articles/d41586-024-00317-z">doi:10.1038/d41586-024-00317-z</a></p>Many fossilized trees consist of only the trunk, but a specimen from Canada includes most of the crown of leaves.]]></content:encoded>
-            <dc:title><![CDATA[An ancient tree’s oddball shape is revealed by an extraordinary fossil]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-00317-z</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-02; | doi:10.1038/d41586-024-00317-z</dc:source>
-            <dc:date>2024-02-02</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00317-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00317-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00278-3">
-            <title><![CDATA[A forgotten Aztec scholar and more: Books in brief]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00278-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 02 February 2024; <a href="https://www.nature.com/articles/d41586-024-00278-3">doi:10.1038/d41586-024-00278-3</a></p>Andrew Robinson reviews five of the best science picks.]]></content:encoded>
-            <dc:title><![CDATA[A forgotten Aztec scholar and more: Books in brief]]></dc:title>
-            <dc:creator>Andrew Robinson</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00278-3</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-02; | doi:10.1038/d41586-024-00278-3</dc:source>
-            <dc:date>2024-02-02</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00278-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00278-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00209-2">
-            <title><![CDATA[‘Blue foods’ to tackle hidden hunger and improve nutrition]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00209-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 02 February 2024; <a href="https://www.nature.com/articles/d41586-024-00209-2">doi:10.1038/d41586-024-00209-2</a></p>Aquatic foods have been overlooked in moves to end food insecurity. That needs to change, says Christopher Golden.]]></content:encoded>
-            <dc:title><![CDATA[‘Blue foods’ to tackle hidden hunger and improve nutrition]]></dc:title>
-            <dc:creator>Dom Byrne</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00209-2</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-02; | doi:10.1038/d41586-024-00209-2</dc:source>
-            <dc:date>2024-02-02</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00209-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00209-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00320-4">
-            <title><![CDATA[Israel is flooding Gaza’s tunnel network: scientists assess the risks]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00320-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 02 February 2024; <a href="https://www.nature.com/articles/d41586-024-00320-4">doi:10.1038/d41586-024-00320-4</a></p>The plan to target Hamas involves filling parts of a 500-kilometre-long network of underground tunnels. Researchers warn this could affect Gaza’s water supplies.]]></content:encoded>
-            <dc:title><![CDATA[Israel is flooding Gaza’s tunnel network: scientists assess the risks]]></dc:title>
-            <dc:creator>Josie Glausiusz</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00320-4</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-02; | doi:10.1038/d41586-024-00320-4</dc:source>
-            <dc:date>2024-02-02</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00320-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00320-4</prism:url>
         </item>
     
 </rdf:RDF>
