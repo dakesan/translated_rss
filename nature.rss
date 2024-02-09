@@ -18,6 +18,10 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00210-9"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00401-4"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00384-2"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00316-0"/>
@@ -27,6 +31,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00380-6"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00352-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00400-5"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00351-x"/>
                 
@@ -162,12 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00346-8"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00349-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00356-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00328-w"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,36 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00210-9">
+            <title><![CDATA[‘It reflects the society we live in where a young person does not feel life is worth living’]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00210-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 09 February 2024; <a href="https://www.nature.com/articles/d41586-024-00210-9">doi:10.1038/d41586-024-00210-9</a></p>With youth suicide rates rising, it’s vital that mental health forms part of global well-being targets, says Shekhar Saxena.]]></content:encoded>
+            <dc:title><![CDATA[‘It reflects the society we live in where a young person does not feel life is worth living’]]></dc:title>
+            <dc:creator>Dom Byrne</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00210-9</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-09; | doi:10.1038/d41586-024-00210-9</dc:source>
+            <dc:date>2024-02-09</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00210-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00210-9</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00401-4">
+            <title><![CDATA[COVID’s preprint bump set to have lasting effect on research publishing]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00401-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 09 February 2024; <a href="https://www.nature.com/articles/d41586-024-00401-4">doi:10.1038/d41586-024-00401-4</a></p>Many researchers published their first preprint in the pandemic — and they liked it. Their experience could prompt further integration of the practice.]]></content:encoded>
+            <dc:title><![CDATA[COVID’s preprint bump set to have lasting effect on research publishing]]></dc:title>
+            <dc:creator>Dalmeet Singh Chawla</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00401-4</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-09; | doi:10.1038/d41586-024-00401-4</dc:source>
+            <dc:date>2024-02-09</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00401-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00401-4</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00384-2">
             <title><![CDATA[Mirror-image molecules separated using workhorse of chemistry]]></title>
@@ -250,6 +280,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00352-w</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00352-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00400-5">
+            <title><![CDATA[Daily briefing: An ocean in hiding inside Saturn’s moon Mimas]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00400-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 February 2024; <a href="https://www.nature.com/articles/d41586-024-00400-5">doi:10.1038/d41586-024-00400-5</a></p>Surprise ocean means “you could have liquid water almost anywhere”. Plus, a cancer mutation supercharges T cells and the batteries that could power an electric revolution.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: An ocean in hiding inside Saturn’s moon Mimas]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00400-5</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-08; | doi:10.1038/d41586-024-00400-5</dc:source>
+            <dc:date>2024-02-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00400-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00400-5</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00351-x">
@@ -1255,51 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00346-8</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00346-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00349-5">
-            <title><![CDATA[‘Obviously ChatGPT’ — how reviewers accused me of scientific fraud]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00349-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 05 February 2024; <a href="https://www.nature.com/articles/d41586-024-00349-5">doi:10.1038/d41586-024-00349-5</a></p>A journal reviewer accused Lizzie Wolkovich of using ChatGPT to write a manuscript. She hadn’t — but her paper was rejected anyway.]]></content:encoded>
-            <dc:title><![CDATA[‘Obviously ChatGPT’ — how reviewers accused me of scientific fraud]]></dc:title>
-            <dc:creator>E. M. Wolkovich</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00349-5</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-05; | doi:10.1038/d41586-024-00349-5</dc:source>
-            <dc:date>2024-02-05</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00349-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00349-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00356-6">
-            <title><![CDATA[Daily briefing: ‘Feynman’s sprinkler’ spin mystery solved]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00356-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 05 February 2024; <a href="https://www.nature.com/articles/d41586-024-00356-6">doi:10.1038/d41586-024-00356-6</a></p>If an S-shaped sprinkler sucks instead of sprays, which way does it spin? Plus, the month’s best science images and what scientists think of the Neuralink human trial.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: ‘Feynman’s sprinkler’ spin mystery solved]]></dc:title>
-            <dc:creator>Flora Graham</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00356-6</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-05; | doi:10.1038/d41586-024-00356-6</dc:source>
-            <dc:date>2024-02-05</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00356-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00356-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00328-w">
-            <title><![CDATA[Science and government: can the power struggle ever end?]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00328-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 05 February 2024; <a href="https://www.nature.com/articles/d41586-024-00328-w">doi:10.1038/d41586-024-00328-w</a></p>Similar goals but different strategies underlie tensions between science and the state, an in-depth analysis explains.]]></content:encoded>
-            <dc:title><![CDATA[Science and government: can the power struggle ever end?]]></dc:title>
-            <dc:creator>Rhona Mijumbi</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00328-w</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-05; | doi:10.1038/d41586-024-00328-w</dc:source>
-            <dc:date>2024-02-05</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00328-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00328-w</prism:url>
         </item>
     
 </rdf:RDF>
