@@ -18,7 +18,17 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07164-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00413-0"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00210-9"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00383-3"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00402-3"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00396-y"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00401-4"/>
                 
@@ -158,16 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00281-8"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00315-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00348-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00327-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04120-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00346-8"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,36 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07164-y">
+            <title><![CDATA[Author Correction: CEACAM1 regulates TIM-3-mediated tolerance and exhaustion]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07164-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 09 February 2024; <a href="https://www.nature.com/articles/s41586-024-07164-y">doi:10.1038/s41586-024-07164-y</a></p>Author Correction: CEACAM1 regulates TIM-3-mediated tolerance and exhaustion]]></content:encoded>
+            <dc:title><![CDATA[Author Correction: CEACAM1 regulates TIM-3-mediated tolerance and exhaustion]]></dc:title>
+            <dc:creator>Yu-Hwa Huang</dc:creator><dc:creator>Chen Zhu</dc:creator><dc:creator>Yasuyuki Kondo</dc:creator><dc:creator>Ana C. Anderson</dc:creator><dc:creator>Amit Gandhi</dc:creator><dc:creator>Andrew Russell</dc:creator><dc:creator>Stephanie K. Dougan</dc:creator><dc:creator>Britt-Sabina Petersen</dc:creator><dc:creator>Espen Melum</dc:creator><dc:creator>Thomas Pertel</dc:creator><dc:creator>Kiera L. Clayton</dc:creator><dc:creator>Monika Raab</dc:creator><dc:creator>Qiang Chen</dc:creator><dc:creator>Nicole Beauchemin</dc:creator><dc:creator>Paul J. Yazaki</dc:creator><dc:creator>Michal Pyzik</dc:creator><dc:creator>Mario A. Ostrowski</dc:creator><dc:creator>Jonathan N. Glickman</dc:creator><dc:creator>Christopher E. Rudd</dc:creator><dc:creator>Hidde L. Ploegh</dc:creator><dc:creator>Andre Franke</dc:creator><dc:creator>Gregory A. Petsko</dc:creator><dc:creator>Vijay K. Kuchroo</dc:creator><dc:creator>Richard S. Blumberg</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07164-y</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-09; | doi:10.1038/s41586-024-07164-y</dc:source>
+            <dc:date>2024-02-09</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07164-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07164-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00413-0">
+            <title><![CDATA[Why we need to rethink how we talk about cancer]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00413-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 09 February 2024; <a href="https://www.nature.com/articles/d41586-024-00413-0">doi:10.1038/d41586-024-00413-0</a></p>Naming metastatic cancers after parts of the body could be holding up research and preventing people from accessing the best treatment]]></content:encoded>
+            <dc:title><![CDATA[Why we need to rethink how we talk about cancer]]></dc:title>
+            <dc:creator>Lucy Odling-Smee</dc:creator><dc:creator>Noah Baker</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00413-0</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-09; | doi:10.1038/d41586-024-00413-0</dc:source>
+            <dc:date>2024-02-09</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00413-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00413-0</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00210-9">
             <title><![CDATA[‘It reflects the society we live in where a young person does not feel life is worth living’]]></title>
@@ -190,6 +220,51 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00210-9</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00210-9</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00383-3">
+            <title><![CDATA[Glow way! Bioluminescent houseplant hits US market for first time]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00383-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 09 February 2024; <a href="https://www.nature.com/articles/d41586-024-00383-3">doi:10.1038/d41586-024-00383-3</a></p>Engineered petunia emits a continuous green glow thanks to genes from a light-up mushroom.]]></content:encoded>
+            <dc:title><![CDATA[Glow way! Bioluminescent houseplant hits US market for first time]]></dc:title>
+            <dc:creator>Katherine Bourzac</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00383-3</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-09; | doi:10.1038/d41586-024-00383-3</dc:source>
+            <dc:date>2024-02-09</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00383-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00383-3</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00402-3">
+            <title><![CDATA[‘Geometry can be very simple, but totally deep’: meet top maths prizewinner Claire Voisin]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00402-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 09 February 2024; <a href="https://www.nature.com/articles/d41586-024-00402-3">doi:10.1038/d41586-024-00402-3</a></p>Voisin won this year’s Crafoord Prize in Mathematics for research inspired by string theory, and work on a million-dollar unsolved problem.]]></content:encoded>
+            <dc:title><![CDATA[‘Geometry can be very simple, but totally deep’: meet top maths prizewinner Claire Voisin]]></dc:title>
+            <dc:creator>Davide Castelvecchi</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00402-3</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-09; | doi:10.1038/d41586-024-00402-3</dc:source>
+            <dc:date>2024-02-09</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00402-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00402-3</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00396-y">
+            <title><![CDATA[Climatologist Michael Mann wins defamation case: what it means for scientists]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00396-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 09 February 2024; <a href="https://www.nature.com/articles/d41586-024-00396-y">doi:10.1038/d41586-024-00396-y</a></p>Jury awards Mann more than US$1 million — raising hopes for scientists who are politically attacked because of their work.]]></content:encoded>
+            <dc:title><![CDATA[Climatologist Michael Mann wins defamation case: what it means for scientists]]></dc:title>
+            <dc:creator>Jeff Tollefson</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00396-y</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-09; | doi:10.1038/d41586-024-00396-y</dc:source>
+            <dc:date>2024-02-09</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00396-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00396-y</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00401-4">
@@ -286,7 +361,7 @@
             <title><![CDATA[Daily briefing: An ocean in hiding inside Saturn’s moon Mimas]]></title>
             <link>https://www.nature.com/articles/d41586-024-00400-5</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 08 February 2024; <a href="https://www.nature.com/articles/d41586-024-00400-5">doi:10.1038/d41586-024-00400-5</a></p>Surprise ocean means “you could have liquid water almost anywhere”. Plus, a cancer mutation supercharges T cells and the batteries that could power an electric revolution.]]></content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 February 2024; <a href="https://www.nature.com/articles/d41586-024-00400-5">doi:10.1038/d41586-024-00400-5</a></p>Surprise ocean means ‘you could have liquid water almost anywhere’. Plus, a cancer mutation supercharges T cells and the batteries that could power an electric revolution.]]></content:encoded>
             <dc:title><![CDATA[Daily briefing: An ocean in hiding inside Saturn’s moon Mimas]]></dc:title>
             <dc:creator>Flora Graham</dc:creator>
             <dc:identifier>doi:10.1038/d41586-024-00400-5</dc:identifier>
@@ -1225,81 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00281-8</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00281-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00315-1">
-            <title><![CDATA[JWST is most in-demand telescope ever — leaving many astronomers in the cold]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00315-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 05 February 2024; <a href="https://www.nature.com/articles/d41586-024-00315-1">doi:10.1038/d41586-024-00315-1</a></p>Reviewers will probably approve only one in every nine research proposals submitted in latest application cycle.]]></content:encoded>
-            <dc:title><![CDATA[JWST is most in-demand telescope ever — leaving many astronomers in the cold]]></dc:title>
-            <dc:creator>Rahul Rao</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00315-1</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-05; | doi:10.1038/d41586-024-00315-1</dc:source>
-            <dc:date>2024-02-05</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00315-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00315-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00348-6">
-            <title><![CDATA[Innovative funding systems are key to fighting inequities in African science]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00348-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 05 February 2024; <a href="https://www.nature.com/articles/d41586-024-00348-6">doi:10.1038/d41586-024-00348-6</a></p>A few countries and a select number of institutions will continue to take the vast majority of grants unless funders build diversity into their grant programmes.]]></content:encoded>
-            <dc:title><![CDATA[Innovative funding systems are key to fighting inequities in African science]]></dc:title>
-            <dc:creator>Susan  Gichoga</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00348-6</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-05; | doi:10.1038/d41586-024-00348-6</dc:source>
-            <dc:date>2024-02-05</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00348-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00348-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00327-x">
-            <title><![CDATA[It’s time to admit that genes are not the blueprint for life]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00327-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 05 February 2024; <a href="https://www.nature.com/articles/d41586-024-00327-x">doi:10.1038/d41586-024-00327-x</a></p>The view of biology often presented to the public is oversimplified and out of date. Scientists must set the record straight, argues a new book.]]></content:encoded>
-            <dc:title><![CDATA[It’s time to admit that genes are not the blueprint for life]]></dc:title>
-            <dc:creator>Denis Noble</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00327-x</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-05; | doi:10.1038/d41586-024-00327-x</dc:source>
-            <dc:date>2024-02-05</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00327-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00327-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-04120-0">
-            <title><![CDATA[Several transient binding events create a strong, adaptable interface between organelles]]></title>
-            <link>https://www.nature.com/articles/d41586-023-04120-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 05 February 2024; <a href="https://www.nature.com/articles/d41586-023-04120-0">doi:10.1038/d41586-023-04120-0</a></p>Rapid communication between intracellular structures such as the endoplasmic reticulum and the mitochondria is crucial for the coordinated functioning of cells. Such interactions occur mainly at sites where the compartments are in direct contact, and are mediated by specific tethering machinery. High-speed single-molecule tracking reveals a well-regulated interface at which many rapid binding and unbinding events provide highly adaptable interactions.]]></content:encoded>
-            <dc:title><![CDATA[Several transient binding events create a strong, adaptable interface between organelles]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-04120-0</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-05; | doi:10.1038/d41586-023-04120-0</dc:source>
-            <dc:date>2024-02-05</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-04120-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-04120-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00346-8">
-            <title><![CDATA[First passages of rolled-up Herculaneum scroll revealed]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00346-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 05 February 2024; <a href="https://www.nature.com/articles/d41586-024-00346-8">doi:10.1038/d41586-024-00346-8</a></p>Researchers used artificial intelligence to decipher the text of 2,000-year-old charred papyrus scripts, unveiling musings on music and capers.]]></content:encoded>
-            <dc:title><![CDATA[First passages of rolled-up Herculaneum scroll revealed]]></dc:title>
-            <dc:creator>Jo Marchant</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00346-8</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-05; | doi:10.1038/d41586-024-00346-8</dc:source>
-            <dc:date>2024-02-05</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00346-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00346-8</prism:url>
         </item>
     
 </rdf:RDF>
