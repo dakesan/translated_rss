@@ -18,6 +18,14 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07168-8"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07166-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00417-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00394-0"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07164-y"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00413-0"/>
@@ -160,14 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00318-y"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00245-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00330-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04105-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00281-8"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,66 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07168-8">
+            <title><![CDATA[Author Correction: Rewiring of the ubiquitinated proteome determines ageing in <i>C. elegans</i>]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07168-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 12 February 2024; <a href="https://www.nature.com/articles/s41586-024-07168-8">doi:10.1038/s41586-024-07168-8</a></p>Author Correction: Rewiring of the ubiquitinated proteome determines ageing in <i>C. elegans</i>]]></content:encoded>
+            <dc:title><![CDATA[Author Correction: Rewiring of the ubiquitinated proteome determines ageing in <i>C. elegans</i>]]></dc:title>
+            <dc:creator>Seda Koyuncu</dc:creator><dc:creator>Rute Loureiro</dc:creator><dc:creator>Hyun Ju Lee</dc:creator><dc:creator>Prerana Wagle</dc:creator><dc:creator>Marcus Krueger</dc:creator><dc:creator>David Vilchez</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07168-8</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-12; | doi:10.1038/s41586-024-07168-8</dc:source>
+            <dc:date>2024-02-12</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07168-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07168-8</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07166-w">
+            <title><![CDATA[Publisher Correction: Hypoblast from human pluripotent stem cells regulates epiblast development]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07166-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 12 February 2024; <a href="https://www.nature.com/articles/s41586-024-07166-w">doi:10.1038/s41586-024-07166-w</a></p>Publisher Correction: Hypoblast from human pluripotent stem cells regulates epiblast development]]></content:encoded>
+            <dc:title><![CDATA[Publisher Correction: Hypoblast from human pluripotent stem cells regulates epiblast development]]></dc:title>
+            <dc:creator>Takumi Okubo</dc:creator><dc:creator>Nicolas Rivron</dc:creator><dc:creator>Mio Kabata</dc:creator><dc:creator>Hideki Masaki</dc:creator><dc:creator>Keiko Kishimoto</dc:creator><dc:creator>Katsunori Semi</dc:creator><dc:creator>May Nakajima-Koyama</dc:creator><dc:creator>Haruko Kunitomi</dc:creator><dc:creator>Belinda Kaswandy</dc:creator><dc:creator>Hideyuki Sato</dc:creator><dc:creator>Hiromitsu Nakauchi</dc:creator><dc:creator>Knut Woltjen</dc:creator><dc:creator>Mitinori Saitou</dc:creator><dc:creator>Erika Sasaki</dc:creator><dc:creator>Takuya Yamamoto</dc:creator><dc:creator>Yasuhiro Takashima</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07166-w</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-12; | doi:10.1038/s41586-024-07166-w</dc:source>
+            <dc:date>2024-02-12</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07166-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07166-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00417-w">
+            <title><![CDATA[A researcher-exchange programme made me a better doctor at home and abroad]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00417-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 12 February 2024; <a href="https://www.nature.com/articles/d41586-024-00417-w">doi:10.1038/d41586-024-00417-w</a></p>Caleb Skipper describes how global health collaborations bring valuable transfers of knowledge to both sides of the Atlantic.]]></content:encoded>
+            <dc:title><![CDATA[A researcher-exchange programme made me a better doctor at home and abroad]]></dc:title>
+            <dc:creator>Christopher Bendana</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00417-w</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-12; | doi:10.1038/d41586-024-00417-w</dc:source>
+            <dc:date>2024-02-12</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00417-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00417-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00394-0">
+            <title><![CDATA[The ‘Bill Gates problem’: do billionaire philanthropists skew global health research?]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00394-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 12 February 2024; <a href="https://www.nature.com/articles/d41586-024-00394-0">doi:10.1038/d41586-024-00394-0</a></p>Personal priorities are often trumping real needs and skewing where charitable funding goes.]]></content:encoded>
+            <dc:title><![CDATA[The ‘Bill Gates problem’: do billionaire philanthropists skew global health research?]]></dc:title>
+            <dc:creator>Andy Stirling</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00394-0</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-12; | doi:10.1038/d41586-024-00394-0</dc:source>
+            <dc:date>2024-02-12</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00394-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00394-0</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07164-y">
             <title><![CDATA[Author Correction: CEACAM1 regulates TIM-3-mediated tolerance and exhaustion]]></title>
@@ -1240,66 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00318-y</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00318-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00245-y">
-            <title><![CDATA[Surprise find: a blood-based immune system is discovered in the gut]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00245-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 05 February 2024; <a href="https://www.nature.com/articles/d41586-024-00245-y">doi:10.1038/d41586-024-00245-y</a></p>Immune guardians called complement proteins are manufactured by gut cells and help to protect against pathogens.]]></content:encoded>
-            <dc:title><![CDATA[Surprise find: a blood-based immune system is discovered in the gut]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-00245-y</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-05; | doi:10.1038/d41586-024-00245-y</dc:source>
-            <dc:date>2024-02-05</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00245-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00245-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00330-2">
-            <title><![CDATA[I started fossil hunting in my 60s — now I have more than 2,000 pieces]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00330-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 05 February 2024; <a href="https://www.nature.com/articles/d41586-024-00330-2">doi:10.1038/d41586-024-00330-2</a></p>Heather Middleton trawls England’s Jurassic Coast for specimens that might lead to a deeper understanding of palaeontology.]]></content:encoded>
-            <dc:title><![CDATA[I started fossil hunting in my 60s — now I have more than 2,000 pieces]]></dc:title>
-            <dc:creator>Rachael Pells</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00330-2</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-05; | doi:10.1038/d41586-024-00330-2</dc:source>
-            <dc:date>2024-02-05</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00330-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00330-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-04105-z">
-            <title><![CDATA[Synthesizing and identifying potential biomarkers to explore uncharted biochemistry]]></title>
-            <link>https://www.nature.com/articles/d41586-023-04105-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 05 February 2024; <a href="https://www.nature.com/articles/d41586-023-04105-z">doi:10.1038/d41586-023-04105-z</a></p>Public repositories of metabolomics data are expanding rapidly and can be leveraged to uncover previously undescribed metabolites. Reverse metabolomics is a workflow in which thousands of small compounds are synthesized using combinatorial chemistry, and their molecular ‘fingerprints’ are then used to discover where they are localized in tissues and biological fluids and how they are associated with health and disease in humans.]]></content:encoded>
-            <dc:title><![CDATA[Synthesizing and identifying potential biomarkers to explore uncharted biochemistry]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-04105-z</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-05; | doi:10.1038/d41586-023-04105-z</dc:source>
-            <dc:date>2024-02-05</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-04105-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-04105-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00281-8">
-            <title><![CDATA[The world has warmed 1.5 °C, according to 300-year-old sponges]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00281-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 05 February 2024; <a href="https://www.nature.com/articles/d41586-024-00281-8">doi:10.1038/d41586-024-00281-8</a></p>By the time that official temperature records began, global temperatures had already risen by half a degree.]]></content:encoded>
-            <dc:title><![CDATA[The world has warmed 1.5 °C, according to 300-year-old sponges]]></dc:title>
-            <dc:creator>Bianca Nogrady</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00281-8</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-05; | doi:10.1038/d41586-024-00281-8</dc:source>
-            <dc:date>2024-02-05</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00281-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00281-8</prism:url>
         </item>
     
 </rdf:RDF>
