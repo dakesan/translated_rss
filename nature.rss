@@ -18,6 +18,10 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00392-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00390-4"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07165-x"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00406-z"/>
@@ -31,6 +35,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00403-2"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00236-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00350-y"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00393-1"/>
                 
@@ -162,12 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00325-z"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00344-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00323-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00229-y"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,36 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00392-2">
+            <title><![CDATA[The future of precision cancer therapy might be to try everything]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00392-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 14 February 2024; <a href="https://www.nature.com/articles/d41586-024-00392-2">doi:10.1038/d41586-024-00392-2</a></p>Researchers are blasting patients’ cancer cells with dozens of drugs in the hope of finding the right treatment.]]></content:encoded>
+            <dc:title><![CDATA[The future of precision cancer therapy might be to try everything]]></dc:title>
+            <dc:creator>Elie Dolgin</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00392-2</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-14; | doi:10.1038/d41586-024-00392-2</dc:source>
+            <dc:date>2024-02-14</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00392-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00392-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00390-4">
+            <title><![CDATA[Calling all engineers: <i>Nature</i> wants to publish your research]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00390-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 14 February 2024; <a href="https://www.nature.com/articles/d41586-024-00390-4">doi:10.1038/d41586-024-00390-4</a></p>Papers in engineering are under-represented, even neglected, in the journal. We want to change that.]]></content:encoded>
+            <dc:title><![CDATA[Calling all engineers: <i>Nature</i> wants to publish your research]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-00390-4</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-14; | doi:10.1038/d41586-024-00390-4</dc:source>
+            <dc:date>2024-02-14</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00390-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00390-4</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07165-x">
             <title><![CDATA[Alkene dialkylation by triple radical sorting]]></title>
@@ -280,6 +310,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00236-z</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00236-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00350-y">
+            <title><![CDATA[Indonesian election promises boost to research funding — no matter who wins]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00350-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 13 February 2024; <a href="https://www.nature.com/articles/d41586-024-00350-y">doi:10.1038/d41586-024-00350-y</a></p>Scientists regard campaign promises with scepticism, however, and criticize the country’s science super-agency.]]></content:encoded>
+            <dc:title><![CDATA[Indonesian election promises boost to research funding — no matter who wins]]></dc:title>
+            <dc:creator>Ardila Syakriah</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00350-y</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-13; | doi:10.1038/d41586-024-00350-y</dc:source>
+            <dc:date>2024-02-13</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00350-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00350-y</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00393-1">
@@ -1255,51 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00325-z</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00325-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00344-w">
-            <title><![CDATA[Fake research papers flagged by analysing authorship trends]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00344-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 07 February 2024; <a href="https://www.nature.com/articles/d41586-024-00344-w">doi:10.1038/d41586-024-00344-w</a></p>A new approach to detecting fraudulent paper-mill studies focuses on patterns of co-authors rather than manuscript text.]]></content:encoded>
-            <dc:title><![CDATA[Fake research papers flagged by analysing authorship trends]]></dc:title>
-            <dc:creator>Dalmeet Singh Chawla</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00344-w</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-07; | doi:10.1038/d41586-024-00344-w</dc:source>
-            <dc:date>2024-02-07</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00344-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00344-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00323-1">
-            <title><![CDATA[Cyberattacks on knowledge institutions are increasing: what can be done?]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00323-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 07 February 2024; <a href="https://www.nature.com/articles/d41586-024-00323-1">doi:10.1038/d41586-024-00323-1</a></p>For months, ransomware attacks have debilitated research at the British Library in London and Berlin’s natural history museum. They show how vulnerable scientific and educational institutions are to this kind of crime.]]></content:encoded>
-            <dc:title><![CDATA[Cyberattacks on knowledge institutions are increasing: what can be done?]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-00323-1</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-07; | doi:10.1038/d41586-024-00323-1</dc:source>
-            <dc:date>2024-02-07</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00323-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00323-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00229-y">
-            <title><![CDATA[Resting restores performance of discharged lithium-metal batteries]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00229-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 07 February 2024; <a href="https://www.nature.com/articles/d41586-024-00229-y">doi:10.1038/d41586-024-00229-y</a></p>In lithium-metal batteries, grains of lithium can become electrically isolated from the anode, lowering battery performance. Experiments reveal that rest periods after battery discharge might help to solve this problem.]]></content:encoded>
-            <dc:title><![CDATA[Resting restores performance of discharged lithium-metal batteries]]></dc:title>
-            <dc:creator>Laura C. Merrill</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00229-y</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-07; | doi:10.1038/d41586-024-00229-y</dc:source>
-            <dc:date>2024-02-07</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00229-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00229-y</prism:url>
         </item>
     
 </rdf:RDF>
