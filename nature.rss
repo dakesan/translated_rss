@@ -18,15 +18,27 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07165-x"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00406-z"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00404-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00411-2"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00405-0"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00403-2"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00236-z"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00393-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00419-8"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00391-3"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04123-x"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07168-8"/>
                 
@@ -47,6 +59,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00389-x"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00372-6"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00474-1"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00394-0"/>
                 
@@ -154,20 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00229-y"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00298-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00300-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00235-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00299-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00301-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00319-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00326-y"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,21 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07165-x">
+            <title><![CDATA[Alkene dialkylation by triple radical sorting]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07165-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 13 February 2024; <a href="https://www.nature.com/articles/s41586-024-07165-x">doi:10.1038/s41586-024-07165-x</a></p>Alkene dialkylation by triple radical sorting]]></content:encoded>
+            <dc:title><![CDATA[Alkene dialkylation by triple radical sorting]]></dc:title>
+            <dc:creator>Johnny Z. Wang</dc:creator><dc:creator>William L. Lyon</dc:creator><dc:creator>David W. C. MacMillan</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07165-x</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-13; | doi:10.1038/s41586-024-07165-x</dc:source>
+            <dc:date>2024-02-13</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07165-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07165-x</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00406-z">
             <title><![CDATA[Build global collaborations to protect marine migration routes]]></title>
@@ -205,6 +220,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00404-1</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00404-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00411-2">
+            <title><![CDATA[The immune markers that predict who can keep SARS-CoV-2 in check]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00411-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 13 February 2024; <a href="https://www.nature.com/articles/d41586-024-00411-2">doi:10.1038/d41586-024-00411-2</a></p>People infected with the virus that causes COVID-19 cleared the virus more quickly if they had high levels of certain immune cells.]]></content:encoded>
+            <dc:title><![CDATA[The immune markers that predict who can keep SARS-CoV-2 in check]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-00411-2</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-13; | doi:10.1038/d41586-024-00411-2</dc:source>
+            <dc:date>2024-02-13</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00411-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00411-2</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00405-0">
@@ -237,6 +267,21 @@
             <prism:url>https://www.nature.com/articles/d41586-024-00403-2</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00236-z">
+            <title><![CDATA[From the archive: river pollution, and a minister for science]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00236-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 13 February 2024; <a href="https://www.nature.com/articles/d41586-024-00236-z">doi:10.1038/d41586-024-00236-z</a></p>Snippets from Nature’s past.]]></content:encoded>
+            <dc:title><![CDATA[From the archive: river pollution, and a minister for science]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-00236-z</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-13; | doi:10.1038/d41586-024-00236-z</dc:source>
+            <dc:date>2024-02-13</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00236-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00236-z</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-024-00393-1">
             <title><![CDATA[Culture wars are raging on US campuses. Will they affect research?]]></title>
             <link>https://www.nature.com/articles/d41586-024-00393-1</link>
@@ -250,6 +295,51 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00393-1</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00393-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00419-8">
+            <title><![CDATA[Moon mission: will a private firm finally land a craft on the lunar surface?]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00419-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 13 February 2024; <a href="https://www.nature.com/articles/d41586-024-00419-8">doi:10.1038/d41586-024-00419-8</a></p>Anxiety is high as the company Intuitive Machines takes its first crack at a touchdown.]]></content:encoded>
+            <dc:title><![CDATA[Moon mission: will a private firm finally land a craft on the lunar surface?]]></dc:title>
+            <dc:creator>Alexandra Witze</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00419-8</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-13; | doi:10.1038/d41586-024-00419-8</dc:source>
+            <dc:date>2024-02-13</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00419-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00419-8</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00391-3">
+            <title><![CDATA[EU climate policy is dangerously reliant on untested carbon-capture technology]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00391-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 13 February 2024; <a href="https://www.nature.com/articles/d41586-024-00391-3">doi:10.1038/d41586-024-00391-3</a></p>Europe’s ambition for emissions reductions is to be welcomed — but look at the detail, and significant hazards emerge.]]></content:encoded>
+            <dc:title><![CDATA[EU climate policy is dangerously reliant on untested carbon-capture technology]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-00391-3</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-13; | doi:10.1038/d41586-024-00391-3</dc:source>
+            <dc:date>2024-02-13</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00391-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00391-3</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-04123-x">
+            <title><![CDATA[Solitary light pulses on a chip-sized laser open up analytical applications]]></title>
+            <link>https://www.nature.com/articles/d41586-023-04123-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 13 February 2024; <a href="https://www.nature.com/articles/d41586-023-04123-x">doi:10.1038/d41586-023-04123-x</a></p>Self-reinforcing light pulses known as solitons are fundamental structures in wave dynamics. Previously, solitons could be produced only by bench-top lasers, but they can now also be generated using chip-sized mid-infrared lasers. This innovation enables the development of portable, efficient tools for use in spectroscopy, environmental sensing and medical diagnostics.]]></content:encoded>
+            <dc:title><![CDATA[Solitary light pulses on a chip-sized laser open up analytical applications]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-04123-x</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-13; | doi:10.1038/d41586-023-04123-x</dc:source>
+            <dc:date>2024-02-13</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-04123-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-04123-x</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07168-8">
@@ -400,6 +490,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00372-6</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00372-6</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00474-1">
+            <title><![CDATA[Daily briefing: Want a glowing houseplant? Now you can buy one]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00474-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 12 February 2024; <a href="https://www.nature.com/articles/d41586-024-00474-1">doi:10.1038/d41586-024-00474-1</a></p>Petunias that contain genes from bioluminescent mushrooms hit the US market. Plus, climatologist wins landmark defamation case and how air pollution turns moths off flowers.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Want a glowing houseplant? Now you can buy one]]></dc:title>
+            <dc:creator>Katrina Krämer</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00474-1</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-12; | doi:10.1038/d41586-024-00474-1</dc:source>
+            <dc:date>2024-02-12</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00474-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00474-1</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00394-0">
@@ -1195,111 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00229-y</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00229-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00298-z">
-            <title><![CDATA[Best practice for LGBTQ+ data collection by STEM organizations]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00298-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 06 February 2024; <a href="https://www.nature.com/articles/d41586-024-00298-z">doi:10.1038/d41586-024-00298-z</a></p>Best practice for LGBTQ+ data collection by STEM organizations]]></content:encoded>
-            <dc:title><![CDATA[Best practice for LGBTQ+ data collection by STEM organizations]]></dc:title>
-            <dc:creator>Alexander L. Bond</dc:creator><dc:creator>Tyler L. Kelly</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00298-z</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-06; | doi:10.1038/d41586-024-00298-z</dc:source>
-            <dc:date>2024-02-06</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00298-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00298-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00300-8">
-            <title><![CDATA[Urban trees: how to maximize their benefits for humans and the environment]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00300-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 06 February 2024; <a href="https://www.nature.com/articles/d41586-024-00300-8">doi:10.1038/d41586-024-00300-8</a></p>Urban trees: how to maximize their benefits for humans and the environment]]></content:encoded>
-            <dc:title><![CDATA[Urban trees: how to maximize their benefits for humans and the environment]]></dc:title>
-            <dc:creator>Lina Tang</dc:creator><dc:creator>Guofan Shao</dc:creator><dc:creator>Peter M. Groffman</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00300-8</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-06; | doi:10.1038/d41586-024-00300-8</dc:source>
-            <dc:date>2024-02-06</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00300-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00300-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00235-0">
-            <title><![CDATA[From the archive: lonely cells, and Thomas Henry Huxley backs evolution]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00235-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 06 February 2024; <a href="https://www.nature.com/articles/d41586-024-00235-0">doi:10.1038/d41586-024-00235-0</a></p>Snippets from Nature’s past.]]></content:encoded>
-            <dc:title><![CDATA[From the archive: lonely cells, and Thomas Henry Huxley backs evolution]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-00235-0</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-06; | doi:10.1038/d41586-024-00235-0</dc:source>
-            <dc:date>2024-02-06</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00235-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00235-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00299-y">
-            <title><![CDATA[‘Bee protection’ offsets are as flawed as tree-planting schemes]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00299-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 06 February 2024; <a href="https://www.nature.com/articles/d41586-024-00299-y">doi:10.1038/d41586-024-00299-y</a></p>‘Bee protection’ offsets are as flawed as tree-planting schemes]]></content:encoded>
-            <dc:title><![CDATA[‘Bee protection’ offsets are as flawed as tree-planting schemes]]></dc:title>
-            <dc:creator>Ainhoa Magrach</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00299-y</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-06; | doi:10.1038/d41586-024-00299-y</dc:source>
-            <dc:date>2024-02-06</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00299-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00299-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00301-7">
-            <title><![CDATA[Clinical trials: Japan’s opt-out policy raises risks of adverse drug responses]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00301-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 06 February 2024; <a href="https://www.nature.com/articles/d41586-024-00301-7">doi:10.1038/d41586-024-00301-7</a></p>Clinical trials: Japan’s opt-out policy raises risks of adverse drug responses]]></content:encoded>
-            <dc:title><![CDATA[Clinical trials: Japan’s opt-out policy raises risks of adverse drug responses]]></dc:title>
-            <dc:creator>Mira Namba</dc:creator><dc:creator>Yudai Kaneda</dc:creator><dc:creator>Akihiko Ozaki</dc:creator><dc:creator>Tetsuya Tanimoto</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00301-7</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-06; | doi:10.1038/d41586-024-00301-7</dc:source>
-            <dc:date>2024-02-06</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00301-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00301-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00319-x">
-            <title><![CDATA[‘Altruistic’ bull elephant seal lends a helping flipper]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00319-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 06 February 2024; <a href="https://www.nature.com/articles/d41586-024-00319-x">doi:10.1038/d41586-024-00319-x</a></p>Male elephant seals generally have nothing to do with pups — but astounded scientists observed a notable exception.]]></content:encoded>
-            <dc:title><![CDATA[‘Altruistic’ bull elephant seal lends a helping flipper]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-00319-x</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-06; | doi:10.1038/d41586-024-00319-x</dc:source>
-            <dc:date>2024-02-06</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00319-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00319-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00326-y">
-            <title><![CDATA[Santorini’s volcanic past: underwater clues reveal giant prehistoric eruption]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00326-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 06 February 2024; <a href="https://www.nature.com/articles/d41586-024-00326-y">doi:10.1038/d41586-024-00326-y</a></p>An expedition that drilled into the sea floor near the famous Greek island found signs of a gargantuan blast 520,000 years ago and more recent eruptions.]]></content:encoded>
-            <dc:title><![CDATA[Santorini’s volcanic past: underwater clues reveal giant prehistoric eruption]]></dc:title>
-            <dc:creator>Alexandra Witze</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00326-y</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-06; | doi:10.1038/d41586-024-00326-y</dc:source>
-            <dc:date>2024-02-06</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00326-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00326-y</prism:url>
         </item>
     
 </rdf:RDF>
