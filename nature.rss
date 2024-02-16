@@ -18,7 +18,13 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00503-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00211-8"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00408-x"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00506-w"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00362-8"/>
                 
@@ -162,12 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00387-z"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07164-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00413-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00210-9"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,36 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00503-z">
+            <title><![CDATA[The mysteries of seaweeds and stars, and other reads: Books in brief]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00503-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 16 February 2024; <a href="https://www.nature.com/articles/d41586-024-00503-z">doi:10.1038/d41586-024-00503-z</a></p>Andrew Robinson reviews five of the best science picks.]]></content:encoded>
+            <dc:title><![CDATA[The mysteries of seaweeds and stars, and other reads: Books in brief]]></dc:title>
+            <dc:creator>Andrew Robinson</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00503-z</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-16; | doi:10.1038/d41586-024-00503-z</dc:source>
+            <dc:date>2024-02-16</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00503-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00503-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00211-8">
+            <title><![CDATA[Building robots to get kids hooked on STEM subjects]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00211-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 16 February 2024; <a href="https://www.nature.com/articles/d41586-024-00211-8">doi:10.1038/d41586-024-00211-8</a></p>Robotics are a key part of the Fundi Bots education program and its aim to excite children about science and technology.]]></content:encoded>
+            <dc:title><![CDATA[Building robots to get kids hooked on STEM subjects]]></dc:title>
+            <dc:creator>Dom Byrne</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00211-8</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-16; | doi:10.1038/d41586-024-00211-8</dc:source>
+            <dc:date>2024-02-16</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00211-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00211-8</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00408-x">
             <title><![CDATA[A DNA clutch controls a golden nanomachine]]></title>
@@ -190,6 +220,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00408-x</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00408-x</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00506-w">
+            <title><![CDATA[Daily briefing: ‘More nutty and harder’]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00506-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 15 February 2024; <a href="https://www.nature.com/articles/d41586-024-00506-w">doi:10.1038/d41586-024-00506-w</a></p>Rice has been used as a supporting material for growing beef muscle and fat cells in the lab — with edible results. Plus, smoking scars the immune system for years after quitting and universe map suggests dark matter shaped the cosmos.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: ‘More nutty and harder’]]></dc:title>
+            <dc:creator>Katrina Krämer</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00506-w</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-15; | doi:10.1038/d41586-024-00506-w</dc:source>
+            <dc:date>2024-02-15</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00506-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00506-w</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00362-8">
@@ -1255,51 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00387-z</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00387-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07164-y">
-            <title><![CDATA[Author Correction: CEACAM1 regulates TIM-3-mediated tolerance and exhaustion]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07164-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 09 February 2024; <a href="https://www.nature.com/articles/s41586-024-07164-y">doi:10.1038/s41586-024-07164-y</a></p>Author Correction: CEACAM1 regulates TIM-3-mediated tolerance and exhaustion]]></content:encoded>
-            <dc:title><![CDATA[Author Correction: CEACAM1 regulates TIM-3-mediated tolerance and exhaustion]]></dc:title>
-            <dc:creator>Yu-Hwa Huang</dc:creator><dc:creator>Chen Zhu</dc:creator><dc:creator>Yasuyuki Kondo</dc:creator><dc:creator>Ana C. Anderson</dc:creator><dc:creator>Amit Gandhi</dc:creator><dc:creator>Andrew Russell</dc:creator><dc:creator>Stephanie K. Dougan</dc:creator><dc:creator>Britt-Sabina Petersen</dc:creator><dc:creator>Espen Melum</dc:creator><dc:creator>Thomas Pertel</dc:creator><dc:creator>Kiera L. Clayton</dc:creator><dc:creator>Monika Raab</dc:creator><dc:creator>Qiang Chen</dc:creator><dc:creator>Nicole Beauchemin</dc:creator><dc:creator>Paul J. Yazaki</dc:creator><dc:creator>Michal Pyzik</dc:creator><dc:creator>Mario A. Ostrowski</dc:creator><dc:creator>Jonathan N. Glickman</dc:creator><dc:creator>Christopher E. Rudd</dc:creator><dc:creator>Hidde L. Ploegh</dc:creator><dc:creator>Andre Franke</dc:creator><dc:creator>Gregory A. Petsko</dc:creator><dc:creator>Vijay K. Kuchroo</dc:creator><dc:creator>Richard S. Blumberg</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07164-y</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-09; | doi:10.1038/s41586-024-07164-y</dc:source>
-            <dc:date>2024-02-09</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07164-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07164-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00413-0">
-            <title><![CDATA[Why we need to rethink how we talk about cancer]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00413-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 09 February 2024; <a href="https://www.nature.com/articles/d41586-024-00413-0">doi:10.1038/d41586-024-00413-0</a></p>Naming metastatic cancers after parts of the body could be holding up research and preventing people from accessing the best treatment]]></content:encoded>
-            <dc:title><![CDATA[Why we need to rethink how we talk about cancer]]></dc:title>
-            <dc:creator>Lucy Odling-Smee</dc:creator><dc:creator>Noah Baker</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00413-0</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-09; | doi:10.1038/d41586-024-00413-0</dc:source>
-            <dc:date>2024-02-09</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00413-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00413-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00210-9">
-            <title><![CDATA[‘It reflects the society we live in where a young person does not feel life is worth living’]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00210-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 09 February 2024; <a href="https://www.nature.com/articles/d41586-024-00210-9">doi:10.1038/d41586-024-00210-9</a></p>With youth suicide rates rising, it’s vital that mental health forms part of global well-being targets, says Shekhar Saxena.]]></content:encoded>
-            <dc:title><![CDATA[‘It reflects the society we live in where a young person does not feel life is worth living’]]></dc:title>
-            <dc:creator>Dom Byrne</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00210-9</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-09; | doi:10.1038/d41586-024-00210-9</dc:source>
-            <dc:date>2024-02-09</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00210-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00210-9</prism:url>
         </item>
     
 </rdf:RDF>
