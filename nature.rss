@@ -18,6 +18,10 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00408-x"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00362-8"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07191-9"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07184-8"/>
@@ -136,13 +140,13 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07166-w"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00418-9"/>
-                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00395-z"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00369-1"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00397-x"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00418-9"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00407-y"/>
                 
@@ -164,10 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00210-9"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00383-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00402-3"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,36 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00408-x">
+            <title><![CDATA[A DNA clutch controls a golden nanomachine]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00408-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 15 February 2024; <a href="https://www.nature.com/articles/d41586-024-00408-x">doi:10.1038/d41586-024-00408-x</a></p>The engine of a microscopic motor can be coupled or uncoupled from the rotor by means of DNA coatings that respond to a variety of stimuli.]]></content:encoded>
+            <dc:title><![CDATA[A DNA clutch controls a golden nanomachine]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-00408-x</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-15; | doi:10.1038/d41586-024-00408-x</dc:source>
+            <dc:date>2024-02-15</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00408-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00408-x</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00362-8">
+            <title><![CDATA[Ultrafast, nanoscale control of electrical currents using light]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00362-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 15 February 2024; <a href="https://www.nature.com/articles/d41586-024-00362-8">doi:10.1038/d41586-024-00362-8</a></p>Tailoring symmetries in an innovative class of optoelectronic metasurface produces a rich landscape of tunable current patterns down to the nanoscale. These materials provide opportunities for ultrafast light-controlled charge flows that could have applications in terahertz science, information processing and other realms.]]></content:encoded>
+            <dc:title><![CDATA[Ultrafast, nanoscale control of electrical currents using light]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-00362-8</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-15; | doi:10.1038/d41586-024-00362-8</dc:source>
+            <dc:date>2024-02-15</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00362-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00362-8</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07191-9">
             <title><![CDATA[A massive galaxy that formed its stars at <i>z</i> ~ 11]]></title>
@@ -613,11 +643,11 @@
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00489-8">
-            <title><![CDATA[Most detailed X-ray sky map bolsters standard model of cosmology]]></title>
+            <title><![CDATA[This new map of the Universe suggests dark matter shaped the cosmos]]></title>
             <link>https://www.nature.com/articles/d41586-024-00489-8</link>
             <content:encoded>
                 <![CDATA[<p>Nature, Published online: 14 February 2024; <a href="https://www.nature.com/articles/d41586-024-00489-8">doi:10.1038/d41586-024-00489-8</a></p>The eROSITA telescope’s detailed pictures are among the most precise cosmological measurements ever made.]]></content:encoded>
-            <dc:title><![CDATA[Most detailed X-ray sky map bolsters standard model of cosmology]]></dc:title>
+            <dc:title><![CDATA[This new map of the Universe suggests dark matter shaped the cosmos]]></dc:title>
             <dc:creator>Davide Castelvecchi</dc:creator>
             <dc:identifier>doi:10.1038/d41586-024-00489-8</dc:identifier>
             <dc:source>Nature, Published online: 2024-02-14; | doi:10.1038/d41586-024-00489-8</dc:source>
@@ -958,11 +988,11 @@
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00419-8">
-            <title><![CDATA[Moon mission: will a private firm finally land a craft on the lunar surface?]]></title>
+            <title><![CDATA[Private Moon launch a success! But will the craft land safely on the lunar surface?]]></title>
             <link>https://www.nature.com/articles/d41586-024-00419-8</link>
             <content:encoded>
                 <![CDATA[<p>Nature, Published online: 13 February 2024; <a href="https://www.nature.com/articles/d41586-024-00419-8">doi:10.1038/d41586-024-00419-8</a></p>Anxiety is high as the company Intuitive Machines takes its first crack at a touchdown.]]></content:encoded>
-            <dc:title><![CDATA[Moon mission: will a private firm finally land a craft on the lunar surface?]]></dc:title>
+            <dc:title><![CDATA[Private Moon launch a success! But will the craft land safely on the lunar surface?]]></dc:title>
             <dc:creator>Alexandra Witze</dc:creator>
             <dc:identifier>doi:10.1038/d41586-024-00419-8</dc:identifier>
             <dc:source>Nature, Published online: 2024-02-13; | doi:10.1038/d41586-024-00419-8</dc:source>
@@ -1062,21 +1092,6 @@
             <prism:url>https://www.nature.com/articles/s41586-024-07166-w</prism:url>
         </item>
     
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00418-9">
-            <title><![CDATA[Early dementia diagnosis: blood proteins reveal at-risk people]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00418-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 12 February 2024; <a href="https://www.nature.com/articles/d41586-024-00418-9">doi:10.1038/d41586-024-00418-9</a></p>The results of a large-scale screening study could be used to develop blood tests to diagnose diseases such as Alzheimer’s before symptoms take hold.]]></content:encoded>
-            <dc:title><![CDATA[Early dementia diagnosis: blood proteins reveal at-risk people]]></dc:title>
-            <dc:creator>Miryam Naddaf</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00418-9</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-12; | doi:10.1038/d41586-024-00418-9</dc:source>
-            <dc:date>2024-02-12</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00418-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00418-9</prism:url>
-        </item>
-    
         <item rdf:about="https://www.nature.com/articles/d41586-024-00395-z">
             <title><![CDATA[I listen to the sounds this remote wetland makes to learn its rhythms]]></title>
             <link>https://www.nature.com/articles/d41586-024-00395-z</link>
@@ -1120,6 +1135,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00397-x</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00397-x</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00418-9">
+            <title><![CDATA[Early dementia diagnosis: blood proteins reveal at-risk people]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00418-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 12 February 2024; <a href="https://www.nature.com/articles/d41586-024-00418-9">doi:10.1038/d41586-024-00418-9</a></p>The results of a large-scale screening study could be used to develop blood tests to diagnose diseases such as Alzheimer’s before symptoms take hold.]]></content:encoded>
+            <dc:title><![CDATA[Early dementia diagnosis: blood proteins reveal at-risk people]]></dc:title>
+            <dc:creator>Miryam Naddaf</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00418-9</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-12; | doi:10.1038/d41586-024-00418-9</dc:source>
+            <dc:date>2024-02-12</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00418-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00418-9</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00407-y">
@@ -1270,36 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00210-9</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00210-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00383-3">
-            <title><![CDATA[Glow way! Bioluminescent houseplant hits US market for first time]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00383-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 09 February 2024; <a href="https://www.nature.com/articles/d41586-024-00383-3">doi:10.1038/d41586-024-00383-3</a></p>Engineered petunia emits a continuous green glow thanks to genes from a light-up mushroom.]]></content:encoded>
-            <dc:title><![CDATA[Glow way! Bioluminescent houseplant hits US market for first time]]></dc:title>
-            <dc:creator>Katherine Bourzac</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00383-3</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-09; | doi:10.1038/d41586-024-00383-3</dc:source>
-            <dc:date>2024-02-09</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00383-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00383-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00402-3">
-            <title><![CDATA[‘Geometry can be very simple, but totally deep’: meet top maths prizewinner Claire Voisin]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00402-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 09 February 2024; <a href="https://www.nature.com/articles/d41586-024-00402-3">doi:10.1038/d41586-024-00402-3</a></p>Voisin won this year’s Crafoord Prize in Mathematics for research inspired by string theory, and work on a million-dollar unsolved problem.]]></content:encoded>
-            <dc:title><![CDATA[‘Geometry can be very simple, but totally deep’: meet top maths prizewinner Claire Voisin]]></dc:title>
-            <dc:creator>Davide Castelvecchi</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00402-3</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-09; | doi:10.1038/d41586-024-00402-3</dc:source>
-            <dc:date>2024-02-09</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00402-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00402-3</prism:url>
         </item>
     
 </rdf:RDF>
