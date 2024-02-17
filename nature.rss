@@ -20,7 +20,13 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00503-z"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00501-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00275-6"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00211-8"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00497-8"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00408-x"/>
                 
@@ -162,12 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00372-6"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00474-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00394-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00387-z"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -192,6 +192,36 @@
             <prism:url>https://www.nature.com/articles/d41586-024-00503-z</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00501-1">
+            <title><![CDATA[Just 5 women have won a top maths prize in the past 90 years]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00501-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 16 February 2024; <a href="https://www.nature.com/articles/d41586-024-00501-1">doi:10.1038/d41586-024-00501-1</a></p>Prestigious awards such as the Fields Medal, Abel Prize and Breakthrough Prize have been awarded predominantly to men.]]></content:encoded>
+            <dc:title><![CDATA[Just 5 women have won a top maths prize in the past 90 years]]></dc:title>
+            <dc:creator>Sarah Wild</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00501-1</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-16; | doi:10.1038/d41586-024-00501-1</dc:source>
+            <dc:date>2024-02-16</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00501-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00501-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00275-6">
+            <title><![CDATA[Move over, CRISPR: RNA-editing therapies pick up steam]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00275-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 16 February 2024; <a href="https://www.nature.com/articles/d41586-024-00275-6">doi:10.1038/d41586-024-00275-6</a></p>Two RNA-editing therapies for genetic diseases have recently gained approval for clinical trials, raising hopes for safer treatments.]]></content:encoded>
+            <dc:title><![CDATA[Move over, CRISPR: RNA-editing therapies pick up steam]]></dc:title>
+            <dc:creator>Mariana Lenharo</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00275-6</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-16; | doi:10.1038/d41586-024-00275-6</dc:source>
+            <dc:date>2024-02-16</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00275-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00275-6</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-024-00211-8">
             <title><![CDATA[Building robots to get kids hooked on STEM subjects]]></title>
             <link>https://www.nature.com/articles/d41586-024-00211-8</link>
@@ -205,6 +235,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00211-8</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00211-8</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00497-8">
+            <title><![CDATA[What the EU’s tough AI law means for research and ChatGPT]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00497-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 16 February 2024; <a href="https://www.nature.com/articles/d41586-024-00497-8">doi:10.1038/d41586-024-00497-8</a></p>The EU AI Act is the world’s first major legislation on artificial intelligence and strictly regulates general-purpose models.]]></content:encoded>
+            <dc:title><![CDATA[What the EU’s tough AI law means for research and ChatGPT]]></dc:title>
+            <dc:creator>Elizabeth Gibney</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00497-8</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-16; | doi:10.1038/d41586-024-00497-8</dc:source>
+            <dc:date>2024-02-16</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00497-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00497-8</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00408-x">
@@ -1255,51 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00372-6</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00372-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00474-1">
-            <title><![CDATA[Daily briefing: Want a glowing houseplant? Now you can buy one]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00474-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 12 February 2024; <a href="https://www.nature.com/articles/d41586-024-00474-1">doi:10.1038/d41586-024-00474-1</a></p>Petunias that contain genes from bioluminescent mushrooms hit the US market. Plus, climatologist wins landmark defamation case and how air pollution turns moths off flowers.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: Want a glowing houseplant? Now you can buy one]]></dc:title>
-            <dc:creator>Katrina Krämer</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00474-1</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-12; | doi:10.1038/d41586-024-00474-1</dc:source>
-            <dc:date>2024-02-12</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00474-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00474-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00394-0">
-            <title><![CDATA[The ‘Bill Gates problem’: do billionaire philanthropists skew global health research?]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00394-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 12 February 2024; <a href="https://www.nature.com/articles/d41586-024-00394-0">doi:10.1038/d41586-024-00394-0</a></p>Personal priorities are often trumping real needs and skewing where charitable funding goes.]]></content:encoded>
-            <dc:title><![CDATA[The ‘Bill Gates problem’: do billionaire philanthropists skew global health research?]]></dc:title>
-            <dc:creator>Andy Stirling</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00394-0</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-12; | doi:10.1038/d41586-024-00394-0</dc:source>
-            <dc:date>2024-02-12</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00394-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00394-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00387-z">
-            <title><![CDATA[Apple Vision Pro: what does it mean for scientists?]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00387-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 12 February 2024; <a href="https://www.nature.com/articles/d41586-024-00387-z">doi:10.1038/d41586-024-00387-z</a></p>The headset opens up possibilities in accessibility and medical research — and raises concerns about human behaviour.]]></content:encoded>
-            <dc:title><![CDATA[Apple Vision Pro: what does it mean for scientists?]]></dc:title>
-            <dc:creator>Jonathan O&#x27;Callaghan</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00387-z</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-12; | doi:10.1038/d41586-024-00387-z</dc:source>
-            <dc:date>2024-02-12</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00387-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00387-z</prism:url>
         </item>
     
 </rdf:RDF>
