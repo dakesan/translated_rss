@@ -18,6 +18,12 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00477-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00518-6"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00519-5"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00503-z"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00501-1"/>
@@ -162,12 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00407-y"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00417-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00389-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00372-6"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,51 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00477-y">
+            <title><![CDATA[Greener cities: a necessity or a luxury?]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00477-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 19 February 2024; <a href="https://www.nature.com/articles/d41586-024-00477-y">doi:10.1038/d41586-024-00477-y</a></p>Are urban trees and parks essential to improving the environment and human health — or just a sop to middle-class ideals of gentrification? Two books debate these opposing views.]]></content:encoded>
+            <dc:title><![CDATA[Greener cities: a necessity or a luxury?]]></dc:title>
+            <dc:creator>Timon  McPhearson</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00477-y</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-19; | doi:10.1038/d41586-024-00477-y</dc:source>
+            <dc:date>2024-02-19</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00477-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00477-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00518-6">
+            <title><![CDATA[How science is helping to farmers find a balance between agriculture and solar farms]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00518-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 19 February 2024; <a href="https://www.nature.com/articles/d41586-024-00518-6">doi:10.1038/d41586-024-00518-6</a></p>In the French countryside, energy companies are rushing to set up solar farms, with the risk of marginalizing agriculture. Researchers are finding solutions.]]></content:encoded>
+            <dc:title><![CDATA[How science is helping to farmers find a balance between agriculture and solar farms]]></dc:title>
+            <dc:creator>Magali Reinert</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00518-6</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-19; | doi:10.1038/d41586-024-00518-6</dc:source>
+            <dc:date>2024-02-19</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00518-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00518-6</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00519-5">
+            <title><![CDATA[Structural biology for researchers with low vision]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00519-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 19 February 2024; <a href="https://www.nature.com/articles/d41586-024-00519-5">doi:10.1038/d41586-024-00519-5</a></p>Scientists seek to analyse biomolecules at the highest level of resolution. We developed and adapted assistive technologies to help those who are blind to do the same.]]></content:encoded>
+            <dc:title><![CDATA[Structural biology for researchers with low vision]]></dc:title>
+            <dc:creator>Olivia  Shaw</dc:creator><dc:creator>Cynthia  Yurkovich</dc:creator><dc:creator>Jodi  Hadden-Perilla</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00519-5</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-19; | doi:10.1038/d41586-024-00519-5</dc:source>
+            <dc:date>2024-02-19</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00519-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00519-5</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00503-z">
             <title><![CDATA[The mysteries of seaweeds and stars, and other reads: Books in brief]]></title>
@@ -1255,51 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00407-y</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00407-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00417-w">
-            <title><![CDATA[A researcher-exchange programme made me a better doctor at home and abroad]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00417-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 12 February 2024; <a href="https://www.nature.com/articles/d41586-024-00417-w">doi:10.1038/d41586-024-00417-w</a></p>Caleb Skipper describes how global health collaborations bring valuable transfers of knowledge to both sides of the Atlantic.]]></content:encoded>
-            <dc:title><![CDATA[A researcher-exchange programme made me a better doctor at home and abroad]]></dc:title>
-            <dc:creator>Christopher Bendana</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00417-w</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-12; | doi:10.1038/d41586-024-00417-w</dc:source>
-            <dc:date>2024-02-12</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00417-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00417-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00389-x">
-            <title><![CDATA[I took my case to Nepal’s highest court to improve conservation]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00389-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 12 February 2024; <a href="https://www.nature.com/articles/d41586-024-00389-x">doi:10.1038/d41586-024-00389-x</a></p>After seeing an endangered-animal pelt displayed on television, Kumar Paudel embarked on a five-year legal battle, advocating for equitable enforcement of wildlife laws.]]></content:encoded>
-            <dc:title><![CDATA[I took my case to Nepal’s highest court to improve conservation]]></dc:title>
-            <dc:creator>Saugat Bolakhe</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00389-x</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-12; | doi:10.1038/d41586-024-00389-x</dc:source>
-            <dc:date>2024-02-12</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00389-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00389-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00372-6">
-            <title><![CDATA[How journals are fighting back against a wave of questionable images]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00372-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 12 February 2024; <a href="https://www.nature.com/articles/d41586-024-00372-6">doi:10.1038/d41586-024-00372-6</a></p>Publishers are deploying AI-based tools to detect suspicious images, but generative AI threatens their efforts.]]></content:encoded>
-            <dc:title><![CDATA[How journals are fighting back against a wave of questionable images]]></dc:title>
-            <dc:creator>Nicola Jones</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00372-6</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-12; | doi:10.1038/d41586-024-00372-6</dc:source>
-            <dc:date>2024-02-12</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00372-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00372-6</prism:url>
         </item>
     
 </rdf:RDF>
