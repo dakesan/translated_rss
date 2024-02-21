@@ -18,7 +18,13 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07127-3"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00512-y"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00517-7"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00428-7"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00515-9"/>
                 
@@ -28,7 +34,13 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00507-9"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00388-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00478-x"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00525-7"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00509-7"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00481-2"/>
                 
@@ -156,18 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04126-8"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07165-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00406-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00404-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00411-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00405-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00403-2"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,36 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07127-3">
+            <title><![CDATA[The Radcliffe Wave is Oscillating]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07127-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 20 February 2024; <a href="https://www.nature.com/articles/s41586-024-07127-3">doi:10.1038/s41586-024-07127-3</a></p>The Radcliffe Wave is Oscillating]]></content:encoded>
+            <dc:title><![CDATA[The Radcliffe Wave is Oscillating]]></dc:title>
+            <dc:creator>Ralf Konietzka</dc:creator><dc:creator>Alyssa A. Goodman</dc:creator><dc:creator>Catherine Zucker</dc:creator><dc:creator>Andreas Burkert</dc:creator><dc:creator>João Alves</dc:creator><dc:creator>Michael Foley</dc:creator><dc:creator>Cameren Swiggum</dc:creator><dc:creator>Maria Koller</dc:creator><dc:creator>Núria Miret-Roig</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07127-3</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-20; | doi:10.1038/s41586-024-07127-3</dc:source>
+            <dc:date>2024-02-20</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07127-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07127-3</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00512-y">
+            <title><![CDATA[Just a few counselling sessions can hold postpartum depression at bay]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00512-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 20 February 2024; <a href="https://www.nature.com/articles/d41586-024-00512-y">doi:10.1038/d41586-024-00512-y</a></p>Even talking to a non-specialist during pregnancy was enough to reduce the risk of depression and anxiety after birth.]]></content:encoded>
+            <dc:title><![CDATA[Just a few counselling sessions can hold postpartum depression at bay]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-00512-y</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-20; | doi:10.1038/d41586-024-00512-y</dc:source>
+            <dc:date>2024-02-20</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00512-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00512-y</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00517-7">
             <title><![CDATA[Stockholm declaration on AI ethics: why others should sign]]></title>
@@ -190,6 +220,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00517-7</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00517-7</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00428-7">
+            <title><![CDATA[From the archive: Tutankhamun’s coffin, and Darwin shares a letter]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00428-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 20 February 2024; <a href="https://www.nature.com/articles/d41586-024-00428-7">doi:10.1038/d41586-024-00428-7</a></p>Snippets from Nature’s past.]]></content:encoded>
+            <dc:title><![CDATA[From the archive: Tutankhamun’s coffin, and Darwin shares a letter]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-00428-7</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-20; | doi:10.1038/d41586-024-00428-7</dc:source>
+            <dc:date>2024-02-20</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00428-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00428-7</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00515-9">
@@ -252,6 +297,36 @@
             <prism:url>https://www.nature.com/articles/d41586-024-00507-9</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00388-y">
+            <title><![CDATA[200 years of naming dinosaurs: scientists call for overhaul of antiquated system]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00388-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 20 February 2024; <a href="https://www.nature.com/articles/d41586-024-00388-y">doi:10.1038/d41586-024-00388-y</a></p>Some palaeontologists want more rigorous guidelines for naming species, along with action to address problematic historical practices.]]></content:encoded>
+            <dc:title><![CDATA[200 years of naming dinosaurs: scientists call for overhaul of antiquated system]]></dc:title>
+            <dc:creator>Katharine  Sanderson</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00388-y</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-20; | doi:10.1038/d41586-024-00388-y</dc:source>
+            <dc:date>2024-02-20</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00388-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00388-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00478-x">
+            <title><![CDATA[Generative AI’s environmental costs are soaring — and mostly secret]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00478-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 20 February 2024; <a href="https://www.nature.com/articles/d41586-024-00478-x">doi:10.1038/d41586-024-00478-x</a></p>First-of-its-kind US bill would address the environmental costs of the technology, but there’s a long way to go.]]></content:encoded>
+            <dc:title><![CDATA[Generative AI’s environmental costs are soaring — and mostly secret]]></dc:title>
+            <dc:creator>Kate Crawford</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00478-x</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-20; | doi:10.1038/d41586-024-00478-x</dc:source>
+            <dc:date>2024-02-20</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00478-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00478-x</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-024-00525-7">
             <title><![CDATA[R&amp;D budget cut could be the final straw for South Korea’s young scientists]]></title>
             <link>https://www.nature.com/articles/d41586-024-00525-7</link>
@@ -265,6 +340,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00525-7</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00525-7</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00509-7">
+            <title><![CDATA[It’s time for countries to honour their million-dollar biodiversity pledges]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00509-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 20 February 2024; <a href="https://www.nature.com/articles/d41586-024-00509-7">doi:10.1038/d41586-024-00509-7</a></p>Promises to safeguard biodiversity need to be translated into money in the bank.]]></content:encoded>
+            <dc:title><![CDATA[It’s time for countries to honour their million-dollar biodiversity pledges]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-00509-7</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-20; | doi:10.1038/d41586-024-00509-7</dc:source>
+            <dc:date>2024-02-20</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00509-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00509-7</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00481-2">
@@ -481,7 +571,7 @@
             <title><![CDATA[Move over, CRISPR: RNA-editing therapies pick up steam]]></title>
             <link>https://www.nature.com/articles/d41586-024-00275-6</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 16 February 2024; <a href="https://www.nature.com/articles/d41586-024-00275-6">doi:10.1038/d41586-024-00275-6</a></p>Two RNA-editing therapies for genetic diseases have recently gained approval for clinical trials, raising hopes for safer treatments.]]></content:encoded>
+                <![CDATA[<p>Nature, Published online: 16 February 2024; <a href="https://www.nature.com/articles/d41586-024-00275-6">doi:10.1038/d41586-024-00275-6</a></p>Two RNA-editing therapies for genetic diseases have in the past few months gained approval for clinical trials, raising hopes for safer treatments.]]></content:encoded>
             <dc:title><![CDATA[Move over, CRISPR: RNA-editing therapies pick up steam]]></dc:title>
             <dc:creator>Mariana Lenharo</dc:creator>
             <dc:identifier>doi:10.1038/d41586-024-00275-6</dc:identifier>
@@ -1210,96 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-023-04126-8</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-023-04126-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07165-x">
-            <title><![CDATA[Alkene dialkylation by triple radical sorting]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07165-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 February 2024; <a href="https://www.nature.com/articles/s41586-024-07165-x">doi:10.1038/s41586-024-07165-x</a></p>Alkene dialkylation by triple radical sorting]]></content:encoded>
-            <dc:title><![CDATA[Alkene dialkylation by triple radical sorting]]></dc:title>
-            <dc:creator>Johnny Z. Wang</dc:creator><dc:creator>William L. Lyon</dc:creator><dc:creator>David W. C. MacMillan</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07165-x</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-13; | doi:10.1038/s41586-024-07165-x</dc:source>
-            <dc:date>2024-02-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07165-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07165-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00406-z">
-            <title><![CDATA[Build global collaborations to protect marine migration routes]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00406-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 February 2024; <a href="https://www.nature.com/articles/d41586-024-00406-z">doi:10.1038/d41586-024-00406-z</a></p>Build global collaborations to protect marine migration routes]]></content:encoded>
-            <dc:title><![CDATA[Build global collaborations to protect marine migration routes]]></dc:title>
-            <dc:creator>Jianguo Du</dc:creator><dc:creator>Bin Chen</dc:creator><dc:creator>Feng Cai</dc:creator><dc:creator>Wenjia Hu</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00406-z</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-13; | doi:10.1038/d41586-024-00406-z</dc:source>
-            <dc:date>2024-02-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00406-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00406-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00404-1">
-            <title><![CDATA[Deep-sea mining opponents: there’s no free lunch when it comes to clean energy]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00404-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 February 2024; <a href="https://www.nature.com/articles/d41586-024-00404-1">doi:10.1038/d41586-024-00404-1</a></p>Deep-sea mining opponents: there’s no free lunch when it comes to clean energy]]></content:encoded>
-            <dc:title><![CDATA[Deep-sea mining opponents: there’s no free lunch when it comes to clean energy]]></dc:title>
-            <dc:creator>Saleem H. Ali</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00404-1</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-13; | doi:10.1038/d41586-024-00404-1</dc:source>
-            <dc:date>2024-02-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00404-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00404-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00411-2">
-            <title><![CDATA[The immune markers that predict who can keep SARS-CoV-2 in check]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00411-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 February 2024; <a href="https://www.nature.com/articles/d41586-024-00411-2">doi:10.1038/d41586-024-00411-2</a></p>People infected with the virus that causes COVID-19 cleared the virus more quickly if they had high levels of certain immune cells.]]></content:encoded>
-            <dc:title><![CDATA[The immune markers that predict who can keep SARS-CoV-2 in check]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-00411-2</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-13; | doi:10.1038/d41586-024-00411-2</dc:source>
-            <dc:date>2024-02-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00411-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00411-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00405-0">
-            <title><![CDATA[Open-access publishing: citation advantage is unproven]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00405-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 February 2024; <a href="https://www.nature.com/articles/d41586-024-00405-0">doi:10.1038/d41586-024-00405-0</a></p>Open-access publishing: citation advantage is unproven]]></content:encoded>
-            <dc:title><![CDATA[Open-access publishing: citation advantage is unproven]]></dc:title>
-            <dc:creator>Andrew Plume</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00405-0</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-13; | doi:10.1038/d41586-024-00405-0</dc:source>
-            <dc:date>2024-02-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00405-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00405-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00403-2">
-            <title><![CDATA[Replace Norway as co-chair of High Level Panel for a Sustainable Ocean Economy]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00403-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 February 2024; <a href="https://www.nature.com/articles/d41586-024-00403-2">doi:10.1038/d41586-024-00403-2</a></p>Replace Norway as co-chair of High Level Panel for a Sustainable Ocean Economy]]></content:encoded>
-            <dc:title><![CDATA[Replace Norway as co-chair of High Level Panel for a Sustainable Ocean Economy]]></dc:title>
-            <dc:creator>Diva J. Amon</dc:creator><dc:creator>Douglas J. McCauley</dc:creator><dc:creator>Robert Blasiak</dc:creator><dc:creator>Henrik Österblom</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00403-2</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-13; | doi:10.1038/d41586-024-00403-2</dc:source>
-            <dc:date>2024-02-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00403-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00403-2</prism:url>
         </item>
     
 </rdf:RDF>
