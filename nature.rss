@@ -18,6 +18,18 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07197-3"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04129-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00510-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00480-3"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00479-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04135-7"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07127-3"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00512-y"/>
@@ -34,11 +46,15 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00507-9"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00531-9"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00388-y"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00478-x"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00525-7"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00532-8"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00509-7"/>
                 
@@ -152,22 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00190-w"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00398-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00334-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00412-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00233-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00471-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00231-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00420-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04126-8"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,96 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07197-3">
+            <title><![CDATA[Author Correction: Senolytic CAR T cells reverse senescence-associated pathologies]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07197-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 21 February 2024; <a href="https://www.nature.com/articles/s41586-024-07197-3">doi:10.1038/s41586-024-07197-3</a></p>Author Correction: Senolytic CAR T cells reverse senescence-associated pathologies]]></content:encoded>
+            <dc:title><![CDATA[Author Correction: Senolytic CAR T cells reverse senescence-associated pathologies]]></dc:title>
+            <dc:creator>Corina Amor</dc:creator><dc:creator>Judith Feucht</dc:creator><dc:creator>Josef Leibold</dc:creator><dc:creator>Yu-Jui Ho</dc:creator><dc:creator>Changyu Zhu</dc:creator><dc:creator>Direna Alonso-Curbelo</dc:creator><dc:creator>Jorge Mansilla-Soto</dc:creator><dc:creator>Jacob A. Boyer</dc:creator><dc:creator>Xiang Li</dc:creator><dc:creator>Theodoros Giavridis</dc:creator><dc:creator>Amanda Kulick</dc:creator><dc:creator>Shauna Houlihan</dc:creator><dc:creator>Ellinor Peerschke</dc:creator><dc:creator>Scott L. Friedman</dc:creator><dc:creator>Vladimir Ponomarev</dc:creator><dc:creator>Alessandra Piersigilli</dc:creator><dc:creator>Michel Sadelain</dc:creator><dc:creator>Scott W. Lowe</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07197-3</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-21; | doi:10.1038/s41586-024-07197-3</dc:source>
+            <dc:date>2024-02-21</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07197-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07197-3</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-04129-5">
+            <title><![CDATA[A human embryo model mimics early development and blood-cell formation]]></title>
+            <link>https://www.nature.com/articles/d41586-023-04129-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 21 February 2024; <a href="https://www.nature.com/articles/d41586-023-04129-5">doi:10.1038/d41586-023-04129-5</a></p>Human embryos are extremely difficult to study. This lack of samples limits our understanding of crucial developmental stages, such as the early formation of blood cells. A stem-cell-based model closely captures the development of human embryonic and key extra-embryonic tissues after implantation, as well as the formation of early blood cells.]]></content:encoded>
+            <dc:title><![CDATA[A human embryo model mimics early development and blood-cell formation]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-04129-5</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-21; | doi:10.1038/d41586-023-04129-5</dc:source>
+            <dc:date>2024-02-21</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-04129-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-04129-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00510-0">
+            <title><![CDATA[Science can drive development and unity in Africa — as it does in the US and Europe]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00510-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 21 February 2024; <a href="https://www.nature.com/articles/d41586-024-00510-0">doi:10.1038/d41586-024-00510-0</a></p>A plan to establish Africa’s first continent-wide science fund should not be delayed any longer.]]></content:encoded>
+            <dc:title><![CDATA[Science can drive development and unity in Africa — as it does in the US and Europe]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-00510-0</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-21; | doi:10.1038/d41586-024-00510-0</dc:source>
+            <dc:date>2024-02-21</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00510-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00510-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00480-3">
+            <title><![CDATA[Scientists under arrest: the researchers taking action over climate change]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00480-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 21 February 2024; <a href="https://www.nature.com/articles/d41586-024-00480-3">doi:10.1038/d41586-024-00480-3</a></p>Fed up with a lack of political progress in solving the climate problem, some researchers are becoming activists to slow global warming.]]></content:encoded>
+            <dc:title><![CDATA[Scientists under arrest: the researchers taking action over climate change]]></dc:title>
+            <dc:creator>Daniel Grossman</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00480-3</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-21; | doi:10.1038/d41586-024-00480-3</dc:source>
+            <dc:date>2024-02-21</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00480-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00480-3</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00479-w">
+            <title><![CDATA[How to boost your research: take a sabbatical in policy]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00479-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 21 February 2024; <a href="https://www.nature.com/articles/d41586-024-00479-w">doi:10.1038/d41586-024-00479-w</a></p>Academic researchers have a unique opportunity to benefit society — and their research — by spending time in government.]]></content:encoded>
+            <dc:title><![CDATA[How to boost your research: take a sabbatical in policy]]></dc:title>
+            <dc:creator>Jordan Dworkin</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00479-w</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-21; | doi:10.1038/d41586-024-00479-w</dc:source>
+            <dc:date>2024-02-21</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00479-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00479-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-04135-7">
+            <title><![CDATA[Reducing carbon dioxide efficiently to reuse and recycle it]]></title>
+            <link>https://www.nature.com/articles/d41586-023-04135-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 21 February 2024; <a href="https://www.nature.com/articles/d41586-023-04135-7">doi:10.1038/d41586-023-04135-7</a></p>Electrochemical reduction of carbon dioxide holds promise for converting CO2 into valuable products but is hampered by stability issues and wasted carbon. A proton-exchange membrane that uses lead as a catalyst demonstrates the feasibility of durable and efficient CO2 reduction.]]></content:encoded>
+            <dc:title><![CDATA[Reducing carbon dioxide efficiently to reuse and recycle it]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-04135-7</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-21; | doi:10.1038/d41586-023-04135-7</dc:source>
+            <dc:date>2024-02-21</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-04135-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-04135-7</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07127-3">
             <title><![CDATA[The Radcliffe Wave is Oscillating]]></title>
@@ -297,6 +387,21 @@
             <prism:url>https://www.nature.com/articles/d41586-024-00507-9</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00531-9">
+            <title><![CDATA[Daily briefing: The decimal point is 150 years older than we thought]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00531-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 20 February 2024; <a href="https://www.nature.com/articles/d41586-024-00531-9">doi:10.1038/d41586-024-00531-9</a></p>Oldest known decimal point discover by historian while teaching at maths camp. Plus, survey of human diversity yields millions of undiscovered genetic variants and how mind-reading devices are revealing the brain’s secrets.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: The decimal point is 150 years older than we thought]]></dc:title>
+            <dc:creator>Katrina Krämer</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00531-9</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-20; | doi:10.1038/d41586-024-00531-9</dc:source>
+            <dc:date>2024-02-20</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00531-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00531-9</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-024-00388-y">
             <title><![CDATA[200 years of naming dinosaurs: scientists call for overhaul of antiquated system]]></title>
             <link>https://www.nature.com/articles/d41586-024-00388-y</link>
@@ -340,6 +445,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00525-7</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00525-7</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00532-8">
+            <title><![CDATA[AI &amp; robotics briefing: Google AI will help to map methane pollution from space]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00532-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 20 February 2024; <a href="https://www.nature.com/articles/d41586-024-00532-8">doi:10.1038/d41586-024-00532-8</a></p>Data from a soon-to-be-launched satellite will help to create the most comprehensive global methane map. Plus, OpenAI’s video generator Sora could open the deepfake floodgates and what the EU’s tough AI law means for research and ChatGPT.]]></content:encoded>
+            <dc:title><![CDATA[AI &amp; robotics briefing: Google AI will help to map methane pollution from space]]></dc:title>
+            <dc:creator>Katrina Krämer</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00532-8</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-20; | doi:10.1038/d41586-024-00532-8</dc:source>
+            <dc:date>2024-02-20</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00532-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00532-8</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00509-7">
@@ -1180,126 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00190-w</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00190-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00398-w">
-            <title><![CDATA[Introducing meat–rice: grain with added muscles beefs up protein]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00398-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 14 February 2024; <a href="https://www.nature.com/articles/d41586-024-00398-w">doi:10.1038/d41586-024-00398-w</a></p>The laboratory-grown food uses rice as a scaffold for cultured meat.]]></content:encoded>
-            <dc:title><![CDATA[Introducing meat–rice: grain with added muscles beefs up protein]]></dc:title>
-            <dc:creator>Jude Coleman</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00398-w</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-14; | doi:10.1038/d41586-024-00398-w</dc:source>
-            <dc:date>2024-02-14</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00398-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00398-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00334-y">
-            <title><![CDATA[Welcome aboard the Silva family historic spaceside attraction tour]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00334-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 14 February 2024; <a href="https://www.nature.com/articles/d41586-024-00334-y">doi:10.1038/d41586-024-00334-y</a></p>A trip of a lifetime.]]></content:encoded>
-            <dc:title><![CDATA[Welcome aboard the Silva family historic spaceside attraction tour]]></dc:title>
-            <dc:creator>Carol Scheina</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00334-y</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-14; | doi:10.1038/d41586-024-00334-y</dc:source>
-            <dc:date>2024-02-14</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00334-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00334-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00412-1">
-            <title><![CDATA[Smoking scars the immune system for years after quitting]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00412-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 14 February 2024; <a href="https://www.nature.com/articles/d41586-024-00412-1">doi:10.1038/d41586-024-00412-1</a></p>A cigarette habit and previous infection with a common virus both have important effects on the immune system.]]></content:encoded>
-            <dc:title><![CDATA[Smoking scars the immune system for years after quitting]]></dc:title>
-            <dc:creator>Heidi Ledford</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00412-1</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-14; | doi:10.1038/d41586-024-00412-1</dc:source>
-            <dc:date>2024-02-14</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00412-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00412-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00233-2">
-            <title><![CDATA[Energetic laser pulses alter outcomes of X-ray studies of proteins]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00233-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 14 February 2024; <a href="https://www.nature.com/articles/d41586-024-00233-2">doi:10.1038/d41586-024-00233-2</a></p>Cutting-edge X-ray sources have enabled the structural dynamics of proteins to be tracked during biochemical processes, but the findings have been questioned. Two experts discuss the implications of a study that digs into this issue.]]></content:encoded>
-            <dc:title><![CDATA[Energetic laser pulses alter outcomes of X-ray studies of proteins]]></dc:title>
-            <dc:creator>Richard Neutze</dc:creator><dc:creator>R. J. Dwayne Miller</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00233-2</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-14; | doi:10.1038/d41586-024-00233-2</dc:source>
-            <dc:date>2024-02-14</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00233-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00233-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00471-4">
-            <title><![CDATA[Why is Latin America on fire? It’s not just climate change, scientists say]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00471-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 14 February 2024; <a href="https://www.nature.com/articles/d41586-024-00471-4">doi:10.1038/d41586-024-00471-4</a></p>Rampant planting of flammable non-native species has helped to fuel deadly blazes — even in places known for cool, damp weather.]]></content:encoded>
-            <dc:title><![CDATA[Why is Latin America on fire? It’s not just climate change, scientists say]]></dc:title>
-            <dc:creator>Andrew J. Wight</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00471-4</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-14; | doi:10.1038/d41586-024-00471-4</dc:source>
-            <dc:date>2024-02-14</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00471-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00471-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00231-4">
-            <title><![CDATA[Layered ferroelectric materials make waves — and vortices]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00231-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 14 February 2024; <a href="https://www.nature.com/articles/d41586-024-00231-4">doi:10.1038/d41586-024-00231-4</a></p>By combining materials-synthesis techniques, researchers have come up with a way of building layered structures that display intriguing wave-like patterns of electric polarization, and could be useful for next-generation electronics.]]></content:encoded>
-            <dc:title><![CDATA[Layered ferroelectric materials make waves — and vortices]]></dc:title>
-            <dc:creator>Berit H. Goodge</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00231-4</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-14; | doi:10.1038/d41586-024-00231-4</dc:source>
-            <dc:date>2024-02-14</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00231-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00231-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00420-1">
-            <title><![CDATA[Largest post-pandemic survey finds trust in scientists is high]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00420-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 14 February 2024; <a href="https://www.nature.com/articles/d41586-024-00420-1">doi:10.1038/d41586-024-00420-1</a></p>Study of more than 70,000 people suggests that trust levels vary among countries and are linked to political orientation.]]></content:encoded>
-            <dc:title><![CDATA[Largest post-pandemic survey finds trust in scientists is high]]></dc:title>
-            <dc:creator>Carissa Wong</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00420-1</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-14; | doi:10.1038/d41586-024-00420-1</dc:source>
-            <dc:date>2024-02-14</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00420-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00420-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-04126-8">
-            <title><![CDATA[Topological matter created on a quantum chip produces quasiparticles with computing power]]></title>
-            <link>https://www.nature.com/articles/d41586-023-04126-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 14 February 2024; <a href="https://www.nature.com/articles/d41586-023-04126-8">doi:10.1038/d41586-023-04126-8</a></p>Non-Abelian anyons are emergent quasiparticles found in exotic quantum states of matter, which could have applications in fault-tolerant topological quantum computing. But performing the manipulations necessary to make these quasiparticles has proved a challenge — now overcome through a happy confluence of theoretical and experimental innovation.]]></content:encoded>
-            <dc:title><![CDATA[Topological matter created on a quantum chip produces quasiparticles with computing power]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-04126-8</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-14; | doi:10.1038/d41586-023-04126-8</dc:source>
-            <dc:date>2024-02-14</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-04126-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-04126-8</prism:url>
         </item>
     
 </rdf:RDF>
