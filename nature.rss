@@ -18,6 +18,8 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00498-7"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07195-5"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07189-3"/>
@@ -166,8 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00501-1"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00275-6"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,21 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00498-7">
+            <title><![CDATA[How egg cells handle their cellular rubbish]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00498-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 22 February 2024; <a href="https://www.nature.com/articles/d41586-024-00498-7">doi:10.1038/d41586-024-00498-7</a></p>The discovery of a molecular recycling system in mouse oocytes might help scientists to understand why fertility declines with age.]]></content:encoded>
+            <dc:title><![CDATA[How egg cells handle their cellular rubbish]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-00498-7</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-22; | doi:10.1038/d41586-024-00498-7</dc:source>
+            <dc:date>2024-02-22</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00498-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00498-7</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07195-5">
             <title><![CDATA[Editorial Expression of Concern: Class 3 semaphorins control vascular morphogenesis by inhibiting integrin function]]></title>
@@ -1285,21 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00501-1</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00501-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00275-6">
-            <title><![CDATA[Move over, CRISPR: RNA-editing therapies pick up steam]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00275-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 16 February 2024; <a href="https://www.nature.com/articles/d41586-024-00275-6">doi:10.1038/d41586-024-00275-6</a></p>Two RNA-editing therapies for genetic diseases have in the past few months gained approval for clinical trials, raising hopes for safer treatments.]]></content:encoded>
-            <dc:title><![CDATA[Move over, CRISPR: RNA-editing therapies pick up steam]]></dc:title>
-            <dc:creator>Mariana Lenharo</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00275-6</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-16; | doi:10.1038/d41586-024-00275-6</dc:source>
-            <dc:date>2024-02-16</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00275-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00275-6</prism:url>
         </item>
     
 </rdf:RDF>
