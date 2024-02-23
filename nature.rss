@@ -18,7 +18,17 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00513-x"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00561-3"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00498-7"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00555-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00470-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00528-4"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07195-5"/>
                 
@@ -100,6 +110,8 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00520-y"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00551-5"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00511-z"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00311-5"/>
@@ -156,18 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00518-6"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00483-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00502-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00519-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00503-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00522-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00501-1"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,36 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00513-x">
+            <title><![CDATA[Laser pulses engrave an unlikely surface: soap films]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00513-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 22 February 2024; <a href="https://www.nature.com/articles/d41586-024-00513-x">doi:10.1038/d41586-024-00513-x</a></p>Bumping up the detergent content allows a laser pulse to carve a groove in ethereal films.]]></content:encoded>
+            <dc:title><![CDATA[Laser pulses engrave an unlikely surface: soap films]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-00513-x</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-22; | doi:10.1038/d41586-024-00513-x</dc:source>
+            <dc:date>2024-02-22</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00513-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00513-x</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00561-3">
+            <title><![CDATA[How whales sing without drowning, an anatomical mystery solved]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00561-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 22 February 2024; <a href="https://www.nature.com/articles/d41586-024-00561-3">doi:10.1038/d41586-024-00561-3</a></p>Baleen whales sing using a modified larynx, but this leaves them them unable to escape human noise.]]></content:encoded>
+            <dc:title><![CDATA[How whales sing without drowning, an anatomical mystery solved]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-00561-3</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-22; | doi:10.1038/d41586-024-00561-3</dc:source>
+            <dc:date>2024-02-22</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00561-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00561-3</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00498-7">
             <title><![CDATA[How egg cells handle their cellular rubbish]]></title>
@@ -190,6 +220,51 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00498-7</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00498-7</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00555-1">
+            <title><![CDATA[Arno A. Penzias (1933–2024), co-discoverer of the cosmic microwave background]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00555-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 22 February 2024; <a href="https://www.nature.com/articles/d41586-024-00555-1">doi:10.1038/d41586-024-00555-1</a></p>Astrophysicist whose radio-wave observations confirmed the Big Bang origin of the Universe.]]></content:encoded>
+            <dc:title><![CDATA[Arno A. Penzias (1933–2024), co-discoverer of the cosmic microwave background]]></dc:title>
+            <dc:creator>John  Bally</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00555-1</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-22; | doi:10.1038/d41586-024-00555-1</dc:source>
+            <dc:date>2024-02-22</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00555-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00555-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00470-5">
+            <title><![CDATA[CAR T therapy for multiple sclerosis enters US trials for first time]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00470-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 22 February 2024; <a href="https://www.nature.com/articles/d41586-024-00470-5">doi:10.1038/d41586-024-00470-5</a></p>Hopes are high that engineered immune cells, which are already in use to treat blood cancer, will halt the progression of a degenerative autoimmune disorder.]]></content:encoded>
+            <dc:title><![CDATA[CAR T therapy for multiple sclerosis enters US trials for first time]]></dc:title>
+            <dc:creator>Asher Mullard</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00470-5</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-22; | doi:10.1038/d41586-024-00470-5</dc:source>
+            <dc:date>2024-02-22</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00470-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00470-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00528-4">
+            <title><![CDATA[Supernova mystery solved: JWST reveals the fate of an iconic stellar explosion]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00528-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 22 February 2024; <a href="https://www.nature.com/articles/d41586-024-00528-4">doi:10.1038/d41586-024-00528-4</a></p>Decades-long quest ends as the landmark observatory detects signs of the 1987 blast’s central neutron star.]]></content:encoded>
+            <dc:title><![CDATA[Supernova mystery solved: JWST reveals the fate of an iconic stellar explosion]]></dc:title>
+            <dc:creator>Alexandra Witze</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00528-4</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-22; | doi:10.1038/d41586-024-00528-4</dc:source>
+            <dc:date>2024-02-22</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00528-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00528-4</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07195-5">
@@ -763,11 +838,11 @@
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00537-3">
-            <title><![CDATA[The life and gruesome death of a bog man revealed after 5000 years]]></title>
+            <title><![CDATA[The life and gruesome death of a bog man revealed after 5,000 years]]></title>
             <link>https://www.nature.com/articles/d41586-024-00537-3</link>
             <content:encoded>
                 <![CDATA[<p>Nature, Published online: 21 February 2024; <a href="https://www.nature.com/articles/d41586-024-00537-3">doi:10.1038/d41586-024-00537-3</a></p>Vittrup Man, who died in his thirties, was a Scandinavian wanderer who settled down between 3300 and 3100 bc.]]></content:encoded>
-            <dc:title><![CDATA[The life and gruesome death of a bog man revealed after 5000 years]]></dc:title>
+            <dc:title><![CDATA[The life and gruesome death of a bog man revealed after 5,000 years]]></dc:title>
             <dc:creator>Ewen Callaway</dc:creator>
             <dc:identifier>doi:10.1038/d41586-024-00537-3</dc:identifier>
             <dc:source>Nature, Published online: 2024-02-21; | doi:10.1038/d41586-024-00537-3</dc:source>
@@ -790,6 +865,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00520-y</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00520-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00551-5">
+            <title><![CDATA[Daily briefing: Great ‘Stone Age’ wall discovered in Baltic Sea]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00551-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 21 February 2024; <a href="https://www.nature.com/articles/d41586-024-00551-5">doi:10.1038/d41586-024-00551-5</a></p>A string of boulders almost a kilometre long, now covered by the ocean, could be Europe’s oldest human-made megastructure. Plus, the 200-year anniversary of the first dinosaur described by science.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Great ‘Stone Age’ wall discovered in Baltic Sea]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00551-5</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-21; | doi:10.1038/d41586-024-00551-5</dc:source>
+            <dc:date>2024-02-21</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00551-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00551-5</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00511-z">
@@ -1210,96 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00518-6</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00518-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00483-0">
-            <title><![CDATA[Super-speedy sequencing puts genomic diagnosis in the fast lane]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00483-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 19 February 2024; <a href="https://www.nature.com/articles/d41586-024-00483-0">doi:10.1038/d41586-024-00483-0</a></p>Streamlined workflows for DNA and RNA sequencing are helping clinicians to deliver prompt, targeted care to people in days — or even hours.]]></content:encoded>
-            <dc:title><![CDATA[Super-speedy sequencing puts genomic diagnosis in the fast lane]]></dc:title>
-            <dc:creator>Michael Eisenstein</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00483-0</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-19; | doi:10.1038/d41586-024-00483-0</dc:source>
-            <dc:date>2024-02-19</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00483-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00483-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00502-0">
-            <title><![CDATA[Ambitious survey of human diversity yields millions of undiscovered genetic variants]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00502-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 19 February 2024; <a href="https://www.nature.com/articles/d41586-024-00502-0">doi:10.1038/d41586-024-00502-0</a></p>Analysis of the ‘All of Us’ genomic data set begins to tackle inequities in genetics research.]]></content:encoded>
-            <dc:title><![CDATA[Ambitious survey of human diversity yields millions of undiscovered genetic variants]]></dc:title>
-            <dc:creator>Max Kozlov</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00502-0</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-19; | doi:10.1038/d41586-024-00502-0</dc:source>
-            <dc:date>2024-02-19</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00502-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00502-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00519-5">
-            <title><![CDATA[Structural biology for researchers with low vision]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00519-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 19 February 2024; <a href="https://www.nature.com/articles/d41586-024-00519-5">doi:10.1038/d41586-024-00519-5</a></p>Scientists seek to analyse biomolecules at the highest level of resolution. We developed and adapted assistive technologies to help those who are blind to do the same.]]></content:encoded>
-            <dc:title><![CDATA[Structural biology for researchers with low vision]]></dc:title>
-            <dc:creator>Olivia  Shaw</dc:creator><dc:creator>Cynthia  Yurkovich</dc:creator><dc:creator>Jodi  Hadden-Perilla</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00519-5</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-19; | doi:10.1038/d41586-024-00519-5</dc:source>
-            <dc:date>2024-02-19</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00519-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00519-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00503-z">
-            <title><![CDATA[The mysteries of seaweeds and stars, and other reads: Books in brief]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00503-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 16 February 2024; <a href="https://www.nature.com/articles/d41586-024-00503-z">doi:10.1038/d41586-024-00503-z</a></p>Andrew Robinson reviews five of the best science picks.]]></content:encoded>
-            <dc:title><![CDATA[The mysteries of seaweeds and stars, and other reads: Books in brief]]></dc:title>
-            <dc:creator>Andrew Robinson</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00503-z</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-16; | doi:10.1038/d41586-024-00503-z</dc:source>
-            <dc:date>2024-02-16</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00503-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00503-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00522-w">
-            <title><![CDATA[Daily briefing: Mysterious lizard fossil revealed to be mostly black paint]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00522-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 16 February 2024; <a href="https://www.nature.com/articles/d41586-024-00522-w">doi:10.1038/d41586-024-00522-w</a></p>What was thought to be a 280-million-year-old fossil of one of the oldest reptiles is mainly a fake. Plus, young apes like to annoy their elders for fun and how the ‘lab of last resort’ helped to solve a serial-killer case.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: Mysterious lizard fossil revealed to be mostly black paint]]></dc:title>
-            <dc:creator>Katrina Krämer</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00522-w</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-16; | doi:10.1038/d41586-024-00522-w</dc:source>
-            <dc:date>2024-02-16</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00522-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00522-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00501-1">
-            <title><![CDATA[Just 5 women have won a top maths prize in the past 90 years]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00501-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 16 February 2024; <a href="https://www.nature.com/articles/d41586-024-00501-1">doi:10.1038/d41586-024-00501-1</a></p>Prestigious awards such as the Fields Medal, Abel Prize and Breakthrough Prize have been awarded predominantly to men.]]></content:encoded>
-            <dc:title><![CDATA[Just 5 women have won a top maths prize in the past 90 years]]></dc:title>
-            <dc:creator>Sarah Wild</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00501-1</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-16; | doi:10.1038/d41586-024-00501-1</dc:source>
-            <dc:date>2024-02-16</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00501-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00501-1</prism:url>
         </item>
     
 </rdf:RDF>
