@@ -18,6 +18,14 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00572-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00541-7"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00549-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00545-3"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00513-x"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00561-3"/>
@@ -160,14 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06957-x"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00477-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00527-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00473-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00518-6"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,66 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00572-0">
+            <title><![CDATA[What’s the sign for ‘centrifuge’? How we added scientific terms to Indian Sign Language]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00572-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 23 February 2024; <a href="https://www.nature.com/articles/d41586-024-00572-0">doi:10.1038/d41586-024-00572-0</a></p>Molecular biologist Alka Rao brought together her research group and sign-language specialists to broaden access to science for deaf students in India.]]></content:encoded>
+            <dc:title><![CDATA[What’s the sign for ‘centrifuge’? How we added scientific terms to Indian Sign Language]]></dc:title>
+            <dc:creator>Deepa  Padamanaban</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00572-0</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-23; | doi:10.1038/d41586-024-00572-0</dc:source>
+            <dc:date>2024-02-23</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00572-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00572-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00541-7">
+            <title><![CDATA[How our love of pets grew from a clash of world views]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00541-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 23 February 2024; <a href="https://www.nature.com/articles/d41586-024-00541-7">doi:10.1038/d41586-024-00541-7</a></p>Indigenous Americans’ relationships with and knowledge of animals have influenced how Europeans have thought about animals since 1492.]]></content:encoded>
+            <dc:title><![CDATA[How our love of pets grew from a clash of world views]]></dc:title>
+            <dc:creator>Surekha Davies</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00541-7</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-23; | doi:10.1038/d41586-024-00541-7</dc:source>
+            <dc:date>2024-02-23</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00541-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00541-7</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00549-z">
+            <title><![CDATA[First private Moon lander touches down on lunar surface to make history]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00549-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 23 February 2024; <a href="https://www.nature.com/articles/d41586-024-00549-z">doi:10.1038/d41586-024-00549-z</a></p>After a nailbiting descent, the Odysseus spacecraft lands near the lunar south pole and prepares to kick off a week of data-gathering.]]></content:encoded>
+            <dc:title><![CDATA[First private Moon lander touches down on lunar surface to make history]]></dc:title>
+            <dc:creator>Alexandra Witze</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00549-z</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-23; | doi:10.1038/d41586-024-00549-z</dc:source>
+            <dc:date>2024-02-23</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00549-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00549-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00545-3">
+            <title><![CDATA[Save lives in the next pandemic: ensure vaccine equity now]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00545-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 23 February 2024; <a href="https://www.nature.com/articles/d41586-024-00545-3">doi:10.1038/d41586-024-00545-3</a></p>The proposed Pandemic Agreement must ensure that COVID-19 vaccine nationalism is never repeated; 290 scientists call for action.]]></content:encoded>
+            <dc:title><![CDATA[Save lives in the next pandemic: ensure vaccine equity now]]></dc:title>
+            <dc:creator>Colin  Carlson</dc:creator><dc:creator>Daniel  Becker</dc:creator><dc:creator>Christian  Happi</dc:creator><dc:creator>Zoe  O’Donoghue</dc:creator><dc:creator>Tulio  de Oliveira</dc:creator><dc:creator>Samuel O.  Oyola</dc:creator><dc:creator>Timothée  Poisot</dc:creator><dc:creator>Stephanie  Seifert</dc:creator><dc:creator>Alexandra  Phelan</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00545-3</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-23; | doi:10.1038/d41586-024-00545-3</dc:source>
+            <dc:date>2024-02-23</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00545-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00545-3</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00513-x">
             <title><![CDATA[Laser pulses engrave an unlikely surface: soap films]]></title>
@@ -1240,66 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/s41586-023-06957-x</prism:doi>
             <prism:url>https://www.nature.com/articles/s41586-023-06957-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00477-y">
-            <title><![CDATA[Greener cities: a necessity or a luxury?]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00477-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 19 February 2024; <a href="https://www.nature.com/articles/d41586-024-00477-y">doi:10.1038/d41586-024-00477-y</a></p>Are urban trees and parks essential to improving the environment and human health — or just a sop to middle-class ideals of gentrification? Two books debate these opposing views.]]></content:encoded>
-            <dc:title><![CDATA[Greener cities: a necessity or a luxury?]]></dc:title>
-            <dc:creator>Timon  McPhearson</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00477-y</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-19; | doi:10.1038/d41586-024-00477-y</dc:source>
-            <dc:date>2024-02-19</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00477-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00477-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00527-5">
-            <title><![CDATA[Daily briefing: Disease-resistant genetically modified banana is first to be approved to eat]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00527-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 19 February 2024; <a href="https://www.nature.com/articles/d41586-024-00527-5">doi:10.1038/d41586-024-00527-5</a></p>The variety is resistant to a devastating banana disease for which there is currently no treatment or cure. Plus, RNA-editing therapies pick up steam and just 5 women have won a top maths prize in the past 90 years.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: Disease-resistant genetically modified banana is first to be approved to eat]]></dc:title>
-            <dc:creator>Flora Graham</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00527-5</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-19; | doi:10.1038/d41586-024-00527-5</dc:source>
-            <dc:date>2024-02-19</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00527-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00527-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00473-2">
-            <title><![CDATA[The decimal point is 150 years older than historians thought]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00473-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 19 February 2024; <a href="https://www.nature.com/articles/d41586-024-00473-2">doi:10.1038/d41586-024-00473-2</a></p>Origin of the powerful calculation tool traced back to a mathematician from the Italian Renaissance.]]></content:encoded>
-            <dc:title><![CDATA[The decimal point is 150 years older than historians thought]]></dc:title>
-            <dc:creator>Jo Marchant</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00473-2</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-19; | doi:10.1038/d41586-024-00473-2</dc:source>
-            <dc:date>2024-02-19</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00473-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00473-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00518-6">
-            <title><![CDATA[How science is helping farmers to find a balance between agriculture and solar farms]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00518-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 19 February 2024; <a href="https://www.nature.com/articles/d41586-024-00518-6">doi:10.1038/d41586-024-00518-6</a></p>In the French countryside, energy companies are rushing to set up solar farms, with the risk of marginalizing agriculture. Researchers are finding solutions.]]></content:encoded>
-            <dc:title><![CDATA[How science is helping farmers to find a balance between agriculture and solar farms]]></dc:title>
-            <dc:creator>Magali Reinert</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00518-6</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-19; | doi:10.1038/d41586-024-00518-6</dc:source>
-            <dc:date>2024-02-19</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00518-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00518-6</prism:url>
         </item>
     
 </rdf:RDF>
