@@ -18,11 +18,23 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07115-7"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00550-6"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00572-0"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00541-7"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00549-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00568-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00431-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00212-7"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00443-8"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00545-3"/>
                 
@@ -31,6 +43,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00561-3"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00498-7"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00571-1"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00555-1"/>
                 
@@ -154,20 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00478-x"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00525-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00532-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00509-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00481-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00484-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07019-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06957-x"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,36 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07115-7">
+            <title><![CDATA[Author Correction: Solving olympiad geometry without human demonstrations]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07115-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 23 February 2024; <a href="https://www.nature.com/articles/s41586-024-07115-7">doi:10.1038/s41586-024-07115-7</a></p>Author Correction: Solving olympiad geometry without human demonstrations]]></content:encoded>
+            <dc:title><![CDATA[Author Correction: Solving olympiad geometry without human demonstrations]]></dc:title>
+            <dc:creator>Trieu H. Trinh</dc:creator><dc:creator>Yuhuai Wu</dc:creator><dc:creator>Quoc V. Le</dc:creator><dc:creator>He He</dc:creator><dc:creator>Thang Luong</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07115-7</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-23; | doi:10.1038/s41586-024-07115-7</dc:source>
+            <dc:date>2024-02-23</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07115-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07115-7</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00550-6">
+            <title><![CDATA[Neuralink brain chip: advance sparks safety and secrecy concerns]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00550-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 23 February 2024; <a href="https://www.nature.com/articles/d41586-024-00550-6">doi:10.1038/d41586-024-00550-6</a></p>Elon Musk announced this week that his company’s brain implant has allowed a person to move a computer mouse with their mind.]]></content:encoded>
+            <dc:title><![CDATA[Neuralink brain chip: advance sparks safety and secrecy concerns]]></dc:title>
+            <dc:creator>Liam Drew</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00550-6</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-23; | doi:10.1038/d41586-024-00550-6</dc:source>
+            <dc:date>2024-02-23</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00550-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00550-6</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00572-0">
             <title><![CDATA[What’s the sign for ‘centrifuge’? How we added scientific terms to Indian Sign Language]]></title>
@@ -211,7 +241,7 @@
             <title><![CDATA[First private Moon lander touches down on lunar surface to make history]]></title>
             <link>https://www.nature.com/articles/d41586-024-00549-z</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 23 February 2024; <a href="https://www.nature.com/articles/d41586-024-00549-z">doi:10.1038/d41586-024-00549-z</a></p>After a nailbiting descent, the Odysseus spacecraft lands near the lunar south pole and prepares to kick off a week of data-gathering.]]></content:encoded>
+                <![CDATA[<p>Nature, Published online: 23 February 2024; <a href="https://www.nature.com/articles/d41586-024-00549-z">doi:10.1038/d41586-024-00549-z</a></p>After a nail-biting descent, the Odysseus spacecraft has landed near the lunar south pole and prepares to kick off a week of data gathering.]]></content:encoded>
             <dc:title><![CDATA[First private Moon lander touches down on lunar surface to make history]]></dc:title>
             <dc:creator>Alexandra Witze</dc:creator>
             <dc:identifier>doi:10.1038/d41586-024-00549-z</dc:identifier>
@@ -220,6 +250,66 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00549-z</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00549-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00568-w">
+            <title><![CDATA[‘All of Us’ genetics chart stirs unease over controversial depiction of race]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00568-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 23 February 2024; <a href="https://www.nature.com/articles/d41586-024-00568-w">doi:10.1038/d41586-024-00568-w</a></p>Debate over figure connecting genes, race and ethnicity reignites concerns among geneticists about how to represent human diversity.]]></content:encoded>
+            <dc:title><![CDATA[‘All of Us’ genetics chart stirs unease over controversial depiction of race]]></dc:title>
+            <dc:creator>Max Kozlov</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00568-w</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-23; | doi:10.1038/d41586-024-00568-w</dc:source>
+            <dc:date>2024-02-23</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00568-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00568-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00431-y">
+            <title><![CDATA[Machine learning reveals huge potential benefits of sustainable fertilizer use]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00431-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 23 February 2024; <a href="https://www.nature.com/articles/d41586-024-00431-y">doi:10.1038/d41586-024-00431-y</a></p>Agricultural fertilizers are the main global source of ammonia emissions, which harm human health and reduce farmers’ profits. An analysis using big data and machine learning reveals that locally optimized fertilizer-management and tillage practices could slash ammonia emissions from rice, wheat and maize cultivation by up to 38%.]]></content:encoded>
+            <dc:title><![CDATA[Machine learning reveals huge potential benefits of sustainable fertilizer use]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-00431-y</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-23; | doi:10.1038/d41586-024-00431-y</dc:source>
+            <dc:date>2024-02-23</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00431-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00431-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00212-7">
+            <title><![CDATA[How we boosted female faculty numbers in male-dominated departments]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00212-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 23 February 2024; <a href="https://www.nature.com/articles/d41586-024-00212-7">doi:10.1038/d41586-024-00212-7</a></p>Two leaders of the University of Melbourne’s affirmative action strategy describe their drive to hire more female colleagues.]]></content:encoded>
+            <dc:title><![CDATA[How we boosted female faculty numbers in male-dominated departments]]></dc:title>
+            <dc:creator>Dom Byrne</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00212-7</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-23; | doi:10.1038/d41586-024-00212-7</dc:source>
+            <dc:date>2024-02-23</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00212-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00212-7</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00443-8">
+            <title><![CDATA[The first bulk ceramic that deforms like a metal at room temperature]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00443-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 23 February 2024; <a href="https://www.nature.com/articles/d41586-024-00443-8">doi:10.1038/d41586-024-00443-8</a></p>An innovative high-strength ceramic consists of interlocked, nanometre-scale plates in which stacked layers of the material are twisted relative to each other. It can deform at room temperature without fracturing instantly — thereby achieving a long-standing goal for materials scientists.]]></content:encoded>
+            <dc:title><![CDATA[The first bulk ceramic that deforms like a metal at room temperature]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-00443-8</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-23; | doi:10.1038/d41586-024-00443-8</dc:source>
+            <dc:date>2024-02-23</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00443-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00443-8</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00545-3">
@@ -282,6 +372,21 @@
             <prism:url>https://www.nature.com/articles/d41586-024-00498-7</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00571-1">
+            <title><![CDATA[Daily briefing: Microplastics muddy the definition of the Anthropocene]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00571-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 22 February 2024; <a href="https://www.nature.com/articles/d41586-024-00571-1">doi:10.1038/d41586-024-00571-1</a></p>Microplastics might not be a reliable way to define the geological epoch mooted to have begun when humans started altering the planet. Plus, ancient ‘Vittrup Man’ was a traveller from far away and how to boost your research with a policy sabbatical.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Microplastics muddy the definition of the Anthropocene]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00571-1</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-22; | doi:10.1038/d41586-024-00571-1</dc:source>
+            <dc:date>2024-02-22</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00571-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00571-1</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-024-00555-1">
             <title><![CDATA[Arno A. Penzias (1933–2024), co-discoverer of the cosmic microwave background]]></title>
             <link>https://www.nature.com/articles/d41586-024-00555-1</link>
@@ -298,11 +403,11 @@
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00470-5">
-            <title><![CDATA[CAR T therapy for multiple sclerosis enters US trials for first time]]></title>
+            <title><![CDATA[CAR-T therapy for multiple sclerosis enters US trials for first time]]></title>
             <link>https://www.nature.com/articles/d41586-024-00470-5</link>
             <content:encoded>
                 <![CDATA[<p>Nature, Published online: 22 February 2024; <a href="https://www.nature.com/articles/d41586-024-00470-5">doi:10.1038/d41586-024-00470-5</a></p>Hopes are high that engineered immune cells, which are already in use to treat blood cancer, will halt the progression of a degenerative autoimmune disorder.]]></content:encoded>
-            <dc:title><![CDATA[CAR T therapy for multiple sclerosis enters US trials for first time]]></dc:title>
+            <dc:title><![CDATA[CAR-T therapy for multiple sclerosis enters US trials for first time]]></dc:title>
             <dc:creator>Asher Mullard</dc:creator>
             <dc:identifier>doi:10.1038/d41586-024-00470-5</dc:identifier>
             <dc:source>Nature, Published online: 2024-02-22; | doi:10.1038/d41586-024-00470-5</dc:source>
@@ -1195,111 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00478-x</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00478-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00525-7">
-            <title><![CDATA[R&amp;D budget cut could be the final straw for South Korea’s young scientists]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00525-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 20 February 2024; <a href="https://www.nature.com/articles/d41586-024-00525-7">doi:10.1038/d41586-024-00525-7</a></p>As early-career researchers, we fear that our peers will struggle to stay afloat amid sudden and confusing budget constraints.]]></content:encoded>
-            <dc:title><![CDATA[R&amp;D budget cut could be the final straw for South Korea’s young scientists]]></dc:title>
-            <dc:creator>Bongjae  Kim</dc:creator><dc:creator>Ara  Go</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00525-7</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-20; | doi:10.1038/d41586-024-00525-7</dc:source>
-            <dc:date>2024-02-20</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00525-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00525-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00532-8">
-            <title><![CDATA[AI &amp; robotics briefing: Google AI will help to map methane pollution from space]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00532-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 20 February 2024; <a href="https://www.nature.com/articles/d41586-024-00532-8">doi:10.1038/d41586-024-00532-8</a></p>Data from a soon-to-be-launched satellite will help to create the most comprehensive global methane map. Plus, OpenAI’s video generator Sora could open the deepfake floodgates and what the EU’s tough AI law means for research and ChatGPT.]]></content:encoded>
-            <dc:title><![CDATA[AI &amp; robotics briefing: Google AI will help to map methane pollution from space]]></dc:title>
-            <dc:creator>Katrina Krämer</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00532-8</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-20; | doi:10.1038/d41586-024-00532-8</dc:source>
-            <dc:date>2024-02-20</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00532-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00532-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00509-7">
-            <title><![CDATA[It’s time for countries to honour their million-dollar biodiversity pledges]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00509-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 20 February 2024; <a href="https://www.nature.com/articles/d41586-024-00509-7">doi:10.1038/d41586-024-00509-7</a></p>Promises to safeguard biodiversity need to be translated into money in the bank.]]></content:encoded>
-            <dc:title><![CDATA[It’s time for countries to honour their million-dollar biodiversity pledges]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-00509-7</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-20; | doi:10.1038/d41586-024-00509-7</dc:source>
-            <dc:date>2024-02-20</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00509-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00509-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00481-2">
-            <title><![CDATA[Mind-reading devices are revealing the brain’s secrets]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00481-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 20 February 2024; <a href="https://www.nature.com/articles/d41586-024-00481-2">doi:10.1038/d41586-024-00481-2</a></p>Implants and other technologies that decode neural activity can restore people’s abilities to move and speak — and help researchers to understand how the brain works.]]></content:encoded>
-            <dc:title><![CDATA[Mind-reading devices are revealing the brain’s secrets]]></dc:title>
-            <dc:creator>Miryam Naddaf</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00481-2</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-20; | doi:10.1038/d41586-024-00481-2</dc:source>
-            <dc:date>2024-02-20</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00481-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00481-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00484-z">
-            <title><![CDATA[Building precision instruments to explore the cosmos]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00484-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 19 February 2024; <a href="https://www.nature.com/articles/d41586-024-00484-z">doi:10.1038/d41586-024-00484-z</a></p>Phil Korngut tests NASA’s SPHEREx telescope under extreme conditions at his laboratory in California.]]></content:encoded>
-            <dc:title><![CDATA[Building precision instruments to explore the cosmos]]></dc:title>
-            <dc:creator>Rachael Pells</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00484-z</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-19; | doi:10.1038/d41586-024-00484-z</dc:source>
-            <dc:date>2024-02-19</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00484-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00484-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07019-6">
-            <title><![CDATA[Genetic drivers of heterogeneity in type 2 diabetes pathophysiology]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07019-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 19 February 2024; <a href="https://www.nature.com/articles/s41586-024-07019-6">doi:10.1038/s41586-024-07019-6</a></p>A meta-analysis of genome-wide association studies of type 2 diabetes (T2D) identifies more than 600 T2D-associated loci; integrating physiological trait and single-cell chromatin accessibility data at these loci sheds light on heterogeneity within the T2D phenotype.]]></content:encoded>
-            <dc:title><![CDATA[Genetic drivers of heterogeneity in type 2 diabetes pathophysiology]]></dc:title>
-            <dc:creator>Ken Suzuki</dc:creator><dc:creator>Konstantinos Hatzikotoulas</dc:creator><dc:creator>Lorraine Southam</dc:creator><dc:creator>Henry J. Taylor</dc:creator><dc:creator>Xianyong Yin</dc:creator><dc:creator>Kim M. Lorenz</dc:creator><dc:creator>Ravi Mandla</dc:creator><dc:creator>Alicia Huerta-Chagoya</dc:creator><dc:creator>Giorgio E. M. Melloni</dc:creator><dc:creator>Stavroula Kanoni</dc:creator><dc:creator>Nigel W. Rayner</dc:creator><dc:creator>Ozvan Bocher</dc:creator><dc:creator>Ana Luiza Arruda</dc:creator><dc:creator>Kyuto Sonehara</dc:creator><dc:creator>Shinichi Namba</dc:creator><dc:creator>Simon S. K. Lee</dc:creator><dc:creator>Michael H. Preuss</dc:creator><dc:creator>Lauren E. Petty</dc:creator><dc:creator>Philip Schroeder</dc:creator><dc:creator>Brett Vanderwerff</dc:creator><dc:creator>Mart Kals</dc:creator><dc:creator>Fiona Bragg</dc:creator><dc:creator>Kuang Lin</dc:creator><dc:creator>Xiuqing Guo</dc:creator><dc:creator>Weihua Zhang</dc:creator><dc:creator>Jie Yao</dc:creator><dc:creator>Young Jin Kim</dc:creator><dc:creator>Mariaelisa Graff</dc:creator><dc:creator>Fumihiko Takeuchi</dc:creator><dc:creator>Jana Nano</dc:creator><dc:creator>Amel Lamri</dc:creator><dc:creator>Masahiro Nakatochi</dc:creator><dc:creator>Sanghoon Moon</dc:creator><dc:creator>Robert A. Scott</dc:creator><dc:creator>James P. Cook</dc:creator><dc:creator>Jung-Jin Lee</dc:creator><dc:creator>Ian Pan</dc:creator><dc:creator>Daniel Taliun</dc:creator><dc:creator>Esteban J. Parra</dc:creator><dc:creator>Jin-Fang Chai</dc:creator><dc:creator>Lawrence F. Bielak</dc:creator><dc:creator>Yasuharu Tabara</dc:creator><dc:creator>Yang Hai</dc:creator><dc:creator>Gudmar Thorleifsson</dc:creator><dc:creator>Niels Grarup</dc:creator><dc:creator>Tamar Sofer</dc:creator><dc:creator>Matthias Wuttke</dc:creator><dc:creator>Chloé Sarnowski</dc:creator><dc:creator>Christian Gieger</dc:creator><dc:creator>Darryl Nousome</dc:creator><dc:creator>Stella Trompet</dc:creator><dc:creator>Soo-Heon Kwak</dc:creator><dc:creator>Jirong Long</dc:creator><dc:creator>Meng Sun</dc:creator><dc:creator>Lin Tong</dc:creator><dc:creator>Wei-Min Chen</dc:creator><dc:creator>Suraj S. Nongmaithem</dc:creator><dc:creator>Raymond Noordam</dc:creator><dc:creator>Victor J. Y. Lim</dc:creator><dc:creator>Claudia H. T. Tam</dc:creator><dc:creator>Yoonjung Yoonie Joo</dc:creator><dc:creator>Chien-Hsiun Chen</dc:creator><dc:creator>Laura M. Raffield</dc:creator><dc:creator>Bram Peter Prins</dc:creator><dc:creator>Aude Nicolas</dc:creator><dc:creator>Lisa R. Yanek</dc:creator><dc:creator>Guanjie Chen</dc:creator><dc:creator>Jennifer A. Brody</dc:creator><dc:creator>Edmond Kabagambe</dc:creator><dc:creator>Ping An</dc:creator><dc:creator>Anny H. Xiang</dc:creator><dc:creator>Hyeok Sun Choi</dc:creator><dc:creator>Brian E. Cade</dc:creator><dc:creator>Jingyi Tan</dc:creator><dc:creator>K. Alaine Broadaway</dc:creator><dc:creator>Alice Williamson</dc:creator><dc:creator>Zoha Kamali</dc:creator><dc:creator>Jinrui Cui</dc:creator><dc:creator>Manonanthini Thangam</dc:creator><dc:creator>Linda S. Adair</dc:creator><dc:creator>Adebowale Adeyemo</dc:creator><dc:creator>Carlos A. Aguilar-Salinas</dc:creator><dc:creator>Tarunveer S. Ahluwalia</dc:creator><dc:creator>Sonia S. Anand</dc:creator><dc:creator>Alain Bertoni</dc:creator><dc:creator>Jette Bork-Jensen</dc:creator><dc:creator>Ivan Brandslund</dc:creator><dc:creator>Thomas A. Buchanan</dc:creator><dc:creator>Charles F. Burant</dc:creator><dc:creator>Adam S. Butterworth</dc:creator><dc:creator>Mickaël Canouil</dc:creator><dc:creator>Juliana C. N. Chan</dc:creator><dc:creator>Li-Ching Chang</dc:creator><dc:creator>Miao-Li Chee</dc:creator><dc:creator>Ji Chen</dc:creator><dc:creator>Shyh-Huei Chen</dc:creator><dc:creator>Yuan-Tsong Chen</dc:creator><dc:creator>Zhengming Chen</dc:creator><dc:creator>Lee-Ming Chuang</dc:creator><dc:creator>Mary Cushman</dc:creator><dc:creator>John Danesh</dc:creator><dc:creator>Swapan K. Das</dc:creator><dc:creator>H. Janaka de Silva</dc:creator><dc:creator>George Dedoussis</dc:creator><dc:creator>Latchezar Dimitrov</dc:creator><dc:creator>Ayo P. Doumatey</dc:creator><dc:creator>Shufa Du</dc:creator><dc:creator>Qing Duan</dc:creator><dc:creator>Kai-Uwe Eckardt</dc:creator><dc:creator>Leslie S. Emery</dc:creator><dc:creator>Daniel S. Evans</dc:creator><dc:creator>Michele K. Evans</dc:creator><dc:creator>Krista Fischer</dc:creator><dc:creator>James S. Floyd</dc:creator><dc:creator>Ian Ford</dc:creator><dc:creator>Oscar H. Franco</dc:creator><dc:creator>Timothy M. Frayling</dc:creator><dc:creator>Barry I. Freedman</dc:creator><dc:creator>Pauline Genter</dc:creator><dc:creator>Hertzel C. Gerstein</dc:creator><dc:creator>Vilmantas Giedraitis</dc:creator><dc:creator>Clicerio González-Villalpando</dc:creator><dc:creator>Maria Elena González-Villalpando</dc:creator><dc:creator>Penny Gordon-Larsen</dc:creator><dc:creator>Myron Gross</dc:creator><dc:creator>Lindsay A. Guare</dc:creator><dc:creator>Sophie Hackinger</dc:creator><dc:creator>Liisa Hakaste</dc:creator><dc:creator>Sohee Han</dc:creator><dc:creator>Andrew T. Hattersley</dc:creator><dc:creator>Christian Herder</dc:creator><dc:creator>Momoko Horikoshi</dc:creator><dc:creator>Annie-Green Howard</dc:creator><dc:creator>Willa Hsueh</dc:creator><dc:creator>Mengna Huang</dc:creator><dc:creator>Wei Huang</dc:creator><dc:creator>Yi-Jen Hung</dc:creator><dc:creator>Mi Yeong Hwang</dc:creator><dc:creator>Chii-Min Hwu</dc:creator><dc:creator>Sahoko Ichihara</dc:creator><dc:creator>Mohammad Arfan Ikram</dc:creator><dc:creator>Martin Ingelsson</dc:creator><dc:creator>Md. Tariqul Islam</dc:creator><dc:creator>Masato Isono</dc:creator><dc:creator>Hye-Mi Jang</dc:creator><dc:creator>Farzana Jasmine</dc:creator><dc:creator>Guozhi Jiang</dc:creator><dc:creator>Jost B. Jonas</dc:creator><dc:creator>Torben Jørgensen</dc:creator><dc:creator>Frederick K. Kamanu</dc:creator><dc:creator>Fouad R. Kandeel</dc:creator><dc:creator>Anuradhani Kasturiratne</dc:creator><dc:creator>Tomohiro Katsuya</dc:creator><dc:creator>Varinderpal Kaur</dc:creator><dc:creator>Takahisa Kawaguchi</dc:creator><dc:creator>Jacob M. Keaton</dc:creator><dc:creator>Abel N. Kho</dc:creator><dc:creator>Chiea-Chuen Khor</dc:creator><dc:creator>Muhammad G. Kibriya</dc:creator><dc:creator>Duk-Hwan Kim</dc:creator><dc:creator>Florian Kronenberg</dc:creator><dc:creator>Johanna Kuusisto</dc:creator><dc:creator>Kristi Läll</dc:creator><dc:creator>Leslie A. Lange</dc:creator><dc:creator>Kyung Min Lee</dc:creator><dc:creator>Myung-Shik Lee</dc:creator><dc:creator>Nanette R. Lee</dc:creator><dc:creator>Aaron Leong</dc:creator><dc:creator>Liming Li</dc:creator><dc:creator>Yun Li</dc:creator><dc:creator>Ruifang Li-Gao</dc:creator><dc:creator>Symen Ligthart</dc:creator><dc:creator>Cecilia M. Lindgren</dc:creator><dc:creator>Allan Linneberg</dc:creator><dc:creator>Ching-Ti Liu</dc:creator><dc:creator>Jianjun Liu</dc:creator><dc:creator>Adam E. Locke</dc:creator><dc:creator>Tin Louie</dc:creator><dc:creator>Jian’an Luan</dc:creator><dc:creator>Andrea O. Luk</dc:creator><dc:creator>Xi Luo</dc:creator><dc:creator>Jun Lv</dc:creator><dc:creator>Julie A. Lynch</dc:creator><dc:creator>Valeriya Lyssenko</dc:creator><dc:creator>Shiro Maeda</dc:creator><dc:creator>Vasiliki Mamakou</dc:creator><dc:creator>Sohail Rafik Mansuri</dc:creator><dc:creator>Koichi Matsuda</dc:creator><dc:creator>Thomas Meitinger</dc:creator><dc:creator>Olle Melander</dc:creator><dc:creator>Andres Metspalu</dc:creator><dc:creator>Huan Mo</dc:creator><dc:creator>Andrew D. Morris</dc:creator><dc:creator>Filipe A. Moura</dc:creator><dc:creator>Jerry L. Nadler</dc:creator><dc:creator>Michael A. Nalls</dc:creator><dc:creator>Uma Nayak</dc:creator><dc:creator>Ioanna Ntalla</dc:creator><dc:creator>Yukinori Okada</dc:creator><dc:creator>Lorena Orozco</dc:creator><dc:creator>Sanjay R. Patel</dc:creator><dc:creator>Snehal Patil</dc:creator><dc:creator>Pei Pei</dc:creator><dc:creator>Mark A. Pereira</dc:creator><dc:creator>Annette Peters</dc:creator><dc:creator>Fraser J. Pirie</dc:creator><dc:creator>Hannah G. Polikowsky</dc:creator><dc:creator>Bianca Porneala</dc:creator><dc:creator>Gauri Prasad</dc:creator><dc:creator>Laura J. Rasmussen-Torvik</dc:creator><dc:creator>Alexander P. Reiner</dc:creator><dc:creator>Michael Roden</dc:creator><dc:creator>Rebecca Rohde</dc:creator><dc:creator>Katheryn Roll</dc:creator><dc:creator>Charumathi Sabanayagam</dc:creator><dc:creator>Kevin Sandow</dc:creator><dc:creator>Alagu Sankareswaran</dc:creator><dc:creator>Naveed Sattar</dc:creator><dc:creator>Sebastian Schönherr</dc:creator><dc:creator>Mohammad Shahriar</dc:creator><dc:creator>Botong Shen</dc:creator><dc:creator>Jinxiu Shi</dc:creator><dc:creator>Dong Mun Shin</dc:creator><dc:creator>Nobuhiro Shojima</dc:creator><dc:creator>Jennifer A. Smith</dc:creator><dc:creator>Wing Yee So</dc:creator><dc:creator>Alena Stančáková</dc:creator><dc:creator>Valgerdur Steinthorsdottir</dc:creator><dc:creator>Adrienne M. Stilp</dc:creator><dc:creator>Konstantin Strauch</dc:creator><dc:creator>Kent D. Taylor</dc:creator><dc:creator>Barbara Thorand</dc:creator><dc:creator>Unnur Thorsteinsdottir</dc:creator><dc:creator>Brian Tomlinson</dc:creator><dc:creator>Tam C. Tran</dc:creator><dc:creator>Fuu-Jen Tsai</dc:creator><dc:creator>Jaakko Tuomilehto</dc:creator><dc:creator>Teresa Tusie-Luna</dc:creator><dc:creator>Miriam S. Udler</dc:creator><dc:creator>Adan Valladares-Salgado</dc:creator><dc:creator>Rob M. van Dam</dc:creator><dc:creator>Jan B. van Klinken</dc:creator><dc:creator>Rohit Varma</dc:creator><dc:creator>Niels Wacher-Rodarte</dc:creator><dc:creator>Eleanor Wheeler</dc:creator><dc:creator>Ananda R. Wickremasinghe</dc:creator><dc:creator>Ko Willems van Dijk</dc:creator><dc:creator>Daniel R. Witte</dc:creator><dc:creator>Chittaranjan S. Yajnik</dc:creator><dc:creator>Ken Yamamoto</dc:creator><dc:creator>Kenichi Yamamoto</dc:creator><dc:creator>Kyungheon Yoon</dc:creator><dc:creator>Canqing Yu</dc:creator><dc:creator>Jian-Min Yuan</dc:creator><dc:creator>Salim Yusuf</dc:creator><dc:creator>Matthew Zawistowski</dc:creator><dc:creator>Liang Zhang</dc:creator><dc:creator>Wei Zheng</dc:creator><dc:creator>Stavroula Kanona</dc:creator><dc:creator>David A. van Heel</dc:creator><dc:creator>Leslie J. Raffel</dc:creator><dc:creator>Michiya Igase</dc:creator><dc:creator>Eli Ipp</dc:creator><dc:creator>Susan Redline</dc:creator><dc:creator>Yoon Shin Cho</dc:creator><dc:creator>Lars Lind</dc:creator><dc:creator>Michael A. Province</dc:creator><dc:creator>Myriam Fornage</dc:creator><dc:creator>Craig L. Hanis</dc:creator><dc:creator>Erik Ingelsson</dc:creator><dc:creator>Alan B. Zonderman</dc:creator><dc:creator>Bruce M. Psaty</dc:creator><dc:creator>Ya-Xing Wang</dc:creator><dc:creator>Charles N. Rotimi</dc:creator><dc:creator>Diane M. Becker</dc:creator><dc:creator>Fumihiko Matsuda</dc:creator><dc:creator>Yongmei Liu</dc:creator><dc:creator>Mitsuhiro Yokota</dc:creator><dc:creator>Sharon L. R. Kardia</dc:creator><dc:creator>Patricia A. Peyser</dc:creator><dc:creator>James S. Pankow</dc:creator><dc:creator>James C. Engert</dc:creator><dc:creator>Amélie Bonnefond</dc:creator><dc:creator>Philippe Froguel</dc:creator><dc:creator>James G. Wilson</dc:creator><dc:creator>Wayne H. H. Sheu</dc:creator><dc:creator>Jer-Yuarn Wu</dc:creator><dc:creator>M. Geoffrey Hayes</dc:creator><dc:creator>Ronald C. W. Ma</dc:creator><dc:creator>Tien-Yin Wong</dc:creator><dc:creator>Dennis O. Mook-Kanamori</dc:creator><dc:creator>Tiinamaija Tuomi</dc:creator><dc:creator>Giriraj R. Chandak</dc:creator><dc:creator>Francis S. Collins</dc:creator><dc:creator>Dwaipayan Bharadwaj</dc:creator><dc:creator>Guillaume Paré</dc:creator><dc:creator>Michèle M. Sale</dc:creator><dc:creator>Habibul Ahsan</dc:creator><dc:creator>Ayesha A. Motala</dc:creator><dc:creator>Xiao-Ou Shu</dc:creator><dc:creator>Kyong-Soo Park</dc:creator><dc:creator>J. Wouter Jukema</dc:creator><dc:creator>Miguel Cruz</dc:creator><dc:creator>Yii-Der Ida Chen</dc:creator><dc:creator>Stephen S. Rich</dc:creator><dc:creator>Roberta McKean-Cowdin</dc:creator><dc:creator>Harald Grallert</dc:creator><dc:creator>Ching-Yu Cheng</dc:creator><dc:creator>Mohsen Ghanbari</dc:creator><dc:creator>E-Shyong Tai</dc:creator><dc:creator>Josee Dupuis</dc:creator><dc:creator>Norihiro Kato</dc:creator><dc:creator>Markku Laakso</dc:creator><dc:creator>Anna Köttgen</dc:creator><dc:creator>Woon-Puay Koh</dc:creator><dc:creator>Donald W. Bowden</dc:creator><dc:creator>Colin N. A. Palmer</dc:creator><dc:creator>Jaspal S. Kooner</dc:creator><dc:creator>Charles Kooperberg</dc:creator><dc:creator>Simin Liu</dc:creator><dc:creator>Kari E. North</dc:creator><dc:creator>Danish Saleheen</dc:creator><dc:creator>Torben Hansen</dc:creator><dc:creator>Oluf Pedersen</dc:creator><dc:creator>Nicholas J. Wareham</dc:creator><dc:creator>Juyoung Lee</dc:creator><dc:creator>Bong-Jo Kim</dc:creator><dc:creator>Iona Y. Millwood</dc:creator><dc:creator>Robin G. Walters</dc:creator><dc:creator>Kari Stefansson</dc:creator><dc:creator>Emma Ahlqvist</dc:creator><dc:creator>Mark O. Goodarzi</dc:creator><dc:creator>Karen L. Mohlke</dc:creator><dc:creator>Claudia Langenberg</dc:creator><dc:creator>Christopher A. Haiman</dc:creator><dc:creator>Ruth J. F. Loos</dc:creator><dc:creator>Jose C. Florez</dc:creator><dc:creator>Daniel J. Rader</dc:creator><dc:creator>Marylyn D. Ritchie</dc:creator><dc:creator>Sebastian Zöllner</dc:creator><dc:creator>Reedik Mägi</dc:creator><dc:creator>Nicholas A. Marston</dc:creator><dc:creator>Christian T. Ruff</dc:creator><dc:creator>David A. van Heel</dc:creator><dc:creator>Sarah Finer</dc:creator><dc:creator>Joshua C. Denny</dc:creator><dc:creator>Toshimasa Yamauchi</dc:creator><dc:creator>Takashi Kadowaki</dc:creator><dc:creator>John C. Chambers</dc:creator><dc:creator>Maggie C. Y. Ng</dc:creator><dc:creator>Xueling Sim</dc:creator><dc:creator>Jennifer E. Below</dc:creator><dc:creator>Philip S. Tsao</dc:creator><dc:creator>Kyong-Mi Chang</dc:creator><dc:creator>Mark I. McCarthy</dc:creator><dc:creator>James B. Meigs</dc:creator><dc:creator>Anubha Mahajan</dc:creator><dc:creator>Cassandra N. Spracklen</dc:creator><dc:creator>Josep M. Mercader</dc:creator><dc:creator>Michael Boehnke</dc:creator><dc:creator>Jerome I. Rotter</dc:creator><dc:creator>Marijana Vujkovic</dc:creator><dc:creator>Benjamin F. Voight</dc:creator><dc:creator>Andrew P. Morris</dc:creator><dc:creator>Eleftheria Zeggini</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07019-6</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-19; | doi:10.1038/s41586-024-07019-6</dc:source>
-            <dc:date>2024-02-19</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07019-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07019-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-023-06957-x">
-            <title><![CDATA[Genomic data in the All of Us Research Program]]></title>
-            <link>https://www.nature.com/articles/s41586-023-06957-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 19 February 2024; <a href="https://www.nature.com/articles/s41586-023-06957-x">doi:10.1038/s41586-023-06957-x</a></p>A study describes the release of clinical-grade whole-genome sequence data for 245,388 diverse participants by the All of Us Research Program and characterizes the properties of the dataset.]]></content:encoded>
-            <dc:title><![CDATA[Genomic data in the All of Us Research Program]]></dc:title>
-            <dc:creator>Alexander G. Bick</dc:creator><dc:creator>Ginger A. Metcalf</dc:creator><dc:creator>Kelsey R. Mayo</dc:creator><dc:creator>Lee Lichtenstein</dc:creator><dc:creator>Shimon Rura</dc:creator><dc:creator>Robert J. Carroll</dc:creator><dc:creator>Anjene Musick</dc:creator><dc:creator>Jodell E. Linder</dc:creator><dc:creator>I. King Jordan</dc:creator><dc:creator>Shashwat Deepali Nagar</dc:creator><dc:creator>Shivam Sharma</dc:creator><dc:creator>Robert Meller</dc:creator><dc:creator>Melissa Basford</dc:creator><dc:creator>Eric Boerwinkle</dc:creator><dc:creator>Mine S. Cicek</dc:creator><dc:creator>Kimberly F. Doheny</dc:creator><dc:creator>Evan E. Eichler</dc:creator><dc:creator>Stacey Gabriel</dc:creator><dc:creator>Richard A. Gibbs</dc:creator><dc:creator>David Glazer</dc:creator><dc:creator>Paul A. Harris</dc:creator><dc:creator>Gail P. Jarvik</dc:creator><dc:creator>Anthony Philippakis</dc:creator><dc:creator>Heidi L. Rehm</dc:creator><dc:creator>Dan M. Roden</dc:creator><dc:creator>Stephen N. Thibodeau</dc:creator><dc:creator>Scott Topper</dc:creator><dc:creator>Ashley L. Blegen</dc:creator><dc:creator>Samantha J. Wirkus</dc:creator><dc:creator>Victoria A. Wagner</dc:creator><dc:creator>Jeffrey G. Meyer</dc:creator><dc:creator>Mine S. Cicek</dc:creator><dc:creator>Donna M. Muzny</dc:creator><dc:creator>Eric Venner</dc:creator><dc:creator>Michelle Z. Mawhinney</dc:creator><dc:creator>Sean M. L. Griffith</dc:creator><dc:creator>Elvin Hsu</dc:creator><dc:creator>Hua Ling</dc:creator><dc:creator>Marcia K. Adams</dc:creator><dc:creator>Kimberly Walker</dc:creator><dc:creator>Jianhong Hu</dc:creator><dc:creator>Harsha Doddapaneni</dc:creator><dc:creator>Christie L. Kovar</dc:creator><dc:creator>Mullai Murugan</dc:creator><dc:creator>Shannon Dugan</dc:creator><dc:creator>Ziad Khan</dc:creator><dc:creator>Eric Boerwinkle</dc:creator><dc:creator>Niall J. Lennon</dc:creator><dc:creator>Christina Austin-Tse</dc:creator><dc:creator>Eric Banks</dc:creator><dc:creator>Michael Gatzen</dc:creator><dc:creator>Namrata Gupta</dc:creator><dc:creator>Emma Henricks</dc:creator><dc:creator>Katie Larsson</dc:creator><dc:creator>Sheli McDonough</dc:creator><dc:creator>Steven M. Harrison</dc:creator><dc:creator>Christopher Kachulis</dc:creator><dc:creator>Matthew S. Lebo</dc:creator><dc:creator>Cynthia L. Neben</dc:creator><dc:creator>Marcie Steeves</dc:creator><dc:creator>Alicia Y. Zhou</dc:creator><dc:creator>Joshua D. Smith</dc:creator><dc:creator>Christian D. Frazar</dc:creator><dc:creator>Colleen P. Davis</dc:creator><dc:creator>Karynne E. Patterson</dc:creator><dc:creator>Marsha M. Wheeler</dc:creator><dc:creator>Sean McGee</dc:creator><dc:creator>Christina M. Lockwood</dc:creator><dc:creator>Brian H. Shirts</dc:creator><dc:creator>Colin C. Pritchard</dc:creator><dc:creator>Mitzi L. Murray</dc:creator><dc:creator>Valeria Vasta</dc:creator><dc:creator>Dru Leistritz</dc:creator><dc:creator>Matthew A. Richardson</dc:creator><dc:creator>Jillian G. Buchan</dc:creator><dc:creator>Aparna Radhakrishnan</dc:creator><dc:creator>Niklas Krumm</dc:creator><dc:creator>Brenna W. Ehmen</dc:creator><dc:creator>Sophie Schwartz</dc:creator><dc:creator>M. Morgan T. Aster</dc:creator><dc:creator>Kristian Cibulskis</dc:creator><dc:creator>Andrea Haessly</dc:creator><dc:creator>Rebecca Asch</dc:creator><dc:creator>Aurora Cremer</dc:creator><dc:creator>Kylee Degatano</dc:creator><dc:creator>Akum Shergill</dc:creator><dc:creator>Laura D. Gauthier</dc:creator><dc:creator>Samuel K. Lee</dc:creator><dc:creator>Aaron Hatcher</dc:creator><dc:creator>George B. Grant</dc:creator><dc:creator>Genevieve R. Brandt</dc:creator><dc:creator>Miguel Covarrubias</dc:creator><dc:creator>Eric Banks</dc:creator><dc:creator>Ashley Able</dc:creator><dc:creator>Ashley E. Green</dc:creator><dc:creator>Robert J. Carroll</dc:creator><dc:creator>Jennifer Zhang</dc:creator><dc:creator>Henry R. Condon</dc:creator><dc:creator>Yuanyuan Wang</dc:creator><dc:creator>Moira K. Dillon</dc:creator><dc:creator>C. H. Albach</dc:creator><dc:creator>Wail Baalawi</dc:creator><dc:creator>Seung Hoan Choi</dc:creator><dc:creator>Xin Wang</dc:creator><dc:creator>Elisabeth A. Rosenthal</dc:creator><dc:creator>Andrea H. Ramirez</dc:creator><dc:creator>Sokny Lim</dc:creator><dc:creator>Siddhartha Nambiar</dc:creator><dc:creator>Bradley Ozenberger</dc:creator><dc:creator>Anastasia L. Wise</dc:creator><dc:creator>Chris Lunt</dc:creator><dc:creator>Geoffrey S. Ginsburg</dc:creator><dc:creator>Joshua C. Denny</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-023-06957-x</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-19; | doi:10.1038/s41586-023-06957-x</dc:source>
-            <dc:date>2024-02-19</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-023-06957-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-023-06957-x</prism:url>
         </item>
     
 </rdf:RDF>
