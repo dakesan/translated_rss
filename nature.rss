@@ -18,6 +18,12 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00579-7"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00544-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00476-z"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07115-7"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00550-6"/>
@@ -162,12 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00507-9"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00531-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00388-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00478-x"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,51 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00579-7">
+            <title><![CDATA[I help researchers build fantastic funding proposals — here’s how]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00579-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 26 February 2024; <a href="https://www.nature.com/articles/d41586-024-00579-7">doi:10.1038/d41586-024-00579-7</a></p>Glòria García-Negredo supports scientists who are writing grant applications, and creates links between research groups.]]></content:encoded>
+            <dc:title><![CDATA[I help researchers build fantastic funding proposals — here’s how]]></dc:title>
+            <dc:creator>Miles Lizak</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00579-7</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-26; | doi:10.1038/d41586-024-00579-7</dc:source>
+            <dc:date>2024-02-26</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00579-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00579-7</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00544-4">
+            <title><![CDATA[To unravel the origin of life, treat findings as pieces of a bigger puzzle]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00544-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 26 February 2024; <a href="https://www.nature.com/articles/d41586-024-00544-4">doi:10.1038/d41586-024-00544-4</a></p>Explaining isolated steps on the road from simple chemicals to complex living organisms is not enough. Looking at the big picture could help to bridge rifts in this fractured research field.]]></content:encoded>
+            <dc:title><![CDATA[To unravel the origin of life, treat findings as pieces of a bigger puzzle]]></dc:title>
+            <dc:creator>Nick Lane</dc:creator><dc:creator>Joana C. Xavier</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00544-4</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-26; | doi:10.1038/d41586-024-00544-4</dc:source>
+            <dc:date>2024-02-26</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00544-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00544-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00476-z">
+            <title><![CDATA[How to find meaning in your science career: six expert tips]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00476-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 26 February 2024; <a href="https://www.nature.com/articles/d41586-024-00476-z">doi:10.1038/d41586-024-00476-z</a></p>Philosophers, social scientists and a Nobel-prizewinning economist on how researchers can get satisfaction from their work — and make a difference to the world.]]></content:encoded>
+            <dc:title><![CDATA[How to find meaning in your science career: six expert tips]]></dc:title>
+            <dc:creator>Helen Pearson</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00476-z</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-26; | doi:10.1038/d41586-024-00476-z</dc:source>
+            <dc:date>2024-02-26</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00476-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00476-z</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07115-7">
             <title><![CDATA[Author Correction: Solving olympiad geometry without human demonstrations]]></title>
@@ -1255,51 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00507-9</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00507-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00531-9">
-            <title><![CDATA[Daily briefing: The decimal point is 150 years older than we thought]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00531-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 20 February 2024; <a href="https://www.nature.com/articles/d41586-024-00531-9">doi:10.1038/d41586-024-00531-9</a></p>Oldest known decimal point discover by historian while teaching at maths camp. Plus, survey of human diversity yields millions of undiscovered genetic variants and how mind-reading devices are revealing the brain’s secrets.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: The decimal point is 150 years older than we thought]]></dc:title>
-            <dc:creator>Katrina Krämer</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00531-9</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-20; | doi:10.1038/d41586-024-00531-9</dc:source>
-            <dc:date>2024-02-20</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00531-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00531-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00388-y">
-            <title><![CDATA[200 years of naming dinosaurs: scientists call for overhaul of antiquated system]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00388-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 20 February 2024; <a href="https://www.nature.com/articles/d41586-024-00388-y">doi:10.1038/d41586-024-00388-y</a></p>Some palaeontologists want more rigorous guidelines for naming species, along with action to address problematic historical practices.]]></content:encoded>
-            <dc:title><![CDATA[200 years of naming dinosaurs: scientists call for overhaul of antiquated system]]></dc:title>
-            <dc:creator>Katharine  Sanderson</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00388-y</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-20; | doi:10.1038/d41586-024-00388-y</dc:source>
-            <dc:date>2024-02-20</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00388-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00388-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00478-x">
-            <title><![CDATA[Generative AI’s environmental costs are soaring — and mostly secret]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00478-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 20 February 2024; <a href="https://www.nature.com/articles/d41586-024-00478-x">doi:10.1038/d41586-024-00478-x</a></p>First-of-its-kind US bill would address the environmental costs of the technology, but there’s a long way to go.]]></content:encoded>
-            <dc:title><![CDATA[Generative AI’s environmental costs are soaring — and mostly secret]]></dc:title>
-            <dc:creator>Kate Crawford</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00478-x</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-20; | doi:10.1038/d41586-024-00478-x</dc:source>
-            <dc:date>2024-02-20</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00478-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00478-x</prism:url>
         </item>
     
 </rdf:RDF>
