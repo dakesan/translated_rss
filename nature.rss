@@ -18,11 +18,37 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07215-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07204-7"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00548-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00524-8"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00574-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00589-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00562-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00508-8"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00546-2"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00579-7"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00586-8"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00544-4"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00591-x"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00577-9"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00476-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00554-2"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07115-7"/>
                 
@@ -37,6 +63,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00568-w"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00431-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00582-y"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00212-7"/>
                 
@@ -140,34 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00551-5"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00511-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00311-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00479-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04135-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00307-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00538-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07127-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00512-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00517-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00428-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00515-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00516-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00514-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00507-9"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,141 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07215-4">
+            <title><![CDATA[Automated model building and protein identification in cryo-EM maps]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07215-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 26 February 2024; <a href="https://www.nature.com/articles/s41586-024-07215-4">doi:10.1038/s41586-024-07215-4</a></p>Automated model building and protein identification in cryo-EM maps]]></content:encoded>
+            <dc:title><![CDATA[Automated model building and protein identification in cryo-EM maps]]></dc:title>
+            <dc:creator>Kiarash Jamali</dc:creator><dc:creator>Lukas Käll</dc:creator><dc:creator>Rui Zhang</dc:creator><dc:creator>Alan Brown</dc:creator><dc:creator>Dari Kimanius</dc:creator><dc:creator>Sjors H. W. Scheres</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07215-4</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-26; | doi:10.1038/s41586-024-07215-4</dc:source>
+            <dc:date>2024-02-26</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07215-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07215-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07204-7">
+            <title><![CDATA[A Patterned Human Neural Tube Model Using Microfluidic Gradients]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07204-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 26 February 2024; <a href="https://www.nature.com/articles/s41586-024-07204-7">doi:10.1038/s41586-024-07204-7</a></p>A Patterned Human Neural Tube Model Using Microfluidic Gradients]]></content:encoded>
+            <dc:title><![CDATA[A Patterned Human Neural Tube Model Using Microfluidic Gradients]]></dc:title>
+            <dc:creator>Xufeng Xue</dc:creator><dc:creator>Yung Su Kim</dc:creator><dc:creator>Alfredo-Isaac Ponce-Arias</dc:creator><dc:creator>Richard O’Laughlin</dc:creator><dc:creator>Robin Zhexuan Yan</dc:creator><dc:creator>Norio Kobayashi</dc:creator><dc:creator>Rami Yair Tshuva</dc:creator><dc:creator>Yu-Hwai Tsai</dc:creator><dc:creator>Shiyu Sun</dc:creator><dc:creator>Yi Zheng</dc:creator><dc:creator>Yue Liu</dc:creator><dc:creator>Frederick C. K. Wong</dc:creator><dc:creator>Azim Surani</dc:creator><dc:creator>Jason R. Spence</dc:creator><dc:creator>Hongjun Song</dc:creator><dc:creator>Guo-Li Ming</dc:creator><dc:creator>Orly Reiner</dc:creator><dc:creator>Jianping Fu</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07204-7</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-26; | doi:10.1038/s41586-024-07204-7</dc:source>
+            <dc:date>2024-02-26</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07204-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07204-7</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00548-0">
+            <title><![CDATA[Catching the rays: my part in Morocco’s renewable-energy revolution]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00548-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 26 February 2024; <a href="https://www.nature.com/articles/d41586-024-00548-0">doi:10.1038/d41586-024-00548-0</a></p>Soukaina El Idrissi Faouzi works to optimize the performance of the world’s biggest working solar farm.]]></content:encoded>
+            <dc:title><![CDATA[Catching the rays: my part in Morocco’s renewable-energy revolution]]></dc:title>
+            <dc:creator>Nikki Forrester</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00548-0</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-26; | doi:10.1038/d41586-024-00548-0</dc:source>
+            <dc:date>2024-02-26</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00548-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00548-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00524-8">
+            <title><![CDATA[Audio long read: Chimpanzees are dying from our colds — these scientists are trying to save them]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00524-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 26 February 2024; <a href="https://www.nature.com/articles/d41586-024-00524-8">doi:10.1038/d41586-024-00524-8</a></p>Endangered apes are increasingly being put at risk by human diseases.]]></content:encoded>
+            <dc:title><![CDATA[Audio long read: Chimpanzees are dying from our colds — these scientists are trying to save them]]></dc:title>
+            <dc:creator>Rachel Nuwer</dc:creator><dc:creator>Benjamin Thompson</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00524-8</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-26; | doi:10.1038/d41586-024-00524-8</dc:source>
+            <dc:date>2024-02-26</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00524-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00524-8</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00574-y">
+            <title><![CDATA[Giant ‘bubble’ in space could be source of powerful cosmic rays]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00574-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 26 February 2024; <a href="https://www.nature.com/articles/d41586-024-00574-y">doi:10.1038/d41586-024-00574-y</a></p>Scientists have identified a region in the Milky Way capable of accelerating particles to super-high energy levels.]]></content:encoded>
+            <dc:title><![CDATA[Giant ‘bubble’ in space could be source of powerful cosmic rays]]></dc:title>
+            <dc:creator>Gemma Conroy</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00574-y</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-26; | doi:10.1038/d41586-024-00574-y</dc:source>
+            <dc:date>2024-02-26</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00574-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00574-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00589-5">
+            <title><![CDATA[‘Incomprehensible’: scientists in France decry €900-million cut to research]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00589-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 26 February 2024; <a href="https://www.nature.com/articles/d41586-024-00589-5">doi:10.1038/d41586-024-00589-5</a></p>A €10-billion reduction in public spending in response to a revised economic forecast includes cuts to higher-education and research budgets.]]></content:encoded>
+            <dc:title><![CDATA[‘Incomprehensible’: scientists in France decry €900-million cut to research]]></dc:title>
+            <dc:creator>Barbara Casassus</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00589-5</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-26; | doi:10.1038/d41586-024-00589-5</dc:source>
+            <dc:date>2024-02-26</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00589-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00589-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00562-2">
+            <title><![CDATA[The surprising link between gut bacteria and devastating eye diseases]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00562-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 26 February 2024; <a href="https://www.nature.com/articles/d41586-024-00562-2">doi:10.1038/d41586-024-00562-2</a></p>Finding raises hopes that antibiotics could treat some genetic diseases that can cause blindness — but also prompts doubts.]]></content:encoded>
+            <dc:title><![CDATA[The surprising link between gut bacteria and devastating eye diseases]]></dc:title>
+            <dc:creator>Saima Sidik</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00562-2</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-26; | doi:10.1038/d41586-024-00562-2</dc:source>
+            <dc:date>2024-02-26</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00562-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00562-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00508-8">
+            <title><![CDATA[Earthquakes are most deadly in these unexpected countries]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00508-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 26 February 2024; <a href="https://www.nature.com/articles/d41586-024-00508-8">doi:10.1038/d41586-024-00508-8</a></p>Haiti and Turkmenistan are among the nations with the highest earthquake fatality load, a measure of the burden imposed by quake-related deaths.]]></content:encoded>
+            <dc:title><![CDATA[Earthquakes are most deadly in these unexpected countries]]></dc:title>
+            <dc:creator>Sumeet Kulkarni</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00508-8</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-26; | doi:10.1038/d41586-024-00508-8</dc:source>
+            <dc:date>2024-02-26</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00508-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00508-8</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00546-2">
+            <title><![CDATA[Why the US border remains ‘a place of terror’ for Chinese researchers]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00546-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 26 February 2024; <a href="https://www.nature.com/articles/d41586-024-00546-2">doi:10.1038/d41586-024-00546-2</a></p>Two years after the end of the controversial China Initiative, academics describe being treated like spies, a loss of talent and a chilling atmosphere that is stifling science.]]></content:encoded>
+            <dc:title><![CDATA[Why the US border remains ‘a place of terror’ for Chinese researchers]]></dc:title>
+            <dc:creator>Virginia Gewin</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00546-2</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-26; | doi:10.1038/d41586-024-00546-2</dc:source>
+            <dc:date>2024-02-26</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00546-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00546-2</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00579-7">
             <title><![CDATA[I help researchers build fantastic funding proposals — here’s how]]></title>
@@ -190,6 +325,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00579-7</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00579-7</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00586-8">
+            <title><![CDATA[‘Breakthrough’ allergy drug: injection protects against severe food reactions]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00586-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 26 February 2024; <a href="https://www.nature.com/articles/d41586-024-00586-8">doi:10.1038/d41586-024-00586-8</a></p>A study suggests that the asthma treatment omalizumab can reduce the risk of dangerous allergic reactions to peanuts and other foods.]]></content:encoded>
+            <dc:title><![CDATA[‘Breakthrough’ allergy drug: injection protects against severe food reactions]]></dc:title>
+            <dc:creator>Sara Reardon</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00586-8</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-26; | doi:10.1038/d41586-024-00586-8</dc:source>
+            <dc:date>2024-02-26</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00586-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00586-8</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00544-4">
@@ -207,6 +357,36 @@
             <prism:url>https://www.nature.com/articles/d41586-024-00544-4</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00591-x">
+            <title><![CDATA[How institutions can tap into research managers’ potential]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00591-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 26 February 2024; <a href="https://www.nature.com/articles/d41586-024-00591-x">doi:10.1038/d41586-024-00591-x</a></p>The editors of a book exploring the perspectives of research managers talk about how policymakers and institutional leaders can better support these essential professionals.]]></content:encoded>
+            <dc:title><![CDATA[How institutions can tap into research managers’ potential]]></dc:title>
+            <dc:creator>Bec Crew</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00591-x</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-26; | doi:10.1038/d41586-024-00591-x</dc:source>
+            <dc:date>2024-02-26</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00591-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00591-x</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00577-9">
+            <title><![CDATA[Why it would be a dangerous folly to end US–China science pact]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00577-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 26 February 2024; <a href="https://www.nature.com/articles/d41586-024-00577-9">doi:10.1038/d41586-024-00577-9</a></p>With renewal of the two countries’ decades-long science pact still on hold, there is too much talk about the risks of collaboration — and too little about the benefits.]]></content:encoded>
+            <dc:title><![CDATA[Why it would be a dangerous folly to end US–China science pact]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-00577-9</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-26; | doi:10.1038/d41586-024-00577-9</dc:source>
+            <dc:date>2024-02-26</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00577-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00577-9</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-024-00476-z">
             <title><![CDATA[How to find meaning in your science career: six expert tips]]></title>
             <link>https://www.nature.com/articles/d41586-024-00476-z</link>
@@ -220,6 +400,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00476-z</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00476-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00554-2">
+            <title><![CDATA[‘This is exclusion’: Florida law restricts hiring of researchers from seven countries]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00554-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 26 February 2024; <a href="https://www.nature.com/articles/d41586-024-00554-2">doi:10.1038/d41586-024-00554-2</a></p>Policy that prohibits partnerships between state universities and ‘countries of concern’, including China, will erode competitiveness, faculty members say.]]></content:encoded>
+            <dc:title><![CDATA[‘This is exclusion’: Florida law restricts hiring of researchers from seven countries]]></dc:title>
+            <dc:creator>Amanda Heidt</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00554-2</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-26; | doi:10.1038/d41586-024-00554-2</dc:source>
+            <dc:date>2024-02-26</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00554-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00554-2</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07115-7">
@@ -258,7 +453,7 @@
             <content:encoded>
                 <![CDATA[<p>Nature, Published online: 23 February 2024; <a href="https://www.nature.com/articles/d41586-024-00572-0">doi:10.1038/d41586-024-00572-0</a></p>Molecular biologist Alka Rao brought together her research group and sign-language specialists to broaden access to science for deaf students in India.]]></content:encoded>
             <dc:title><![CDATA[What’s the sign for ‘centrifuge’? How we added scientific terms to Indian Sign Language]]></dc:title>
-            <dc:creator>Deepa  Padamanaban</dc:creator>
+            <dc:creator>Deepa  Padmanaban</dc:creator>
             <dc:identifier>doi:10.1038/d41586-024-00572-0</dc:identifier>
             <dc:source>Nature, Published online: 2024-02-23; | doi:10.1038/d41586-024-00572-0</dc:source>
             <dc:date>2024-02-23</dc:date>
@@ -325,6 +520,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00431-y</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00431-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00582-y">
+            <title><![CDATA[Daily briefing: First private Moon lander makes history]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00582-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 23 February 2024; <a href="https://www.nature.com/articles/d41586-024-00582-y">doi:10.1038/d41586-024-00582-y</a></p>Odysseus, built by the US company Intuitive Machines, is the first commercial lunar lander that has made it safely to the Moon. Plus, hundreds will gather DNA from the world’s lakes on the same day and how the love of pets grew from a clash of world views.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: First private Moon lander makes history]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00582-y</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-23; | doi:10.1038/d41586-024-00582-y</dc:source>
+            <dc:date>2024-02-23</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00582-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00582-y</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00212-7">
@@ -1090,216 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00551-5</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00551-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00511-z">
-            <title><![CDATA[MEGA-CRISPR tool gives a power boost to cancer-fighting cells]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00511-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 21 February 2024; <a href="https://www.nature.com/articles/d41586-024-00511-z">doi:10.1038/d41586-024-00511-z</a></p>A system that edits RNA rather than DNA can give new life to exhausted CAR T cells.]]></content:encoded>
-            <dc:title><![CDATA[MEGA-CRISPR tool gives a power boost to cancer-fighting cells]]></dc:title>
-            <dc:creator>Sara Reardon</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00511-z</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-21; | doi:10.1038/d41586-024-00511-z</dc:source>
-            <dc:date>2024-02-21</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00511-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00511-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00311-5">
-            <title><![CDATA[Nanotraps boost light intensity for future optical devices]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00311-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 21 February 2024; <a href="https://www.nature.com/articles/d41586-024-00311-5">doi:10.1038/d41586-024-00311-5</a></p>A method for configuring light-trapping devices promises better optical nanodevices by amplifying light and enhancing the emission efficiency of luminescent nanomaterials — without the need for complex technology upgrades.]]></content:encoded>
-            <dc:title><![CDATA[Nanotraps boost light intensity for future optical devices]]></dc:title>
-            <dc:creator>Kirill Koshelev</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00311-5</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-21; | doi:10.1038/d41586-024-00311-5</dc:source>
-            <dc:date>2024-02-21</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00311-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00311-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00479-w">
-            <title><![CDATA[How to boost your research: take a sabbatical in policy]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00479-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 21 February 2024; <a href="https://www.nature.com/articles/d41586-024-00479-w">doi:10.1038/d41586-024-00479-w</a></p>Academic researchers have a unique opportunity to benefit society — and their research — by spending time in government.]]></content:encoded>
-            <dc:title><![CDATA[How to boost your research: take a sabbatical in policy]]></dc:title>
-            <dc:creator>Jordan Dworkin</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00479-w</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-21; | doi:10.1038/d41586-024-00479-w</dc:source>
-            <dc:date>2024-02-21</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00479-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00479-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-023-04135-7">
-            <title><![CDATA[Reducing carbon dioxide efficiently to reuse and recycle it]]></title>
-            <link>https://www.nature.com/articles/d41586-023-04135-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 21 February 2024; <a href="https://www.nature.com/articles/d41586-023-04135-7">doi:10.1038/d41586-023-04135-7</a></p>Electrochemical reduction of carbon dioxide holds promise for converting CO2 into valuable products but is hampered by stability issues and wasted carbon. A proton-exchange membrane that uses lead as a catalyst demonstrates the feasibility of durable and efficient CO2 reduction.]]></content:encoded>
-            <dc:title><![CDATA[Reducing carbon dioxide efficiently to reuse and recycle it]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-023-04135-7</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-21; | doi:10.1038/d41586-023-04135-7</dc:source>
-            <dc:date>2024-02-21</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-023-04135-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-023-04135-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00307-1">
-            <title><![CDATA[An innovative way for whales to sing]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00307-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 21 February 2024; <a href="https://www.nature.com/articles/d41586-024-00307-1">doi:10.1038/d41586-024-00307-1</a></p>Mammals make sounds when air flow causes paired tissue folds in their voice box to oscillate. However, such air flow in the baleen group of whales takes an unusual path, enabling them to make sounds in a previously unknown way.]]></content:encoded>
-            <dc:title><![CDATA[An innovative way for whales to sing]]></dc:title>
-            <dc:creator>Joy S. Reidenberg</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00307-1</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-21; | doi:10.1038/d41586-024-00307-1</dc:source>
-            <dc:date>2024-02-21</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00307-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00307-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00538-2">
-            <title><![CDATA[Judith Campisi (1948–2024), cell biologist who explored how cells age]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00538-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 21 February 2024; <a href="https://www.nature.com/articles/d41586-024-00538-2">doi:10.1038/d41586-024-00538-2</a></p>Researcher who established the role of cellular senescence in cancer and ageing.]]></content:encoded>
-            <dc:title><![CDATA[Judith Campisi (1948–2024), cell biologist who explored how cells age]]></dc:title>
-            <dc:creator>Jan  Vijg</dc:creator><dc:creator>Jan  Hoeijmakers</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00538-2</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-21; | doi:10.1038/d41586-024-00538-2</dc:source>
-            <dc:date>2024-02-21</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00538-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00538-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07127-3">
-            <title><![CDATA[The Radcliffe Wave is Oscillating]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07127-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 20 February 2024; <a href="https://www.nature.com/articles/s41586-024-07127-3">doi:10.1038/s41586-024-07127-3</a></p>The Radcliffe Wave is Oscillating]]></content:encoded>
-            <dc:title><![CDATA[The Radcliffe Wave is Oscillating]]></dc:title>
-            <dc:creator>Ralf Konietzka</dc:creator><dc:creator>Alyssa A. Goodman</dc:creator><dc:creator>Catherine Zucker</dc:creator><dc:creator>Andreas Burkert</dc:creator><dc:creator>João Alves</dc:creator><dc:creator>Michael Foley</dc:creator><dc:creator>Cameren Swiggum</dc:creator><dc:creator>Maria Koller</dc:creator><dc:creator>Núria Miret-Roig</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07127-3</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-20; | doi:10.1038/s41586-024-07127-3</dc:source>
-            <dc:date>2024-02-20</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07127-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07127-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00512-y">
-            <title><![CDATA[Just a few counselling sessions can hold postpartum depression at bay]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00512-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 20 February 2024; <a href="https://www.nature.com/articles/d41586-024-00512-y">doi:10.1038/d41586-024-00512-y</a></p>Even talking to a non-specialist during pregnancy was enough to reduce the risk of depression and anxiety after birth.]]></content:encoded>
-            <dc:title><![CDATA[Just a few counselling sessions can hold postpartum depression at bay]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-00512-y</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-20; | doi:10.1038/d41586-024-00512-y</dc:source>
-            <dc:date>2024-02-20</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00512-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00512-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00517-7">
-            <title><![CDATA[Stockholm declaration on AI ethics: why others should sign]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00517-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 20 February 2024; <a href="https://www.nature.com/articles/d41586-024-00517-7">doi:10.1038/d41586-024-00517-7</a></p>Stockholm declaration on AI ethics: why others should sign]]></content:encoded>
-            <dc:title><![CDATA[Stockholm declaration on AI ethics: why others should sign]]></dc:title>
-            <dc:creator>Ross D. King</dc:creator><dc:creator>Teresa Scassa</dc:creator><dc:creator>Stefan Kramer</dc:creator><dc:creator>Hiroaki Kitano</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00517-7</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-20; | doi:10.1038/d41586-024-00517-7</dc:source>
-            <dc:date>2024-02-20</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00517-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00517-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00428-7">
-            <title><![CDATA[From the archive: Tutankhamun’s coffin, and Darwin shares a letter]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00428-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 20 February 2024; <a href="https://www.nature.com/articles/d41586-024-00428-7">doi:10.1038/d41586-024-00428-7</a></p>Snippets from Nature’s past.]]></content:encoded>
-            <dc:title><![CDATA[From the archive: Tutankhamun’s coffin, and Darwin shares a letter]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-00428-7</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-20; | doi:10.1038/d41586-024-00428-7</dc:source>
-            <dc:date>2024-02-20</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00428-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00428-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00515-9">
-            <title><![CDATA[New Chinese databases are a boost for rare-disease science]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00515-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 20 February 2024; <a href="https://www.nature.com/articles/d41586-024-00515-9">doi:10.1038/d41586-024-00515-9</a></p>New Chinese databases are a boost for rare-disease science]]></content:encoded>
-            <dc:title><![CDATA[New Chinese databases are a boost for rare-disease science]]></dc:title>
-            <dc:creator>Jishizhan Chen</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00515-9</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-20; | doi:10.1038/d41586-024-00515-9</dc:source>
-            <dc:date>2024-02-20</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00515-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00515-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00516-8">
-            <title><![CDATA[Triple win: solar farms in deserts can boost power, incomes and ecosystems]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00516-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 20 February 2024; <a href="https://www.nature.com/articles/d41586-024-00516-8">doi:10.1038/d41586-024-00516-8</a></p>Triple win: solar farms in deserts can boost power, incomes and ecosystems]]></content:encoded>
-            <dc:title><![CDATA[Triple win: solar farms in deserts can boost power, incomes and ecosystems]]></dc:title>
-            <dc:creator>Haimeng Liu</dc:creator><dc:creator>Jianguo Liu</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00516-8</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-20; | doi:10.1038/d41586-024-00516-8</dc:source>
-            <dc:date>2024-02-20</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00516-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00516-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00514-w">
-            <title><![CDATA[Pay rises for Serbia’s top 10% of research scientists]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00514-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 20 February 2024; <a href="https://www.nature.com/articles/d41586-024-00514-w">doi:10.1038/d41586-024-00514-w</a></p>Pay rises for Serbia’s top 10% of research scientists]]></content:encoded>
-            <dc:title><![CDATA[Pay rises for Serbia’s top 10% of research scientists]]></dc:title>
-            <dc:creator>Dejan Brkić</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00514-w</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-20; | doi:10.1038/d41586-024-00514-w</dc:source>
-            <dc:date>2024-02-20</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00514-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00514-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00507-9">
-            <title><![CDATA[Ancient bronze hand’s inscription points to origins of Basque language]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00507-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 20 February 2024; <a href="https://www.nature.com/articles/d41586-024-00507-9">doi:10.1038/d41586-024-00507-9</a></p>Text on an artefact found in northern Spain resembles a present-day Basque word that means ‘of good fortune’.]]></content:encoded>
-            <dc:title><![CDATA[Ancient bronze hand’s inscription points to origins of Basque language]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-00507-9</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-20; | doi:10.1038/d41586-024-00507-9</dc:source>
-            <dc:date>2024-02-20</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00507-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00507-9</prism:url>
         </item>
     
 </rdf:RDF>
