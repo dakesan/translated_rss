@@ -104,6 +104,8 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00592-w"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00613-8"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00557-z"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00558-y"/>
@@ -165,8 +167,6 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07115-7"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00550-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00572-0"/>
                 
             </rdf:Seq>
         </items>
@@ -822,6 +822,21 @@
             <prism:url>https://www.nature.com/articles/d41586-024-00592-w</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00613-8">
+            <title><![CDATA[Private Moon lander is dying — it scored some wins for science]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00613-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 February 2024; <a href="https://www.nature.com/articles/d41586-024-00613-8">doi:10.1038/d41586-024-00613-8</a></p>The Odysseus spacecraft gathered data successfully from the lunar surface.]]></content:encoded>
+            <dc:title><![CDATA[Private Moon lander is dying — it scored some wins for science]]></dc:title>
+            <dc:creator>Alexandra Witze</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00613-8</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-28; | doi:10.1038/d41586-024-00613-8</dc:source>
+            <dc:date>2024-02-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00613-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00613-8</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-024-00557-z">
             <title><![CDATA[Russia’s Arctic Council threat requires lessons from cold war science diplomacy]]></title>
             <link>https://www.nature.com/articles/d41586-024-00557-z</link>
@@ -1285,21 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00550-6</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00550-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00572-0">
-            <title><![CDATA[What’s the sign for ‘centrifuge’? How we added scientific terms to Indian Sign Language]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00572-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 23 February 2024; <a href="https://www.nature.com/articles/d41586-024-00572-0">doi:10.1038/d41586-024-00572-0</a></p>Molecular biologist Alka Rao brought together her research group and sign-language specialists to broaden access to science for deaf students in India.]]></content:encoded>
-            <dc:title><![CDATA[What’s the sign for ‘centrifuge’? How we added scientific terms to Indian Sign Language]]></dc:title>
-            <dc:creator>Deepa  Padmanaban</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00572-0</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-23; | doi:10.1038/d41586-024-00572-0</dc:source>
-            <dc:date>2024-02-23</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00572-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00572-0</prism:url>
         </item>
     
 </rdf:RDF>
