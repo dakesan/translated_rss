@@ -18,6 +18,16 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00565-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00566-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00564-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00623-6"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00597-5"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07223-4"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07059-y"/>
@@ -122,6 +132,8 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00607-6"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00617-4"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00556-0"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00605-8"/>
@@ -156,18 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00591-x"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00577-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00596-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00476-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00554-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07115-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00550-6"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,81 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00565-z">
+            <title><![CDATA[Submerged volcano’s eruption was the biggest since the last ice age]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00565-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 29 February 2024; <a href="https://www.nature.com/articles/d41586-024-00565-z">doi:10.1038/d41586-024-00565-z</a></p>Some 7,300 years ago, the Kikai volcano in Japan produced up to 457 cubic kilometres of ash and other debris.]]></content:encoded>
+            <dc:title><![CDATA[Submerged volcano’s eruption was the biggest since the last ice age]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-00565-z</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-29; | doi:10.1038/d41586-024-00565-z</dc:source>
+            <dc:date>2024-02-29</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00565-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00565-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00566-y">
+            <title><![CDATA[Mpox’s surge was stopped by behaviour change — before vaccine rollout]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00566-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 29 February 2024; <a href="https://www.nature.com/articles/d41586-024-00566-y">doi:10.1038/d41586-024-00566-y</a></p>Analysis of more than 1,000 viral genomes reveals patterns in how the disease circulated through various communities.]]></content:encoded>
+            <dc:title><![CDATA[Mpox’s surge was stopped by behaviour change — before vaccine rollout]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-00566-y</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-29; | doi:10.1038/d41586-024-00566-y</dc:source>
+            <dc:date>2024-02-29</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00566-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00566-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00564-0">
+            <title><![CDATA[This dying star bears a jagged metal scar]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00564-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 29 February 2024; <a href="https://www.nature.com/articles/d41586-024-00564-0">doi:10.1038/d41586-024-00564-0</a></p>The surface of a white dwarf is marked with metallic patches — souvenirs of its encounter with an asteroid or planet.]]></content:encoded>
+            <dc:title><![CDATA[This dying star bears a jagged metal scar]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-00564-0</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-29; | doi:10.1038/d41586-024-00564-0</dc:source>
+            <dc:date>2024-02-29</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00564-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00564-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00623-6">
+            <title><![CDATA[Two giant US telescopes threatened by funding cap]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00623-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 29 February 2024; <a href="https://www.nature.com/articles/d41586-024-00623-6">doi:10.1038/d41586-024-00623-6</a></p>Thirty Meter Telescope and Giant Magellan Telescope might need to compete for survival in face of federal spending limit.]]></content:encoded>
+            <dc:title><![CDATA[Two giant US telescopes threatened by funding cap]]></dc:title>
+            <dc:creator>Alexandra Witze</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00623-6</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-29; | doi:10.1038/d41586-024-00623-6</dc:source>
+            <dc:date>2024-02-29</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00623-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00623-6</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00597-5">
+            <title><![CDATA[Robot, repair thyself: laying the foundations for self-healing machines]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00597-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 29 February 2024; <a href="https://www.nature.com/articles/d41586-024-00597-5">doi:10.1038/d41586-024-00597-5</a></p>Advances in materials science and sensing could deliver robots that can mend themselves and feel pain.]]></content:encoded>
+            <dc:title><![CDATA[Robot, repair thyself: laying the foundations for self-healing machines]]></dc:title>
+            <dc:creator>Simon Makin</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00597-5</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-29; | doi:10.1038/d41586-024-00597-5</dc:source>
+            <dc:date>2024-02-29</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00597-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00597-5</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07223-4">
             <title><![CDATA[Editorial Expression of Concern: p63 and p73 are required for p53-dependent apoptosis in response to DNA damage]]></title>
@@ -643,11 +718,11 @@
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00543-5">
-            <title><![CDATA[This ‘super gonorrhoea’ drug holds a lesson for avoiding microbial armageddon]]></title>
+            <title><![CDATA[Can non-profits beat antibiotic resistance and soaring drug costs?]]></title>
             <link>https://www.nature.com/articles/d41586-024-00543-5</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 28 February 2024; <a href="https://www.nature.com/articles/d41586-024-00543-5">doi:10.1038/d41586-024-00543-5</a></p>Effective, affordable antimicrobial drugs aren’t moneymakers. Can non-profit organizations pick up the slack?]]></content:encoded>
-            <dc:title><![CDATA[This ‘super gonorrhoea’ drug holds a lesson for avoiding microbial armageddon]]></dc:title>
+                <![CDATA[<p>Nature, Published online: 28 February 2024; <a href="https://www.nature.com/articles/d41586-024-00543-5">doi:10.1038/d41586-024-00543-5</a></p>Effective, affordable antimicrobial drugs aren’t moneymakers, despite being desperately needed. Can non-profit organizations pick up the slack?]]></content:encoded>
+            <dc:title><![CDATA[Can non-profits beat antibiotic resistance and soaring drug costs?]]></dc:title>
             <dc:creator>Maryn McKenna</dc:creator>
             <dc:identifier>doi:10.1038/d41586-024-00543-5</dc:identifier>
             <dc:source>Nature, Published online: 2024-02-28; | doi:10.1038/d41586-024-00543-5</dc:source>
@@ -957,6 +1032,21 @@
             <prism:url>https://www.nature.com/articles/d41586-024-00607-6</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00617-4">
+            <title><![CDATA[Daily briefing: Influential abortion pill studies retracted]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00617-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 27 February 2024; <a href="https://www.nature.com/articles/d41586-024-00617-4">doi:10.1038/d41586-024-00617-4</a></p>Publisher has retracted two papers that suggested the abortion drug mifepristone causes a burden on US public health. Plus, learn how the ‘flashlight’ method can boost research team meetings and see a sensational sea toad.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Influential abortion pill studies retracted]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00617-4</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-27; | doi:10.1038/d41586-024-00617-4</dc:source>
+            <dc:date>2024-02-27</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00617-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00617-4</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-024-00556-0">
             <title><![CDATA[Influential abortion-pill studies retracted: the science behind the decision]]></title>
             <link>https://www.nature.com/articles/d41586-024-00556-0</link>
@@ -1210,96 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00591-x</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00591-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00577-9">
-            <title><![CDATA[Why it would be a dangerous folly to end US–China science pact]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00577-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 26 February 2024; <a href="https://www.nature.com/articles/d41586-024-00577-9">doi:10.1038/d41586-024-00577-9</a></p>With renewal of the two countries’ decades-long science pact still on hold, there is too much talk about the risks of collaboration — and too little about the benefits.]]></content:encoded>
-            <dc:title><![CDATA[Why it would be a dangerous folly to end US–China science pact]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-00577-9</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-26; | doi:10.1038/d41586-024-00577-9</dc:source>
-            <dc:date>2024-02-26</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00577-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00577-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00596-6">
-            <title><![CDATA[Daily briefing: ‘All of Us’ genetics chart stirs unease]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00596-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 26 February 2024; <a href="https://www.nature.com/articles/d41586-024-00596-6">doi:10.1038/d41586-024-00596-6</a></p>A figure in a high-profile paper has reignited debate among geneticists about how to best discuss and depict human diversity. Plus, a decades-old supernova mystery is solved and six tips for finding meaning in your science career.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: ‘All of Us’ genetics chart stirs unease]]></dc:title>
-            <dc:creator>Flora Graham</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00596-6</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-26; | doi:10.1038/d41586-024-00596-6</dc:source>
-            <dc:date>2024-02-26</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00596-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00596-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00476-z">
-            <title><![CDATA[How to find meaning in your science career: six expert tips]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00476-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 26 February 2024; <a href="https://www.nature.com/articles/d41586-024-00476-z">doi:10.1038/d41586-024-00476-z</a></p>Philosophers, social scientists and a Nobel-prizewinning economist on how researchers can get satisfaction from their work — and make a difference to the world.]]></content:encoded>
-            <dc:title><![CDATA[How to find meaning in your science career: six expert tips]]></dc:title>
-            <dc:creator>Helen Pearson</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00476-z</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-26; | doi:10.1038/d41586-024-00476-z</dc:source>
-            <dc:date>2024-02-26</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00476-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00476-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00554-2">
-            <title><![CDATA[‘This is exclusion’: Florida law restricts hiring of researchers from seven countries]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00554-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 26 February 2024; <a href="https://www.nature.com/articles/d41586-024-00554-2">doi:10.1038/d41586-024-00554-2</a></p>Policy that prohibits partnerships between state universities and ‘countries of concern’, including China, will erode competitiveness, faculty members say.]]></content:encoded>
-            <dc:title><![CDATA[‘This is exclusion’: Florida law restricts hiring of researchers from seven countries]]></dc:title>
-            <dc:creator>Amanda Heidt</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00554-2</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-26; | doi:10.1038/d41586-024-00554-2</dc:source>
-            <dc:date>2024-02-26</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00554-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00554-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07115-7">
-            <title><![CDATA[Author Correction: Solving olympiad geometry without human demonstrations]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07115-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 23 February 2024; <a href="https://www.nature.com/articles/s41586-024-07115-7">doi:10.1038/s41586-024-07115-7</a></p>Author Correction: Solving olympiad geometry without human demonstrations]]></content:encoded>
-            <dc:title><![CDATA[Author Correction: Solving olympiad geometry without human demonstrations]]></dc:title>
-            <dc:creator>Trieu H. Trinh</dc:creator><dc:creator>Yuhuai Wu</dc:creator><dc:creator>Quoc V. Le</dc:creator><dc:creator>He He</dc:creator><dc:creator>Thang Luong</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07115-7</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-23; | doi:10.1038/s41586-024-07115-7</dc:source>
-            <dc:date>2024-02-23</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07115-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07115-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00550-6">
-            <title><![CDATA[Neuralink brain chip: advance sparks safety and secrecy concerns]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00550-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 23 February 2024; <a href="https://www.nature.com/articles/d41586-024-00550-6">doi:10.1038/d41586-024-00550-6</a></p>Elon Musk announced this week that his company’s brain implant has allowed a person to move a computer mouse with their mind.]]></content:encoded>
-            <dc:title><![CDATA[Neuralink brain chip: advance sparks safety and secrecy concerns]]></dc:title>
-            <dc:creator>Liam Drew</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00550-6</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-23; | doi:10.1038/d41586-024-00550-6</dc:source>
-            <dc:date>2024-02-23</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00550-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00550-6</prism:url>
         </item>
     
 </rdf:RDF>
