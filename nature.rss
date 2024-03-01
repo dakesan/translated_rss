@@ -18,6 +18,12 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00624-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00625-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00567-x"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00565-z"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00566-y"/>
@@ -162,12 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00579-7"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00586-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00544-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00591-x"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,51 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00624-5">
+            <title><![CDATA[The enigmas of language and immunology, and other reads: Books in brief]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00624-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 01 March 2024; <a href="https://www.nature.com/articles/d41586-024-00624-5">doi:10.1038/d41586-024-00624-5</a></p>Andrew Robinson reviews five of the best science picks.]]></content:encoded>
+            <dc:title><![CDATA[The enigmas of language and immunology, and other reads: Books in brief]]></dc:title>
+            <dc:creator>Andrew Robinson</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00624-5</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-01; | doi:10.1038/d41586-024-00624-5</dc:source>
+            <dc:date>2024-03-01</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00624-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00624-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00625-4">
+            <title><![CDATA[‘This is my calling’: building point-of-care diagnostic tools to fight tuberculosis]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00625-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 01 March 2024; <a href="https://www.nature.com/articles/d41586-024-00625-4">doi:10.1038/d41586-024-00625-4</a></p>Mireille Kamariza talks about her journey from community college to biotech chief executive, and the uphill battle to stop the spread of the deadly lung disease.]]></content:encoded>
+            <dc:title><![CDATA[‘This is my calling’: building point-of-care diagnostic tools to fight tuberculosis]]></dc:title>
+            <dc:creator>Abdullahi Tsanni </dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00625-4</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-01; | doi:10.1038/d41586-024-00625-4</dc:source>
+            <dc:date>2024-03-01</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00625-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00625-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00567-x">
+            <title><![CDATA[Galapagos giant tortoises were supersized before arrival]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00567-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 29 February 2024; <a href="https://www.nature.com/articles/d41586-024-00567-x">doi:10.1038/d41586-024-00567-x</a></p>Fossil analysis suggests the reptiles were already huge when they rode ocean currents to the islands thousands or even millions of years ago.]]></content:encoded>
+            <dc:title><![CDATA[Galapagos giant tortoises were supersized before arrival]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-00567-x</dc:identifier>
+            <dc:source>Nature, Published online: 2024-02-29; | doi:10.1038/d41586-024-00567-x</dc:source>
+            <dc:date>2024-02-29</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00567-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00567-x</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00565-z">
             <title><![CDATA[Submerged volcano’s eruption was the biggest since the last ice age]]></title>
@@ -1255,51 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00579-7</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00579-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00586-8">
-            <title><![CDATA[‘Breakthrough’ allergy drug: injection protects against severe food reactions]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00586-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 26 February 2024; <a href="https://www.nature.com/articles/d41586-024-00586-8">doi:10.1038/d41586-024-00586-8</a></p>A study suggests that the asthma treatment omalizumab can reduce the risk of dangerous allergic reactions to peanuts and other foods.]]></content:encoded>
-            <dc:title><![CDATA[‘Breakthrough’ allergy drug: injection protects against severe food reactions]]></dc:title>
-            <dc:creator>Sara Reardon</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00586-8</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-26; | doi:10.1038/d41586-024-00586-8</dc:source>
-            <dc:date>2024-02-26</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00586-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00586-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00544-4">
-            <title><![CDATA[To unravel the origin of life, treat findings as pieces of a bigger puzzle]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00544-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 26 February 2024; <a href="https://www.nature.com/articles/d41586-024-00544-4">doi:10.1038/d41586-024-00544-4</a></p>Explaining isolated steps on the road from simple chemicals to complex living organisms is not enough. Looking at the big picture could help to bridge rifts in this fractured research field.]]></content:encoded>
-            <dc:title><![CDATA[To unravel the origin of life, treat findings as pieces of a bigger puzzle]]></dc:title>
-            <dc:creator>Nick Lane</dc:creator><dc:creator>Joana C. Xavier</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00544-4</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-26; | doi:10.1038/d41586-024-00544-4</dc:source>
-            <dc:date>2024-02-26</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00544-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00544-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00591-x">
-            <title><![CDATA[How institutions can tap into research managers’ potential]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00591-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 26 February 2024; <a href="https://www.nature.com/articles/d41586-024-00591-x">doi:10.1038/d41586-024-00591-x</a></p>The editors of a book exploring the perspectives of research managers talk about how policymakers and institutional leaders can better support these essential professionals.]]></content:encoded>
-            <dc:title><![CDATA[How institutions can tap into research managers’ potential]]></dc:title>
-            <dc:creator>Bec Crew</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00591-x</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-26; | doi:10.1038/d41586-024-00591-x</dc:source>
-            <dc:date>2024-02-26</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00591-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00591-x</prism:url>
         </item>
     
 </rdf:RDF>
