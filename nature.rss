@@ -18,6 +18,10 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00616-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00643-2"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00624-5"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00601-y"/>
@@ -164,10 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00547-1"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00580-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07215-4"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,36 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00616-5">
+            <title><![CDATA[More than 2 million research papers have disappeared from the Internet]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00616-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 04 March 2024; <a href="https://www.nature.com/articles/d41586-024-00616-5">doi:10.1038/d41586-024-00616-5</a></p>An analysis of DOIs suggests that digital preservation is not keeping up with burgeoning scholarly knowledge.]]></content:encoded>
+            <dc:title><![CDATA[More than 2 million research papers have disappeared from the Internet]]></dc:title>
+            <dc:creator>Sarah Wild</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00616-5</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-04; | doi:10.1038/d41586-024-00616-5</dc:source>
+            <dc:date>2024-03-04</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00616-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00616-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00643-2">
+            <title><![CDATA[What science says about hybrid working — and how to make it a success]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00643-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 04 March 2024; <a href="https://www.nature.com/articles/d41586-024-00643-2">doi:10.1038/d41586-024-00643-2</a></p>How researchers can maximize creativity and connection in the ‘new normal’.]]></content:encoded>
+            <dc:title><![CDATA[What science says about hybrid working — and how to make it a success]]></dc:title>
+            <dc:creator>David Adam</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00643-2</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-04; | doi:10.1038/d41586-024-00643-2</dc:source>
+            <dc:date>2024-03-04</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00643-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00643-2</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00624-5">
             <title><![CDATA[The enigmas of language and immunology, and other reads: Books in brief]]></title>
@@ -1270,36 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00547-1</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00547-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00580-0">
-            <title><![CDATA[How I made my lab meetings more inclusive with a rapid-relay technique]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00580-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 27 February 2024; <a href="https://www.nature.com/articles/d41586-024-00580-0">doi:10.1038/d41586-024-00580-0</a></p>Johanna Joyce’s use of the ‘flashlight’ method has helped her lab members to connect and be more mindful about their science.]]></content:encoded>
-            <dc:title><![CDATA[How I made my lab meetings more inclusive with a rapid-relay technique]]></dc:title>
-            <dc:creator>Johanna Joyce</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00580-0</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-27; | doi:10.1038/d41586-024-00580-0</dc:source>
-            <dc:date>2024-02-27</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00580-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00580-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07215-4">
-            <title><![CDATA[Automated model building and protein identification in cryo-EM maps]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07215-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 26 February 2024; <a href="https://www.nature.com/articles/s41586-024-07215-4">doi:10.1038/s41586-024-07215-4</a></p>Automated model building and protein identification in cryo-EM maps]]></content:encoded>
-            <dc:title><![CDATA[Automated model building and protein identification in cryo-EM maps]]></dc:title>
-            <dc:creator>Kiarash Jamali</dc:creator><dc:creator>Lukas Käll</dc:creator><dc:creator>Rui Zhang</dc:creator><dc:creator>Alan Brown</dc:creator><dc:creator>Dari Kimanius</dc:creator><dc:creator>Sjors H. W. Scheres</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07215-4</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-26; | doi:10.1038/s41586-024-07215-4</dc:source>
-            <dc:date>2024-02-26</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07215-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07215-4</prism:url>
         </item>
     
 </rdf:RDF>
