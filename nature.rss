@@ -18,11 +18,21 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00630-7"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00633-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00631-6"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00632-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00642-3"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00646-z"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07226-1"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07228-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00616-5"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00647-y"/>
                 
@@ -31,6 +41,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00637-0"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00656-x"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00616-5"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00598-4"/>
                 
@@ -156,18 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00610-x"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00309-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00594-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00378-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00422-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00592-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00613-8"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,96 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00630-7">
+            <title><![CDATA[Space and nuclear pioneers show the value of empowering women in STEM]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00630-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 05 March 2024; <a href="https://www.nature.com/articles/d41586-024-00630-7">doi:10.1038/d41586-024-00630-7</a></p>Space and nuclear pioneers show the value of empowering women in STEM]]></content:encoded>
+            <dc:title><![CDATA[Space and nuclear pioneers show the value of empowering women in STEM]]></dc:title>
+            <dc:creator>Farhan M. Asrar</dc:creator><dc:creator>Safa Siddiqui</dc:creator><dc:creator>Soyeon Yi</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00630-7</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-05; | doi:10.1038/d41586-024-00630-7</dc:source>
+            <dc:date>2024-03-05</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00630-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00630-7</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00633-4">
+            <title><![CDATA[Why can’t researchers agree about consciousness? Because it’s all in the mind]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00633-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 05 March 2024; <a href="https://www.nature.com/articles/d41586-024-00633-4">doi:10.1038/d41586-024-00633-4</a></p>Why can’t researchers agree about consciousness? Because it’s all in the mind]]></content:encoded>
+            <dc:title><![CDATA[Why can’t researchers agree about consciousness? Because it’s all in the mind]]></dc:title>
+            <dc:creator>Jose Luis Perez Velazquez</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00633-4</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-05; | doi:10.1038/d41586-024-00633-4</dc:source>
+            <dc:date>2024-03-05</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00633-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00633-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00631-6">
+            <title><![CDATA[Personalized cancer care can’t rely on molecular testing alone]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00631-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 05 March 2024; <a href="https://www.nature.com/articles/d41586-024-00631-6">doi:10.1038/d41586-024-00631-6</a></p>Personalized cancer care can’t rely on molecular testing alone]]></content:encoded>
+            <dc:title><![CDATA[Personalized cancer care can’t rely on molecular testing alone]]></dc:title>
+            <dc:creator>James Larkin</dc:creator><dc:creator>Chloe Beland</dc:creator><dc:creator>Sivatharshini Ramalingam</dc:creator><dc:creator>Alexander R. Lyon</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00631-6</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-05; | doi:10.1038/d41586-024-00631-6</dc:source>
+            <dc:date>2024-03-05</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00631-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00631-6</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00632-5">
+            <title><![CDATA[Forget lung, breast or prostate cancer? Why we shouldn’t abandon tumour names yet]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00632-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 05 March 2024; <a href="https://www.nature.com/articles/d41586-024-00632-5">doi:10.1038/d41586-024-00632-5</a></p>Forget lung, breast or prostate cancer? Why we shouldn’t abandon tumour names yet]]></content:encoded>
+            <dc:title><![CDATA[Forget lung, breast or prostate cancer? Why we shouldn’t abandon tumour names yet]]></dc:title>
+            <dc:creator>Albrecht Stenzinger</dc:creator><dc:creator>Frederick Klauschen</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00632-5</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-05; | doi:10.1038/d41586-024-00632-5</dc:source>
+            <dc:date>2024-03-05</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00632-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00632-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00642-3">
+            <title><![CDATA[What 2024’s crucial elections mean for climate change]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00642-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 05 March 2024; <a href="https://www.nature.com/articles/d41586-024-00642-3">doi:10.1038/d41586-024-00642-3</a></p>Five of the world’s biggest carbon emitters are going to the polls in 2024 — potentially setting the course of climate action for years to come.]]></content:encoded>
+            <dc:title><![CDATA[What 2024’s crucial elections mean for climate change]]></dc:title>
+            <dc:creator>Smriti Mallapaty</dc:creator><dc:creator>Jeff Tollefson</dc:creator><dc:creator>Carissa Wong</dc:creator><dc:creator>Sarah Wild</dc:creator><dc:creator>Nisha Gaind</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00642-3</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-05; | doi:10.1038/d41586-024-00642-3</dc:source>
+            <dc:date>2024-03-05</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00642-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00642-3</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00646-z">
+            <title><![CDATA[Five tips for digitizing handwritten data]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00646-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 05 March 2024; <a href="https://www.nature.com/articles/d41586-024-00646-z">doi:10.1038/d41586-024-00646-z</a></p>Need to digitize field notes or historical documents? Researchers share their best practices.]]></content:encoded>
+            <dc:title><![CDATA[Five tips for digitizing handwritten data]]></dc:title>
+            <dc:creator>Alla Katsnelson</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00646-z</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-05; | doi:10.1038/d41586-024-00646-z</dc:source>
+            <dc:date>2024-03-05</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00646-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00646-z</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07226-1">
             <title><![CDATA[Triple-junction solar cells with cyanate in ultrawide bandgap perovskites]]></title>
@@ -207,21 +297,6 @@
             <prism:url>https://www.nature.com/articles/s41586-024-07228-z</prism:url>
         </item>
     
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00616-5">
-            <title><![CDATA[More than 2 million research papers have disappeared from the Internet]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00616-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 04 March 2024; <a href="https://www.nature.com/articles/d41586-024-00616-5">doi:10.1038/d41586-024-00616-5</a></p>An analysis of DOIs suggests that digital preservation is not keeping up with burgeoning scholarly knowledge.]]></content:encoded>
-            <dc:title><![CDATA[More than 2 million research papers have disappeared from the Internet]]></dc:title>
-            <dc:creator>Sarah Wild</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00616-5</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-04; | doi:10.1038/d41586-024-00616-5</dc:source>
-            <dc:date>2024-03-04</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00616-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00616-5</prism:url>
-        </item>
-    
         <item rdf:about="https://www.nature.com/articles/d41586-024-00647-y">
             <title><![CDATA[I look for the mineral equivalent of tree rings]]></title>
             <link>https://www.nature.com/articles/d41586-024-00647-y</link>
@@ -238,11 +313,11 @@
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00614-7">
-            <title><![CDATA[Genetics solves mystery of why some pandas are brown]]></title>
+            <title><![CDATA[Genetics solves mystery of rare brown pandas after 40 years]]></title>
             <link>https://www.nature.com/articles/d41586-024-00614-7</link>
             <content:encoded>
                 <![CDATA[<p>Nature, Published online: 04 March 2024; <a href="https://www.nature.com/articles/d41586-024-00614-7">doi:10.1038/d41586-024-00614-7</a></p>Chinese researchers find the gene responsible for the brown-and-white fur of a handful of giant pandas in China.]]></content:encoded>
-            <dc:title><![CDATA[Genetics solves mystery of why some pandas are brown]]></dc:title>
+            <dc:title><![CDATA[Genetics solves mystery of rare brown pandas after 40 years]]></dc:title>
             <dc:creator>Xiaoying You</dc:creator>
             <dc:identifier>doi:10.1038/d41586-024-00614-7</dc:identifier>
             <dc:source>Nature, Published online: 2024-03-04; | doi:10.1038/d41586-024-00614-7</dc:source>
@@ -280,6 +355,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00656-x</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00656-x</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00616-5">
+            <title><![CDATA[Millions of research papers at risk of disappearing from the Internet]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00616-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 04 March 2024; <a href="https://www.nature.com/articles/d41586-024-00616-5">doi:10.1038/d41586-024-00616-5</a></p>An analysis of DOIs suggests that digital preservation is not keeping up with burgeoning scholarly knowledge.]]></content:encoded>
+            <dc:title><![CDATA[Millions of research papers at risk of disappearing from the Internet]]></dc:title>
+            <dc:creator>Sarah Wild</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00616-5</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-04; | doi:10.1038/d41586-024-00616-5</dc:source>
+            <dc:date>2024-03-04</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00616-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00616-5</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00598-4">
@@ -1210,96 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00610-x</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00610-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00309-z">
-            <title><![CDATA[A mobile DNA sequence could explain tail loss in humans and apes]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00309-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 28 February 2024; <a href="https://www.nature.com/articles/d41586-024-00309-z">doi:10.1038/d41586-024-00309-z</a></p>The lack of a tail is one thing that separates apes — including humans — from other primates. Insertion of a short DNA sequence into a gene that controls tail development could explain tail loss in the common ancestor of apes.]]></content:encoded>
-            <dc:title><![CDATA[A mobile DNA sequence could explain tail loss in humans and apes]]></dc:title>
-            <dc:creator>Miriam K. Konkel</dc:creator><dc:creator>Emily L. Casanova</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00309-z</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-28; | doi:10.1038/d41586-024-00309-z</dc:source>
-            <dc:date>2024-02-28</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00309-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00309-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00594-8">
-            <title><![CDATA[How dwarf galaxies lit up the Universe after the Big Bang]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00594-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 28 February 2024; <a href="https://www.nature.com/articles/d41586-024-00594-8">doi:10.1038/d41586-024-00594-8</a></p>Some of the faintest objects ever observed suggest that small galaxies get the credit for clearing the ‘fog’ pervading the early cosmos.]]></content:encoded>
-            <dc:title><![CDATA[How dwarf galaxies lit up the Universe after the Big Bang]]></dc:title>
-            <dc:creator>Sumeet Kulkarni</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00594-8</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-28; | doi:10.1038/d41586-024-00594-8</dc:source>
-            <dc:date>2024-02-28</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00594-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00594-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00378-0">
-            <title><![CDATA[Tiny sheaths of solvent boost battery performance]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00378-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 28 February 2024; <a href="https://www.nature.com/articles/d41586-024-00378-0">doi:10.1038/d41586-024-00378-0</a></p>Small solvent molecules have been found to enable a previously unknown ion-transport mechanism in battery electrolytes, speeding up charging and increasing performance at low temperatures.]]></content:encoded>
-            <dc:title><![CDATA[Tiny sheaths of solvent boost battery performance]]></dc:title>
-            <dc:creator>Chong Yan</dc:creator><dc:creator>Jia-Qi Huang</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00378-0</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-28; | doi:10.1038/d41586-024-00378-0</dc:source>
-            <dc:date>2024-02-28</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00378-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00378-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00422-z">
-            <title><![CDATA[Synchronized neuronal activity drives waste fluid flow]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00422-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 28 February 2024; <a href="https://www.nature.com/articles/d41586-024-00422-z">doi:10.1038/d41586-024-00422-z</a></p>Active neurons can stimulate the clearance of their own metabolic waste by driving changes to ion gradients in the surrounding fluid and by promoting the pulsation of nearby blood vessels.]]></content:encoded>
-            <dc:title><![CDATA[Synchronized neuronal activity drives waste fluid flow]]></dc:title>
-            <dc:creator>Lauren  Hablitz</dc:creator><dc:creator>Maiken  Nedergaard</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00422-z</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-28; | doi:10.1038/d41586-024-00422-z</dc:source>
-            <dc:date>2024-02-28</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00422-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00422-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00592-w">
-            <title><![CDATA[Is ChatGPT making scientists hyper-productive? The highs and lows of using AI]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00592-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 28 February 2024; <a href="https://www.nature.com/articles/d41586-024-00592-w">doi:10.1038/d41586-024-00592-w</a></p>Large language models are transforming scientific writing and publishing. But the productivity boost that these tools bring could have a downside.]]></content:encoded>
-            <dc:title><![CDATA[Is ChatGPT making scientists hyper-productive? The highs and lows of using AI]]></dc:title>
-            <dc:creator>McKenzie Prillaman</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00592-w</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-28; | doi:10.1038/d41586-024-00592-w</dc:source>
-            <dc:date>2024-02-28</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00592-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00592-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00613-8">
-            <title><![CDATA[Private Moon lander is dying — it scored some wins for science]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00613-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 28 February 2024; <a href="https://www.nature.com/articles/d41586-024-00613-8">doi:10.1038/d41586-024-00613-8</a></p>The Odysseus spacecraft gathered data successfully from the lunar surface.]]></content:encoded>
-            <dc:title><![CDATA[Private Moon lander is dying — it scored some wins for science]]></dc:title>
-            <dc:creator>Alexandra Witze</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00613-8</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-28; | doi:10.1038/d41586-024-00613-8</dc:source>
-            <dc:date>2024-02-28</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00613-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00613-8</prism:url>
         </item>
     
 </rdf:RDF>
