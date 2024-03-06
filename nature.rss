@@ -18,6 +18,12 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00645-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00629-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00587-7"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00630-7"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00430-z"/>
@@ -162,12 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00611-w"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00338-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00543-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00590-y"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,51 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00645-0">
+            <title><![CDATA[The world must rethink plans for ageing oil and gas platforms]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00645-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 March 2024; <a href="https://www.nature.com/articles/d41586-024-00645-0">doi:10.1038/d41586-024-00645-0</a></p>Earth’s oceans are awash with ageing energy infrastructure. A change in the law is needed to ensure that these structures are decommissioned in ways that maximize environmental and societal benefits.]]></content:encoded>
+            <dc:title><![CDATA[The world must rethink plans for ageing oil and gas platforms]]></dc:title>
+            <dc:creator>Antony Knights</dc:creator><dc:creator>Anaëlle Lemasson</dc:creator><dc:creator>Matthew Frost</dc:creator><dc:creator>Paul Somerfield</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00645-0</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-06; | doi:10.1038/d41586-024-00645-0</dc:source>
+            <dc:date>2024-03-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00645-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00645-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00629-0">
+            <title><![CDATA[China has a list of suspect journals and it’s just been updated]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00629-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 March 2024; <a href="https://www.nature.com/articles/d41586-024-00629-0">doi:10.1038/d41586-024-00629-0</a></p>Nature talks to the librarian behind China’s Early Warning Journal List about how it is compiled each year.]]></content:encoded>
+            <dc:title><![CDATA[China has a list of suspect journals and it’s just been updated]]></dc:title>
+            <dc:creator>Smriti Mallapaty</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00629-0</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-06; | doi:10.1038/d41586-024-00629-0</dc:source>
+            <dc:date>2024-03-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00629-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00629-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00587-7">
+            <title><![CDATA[Ancient skin sported intricately patterned scales]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00587-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 March 2024; <a href="https://www.nature.com/articles/d41586-024-00587-7">doi:10.1038/d41586-024-00587-7</a></p>The discovery of 285-million-year-old fossils of intricately patterned animal scales indicates that evolutionary tinkering of armoured skin started at the dawn of life on dry land as aquatic vertebrates adapted for terrestrial survival.]]></content:encoded>
+            <dc:title><![CDATA[Ancient skin sported intricately patterned scales]]></dc:title>
+            <dc:creator>Maksim V. Plikus</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00587-7</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-06; | doi:10.1038/d41586-024-00587-7</dc:source>
+            <dc:date>2024-03-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00587-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00587-7</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00630-7">
             <title><![CDATA[Space and nuclear pioneers show the value of empowering women in STEM]]></title>
@@ -1255,51 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00611-w</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00611-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00338-8">
-            <title><![CDATA[Eyes on history]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00338-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 28 February 2024; <a href="https://www.nature.com/articles/d41586-024-00338-8">doi:10.1038/d41586-024-00338-8</a></p>Passing time.]]></content:encoded>
-            <dc:title><![CDATA[Eyes on history]]></dc:title>
-            <dc:creator>Yelena Crane</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00338-8</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-28; | doi:10.1038/d41586-024-00338-8</dc:source>
-            <dc:date>2024-02-28</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00338-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00338-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00543-5">
-            <title><![CDATA[Can non-profits beat antibiotic resistance and soaring drug costs?]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00543-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 28 February 2024; <a href="https://www.nature.com/articles/d41586-024-00543-5">doi:10.1038/d41586-024-00543-5</a></p>Effective, affordable antimicrobial drugs aren’t moneymakers, despite being desperately needed. Can non-profit organizations pick up the slack?]]></content:encoded>
-            <dc:title><![CDATA[Can non-profits beat antibiotic resistance and soaring drug costs?]]></dc:title>
-            <dc:creator>Maryn McKenna</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00543-5</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-28; | doi:10.1038/d41586-024-00543-5</dc:source>
-            <dc:date>2024-02-28</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00543-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00543-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00590-y">
-            <title><![CDATA[Stealthy stem cells to treat disease]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00590-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 28 February 2024; <a href="https://www.nature.com/articles/d41586-024-00590-y">doi:10.1038/d41586-024-00590-y</a></p>Gene-editing strategies that allow stem cells to evade the immune system offer hope for universal cell-replacement therapies.]]></content:encoded>
-            <dc:title><![CDATA[Stealthy stem cells to treat disease]]></dc:title>
-            <dc:creator>Elie Dolgin</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00590-y</dc:identifier>
-            <dc:source>Nature, Published online: 2024-02-28; | doi:10.1038/d41586-024-00590-y</dc:source>
-            <dc:date>2024-02-28</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00590-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00590-y</prism:url>
         </item>
     
 </rdf:RDF>
