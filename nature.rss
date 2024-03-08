@@ -18,6 +18,14 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00688-3"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00695-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00651-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00703-7"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00686-5"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00628-1"/>
@@ -160,14 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00656-x"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00616-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00598-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00664-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00643-2"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,66 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00688-3">
+            <title><![CDATA[Show off your science in <i>Nature</i>’s photo competition]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00688-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 March 2024; <a href="https://www.nature.com/articles/d41586-024-00688-3">doi:10.1038/d41586-024-00688-3</a></p>The 2024 Working Scientist photo competition is open for entries. Capture your science on camera for a chance to appear in Nature.]]></content:encoded>
+            <dc:title><![CDATA[Show off your science in <i>Nature</i>’s photo competition]]></dc:title>
+            <dc:creator>Jack Leeming</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00688-3</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-08; | doi:10.1038/d41586-024-00688-3</dc:source>
+            <dc:date>2024-03-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00688-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00688-3</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00695-4">
+            <title><![CDATA[China promises more money for science in 2024]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00695-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 March 2024; <a href="https://www.nature.com/articles/d41586-024-00695-4">doi:10.1038/d41586-024-00695-4</a></p>Science and innovation are central to China’s national agenda and the country’s efforts to spur economic growth.]]></content:encoded>
+            <dc:title><![CDATA[China promises more money for science in 2024]]></dc:title>
+            <dc:creator>Smriti Mallapaty</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00695-4</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-08; | doi:10.1038/d41586-024-00695-4</dc:source>
+            <dc:date>2024-03-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00695-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00695-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00651-2">
+            <title><![CDATA[How a light touch registers on the skin]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00651-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 March 2024; <a href="https://www.nature.com/articles/d41586-024-00651-2">doi:10.1038/d41586-024-00651-2</a></p>Experiments suggest that the protein ELKIN1 helps sensory nerve cells to carry the signal of gentle contact to the brain.]]></content:encoded>
+            <dc:title><![CDATA[How a light touch registers on the skin]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-00651-2</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-08; | doi:10.1038/d41586-024-00651-2</dc:source>
+            <dc:date>2024-03-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00651-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00651-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00703-7">
+            <title><![CDATA[‘There is no cookie cutter female scientist’]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00703-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 March 2024; <a href="https://www.nature.com/articles/d41586-024-00703-7">doi:10.1038/d41586-024-00703-7</a></p>Teach, move to industry, be a manager. Success in science takes many forms beyond academia, says Monica Stein, marking International Women’s Day.]]></content:encoded>
+            <dc:title><![CDATA[‘There is no cookie cutter female scientist’]]></dc:title>
+            <dc:creator>Julie Gould</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00703-7</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-08; | doi:10.1038/d41586-024-00703-7</dc:source>
+            <dc:date>2024-03-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00703-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00703-7</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00686-5">
             <title><![CDATA[Got milk? Meet the weird amphibian that nurses its young]]></title>
@@ -1240,66 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00656-x</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00656-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00616-5">
-            <title><![CDATA[Millions of research papers at risk of disappearing from the Internet]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00616-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 04 March 2024; <a href="https://www.nature.com/articles/d41586-024-00616-5">doi:10.1038/d41586-024-00616-5</a></p>An analysis of DOIs suggests that digital preservation is not keeping up with burgeoning scholarly knowledge.]]></content:encoded>
-            <dc:title><![CDATA[Millions of research papers at risk of disappearing from the Internet]]></dc:title>
-            <dc:creator>Sarah Wild</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00616-5</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-04; | doi:10.1038/d41586-024-00616-5</dc:source>
-            <dc:date>2024-03-04</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00616-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00616-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00598-4">
-            <title><![CDATA[Big science in Latin America: accelerate particles and progress]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00598-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 04 March 2024; <a href="https://www.nature.com/articles/d41586-024-00598-4">doi:10.1038/d41586-024-00598-4</a></p>An advanced light source for research would boost growth in the Greater Caribbean region — scientific, economic and societal.]]></content:encoded>
-            <dc:title><![CDATA[Big science in Latin America: accelerate particles and progress]]></dc:title>
-            <dc:creator>Victor M.  Castaño</dc:creator><dc:creator>Pedro Fernández  de Córdoba</dc:creator><dc:creator>Juan A.  Sans</dc:creator><dc:creator>Galileo  Violini</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00598-4</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-04; | doi:10.1038/d41586-024-00598-4</dc:source>
-            <dc:date>2024-03-04</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00598-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00598-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00664-x">
-            <title><![CDATA[Daily briefing: Millions of online papers at risk of disappearing]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00664-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 04 March 2024; <a href="https://www.nature.com/articles/d41586-024-00664-x">doi:10.1038/d41586-024-00664-x</a></p>A big chunk of the literature is missing from online archives, an anti-methane satellite will seek leaks and how to weigh a neutrino.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: Millions of online papers at risk of disappearing]]></dc:title>
-            <dc:creator>Flora Graham</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00664-x</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-04; | doi:10.1038/d41586-024-00664-x</dc:source>
-            <dc:date>2024-03-04</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00664-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00664-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00643-2">
-            <title><![CDATA[What science says about hybrid working — and how to make it a success]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00643-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 04 March 2024; <a href="https://www.nature.com/articles/d41586-024-00643-2">doi:10.1038/d41586-024-00643-2</a></p>How researchers can maximize creativity and connection in the ‘new normal’.]]></content:encoded>
-            <dc:title><![CDATA[What science says about hybrid working — and how to make it a success]]></dc:title>
-            <dc:creator>David Adam</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00643-2</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-04; | doi:10.1038/d41586-024-00643-2</dc:source>
-            <dc:date>2024-03-04</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00643-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00643-2</prism:url>
         </item>
     
 </rdf:RDF>
