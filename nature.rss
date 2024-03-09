@@ -18,13 +18,27 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00602-x"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00652-1"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00688-3"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00695-4"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00651-2"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00699-0"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00703-7"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00716-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00714-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00719-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00717-1"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00686-5"/>
                 
@@ -154,20 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00542-6"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00646-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07226-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07228-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00647-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00614-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00637-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00656-x"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,36 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00602-x">
+            <title><![CDATA[Buried vases hint that ancient Americans might have drunk tobacco]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00602-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 March 2024; <a href="https://www.nature.com/articles/d41586-024-00602-x">doi:10.1038/d41586-024-00602-x</a></p>Ritual vessels found in Guatemala contain traces of nicotine.]]></content:encoded>
+            <dc:title><![CDATA[Buried vases hint that ancient Americans might have drunk tobacco]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-00602-x</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-08; | doi:10.1038/d41586-024-00602-x</dc:source>
+            <dc:date>2024-03-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00602-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00602-x</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00652-1">
+            <title><![CDATA[A better way to charge a quantum battery]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00652-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 March 2024; <a href="https://www.nature.com/articles/d41586-024-00652-1">doi:10.1038/d41586-024-00652-1</a></p>Batteries that store photons in atoms or molecules could retain their efficiency with wireless charging.]]></content:encoded>
+            <dc:title><![CDATA[A better way to charge a quantum battery]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-00652-1</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-08; | doi:10.1038/d41586-024-00652-1</dc:source>
+            <dc:date>2024-03-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00652-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00652-1</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00688-3">
             <title><![CDATA[Show off your science in <i>Nature</i>’s photo competition]]></title>
@@ -222,6 +252,21 @@
             <prism:url>https://www.nature.com/articles/d41586-024-00651-2</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00699-0">
+            <title><![CDATA[Could AI-designed proteins be weaponized? Scientists lay out safety guidelines]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00699-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 March 2024; <a href="https://www.nature.com/articles/d41586-024-00699-0">doi:10.1038/d41586-024-00699-0</a></p>AI tools that can come up with protein structures at the push of a button should be used safely and ethically, say researchers in the field.]]></content:encoded>
+            <dc:title><![CDATA[Could AI-designed proteins be weaponized? Scientists lay out safety guidelines]]></dc:title>
+            <dc:creator>Ewen Callaway</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00699-0</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-08; | doi:10.1038/d41586-024-00699-0</dc:source>
+            <dc:date>2024-03-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00699-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00699-0</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-024-00703-7">
             <title><![CDATA[‘There is no cookie cutter female scientist’]]></title>
             <link>https://www.nature.com/articles/d41586-024-00703-7</link>
@@ -235,6 +280,66 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00703-7</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00703-7</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00716-2">
+            <title><![CDATA[Superconductivity scandal: the inside story of deception in a rising star's physics lab]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00716-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 March 2024; <a href="https://www.nature.com/articles/d41586-024-00716-2">doi:10.1038/d41586-024-00716-2</a></p>Ranga Dias claimed to have discovered the first room-temperature superconductors, but the work was later retracted. An investigation by Nature’s news team reveals new details about what happened — and how institutions missed red flags.]]></content:encoded>
+            <dc:title><![CDATA[Superconductivity scandal: the inside story of deception in a rising star's physics lab]]></dc:title>
+            <dc:creator>Dan Garisto</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00716-2</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-08; | doi:10.1038/d41586-024-00716-2</dc:source>
+            <dc:date>2024-03-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00716-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00716-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00714-4">
+            <title><![CDATA[Roger Guillemin (1924–2024), neuroscientist who showed how the brain controls hormones]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00714-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 March 2024; <a href="https://www.nature.com/articles/d41586-024-00714-4">doi:10.1038/d41586-024-00714-4</a></p>Nobel prizewinner whose discovery of how the brain drives hormone production had far-reaching impacts on studies of metabolism, reproduction and growth.]]></content:encoded>
+            <dc:title><![CDATA[Roger Guillemin (1924–2024), neuroscientist who showed how the brain controls hormones]]></dc:title>
+            <dc:creator>Greg   Lemke</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00714-4</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-08; | doi:10.1038/d41586-024-00714-4</dc:source>
+            <dc:date>2024-03-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00714-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00714-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00719-z">
+            <title><![CDATA[Workplaces are failing Black women; they must do better]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00719-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 March 2024; <a href="https://www.nature.com/articles/d41586-024-00719-z">doi:10.1038/d41586-024-00719-z</a></p>Black women at universities are seldom heard. Institutions need to listen and take action.]]></content:encoded>
+            <dc:title><![CDATA[Workplaces are failing Black women; they must do better]]></dc:title>
+            <dc:creator>Nicola  Rollock</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00719-z</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-08; | doi:10.1038/d41586-024-00719-z</dc:source>
+            <dc:date>2024-03-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00719-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00719-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00717-1">
+            <title><![CDATA[159 days of solitude: how loneliness haunts astronauts]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00717-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 March 2024; <a href="https://www.nature.com/articles/d41586-024-00717-1">doi:10.1038/d41586-024-00717-1</a></p>The psychological pressures of going into space might be as hard as the physical feat, a documentary reveals.]]></content:encoded>
+            <dc:title><![CDATA[159 days of solitude: how loneliness haunts astronauts]]></dc:title>
+            <dc:creator>Alexandra Witze</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00717-1</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-08; | doi:10.1038/d41586-024-00717-1</dc:source>
+            <dc:date>2024-03-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00717-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00717-1</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00686-5">
@@ -283,11 +388,11 @@
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00690-9">
-            <title><![CDATA[Meet the real-life versions of <i>Dune</i>'s epic sandworms]]></title>
+            <title><![CDATA[Meet the real-life versions of <i>Dune</i>’s epic sandworms]]></title>
             <link>https://www.nature.com/articles/d41586-024-00690-9</link>
             <content:encoded>
                 <![CDATA[<p>Nature, Published online: 07 March 2024; <a href="https://www.nature.com/articles/d41586-024-00690-9">doi:10.1038/d41586-024-00690-9</a></p>A Dune-loving worm palaeontologist makes the case that worms have been just as important on Earth as they are in the blockbuster film.]]></content:encoded>
-            <dc:title><![CDATA[Meet the real-life versions of <i>Dune</i>'s epic sandworms]]></dc:title>
+            <dc:title><![CDATA[Meet the real-life versions of <i>Dune</i>’s epic sandworms]]></dc:title>
             <dc:creator>Julian  Nowogrodzki</dc:creator>
             <dc:identifier>doi:10.1038/d41586-024-00690-9</dc:identifier>
             <dc:source>Nature, Published online: 2024-03-07; | doi:10.1038/d41586-024-00690-9</dc:source>
@@ -856,7 +961,7 @@
             <title><![CDATA[Geologists reject the Anthropocene as Earth’s new epoch — after 15 years of debate]]></title>
             <link>https://www.nature.com/articles/d41586-024-00675-8</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 06 March 2024; <a href="https://www.nature.com/articles/d41586-024-00675-8">doi:10.1038/d41586-024-00675-8</a></p>But some are now challenging the vote, saying there were “procedural irregularities”.]]></content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 March 2024; <a href="https://www.nature.com/articles/d41586-024-00675-8">doi:10.1038/d41586-024-00675-8</a></p>But some are now challenging the vote, saying there were ‘procedural irregularities’.]]></content:encoded>
             <dc:title><![CDATA[Geologists reject the Anthropocene as Earth’s new epoch — after 15 years of debate]]></dc:title>
             <dc:creator>Alexandra Witze</dc:creator>
             <dc:identifier>doi:10.1038/d41586-024-00675-8</dc:identifier>
@@ -1195,111 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00542-6</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00542-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00646-z">
-            <title><![CDATA[Five tips for digitizing handwritten data]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00646-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 05 March 2024; <a href="https://www.nature.com/articles/d41586-024-00646-z">doi:10.1038/d41586-024-00646-z</a></p>Need to digitize field notes or historical documents? Researchers share their best practices.]]></content:encoded>
-            <dc:title><![CDATA[Five tips for digitizing handwritten data]]></dc:title>
-            <dc:creator>Alla Katsnelson</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00646-z</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-05; | doi:10.1038/d41586-024-00646-z</dc:source>
-            <dc:date>2024-03-05</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00646-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00646-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07226-1">
-            <title><![CDATA[Triple-junction solar cells with cyanate in ultrawide bandgap perovskites]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07226-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 04 March 2024; <a href="https://www.nature.com/articles/s41586-024-07226-1">doi:10.1038/s41586-024-07226-1</a></p>Triple-junction solar cells with cyanate in ultrawide bandgap perovskites]]></content:encoded>
-            <dc:title><![CDATA[Triple-junction solar cells with cyanate in ultrawide bandgap perovskites]]></dc:title>
-            <dc:creator>Shunchang Liu</dc:creator><dc:creator>Yue Lu</dc:creator><dc:creator>Cao Yu</dc:creator><dc:creator>Jia Li</dc:creator><dc:creator>Ran Luo</dc:creator><dc:creator>Renjun Guo</dc:creator><dc:creator>Haoming Liang</dc:creator><dc:creator>Xiangkun Jia</dc:creator><dc:creator>Xiao Guo</dc:creator><dc:creator>Yu-Duan Wang</dc:creator><dc:creator>Qilin Zhou</dc:creator><dc:creator>Xi Wang</dc:creator><dc:creator>Shaofei Yang</dc:creator><dc:creator>Manling Sui</dc:creator><dc:creator>Peter Müller-Buschbaum</dc:creator><dc:creator>Yi Hou</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07226-1</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-04; | doi:10.1038/s41586-024-07226-1</dc:source>
-            <dc:date>2024-03-04</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07226-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07226-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07228-z">
-            <title><![CDATA[Dopant-additive synergism enhances perovskite solar modules]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07228-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 04 March 2024; <a href="https://www.nature.com/articles/s41586-024-07228-z">doi:10.1038/s41586-024-07228-z</a></p>Dopant-additive synergism enhances perovskite solar modules]]></content:encoded>
-            <dc:title><![CDATA[Dopant-additive synergism enhances perovskite solar modules]]></dc:title>
-            <dc:creator>Bin Ding</dc:creator><dc:creator>Yong Ding</dc:creator><dc:creator>Jun Peng</dc:creator><dc:creator>Jan Romano-deGea</dc:creator><dc:creator>Lindsey E. K. Frederiksen</dc:creator><dc:creator>Hiroyuki Kanda</dc:creator><dc:creator>Olga A. Syzgantseva</dc:creator><dc:creator>Maria A. Syzgantseva</dc:creator><dc:creator>Jean-Nicolas Audinot</dc:creator><dc:creator>Jerome Bour</dc:creator><dc:creator>Song Zhang</dc:creator><dc:creator>Tom Wirtz</dc:creator><dc:creator>Zhaofu Fei</dc:creator><dc:creator>Patrick Dörflinger</dc:creator><dc:creator>Naoyuki Shibayama</dc:creator><dc:creator>Yunjuan Niu</dc:creator><dc:creator>Sixia Hu</dc:creator><dc:creator>Shunlin Zhang</dc:creator><dc:creator>Farzaneh Fadaei Tiranito</dc:creator><dc:creator>Yan Liu</dc:creator><dc:creator>Guan-Jun Yang</dc:creator><dc:creator>Keith Brooks</dc:creator><dc:creator>Linhua Hu</dc:creator><dc:creator>Sachin Kinge</dc:creator><dc:creator>Vladimir Dyakonov</dc:creator><dc:creator>Xiaohong Zhang</dc:creator><dc:creator>Songyuan Dai</dc:creator><dc:creator>Paul J. Dyson</dc:creator><dc:creator>Mohammad Khaja Nazeeruddin</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07228-z</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-04; | doi:10.1038/s41586-024-07228-z</dc:source>
-            <dc:date>2024-03-04</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07228-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07228-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00647-y">
-            <title><![CDATA[I look for the mineral equivalent of tree rings]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00647-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 04 March 2024; <a href="https://www.nature.com/articles/d41586-024-00647-y">doi:10.1038/d41586-024-00647-y</a></p>Yang Li’s research has developed a high-precision chronology of rocks.]]></content:encoded>
-            <dc:title><![CDATA[I look for the mineral equivalent of tree rings]]></dc:title>
-            <dc:creator>Virginia Gewin</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00647-y</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-04; | doi:10.1038/d41586-024-00647-y</dc:source>
-            <dc:date>2024-03-04</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00647-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00647-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00614-7">
-            <title><![CDATA[Genetics solves mystery of rare brown pandas after 40 years]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00614-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 04 March 2024; <a href="https://www.nature.com/articles/d41586-024-00614-7">doi:10.1038/d41586-024-00614-7</a></p>Chinese researchers find the gene responsible for the brown-and-white fur of a handful of giant pandas in China.]]></content:encoded>
-            <dc:title><![CDATA[Genetics solves mystery of rare brown pandas after 40 years]]></dc:title>
-            <dc:creator>Xiaoying You</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00614-7</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-04; | doi:10.1038/d41586-024-00614-7</dc:source>
-            <dc:date>2024-03-04</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00614-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00614-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00637-0">
-            <title><![CDATA[Oldest known animal sex chromosome evolved in octopuses 380 million years ago]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00637-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 04 March 2024; <a href="https://www.nature.com/articles/d41586-024-00637-0">doi:10.1038/d41586-024-00637-0</a></p>Result reveals for the first time how some cephalopods determine sex.]]></content:encoded>
-            <dc:title><![CDATA[Oldest known animal sex chromosome evolved in octopuses 380 million years ago]]></dc:title>
-            <dc:creator>Carissa Wong</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00637-0</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-04; | doi:10.1038/d41586-024-00637-0</dc:source>
-            <dc:date>2024-03-04</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00637-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00637-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00656-x">
-            <title><![CDATA[Organoids grown from amniotic fluid could shed light on rare diseases]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00656-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 04 March 2024; <a href="https://www.nature.com/articles/d41586-024-00656-x">doi:10.1038/d41586-024-00656-x</a></p>Organ-like groups of cells can be grown from amniotic fluid samples and offer hope for studying congenital conditions.]]></content:encoded>
-            <dc:title><![CDATA[Organoids grown from amniotic fluid could shed light on rare diseases]]></dc:title>
-            <dc:creator>Lilly Tozer</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00656-x</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-04; | doi:10.1038/d41586-024-00656-x</dc:source>
-            <dc:date>2024-03-04</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00656-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00656-x</prism:url>
         </item>
     
 </rdf:RDF>
