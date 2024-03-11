@@ -18,6 +18,10 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00715-3"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00728-y"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00602-x"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00652-1"/>
@@ -164,10 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00666-9"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00641-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00542-6"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,36 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00715-3">
+            <title><![CDATA[The science of <i>Oppenheimer</i>: meet the Oscar-winning movie’s specialist advisers]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00715-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 11 March 2024; <a href="https://www.nature.com/articles/d41586-024-00715-3">doi:10.1038/d41586-024-00715-3</a></p>Oppenheimer has been praised for its portrayal of the creation of the atomic bomb. Nature spoke to three scientists involved in the film’s production.]]></content:encoded>
+            <dc:title><![CDATA[The science of <i>Oppenheimer</i>: meet the Oscar-winning movie’s specialist advisers]]></dc:title>
+            <dc:creator>Jonathan O&#x27;Callaghan</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00715-3</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-11; | doi:10.1038/d41586-024-00715-3</dc:source>
+            <dc:date>2024-03-11</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00715-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00715-3</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00728-y">
+            <title><![CDATA[This geologist communicates science from the ski slopes]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00728-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 11 March 2024; <a href="https://www.nature.com/articles/d41586-024-00728-y">doi:10.1038/d41586-024-00728-y</a></p>How Karin Kirk finds a balance between twin careers of science writing and skiing instruction.]]></content:encoded>
+            <dc:title><![CDATA[This geologist communicates science from the ski slopes]]></dc:title>
+            <dc:creator>Miles Lizak</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00728-y</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-11; | doi:10.1038/d41586-024-00728-y</dc:source>
+            <dc:date>2024-03-11</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00728-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00728-y</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00602-x">
             <title><![CDATA[Buried vases hint that ancient Americans might have drunk tobacco]]></title>
@@ -283,11 +313,11 @@
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00716-2">
-            <title><![CDATA[Superconductivity scandal: the inside story of deception in a rising star's physics lab]]></title>
+            <title><![CDATA[Superconductivity scandal: the inside story of deception in a rising star’s physics lab]]></title>
             <link>https://www.nature.com/articles/d41586-024-00716-2</link>
             <content:encoded>
                 <![CDATA[<p>Nature, Published online: 08 March 2024; <a href="https://www.nature.com/articles/d41586-024-00716-2">doi:10.1038/d41586-024-00716-2</a></p>Ranga Dias claimed to have discovered the first room-temperature superconductors, but the work was later retracted. An investigation by Nature’s news team reveals new details about what happened — and how institutions missed red flags.]]></content:encoded>
-            <dc:title><![CDATA[Superconductivity scandal: the inside story of deception in a rising star's physics lab]]></dc:title>
+            <dc:title><![CDATA[Superconductivity scandal: the inside story of deception in a rising star’s physics lab]]></dc:title>
             <dc:creator>Dan Garisto</dc:creator>
             <dc:identifier>doi:10.1038/d41586-024-00716-2</dc:identifier>
             <dc:source>Nature, Published online: 2024-03-08; | doi:10.1038/d41586-024-00716-2</dc:source>
@@ -313,11 +343,11 @@
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00719-z">
-            <title><![CDATA[Workplaces are failing Black women; they must do better]]></title>
+            <title><![CDATA[Academic workplaces are still failing Black women; they must do better]]></title>
             <link>https://www.nature.com/articles/d41586-024-00719-z</link>
             <content:encoded>
                 <![CDATA[<p>Nature, Published online: 08 March 2024; <a href="https://www.nature.com/articles/d41586-024-00719-z">doi:10.1038/d41586-024-00719-z</a></p>Black women at universities are seldom heard. Institutions need to listen and take action.]]></content:encoded>
-            <dc:title><![CDATA[Workplaces are failing Black women; they must do better]]></dc:title>
+            <dc:title><![CDATA[Academic workplaces are still failing Black women; they must do better]]></dc:title>
             <dc:creator>Nicola  Rollock</dc:creator>
             <dc:identifier>doi:10.1038/d41586-024-00719-z</dc:identifier>
             <dc:source>Nature, Published online: 2024-03-08; | doi:10.1038/d41586-024-00719-z</dc:source>
@@ -1270,36 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00666-9</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00666-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00641-4">
-            <title><![CDATA[Megafires are here to stay — and blaming only climate change won’t help]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00641-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 05 March 2024; <a href="https://www.nature.com/articles/d41586-024-00641-4">doi:10.1038/d41586-024-00641-4</a></p>It’s not just global warming that’s driving the growth in destructive wildfires. Better land management is the first step to mitigating the risks.]]></content:encoded>
-            <dc:title><![CDATA[Megafires are here to stay — and blaming only climate change won’t help]]></dc:title>
-            <dc:creator>Renata Libonati</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00641-4</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-05; | doi:10.1038/d41586-024-00641-4</dc:source>
-            <dc:date>2024-03-05</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00641-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00641-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00542-6">
-            <title><![CDATA[Here’s what many digital tools for chronic pain are doing wrong]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00542-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 05 March 2024; <a href="https://www.nature.com/articles/d41586-024-00542-6">doi:10.1038/d41586-024-00542-6</a></p>To address the chronic-pain crisis, digital health technologies must break out of their silos and become integrative and holistic.]]></content:encoded>
-            <dc:title><![CDATA[Here’s what many digital tools for chronic pain are doing wrong]]></dc:title>
-            <dc:creator>Benjamin Lipp</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00542-6</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-05; | doi:10.1038/d41586-024-00542-6</dc:source>
-            <dc:date>2024-03-05</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00542-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00542-6</prism:url>
         </item>
     
 </rdf:RDF>
