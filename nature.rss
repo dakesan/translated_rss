@@ -18,9 +18,29 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00726-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07136-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00691-8"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00715-3"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00722-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00725-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00673-w"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00728-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00738-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00693-6"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-023-04138-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00740-2"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00602-x"/>
                 
@@ -148,26 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00639-y"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00427-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00696-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00630-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00430-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00633-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00631-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00632-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00529-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00642-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00666-9"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,51 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00726-0">
+            <title><![CDATA[Why I wander with wonder through Lesotho’s wetlands]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00726-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 11 March 2024; <a href="https://www.nature.com/articles/d41586-024-00726-0">doi:10.1038/d41586-024-00726-0</a></p>Lerato Seleteng-Kose studies the unique plants that live in these cold, remote parts of southern Africa.]]></content:encoded>
+            <dc:title><![CDATA[Why I wander with wonder through Lesotho’s wetlands]]></dc:title>
+            <dc:creator>Linda Nordling</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00726-0</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-11; | doi:10.1038/d41586-024-00726-0</dc:source>
+            <dc:date>2024-03-11</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00726-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00726-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07136-2">
+            <title><![CDATA[All-optical frequency division on-chip using a single laser]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07136-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 11 March 2024; <a href="https://www.nature.com/articles/s41586-024-07136-2">doi:10.1038/s41586-024-07136-2</a></p>We demonstrate an all-optical, mode-locking, Kerr-comb frequency division method that provides a chip-scale microwave source that is extremely versatile, accurate, stable and has ultralow noise, using only a single continuous-wave laser.]]></content:encoded>
+            <dc:title><![CDATA[All-optical frequency division on-chip using a single laser]]></dc:title>
+            <dc:creator>Yun Zhao</dc:creator><dc:creator>Jae K. Jang</dc:creator><dc:creator>Garrett J. Beals</dc:creator><dc:creator>Karl J. McNulty</dc:creator><dc:creator>Xingchen Ji</dc:creator><dc:creator>Yoshitomo Okawachi</dc:creator><dc:creator>Michal Lipson</dc:creator><dc:creator>Alexander L. Gaeta</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07136-2</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-11; | doi:10.1038/s41586-024-07136-2</dc:source>
+            <dc:date>2024-03-11</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07136-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07136-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00691-8">
+            <title><![CDATA[Blockbuster obesity drug leads to better health in people with HIV]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00691-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 11 March 2024; <a href="https://www.nature.com/articles/d41586-024-00691-8">doi:10.1038/d41586-024-00691-8</a></p>Semaglutide reduces weight and fat accumulation associated with the antiretroviral regimen that keeps HIV at bay.]]></content:encoded>
+            <dc:title><![CDATA[Blockbuster obesity drug leads to better health in people with HIV]]></dc:title>
+            <dc:creator>Mariana Lenharo</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00691-8</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-11; | doi:10.1038/d41586-024-00691-8</dc:source>
+            <dc:date>2024-03-11</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00691-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00691-8</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00715-3">
             <title><![CDATA[The science of <i>Oppenheimer</i>: meet the Oscar-winning movie’s specialist advisers]]></title>
@@ -192,6 +237,51 @@
             <prism:url>https://www.nature.com/articles/d41586-024-00715-3</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00722-4">
+            <title><![CDATA[Act now to prevent a ‘gold rush’ in outer space]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00722-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 11 March 2024; <a href="https://www.nature.com/articles/d41586-024-00722-4">doi:10.1038/d41586-024-00722-4</a></p>As private firms aim for the Moon and beyond, a book calls for an urgent relook at the legal compact that governs space exploration.]]></content:encoded>
+            <dc:title><![CDATA[Act now to prevent a ‘gold rush’ in outer space]]></dc:title>
+            <dc:creator>Timiebi  Aganaba</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00722-4</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-11; | doi:10.1038/d41586-024-00722-4</dc:source>
+            <dc:date>2024-03-11</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00722-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00722-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00725-1">
+            <title><![CDATA[No installation required: how WebAssembly is changing scientific computing]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00725-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 11 March 2024; <a href="https://www.nature.com/articles/d41586-024-00725-1">doi:10.1038/d41586-024-00725-1</a></p>Enabling code execution in the web browser, the multilanguage tool is powerful but complicated.]]></content:encoded>
+            <dc:title><![CDATA[No installation required: how WebAssembly is changing scientific computing]]></dc:title>
+            <dc:creator>Jeffrey M. Perkel</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00725-1</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-11; | doi:10.1038/d41586-024-00725-1</dc:source>
+            <dc:date>2024-03-11</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00725-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00725-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00673-w">
+            <title><![CDATA[First cell therapy for solid tumours heads to the clinic: what it means for cancer treatment]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00673-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 11 March 2024; <a href="https://www.nature.com/articles/d41586-024-00673-w">doi:10.1038/d41586-024-00673-w</a></p>Therapy built on tumour-infiltrating lymphocytes is now being prepared for at least 20 people in the United States with advanced melanoma.]]></content:encoded>
+            <dc:title><![CDATA[First cell therapy for solid tumours heads to the clinic: what it means for cancer treatment]]></dc:title>
+            <dc:creator>Sara Reardon</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00673-w</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-11; | doi:10.1038/d41586-024-00673-w</dc:source>
+            <dc:date>2024-03-11</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00673-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00673-w</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-024-00728-y">
             <title><![CDATA[This geologist communicates science from the ski slopes]]></title>
             <link>https://www.nature.com/articles/d41586-024-00728-y</link>
@@ -205,6 +295,66 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00728-y</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00728-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00738-w">
+            <title><![CDATA[‘A beautiful way of saying a lot’: sign language brings benefits to the organic chemistry classroom]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00738-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 11 March 2024; <a href="https://www.nature.com/articles/d41586-024-00738-w">doi:10.1038/d41586-024-00738-w</a></p>Christina Goudreau Collison works with Deaf students to develop clear signs for organic chemistry terms — which could also help students with non-conventional learning needs.]]></content:encoded>
+            <dc:title><![CDATA[‘A beautiful way of saying a lot’: sign language brings benefits to the organic chemistry classroom]]></dc:title>
+            <dc:creator>Jyoti Madhusoodanan</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00738-w</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-11; | doi:10.1038/d41586-024-00738-w</dc:source>
+            <dc:date>2024-03-11</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00738-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00738-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00693-6">
+            <title><![CDATA[Indigenous Australian fire-stick farming began at least 11,000 years ago]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00693-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 11 March 2024; <a href="https://www.nature.com/articles/d41586-024-00693-6">doi:10.1038/d41586-024-00693-6</a></p>Analysis of a sediment core dating back 150,000 years showed that fire patterns in Australia changed with the rise of Indigenous people’s use of fire.]]></content:encoded>
+            <dc:title><![CDATA[Indigenous Australian fire-stick farming began at least 11,000 years ago]]></dc:title>
+            <dc:creator>Bianca Nogrady</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00693-6</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-11; | doi:10.1038/d41586-024-00693-6</dc:source>
+            <dc:date>2024-03-11</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00693-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00693-6</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-023-04138-4">
+            <title><![CDATA[Dysregulated cellular stress management becomes a source of stress]]></title>
+            <link>https://www.nature.com/articles/d41586-023-04138-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 11 March 2024; <a href="https://www.nature.com/articles/d41586-023-04138-4">doi:10.1038/d41586-023-04138-4</a></p>Stress responses protect cells from harmful conditions, but once the stress has resolved, these responses must be actively turned off to avoid cell damage that might lead to the development of neurodegenerative disease.]]></content:encoded>
+            <dc:title><![CDATA[Dysregulated cellular stress management becomes a source of stress]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-023-04138-4</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-11; | doi:10.1038/d41586-023-04138-4</dc:source>
+            <dc:date>2024-03-11</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-023-04138-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-023-04138-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00740-2">
+            <title><![CDATA[Daily briefing: ‘Despair’ as Argentinian president begins dismantling science]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00740-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 09 March 2024; <a href="https://www.nature.com/articles/d41586-024-00740-2">doi:10.1038/d41586-024-00740-2</a></p>While Argentina cuts support for science, China promises a 10% increase in science funding. Plus, the amphibian that nurses its young, and how an imbalance in the gut microbiome could contribute to alcohol addiction.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: ‘Despair’ as Argentinian president begins dismantling science]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00740-2</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-09; | doi:10.1038/d41586-024-00740-2</dc:source>
+            <dc:date>2024-03-09</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00740-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00740-2</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00602-x">
@@ -1150,156 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00639-y</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00639-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00427-8">
-            <title><![CDATA[Bees and chimpanzees learn from others what they cannot learn alone]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00427-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 06 March 2024; <a href="https://www.nature.com/articles/d41586-024-00427-8">doi:10.1038/d41586-024-00427-8</a></p>It has been argued that human culture rests on a unique ability to learn from others more than we could possibly learn alone in a lifetime. Two studies show that we share this ability with bumblebees and chimpanzees.]]></content:encoded>
-            <dc:title><![CDATA[Bees and chimpanzees learn from others what they cannot learn alone]]></dc:title>
-            <dc:creator>Alex Thornton</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00427-8</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-06; | doi:10.1038/d41586-024-00427-8</dc:source>
-            <dc:date>2024-03-06</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00427-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00427-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00696-3">
-            <title><![CDATA[Daily briefing: COVID protections eliminated a strain of flu]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00696-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 06 March 2024; <a href="https://www.nature.com/articles/d41586-024-00696-3">doi:10.1038/d41586-024-00696-3</a></p>Wearing a mask, social distancing and better ventilation during the COVID-19 outbreak means we can remove one lineage of influenza from our vaccines. Plus, China updates its list of untrustworthy journals and five tips for digitizing handwritten data.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: COVID protections eliminated a strain of flu]]></dc:title>
-            <dc:creator>Flora Graham</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00696-3</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-06; | doi:10.1038/d41586-024-00696-3</dc:source>
-            <dc:date>2024-03-06</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00696-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00696-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00630-7">
-            <title><![CDATA[Space and nuclear pioneers show the value of empowering women in STEM]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00630-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 05 March 2024; <a href="https://www.nature.com/articles/d41586-024-00630-7">doi:10.1038/d41586-024-00630-7</a></p>Space and nuclear pioneers show the value of empowering women in STEM]]></content:encoded>
-            <dc:title><![CDATA[Space and nuclear pioneers show the value of empowering women in STEM]]></dc:title>
-            <dc:creator>Farhan M. Asrar</dc:creator><dc:creator>Safa Siddiqui</dc:creator><dc:creator>Soyeon Yi</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00630-7</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-05; | doi:10.1038/d41586-024-00630-7</dc:source>
-            <dc:date>2024-03-05</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00630-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00630-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00430-z">
-            <title><![CDATA[From the archive: New Mexico’s prehistoric pottery, and traces of the Ice Age]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00430-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 05 March 2024; <a href="https://www.nature.com/articles/d41586-024-00430-z">doi:10.1038/d41586-024-00430-z</a></p>Snippets from Nature’s past.]]></content:encoded>
-            <dc:title><![CDATA[From the archive: New Mexico’s prehistoric pottery, and traces of the Ice Age]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-00430-z</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-05; | doi:10.1038/d41586-024-00430-z</dc:source>
-            <dc:date>2024-03-05</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00430-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00430-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00633-4">
-            <title><![CDATA[Why can’t researchers agree about consciousness? Because it’s all in the mind]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00633-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 05 March 2024; <a href="https://www.nature.com/articles/d41586-024-00633-4">doi:10.1038/d41586-024-00633-4</a></p>Why can’t researchers agree about consciousness? Because it’s all in the mind]]></content:encoded>
-            <dc:title><![CDATA[Why can’t researchers agree about consciousness? Because it’s all in the mind]]></dc:title>
-            <dc:creator>Jose Luis Perez Velazquez</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00633-4</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-05; | doi:10.1038/d41586-024-00633-4</dc:source>
-            <dc:date>2024-03-05</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00633-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00633-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00631-6">
-            <title><![CDATA[Personalized cancer care can’t rely on molecular testing alone]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00631-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 05 March 2024; <a href="https://www.nature.com/articles/d41586-024-00631-6">doi:10.1038/d41586-024-00631-6</a></p>Personalized cancer care can’t rely on molecular testing alone]]></content:encoded>
-            <dc:title><![CDATA[Personalized cancer care can’t rely on molecular testing alone]]></dc:title>
-            <dc:creator>James Larkin</dc:creator><dc:creator>Chloe Beland</dc:creator><dc:creator>Sivatharshini Ramalingam</dc:creator><dc:creator>Alexander R. Lyon</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00631-6</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-05; | doi:10.1038/d41586-024-00631-6</dc:source>
-            <dc:date>2024-03-05</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00631-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00631-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00632-5">
-            <title><![CDATA[Forget lung, breast or prostate cancer? Why we shouldn’t abandon tumour names yet]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00632-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 05 March 2024; <a href="https://www.nature.com/articles/d41586-024-00632-5">doi:10.1038/d41586-024-00632-5</a></p>Forget lung, breast or prostate cancer? Why we shouldn’t abandon tumour names yet]]></content:encoded>
-            <dc:title><![CDATA[Forget lung, breast or prostate cancer? Why we shouldn’t abandon tumour names yet]]></dc:title>
-            <dc:creator>Albrecht Stenzinger</dc:creator><dc:creator>Frederick Klauschen</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00632-5</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-05; | doi:10.1038/d41586-024-00632-5</dc:source>
-            <dc:date>2024-03-05</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00632-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00632-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00529-3">
-            <title><![CDATA[Well-matched vibrations cool electronic hot spots]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00529-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 05 March 2024; <a href="https://www.nature.com/articles/d41586-024-00529-3">doi:10.1038/d41586-024-00529-3</a></p>Diamond layers can help to dissipate the heat generated by high-power semiconductor devices. This effect has now been enhanced by adding layers of materials and engineering their crystal-lattice vibrations to be compatible at the interfaces.]]></content:encoded>
-            <dc:title><![CDATA[Well-matched vibrations cool electronic hot spots]]></dc:title>
-            <dc:creator>Liwen Sang</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00529-3</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-05; | doi:10.1038/d41586-024-00529-3</dc:source>
-            <dc:date>2024-03-05</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00529-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00529-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00642-3">
-            <title><![CDATA[How five crucial elections in 2024 could shape climate action for decades]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00642-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 05 March 2024; <a href="https://www.nature.com/articles/d41586-024-00642-3">doi:10.1038/d41586-024-00642-3</a></p>Some of the world’s biggest carbon emitters are going to the polls this year — the results could determine whether humanity can correct its trajectory of dangerous global warming.]]></content:encoded>
-            <dc:title><![CDATA[How five crucial elections in 2024 could shape climate action for decades]]></dc:title>
-            <dc:creator>Smriti Mallapaty</dc:creator><dc:creator>Jeff Tollefson</dc:creator><dc:creator>Carissa Wong</dc:creator><dc:creator>Sarah Wild</dc:creator><dc:creator>Nisha Gaind</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00642-3</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-05; | doi:10.1038/d41586-024-00642-3</dc:source>
-            <dc:date>2024-03-05</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00642-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00642-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00666-9">
-            <title><![CDATA[Meningitis could be behind ‘mystery illness’ reports in Nigeria]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00666-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 05 March 2024; <a href="https://www.nature.com/articles/d41586-024-00666-9">doi:10.1038/d41586-024-00666-9</a></p>The WHO confirms three meningitis deaths, which it says might have triggered rumours of an outbreak of an unknown disease.]]></content:encoded>
-            <dc:title><![CDATA[Meningitis could be behind ‘mystery illness’ reports in Nigeria]]></dc:title>
-            <dc:creator>Sarah Wild</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00666-9</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-05; | doi:10.1038/d41586-024-00666-9</dc:source>
-            <dc:date>2024-03-05</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00666-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00666-9</prism:url>
         </item>
     
 </rdf:RDF>
