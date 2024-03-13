@@ -18,6 +18,10 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00720-6"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00653-0"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07270-x"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00762-w"/>
@@ -164,10 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07128-2"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07142-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07102-y"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,36 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00720-6">
+            <title><![CDATA[Why are so many young people getting cancer? What the data say]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00720-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 13 March 2024; <a href="https://www.nature.com/articles/d41586-024-00720-6">doi:10.1038/d41586-024-00720-6</a></p>Clues to a modern mystery could be lurking in information collected generations ago.]]></content:encoded>
+            <dc:title><![CDATA[Why are so many young people getting cancer? What the data say]]></dc:title>
+            <dc:creator>Heidi Ledford</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00720-6</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-13; | doi:10.1038/d41586-024-00720-6</dc:source>
+            <dc:date>2024-03-13</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00720-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00720-6</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00653-0">
+            <title><![CDATA[Epstein–Barr virus at 60]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00653-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 13 March 2024; <a href="https://www.nature.com/articles/d41586-024-00653-0">doi:10.1038/d41586-024-00653-0</a></p>The 1964 discovery of Epstein–Barr virus shed light on factors that contribute to human cancer. Subsequent studies set the stage for finding ways to diagnose and treat cancer, and revealed how immune defences control viral infection.]]></content:encoded>
+            <dc:title><![CDATA[Epstein–Barr virus at 60]]></dc:title>
+            <dc:creator>Lawrence S. Young</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00653-0</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-13; | doi:10.1038/d41586-024-00653-0</dc:source>
+            <dc:date>2024-03-13</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00653-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00653-0</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07270-x">
             <title><![CDATA[Structures and activation mechanism of the Gabija anti-phage system]]></title>
@@ -1270,36 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/s41586-024-07128-2</prism:doi>
             <prism:url>https://www.nature.com/articles/s41586-024-07128-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07142-4">
-            <title><![CDATA[The hyphal-specific toxin candidalysin promotes fungal gut commensalism]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07142-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 06 March 2024; <a href="https://www.nature.com/articles/s41586-024-07142-4">doi:10.1038/s41586-024-07142-4</a></p>Both the yeast and hyphal forms of Candida albicans enable colonization of the mammalian gut, with hyphal cells secreting the toxin candidalysin to inihibit bacteria and support fungal commensalism.]]></content:encoded>
-            <dc:title><![CDATA[The hyphal-specific toxin candidalysin promotes fungal gut commensalism]]></dc:title>
-            <dc:creator>Shen-Huan Liang</dc:creator><dc:creator>Shabnam Sircaik</dc:creator><dc:creator>Joseph Dainis</dc:creator><dc:creator>Pallavi Kakade</dc:creator><dc:creator>Swathi Penumutchu</dc:creator><dc:creator>Liam D. McDonough</dc:creator><dc:creator>Ying-Han Chen</dc:creator><dc:creator>Corey Frazer</dc:creator><dc:creator>Tim B. Schille</dc:creator><dc:creator>Stefanie Allert</dc:creator><dc:creator>Osama Elshafee</dc:creator><dc:creator>Maria Hänel</dc:creator><dc:creator>Selene Mogavero</dc:creator><dc:creator>Shipra Vaishnava</dc:creator><dc:creator>Ken Cadwell</dc:creator><dc:creator>Peter Belenky</dc:creator><dc:creator>J. Christian Perez</dc:creator><dc:creator>Bernhard Hube</dc:creator><dc:creator>Iuliana V. Ene</dc:creator><dc:creator>Richard J. Bennett</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07142-4</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-06; | doi:10.1038/s41586-024-07142-4</dc:source>
-            <dc:date>2024-03-06</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07142-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07142-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07102-y">
-            <title><![CDATA[Buoyant crystals halt the cooling of white dwarf stars]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07102-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 06 March 2024; <a href="https://www.nature.com/articles/s41586-024-07102-y">doi:10.1038/s41586-024-07102-y</a></p>A population of freezing white dwarf stars maintaining a constant luminosity for a duration comparable with the age of the universe can be explained by a solid–liquid distillation mechanism interrupting cooling for billions of years.]]></content:encoded>
-            <dc:title><![CDATA[Buoyant crystals halt the cooling of white dwarf stars]]></dc:title>
-            <dc:creator>Antoine Bédard</dc:creator><dc:creator>Simon Blouin</dc:creator><dc:creator>Sihao Cheng</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07102-y</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-06; | doi:10.1038/s41586-024-07102-y</dc:source>
-            <dc:date>2024-03-06</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07102-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07102-y</prism:url>
         </item>
     
 </rdf:RDF>
