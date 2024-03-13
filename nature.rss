@@ -18,7 +18,11 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07270-x"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00762-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00682-9"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00760-y"/>
                 
@@ -26,9 +30,17 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00761-x"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00661-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00718-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00706-4"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00692-7"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00723-3"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00724-2"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00340-0"/>
                 
@@ -156,18 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07102-y"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07126-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07152-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00376-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00670-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00675-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00645-0"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,21 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07270-x">
+            <title><![CDATA[Structures and activation mechanism of the Gabija anti-phage system]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07270-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 12 March 2024; <a href="https://www.nature.com/articles/s41586-024-07270-x">doi:10.1038/s41586-024-07270-x</a></p>Structures and activation mechanism of the Gabija anti-phage system]]></content:encoded>
+            <dc:title><![CDATA[Structures and activation mechanism of the Gabija anti-phage system]]></dc:title>
+            <dc:creator>Jing Li</dc:creator><dc:creator>Rui Cheng</dc:creator><dc:creator>Zhiming Wang</dc:creator><dc:creator>Wuliu Yuan</dc:creator><dc:creator>Jun Xiao</dc:creator><dc:creator>Xinyuan Zhao</dc:creator><dc:creator>Xinran Du</dc:creator><dc:creator>Shiyu Xia</dc:creator><dc:creator>Lianrong Wang</dc:creator><dc:creator>Bin Zhu</dc:creator><dc:creator>Longfei Wang</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07270-x</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-12; | doi:10.1038/s41586-024-07270-x</dc:source>
+            <dc:date>2024-03-12</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07270-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07270-x</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00762-w">
             <title><![CDATA[On the ethics of informed consent in genetic data collected before 1997]]></title>
@@ -190,6 +205,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00762-w</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00762-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00682-9">
+            <title><![CDATA[From the archive: Brain–body connection, and cuttlefish ink distracts predators]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00682-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 12 March 2024; <a href="https://www.nature.com/articles/d41586-024-00682-9">doi:10.1038/d41586-024-00682-9</a></p>Snippets from Nature’s past.]]></content:encoded>
+            <dc:title><![CDATA[From the archive: Brain–body connection, and cuttlefish ink distracts predators]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-00682-9</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-12; | doi:10.1038/d41586-024-00682-9</dc:source>
+            <dc:date>2024-03-12</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00682-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00682-9</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00760-y">
@@ -237,6 +267,51 @@
             <prism:url>https://www.nature.com/articles/d41586-024-00761-x</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00661-0">
+            <title><![CDATA[How OpenAI’s text-to-video tool Sora could change science – and society]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00661-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 12 March 2024; <a href="https://www.nature.com/articles/d41586-024-00661-0">doi:10.1038/d41586-024-00661-0</a></p>OpenAI’s debut of its impressive Sora text-to-video tool has raised important questions.]]></content:encoded>
+            <dc:title><![CDATA[How OpenAI’s text-to-video tool Sora could change science – and society]]></dc:title>
+            <dc:creator>Jonathan O&#x27;Callaghan</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00661-0</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-12; | doi:10.1038/d41586-024-00661-0</dc:source>
+            <dc:date>2024-03-12</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00661-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00661-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00718-0">
+            <title><![CDATA[Bring PhD assessment into the twenty-first century]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00718-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 12 March 2024; <a href="https://www.nature.com/articles/d41586-024-00718-0">doi:10.1038/d41586-024-00718-0</a></p>PhD supervisors can learn a lot from innovations at other stages in education.]]></content:encoded>
+            <dc:title><![CDATA[Bring PhD assessment into the twenty-first century]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-00718-0</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-12; | doi:10.1038/d41586-024-00718-0</dc:source>
+            <dc:date>2024-03-12</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00718-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00718-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00706-4">
+            <title><![CDATA[Bullied in science: I quit my job and launched an advocacy non-profit]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00706-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 12 March 2024; <a href="https://www.nature.com/articles/d41586-024-00706-4">doi:10.1038/d41586-024-00706-4</a></p>Ahead of the Academic Parity Movement’s annual conference, co-founder Morteza Mahmoudi describes how it supports whistle-blowers.]]></content:encoded>
+            <dc:title><![CDATA[Bullied in science: I quit my job and launched an advocacy non-profit]]></dc:title>
+            <dc:creator>Morteza  Mahmoudi</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00706-4</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-12; | doi:10.1038/d41586-024-00706-4</dc:source>
+            <dc:date>2024-03-12</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00706-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00706-4</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-024-00692-7">
             <title><![CDATA[China–US climate collaboration concerns as Xie and Kerry step down]]></title>
             <link>https://www.nature.com/articles/d41586-024-00692-7</link>
@@ -265,6 +340,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00723-3</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00723-3</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00724-2">
+            <title><![CDATA[11 reasons why we’ve stayed in academia]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00724-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 12 March 2024; <a href="https://www.nature.com/articles/d41586-024-00724-2">doi:10.1038/d41586-024-00724-2</a></p>Although many postdocs and faculty members are leaving for industry or elsewhere, these researchers tell us why they love the academic life.]]></content:encoded>
+            <dc:title><![CDATA[11 reasons why we’ve stayed in academia]]></dc:title>
+            <dc:creator>Esther Landhuis</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00724-2</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-12; | doi:10.1038/d41586-024-00724-2</dc:source>
+            <dc:date>2024-03-12</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00724-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00724-2</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00340-0">
@@ -1210,96 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/s41586-024-07102-y</prism:doi>
             <prism:url>https://www.nature.com/articles/s41586-024-07102-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07126-4">
-            <title><![CDATA[Bumblebees socially learn behaviour too complex to innovate alone]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07126-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 06 March 2024; <a href="https://www.nature.com/articles/s41586-024-07126-4">doi:10.1038/s41586-024-07126-4</a></p>Bumblebees can learn how to open a two-step puzzle box by observing another trained bee, indicating that these insects can use social learning to acquire a behaviour too complex to otherwise be learnt through individual trial and error.]]></content:encoded>
-            <dc:title><![CDATA[Bumblebees socially learn behaviour too complex to innovate alone]]></dc:title>
-            <dc:creator>Alice D. Bridges</dc:creator><dc:creator>Amanda Royka</dc:creator><dc:creator>Tara Wilson</dc:creator><dc:creator>Charlotte Lockwood</dc:creator><dc:creator>Jasmin Richter</dc:creator><dc:creator>Mikko Juusola</dc:creator><dc:creator>Lars Chittka</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07126-4</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-06; | doi:10.1038/s41586-024-07126-4</dc:source>
-            <dc:date>2024-03-06</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07126-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07126-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07152-2">
-            <title><![CDATA[Parental histone transfer caught at the replication fork]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07152-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 06 March 2024; <a href="https://www.nature.com/articles/s41586-024-07152-2">doi:10.1038/s41586-024-07152-2</a></p>Structures of the yeast replisome associated with the FACT complex and an evicted histone hexamer offer insights into the mechanism of replication-coupled histone recycling for maintaining epigenetic inheritance.]]></content:encoded>
-            <dc:title><![CDATA[Parental histone transfer caught at the replication fork]]></dc:title>
-            <dc:creator>Ningning Li</dc:creator><dc:creator>Yuan Gao</dc:creator><dc:creator>Yujie Zhang</dc:creator><dc:creator>Daqi Yu</dc:creator><dc:creator>Jianwei Lin</dc:creator><dc:creator>Jianxun Feng</dc:creator><dc:creator>Jian Li</dc:creator><dc:creator>Zhichun Xu</dc:creator><dc:creator>Yingyi Zhang</dc:creator><dc:creator>Shangyu Dang</dc:creator><dc:creator>Keda Zhou</dc:creator><dc:creator>Yang Liu</dc:creator><dc:creator>Xiang David Li</dc:creator><dc:creator>Bik Kwoon Tye</dc:creator><dc:creator>Qing Li</dc:creator><dc:creator>Ning Gao</dc:creator><dc:creator>Yuanliang Zhai</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07152-2</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-06; | doi:10.1038/s41586-024-07152-2</dc:source>
-            <dc:date>2024-03-06</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07152-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07152-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00376-2">
-            <title><![CDATA[The Correctives]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00376-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 06 March 2024; <a href="https://www.nature.com/articles/d41586-024-00376-2">doi:10.1038/d41586-024-00376-2</a></p>It’s just an illusion.]]></content:encoded>
-            <dc:title><![CDATA[The Correctives]]></dc:title>
-            <dc:creator>Preston Grassmann</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00376-2</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-06; | doi:10.1038/d41586-024-00376-2</dc:source>
-            <dc:date>2024-03-06</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00376-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00376-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00670-z">
-            <title><![CDATA[Will these reprogrammed elephant cells ever make a mammoth?]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00670-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 06 March 2024; <a href="https://www.nature.com/articles/d41586-024-00670-z">doi:10.1038/d41586-024-00670-z</a></p>The de-extinction company Colossal is the first to convert elephant cells to an embryonic state, but using them to make mammoths won’t be easy, say researchers.]]></content:encoded>
-            <dc:title><![CDATA[Will these reprogrammed elephant cells ever make a mammoth?]]></dc:title>
-            <dc:creator>Ewen Callaway</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00670-z</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-06; | doi:10.1038/d41586-024-00670-z</dc:source>
-            <dc:date>2024-03-06</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00670-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00670-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00675-8">
-            <title><![CDATA[Geologists reject the Anthropocene as Earth’s new epoch — after 15 years of debate]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00675-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 06 March 2024; <a href="https://www.nature.com/articles/d41586-024-00675-8">doi:10.1038/d41586-024-00675-8</a></p>But some are now challenging the vote, saying there were ‘procedural irregularities’.]]></content:encoded>
-            <dc:title><![CDATA[Geologists reject the Anthropocene as Earth’s new epoch — after 15 years of debate]]></dc:title>
-            <dc:creator>Alexandra Witze</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00675-8</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-06; | doi:10.1038/d41586-024-00675-8</dc:source>
-            <dc:date>2024-03-06</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00675-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00675-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00645-0">
-            <title><![CDATA[The world must rethink plans for ageing oil and gas platforms]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00645-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 06 March 2024; <a href="https://www.nature.com/articles/d41586-024-00645-0">doi:10.1038/d41586-024-00645-0</a></p>Earth’s oceans are awash with ageing energy infrastructure. A change in the law is needed to ensure that these structures are decommissioned in ways that maximize environmental and societal benefits.]]></content:encoded>
-            <dc:title><![CDATA[The world must rethink plans for ageing oil and gas platforms]]></dc:title>
-            <dc:creator>Antony Knights</dc:creator><dc:creator>Anaëlle Lemasson</dc:creator><dc:creator>Matthew Frost</dc:creator><dc:creator>Paul Somerfield</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00645-0</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-06; | doi:10.1038/d41586-024-00645-0</dc:source>
-            <dc:date>2024-03-06</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00645-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00645-0</prism:url>
         </item>
     
 </rdf:RDF>
