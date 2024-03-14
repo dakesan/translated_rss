@@ -18,6 +18,14 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07289-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00798-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00791-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00768-4"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07280-9"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07281-8"/>
@@ -98,6 +106,8 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00772-8"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00704-6"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00756-8"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00492-z"/>
@@ -158,16 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00691-8"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00715-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00722-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00725-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00673-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00770-w"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,66 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07289-0">
+            <title><![CDATA[Publisher Correction: Durable CO<sub>2</sub> conversion in the proton-exchange membrane system]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07289-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 14 March 2024; <a href="https://www.nature.com/articles/s41586-024-07289-0">doi:10.1038/s41586-024-07289-0</a></p>Publisher Correction: Durable CO<sub>2</sub> conversion in the proton-exchange membrane system]]></content:encoded>
+            <dc:title><![CDATA[Publisher Correction: Durable CO<sub>2</sub> conversion in the proton-exchange membrane system]]></dc:title>
+            <dc:creator>Wensheng Fang</dc:creator><dc:creator>Wei Guo</dc:creator><dc:creator>Ruihu Lu</dc:creator><dc:creator>Ya Yan</dc:creator><dc:creator>Xiaokang Liu</dc:creator><dc:creator>Dan Wu</dc:creator><dc:creator>Fu Min Li</dc:creator><dc:creator>Yansong Zhou</dc:creator><dc:creator>Chaohui He</dc:creator><dc:creator>Chenfeng Xia</dc:creator><dc:creator>Huiting Niu</dc:creator><dc:creator>Sicong Wang</dc:creator><dc:creator>Youwen Liu</dc:creator><dc:creator>Yu Mao</dc:creator><dc:creator>Chengyi Zhang</dc:creator><dc:creator>Bo You</dc:creator><dc:creator>Yuanjie Pang</dc:creator><dc:creator>Lele Duan</dc:creator><dc:creator>Xuan Yang</dc:creator><dc:creator>Fei Song</dc:creator><dc:creator>Tianyou Zhai</dc:creator><dc:creator>Guoxiong Wang</dc:creator><dc:creator>Xingpeng Guo</dc:creator><dc:creator>Bien Tan</dc:creator><dc:creator>Tao Yao</dc:creator><dc:creator>Ziyun Wang</dc:creator><dc:creator>Bao Yu Xia</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07289-0</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-14; | doi:10.1038/s41586-024-07289-0</dc:source>
+            <dc:date>2024-03-14</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07289-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07289-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00798-y">
+            <title><![CDATA[A Black mathematical history]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00798-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 14 March 2024; <a href="https://www.nature.com/articles/d41586-024-00798-y">doi:10.1038/d41586-024-00798-y</a></p>Documentary reveals how Black US scholars shaped today’s mathematics community and provides hope for the future.]]></content:encoded>
+            <dc:title><![CDATA[A Black mathematical history]]></dc:title>
+            <dc:creator>Noelle   Sawyer</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00798-y</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-14; | doi:10.1038/d41586-024-00798-y</dc:source>
+            <dc:date>2024-03-14</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00798-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00798-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00791-5">
+            <title><![CDATA[The neuroscientist formerly known as Prince’s audio engineer]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00791-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 14 March 2024; <a href="https://www.nature.com/articles/d41586-024-00791-5">doi:10.1038/d41586-024-00791-5</a></p>Susan Rogers worked with the legendary singer-songwriter before earning a PhD in her 50s on auditory memory and how we listen to music throughout life.]]></content:encoded>
+            <dc:title><![CDATA[The neuroscientist formerly known as Prince’s audio engineer]]></dc:title>
+            <dc:creator>Anne Gulland</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00791-5</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-14; | doi:10.1038/d41586-024-00791-5</dc:source>
+            <dc:date>2024-03-14</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00791-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00791-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00768-4">
+            <title><![CDATA[Do black holes explode? The 50-year-old puzzle that challenges quantum physics]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00768-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 14 March 2024; <a href="https://www.nature.com/articles/d41586-024-00768-4">doi:10.1038/d41586-024-00768-4</a></p>Stephen Hawking’s paradoxical finding that black holes don’t live forever has profound, unresolved implications for the quest for unifying theories of reality.]]></content:encoded>
+            <dc:title><![CDATA[Do black holes explode? The 50-year-old puzzle that challenges quantum physics]]></dc:title>
+            <dc:creator>Davide Castelvecchi</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00768-4</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-14; | doi:10.1038/d41586-024-00768-4</dc:source>
+            <dc:date>2024-03-14</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00768-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00768-4</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07280-9">
             <title><![CDATA[Publisher Correction: Anti-TIGIT antibody improves PD-L1 blockade through myeloid and T<sub>reg</sub> cells]]></title>
@@ -777,6 +837,21 @@
             <prism:url>https://www.nature.com/articles/d41586-024-00772-8</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00704-6">
+            <title><![CDATA[CAR-T cells deal a blow to deadly brain cancer — but for how long is unclear]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00704-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 13 March 2024; <a href="https://www.nature.com/articles/d41586-024-00704-6">doi:10.1038/d41586-024-00704-6</a></p>Early studies with engineered immune cells show dramatic but often short-lived results in glioblastoma, the most aggressive brain cancer.]]></content:encoded>
+            <dc:title><![CDATA[CAR-T cells deal a blow to deadly brain cancer — but for how long is unclear]]></dc:title>
+            <dc:creator>Heidi Ledford</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00704-6</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-13; | doi:10.1038/d41586-024-00704-6</dc:source>
+            <dc:date>2024-03-13</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00704-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00704-6</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-024-00756-8">
             <title><![CDATA[Researchers call for a major rethink of how Alzheimer’s treatments are evaluated]]></title>
             <link>https://www.nature.com/articles/d41586-024-00756-8</link>
@@ -1225,81 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00691-8</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00691-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00715-3">
-            <title><![CDATA[The science of <i>Oppenheimer</i>: meet the Oscar-winning movie’s specialist advisers]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00715-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 11 March 2024; <a href="https://www.nature.com/articles/d41586-024-00715-3">doi:10.1038/d41586-024-00715-3</a></p>Oppenheimer has been praised for its portrayal of the creation of the atomic bomb. Nature spoke to three scientists involved in the film’s production.]]></content:encoded>
-            <dc:title><![CDATA[The science of <i>Oppenheimer</i>: meet the Oscar-winning movie’s specialist advisers]]></dc:title>
-            <dc:creator>Jonathan O&#x27;Callaghan</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00715-3</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-11; | doi:10.1038/d41586-024-00715-3</dc:source>
-            <dc:date>2024-03-11</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00715-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00715-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00722-4">
-            <title><![CDATA[Act now to prevent a ‘gold rush’ in outer space]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00722-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 11 March 2024; <a href="https://www.nature.com/articles/d41586-024-00722-4">doi:10.1038/d41586-024-00722-4</a></p>As private firms aim for the Moon and beyond, a book calls for an urgent relook at the legal compact that governs space exploration.]]></content:encoded>
-            <dc:title><![CDATA[Act now to prevent a ‘gold rush’ in outer space]]></dc:title>
-            <dc:creator>Timiebi  Aganaba</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00722-4</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-11; | doi:10.1038/d41586-024-00722-4</dc:source>
-            <dc:date>2024-03-11</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00722-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00722-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00725-1">
-            <title><![CDATA[No installation required: how WebAssembly is changing scientific computing]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00725-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 11 March 2024; <a href="https://www.nature.com/articles/d41586-024-00725-1">doi:10.1038/d41586-024-00725-1</a></p>Enabling code execution in the web browser, the multilanguage tool is powerful but complicated.]]></content:encoded>
-            <dc:title><![CDATA[No installation required: how WebAssembly is changing scientific computing]]></dc:title>
-            <dc:creator>Jeffrey M. Perkel</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00725-1</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-11; | doi:10.1038/d41586-024-00725-1</dc:source>
-            <dc:date>2024-03-11</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00725-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00725-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00673-w">
-            <title><![CDATA[First cell therapy for solid tumours heads to the clinic: what it means for cancer treatment]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00673-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 11 March 2024; <a href="https://www.nature.com/articles/d41586-024-00673-w">doi:10.1038/d41586-024-00673-w</a></p>Therapy built on tumour-infiltrating lymphocytes is now being prepared for at least 20 people in the United States with advanced melanoma.]]></content:encoded>
-            <dc:title><![CDATA[First cell therapy for solid tumours heads to the clinic: what it means for cancer treatment]]></dc:title>
-            <dc:creator>Sara Reardon</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00673-w</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-11; | doi:10.1038/d41586-024-00673-w</dc:source>
-            <dc:date>2024-03-11</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00673-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00673-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00770-w">
-            <title><![CDATA[Daily briefing: Inside the room-temperature superconductivity scandal]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00770-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 11 March 2024; <a href="https://www.nature.com/articles/d41586-024-00770-w">doi:10.1038/d41586-024-00770-w</a></p>The story of deception in a rising star’s physics lab. Plus, how the anti-obesity drug semaglutide could help people with HIV and we meet the science advisers behind Oppenheimer.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: Inside the room-temperature superconductivity scandal]]></dc:title>
-            <dc:creator>Flora Graham</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00770-w</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-11; | doi:10.1038/d41586-024-00770-w</dc:source>
-            <dc:date>2024-03-11</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00770-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00770-w</prism:url>
         </item>
     
 </rdf:RDF>
