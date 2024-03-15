@@ -20,11 +20,19 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07289-0"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00732-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00786-2"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00798-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00805-2"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00791-5"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00768-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00751-z"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07280-9"/>
                 
@@ -102,6 +110,8 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00796-0"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00800-7"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00720-6"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00772-8"/>
@@ -158,16 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00724-2"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00340-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00726-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00729-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07136-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00691-8"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -192,6 +192,36 @@
             <prism:url>https://www.nature.com/articles/s41586-024-07289-0</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00732-2">
+            <title><![CDATA[A fundamental constant in physics gets an update]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00732-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 14 March 2024; <a href="https://www.nature.com/articles/d41586-024-00732-2">doi:10.1038/d41586-024-00732-2</a></p>Scientists controlled a hydrogen atom with electric fields to derive a highly precise estimate of the Rydberg constant.]]></content:encoded>
+            <dc:title><![CDATA[A fundamental constant in physics gets an update]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-00732-2</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-14; | doi:10.1038/d41586-024-00732-2</dc:source>
+            <dc:date>2024-03-14</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00732-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00732-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00786-2">
+            <title><![CDATA[Ditching ‘Anthropocene’: why ecologists say the term still matters]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00786-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 14 March 2024; <a href="https://www.nature.com/articles/d41586-024-00786-2">doi:10.1038/d41586-024-00786-2</a></p>Beyond stratigraphic definitions, the name has broader significance for understanding humans’ place on Earth.]]></content:encoded>
+            <dc:title><![CDATA[Ditching ‘Anthropocene’: why ecologists say the term still matters]]></dc:title>
+            <dc:creator>David Adam</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00786-2</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-14; | doi:10.1038/d41586-024-00786-2</dc:source>
+            <dc:date>2024-03-14</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00786-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00786-2</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-024-00798-y">
             <title><![CDATA[A Black mathematical history]]></title>
             <link>https://www.nature.com/articles/d41586-024-00798-y</link>
@@ -205,6 +235,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00798-y</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00798-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00805-2">
+            <title><![CDATA[More than 4,000 plastic chemicals are hazardous, report finds]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00805-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 14 March 2024; <a href="https://www.nature.com/articles/d41586-024-00805-2">doi:10.1038/d41586-024-00805-2</a></p>Year-long effort compiles comprehensive database of chemicals in plastics.]]></content:encoded>
+            <dc:title><![CDATA[More than 4,000 plastic chemicals are hazardous, report finds]]></dc:title>
+            <dc:creator>Nicola Jones</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00805-2</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-14; | doi:10.1038/d41586-024-00805-2</dc:source>
+            <dc:date>2024-03-14</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00805-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00805-2</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00791-5">
@@ -235,6 +280,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00768-4</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00768-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00751-z">
+            <title><![CDATA[Fungal diseases are spreading undetected]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00751-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 14 March 2024; <a href="https://www.nature.com/articles/d41586-024-00751-z">doi:10.1038/d41586-024-00751-z</a></p>Low- and middle-income countries are grappling with widespread shortages of diagnostic tests for infections that kill millions.]]></content:encoded>
+            <dc:title><![CDATA[Fungal diseases are spreading undetected]]></dc:title>
+            <dc:creator>Charles Schmidt</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00751-z</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-14; | doi:10.1038/d41586-024-00751-z</dc:source>
+            <dc:date>2024-03-14</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00751-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00751-z</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07280-9">
@@ -736,7 +796,7 @@
             <title><![CDATA[Did ‘alien’ debris hit Earth? Startling claim sparks row at scientific meeting]]></title>
             <link>https://www.nature.com/articles/d41586-024-00774-6</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 March 2024; <a href="https://www.nature.com/articles/d41586-024-00774-6">doi:10.1038/d41586-024-00774-6</a></p>Astrophysicist Avi Loeb says that an interstellar meteor showered Earth with particles. At a planetary science conference this week, researchers begged to differ.]]></content:encoded>
+                <![CDATA[<p>Nature, Published online: 13 March 2024; <a href="https://www.nature.com/articles/d41586-024-00774-6">doi:10.1038/d41586-024-00774-6</a></p>Astrophysicist Avi Loeb says that an interstellar meteor showered Earth with particles. At a planetary-science conference this week, researchers begged to differ.]]></content:encoded>
             <dc:title><![CDATA[Did ‘alien’ debris hit Earth? Startling claim sparks row at scientific meeting]]></dc:title>
             <dc:creator>Alexandra Witze</dc:creator>
             <dc:identifier>doi:10.1038/d41586-024-00774-6</dc:identifier>
@@ -807,6 +867,21 @@
             <prism:url>https://www.nature.com/articles/d41586-024-00796-0</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00800-7">
+            <title><![CDATA[Daily briefing: In most mammal species, males and females are the same size — or females are bigger]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00800-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 13 March 2024; <a href="https://www.nature.com/articles/d41586-024-00800-7">doi:10.1038/d41586-024-00800-7</a></p>Charles Darwin’s claim that most males are bigger than females is proved wrong. Plus, OpenAI’s Sora can create amazing video from text prompts, and what’s wrong with how we treat the menopause.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: In most mammal species, males and females are the same size — or females are bigger]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00800-7</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-13; | doi:10.1038/d41586-024-00800-7</dc:source>
+            <dc:date>2024-03-13</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00800-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00800-7</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-024-00720-6">
             <title><![CDATA[Why are so many young people getting cancer? What the data say]]></title>
             <link>https://www.nature.com/articles/d41586-024-00720-6</link>
@@ -838,11 +913,11 @@
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00704-6">
-            <title><![CDATA[CAR-T cells deal a blow to deadly brain cancer — but for how long is unclear]]></title>
+            <title><![CDATA[Deadly brain cancer shrinks after CAR-T therapy — but for how long is unclear]]></title>
             <link>https://www.nature.com/articles/d41586-024-00704-6</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 March 2024; <a href="https://www.nature.com/articles/d41586-024-00704-6">doi:10.1038/d41586-024-00704-6</a></p>Early studies with engineered immune cells show dramatic but often short-lived results in glioblastoma, the most aggressive brain cancer.]]></content:encoded>
-            <dc:title><![CDATA[CAR-T cells deal a blow to deadly brain cancer — but for how long is unclear]]></dc:title>
+                <![CDATA[<p>Nature, Published online: 13 March 2024; <a href="https://www.nature.com/articles/d41586-024-00704-6">doi:10.1038/d41586-024-00704-6</a></p>Early studies with engineered immune cells show drastic but often short-lived results in glioblastoma, the most aggressive brain cancer.]]></content:encoded>
+            <dc:title><![CDATA[Deadly brain cancer shrinks after CAR-T therapy — but for how long is unclear]]></dc:title>
             <dc:creator>Heidi Ledford</dc:creator>
             <dc:identifier>doi:10.1038/d41586-024-00704-6</dc:identifier>
             <dc:source>Nature, Published online: 2024-03-13; | doi:10.1038/d41586-024-00704-6</dc:source>
@@ -1225,81 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00724-2</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00724-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00340-0">
-            <title><![CDATA[Biden seeks to boost science funding — but his budget faces an ominous future]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00340-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 12 March 2024; <a href="https://www.nature.com/articles/d41586-024-00340-0">doi:10.1038/d41586-024-00340-0</a></p>The US president proposes a 2025 budget even as negotiations continue over federal funding for 2024.]]></content:encoded>
-            <dc:title><![CDATA[Biden seeks to boost science funding — but his budget faces an ominous future]]></dc:title>
-            <dc:creator>Jeff Tollefson</dc:creator><dc:creator>Max Kozlov</dc:creator><dc:creator>Sumeet Kulkarni</dc:creator><dc:creator>Mariana Lenharo</dc:creator><dc:creator>Alexandra Witze</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00340-0</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-12; | doi:10.1038/d41586-024-00340-0</dc:source>
-            <dc:date>2024-03-12</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00340-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00340-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00726-0">
-            <title><![CDATA[Why I wander with wonder through Lesotho’s wetlands]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00726-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 11 March 2024; <a href="https://www.nature.com/articles/d41586-024-00726-0">doi:10.1038/d41586-024-00726-0</a></p>Lerato Seleteng-Kose studies the unique plants that live in these cold, remote parts of southern Africa.]]></content:encoded>
-            <dc:title><![CDATA[Why I wander with wonder through Lesotho’s wetlands]]></dc:title>
-            <dc:creator>Linda Nordling</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00726-0</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-11; | doi:10.1038/d41586-024-00726-0</dc:source>
-            <dc:date>2024-03-11</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00726-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00726-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00729-x">
-            <title><![CDATA[Ancient graves reveal that facial piercing dates back at least 11,000 years]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00729-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 11 March 2024; <a href="https://www.nature.com/articles/d41586-024-00729-x">doi:10.1038/d41586-024-00729-x</a></p>Ornaments are positioned near the lower jaw and to the sides of the head of people buried at a site in Turkey.]]></content:encoded>
-            <dc:title><![CDATA[Ancient graves reveal that facial piercing dates back at least 11,000 years]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-00729-x</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-11; | doi:10.1038/d41586-024-00729-x</dc:source>
-            <dc:date>2024-03-11</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00729-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00729-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07136-2">
-            <title><![CDATA[All-optical frequency division on-chip using a single laser]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07136-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 11 March 2024; <a href="https://www.nature.com/articles/s41586-024-07136-2">doi:10.1038/s41586-024-07136-2</a></p>We demonstrate an all-optical, mode-locking, Kerr-comb frequency division method that provides a chip-scale microwave source that is extremely versatile, accurate, stable and has ultralow noise, using only a single continuous-wave laser.]]></content:encoded>
-            <dc:title><![CDATA[All-optical frequency division on-chip using a single laser]]></dc:title>
-            <dc:creator>Yun Zhao</dc:creator><dc:creator>Jae K. Jang</dc:creator><dc:creator>Garrett J. Beals</dc:creator><dc:creator>Karl J. McNulty</dc:creator><dc:creator>Xingchen Ji</dc:creator><dc:creator>Yoshitomo Okawachi</dc:creator><dc:creator>Michal Lipson</dc:creator><dc:creator>Alexander L. Gaeta</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07136-2</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-11; | doi:10.1038/s41586-024-07136-2</dc:source>
-            <dc:date>2024-03-11</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07136-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07136-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00691-8">
-            <title><![CDATA[Blockbuster obesity drug leads to better health in people with HIV]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00691-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 11 March 2024; <a href="https://www.nature.com/articles/d41586-024-00691-8">doi:10.1038/d41586-024-00691-8</a></p>Semaglutide reduces weight and fat accumulation associated with the antiretroviral regimen that keeps HIV at bay.]]></content:encoded>
-            <dc:title><![CDATA[Blockbuster obesity drug leads to better health in people with HIV]]></dc:title>
-            <dc:creator>Mariana Lenharo</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00691-8</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-11; | doi:10.1038/d41586-024-00691-8</dc:source>
-            <dc:date>2024-03-11</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00691-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00691-8</prism:url>
         </item>
     
 </rdf:RDF>
