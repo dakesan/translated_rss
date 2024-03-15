@@ -18,6 +18,10 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00694-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00806-1"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07289-0"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00732-2"/>
@@ -164,10 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00723-3"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00788-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00724-2"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,36 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00694-5">
+            <title><![CDATA[Inside China’s giant underground neutrino lab]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00694-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 15 March 2024; <a href="https://www.nature.com/articles/d41586-024-00694-5">doi:10.1038/d41586-024-00694-5</a></p>Due to come online this year, the JUNO facility will help to determine which type of neutrino has the highest mass — one of the biggest mysteries in physics.]]></content:encoded>
+            <dc:title><![CDATA[Inside China’s giant underground neutrino lab]]></dc:title>
+            <dc:creator>Gemma Conroy</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00694-5</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-15; | doi:10.1038/d41586-024-00694-5</dc:source>
+            <dc:date>2024-03-15</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00694-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00694-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00806-1">
+            <title><![CDATA[A year in the life: what I learnt from using a time-tracking spreadsheet]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00806-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 15 March 2024; <a href="https://www.nature.com/articles/d41586-024-00806-1">doi:10.1038/d41586-024-00806-1</a></p>A low-tech solution helped Megan Rogers to increase her productivity and maintain a good work–life balance.]]></content:encoded>
+            <dc:title><![CDATA[A year in the life: what I learnt from using a time-tracking spreadsheet]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-00806-1</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-15; | doi:10.1038/d41586-024-00806-1</dc:source>
+            <dc:date>2024-03-15</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00806-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00806-1</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07289-0">
             <title><![CDATA[Publisher Correction: Durable CO<sub>2</sub> conversion in the proton-exchange membrane system]]></title>
@@ -871,7 +901,7 @@
             <title><![CDATA[Daily briefing: In most mammal species, males and females are the same size — or females are bigger]]></title>
             <link>https://www.nature.com/articles/d41586-024-00800-7</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 March 2024; <a href="https://www.nature.com/articles/d41586-024-00800-7">doi:10.1038/d41586-024-00800-7</a></p>Charles Darwin’s claim that most males are bigger than females is proved wrong. Plus, OpenAI’s Sora can create amazing video from text prompts, and what’s wrong with how we treat the menopause.]]></content:encoded>
+                <![CDATA[<p>Nature, Published online: 13 March 2024; <a href="https://www.nature.com/articles/d41586-024-00800-7">doi:10.1038/d41586-024-00800-7</a></p>Charles Darwin’s claim about male mammals usually being bigger than females is proved wrong. Plus, OpenAI’s Sora can create amazing video from text prompts, and what’s wrong with how we treat the menopause.]]></content:encoded>
             <dc:title><![CDATA[Daily briefing: In most mammal species, males and females are the same size — or females are bigger]]></dc:title>
             <dc:creator>Flora Graham</dc:creator>
             <dc:identifier>doi:10.1038/d41586-024-00800-7</dc:identifier>
@@ -1270,36 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00723-3</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00723-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00788-0">
-            <title><![CDATA[AI &amp; robotics briefing: How AI images and videos could change science]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00788-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 12 March 2024; <a href="https://www.nature.com/articles/d41586-024-00788-0">doi:10.1038/d41586-024-00788-0</a></p>The release of OpenAI’s sophisticated video-generating tool Sora has been met with a mix of trepidation and excitement. Plus, researchers have laid out safety guidelines for AI-powered protein design and a guide to writing effective prompts.]]></content:encoded>
-            <dc:title><![CDATA[AI &amp; robotics briefing: How AI images and videos could change science]]></dc:title>
-            <dc:creator>Katrina Krämer</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00788-0</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-12; | doi:10.1038/d41586-024-00788-0</dc:source>
-            <dc:date>2024-03-12</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00788-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00788-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00724-2">
-            <title><![CDATA[11 reasons why we’ve stayed in academia]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00724-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 12 March 2024; <a href="https://www.nature.com/articles/d41586-024-00724-2">doi:10.1038/d41586-024-00724-2</a></p>Although many postdocs and faculty members are leaving for industry or elsewhere, these researchers tell us why they love the academic life.]]></content:encoded>
-            <dc:title><![CDATA[11 reasons why we’ve stayed in academia]]></dc:title>
-            <dc:creator>Esther Landhuis</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00724-2</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-12; | doi:10.1038/d41586-024-00724-2</dc:source>
-            <dc:date>2024-03-12</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00724-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00724-2</prism:url>
         </item>
     
 </rdf:RDF>
