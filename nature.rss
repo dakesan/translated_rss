@@ -18,9 +18,19 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00813-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00807-0"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00694-5"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00812-3"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00808-z"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00806-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00747-9"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07289-0"/>
                 
@@ -37,6 +47,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00768-4"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00751-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00811-4"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07280-9"/>
                 
@@ -156,18 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00761-x"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00661-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00718-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00781-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00706-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00692-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00723-3"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,36 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00813-2">
+            <title><![CDATA[Verbose robots, and why some people love Bach: Books in Brief]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00813-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 15 March 2024; <a href="https://www.nature.com/articles/d41586-024-00813-2">doi:10.1038/d41586-024-00813-2</a></p>Andrew Robinson reviews five of the best science picks.]]></content:encoded>
+            <dc:title><![CDATA[Verbose robots, and why some people love Bach: Books in Brief]]></dc:title>
+            <dc:creator>Andrew Robinson</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00813-2</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-15; | doi:10.1038/d41586-024-00813-2</dc:source>
+            <dc:date>2024-03-15</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00813-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00813-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00807-0">
+            <title><![CDATA[Bird-flu threat disrupts Antarctic penguin studies]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00807-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 15 March 2024; <a href="https://www.nature.com/articles/d41586-024-00807-0">doi:10.1038/d41586-024-00807-0</a></p>Projects have been cancelled in an effort to curb the virus’s spread.]]></content:encoded>
+            <dc:title><![CDATA[Bird-flu threat disrupts Antarctic penguin studies]]></dc:title>
+            <dc:creator>Carissa Wong</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00807-0</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-15; | doi:10.1038/d41586-024-00807-0</dc:source>
+            <dc:date>2024-03-15</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00807-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00807-0</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00694-5">
             <title><![CDATA[Inside China’s giant underground neutrino lab]]></title>
@@ -192,19 +222,64 @@
             <prism:url>https://www.nature.com/articles/d41586-024-00694-5</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00812-3">
+            <title><![CDATA[People, passion, publishable: an early-career researcher’s checklist for prioritizing projects]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00812-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 15 March 2024; <a href="https://www.nature.com/articles/d41586-024-00812-3">doi:10.1038/d41586-024-00812-3</a></p>Stuck between several lines of research? Here’s how we decide which ones to pursue, say Elizabeth Tenney, Jacqueline Chen and McKenzie Preston.]]></content:encoded>
+            <dc:title><![CDATA[People, passion, publishable: an early-career researcher’s checklist for prioritizing projects]]></dc:title>
+            <dc:creator>Elizabeth Tenney</dc:creator><dc:creator>Jacqueline M. Chen </dc:creator><dc:creator>McKenzie Preston </dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00812-3</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-15; | doi:10.1038/d41586-024-00812-3</dc:source>
+            <dc:date>2024-03-15</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00812-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00812-3</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00808-z">
+            <title><![CDATA[Divas, captains, ghosts, ants and bumble-bees: collaborator attitudes explained]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00808-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 15 March 2024; <a href="https://www.nature.com/articles/d41586-024-00808-z">doi:10.1038/d41586-024-00808-z</a></p>Olga Lehmann made sense of challenges she faced in teamwork by analysing how she and her colleagues behaved and what she could have done differently.]]></content:encoded>
+            <dc:title><![CDATA[Divas, captains, ghosts, ants and bumble-bees: collaborator attitudes explained]]></dc:title>
+            <dc:creator>Olga Lehmann</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00808-z</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-15; | doi:10.1038/d41586-024-00808-z</dc:source>
+            <dc:date>2024-03-15</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00808-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00808-z</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-024-00806-1">
             <title><![CDATA[A year in the life: what I learnt from using a time-tracking spreadsheet]]></title>
             <link>https://www.nature.com/articles/d41586-024-00806-1</link>
             <content:encoded>
                 <![CDATA[<p>Nature, Published online: 15 March 2024; <a href="https://www.nature.com/articles/d41586-024-00806-1">doi:10.1038/d41586-024-00806-1</a></p>A low-tech solution helped Megan Rogers to increase her productivity and maintain a good work–life balance.]]></content:encoded>
             <dc:title><![CDATA[A year in the life: what I learnt from using a time-tracking spreadsheet]]></dc:title>
-            
+            <dc:creator>Megan Rogers</dc:creator>
             <dc:identifier>doi:10.1038/d41586-024-00806-1</dc:identifier>
             <dc:source>Nature, Published online: 2024-03-15; | doi:10.1038/d41586-024-00806-1</dc:source>
             <dc:date>2024-03-15</dc:date>
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00806-1</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00806-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00747-9">
+            <title><![CDATA[First US drug approved for a liver disease surging around the world]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00747-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 15 March 2024; <a href="https://www.nature.com/articles/d41586-024-00747-9">doi:10.1038/d41586-024-00747-9</a></p>A therapy called resmetirom improves hallmarks of an obesity-linked condition that can lead to liver failure.]]></content:encoded>
+            <dc:title><![CDATA[First US drug approved for a liver disease surging around the world]]></dc:title>
+            <dc:creator>Heidi Ledford</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00747-9</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-15; | doi:10.1038/d41586-024-00747-9</dc:source>
+            <dc:date>2024-03-15</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00747-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00747-9</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07289-0">
@@ -325,6 +400,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00751-z</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00751-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00811-4">
+            <title><![CDATA[Daily briefing: How Hawking’s paradox still puzzles physicists]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00811-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 14 March 2024; <a href="https://www.nature.com/articles/d41586-024-00811-4">doi:10.1038/d41586-024-00811-4</a></p>On the sixth anniversary of Stephen Hawking’s death, we revisit his landmark paper. Plus, a stunning 3D atlas of the heart and the mysterious rise of cancer in young people.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: How Hawking’s paradox still puzzles physicists]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00811-4</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-14; | doi:10.1038/d41586-024-00811-4</dc:source>
+            <dc:date>2024-03-14</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00811-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00811-4</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07280-9">
@@ -1210,96 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00761-x</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00761-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00661-0">
-            <title><![CDATA[How OpenAI’s text-to-video tool Sora could change science – and society]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00661-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 12 March 2024; <a href="https://www.nature.com/articles/d41586-024-00661-0">doi:10.1038/d41586-024-00661-0</a></p>OpenAI’s debut of its impressive Sora text-to-video tool has raised important questions.]]></content:encoded>
-            <dc:title><![CDATA[How OpenAI’s text-to-video tool Sora could change science – and society]]></dc:title>
-            <dc:creator>Jonathan O&#x27;Callaghan</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00661-0</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-12; | doi:10.1038/d41586-024-00661-0</dc:source>
-            <dc:date>2024-03-12</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00661-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00661-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00718-0">
-            <title><![CDATA[Bring PhD assessment into the twenty-first century]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00718-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 12 March 2024; <a href="https://www.nature.com/articles/d41586-024-00718-0">doi:10.1038/d41586-024-00718-0</a></p>PhD supervisors can learn a lot from innovations at other stages in education.]]></content:encoded>
-            <dc:title><![CDATA[Bring PhD assessment into the twenty-first century]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-00718-0</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-12; | doi:10.1038/d41586-024-00718-0</dc:source>
-            <dc:date>2024-03-12</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00718-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00718-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00781-7">
-            <title><![CDATA[Daily briefing: Indigenous Australians started fire farming 11,000 years ago]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00781-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 12 March 2024; <a href="https://www.nature.com/articles/d41586-024-00781-7">doi:10.1038/d41586-024-00781-7</a></p>Charcoal residues show that fire patterns in Australia changed thousands of years ago. Plus, the first cell therapy for solid tumours is finally hitting the clinic and why China–US collaboration on climate faces an uncertain future.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: Indigenous Australians started fire farming 11,000 years ago]]></dc:title>
-            <dc:creator>Katrina Krämer</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00781-7</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-12; | doi:10.1038/d41586-024-00781-7</dc:source>
-            <dc:date>2024-03-12</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00781-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00781-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00706-4">
-            <title><![CDATA[Bullied in science: I quit my job and launched an advocacy non-profit]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00706-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 12 March 2024; <a href="https://www.nature.com/articles/d41586-024-00706-4">doi:10.1038/d41586-024-00706-4</a></p>Ahead of the Academic Parity Movement’s annual conference, co-founder Morteza Mahmoudi describes how it supports whistle-blowers.]]></content:encoded>
-            <dc:title><![CDATA[Bullied in science: I quit my job and launched an advocacy non-profit]]></dc:title>
-            <dc:creator>Morteza  Mahmoudi</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00706-4</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-12; | doi:10.1038/d41586-024-00706-4</dc:source>
-            <dc:date>2024-03-12</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00706-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00706-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00692-7">
-            <title><![CDATA[China–US climate collaboration concerns as Xie and Kerry step down]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00692-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 12 March 2024; <a href="https://www.nature.com/articles/d41586-024-00692-7">doi:10.1038/d41586-024-00692-7</a></p>The friendship between the two men survived hostile moments between their countries.]]></content:encoded>
-            <dc:title><![CDATA[China–US climate collaboration concerns as Xie and Kerry step down]]></dc:title>
-            <dc:creator>Smriti Mallapaty</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00692-7</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-12; | doi:10.1038/d41586-024-00692-7</dc:source>
-            <dc:date>2024-03-12</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00692-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00692-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00723-3">
-            <title><![CDATA[Why the world cannot afford the rich]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00723-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 12 March 2024; <a href="https://www.nature.com/articles/d41586-024-00723-3">doi:10.1038/d41586-024-00723-3</a></p>Equality is essential for sustainability. The science is clear — people in more-equal societies are more trusting and more likely to protect the environment than are those in unequal, consumer-driven ones.]]></content:encoded>
-            <dc:title><![CDATA[Why the world cannot afford the rich]]></dc:title>
-            <dc:creator>Richard G. Wilkinson</dc:creator><dc:creator>Kate E. Pickett</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00723-3</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-12; | doi:10.1038/d41586-024-00723-3</dc:source>
-            <dc:date>2024-03-12</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00723-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00723-3</prism:url>
         </item>
     
 </rdf:RDF>
