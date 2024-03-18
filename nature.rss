@@ -18,6 +18,10 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00790-6"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00819-w"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00813-2"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00807-0"/>
@@ -164,10 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00760-y"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00759-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00761-x"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,36 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00790-6">
+            <title><![CDATA[Are we all doomed? How to cope with the daunting uncertainties of climate change]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00790-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 18 March 2024; <a href="https://www.nature.com/articles/d41586-024-00790-6">doi:10.1038/d41586-024-00790-6</a></p>It’s easy to feel overwhelmed when thinking about the damage that might be wrought by global warming — but that is missing the point.]]></content:encoded>
+            <dc:title><![CDATA[Are we all doomed? How to cope with the daunting uncertainties of climate change]]></dc:title>
+            <dc:creator>Adam Sobel</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00790-6</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-18; | doi:10.1038/d41586-024-00790-6</dc:source>
+            <dc:date>2024-03-18</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00790-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00790-6</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00819-w">
+            <title><![CDATA[Four years on: the career costs for scientists battling long COVID]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00819-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 18 March 2024; <a href="https://www.nature.com/articles/d41586-024-00819-w">doi:10.1038/d41586-024-00819-w</a></p>Many with the condition have found ways around their health problems, but they say more employer support is needed.]]></content:encoded>
+            <dc:title><![CDATA[Four years on: the career costs for scientists battling long COVID]]></dc:title>
+            <dc:creator>Shi En Kim</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00819-w</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-18; | doi:10.1038/d41586-024-00819-w</dc:source>
+            <dc:date>2024-03-18</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00819-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00819-w</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00813-2">
             <title><![CDATA[Verbose robots, and why some people love Bach: Books in Brief]]></title>
@@ -208,11 +238,11 @@
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00694-5">
-            <title><![CDATA[Inside China’s giant underground neutrino lab]]></title>
+            <title><![CDATA[China’s giant underground neutrino lab prepares to probe cosmic mysteries]]></title>
             <link>https://www.nature.com/articles/d41586-024-00694-5</link>
             <content:encoded>
                 <![CDATA[<p>Nature, Published online: 15 March 2024; <a href="https://www.nature.com/articles/d41586-024-00694-5">doi:10.1038/d41586-024-00694-5</a></p>Due to come online this year, the JUNO facility will help to determine which type of neutrino has the highest mass — one of the biggest mysteries in physics.]]></content:encoded>
-            <dc:title><![CDATA[Inside China’s giant underground neutrino lab]]></dc:title>
+            <dc:title><![CDATA[China’s giant underground neutrino lab prepares to probe cosmic mysteries]]></dc:title>
             <dc:creator>Gemma Conroy</dc:creator>
             <dc:identifier>doi:10.1038/d41586-024-00694-5</dc:identifier>
             <dc:source>Nature, Published online: 2024-03-15; | doi:10.1038/d41586-024-00694-5</dc:source>
@@ -1270,36 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00760-y</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00760-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00759-5">
-            <title><![CDATA[Pay for trees with carbon credits to deliver urban green spaces for all]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00759-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 12 March 2024; <a href="https://www.nature.com/articles/d41586-024-00759-5">doi:10.1038/d41586-024-00759-5</a></p>Pay for trees with carbon credits to deliver urban green spaces for all]]></content:encoded>
-            <dc:title><![CDATA[Pay for trees with carbon credits to deliver urban green spaces for all]]></dc:title>
-            <dc:creator>Peng Fu</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00759-5</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-12; | doi:10.1038/d41586-024-00759-5</dc:source>
-            <dc:date>2024-03-12</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00759-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00759-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00761-x">
-            <title><![CDATA[Embrace AI to break down barriers in publishing for people who aren’t fluent in English]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00761-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 12 March 2024; <a href="https://www.nature.com/articles/d41586-024-00761-x">doi:10.1038/d41586-024-00761-x</a></p>Embrace AI to break down barriers in publishing for people who aren’t fluent in English]]></content:encoded>
-            <dc:title><![CDATA[Embrace AI to break down barriers in publishing for people who aren’t fluent in English]]></dc:title>
-            <dc:creator>Charles Morphy D. Santos</dc:creator><dc:creator>João Paulo Gois</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00761-x</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-12; | doi:10.1038/d41586-024-00761-x</dc:source>
-            <dc:date>2024-03-12</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00761-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00761-x</prism:url>
         </item>
     
 </rdf:RDF>
