@@ -18,9 +18,23 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07290-7"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07277-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00820-3"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00790-6"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00819-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00713-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00804-3"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00446-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00795-1"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00813-2"/>
                 
@@ -33,6 +47,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00808-z"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00806-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00834-x"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00747-9"/>
                 
@@ -152,22 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00653-0"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00752-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00757-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00658-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00776-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07270-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00762-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00682-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00760-y"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,51 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07290-7">
+            <title><![CDATA[Structural insights into vesicular monoamine storage and drug interactions]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07290-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 18 March 2024; <a href="https://www.nature.com/articles/s41586-024-07290-7">doi:10.1038/s41586-024-07290-7</a></p>Structural insights into vesicular monoamine storage and drug interactions]]></content:encoded>
+            <dc:title><![CDATA[Structural insights into vesicular monoamine storage and drug interactions]]></dc:title>
+            <dc:creator>Jin Ye</dc:creator><dc:creator>Huaping Chen</dc:creator><dc:creator>Kaituo Wang</dc:creator><dc:creator>Yi Wang</dc:creator><dc:creator>Aaron Ammerman</dc:creator><dc:creator>Samjhana Awasthi</dc:creator><dc:creator>Jinbin Xu</dc:creator><dc:creator>Bin Liu</dc:creator><dc:creator>Weikai Li</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07290-7</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-18; | doi:10.1038/s41586-024-07290-7</dc:source>
+            <dc:date>2024-03-18</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07290-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07290-7</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07277-4">
+            <title><![CDATA[Author Correction: An atlas of epithelial cell states and plasticity in lung adenocarcinoma]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07277-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 18 March 2024; <a href="https://www.nature.com/articles/s41586-024-07277-4">doi:10.1038/s41586-024-07277-4</a></p>Author Correction: An atlas of epithelial cell states and plasticity in lung adenocarcinoma]]></content:encoded>
+            <dc:title><![CDATA[Author Correction: An atlas of epithelial cell states and plasticity in lung adenocarcinoma]]></dc:title>
+            <dc:creator>Guangchun Han</dc:creator><dc:creator>Ansam Sinjab</dc:creator><dc:creator>Zahraa Rahal</dc:creator><dc:creator>Anne M. Lynch</dc:creator><dc:creator>Warapen Treekitkarnmongkol</dc:creator><dc:creator>Yuejiang Liu</dc:creator><dc:creator>Alejandra G. Serrano</dc:creator><dc:creator>Jiping Feng</dc:creator><dc:creator>Ke Liang</dc:creator><dc:creator>Khaja Khan</dc:creator><dc:creator>Wei Lu</dc:creator><dc:creator>Sharia D. Hernandez</dc:creator><dc:creator>Yunhe Liu</dc:creator><dc:creator>Xuanye Cao</dc:creator><dc:creator>Enyu Dai</dc:creator><dc:creator>Guangsheng Pei</dc:creator><dc:creator>Jian Hu</dc:creator><dc:creator>Camille Abaya</dc:creator><dc:creator>Lorena I. Gomez-Bolanos</dc:creator><dc:creator>Fuduan Peng</dc:creator><dc:creator>Minyue Chen</dc:creator><dc:creator>Edwin R. Parra</dc:creator><dc:creator>Tina Cascone</dc:creator><dc:creator>Boris Sepesi</dc:creator><dc:creator>Seyed Javad Moghaddam</dc:creator><dc:creator>Paul Scheet</dc:creator><dc:creator>Marcelo V. Negrao</dc:creator><dc:creator>John V. Heymach</dc:creator><dc:creator>Mingyao Li</dc:creator><dc:creator>Steven M. Dubinett</dc:creator><dc:creator>Christopher S. Stevenson</dc:creator><dc:creator>Avrum E. Spira</dc:creator><dc:creator>Junya Fujimoto</dc:creator><dc:creator>Luisa M. Solis</dc:creator><dc:creator>Ignacio I. Wistuba</dc:creator><dc:creator>Jichao Chen</dc:creator><dc:creator>Linghua Wang</dc:creator><dc:creator>Humam Kadara</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07277-4</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-18; | doi:10.1038/s41586-024-07277-4</dc:source>
+            <dc:date>2024-03-18</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07277-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07277-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00820-3">
+            <title><![CDATA[I study small organisms to tackle big climate problems]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00820-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 18 March 2024; <a href="https://www.nature.com/articles/d41586-024-00820-3">doi:10.1038/d41586-024-00820-3</a></p>Marine biologist Gabriel Renato Castro cultivates compounds from cyanobacteria to support agriculture and the environment.]]></content:encoded>
+            <dc:title><![CDATA[I study small organisms to tackle big climate problems]]></dc:title>
+            <dc:creator>Nikki Forrester</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00820-3</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-18; | doi:10.1038/d41586-024-00820-3</dc:source>
+            <dc:date>2024-03-18</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00820-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00820-3</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00790-6">
             <title><![CDATA[Are we all doomed? How to cope with the daunting uncertainties of climate change]]></title>
@@ -205,6 +250,66 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00819-w</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00819-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00713-5">
+            <title><![CDATA[Can lessons from infants solve the problems of data-greedy AI?]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00713-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 18 March 2024; <a href="https://www.nature.com/articles/d41586-024-00713-5">doi:10.1038/d41586-024-00713-5</a></p>Words and images experienced by an infant wearing sensors during their daily life have led to efficient machine learning, pointing to the power of multimodal training signals and to the potentially exploitable statistics of real-life experience.]]></content:encoded>
+            <dc:title><![CDATA[Can lessons from infants solve the problems of data-greedy AI?]]></dc:title>
+            <dc:creator>Linda B. Smith</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00713-5</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-18; | doi:10.1038/d41586-024-00713-5</dc:source>
+            <dc:date>2024-03-18</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00713-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00713-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00804-3">
+            <title><![CDATA[Connecting girls in Brazil to inspiring female scientists]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00804-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 18 March 2024; <a href="https://www.nature.com/articles/d41586-024-00804-3">doi:10.1038/d41586-024-00804-3</a></p>Physicist Carolina Brito leads an initiative to smash gender stereotypes in science.]]></content:encoded>
+            <dc:title><![CDATA[Connecting girls in Brazil to inspiring female scientists]]></dc:title>
+            <dc:creator>Julie Gould</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00804-3</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-18; | doi:10.1038/d41586-024-00804-3</dc:source>
+            <dc:date>2024-03-18</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00804-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00804-3</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00446-5">
+            <title><![CDATA[‘Bandit’ algorithms help chemists to discover generally applicable conditions for reactions]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00446-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 18 March 2024; <a href="https://www.nature.com/articles/d41586-024-00446-5">doi:10.1038/d41586-024-00446-5</a></p>In organic chemistry, finding conditions that enable a broad range of compounds to undergo a particular type of reaction is highly desirable. However, conventional methods for doing so consume a lot of time and reagents. A machine-learning method has been developed that overcomes these problems.]]></content:encoded>
+            <dc:title><![CDATA[‘Bandit’ algorithms help chemists to discover generally applicable conditions for reactions]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-00446-5</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-18; | doi:10.1038/d41586-024-00446-5</dc:source>
+            <dc:date>2024-03-18</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00446-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00446-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00795-1">
+            <title><![CDATA[How to stop 'passing the harasser': universities urged to join information-sharing scheme]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00795-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 18 March 2024; <a href="https://www.nature.com/articles/d41586-024-00795-1">doi:10.1038/d41586-024-00795-1</a></p>The Misconduct Disclosure Scheme would make it harder for perpetrators to hide their past, advocacy group says.]]></content:encoded>
+            <dc:title><![CDATA[How to stop 'passing the harasser': universities urged to join information-sharing scheme]]></dc:title>
+            <dc:creator>Sarah Wild</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00795-1</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-18; | doi:10.1038/d41586-024-00795-1</dc:source>
+            <dc:date>2024-03-18</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00795-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00795-1</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00813-2">
@@ -295,6 +400,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00806-1</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00806-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00834-x">
+            <title><![CDATA[Why menopause keeps evolving in whales]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00834-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 15 March 2024; <a href="https://www.nature.com/articles/d41586-024-00834-x">doi:10.1038/d41586-024-00834-x</a></p>Long postreproductive lifespans might allow female whales to help their progeny survive. Plus, a sneak peek of China’s new underground neutrino lab and tips for PhD-holders looking for a job in industry.]]></content:encoded>
+            <dc:title><![CDATA[Why menopause keeps evolving in whales]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00834-x</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-15; | doi:10.1038/d41586-024-00834-x</dc:source>
+            <dc:date>2024-03-15</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00834-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00834-x</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00747-9">
@@ -1180,126 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00653-0</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00653-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00752-y">
-            <title><![CDATA[A spotlight on the stark imbalances of global health research]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00752-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 March 2024; <a href="https://www.nature.com/articles/d41586-024-00752-y">doi:10.1038/d41586-024-00752-y</a></p>An expansion of the Nature Index to include more than 60 medical journals has revealed the clear leaders in the field.]]></content:encoded>
-            <dc:title><![CDATA[A spotlight on the stark imbalances of global health research]]></dc:title>
-            <dc:creator>Bec Crew</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00752-y</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-13; | doi:10.1038/d41586-024-00752-y</dc:source>
-            <dc:date>2024-03-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00752-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00752-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00757-7">
-            <title><![CDATA[Take these steps to accelerate the path to gender equity in health sciences]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00757-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 March 2024; <a href="https://www.nature.com/articles/d41586-024-00757-7">doi:10.1038/d41586-024-00757-7</a></p>Without action, parity is still half a century away. We cannot afford to wait that long.]]></content:encoded>
-            <dc:title><![CDATA[Take these steps to accelerate the path to gender equity in health sciences]]></dc:title>
-            <dc:creator>Christina Mangurian</dc:creator><dc:creator>Claire D. Brindis</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00757-7</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-13; | doi:10.1038/d41586-024-00757-7</dc:source>
-            <dc:date>2024-03-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00757-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00757-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00658-9">
-            <title><![CDATA[Whales make waves in the quest to discover why menopause evolved]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00658-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 March 2024; <a href="https://www.nature.com/articles/d41586-024-00658-9">doi:10.1038/d41586-024-00658-9</a></p>Why do several species of whale experience menopause, and why does the phenomenon occur at all? Analysing whale data might help to answer these questions and shed light on why menopause evolved in humans.]]></content:encoded>
-            <dc:title><![CDATA[Whales make waves in the quest to discover why menopause evolved]]></dc:title>
-            <dc:creator>Rebecca Sear</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00658-9</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-13; | doi:10.1038/d41586-024-00658-9</dc:source>
-            <dc:date>2024-03-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00658-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00658-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00776-4">
-            <title><![CDATA[Being a parent is a hidden scientific superpower — here’s why]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00776-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 March 2024; <a href="https://www.nature.com/articles/d41586-024-00776-4">doi:10.1038/d41586-024-00776-4</a></p>My lack of time and fresh perspective has made me a better, more focused scientist, says nutrition epidemiologist Lindsey Smith Taillie.]]></content:encoded>
-            <dc:title><![CDATA[Being a parent is a hidden scientific superpower — here’s why]]></dc:title>
-            <dc:creator>Lindsey  Smith Taillie</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00776-4</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-13; | doi:10.1038/d41586-024-00776-4</dc:source>
-            <dc:date>2024-03-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00776-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00776-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07270-x">
-            <title><![CDATA[Structures and activation mechanism of the Gabija anti-phage system]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07270-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 12 March 2024; <a href="https://www.nature.com/articles/s41586-024-07270-x">doi:10.1038/s41586-024-07270-x</a></p>Structures and activation mechanism of the Gabija anti-phage system]]></content:encoded>
-            <dc:title><![CDATA[Structures and activation mechanism of the Gabija anti-phage system]]></dc:title>
-            <dc:creator>Jing Li</dc:creator><dc:creator>Rui Cheng</dc:creator><dc:creator>Zhiming Wang</dc:creator><dc:creator>Wuliu Yuan</dc:creator><dc:creator>Jun Xiao</dc:creator><dc:creator>Xinyuan Zhao</dc:creator><dc:creator>Xinran Du</dc:creator><dc:creator>Shiyu Xia</dc:creator><dc:creator>Lianrong Wang</dc:creator><dc:creator>Bin Zhu</dc:creator><dc:creator>Longfei Wang</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07270-x</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-12; | doi:10.1038/s41586-024-07270-x</dc:source>
-            <dc:date>2024-03-12</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07270-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07270-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00762-w">
-            <title><![CDATA[On the ethics of informed consent in genetic data collected before 1997]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00762-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 12 March 2024; <a href="https://www.nature.com/articles/d41586-024-00762-w">doi:10.1038/d41586-024-00762-w</a></p>On the ethics of informed consent in genetic data collected before 1997]]></content:encoded>
-            <dc:title><![CDATA[On the ethics of informed consent in genetic data collected before 1997]]></dc:title>
-            <dc:creator>Martin Zieger</dc:creator><dc:creator>Yann Joly</dc:creator><dc:creator>Maria Eugenia D’Amato</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00762-w</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-12; | doi:10.1038/d41586-024-00762-w</dc:source>
-            <dc:date>2024-03-12</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00762-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00762-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00682-9">
-            <title><![CDATA[From the archive: Brain–body connection, and cuttlefish ink distracts predators]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00682-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 12 March 2024; <a href="https://www.nature.com/articles/d41586-024-00682-9">doi:10.1038/d41586-024-00682-9</a></p>Snippets from Nature’s past.]]></content:encoded>
-            <dc:title><![CDATA[From the archive: Brain–body connection, and cuttlefish ink distracts predators]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-00682-9</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-12; | doi:10.1038/d41586-024-00682-9</dc:source>
-            <dc:date>2024-03-12</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00682-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00682-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00760-y">
-            <title><![CDATA[Water shortages means greening southern European cities won’t be easy]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00760-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 12 March 2024; <a href="https://www.nature.com/articles/d41586-024-00760-y">doi:10.1038/d41586-024-00760-y</a></p>Water shortages means greening southern European cities won’t be easy]]></content:encoded>
-            <dc:title><![CDATA[Water shortages means greening southern European cities won’t be easy]]></dc:title>
-            <dc:creator>Jaime Madrigal-González</dc:creator><dc:creator>José Miguel Olano</dc:creator><dc:creator>Gabriel Sangüesa-Barreda</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00760-y</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-12; | doi:10.1038/d41586-024-00760-y</dc:source>
-            <dc:date>2024-03-12</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00760-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00760-y</prism:url>
         </item>
     
 </rdf:RDF>
