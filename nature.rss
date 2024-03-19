@@ -18,6 +18,16 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00826-x"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00824-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00827-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00825-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00674-9"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07290-7"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07277-4"/>
@@ -35,6 +45,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00446-5"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00795-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00844-9"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00813-2"/>
                 
@@ -156,18 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00756-8"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00492-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00794-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00730-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00763-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00754-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00653-0"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,81 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00826-x">
+            <title><![CDATA[Language and cultural norms influence vaccine hesitancy]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00826-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 19 March 2024; <a href="https://www.nature.com/articles/d41586-024-00826-x">doi:10.1038/d41586-024-00826-x</a></p>Language and cultural norms influence vaccine hesitancy]]></content:encoded>
+            <dc:title><![CDATA[Language and cultural norms influence vaccine hesitancy]]></dc:title>
+            <dc:creator>Mian Jia</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00826-x</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-19; | doi:10.1038/d41586-024-00826-x</dc:source>
+            <dc:date>2024-03-19</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00826-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00826-x</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00824-z">
+            <title><![CDATA[Three reasons why AI doesn’t model human language]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00824-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 19 March 2024; <a href="https://www.nature.com/articles/d41586-024-00824-z">doi:10.1038/d41586-024-00824-z</a></p>Three reasons why AI doesn’t model human language]]></content:encoded>
+            <dc:title><![CDATA[Three reasons why AI doesn’t model human language]]></dc:title>
+            <dc:creator>Johan J. Bolhuis</dc:creator><dc:creator>Stephen Crain</dc:creator><dc:creator>Sandiway Fong</dc:creator><dc:creator>Andrea Moro</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00824-z</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-19; | doi:10.1038/d41586-024-00824-z</dc:source>
+            <dc:date>2024-03-19</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00824-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00824-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00827-w">
+            <title><![CDATA[Meaningfulness in a scientific career is about more than tangible outputs]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00827-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 19 March 2024; <a href="https://www.nature.com/articles/d41586-024-00827-w">doi:10.1038/d41586-024-00827-w</a></p>Meaningfulness in a scientific career is about more than tangible outputs]]></content:encoded>
+            <dc:title><![CDATA[Meaningfulness in a scientific career is about more than tangible outputs]]></dc:title>
+            <dc:creator>Anna Alexandrova</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00827-w</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-19; | doi:10.1038/d41586-024-00827-w</dc:source>
+            <dc:date>2024-03-19</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00827-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00827-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00825-y">
+            <title><![CDATA[‘Global swimways’ on free-flowing rivers will protect key migratory fish species]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00825-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 19 March 2024; <a href="https://www.nature.com/articles/d41586-024-00825-y">doi:10.1038/d41586-024-00825-y</a></p>‘Global swimways’ on free-flowing rivers will protect key migratory fish species]]></content:encoded>
+            <dc:title><![CDATA[‘Global swimways’ on free-flowing rivers will protect key migratory fish species]]></dc:title>
+            <dc:creator>Twan Stoffers</dc:creator><dc:creator>Catherine A. Sayer</dc:creator><dc:creator>Adela Baratech</dc:creator><dc:creator>Fengzhi He</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00825-y</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-19; | doi:10.1038/d41586-024-00825-y</dc:source>
+            <dc:date>2024-03-19</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00825-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00825-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00674-9">
+            <title><![CDATA[AI image generators often give racist and sexist results: can they be fixed?]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00674-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 19 March 2024; <a href="https://www.nature.com/articles/d41586-024-00674-9">doi:10.1038/d41586-024-00674-9</a></p>Researchers are tracing sources of racial and gender bias in images generated by artificial intelligence, and making efforts to fix them.]]></content:encoded>
+            <dc:title><![CDATA[AI image generators often give racist and sexist results: can they be fixed?]]></dc:title>
+            <dc:creator>Ananya</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00674-9</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-19; | doi:10.1038/d41586-024-00674-9</dc:source>
+            <dc:date>2024-03-19</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00674-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00674-9</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07290-7">
             <title><![CDATA[Structural insights into vesicular monoamine storage and drug interactions]]></title>
@@ -310,6 +385,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00795-1</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00795-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00844-9">
+            <title><![CDATA[Daily briefing: Memories from when you were a baby might not be gone]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00844-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 18 March 2024; <a href="https://www.nature.com/articles/d41586-024-00844-9">doi:10.1038/d41586-024-00844-9</a></p>Research is trying to solve the mystery of how memories are laid down when we are very young. Plus, thousands of the compounds in plastics are hazardous and how to cope with climate anxiety.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Memories from when you were a baby might not be gone]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00844-9</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-18; | doi:10.1038/d41586-024-00844-9</dc:source>
+            <dc:date>2024-03-18</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00844-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00844-9</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00813-2">
@@ -1210,96 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00756-8</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00756-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00492-z">
-            <title><![CDATA[3D printing enables mass production of microcomponents]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00492-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 March 2024; <a href="https://www.nature.com/articles/d41586-024-00492-z">doi:10.1038/d41586-024-00492-z</a></p>Combining a high-throughput technique with 3D printing offers a way of fabricating micrometre-sized particles for use in electronics and biotechnology. The versatile method can produce one million intricate shapes in a single day.]]></content:encoded>
-            <dc:title><![CDATA[3D printing enables mass production of microcomponents]]></dc:title>
-            <dc:creator>Christoph A. Spiegel</dc:creator><dc:creator>Eva Blasco</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00492-z</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-13; | doi:10.1038/d41586-024-00492-z</dc:source>
-            <dc:date>2024-03-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00492-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00492-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00794-2">
-            <title><![CDATA[Killer whales have menopause. Now scientists think they know why]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00794-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 March 2024; <a href="https://www.nature.com/articles/d41586-024-00794-2">doi:10.1038/d41586-024-00794-2</a></p>Data suggest menopause evolved to enable older female whales to help younger generations survive, and how researchers made a cellular map of the developing human heart.]]></content:encoded>
-            <dc:title><![CDATA[Killer whales have menopause. Now scientists think they know why]]></dc:title>
-            <dc:creator>Benjamin Thompson</dc:creator><dc:creator>Nick Petrić Howe</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00794-2</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-13; | doi:10.1038/d41586-024-00794-2</dc:source>
-            <dc:date>2024-03-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00794-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00794-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00730-4">
-            <title><![CDATA[Massive public-health experiment sends vaccination rates soaring]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00730-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 March 2024; <a href="https://www.nature.com/articles/d41586-024-00730-4">doi:10.1038/d41586-024-00730-4</a></p>The rate of vaccination against COVID-19 rose sharply in villages in Sierra Leone where health officials held mobile vaccination clinics.]]></content:encoded>
-            <dc:title><![CDATA[Massive public-health experiment sends vaccination rates soaring]]></dc:title>
-            <dc:creator>Max Kozlov</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00730-4</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-13; | doi:10.1038/d41586-024-00730-4</dc:source>
-            <dc:date>2024-03-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00730-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00730-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00763-9">
-            <title><![CDATA[Anthony Epstein (1921–2024), discoverer of virus causing cancer in humans]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00763-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 March 2024; <a href="https://www.nature.com/articles/d41586-024-00763-9">doi:10.1038/d41586-024-00763-9</a></p>Pathologist whose finding that viruses can trigger tumours in humans transformed medical research.]]></content:encoded>
-            <dc:title><![CDATA[Anthony Epstein (1921–2024), discoverer of virus causing cancer in humans]]></dc:title>
-            <dc:creator>Alan  Rickinson</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00763-9</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-13; | doi:10.1038/d41586-024-00763-9</dc:source>
-            <dc:date>2024-03-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00763-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00763-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00754-w">
-            <title><![CDATA[Four change-makers seek impact in medical research]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00754-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 March 2024; <a href="https://www.nature.com/articles/d41586-024-00754-w">doi:10.1038/d41586-024-00754-w</a></p>Bringing fresh perspectives to long-standing health challenges, these scientists are using techniques such as big-data analytics and AI to push the field.]]></content:encoded>
-            <dc:title><![CDATA[Four change-makers seek impact in medical research]]></dc:title>
-            <dc:creator>Amy  Coombs</dc:creator><dc:creator>Sandy Ong</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00754-w</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-13; | doi:10.1038/d41586-024-00754-w</dc:source>
-            <dc:date>2024-03-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00754-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00754-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00653-0">
-            <title><![CDATA[Epstein–Barr virus at 60]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00653-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 March 2024; <a href="https://www.nature.com/articles/d41586-024-00653-0">doi:10.1038/d41586-024-00653-0</a></p>The 1964 discovery of Epstein–Barr virus shed light on factors that contribute to human cancer. Subsequent studies set the stage for finding ways to diagnose and treat cancer, and revealed how immune defences control viral infection.]]></content:encoded>
-            <dc:title><![CDATA[Epstein–Barr virus at 60]]></dc:title>
-            <dc:creator>Lawrence S. Young</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00653-0</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-13; | doi:10.1038/d41586-024-00653-0</dc:source>
-            <dc:date>2024-03-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00653-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00653-0</prism:url>
         </item>
     
 </rdf:RDF>
