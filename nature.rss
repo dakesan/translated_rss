@@ -18,13 +18,29 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07276-5"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00826-x"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00824-z"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00827-w"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00683-8"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00825-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00816-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00814-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00746-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00831-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00846-7"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00818-x"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00674-9"/>
                 
@@ -152,22 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00727-z"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00753-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00758-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00796-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00800-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00720-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00772-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00704-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00756-8"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,21 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07276-5">
+            <title><![CDATA[Long-term continuous ammonia electrosynthesis]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07276-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 19 March 2024; <a href="https://www.nature.com/articles/s41586-024-07276-5">doi:10.1038/s41586-024-07276-5</a></p>Long-term continuous ammonia electrosynthesis]]></content:encoded>
+            <dc:title><![CDATA[Long-term continuous ammonia electrosynthesis]]></dc:title>
+            <dc:creator>Shaofeng Li</dc:creator><dc:creator>Yuanyuan Zhou</dc:creator><dc:creator>Xianbiao Fu</dc:creator><dc:creator>Jakob B. Pedersen</dc:creator><dc:creator>Mattia Saccoccio</dc:creator><dc:creator>Suzanne Z. Andersen</dc:creator><dc:creator>Kasper Enemark-Rasmussen</dc:creator><dc:creator>Paul J. Kempen</dc:creator><dc:creator>Christian Danvad Damsgaard</dc:creator><dc:creator>Aoni Xu</dc:creator><dc:creator>Rokas Sažinas</dc:creator><dc:creator>Jon Bjarke Valbæk Mygind</dc:creator><dc:creator>Niklas H. Deissler</dc:creator><dc:creator>Jakob Kibsgaard</dc:creator><dc:creator>Peter C. K. Vesborg</dc:creator><dc:creator>Jens K. Nørskov</dc:creator><dc:creator>Ib Chorkendorff</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07276-5</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-19; | doi:10.1038/s41586-024-07276-5</dc:source>
+            <dc:date>2024-03-19</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07276-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07276-5</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00826-x">
             <title><![CDATA[Language and cultural norms influence vaccine hesitancy]]></title>
@@ -222,6 +237,21 @@
             <prism:url>https://www.nature.com/articles/d41586-024-00827-w</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00683-8">
+            <title><![CDATA[From the archive: constantly quivering eyes, and chemistry troubles]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00683-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 19 March 2024; <a href="https://www.nature.com/articles/d41586-024-00683-8">doi:10.1038/d41586-024-00683-8</a></p>Snippets from Nature’s past.]]></content:encoded>
+            <dc:title><![CDATA[From the archive: constantly quivering eyes, and chemistry troubles]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-00683-8</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-19; | doi:10.1038/d41586-024-00683-8</dc:source>
+            <dc:date>2024-03-19</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00683-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00683-8</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-024-00825-y">
             <title><![CDATA[‘Global swimways’ on free-flowing rivers will protect key migratory fish species]]></title>
             <link>https://www.nature.com/articles/d41586-024-00825-y</link>
@@ -235,6 +265,96 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00825-y</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00825-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00816-z">
+            <title><![CDATA[Climate models can’t explain 2023’s huge heat anomaly — we could be in uncharted territory]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00816-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 19 March 2024; <a href="https://www.nature.com/articles/d41586-024-00816-z">doi:10.1038/d41586-024-00816-z</a></p>Taking into account all known factors, the planet warmed 0.2 °C more last year than climate scientists expected. More and better data are urgently needed.]]></content:encoded>
+            <dc:title><![CDATA[Climate models can’t explain 2023’s huge heat anomaly — we could be in uncharted territory]]></dc:title>
+            <dc:creator>Gavin Schmidt</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00816-z</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-19; | doi:10.1038/d41586-024-00816-z</dc:source>
+            <dc:date>2024-03-19</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00816-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00816-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00814-1">
+            <title><![CDATA[A fresh start for the African Academy of Sciences]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00814-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 19 March 2024; <a href="https://www.nature.com/articles/d41586-024-00814-1">doi:10.1038/d41586-024-00814-1</a></p>New leadership is giving the academy a stronger voice for the continent’s scientists, following one of its most testing periods.]]></content:encoded>
+            <dc:title><![CDATA[A fresh start for the African Academy of Sciences]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-00814-1</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-19; | doi:10.1038/d41586-024-00814-1</dc:source>
+            <dc:date>2024-03-19</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00814-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00814-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00746-w">
+            <title><![CDATA[The 50th anniversary of a key paper on how bird flight evolved]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00746-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 19 March 2024; <a href="https://www.nature.com/articles/d41586-024-00746-w">doi:10.1038/d41586-024-00746-w</a></p>For a century, scientists pondered whether bird flight evolved by animals gliding down from trees or by creatures running and flapping from the ground up. A landmark 1974 paper reset the debate to focus on the evolution of the flight stroke instead.]]></content:encoded>
+            <dc:title><![CDATA[The 50th anniversary of a key paper on how bird flight evolved]]></dc:title>
+            <dc:creator>Kevin Padian</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00746-w</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-19; | doi:10.1038/d41586-024-00746-w</dc:source>
+            <dc:date>2024-03-19</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00746-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00746-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00831-0">
+            <title><![CDATA[Is the Mars rover’s rock collection worth $11 billion?]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00831-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 19 March 2024; <a href="https://www.nature.com/articles/d41586-024-00831-0">doi:10.1038/d41586-024-00831-0</a></p>Budget woes force NASA to reassess Perseverance’s travel plan, and seek cheaper ways of getting samples back to Earth.]]></content:encoded>
+            <dc:title><![CDATA[Is the Mars rover’s rock collection worth $11 billion?]]></dc:title>
+            <dc:creator>Alexandra Witze</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00831-0</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-19; | doi:10.1038/d41586-024-00831-0</dc:source>
+            <dc:date>2024-03-19</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00831-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00831-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00846-7">
+            <title><![CDATA[‘A landmark moment’: scientists use AI to design antibodies from scratch]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00846-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 19 March 2024; <a href="https://www.nature.com/articles/d41586-024-00846-7">doi:10.1038/d41586-024-00846-7</a></p>Modified protein-design tool could make it easier to tackle challenging drug targets — but AI antibodies are still a long way from reaching the clinic.]]></content:encoded>
+            <dc:title><![CDATA[‘A landmark moment’: scientists use AI to design antibodies from scratch]]></dc:title>
+            <dc:creator>Ewen Callaway</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00846-7</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-19; | doi:10.1038/d41586-024-00846-7</dc:source>
+            <dc:date>2024-03-19</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00846-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00846-7</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00818-x">
+            <title><![CDATA[So … you’ve been hacked]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00818-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 19 March 2024; <a href="https://www.nature.com/articles/d41586-024-00818-x">doi:10.1038/d41586-024-00818-x</a></p>Research institutions are under siege from cybercriminals and other digital assailants. How do you make sure you don’t let them in?]]></content:encoded>
+            <dc:title><![CDATA[So … you’ve been hacked]]></dc:title>
+            <dc:creator>Michael Brooks</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00818-x</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-19; | doi:10.1038/d41586-024-00818-x</dc:source>
+            <dc:date>2024-03-19</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00818-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00818-x</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00674-9">
@@ -373,11 +493,11 @@
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00795-1">
-            <title><![CDATA[How to stop 'passing the harasser': universities urged to join information-sharing scheme]]></title>
+            <title><![CDATA[How to stop ‘passing the harasser’: universities urged to join information-sharing scheme]]></title>
             <link>https://www.nature.com/articles/d41586-024-00795-1</link>
             <content:encoded>
                 <![CDATA[<p>Nature, Published online: 18 March 2024; <a href="https://www.nature.com/articles/d41586-024-00795-1">doi:10.1038/d41586-024-00795-1</a></p>The Misconduct Disclosure Scheme would make it harder for perpetrators to hide their past, advocacy group says.]]></content:encoded>
-            <dc:title><![CDATA[How to stop 'passing the harasser': universities urged to join information-sharing scheme]]></dc:title>
+            <dc:title><![CDATA[How to stop ‘passing the harasser’: universities urged to join information-sharing scheme]]></dc:title>
             <dc:creator>Sarah Wild</dc:creator>
             <dc:identifier>doi:10.1038/d41586-024-00795-1</dc:identifier>
             <dc:source>Nature, Published online: 2024-03-18; | doi:10.1038/d41586-024-00795-1</dc:source>
@@ -1180,126 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00727-z</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00727-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00753-x">
-            <title><![CDATA[How AI is being used to accelerate clinical trials]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00753-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 March 2024; <a href="https://www.nature.com/articles/d41586-024-00753-x">doi:10.1038/d41586-024-00753-x</a></p>From study design to patient recruitment, researchers are investigating ways that technology could speed up the process.]]></content:encoded>
-            <dc:title><![CDATA[How AI is being used to accelerate clinical trials]]></dc:title>
-            <dc:creator>Matthew Hutson</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00753-x</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-13; | doi:10.1038/d41586-024-00753-x</dc:source>
-            <dc:date>2024-03-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00753-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00753-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00758-6">
-            <title><![CDATA[A guide to the Nature Index]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00758-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 March 2024; <a href="https://www.nature.com/articles/d41586-024-00758-6">doi:10.1038/d41586-024-00758-6</a></p>A description of the terminology and methodology used in this supplement, and a guide to the functionality that is available free online at natureindex.com.]]></content:encoded>
-            <dc:title><![CDATA[A guide to the Nature Index]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-00758-6</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-13; | doi:10.1038/d41586-024-00758-6</dc:source>
-            <dc:date>2024-03-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00758-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00758-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00796-0">
-            <title><![CDATA[Peer-replication model aims to address science’s ‘reproducibility crisis’]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00796-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 March 2024; <a href="https://www.nature.com/articles/d41586-024-00796-0">doi:10.1038/d41586-024-00796-0</a></p>Researchers propose that independent attempts to replicate results should complement conventional peer review.]]></content:encoded>
-            <dc:title><![CDATA[Peer-replication model aims to address science’s ‘reproducibility crisis’]]></dc:title>
-            <dc:creator>James Mitchell Crow</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00796-0</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-13; | doi:10.1038/d41586-024-00796-0</dc:source>
-            <dc:date>2024-03-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00796-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00796-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00800-7">
-            <title><![CDATA[Daily briefing: In most mammal species, males and females are the same size — or females are bigger]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00800-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 March 2024; <a href="https://www.nature.com/articles/d41586-024-00800-7">doi:10.1038/d41586-024-00800-7</a></p>Charles Darwin’s claim about male mammals usually being bigger than females is proved wrong. Plus, OpenAI’s Sora can create amazing video from text prompts, and what’s wrong with how we treat the menopause.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: In most mammal species, males and females are the same size — or females are bigger]]></dc:title>
-            <dc:creator>Flora Graham</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00800-7</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-13; | doi:10.1038/d41586-024-00800-7</dc:source>
-            <dc:date>2024-03-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00800-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00800-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00720-6">
-            <title><![CDATA[Why are so many young people getting cancer? What the data say]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00720-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 March 2024; <a href="https://www.nature.com/articles/d41586-024-00720-6">doi:10.1038/d41586-024-00720-6</a></p>Clues to a modern mystery could be lurking in information collected generations ago.]]></content:encoded>
-            <dc:title><![CDATA[Why are so many young people getting cancer? What the data say]]></dc:title>
-            <dc:creator>Heidi Ledford</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00720-6</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-13; | doi:10.1038/d41586-024-00720-6</dc:source>
-            <dc:date>2024-03-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00720-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00720-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00772-8">
-            <title><![CDATA[Ancient malaria genome from Roman skeleton hints at disease’s history]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00772-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 March 2024; <a href="https://www.nature.com/articles/d41586-024-00772-8">doi:10.1038/d41586-024-00772-8</a></p>Genetic information from ancient remains is helping to reveal how malaria has moved and evolved alongside people.]]></content:encoded>
-            <dc:title><![CDATA[Ancient malaria genome from Roman skeleton hints at disease’s history]]></dc:title>
-            <dc:creator>Tosin Thompson</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00772-8</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-13; | doi:10.1038/d41586-024-00772-8</dc:source>
-            <dc:date>2024-03-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00772-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00772-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00704-6">
-            <title><![CDATA[Deadly brain cancer shrinks after CAR-T therapy — but for how long is unclear]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00704-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 March 2024; <a href="https://www.nature.com/articles/d41586-024-00704-6">doi:10.1038/d41586-024-00704-6</a></p>Early studies with engineered immune cells show drastic but often short-lived results in glioblastoma, the most aggressive brain cancer.]]></content:encoded>
-            <dc:title><![CDATA[Deadly brain cancer shrinks after CAR-T therapy — but for how long is unclear]]></dc:title>
-            <dc:creator>Heidi Ledford</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00704-6</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-13; | doi:10.1038/d41586-024-00704-6</dc:source>
-            <dc:date>2024-03-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00704-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00704-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00756-8">
-            <title><![CDATA[Researchers call for a major rethink of how Alzheimer’s treatments are evaluated]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00756-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 March 2024; <a href="https://www.nature.com/articles/d41586-024-00756-8">doi:10.1038/d41586-024-00756-8</a></p>An approach that aims to quantify how long a drug can delay or halt the progression of disease is gathering steam.]]></content:encoded>
-            <dc:title><![CDATA[Researchers call for a major rethink of how Alzheimer’s treatments are evaluated]]></dc:title>
-            <dc:creator>Esther Landhuis</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00756-8</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-13; | doi:10.1038/d41586-024-00756-8</dc:source>
-            <dc:date>2024-03-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00756-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00756-8</prism:url>
         </item>
     
 </rdf:RDF>
