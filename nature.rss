@@ -18,6 +18,10 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00764-8"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00809-y"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00767-5"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00864-5"/>
@@ -164,10 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00795-1"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00844-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00813-2"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,36 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00764-8">
+            <title><![CDATA[A supercollider glimpses a gathering of three particles never seen together before]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00764-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 21 March 2024; <a href="https://www.nature.com/articles/d41586-024-00764-8">doi:10.1038/d41586-024-00764-8</a></p>Data from billions of proton collisions reveal that subatomic particles called W+ and W− bosons keep company with a photon.]]></content:encoded>
+            <dc:title><![CDATA[A supercollider glimpses a gathering of three particles never seen together before]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-00764-8</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-21; | doi:10.1038/d41586-024-00764-8</dc:source>
+            <dc:date>2024-03-21</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00764-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00764-8</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00809-y">
+            <title><![CDATA[Cutting-edge CAR-T cancer therapy is now made in India — at one-tenth the cost]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00809-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 21 March 2024; <a href="https://www.nature.com/articles/d41586-024-00809-y">doi:10.1038/d41586-024-00809-y</a></p>The treatment, called NexCAR19, raises hopes that this transformative class of medicine will become more readily available in low- and middle-income countries.]]></content:encoded>
+            <dc:title><![CDATA[Cutting-edge CAR-T cancer therapy is now made in India — at one-tenth the cost]]></dc:title>
+            <dc:creator>Smriti Mallapaty</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00809-y</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-21; | doi:10.1038/d41586-024-00809-y</dc:source>
+            <dc:date>2024-03-21</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00809-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00809-y</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00767-5">
             <title><![CDATA[Squeeze, freeze, bake: how to make 3D-printed wood that mimics the real thing]]></title>
@@ -883,11 +913,11 @@
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00863-6">
-            <title><![CDATA[What Putin’s election win means for Russian science]]></title>
+            <title><![CDATA[What Putin’s next term means for science]]></title>
             <link>https://www.nature.com/articles/d41586-024-00863-6</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 20 March 2024; <a href="https://www.nature.com/articles/d41586-024-00863-6">doi:10.1038/d41586-024-00863-6</a></p>Researchers expect growing isolation as Vladimir Putin embarks on six more years as president.]]></content:encoded>
-            <dc:title><![CDATA[What Putin’s election win means for Russian science]]></dc:title>
+                <![CDATA[<p>Nature, Published online: 20 March 2024; <a href="https://www.nature.com/articles/d41586-024-00863-6">doi:10.1038/d41586-024-00863-6</a></p>Researchers in Russia expect growing isolation as Vladimir Putin embarks on six more years as president.]]></content:encoded>
+            <dc:title><![CDATA[What Putin’s next term means for science]]></dc:title>
             <dc:creator>Olga Dobrovidova</dc:creator>
             <dc:identifier>doi:10.1038/d41586-024-00863-6</dc:identifier>
             <dc:source>Nature, Published online: 2024-03-20; | doi:10.1038/d41586-024-00863-6</dc:source>
@@ -1270,36 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00795-1</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00795-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00844-9">
-            <title><![CDATA[Daily briefing: Memories from when you were a baby might not be gone]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00844-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 18 March 2024; <a href="https://www.nature.com/articles/d41586-024-00844-9">doi:10.1038/d41586-024-00844-9</a></p>Research is trying to solve the mystery of how memories are laid down when we are very young. Plus, thousands of the compounds in plastics are hazardous and how to cope with climate anxiety.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: Memories from when you were a baby might not be gone]]></dc:title>
-            <dc:creator>Flora Graham</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00844-9</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-18; | doi:10.1038/d41586-024-00844-9</dc:source>
-            <dc:date>2024-03-18</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00844-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00844-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00813-2">
-            <title><![CDATA[Verbose robots, and why some people love Bach: Books in Brief]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00813-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 15 March 2024; <a href="https://www.nature.com/articles/d41586-024-00813-2">doi:10.1038/d41586-024-00813-2</a></p>Andrew Robinson reviews five of the best science picks.]]></content:encoded>
-            <dc:title><![CDATA[Verbose robots, and why some people love Bach: Books in Brief]]></dc:title>
-            <dc:creator>Andrew Robinson</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00813-2</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-15; | doi:10.1038/d41586-024-00813-2</dc:source>
-            <dc:date>2024-03-15</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00813-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00813-2</prism:url>
         </item>
     
 </rdf:RDF>
