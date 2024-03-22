@@ -20,6 +20,10 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00764-8"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00854-7"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00869-0"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00809-y"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00767-5"/>
@@ -85,6 +89,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00847-6"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00821-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00873-4"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00857-4"/>
                 
@@ -162,12 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00713-5"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00804-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00446-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00795-1"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -190,6 +190,36 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00764-8</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00764-8</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00854-7">
+            <title><![CDATA[The future of at-home molecular testing]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00854-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 21 March 2024; <a href="https://www.nature.com/articles/d41586-024-00854-7">doi:10.1038/d41586-024-00854-7</a></p>The COVID-19 pandemic showed what was possible for gene-based diagnostics. Now comes the true test – economics.]]></content:encoded>
+            <dc:title><![CDATA[The future of at-home molecular testing]]></dc:title>
+            <dc:creator>Elie Dolgin</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00854-7</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-21; | doi:10.1038/d41586-024-00854-7</dc:source>
+            <dc:date>2024-03-21</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00854-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00854-7</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00869-0">
+            <title><![CDATA[Google AI could soon use a person’s cough to diagnose disease]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00869-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 21 March 2024; <a href="https://www.nature.com/articles/d41586-024-00869-0">doi:10.1038/d41586-024-00869-0</a></p>Machine-learning system trained on millions of human audio clips shows promise for detecting COVID-19 and tuberculosis.]]></content:encoded>
+            <dc:title><![CDATA[Google AI could soon use a person’s cough to diagnose disease]]></dc:title>
+            <dc:creator>Mariana Lenharo</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00869-0</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-21; | doi:10.1038/d41586-024-00869-0</dc:source>
+            <dc:date>2024-03-21</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00869-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00869-0</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00809-y">
@@ -241,7 +271,7 @@
             <title><![CDATA[A view of wind turbines drives down home values — but only briefly]]></title>
             <link>https://www.nature.com/articles/d41586-024-00766-6</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 20 March 2024; <a href="https://www.nature.com/articles/d41586-024-00766-6">doi:10.1038/d41586-024-00766-6</a></p>House prices drop 1% if wind turbines are close and visible, but they rebound quickly.]]></content:encoded>
+                <![CDATA[<p>Nature, Published online: 20 March 2024; <a href="https://www.nature.com/articles/d41586-024-00766-6">doi:10.1038/d41586-024-00766-6</a></p>House prices drop by 1% if wind turbines are close and visible, but they rebound quickly.]]></content:encoded>
             <dc:title><![CDATA[A view of wind turbines drives down home values — but only briefly]]></dc:title>
             
             <dc:identifier>doi:10.1038/d41586-024-00766-6</dc:identifier>
@@ -685,6 +715,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00821-2</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00821-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00873-4">
+            <title><![CDATA[Daily briefing: Abel Prize for randomness mathematician Michel Talagrand]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00873-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 20 March 2024; <a href="https://www.nature.com/articles/d41586-024-00873-4">doi:10.1038/d41586-024-00873-4</a></p>Michel Talagrand has won one of mathematics’ biggest prizes for his work developing formulae to make random processes more predictable. Plus, climate models can’t explain 2023’s huge heat anomaly and NASA ponders the enormous cost of bringing Mars rocks back to Earth.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Abel Prize for randomness mathematician Michel Talagrand]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00873-4</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-20; | doi:10.1038/d41586-024-00873-4</dc:source>
+            <dc:date>2024-03-20</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00873-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00873-4</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00857-4">
@@ -1255,51 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00713-5</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00713-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00804-3">
-            <title><![CDATA[Connecting girls in Brazil to inspiring female scientists]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00804-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 18 March 2024; <a href="https://www.nature.com/articles/d41586-024-00804-3">doi:10.1038/d41586-024-00804-3</a></p>Physicist Carolina Brito leads an initiative to smash gender stereotypes in science.]]></content:encoded>
-            <dc:title><![CDATA[Connecting girls in Brazil to inspiring female scientists]]></dc:title>
-            <dc:creator>Julie Gould</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00804-3</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-18; | doi:10.1038/d41586-024-00804-3</dc:source>
-            <dc:date>2024-03-18</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00804-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00804-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00446-5">
-            <title><![CDATA[‘Bandit’ algorithms help chemists to discover generally applicable conditions for reactions]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00446-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 18 March 2024; <a href="https://www.nature.com/articles/d41586-024-00446-5">doi:10.1038/d41586-024-00446-5</a></p>In organic chemistry, finding conditions that enable a broad range of compounds to undergo a particular type of reaction is highly desirable. However, conventional methods for doing so consume a lot of time and reagents. A machine-learning method has been developed that overcomes these problems.]]></content:encoded>
-            <dc:title><![CDATA[‘Bandit’ algorithms help chemists to discover generally applicable conditions for reactions]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-00446-5</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-18; | doi:10.1038/d41586-024-00446-5</dc:source>
-            <dc:date>2024-03-18</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00446-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00446-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00795-1">
-            <title><![CDATA[How to stop ‘passing the harasser’: universities urged to join information-sharing scheme]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00795-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 18 March 2024; <a href="https://www.nature.com/articles/d41586-024-00795-1">doi:10.1038/d41586-024-00795-1</a></p>The Misconduct Disclosure Scheme would make it harder for perpetrators to hide their past, advocacy group says.]]></content:encoded>
-            <dc:title><![CDATA[How to stop ‘passing the harasser’: universities urged to join information-sharing scheme]]></dc:title>
-            <dc:creator>Sarah Wild</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00795-1</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-18; | doi:10.1038/d41586-024-00795-1</dc:source>
-            <dc:date>2024-03-18</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00795-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00795-1</prism:url>
         </item>
     
 </rdf:RDF>
