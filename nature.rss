@@ -18,6 +18,10 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00894-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00885-0"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07301-7"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00333-z"/>
@@ -164,10 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00849-4"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00856-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07290-7"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,36 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00894-z">
+            <title><![CDATA[How did the Big Bang get its name? Here’s the real story]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00894-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 25 March 2024; <a href="https://www.nature.com/articles/d41586-024-00894-z">doi:10.1038/d41586-024-00894-z</a></p>Astronomer Fred Hoyle supposedly coined the catchy term to ridicule the theory of the Universe’s origins — 75 years on, it’s time to set the record straight.]]></content:encoded>
+            <dc:title><![CDATA[How did the Big Bang get its name? Here’s the real story]]></dc:title>
+            <dc:creator>Helge Kragh</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00894-z</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-25; | doi:10.1038/d41586-024-00894-z</dc:source>
+            <dc:date>2024-03-25</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00894-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00894-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00885-0">
+            <title><![CDATA[‘Hopeless, burnt out, sad’: how political change is impacting female researchers in Latin America]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00885-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 25 March 2024; <a href="https://www.nature.com/articles/d41586-024-00885-0">doi:10.1038/d41586-024-00885-0</a></p>Already feeling invisible and unappreciated, the election of far-right administrations in Argentina and elsewhere are unsettling for women in science.]]></content:encoded>
+            <dc:title><![CDATA[‘Hopeless, burnt out, sad’: how political change is impacting female researchers in Latin America]]></dc:title>
+            <dc:creator>Julie Gould</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00885-0</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-25; | doi:10.1038/d41586-024-00885-0</dc:source>
+            <dc:date>2024-03-25</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00885-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00885-0</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07301-7">
             <title><![CDATA[Publisher Correction: Visuo-frontal interactions during social learning in freely moving macaques]]></title>
@@ -1270,36 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00849-4</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00849-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00856-5">
-            <title><![CDATA[AI &amp; robotics briefing: LLMs harbour hidden racism]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00856-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 19 March 2024; <a href="https://www.nature.com/articles/d41586-024-00856-5">doi:10.1038/d41586-024-00856-5</a></p>Chatbots make racist judgements on the basis of dialect. Plus, cyborg jellyfish could monitor the changing seas and how AI designed a drug.]]></content:encoded>
-            <dc:title><![CDATA[AI &amp; robotics briefing: LLMs harbour hidden racism]]></dc:title>
-            <dc:creator>Katrina Krämer</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00856-5</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-19; | doi:10.1038/d41586-024-00856-5</dc:source>
-            <dc:date>2024-03-19</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00856-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00856-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07290-7">
-            <title><![CDATA[Structural insights into vesicular monoamine storage and drug interactions]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07290-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 18 March 2024; <a href="https://www.nature.com/articles/s41586-024-07290-7">doi:10.1038/s41586-024-07290-7</a></p>Structural insights into vesicular monoamine storage and drug interactions]]></content:encoded>
-            <dc:title><![CDATA[Structural insights into vesicular monoamine storage and drug interactions]]></dc:title>
-            <dc:creator>Jin Ye</dc:creator><dc:creator>Huaping Chen</dc:creator><dc:creator>Kaituo Wang</dc:creator><dc:creator>Yi Wang</dc:creator><dc:creator>Aaron Ammerman</dc:creator><dc:creator>Samjhana Awasthi</dc:creator><dc:creator>Jinbin Xu</dc:creator><dc:creator>Bin Liu</dc:creator><dc:creator>Weikai Li</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07290-7</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-18; | doi:10.1038/s41586-024-07290-7</dc:source>
-            <dc:date>2024-03-18</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07290-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07290-7</prism:url>
         </item>
     
 </rdf:RDF>
