@@ -18,9 +18,17 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00861-8"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00896-x"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00894-z"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00885-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00929-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00832-z"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07301-7"/>
                 
@@ -31,6 +39,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00879-y"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00886-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00926-8"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00764-8"/>
                 
@@ -158,16 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00746-w"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00831-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00846-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00818-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00674-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00849-4"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,36 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00861-8">
+            <title><![CDATA[A horse cemetery in London reveals medieval mounts’ distant origins]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00861-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 25 March 2024; <a href="https://www.nature.com/articles/d41586-024-00861-8">doi:10.1038/d41586-024-00861-8</a></p>Horses buried near the royal complex of Westminster in the fifteenth and sixteenth centuries had been imported from as far away as Scandinavia.]]></content:encoded>
+            <dc:title><![CDATA[A horse cemetery in London reveals medieval mounts’ distant origins]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-00861-8</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-25; | doi:10.1038/d41586-024-00861-8</dc:source>
+            <dc:date>2024-03-25</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00861-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00861-8</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00896-x">
+            <title><![CDATA[I peer into volcanoes to see when they’ll blow]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00896-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 25 March 2024; <a href="https://www.nature.com/articles/d41586-024-00896-x">doi:10.1038/d41586-024-00896-x</a></p>Mariton Antonia Bornas runs a Filipino volcano research and response organization.]]></content:encoded>
+            <dc:title><![CDATA[I peer into volcanoes to see when they’ll blow]]></dc:title>
+            <dc:creator>Margaret  Simons</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00896-x</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-25; | doi:10.1038/d41586-024-00896-x</dc:source>
+            <dc:date>2024-03-25</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00896-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00896-x</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00894-z">
             <title><![CDATA[How did the Big Bang get its name? Here’s the real story]]></title>
@@ -205,6 +235,36 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00885-0</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00885-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00929-5">
+            <title><![CDATA[Larger or longer grants unlikely to push senior scientists towards high-risk, high-reward work]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00929-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 25 March 2024; <a href="https://www.nature.com/articles/d41586-024-00929-5">doi:10.1038/d41586-024-00929-5</a></p>A survey of US professors suggests that broad changes to grant schemes might be needed to incentivize new approaches to research.]]></content:encoded>
+            <dc:title><![CDATA[Larger or longer grants unlikely to push senior scientists towards high-risk, high-reward work]]></dc:title>
+            <dc:creator>Dalmeet Singh Chawla</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00929-5</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-25; | doi:10.1038/d41586-024-00929-5</dc:source>
+            <dc:date>2024-03-25</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00929-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00929-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00832-z">
+            <title><![CDATA[Weird new electron behaviour in stacked graphene thrills physicists]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00832-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 25 March 2024; <a href="https://www.nature.com/articles/d41586-024-00832-z">doi:10.1038/d41586-024-00832-z</a></p>This 2D material is only the second to exhibit the fractional quantum anomalous Hall effect, and theorists are still debating how it works.]]></content:encoded>
+            <dc:title><![CDATA[Weird new electron behaviour in stacked graphene thrills physicists]]></dc:title>
+            <dc:creator>Dan Garisto</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00832-z</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-25; | doi:10.1038/d41586-024-00832-z</dc:source>
+            <dc:date>2024-03-25</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00832-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00832-z</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07301-7">
@@ -280,6 +340,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00886-z</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00886-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00926-8">
+            <title><![CDATA[Daily briefing: How PhD assessment needs to change]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00926-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 22 March 2024; <a href="https://www.nature.com/articles/d41586-024-00926-8">doi:10.1038/d41586-024-00926-8</a></p>What Briefing readers think about how doctoral degrees should be evaluated. Plus, the X-factor in bird song that makes males irresistible and why like-charged particles can sometimes attract.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: How PhD assessment needs to change]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00926-8</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-22; | doi:10.1038/d41586-024-00926-8</dc:source>
+            <dc:date>2024-03-22</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00926-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00926-8</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00764-8">
@@ -1225,81 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00746-w</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00746-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00831-0">
-            <title><![CDATA[Is the Mars rover’s rock collection worth $11 billion?]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00831-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 19 March 2024; <a href="https://www.nature.com/articles/d41586-024-00831-0">doi:10.1038/d41586-024-00831-0</a></p>Budget woes force NASA to reassess Perseverance’s travel plan, and seek cheaper ways of getting samples back to Earth.]]></content:encoded>
-            <dc:title><![CDATA[Is the Mars rover’s rock collection worth $11 billion?]]></dc:title>
-            <dc:creator>Alexandra Witze</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00831-0</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-19; | doi:10.1038/d41586-024-00831-0</dc:source>
-            <dc:date>2024-03-19</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00831-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00831-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00846-7">
-            <title><![CDATA[‘A landmark moment’: scientists use AI to design antibodies from scratch]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00846-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 19 March 2024; <a href="https://www.nature.com/articles/d41586-024-00846-7">doi:10.1038/d41586-024-00846-7</a></p>Modified protein-design tool could make it easier to tackle challenging drug targets — but AI antibodies are still a long way from reaching the clinic.]]></content:encoded>
-            <dc:title><![CDATA[‘A landmark moment’: scientists use AI to design antibodies from scratch]]></dc:title>
-            <dc:creator>Ewen Callaway</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00846-7</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-19; | doi:10.1038/d41586-024-00846-7</dc:source>
-            <dc:date>2024-03-19</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00846-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00846-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00818-x">
-            <title><![CDATA[So … you’ve been hacked]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00818-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 19 March 2024; <a href="https://www.nature.com/articles/d41586-024-00818-x">doi:10.1038/d41586-024-00818-x</a></p>Research institutions are under siege from cybercriminals and other digital assailants. How do you make sure you don’t let them in?]]></content:encoded>
-            <dc:title><![CDATA[So … you’ve been hacked]]></dc:title>
-            <dc:creator>Michael Brooks</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00818-x</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-19; | doi:10.1038/d41586-024-00818-x</dc:source>
-            <dc:date>2024-03-19</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00818-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00818-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00674-9">
-            <title><![CDATA[AI image generators often give racist and sexist results: can they be fixed?]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00674-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 19 March 2024; <a href="https://www.nature.com/articles/d41586-024-00674-9">doi:10.1038/d41586-024-00674-9</a></p>Researchers are tracing sources of racial and gender bias in images generated by artificial intelligence, and making efforts to fix them.]]></content:encoded>
-            <dc:title><![CDATA[AI image generators often give racist and sexist results: can they be fixed?]]></dc:title>
-            <dc:creator>Ananya</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00674-9</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-19; | doi:10.1038/d41586-024-00674-9</dc:source>
-            <dc:date>2024-03-19</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00674-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00674-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00849-4">
-            <title><![CDATA[Daily briefing: Snake steak could help feed the world]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00849-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 19 March 2024; <a href="https://www.nature.com/articles/d41586-024-00849-4">doi:10.1038/d41586-024-00849-4</a></p>Large pythons are better at converting their food into edible protein than many other farmed animals. Plus, the career costs for scientists battling long COVID and how universities can stop ‘passing the harasser.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: Snake steak could help feed the world]]></dc:title>
-            <dc:creator>Katrina Krämer</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00849-4</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-19; | doi:10.1038/d41586-024-00849-4</dc:source>
-            <dc:date>2024-03-19</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00849-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00849-4</prism:url>
         </item>
     
 </rdf:RDF>
