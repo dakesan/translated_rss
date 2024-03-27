@@ -18,6 +18,10 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00922-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00891-2"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00915-x"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00684-7"/>
@@ -39,6 +43,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00890-3"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00928-6"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00947-3"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00895-y"/>
                 
@@ -162,12 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00815-0"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00676-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00054-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00504-y"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,36 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00922-y">
+            <title><![CDATA[Tweeting your research paper boosts engagement but not citations]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00922-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 27 March 2024; <a href="https://www.nature.com/articles/d41586-024-00922-y">doi:10.1038/d41586-024-00922-y</a></p>Analysis of a random selection of papers shared on social media showed no causative link between posting and citations.]]></content:encoded>
+            <dc:title><![CDATA[Tweeting your research paper boosts engagement but not citations]]></dc:title>
+            <dc:creator>Bianca Nogrady</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00922-y</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-27; | doi:10.1038/d41586-024-00922-y</dc:source>
+            <dc:date>2024-03-27</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00922-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00922-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00891-2">
+            <title><![CDATA[<i>Nature</i> is committed to diversifying its journalistic sources]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00891-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 27 March 2024; <a href="https://www.nature.com/articles/d41586-024-00891-2">doi:10.1038/d41586-024-00891-2</a></p>The latest data are in on the diversity of people interviewed for the journal’s News, Features and Careers articles, and audio and video content.]]></content:encoded>
+            <dc:title><![CDATA[<i>Nature</i> is committed to diversifying its journalistic sources]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-00891-2</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-27; | doi:10.1038/d41586-024-00891-2</dc:source>
+            <dc:date>2024-03-27</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00891-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00891-2</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00915-x">
             <title><![CDATA[Superconductivity case shows the need for zero tolerance of toxic lab culture]]></title>
@@ -340,6 +370,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00928-6</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00928-6</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00947-3">
+            <title><![CDATA[AI &amp; robotics briefing: Can AI’s bias problem be fixed?]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00947-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 26 March 2024; <a href="https://www.nature.com/articles/d41586-024-00947-3">doi:10.1038/d41586-024-00947-3</a></p>Researchers argue for more transparency to remove the biases that plague image generators. Plus, Nvidia’s new ‘superchip’ promises AI performance and Google AI could soon use a person’s cough to diagnose disease.]]></content:encoded>
+            <dc:title><![CDATA[AI &amp; robotics briefing: Can AI’s bias problem be fixed?]]></dc:title>
+            <dc:creator>Katrina Krämer</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00947-3</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-26; | doi:10.1038/d41586-024-00947-3</dc:source>
+            <dc:date>2024-03-26</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00947-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00947-3</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00895-y">
@@ -1255,51 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00815-0</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00815-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00676-7">
-            <title><![CDATA[Astrocyte cells in the brain have immune memory]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00676-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 20 March 2024; <a href="https://www.nature.com/articles/d41586-024-00676-7">doi:10.1038/d41586-024-00676-7</a></p>The central nervous system’s astrocyte cells respond to injury and disease. The finding that they form molecular memories of certain responses, and that these modify inflammatory signalling, sheds light on autommunity.]]></content:encoded>
-            <dc:title><![CDATA[Astrocyte cells in the brain have immune memory]]></dc:title>
-            <dc:creator>Michael V. Sofroniew</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00676-7</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-20; | doi:10.1038/d41586-024-00676-7</dc:source>
-            <dc:date>2024-03-20</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00676-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00676-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00054-3">
-            <title><![CDATA[Neuron migration to brain regions key to memory and navigation continues into childhood]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00054-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 20 March 2024; <a href="https://www.nature.com/articles/d41586-024-00054-3">doi:10.1038/d41586-024-00054-3</a></p>This study identifies a major migratory route for young neurons in the brains of young children. This route forms during pregnancy and links the birthplace of these nerve cells to their destination in highly interconnected brain regions that are responsible for memory and spatial processing.]]></content:encoded>
-            <dc:title><![CDATA[Neuron migration to brain regions key to memory and navigation continues into childhood]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-00054-3</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-20; | doi:10.1038/d41586-024-00054-3</dc:source>
-            <dc:date>2024-03-20</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00054-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00054-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00504-y">
-            <title><![CDATA[Powerful microscopy reveals blood-cell production in bone marrow]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00504-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 20 March 2024; <a href="https://www.nature.com/articles/d41586-024-00504-y">doi:10.1038/d41586-024-00504-y</a></p>A method for imaging the production of blood cells in the bones of mice has revealed the organization of cell lineages, both in a steady state and in response to stressors, such as bleeding and infection.]]></content:encoded>
-            <dc:title><![CDATA[Powerful microscopy reveals blood-cell production in bone marrow]]></dc:title>
-            <dc:creator>M. Carolina Florian</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00504-y</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-20; | doi:10.1038/d41586-024-00504-y</dc:source>
-            <dc:date>2024-03-20</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00504-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00504-y</prism:url>
         </item>
     
 </rdf:RDF>
