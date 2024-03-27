@@ -20,15 +20,35 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00915-x"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00684-7"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00859-2"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00916-w"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00862-7"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00914-y"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00860-9"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00917-9"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00892-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00890-3"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00928-6"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00895-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00893-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00938-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00455-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00905-z"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00780-8"/>
                 
@@ -43,6 +63,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00929-5"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00832-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00936-6"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07301-7"/>
                 
@@ -146,28 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00504-y"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00839-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00662-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00865-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00622-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00853-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00868-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00823-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00677-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00863-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07276-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00826-x"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -190,6 +190,36 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00915-x</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00915-x</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00684-7">
+            <title><![CDATA[How Sydney Harbour Bridge was shaping up 100 years ago]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00684-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 26 March 2024; <a href="https://www.nature.com/articles/d41586-024-00684-7">doi:10.1038/d41586-024-00684-7</a></p>Plans for Sydney’s iconic landmark become concrete, plus a ‘Michelin Guide’ to superconductive tunnelling, in the weekly dip into Nature’s archive.]]></content:encoded>
+            <dc:title><![CDATA[How Sydney Harbour Bridge was shaping up 100 years ago]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-00684-7</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-26; | doi:10.1038/d41586-024-00684-7</dc:source>
+            <dc:date>2024-03-26</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00684-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00684-7</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00859-2">
+            <title><![CDATA[These levitating bubbles are long-lived and puncture-proof]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00859-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 26 March 2024; <a href="https://www.nature.com/articles/d41586-024-00859-2">doi:10.1038/d41586-024-00859-2</a></p>Soap bubbles bombarded with ultrasonic waves rise into mid-air and can survive being stabbed with a needle.]]></content:encoded>
+            <dc:title><![CDATA[These levitating bubbles are long-lived and puncture-proof]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-00859-2</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-26; | doi:10.1038/d41586-024-00859-2</dc:source>
+            <dc:date>2024-03-26</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00859-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00859-2</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00916-w">
@@ -237,6 +267,21 @@
             <prism:url>https://www.nature.com/articles/d41586-024-00914-y</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00860-9">
+            <title><![CDATA[A test for Alzheimer’s-disease stage predicts dementia risk]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00860-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 26 March 2024; <a href="https://www.nature.com/articles/d41586-024-00860-9">doi:10.1038/d41586-024-00860-9</a></p>Levels of a host of molecules in the cerebrospinal fluid reliably assess development of the disease.]]></content:encoded>
+            <dc:title><![CDATA[A test for Alzheimer’s-disease stage predicts dementia risk]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-00860-9</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-26; | doi:10.1038/d41586-024-00860-9</dc:source>
+            <dc:date>2024-03-26</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00860-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00860-9</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-024-00917-9">
             <title><![CDATA[Don’t underestimate the rising threat of groundwater to coastal cities]]></title>
             <link>https://www.nature.com/articles/d41586-024-00917-9</link>
@@ -252,6 +297,51 @@
             <prism:url>https://www.nature.com/articles/d41586-024-00917-9</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00892-1">
+            <title><![CDATA[‘Exhausted and insulted’: how harsh visa-application policies are hobbling global research]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00892-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 26 March 2024; <a href="https://www.nature.com/articles/d41586-024-00892-1">doi:10.1038/d41586-024-00892-1</a></p>Institutions and individuals from low- and middle-income countries are wasting time, effort and money trying to get visas for research travel, only to be rejected. A new approach is needed.]]></content:encoded>
+            <dc:title><![CDATA[‘Exhausted and insulted’: how harsh visa-application policies are hobbling global research]]></dc:title>
+            <dc:creator>Sandra Owusu-Gyamfi</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00892-1</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-26; | doi:10.1038/d41586-024-00892-1</dc:source>
+            <dc:date>2024-03-26</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00892-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00892-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00890-3">
+            <title><![CDATA[Deep-sea mining plans should not be rushed]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00890-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 26 March 2024; <a href="https://www.nature.com/articles/d41586-024-00890-3">doi:10.1038/d41586-024-00890-3</a></p>Why are companies and governments determined to start commercial-scale mining for rare metals, when so little is known about its wider impacts?]]></content:encoded>
+            <dc:title><![CDATA[Deep-sea mining plans should not be rushed]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-00890-3</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-26; | doi:10.1038/d41586-024-00890-3</dc:source>
+            <dc:date>2024-03-26</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00890-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00890-3</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00928-6">
+            <title><![CDATA[The beauty of what science can do when urgently needed]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00928-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 26 March 2024; <a href="https://www.nature.com/articles/d41586-024-00928-6">doi:10.1038/d41586-024-00928-6</a></p>Working amid New York City’s pandemic response inspired Nili Ostrov’s approach to expanding the list of organisms that can be used in synthetic biology and engineering.]]></content:encoded>
+            <dc:title><![CDATA[The beauty of what science can do when urgently needed]]></dc:title>
+            <dc:creator>Katherine Bourzac</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00928-6</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-26; | doi:10.1038/d41586-024-00928-6</dc:source>
+            <dc:date>2024-03-26</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00928-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00928-6</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-024-00895-y">
             <title><![CDATA[How a tree-hugging protest transformed Indian environmentalism]]></title>
             <link>https://www.nature.com/articles/d41586-024-00895-y</link>
@@ -265,6 +355,66 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00895-y</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00895-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00893-0">
+            <title><![CDATA[The ‘Mother Tree’ idea is everywhere — but how much of it is real?]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00893-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 26 March 2024; <a href="https://www.nature.com/articles/d41586-024-00893-0">doi:10.1038/d41586-024-00893-0</a></p>A popular theory about how trees cooperate has enchanted the public and raised the profile of forest conservation. But some ecologists think its scientific basis has been oversold.]]></content:encoded>
+            <dc:title><![CDATA[The ‘Mother Tree’ idea is everywhere — but how much of it is real?]]></dc:title>
+            <dc:creator>Aisling Irwin</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00893-0</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-26; | doi:10.1038/d41586-024-00893-0</dc:source>
+            <dc:date>2024-03-26</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00893-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00893-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00938-4">
+            <title><![CDATA[Abortion-pill challenge provokes doubt from US Supreme Court]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00938-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 26 March 2024; <a href="https://www.nature.com/articles/d41586-024-00938-4">doi:10.1038/d41586-024-00938-4</a></p>Lawsuit could roll back access to mifepristone, a drug widely used to induce abortion in the United States.]]></content:encoded>
+            <dc:title><![CDATA[Abortion-pill challenge provokes doubt from US Supreme Court]]></dc:title>
+            <dc:creator>Mariana Lenharo</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00938-4</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-26; | doi:10.1038/d41586-024-00938-4</dc:source>
+            <dc:date>2024-03-26</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00938-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00938-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00455-4">
+            <title><![CDATA[A delay that makes wireless communication faster]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00455-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 26 March 2024; <a href="https://www.nature.com/articles/d41586-024-00455-4">doi:10.1038/d41586-024-00455-4</a></p>Cutting-edge communication (6G and beyond) will rely on precise time control of large amounts of wirelessly transferred information. To achieve this precision, a ‘quasi-true time delay’ chip has been designed that packs as much time delay as possible into a tiny area using 3D waveguides whose length can be varied as required.]]></content:encoded>
+            <dc:title><![CDATA[A delay that makes wireless communication faster]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-00455-4</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-26; | doi:10.1038/d41586-024-00455-4</dc:source>
+            <dc:date>2024-03-26</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00455-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00455-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00905-z">
+            <title><![CDATA[Estella Bergere Leopold (1927–2024), passionate environmentalist who traced changing ecosystems]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00905-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 26 March 2024; <a href="https://www.nature.com/articles/d41586-024-00905-z">doi:10.1038/d41586-024-00905-z</a></p>The trailblazing palaeobotanist investigated how climate change affected Earth in the past — and firmly believed science should be used in its defence now.]]></content:encoded>
+            <dc:title><![CDATA[Estella Bergere Leopold (1927–2024), passionate environmentalist who traced changing ecosystems]]></dc:title>
+            <dc:creator>Cathy  Whitlock</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00905-z</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-26; | doi:10.1038/d41586-024-00905-z</dc:source>
+            <dc:date>2024-03-26</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00905-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00905-z</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00780-8">
@@ -370,6 +520,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00832-z</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00832-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00936-6">
+            <title><![CDATA[Daily briefing: Pregnancy advances your ‘biological’ age’]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00936-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 25 March 2024; <a href="https://www.nature.com/articles/d41586-024-00936-6">doi:10.1038/d41586-024-00936-6</a></p>Being pregnant can increase a person’s ‘biological age’ by a couple of years — but giving birth reverses these changes. Plus, urban vegetable gardens have a shocking carbon footprint.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Pregnancy advances your ‘biological’ age’]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00936-6</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-25; | doi:10.1038/d41586-024-00936-6</dc:source>
+            <dc:date>2024-03-25</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00936-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00936-6</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07301-7">
@@ -1135,171 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00504-y</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00504-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00839-6">
-            <title><![CDATA[Mathematician who tamed randomness wins Abel Prize]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00839-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 20 March 2024; <a href="https://www.nature.com/articles/d41586-024-00839-6">doi:10.1038/d41586-024-00839-6</a></p>Michel Talagrand laid mathematical groundwork that has allowed others to tackle problems involving random processes.]]></content:encoded>
-            <dc:title><![CDATA[Mathematician who tamed randomness wins Abel Prize]]></dc:title>
-            <dc:creator>Davide Castelvecchi</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00839-6</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-20; | doi:10.1038/d41586-024-00839-6</dc:source>
-            <dc:date>2024-03-20</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00839-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00839-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00662-z">
-            <title><![CDATA[Whittling down the bacterial subspecies that might drive colon cancer]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00662-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 20 March 2024; <a href="https://www.nature.com/articles/d41586-024-00662-z">doi:10.1038/d41586-024-00662-z</a></p>Understanding the factors that drive formation of particular types of cancer can aid efforts to develop better diagnostics or treatments. The identification of a bacterial subspecies with a connection to colon cancer has clinical relevance.]]></content:encoded>
-            <dc:title><![CDATA[Whittling down the bacterial subspecies that might drive colon cancer]]></dc:title>
-            <dc:creator>Cynthia L. Sears</dc:creator><dc:creator>Jessica Queen</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00662-z</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-20; | doi:10.1038/d41586-024-00662-z</dc:source>
-            <dc:date>2024-03-20</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00662-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00662-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00865-4">
-            <title><![CDATA[Is AI ready to mass-produce lay summaries of research articles?]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00865-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 20 March 2024; <a href="https://www.nature.com/articles/d41586-024-00865-4">doi:10.1038/d41586-024-00865-4</a></p>A surge in tools that generate text is allowing research papers to be summarized for a broad audience, and in any language. But scientists caution that major challenges remain.]]></content:encoded>
-            <dc:title><![CDATA[Is AI ready to mass-produce lay summaries of research articles?]]></dc:title>
-            <dc:creator>Kamal  Nahas</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00865-4</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-20; | doi:10.1038/d41586-024-00865-4</dc:source>
-            <dc:date>2024-03-20</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00865-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00865-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00622-7">
-            <title><![CDATA[Complex motions emerge from robot interactions]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00622-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 20 March 2024; <a href="https://www.nature.com/articles/d41586-024-00622-7">doi:10.1038/d41586-024-00622-7</a></p>An array of robots has been set up so that pushes between them produce movements that do not conform to the usual laws of motion. Fascinating behaviour emerges from these interactions: wave phenomena known as solitons.]]></content:encoded>
-            <dc:title><![CDATA[Complex motions emerge from robot interactions]]></dc:title>
-            <dc:creator>Sebastian D. Huber</dc:creator><dc:creator>Kukka-Emilia Huhtinen</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00622-7</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-20; | doi:10.1038/d41586-024-00622-7</dc:source>
-            <dc:date>2024-03-20</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00622-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00622-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00853-8">
-            <title><![CDATA[First pig liver transplanted into a person lasts for 10 days]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00853-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 20 March 2024; <a href="https://www.nature.com/articles/d41586-024-00853-8">doi:10.1038/d41586-024-00853-8</a></p>Pig organs could provide temporary detox for people whose livers need time to recover or who are awaiting human donors.]]></content:encoded>
-            <dc:title><![CDATA[First pig liver transplanted into a person lasts for 10 days]]></dc:title>
-            <dc:creator>Smriti Mallapaty</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00853-8</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-20; | doi:10.1038/d41586-024-00853-8</dc:source>
-            <dc:date>2024-03-20</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00853-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00853-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00868-1">
-            <title><![CDATA[It’s final: the Anthropocene is not an epoch, despite protest over vote]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00868-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 20 March 2024; <a href="https://www.nature.com/articles/d41586-024-00868-1">doi:10.1038/d41586-024-00868-1</a></p>Governing body upholds earlier decision by geoscientists amid drama.]]></content:encoded>
-            <dc:title><![CDATA[It’s final: the Anthropocene is not an epoch, despite protest over vote]]></dc:title>
-            <dc:creator>Alexandra Witze</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00868-1</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-20; | doi:10.1038/d41586-024-00868-1</dc:source>
-            <dc:date>2024-03-20</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00868-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00868-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00823-0">
-            <title><![CDATA[China’s medical-device industry gets a makeover]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00823-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 20 March 2024; <a href="https://www.nature.com/articles/d41586-024-00823-0">doi:10.1038/d41586-024-00823-0</a></p>The country is keen to boost its production of medical technology to reduce its reliance on imports. Analysts discuss the impact of policies.]]></content:encoded>
-            <dc:title><![CDATA[China’s medical-device industry gets a makeover]]></dc:title>
-            <dc:creator>Sandy Ong</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00823-0</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-20; | doi:10.1038/d41586-024-00823-0</dc:source>
-            <dc:date>2024-03-20</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00823-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00823-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00677-6">
-            <title><![CDATA[Birds convey complex signals in simple songs]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00677-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 20 March 2024; <a href="https://www.nature.com/articles/d41586-024-00677-6">doi:10.1038/d41586-024-00677-6</a></p>The quality of a bird’s song during courtship can influence whether a male is selected as a mate. An innovative approach using machine learning offers a way to analyse the characteristics of birdsong.]]></content:encoded>
-            <dc:title><![CDATA[Birds convey complex signals in simple songs]]></dc:title>
-            <dc:creator>Kate T. Snyder</dc:creator><dc:creator>Nicole Creanza</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00677-6</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-20; | doi:10.1038/d41586-024-00677-6</dc:source>
-            <dc:date>2024-03-20</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00677-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00677-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00863-6">
-            <title><![CDATA[What Putin’s next term means for science]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00863-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 20 March 2024; <a href="https://www.nature.com/articles/d41586-024-00863-6">doi:10.1038/d41586-024-00863-6</a></p>Researchers in Russia expect growing isolation as Vladimir Putin embarks on six more years as president.]]></content:encoded>
-            <dc:title><![CDATA[What Putin’s next term means for science]]></dc:title>
-            <dc:creator>Olga Dobrovidova</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00863-6</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-20; | doi:10.1038/d41586-024-00863-6</dc:source>
-            <dc:date>2024-03-20</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00863-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00863-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07276-5">
-            <title><![CDATA[Long-term continuous ammonia electrosynthesis]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07276-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 19 March 2024; <a href="https://www.nature.com/articles/s41586-024-07276-5">doi:10.1038/s41586-024-07276-5</a></p>Long-term continuous ammonia electrosynthesis]]></content:encoded>
-            <dc:title><![CDATA[Long-term continuous ammonia electrosynthesis]]></dc:title>
-            <dc:creator>Shaofeng Li</dc:creator><dc:creator>Yuanyuan Zhou</dc:creator><dc:creator>Xianbiao Fu</dc:creator><dc:creator>Jakob B. Pedersen</dc:creator><dc:creator>Mattia Saccoccio</dc:creator><dc:creator>Suzanne Z. Andersen</dc:creator><dc:creator>Kasper Enemark-Rasmussen</dc:creator><dc:creator>Paul J. Kempen</dc:creator><dc:creator>Christian Danvad Damsgaard</dc:creator><dc:creator>Aoni Xu</dc:creator><dc:creator>Rokas Sažinas</dc:creator><dc:creator>Jon Bjarke Valbæk Mygind</dc:creator><dc:creator>Niklas H. Deissler</dc:creator><dc:creator>Jakob Kibsgaard</dc:creator><dc:creator>Peter C. K. Vesborg</dc:creator><dc:creator>Jens K. Nørskov</dc:creator><dc:creator>Ib Chorkendorff</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07276-5</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-19; | doi:10.1038/s41586-024-07276-5</dc:source>
-            <dc:date>2024-03-19</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07276-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07276-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00826-x">
-            <title><![CDATA[Language and cultural norms influence vaccine hesitancy]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00826-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 19 March 2024; <a href="https://www.nature.com/articles/d41586-024-00826-x">doi:10.1038/d41586-024-00826-x</a></p>Language and cultural norms influence vaccine hesitancy]]></content:encoded>
-            <dc:title><![CDATA[Language and cultural norms influence vaccine hesitancy]]></dc:title>
-            <dc:creator>Mian Jia</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00826-x</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-19; | doi:10.1038/d41586-024-00826-x</dc:source>
-            <dc:date>2024-03-19</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00826-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00826-x</prism:url>
         </item>
     
 </rdf:RDF>
