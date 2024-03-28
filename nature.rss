@@ -18,6 +18,8 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00950-8"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00922-y"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00842-x"/>
@@ -166,8 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00832-z"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00936-6"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,21 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00950-8">
+            <title><![CDATA[How a spreadsheet helped me to land my dream job]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00950-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 March 2024; <a href="https://www.nature.com/articles/d41586-024-00950-8">doi:10.1038/d41586-024-00950-8</a></p>A shared spreadsheet, passed from generation to generation, helps graduate students in management navigate the academic job market. Whatever your field of study, you can make one, too.]]></content:encoded>
+            <dc:title><![CDATA[How a spreadsheet helped me to land my dream job]]></dc:title>
+            <dc:creator>Silvia  Sanasi</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00950-8</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-28; | doi:10.1038/d41586-024-00950-8</dc:source>
+            <dc:date>2024-03-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00950-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00950-8</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00922-y">
             <title><![CDATA[Tweeting your research paper boosts engagement but not citations]]></title>
@@ -1285,21 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00832-z</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00832-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00936-6">
-            <title><![CDATA[Daily briefing: Pregnancy advances your ‘biological’ age’]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00936-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 25 March 2024; <a href="https://www.nature.com/articles/d41586-024-00936-6">doi:10.1038/d41586-024-00936-6</a></p>Being pregnant can increase a person’s ‘biological age’ by a couple of years — but giving birth reverses these changes. Plus, urban vegetable gardens have a shocking carbon footprint.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: Pregnancy advances your ‘biological’ age’]]></dc:title>
-            <dc:creator>Flora Graham</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00936-6</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-25; | doi:10.1038/d41586-024-00936-6</dc:source>
-            <dc:date>2024-03-25</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00936-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00936-6</prism:url>
         </item>
     
 </rdf:RDF>
