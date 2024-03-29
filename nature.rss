@@ -18,6 +18,8 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00902-2"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07341-z"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00943-7"/>
@@ -166,8 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00938-4"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00455-4"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,21 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00902-2">
+            <title><![CDATA[The great rewiring: is social media really behind an epidemic of teenage mental illness?]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00902-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 29 March 2024; <a href="https://www.nature.com/articles/d41586-024-00902-2">doi:10.1038/d41586-024-00902-2</a></p>The evidence is equivocal on whether screen time is to blame for rising levels of teen depression and anxiety — and rising hysteria could distract us from tackling the real causes.]]></content:encoded>
+            <dc:title><![CDATA[The great rewiring: is social media really behind an epidemic of teenage mental illness?]]></dc:title>
+            <dc:creator>Candice L. Odgers</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00902-2</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-29; | doi:10.1038/d41586-024-00902-2</dc:source>
+            <dc:date>2024-03-29</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00902-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00902-2</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07341-z">
             <title><![CDATA[Copper-catalyzed dehydrogenation or lactonization of C(sp<sup>3</sup>)−H bonds]]></title>
@@ -288,7 +303,7 @@
             <content:encoded>
                 <![CDATA[<p>Nature, Published online: 28 March 2024; <a href="https://www.nature.com/articles/d41586-024-00875-2">doi:10.1038/d41586-024-00875-2</a></p>Scientists compiling a review scan more than 1,000 papers and find troubling images in nearly 20%.]]></content:encoded>
             <dc:title><![CDATA[How papers with doctored images can affect scientific reviews ]]></dc:title>
-            
+            <dc:creator>Sumeet Kulkarni</dc:creator>
             <dc:identifier>doi:10.1038/d41586-024-00875-2</dc:identifier>
             <dc:source>Nature, Published online: 2024-03-28; | doi:10.1038/d41586-024-00875-2</dc:source>
             <dc:date>2024-03-28</dc:date>
@@ -1285,21 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00938-4</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00938-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00455-4">
-            <title><![CDATA[A delay that makes wireless communication faster]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00455-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 26 March 2024; <a href="https://www.nature.com/articles/d41586-024-00455-4">doi:10.1038/d41586-024-00455-4</a></p>Cutting-edge communication (6G and beyond) will rely on precise time control of large amounts of wirelessly transferred information. To achieve this precision, a ‘quasi-true time delay’ chip has been designed that packs as much time delay as possible into a tiny area using 3D waveguides whose length can be varied as required.]]></content:encoded>
-            <dc:title><![CDATA[A delay that makes wireless communication faster]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-00455-4</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-26; | doi:10.1038/d41586-024-00455-4</dc:source>
-            <dc:date>2024-03-26</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00455-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00455-4</prism:url>
         </item>
     
 </rdf:RDF>
