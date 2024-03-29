@@ -18,7 +18,21 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07341-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00943-7"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00950-8"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00941-9"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00960-6"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00414-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00957-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00875-2"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00922-y"/>
                 
@@ -79,6 +93,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07232-3"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07133-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00958-0"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00887-y"/>
                 
@@ -152,22 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00455-4"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00905-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00780-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00861-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00896-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00894-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00885-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00929-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00832-z"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,36 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07341-z">
+            <title><![CDATA[Copper-catalyzed dehydrogenation or lactonization of C(sp<sup>3</sup>)−H bonds]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07341-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 March 2024; <a href="https://www.nature.com/articles/s41586-024-07341-z">doi:10.1038/s41586-024-07341-z</a></p>Copper-catalyzed dehydrogenation or lactonization of C(sp<sup>3</sup>)−H bonds]]></content:encoded>
+            <dc:title><![CDATA[Copper-catalyzed dehydrogenation or lactonization of C(sp<sup>3</sup>)−H bonds]]></dc:title>
+            <dc:creator>Shupeng Zhou</dc:creator><dc:creator>Zi-Jun Zhang</dc:creator><dc:creator>Jin-Quan Yu</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07341-z</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-28; | doi:10.1038/s41586-024-07341-z</dc:source>
+            <dc:date>2024-03-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07341-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07341-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00943-7">
+            <title><![CDATA[Scientists made a six-legged mouse embryo — here’s why]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00943-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 March 2024; <a href="https://www.nature.com/articles/d41586-024-00943-7">doi:10.1038/d41586-024-00943-7</a></p>A rodent with two extra limbs instead of genitals shows the crucial role of a gene pathway in determining the fate of a primordial structure.]]></content:encoded>
+            <dc:title><![CDATA[Scientists made a six-legged mouse embryo — here’s why]]></dc:title>
+            <dc:creator>Sara Reardon</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00943-7</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-28; | doi:10.1038/d41586-024-00943-7</dc:source>
+            <dc:date>2024-03-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00943-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00943-7</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00950-8">
             <title><![CDATA[How a spreadsheet helped me to land my dream job]]></title>
@@ -190,6 +220,81 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00950-8</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00950-8</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00941-9">
+            <title><![CDATA[The corpse of an exploded star and more — March’s best science images]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00941-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 March 2024; <a href="https://www.nature.com/articles/d41586-024-00941-9">doi:10.1038/d41586-024-00941-9</a></p>The month’s sharpest science shots, selected by Nature’s photo team.]]></content:encoded>
+            <dc:title><![CDATA[The corpse of an exploded star and more — March’s best science images]]></dc:title>
+            <dc:creator>Emma Stoye</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00941-9</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-28; | doi:10.1038/d41586-024-00941-9</dc:source>
+            <dc:date>2024-03-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00941-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00941-9</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00960-6">
+            <title><![CDATA[Sam Bankman-Fried sentencing: crypto-funded researchers grapple with FTX collapse]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00960-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 March 2024; <a href="https://www.nature.com/articles/d41586-024-00960-6">doi:10.1038/d41586-024-00960-6</a></p>Organizations who received funds from FTX face pressure to return the money at significant operational cost.]]></content:encoded>
+            <dc:title><![CDATA[Sam Bankman-Fried sentencing: crypto-funded researchers grapple with FTX collapse]]></dc:title>
+            <dc:creator>Jonathan O&#x27;Callaghan</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00960-6</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-28; | doi:10.1038/d41586-024-00960-6</dc:source>
+            <dc:date>2024-03-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00960-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00960-6</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00414-z">
+            <title><![CDATA[This super-Earth is the first planet confirmed to have a permanent dark side]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00414-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 March 2024; <a href="https://www.nature.com/articles/d41586-024-00414-z">doi:10.1038/d41586-024-00414-z</a></p>Convincing evidence of 1:1 tidal locking has been absent until a new analysis of the exoplanet LHS 3855b.]]></content:encoded>
+            <dc:title><![CDATA[This super-Earth is the first planet confirmed to have a permanent dark side]]></dc:title>
+            <dc:creator>Joseph Howlett</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00414-z</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-28; | doi:10.1038/d41586-024-00414-z</dc:source>
+            <dc:date>2024-03-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00414-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00414-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00957-1">
+            <title><![CDATA[Overcoming low vision to prove my abilities under pressure]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00957-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 March 2024; <a href="https://www.nature.com/articles/d41586-024-00957-1">doi:10.1038/d41586-024-00957-1</a></p>A genetic eye condition pushed biochemist Kamini Govender to develop coping strategies that serve her well in the lab and help her to avoid burnout.]]></content:encoded>
+            <dc:title><![CDATA[Overcoming low vision to prove my abilities under pressure]]></dc:title>
+            <dc:creator>Lesley Evans Ogden</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00957-1</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-28; | doi:10.1038/d41586-024-00957-1</dc:source>
+            <dc:date>2024-03-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00957-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00957-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00875-2">
+            <title><![CDATA[How papers with doctored images can affect scientific reviews ]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00875-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 March 2024; <a href="https://www.nature.com/articles/d41586-024-00875-2">doi:10.1038/d41586-024-00875-2</a></p>Scientists compiling a review scan more than 1,000 papers and find troubling images in nearly 20%.]]></content:encoded>
+            <dc:title><![CDATA[How papers with doctored images can affect scientific reviews ]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-00875-2</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-28; | doi:10.1038/d41586-024-00875-2</dc:source>
+            <dc:date>2024-03-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00875-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00875-2</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00922-y">
@@ -640,6 +745,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/s41586-024-07133-5</prism:doi>
             <prism:url>https://www.nature.com/articles/s41586-024-07133-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00958-0">
+            <title><![CDATA[Daily briefing: Tweeting about your paper doesn’t boost citations]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00958-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 27 March 2024; <a href="https://www.nature.com/articles/d41586-024-00958-0">doi:10.1038/d41586-024-00958-0</a></p>Posting about a paper on X seems to boost engagement but not citations. Plus, researchers pinpoint humans’ first home outside Africa and what the science says about the Baltimore bridge collapse.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Tweeting about your paper doesn’t boost citations]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00958-0</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-27; | doi:10.1038/d41586-024-00958-0</dc:source>
+            <dc:date>2024-03-27</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00958-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00958-0</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00887-y">
@@ -1180,126 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00455-4</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00455-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00905-z">
-            <title><![CDATA[Estella Bergere Leopold (1927–2024), passionate environmentalist who traced changing ecosystems]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00905-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 26 March 2024; <a href="https://www.nature.com/articles/d41586-024-00905-z">doi:10.1038/d41586-024-00905-z</a></p>The trailblazing palaeobotanist investigated how climate change affected Earth in the past — and firmly believed science should be used in its defence now.]]></content:encoded>
-            <dc:title><![CDATA[Estella Bergere Leopold (1927–2024), passionate environmentalist who traced changing ecosystems]]></dc:title>
-            <dc:creator>Cathy  Whitlock</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00905-z</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-26; | doi:10.1038/d41586-024-00905-z</dc:source>
-            <dc:date>2024-03-26</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00905-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00905-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00780-8">
-            <title><![CDATA[How AI is improving climate forecasts]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00780-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 26 March 2024; <a href="https://www.nature.com/articles/d41586-024-00780-8">doi:10.1038/d41586-024-00780-8</a></p>Researchers are using various machine-learning strategies to speed up climate modelling, reduce its energy costs and hopefully improve accuracy.]]></content:encoded>
-            <dc:title><![CDATA[How AI is improving climate forecasts]]></dc:title>
-            <dc:creator>Carissa Wong</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00780-8</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-26; | doi:10.1038/d41586-024-00780-8</dc:source>
-            <dc:date>2024-03-26</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00780-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00780-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00861-8">
-            <title><![CDATA[A horse cemetery in London reveals medieval mounts’ distant origins]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00861-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 25 March 2024; <a href="https://www.nature.com/articles/d41586-024-00861-8">doi:10.1038/d41586-024-00861-8</a></p>Horses buried near the royal complex of Westminster in the fifteenth and sixteenth centuries had been imported from as far away as Scandinavia.]]></content:encoded>
-            <dc:title><![CDATA[A horse cemetery in London reveals medieval mounts’ distant origins]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-00861-8</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-25; | doi:10.1038/d41586-024-00861-8</dc:source>
-            <dc:date>2024-03-25</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00861-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00861-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00896-x">
-            <title><![CDATA[I peer into volcanoes to see when they’ll blow]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00896-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 25 March 2024; <a href="https://www.nature.com/articles/d41586-024-00896-x">doi:10.1038/d41586-024-00896-x</a></p>Mariton Antonia Bornas runs a Filipino volcano research and response organization.]]></content:encoded>
-            <dc:title><![CDATA[I peer into volcanoes to see when they’ll blow]]></dc:title>
-            <dc:creator>Margaret  Simons</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00896-x</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-25; | doi:10.1038/d41586-024-00896-x</dc:source>
-            <dc:date>2024-03-25</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00896-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00896-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00894-z">
-            <title><![CDATA[How did the Big Bang get its name? Here’s the real story]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00894-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 25 March 2024; <a href="https://www.nature.com/articles/d41586-024-00894-z">doi:10.1038/d41586-024-00894-z</a></p>Astronomer Fred Hoyle supposedly coined the catchy term to ridicule the theory of the Universe’s origins — 75 years on, it’s time to set the record straight.]]></content:encoded>
-            <dc:title><![CDATA[How did the Big Bang get its name? Here’s the real story]]></dc:title>
-            <dc:creator>Helge Kragh</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00894-z</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-25; | doi:10.1038/d41586-024-00894-z</dc:source>
-            <dc:date>2024-03-25</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00894-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00894-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00885-0">
-            <title><![CDATA[‘Hopeless, burnt out, sad’: how political change is impacting female researchers in Latin America]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00885-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 25 March 2024; <a href="https://www.nature.com/articles/d41586-024-00885-0">doi:10.1038/d41586-024-00885-0</a></p>Already feeling invisible and unappreciated, the election of far-right administrations in Argentina and elsewhere are unsettling for women in science.]]></content:encoded>
-            <dc:title><![CDATA[‘Hopeless, burnt out, sad’: how political change is impacting female researchers in Latin America]]></dc:title>
-            <dc:creator>Julie Gould</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00885-0</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-25; | doi:10.1038/d41586-024-00885-0</dc:source>
-            <dc:date>2024-03-25</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00885-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00885-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00929-5">
-            <title><![CDATA[Larger or longer grants unlikely to push senior scientists towards high-risk, high-reward work]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00929-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 25 March 2024; <a href="https://www.nature.com/articles/d41586-024-00929-5">doi:10.1038/d41586-024-00929-5</a></p>A survey of US professors suggests that broad changes to grant schemes might be needed to incentivize new approaches to research.]]></content:encoded>
-            <dc:title><![CDATA[Larger or longer grants unlikely to push senior scientists towards high-risk, high-reward work]]></dc:title>
-            <dc:creator>Dalmeet Singh Chawla</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00929-5</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-25; | doi:10.1038/d41586-024-00929-5</dc:source>
-            <dc:date>2024-03-25</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00929-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00929-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00832-z">
-            <title><![CDATA[Weird new electron behaviour in stacked graphene thrills physicists]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00832-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 25 March 2024; <a href="https://www.nature.com/articles/d41586-024-00832-z">doi:10.1038/d41586-024-00832-z</a></p>This 2D material is only the second to exhibit the fractional quantum anomalous Hall effect, and theorists are still debating how it works.]]></content:encoded>
-            <dc:title><![CDATA[Weird new electron behaviour in stacked graphene thrills physicists]]></dc:title>
-            <dc:creator>Dan Garisto</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00832-z</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-25; | doi:10.1038/d41586-024-00832-z</dc:source>
-            <dc:date>2024-03-25</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00832-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00832-z</prism:url>
         </item>
     
 </rdf:RDF>
