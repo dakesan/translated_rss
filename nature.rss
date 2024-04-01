@@ -18,6 +18,10 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00906-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00907-x"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00902-2"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07341-z"/>
@@ -164,10 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00895-y"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00893-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00938-4"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,36 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00906-y">
+            <title><![CDATA[How scientists are making the most of Reddit]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00906-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 01 April 2024; <a href="https://www.nature.com/articles/d41586-024-00906-y">doi:10.1038/d41586-024-00906-y</a></p>As X wanes, researchers are turning to Reddit for insights and data, and to better connect with the public.]]></content:encoded>
+            <dc:title><![CDATA[How scientists are making the most of Reddit]]></dc:title>
+            <dc:creator>Hannah Docter-Loeb</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00906-y</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-01; | doi:10.1038/d41586-024-00906-y</dc:source>
+            <dc:date>2024-04-01</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00906-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00906-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00907-x">
+            <title><![CDATA[How synthetic biologists are building better biofactories]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00907-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 01 April 2024; <a href="https://www.nature.com/articles/d41586-024-00907-x">doi:10.1038/d41586-024-00907-x</a></p>Artificial electron donors and acceptors expand researchers’ metabolic engineering options — if only cells would cooperate.]]></content:encoded>
+            <dc:title><![CDATA[How synthetic biologists are building better biofactories]]></dc:title>
+            <dc:creator>Sara Reardon</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00907-x</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-01; | doi:10.1038/d41586-024-00907-x</dc:source>
+            <dc:date>2024-04-01</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00907-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00907-x</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00902-2">
             <title><![CDATA[The great rewiring: is social media really behind an epidemic of teenage mental illness?]]></title>
@@ -1270,36 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00895-y</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00895-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00893-0">
-            <title><![CDATA[The ‘Mother Tree’ idea is everywhere — but how much of it is real?]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00893-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 26 March 2024; <a href="https://www.nature.com/articles/d41586-024-00893-0">doi:10.1038/d41586-024-00893-0</a></p>A popular theory about how trees cooperate has enchanted the public and raised the profile of forest conservation. But some ecologists think its scientific basis has been oversold.]]></content:encoded>
-            <dc:title><![CDATA[The ‘Mother Tree’ idea is everywhere — but how much of it is real?]]></dc:title>
-            <dc:creator>Aisling Irwin</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00893-0</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-26; | doi:10.1038/d41586-024-00893-0</dc:source>
-            <dc:date>2024-03-26</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00893-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00893-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00938-4">
-            <title><![CDATA[Abortion-pill challenge provokes doubt from US Supreme Court]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00938-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 26 March 2024; <a href="https://www.nature.com/articles/d41586-024-00938-4">doi:10.1038/d41586-024-00938-4</a></p>Lawsuit could roll back access to mifepristone, a drug widely used to induce abortion in the United States.]]></content:encoded>
-            <dc:title><![CDATA[Abortion-pill challenge provokes doubt from US Supreme Court]]></dc:title>
-            <dc:creator>Mariana Lenharo</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00938-4</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-26; | doi:10.1038/d41586-024-00938-4</dc:source>
-            <dc:date>2024-03-26</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00938-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00938-4</prism:url>
         </item>
     
 </rdf:RDF>
