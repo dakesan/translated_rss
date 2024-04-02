@@ -18,6 +18,12 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07323-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00968-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00908-w"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00906-y"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00907-x"/>
@@ -162,12 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00890-3"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00928-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00947-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00895-y"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,51 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07323-1">
+            <title><![CDATA[Complexity of avian evolution revealed by family-level genomes]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07323-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 01 April 2024; <a href="https://www.nature.com/articles/s41586-024-07323-1">doi:10.1038/s41586-024-07323-1</a></p>Complexity of avian evolution revealed by family-level genomes]]></content:encoded>
+            <dc:title><![CDATA[Complexity of avian evolution revealed by family-level genomes]]></dc:title>
+            <dc:creator>Josefin Stiller</dc:creator><dc:creator>Shaohong Feng</dc:creator><dc:creator>Al-Aabid Chowdhury</dc:creator><dc:creator>Iker Rivas-González</dc:creator><dc:creator>David A. Duchêne</dc:creator><dc:creator>Qi Fang</dc:creator><dc:creator>Yuan Deng</dc:creator><dc:creator>Alexey Kozlov</dc:creator><dc:creator>Alexandros Stamatakis</dc:creator><dc:creator>Santiago Claramunt</dc:creator><dc:creator>Jacqueline M. T. Nguyen</dc:creator><dc:creator>Simon Y. W. Ho</dc:creator><dc:creator>Brant C. Faircloth</dc:creator><dc:creator>Julia Haag</dc:creator><dc:creator>Peter Houde</dc:creator><dc:creator>Joel Cracraft</dc:creator><dc:creator>Metin Balaban</dc:creator><dc:creator>Uyen Mai</dc:creator><dc:creator>Guangji Chen</dc:creator><dc:creator>Rongsheng Gao</dc:creator><dc:creator>Chengran Zhou</dc:creator><dc:creator>Yulong Xie</dc:creator><dc:creator>Zijian Huang</dc:creator><dc:creator>Zhen Cao</dc:creator><dc:creator>Zhi Yan</dc:creator><dc:creator>Huw A. Ogilvie</dc:creator><dc:creator>Luay Nakhleh</dc:creator><dc:creator>Bent Lindow</dc:creator><dc:creator>Benoit Morel</dc:creator><dc:creator>Jon Fjeldså</dc:creator><dc:creator>Peter A. Hosner</dc:creator><dc:creator>Rute R. da Fonseca</dc:creator><dc:creator>Bent Petersen</dc:creator><dc:creator>Joseph A. Tobias</dc:creator><dc:creator>Tamás Székely</dc:creator><dc:creator>Jonathan David Kennedy</dc:creator><dc:creator>Andrew Hart Reeve</dc:creator><dc:creator>Andras Liker</dc:creator><dc:creator>Martin Stervander</dc:creator><dc:creator>Agostinho Antunes</dc:creator><dc:creator>Dieter Thomas Tietze</dc:creator><dc:creator>Mads Bertelsen</dc:creator><dc:creator>Fumin Lei</dc:creator><dc:creator>Carsten Rahbek</dc:creator><dc:creator>Gary R. Graves</dc:creator><dc:creator>Mikkel H. Schierup</dc:creator><dc:creator>Tandy Warnow</dc:creator><dc:creator>Edward L. Braun</dc:creator><dc:creator>M. Thomas P. Gilbert</dc:creator><dc:creator>Erich D. Jarvis</dc:creator><dc:creator>Siavash Mirarab</dc:creator><dc:creator>Guojie Zhang</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07323-1</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-01; | doi:10.1038/s41586-024-07323-1</dc:source>
+            <dc:date>2024-04-01</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07323-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07323-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00968-y">
+            <title><![CDATA[Green space near home has an antidepressant effect]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00968-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 01 April 2024; <a href="https://www.nature.com/articles/d41586-024-00968-y">doi:10.1038/d41586-024-00968-y</a></p>People who had the most vegetation near their residences were the least likely to report depression and anxiety.]]></content:encoded>
+            <dc:title><![CDATA[Green space near home has an antidepressant effect]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-00968-y</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-01; | doi:10.1038/d41586-024-00968-y</dc:source>
+            <dc:date>2024-04-01</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00968-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00968-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00908-w">
+            <title><![CDATA[How I use tide gauges to develop geospatial maps]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00908-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 01 April 2024; <a href="https://www.nature.com/articles/d41586-024-00908-w">doi:10.1038/d41586-024-00908-w</a></p>Geographer Muh Aris Marfai collects reference data for Indonesia’s coastal areas to prepare for the impacts of climate change.]]></content:encoded>
+            <dc:title><![CDATA[How I use tide gauges to develop geospatial maps]]></dc:title>
+            <dc:creator>Nikki Forrester</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00908-w</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-01; | doi:10.1038/d41586-024-00908-w</dc:source>
+            <dc:date>2024-04-01</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00908-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00908-w</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00906-y">
             <title><![CDATA[How scientists are making the most of Reddit]]></title>
@@ -1255,51 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00890-3</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00890-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00928-6">
-            <title><![CDATA[The beauty of what science can do when urgently needed]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00928-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 26 March 2024; <a href="https://www.nature.com/articles/d41586-024-00928-6">doi:10.1038/d41586-024-00928-6</a></p>Working amid New York City’s pandemic response inspired Nili Ostrov’s approach to expanding the list of organisms that can be used in synthetic biology and engineering.]]></content:encoded>
-            <dc:title><![CDATA[The beauty of what science can do when urgently needed]]></dc:title>
-            <dc:creator>Katherine Bourzac</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00928-6</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-26; | doi:10.1038/d41586-024-00928-6</dc:source>
-            <dc:date>2024-03-26</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00928-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00928-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00947-3">
-            <title><![CDATA[AI &amp; robotics briefing: Can AI’s bias problem be fixed?]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00947-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 26 March 2024; <a href="https://www.nature.com/articles/d41586-024-00947-3">doi:10.1038/d41586-024-00947-3</a></p>Researchers argue for more transparency to remove the biases that plague image generators. Plus, Nvidia’s new ‘superchip’ promises AI performance and Google AI could soon use a person’s cough to diagnose disease.]]></content:encoded>
-            <dc:title><![CDATA[AI &amp; robotics briefing: Can AI’s bias problem be fixed?]]></dc:title>
-            <dc:creator>Katrina Krämer</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00947-3</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-26; | doi:10.1038/d41586-024-00947-3</dc:source>
-            <dc:date>2024-03-26</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00947-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00947-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00895-y">
-            <title><![CDATA[How a tree-hugging protest transformed Indian environmentalism]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00895-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 26 March 2024; <a href="https://www.nature.com/articles/d41586-024-00895-y">doi:10.1038/d41586-024-00895-y</a></p>Fifty years ago, a group of women from the villages of the Western Himalayas sparked Chipko, a green movement that remains relevant in the age of climate change.]]></content:encoded>
-            <dc:title><![CDATA[How a tree-hugging protest transformed Indian environmentalism]]></dc:title>
-            <dc:creator>Seema Mundoli</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00895-y</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-26; | doi:10.1038/d41586-024-00895-y</dc:source>
-            <dc:date>2024-03-26</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00895-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00895-y</prism:url>
         </item>
     
 </rdf:RDF>
