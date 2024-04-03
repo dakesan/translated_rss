@@ -18,7 +18,13 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07344-w"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00972-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00977-x"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00918-8"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00970-4"/>
                 
@@ -28,9 +34,21 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00901-3"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00899-8"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00953-5"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00904-0"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00975-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00980-2"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00903-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00955-3"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00830-1"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07323-1"/>
                 
@@ -150,24 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00679-4"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00841-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00681-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00952-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00891-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00851-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00915-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00684-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00859-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00916-w"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,21 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07344-w">
+            <title><![CDATA[Author Correction: SARS-CoV-2 neutralizing antibody structures inform therapeutic strategies]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07344-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 02 April 2024; <a href="https://www.nature.com/articles/s41586-024-07344-w">doi:10.1038/s41586-024-07344-w</a></p>Author Correction: SARS-CoV-2 neutralizing antibody structures inform therapeutic strategies]]></content:encoded>
+            <dc:title><![CDATA[Author Correction: SARS-CoV-2 neutralizing antibody structures inform therapeutic strategies]]></dc:title>
+            <dc:creator>Christopher O. Barnes</dc:creator><dc:creator>Claudia A. Jette</dc:creator><dc:creator>Morgan E. Abernathy</dc:creator><dc:creator>Kim-Marie A. Dam</dc:creator><dc:creator>Shannon R. Esswein</dc:creator><dc:creator>Harry B. Gristick</dc:creator><dc:creator>Andrey G. Malyutin</dc:creator><dc:creator>Naima G. Sharaf</dc:creator><dc:creator>Kathryn E. Huey-Tubman</dc:creator><dc:creator>Yu E. Lee</dc:creator><dc:creator>Davide F. Robbiani</dc:creator><dc:creator>Michel C. Nussenzweig</dc:creator><dc:creator>Anthony P. West Jr</dc:creator><dc:creator>Pamela J. Bjorkman</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07344-w</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-02; | doi:10.1038/s41586-024-07344-w</dc:source>
+            <dc:date>2024-04-02</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07344-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07344-w</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00972-2">
             <title><![CDATA[Don’t dismiss carbon credits that aim to avoid future emissions]]></title>
@@ -190,6 +205,36 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00972-2</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00972-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00977-x">
+            <title><![CDATA[Right- or left-handed? Protein in embryo cells might help decide]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00977-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 02 April 2024; <a href="https://www.nature.com/articles/d41586-024-00977-x">doi:10.1038/d41586-024-00977-x</a></p>Gene that codes for structural protein could determine the dominant side of the human brain.]]></content:encoded>
+            <dc:title><![CDATA[Right- or left-handed? Protein in embryo cells might help decide]]></dc:title>
+            <dc:creator>Sumeet Kulkarni</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00977-x</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-02; | doi:10.1038/d41586-024-00977-x</dc:source>
+            <dc:date>2024-04-02</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00977-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00977-x</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00918-8">
+            <title><![CDATA[Why hand-operated front brakes were set to be the future of motoring]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00918-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 02 April 2024; <a href="https://www.nature.com/articles/d41586-024-00918-8">doi:10.1038/d41586-024-00918-8</a></p>The complexity of fitting brakes to all four wheels of a car and the simplicity of John Maynard Smith’s ecological models, in the weekly dip into Nature’s archive.]]></content:encoded>
+            <dc:title><![CDATA[Why hand-operated front brakes were set to be the future of motoring]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-00918-8</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-02; | doi:10.1038/d41586-024-00918-8</dc:source>
+            <dc:date>2024-04-02</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00918-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00918-8</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00970-4">
@@ -252,6 +297,36 @@
             <prism:url>https://www.nature.com/articles/d41586-024-00901-3</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00899-8">
+            <title><![CDATA[Research assessments are still not fit for purpose — here’s how to change things]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00899-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 02 April 2024; <a href="https://www.nature.com/articles/d41586-024-00899-8">doi:10.1038/d41586-024-00899-8</a></p>A move away from narrow assessment metrics such as high-impact publications is welcome, but a lack of planning and consultation mean the replacements are often no better.]]></content:encoded>
+            <dc:title><![CDATA[Research assessments are still not fit for purpose — here’s how to change things]]></dc:title>
+            <dc:creator>Kelly Cobey</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00899-8</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-02; | doi:10.1038/d41586-024-00899-8</dc:source>
+            <dc:date>2024-04-02</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00899-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00899-8</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00953-5">
+            <title><![CDATA[‘Maybe I was never meant to be in science’: how imposter syndrome seizes scientist mothers]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00953-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 02 April 2024; <a href="https://www.nature.com/articles/d41586-024-00953-5">doi:10.1038/d41586-024-00953-5</a></p>Brazilian biologist Fernanda Staniscuaski saw career opportunities diminish after returning from parental leave, prompting her to take action.]]></content:encoded>
+            <dc:title><![CDATA[‘Maybe I was never meant to be in science’: how imposter syndrome seizes scientist mothers]]></dc:title>
+            <dc:creator>Julie Gould</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00953-5</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-02; | doi:10.1038/d41586-024-00953-5</dc:source>
+            <dc:date>2024-04-02</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00953-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00953-5</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-024-00904-0">
             <title><![CDATA[A 2023 hurricane caught Mexico off guard: we must work together to prepare better]]></title>
             <link>https://www.nature.com/articles/d41586-024-00904-0</link>
@@ -267,6 +342,36 @@
             <prism:url>https://www.nature.com/articles/d41586-024-00904-0</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00975-z">
+            <title><![CDATA[‘Mini liver’ will grow in person’s own lymph node in bold new trial]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00975-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 02 April 2024; <a href="https://www.nature.com/articles/d41586-024-00975-z">doi:10.1038/d41586-024-00975-z</a></p>Biotechnology firm LyGenesis has injected donor cells into a person with liver failure for the first time.]]></content:encoded>
+            <dc:title><![CDATA[‘Mini liver’ will grow in person’s own lymph node in bold new trial]]></dc:title>
+            <dc:creator>Max Kozlov</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00975-z</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-02; | doi:10.1038/d41586-024-00975-z</dc:source>
+            <dc:date>2024-04-02</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00975-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00975-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00980-2">
+            <title><![CDATA[Africa’s postdoc workforce is on the rise — but at what cost?]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00980-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 02 April 2024; <a href="https://www.nature.com/articles/d41586-024-00980-2">doi:10.1038/d41586-024-00980-2</a></p>Will a growth in postdoctoral positions across Africa cause bottlenecks, replicating the career-progression challenges faced by scientists elsewhere?]]></content:encoded>
+            <dc:title><![CDATA[Africa’s postdoc workforce is on the rise — but at what cost?]]></dc:title>
+            <dc:creator>Linda Nordling</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00980-2</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-02; | doi:10.1038/d41586-024-00980-2</dc:source>
+            <dc:date>2024-04-02</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00980-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00980-2</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-024-00903-1">
             <title><![CDATA[Cosmologist Claudia de Rham on falling for gravity]]></title>
             <link>https://www.nature.com/articles/d41586-024-00903-1</link>
@@ -280,6 +385,36 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00903-1</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00903-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00955-3">
+            <title><![CDATA[Gut bacteria break down cholesterol — hinting at probiotic treatments]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00955-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 02 April 2024; <a href="https://www.nature.com/articles/d41586-024-00955-3">doi:10.1038/d41586-024-00955-3</a></p>Species in the human microbiome have enzymes that can metabolize a potentially dangerous lipid.]]></content:encoded>
+            <dc:title><![CDATA[Gut bacteria break down cholesterol — hinting at probiotic treatments]]></dc:title>
+            <dc:creator>Julian  Nowogrodzki</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00955-3</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-02; | doi:10.1038/d41586-024-00955-3</dc:source>
+            <dc:date>2024-04-02</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00955-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00955-3</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00830-1">
+            <title><![CDATA[Is IVF at risk in the US? Scientists fear for the fertility treatment’s future]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00830-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 02 April 2024; <a href="https://www.nature.com/articles/d41586-024-00830-1">doi:10.1038/d41586-024-00830-1</a></p>An Alabama court ruling that human embryos outside the uterus should be regarded as children has raised concerns among doctors and scientists.]]></content:encoded>
+            <dc:title><![CDATA[Is IVF at risk in the US? Scientists fear for the fertility treatment’s future]]></dc:title>
+            <dc:creator>Mariana Lenharo</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00830-1</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-02; | doi:10.1038/d41586-024-00830-1</dc:source>
+            <dc:date>2024-04-02</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00830-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00830-1</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07323-1">
@@ -1165,141 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00679-4</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00679-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00841-y">
-            <title><![CDATA[How does a cancer vaccine work?]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00841-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 27 March 2024; <a href="https://www.nature.com/articles/d41586-024-00841-y">doi:10.1038/d41586-024-00841-y</a></p>After decades of slow progress, therapeutic vaccines that direct the immune system to attack tumours could soon become a fixture of cancer treatment.]]></content:encoded>
-            <dc:title><![CDATA[How does a cancer vaccine work?]]></dc:title>
-            <dc:creator>Liam Drew</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00841-y</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-27; | doi:10.1038/d41586-024-00841-y</dc:source>
-            <dc:date>2024-03-27</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00841-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00841-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00681-w">
-            <title><![CDATA[Climate change predicted to exacerbate declines in bee populations]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00681-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 27 March 2024; <a href="https://www.nature.com/articles/d41586-024-00681-w">doi:10.1038/d41586-024-00681-w</a></p>What effects will climate change have on insect communities? Analyses of data collected over decades robustly document consequences specific to bee populations, and this evidence might aid future conservation efforts.]]></content:encoded>
-            <dc:title><![CDATA[Climate change predicted to exacerbate declines in bee populations]]></dc:title>
-            <dc:creator>Nicole E. Miller-Struttmann</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00681-w</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-27; | doi:10.1038/d41586-024-00681-w</dc:source>
-            <dc:date>2024-03-27</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00681-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00681-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00952-6">
-            <title><![CDATA[How climate change is affecting global timekeeping]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00952-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 27 March 2024; <a href="https://www.nature.com/articles/d41586-024-00952-6">doi:10.1038/d41586-024-00952-6</a></p>Melting polar ice could delay major time adjustment, and the strange connection between brain inflammation and memory.]]></content:encoded>
-            <dc:title><![CDATA[How climate change is affecting global timekeeping]]></dc:title>
-            <dc:creator>Elizabeth Gibney</dc:creator><dc:creator>Nick Petrić Howe</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00952-6</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-27; | doi:10.1038/d41586-024-00952-6</dc:source>
-            <dc:date>2024-03-27</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00952-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00952-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00891-2">
-            <title><![CDATA[<i>Nature</i> is committed to diversifying its journalistic sources]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00891-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 27 March 2024; <a href="https://www.nature.com/articles/d41586-024-00891-2">doi:10.1038/d41586-024-00891-2</a></p>The latest data are in on the diversity of people interviewed for the journal’s News, Features and Careers articles, and audio and video content.]]></content:encoded>
-            <dc:title><![CDATA[<i>Nature</i> is committed to diversifying its journalistic sources]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-00891-2</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-27; | doi:10.1038/d41586-024-00891-2</dc:source>
-            <dc:date>2024-03-27</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00891-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00891-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00851-w">
-            <title><![CDATA[The race to uncover fission factors for lysosomal organelles heats up]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00851-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 27 March 2024; <a href="https://www.nature.com/articles/d41586-024-00851-w">doi:10.1038/d41586-024-00851-w</a></p>Organelles called lysosomes fuse with cargo-carrying vesicles and degrade the cargo molecules. How lysosomes maintain their size despite constant vesicle fusion was unclear, but now factors that aid organelle fission have been found.]]></content:encoded>
-            <dc:title><![CDATA[The race to uncover fission factors for lysosomal organelles heats up]]></dc:title>
-            <dc:creator>Shilpa Gopan</dc:creator><dc:creator>Thomas J. Pucadyil</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00851-w</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-27; | doi:10.1038/d41586-024-00851-w</dc:source>
-            <dc:date>2024-03-27</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00851-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00851-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00915-x">
-            <title><![CDATA[Superconductivity case shows the need for zero tolerance of toxic lab culture]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00915-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 26 March 2024; <a href="https://www.nature.com/articles/d41586-024-00915-x">doi:10.1038/d41586-024-00915-x</a></p>Superconductivity case shows the need for zero tolerance of toxic lab culture]]></content:encoded>
-            <dc:title><![CDATA[Superconductivity case shows the need for zero tolerance of toxic lab culture]]></dc:title>
-            <dc:creator>Juan Pablo Fuenzalida Werner</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00915-x</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-26; | doi:10.1038/d41586-024-00915-x</dc:source>
-            <dc:date>2024-03-26</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00915-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00915-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00684-7">
-            <title><![CDATA[How Sydney Harbour Bridge was shaping up 100 years ago]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00684-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 26 March 2024; <a href="https://www.nature.com/articles/d41586-024-00684-7">doi:10.1038/d41586-024-00684-7</a></p>Plans for Sydney’s iconic landmark become concrete, plus a ‘Michelin Guide’ to superconductive tunnelling, in the weekly dip into Nature’s archive.]]></content:encoded>
-            <dc:title><![CDATA[How Sydney Harbour Bridge was shaping up 100 years ago]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-00684-7</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-26; | doi:10.1038/d41586-024-00684-7</dc:source>
-            <dc:date>2024-03-26</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00684-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00684-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00859-2">
-            <title><![CDATA[These levitating bubbles are long-lived and puncture-proof]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00859-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 26 March 2024; <a href="https://www.nature.com/articles/d41586-024-00859-2">doi:10.1038/d41586-024-00859-2</a></p>Soap bubbles bombarded with ultrasonic waves rise into mid-air and can survive being stabbed with a needle.]]></content:encoded>
-            <dc:title><![CDATA[These levitating bubbles are long-lived and puncture-proof]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-00859-2</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-26; | doi:10.1038/d41586-024-00859-2</dc:source>
-            <dc:date>2024-03-26</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00859-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00859-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00916-w">
-            <title><![CDATA[Cuts to postgraduate funding threaten Brazilian science — again]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00916-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 26 March 2024; <a href="https://www.nature.com/articles/d41586-024-00916-w">doi:10.1038/d41586-024-00916-w</a></p>Cuts to postgraduate funding threaten Brazilian science — again]]></content:encoded>
-            <dc:title><![CDATA[Cuts to postgraduate funding threaten Brazilian science — again]]></dc:title>
-            <dc:creator>Marcus F. Oliveira</dc:creator><dc:creator>Adriane R. Todeschini</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00916-w</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-26; | doi:10.1038/d41586-024-00916-w</dc:source>
-            <dc:date>2024-03-26</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00916-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00916-w</prism:url>
         </item>
     
 </rdf:RDF>
