@@ -18,6 +18,10 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00900-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00962-4"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07344-w"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00972-2"/>
@@ -67,6 +71,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00943-7"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00950-8"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00979-9"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00941-9"/>
                 
@@ -162,12 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00051-6"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00930-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00850-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00679-4"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,36 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00900-4">
+            <title><![CDATA[Why loneliness is bad for your health]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00900-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 03 April 2024; <a href="https://www.nature.com/articles/d41586-024-00900-4">doi:10.1038/d41586-024-00900-4</a></p>A lack of social interaction is linked to a higher risk of cardiovascular disease, dementia and more. Researchers are unpicking how the brain mediates these effects.]]></content:encoded>
+            <dc:title><![CDATA[Why loneliness is bad for your health]]></dc:title>
+            <dc:creator>Saima May Sidik</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00900-4</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-03; | doi:10.1038/d41586-024-00900-4</dc:source>
+            <dc:date>2024-04-03</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00900-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00900-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00962-4">
+            <title><![CDATA[The EU’s ominous emphasis on ‘open strategic autonomy’ in research]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00962-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 03 April 2024; <a href="https://www.nature.com/articles/d41586-024-00962-4">doi:10.1038/d41586-024-00962-4</a></p>A reboot of the flagship Horizon Europe fund risks prioritizing a mindset geared towards security over open, future-facing research collaboration.]]></content:encoded>
+            <dc:title><![CDATA[The EU’s ominous emphasis on ‘open strategic autonomy’ in research]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-00962-4</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-03; | doi:10.1038/d41586-024-00962-4</dc:source>
+            <dc:date>2024-04-03</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00962-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00962-4</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07344-w">
             <title><![CDATA[Author Correction: SARS-CoV-2 neutralizing antibody structures inform therapeutic strategies]]></title>
@@ -550,6 +580,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00950-8</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00950-8</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00979-9">
+            <title><![CDATA[Daily briefing: Climate change is slowing Earth’s rotation]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00979-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 March 2024; <a href="https://www.nature.com/articles/d41586-024-00979-9">doi:10.1038/d41586-024-00979-9</a></p>Melting ice caps are slowing the rotation of the Earth and could delay the next leap second by three years. Plus, why journal editors are resigning en masse and how to make an old immune system young again.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Climate change is slowing Earth’s rotation]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00979-9</dc:identifier>
+            <dc:source>Nature, Published online: 2024-03-28; | doi:10.1038/d41586-024-00979-9</dc:source>
+            <dc:date>2024-03-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00979-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00979-9</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00941-9">
@@ -1255,51 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00051-6</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00051-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00930-y">
-            <title><![CDATA[Memories are made by breaking DNA — and fixing it]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00930-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 27 March 2024; <a href="https://www.nature.com/articles/d41586-024-00930-y">doi:10.1038/d41586-024-00930-y</a></p>Nerve cells form long-term memories with the help of an inflammatory response, study in mice finds.]]></content:encoded>
-            <dc:title><![CDATA[Memories are made by breaking DNA — and fixing it]]></dc:title>
-            <dc:creator>Max Kozlov</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00930-y</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-27; | doi:10.1038/d41586-024-00930-y</dc:source>
-            <dc:date>2024-03-27</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00930-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00930-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00850-x">
-            <title><![CDATA[Melting ice solves leap-second problem — for now]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00850-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 27 March 2024; <a href="https://www.nature.com/articles/d41586-024-00850-x">doi:10.1038/d41586-024-00850-x</a></p>Humans’ effect on the polar ice sheets is slowing Earth’s rotation, posing challenges for its alignment with the official time standard. Two researchers discuss the science behind the slowdown and the impact it has on timekeeping.]]></content:encoded>
-            <dc:title><![CDATA[Melting ice solves leap-second problem — for now]]></dc:title>
-            <dc:creator>Patrizia Tavella</dc:creator><dc:creator>Jerry X. Mitrovica</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00850-x</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-27; | doi:10.1038/d41586-024-00850-x</dc:source>
-            <dc:date>2024-03-27</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00850-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00850-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00679-4">
-            <title><![CDATA[Innate immunity in neurons makes memories persist]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00679-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 27 March 2024; <a href="https://www.nature.com/articles/d41586-024-00679-4">doi:10.1038/d41586-024-00679-4</a></p>A population of neurons that engages mechanisms of the innate immune system during memory formation has been uncovered in mice. Surprisingly, inflammatory signalling might pave the way for long-term memory.]]></content:encoded>
-            <dc:title><![CDATA[Innate immunity in neurons makes memories persist]]></dc:title>
-            <dc:creator>Benjamin A. Kelvington</dc:creator><dc:creator>Ted Abel</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00679-4</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-27; | doi:10.1038/d41586-024-00679-4</dc:source>
-            <dc:date>2024-03-27</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00679-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00679-4</prism:url>
         </item>
     
 </rdf:RDF>
