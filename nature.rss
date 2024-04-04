@@ -18,6 +18,8 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00989-7"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00990-0"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07235-0"/>
@@ -166,8 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07238-x"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07240-3"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,21 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00989-7">
+            <title><![CDATA[Tropical-forest destruction has slowed — but is still too high]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00989-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 04 April 2024; <a href="https://www.nature.com/articles/d41586-024-00989-7">doi:10.1038/d41586-024-00989-7</a></p>Ten football pitches’ worth of forest were lost per minute in 2023, suggesting that countries are not doing enough to halt deforestation.]]></content:encoded>
+            <dc:title><![CDATA[Tropical-forest destruction has slowed — but is still too high]]></dc:title>
+            <dc:creator>Carissa Wong</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00989-7</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-04; | doi:10.1038/d41586-024-00989-7</dc:source>
+            <dc:date>2024-04-04</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00989-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00989-7</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00990-0">
             <title><![CDATA[Pregnancy’s effect on ‘biological’ age, polite birds, and the carbon cost of home-grown veg]]></title>
@@ -1285,21 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/s41586-024-07238-x</prism:doi>
             <prism:url>https://www.nature.com/articles/s41586-024-07238-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07240-3">
-            <title><![CDATA[Structural basis of exoribonuclease-mediated mRNA transcription termination]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07240-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 27 March 2024; <a href="https://www.nature.com/articles/s41586-024-07240-3">doi:10.1038/s41586-024-07240-3</a></p>A study presents two cryo-EM structures of yeast Pol II pre-termination transcription complexes bound to Rat1–Rai1, and provides the mechanisms for termination of mRNA transcription in yeast and other eukaryotes.]]></content:encoded>
-            <dc:title><![CDATA[Structural basis of exoribonuclease-mediated mRNA transcription termination]]></dc:title>
-            <dc:creator>Yuan Zeng</dc:creator><dc:creator>Hong-Wei Zhang</dc:creator><dc:creator>Xiao-Xian Wu</dc:creator><dc:creator>Yu Zhang</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07240-3</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-27; | doi:10.1038/s41586-024-07240-3</dc:source>
-            <dc:date>2024-03-27</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07240-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07240-3</prism:url>
         </item>
     
 </rdf:RDF>
