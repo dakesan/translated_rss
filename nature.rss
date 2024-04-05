@@ -18,7 +18,13 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00967-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00965-1"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00989-7"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00996-8"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00990-0"/>
                 
@@ -162,12 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07143-3"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07174-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07233-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07238-x"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,36 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00967-z">
+            <title><![CDATA[Advanced CRISPR system fixes a deadly mutation in cells]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00967-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 04 April 2024; <a href="https://www.nature.com/articles/d41586-024-00967-z">doi:10.1038/d41586-024-00967-z</a></p>Applying a ‘base editor’ allows cells to crank out increased levels of a vital metabolic enzyme.]]></content:encoded>
+            <dc:title><![CDATA[Advanced CRISPR system fixes a deadly mutation in cells]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-00967-z</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-04; | doi:10.1038/d41586-024-00967-z</dc:source>
+            <dc:date>2024-04-04</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00967-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00967-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00965-1">
+            <title><![CDATA[Smallest known starquakes are detected with a subtle shift of colour]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00965-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 04 April 2024; <a href="https://www.nature.com/articles/d41586-024-00965-1">doi:10.1038/d41586-024-00965-1</a></p>An unusual technique picks up the slow vibration of a faint star.]]></content:encoded>
+            <dc:title><![CDATA[Smallest known starquakes are detected with a subtle shift of colour]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-00965-1</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-04; | doi:10.1038/d41586-024-00965-1</dc:source>
+            <dc:date>2024-04-04</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00965-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00965-1</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00989-7">
             <title><![CDATA[Tropical-forest destruction has slowed — but is still too high]]></title>
@@ -190,6 +220,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00989-7</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00989-7</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00996-8">
+            <title><![CDATA[Will the Gates Foundation’s preprint-centric policy help open access?]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00996-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 04 April 2024; <a href="https://www.nature.com/articles/d41586-024-00996-8">doi:10.1038/d41586-024-00996-8</a></p>Revised policy says grant recipients must share manuscripts as preprints — and removes support for article-processing charges.]]></content:encoded>
+            <dc:title><![CDATA[Will the Gates Foundation’s preprint-centric policy help open access?]]></dc:title>
+            <dc:creator>Mariana Lenharo</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00996-8</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-04; | doi:10.1038/d41586-024-00996-8</dc:source>
+            <dc:date>2024-04-04</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00996-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00996-8</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00990-0">
@@ -1081,7 +1126,7 @@
             <title><![CDATA[This super-Earth is the first planet confirmed to have a permanent dark side]]></title>
             <link>https://www.nature.com/articles/d41586-024-00414-z</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 28 March 2024; <a href="https://www.nature.com/articles/d41586-024-00414-z">doi:10.1038/d41586-024-00414-z</a></p>Convincing evidence of 1:1 tidal locking has been absent until a new analysis of the exoplanet LHS 3844b.]]></content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 March 2024; <a href="https://www.nature.com/articles/d41586-024-00414-z">doi:10.1038/d41586-024-00414-z</a></p>Convincing evidence of 1:1 tidal locking had been absent until a new analysis of the exoplanet LHS 3844b.]]></content:encoded>
             <dc:title><![CDATA[This super-Earth is the first planet confirmed to have a permanent dark side]]></dc:title>
             <dc:creator>Joseph Howlett</dc:creator>
             <dc:identifier>doi:10.1038/d41586-024-00414-z</dc:identifier>
@@ -1255,51 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/s41586-024-07143-3</prism:doi>
             <prism:url>https://www.nature.com/articles/s41586-024-07143-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07174-w">
-            <title><![CDATA[Optomechanical realization of the&#xa0;bosonic Kitaev chain]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07174-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 27 March 2024; <a href="https://www.nature.com/articles/s41586-024-07174-w">doi:10.1038/s41586-024-07174-w</a></p>We report the experimental realization of a bosonic Kitaev chain in a nano-optomechanical network.]]></content:encoded>
-            <dc:title><![CDATA[Optomechanical realization of the&#xa0;bosonic Kitaev chain]]></dc:title>
-            <dc:creator>Jesse J. Slim</dc:creator><dc:creator>Clara C. Wanjura</dc:creator><dc:creator>Matteo Brunelli</dc:creator><dc:creator>Javier del Pino</dc:creator><dc:creator>Andreas Nunnenkamp</dc:creator><dc:creator>Ewold Verhagen</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07174-w</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-27; | doi:10.1038/s41586-024-07174-w</dc:source>
-            <dc:date>2024-03-27</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07174-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07174-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07233-2">
-            <title><![CDATA[TRBC1-targeting antibody–drug conjugates for the treatment of T cell cancers]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07233-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 27 March 2024; <a href="https://www.nature.com/articles/s41586-024-07233-2">doi:10.1038/s41586-024-07233-2</a></p>Anti-TRBC1 antibody–drug conjugates may offer a more potent T cell cancer therapy by bypassing the fratricide that may be limiting the efficacy of anti-TRBC1 CAR T cells in the clinical trial for patients with T cell cancers.]]></content:encoded>
-            <dc:title><![CDATA[TRBC1-targeting antibody–drug conjugates for the treatment of T cell cancers]]></dc:title>
-            <dc:creator>Tushar D. Nichakawade</dc:creator><dc:creator>Jiaxin Ge</dc:creator><dc:creator>Brian J. Mog</dc:creator><dc:creator>Bum Seok Lee</dc:creator><dc:creator>Alexander H. Pearlman</dc:creator><dc:creator>Michael S. Hwang</dc:creator><dc:creator>Sarah R. DiNapoli</dc:creator><dc:creator>Nicolas Wyhs</dc:creator><dc:creator>Nikita Marcou</dc:creator><dc:creator>Stephanie Glavaris</dc:creator><dc:creator>Maximilian F. Konig</dc:creator><dc:creator>Sandra B. Gabelli</dc:creator><dc:creator>Evangeline Watson</dc:creator><dc:creator>Cole Sterling</dc:creator><dc:creator>Nina Wagner-Johnston</dc:creator><dc:creator>Sima Rozati</dc:creator><dc:creator>Lode Swinnen</dc:creator><dc:creator>Ephraim Fuchs</dc:creator><dc:creator>Drew M. Pardoll</dc:creator><dc:creator>Kathy Gabrielson</dc:creator><dc:creator>Nickolas Papadopoulos</dc:creator><dc:creator>Chetan Bettegowda</dc:creator><dc:creator>Kenneth W. Kinzler</dc:creator><dc:creator>Shibin Zhou</dc:creator><dc:creator>Surojit Sur</dc:creator><dc:creator>Bert Vogelstein</dc:creator><dc:creator>Suman Paul</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07233-2</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-27; | doi:10.1038/s41586-024-07233-2</dc:source>
-            <dc:date>2024-03-27</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07233-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07233-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07238-x">
-            <title><![CDATA[Depleting myeloid-biased haematopoietic stem cells rejuvenates aged immunity]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07238-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 27 March 2024; <a href="https://www.nature.com/articles/s41586-024-07238-x">doi:10.1038/s41586-024-07238-x</a></p>Antibody-mediated depletion of myeloid-biased haematopoietic stem cells in aged mice restores characteristic features of a more youthful immune system.]]></content:encoded>
-            <dc:title><![CDATA[Depleting myeloid-biased haematopoietic stem cells rejuvenates aged immunity]]></dc:title>
-            <dc:creator>Jason B. Ross</dc:creator><dc:creator>Lara M. Myers</dc:creator><dc:creator>Joseph J. Noh</dc:creator><dc:creator>Madison M. Collins</dc:creator><dc:creator>Aaron B. Carmody</dc:creator><dc:creator>Ronald J. Messer</dc:creator><dc:creator>Erica Dhuey</dc:creator><dc:creator>Kim J. Hasenkrug</dc:creator><dc:creator>Irving L. Weissman</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07238-x</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-27; | doi:10.1038/s41586-024-07238-x</dc:source>
-            <dc:date>2024-03-27</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07238-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07238-x</prism:url>
         </item>
     
 </rdf:RDF>
