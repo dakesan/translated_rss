@@ -18,6 +18,12 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01025-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01005-8"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00997-7"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00967-z"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00965-1"/>
@@ -63,6 +69,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07209-2"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00835-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00991-z"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00888-x"/>
                 
@@ -154,19 +162,11 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00842-x"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00840-z"/>
-                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00945-5"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07170-0"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07237-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07220-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07249-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07143-3"/>
                 
             </rdf:Seq>
         </items>
@@ -176,6 +176,51 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01025-4">
+            <title><![CDATA[Wild women and restoring public trust: Books in brief]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01025-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 05 April 2024; <a href="https://www.nature.com/articles/d41586-024-01025-4">doi:10.1038/d41586-024-01025-4</a></p>Andrew Robinson reviews five of the best science picks.]]></content:encoded>
+            <dc:title><![CDATA[Wild women and restoring public trust: Books in brief]]></dc:title>
+            <dc:creator>Andrew Robinson</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01025-4</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-05; | doi:10.1038/d41586-024-01025-4</dc:source>
+            <dc:date>2024-04-05</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01025-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01025-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01005-8">
+            <title><![CDATA[Long-lost photos reveal details of world’s first police crime lab]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01005-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 05 April 2024; <a href="https://www.nature.com/articles/d41586-024-01005-8">doi:10.1038/d41586-024-01005-8</a></p>The archive, saved from a garage, shows pioneer of forensic science Edmond Locard at work in his laboratory in Lyon, France.]]></content:encoded>
+            <dc:title><![CDATA[Long-lost photos reveal details of world’s first police crime lab]]></dc:title>
+            <dc:creator>Laura Spinney</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01005-8</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-05; | doi:10.1038/d41586-024-01005-8</dc:source>
+            <dc:date>2024-04-05</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01005-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01005-8</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00997-7">
+            <title><![CDATA[After the genocide: what scientists are learning from Rwanda]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00997-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 05 April 2024; <a href="https://www.nature.com/articles/d41586-024-00997-7">doi:10.1038/d41586-024-00997-7</a></p>Thirty years after the genocide against the Tutsi in Rwanda, Nature met with researchers who are gaining insights that could help to prevent other atrocities and enable healing.]]></content:encoded>
+            <dc:title><![CDATA[After the genocide: what scientists are learning from Rwanda]]></dc:title>
+            <dc:creator>Nisha Gaind</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00997-7</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-05; | doi:10.1038/d41586-024-00997-7</dc:source>
+            <dc:date>2024-04-05</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00997-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00997-7</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00967-z">
             <title><![CDATA[Advanced CRISPR system fixes a deadly mutation in cells]]></title>
@@ -522,6 +567,21 @@
             <prism:url>https://www.nature.com/articles/d41586-024-00835-w</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00991-z">
+            <title><![CDATA[Daily briefing: Protein in embryo cells might be a reason for right- or left-handedness]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00991-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 03 April 2024; <a href="https://www.nature.com/articles/d41586-024-00991-z">doi:10.1038/d41586-024-00991-z</a></p>Long filaments called microtubules could influence how handedness develops in embryos. Plus, a ‘mini-liver’ grown in a person’s own lymph nodes might help people with liver failure and how papers with doctored images are affecting systematic reviews.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Protein in embryo cells might be a reason for right- or left-handedness]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00991-z</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-03; | doi:10.1038/d41586-024-00991-z</dc:source>
+            <dc:date>2024-04-03</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00991-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00991-z</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-024-00888-x">
             <title><![CDATA[A quirky fluid that has robotic capabilities]]></title>
             <link>https://www.nature.com/articles/d41586-024-00888-x</link>
@@ -661,7 +721,7 @@
             <title><![CDATA[Taiwan hit by biggest earthquake in 25 years: why scientists weren’t surprised]]></title>
             <link>https://www.nature.com/articles/d41586-024-00988-8</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 03 April 2024; <a href="https://www.nature.com/articles/d41586-024-00988-8">doi:10.1038/d41586-024-00988-8</a></p>A complex network of faults lies in the area that experienced Taiwan’s earthquake, with scientists warning to expect more shocks.]]></content:encoded>
+                <![CDATA[<p>Nature, Published online: 03 April 2024; <a href="https://www.nature.com/articles/d41586-024-00988-8">doi:10.1038/d41586-024-00988-8</a></p>A complex network of faults lies in the area that experienced the earthquake, and more shocks are expected.]]></content:encoded>
             <dc:title><![CDATA[Taiwan hit by biggest earthquake in 25 years: why scientists weren’t surprised]]></dc:title>
             <dc:creator>Gemma Conroy</dc:creator>
             <dc:identifier>doi:10.1038/d41586-024-00988-8</dc:identifier>
@@ -1197,21 +1257,6 @@
             <prism:url>https://www.nature.com/articles/d41586-024-00842-x</prism:url>
         </item>
     
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00840-z">
-            <title><![CDATA[Cancer-vaccine trials give reasons for optimism]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00840-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 27 March 2024; <a href="https://www.nature.com/articles/d41586-024-00840-z">doi:10.1038/d41586-024-00840-z</a></p>Therapeutic vaccines could provide a transformative shot in the arm for cancer treatment.]]></content:encoded>
-            <dc:title><![CDATA[Cancer-vaccine trials give reasons for optimism]]></dc:title>
-            <dc:creator>Liam Drew</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00840-z</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-27; | doi:10.1038/d41586-024-00840-z</dc:source>
-            <dc:date>2024-03-27</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00840-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00840-z</prism:url>
-        </item>
-    
         <item rdf:about="https://www.nature.com/articles/d41586-024-00945-5">
             <title><![CDATA[No sweat: Moisture-wicking device keeps wearable-tech dry]]></title>
             <link>https://www.nature.com/articles/d41586-024-00945-5</link>
@@ -1255,51 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/s41586-024-07237-y</prism:doi>
             <prism:url>https://www.nature.com/articles/s41586-024-07237-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07220-7">
-            <title><![CDATA[Formation of memory assemblies through the DNA-sensing TLR9 pathway]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07220-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 27 March 2024; <a href="https://www.nature.com/articles/s41586-024-07220-7">doi:10.1038/s41586-024-07220-7</a></p>Learning results in persistent double-stranded DNA breaks, nuclear rupture and release of DNA fragments and histones within hippocampal CA1 neurons that, following TLR9-mediated DNA damage repair, results in their recruitment to memory circuits.]]></content:encoded>
-            <dc:title><![CDATA[Formation of memory assemblies through the DNA-sensing TLR9 pathway]]></dc:title>
-            <dc:creator>Vladimir Jovasevic</dc:creator><dc:creator>Elizabeth M. Wood</dc:creator><dc:creator>Ana Cicvaric</dc:creator><dc:creator>Hui Zhang</dc:creator><dc:creator>Zorica Petrovic</dc:creator><dc:creator>Anna Carboncino</dc:creator><dc:creator>Kendra K. Parker</dc:creator><dc:creator>Thomas E. Bassett</dc:creator><dc:creator>Maria Moltesen</dc:creator><dc:creator>Naoki Yamawaki</dc:creator><dc:creator>Hande Login</dc:creator><dc:creator>Joanna Kalucka</dc:creator><dc:creator>Farahnaz Sananbenesi</dc:creator><dc:creator>Xusheng Zhang</dc:creator><dc:creator>Andre Fischer</dc:creator><dc:creator>Jelena Radulovic</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07220-7</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-27; | doi:10.1038/s41586-024-07220-7</dc:source>
-            <dc:date>2024-03-27</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07220-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07220-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07249-8">
-            <title><![CDATA[The HEAT repeat protein HPO-27 is a lysosome fission factor]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07249-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 27 March 2024; <a href="https://www.nature.com/articles/s41586-024-07249-8">doi:10.1038/s41586-024-07249-8</a></p>The conserved HEAT repeat protein HPO-27 is identified as a lysosome scission factor in Caenorhabditis elegans, and the human homologue MROH1 also serves the same function to maintain lysosomal homeostasis.]]></content:encoded>
-            <dc:title><![CDATA[The HEAT repeat protein HPO-27 is a lysosome fission factor]]></dc:title>
-            <dc:creator>Letao Li</dc:creator><dc:creator>Xilu Liu</dc:creator><dc:creator>Shanshan Yang</dc:creator><dc:creator>Meijiao Li</dc:creator><dc:creator>Yanwei Wu</dc:creator><dc:creator>Siqi Hu</dc:creator><dc:creator>Wenjuan Wang</dc:creator><dc:creator>Amin Jiang</dc:creator><dc:creator>Qianqian Zhang</dc:creator><dc:creator>Junbing Zhang</dc:creator><dc:creator>Xiaoli Ma</dc:creator><dc:creator>Junyan Hu</dc:creator><dc:creator>Qiaohong Zhao</dc:creator><dc:creator>Yubing Liu</dc:creator><dc:creator>Dong Li</dc:creator><dc:creator>Junjie Hu</dc:creator><dc:creator>Chonglin Yang</dc:creator><dc:creator>Wei Feng</dc:creator><dc:creator>Xiaochen Wang</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07249-8</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-27; | doi:10.1038/s41586-024-07249-8</dc:source>
-            <dc:date>2024-03-27</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07249-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07249-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07143-3">
-            <title><![CDATA[Five million years of Antarctic Circumpolar Current strength variability]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07143-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 27 March 2024; <a href="https://www.nature.com/articles/s41586-024-07143-3">doi:10.1038/s41586-024-07143-3</a></p>The strength of the Antarctic Circumpolar Current, as traced in sediment cores from the Pacific Southern Ocean, shows no linear long-term trend over the past 5.3 Myr; instead, the strongest flow occurs consistently in warmer-than-present intervals.]]></content:encoded>
-            <dc:title><![CDATA[Five million years of Antarctic Circumpolar Current strength variability]]></dc:title>
-            <dc:creator>Frank Lamy</dc:creator><dc:creator>Gisela Winckler</dc:creator><dc:creator>Helge W. Arz</dc:creator><dc:creator>Jesse R. Farmer</dc:creator><dc:creator>Julia Gottschalk</dc:creator><dc:creator>Lester Lembke-Jene</dc:creator><dc:creator>Jennifer L. Middleton</dc:creator><dc:creator>Michèlle van der Does</dc:creator><dc:creator>Ralf Tiedemann</dc:creator><dc:creator>Carlos Alvarez Zarikian</dc:creator><dc:creator>Chandranath Basak</dc:creator><dc:creator>Anieke Brombacher</dc:creator><dc:creator>Levin Dumm</dc:creator><dc:creator>Oliver M. Esper</dc:creator><dc:creator>Lisa C. Herbert</dc:creator><dc:creator>Shinya Iwasaki</dc:creator><dc:creator>Gaston Kreps</dc:creator><dc:creator>Vera J. Lawson</dc:creator><dc:creator>Li Lo</dc:creator><dc:creator>Elisa Malinverno</dc:creator><dc:creator>Alfredo Martinez-Garcia</dc:creator><dc:creator>Elisabeth Michel</dc:creator><dc:creator>Simone Moretti</dc:creator><dc:creator>Christopher M. Moy</dc:creator><dc:creator>Ana Christina Ravelo</dc:creator><dc:creator>Christina R. Riesselman</dc:creator><dc:creator>Mariem Saavedra-Pellitero</dc:creator><dc:creator>Henrik Sadatzki</dc:creator><dc:creator>Inah Seo</dc:creator><dc:creator>Raj K. Singh</dc:creator><dc:creator>Rebecca A. Smith</dc:creator><dc:creator>Alexandre L. Souza</dc:creator><dc:creator>Joseph S. Stoner</dc:creator><dc:creator>Maria Toyos</dc:creator><dc:creator>Igor M. Venancio P. de Oliveira</dc:creator><dc:creator>Sui Wan</dc:creator><dc:creator>Shuzhuang Wu</dc:creator><dc:creator>Xiangyu Zhao</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07143-3</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-27; | doi:10.1038/s41586-024-07143-3</dc:source>
-            <dc:date>2024-03-27</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07143-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07143-3</prism:url>
         </item>
     
 </rdf:RDF>
