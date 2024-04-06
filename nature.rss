@@ -20,6 +20,10 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01025-4"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00966-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00884-1"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01005-8"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00997-7"/>
@@ -31,6 +35,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00989-7"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00996-8"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01026-3"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00990-0"/>
                 
@@ -162,12 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00842-x"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00945-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07170-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07237-y"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -190,6 +190,36 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01025-4</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01025-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00966-0">
+            <title><![CDATA[Baseball-sized hail in Spain began with a heatwave at sea]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00966-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 05 April 2024; <a href="https://www.nature.com/articles/d41586-024-00966-0">doi:10.1038/d41586-024-00966-0</a></p>Climate change is partly to blame for a storm that pounded Girona province with record-breaking hailstones.]]></content:encoded>
+            <dc:title><![CDATA[Baseball-sized hail in Spain began with a heatwave at sea]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-00966-0</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-05; | doi:10.1038/d41586-024-00966-0</dc:source>
+            <dc:date>2024-04-05</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00966-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00966-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00884-1">
+            <title><![CDATA[Audio long read: Why are so many young people getting cancer? What the data say]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00884-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 05 April 2024; <a href="https://www.nature.com/articles/d41586-024-00884-1">doi:10.1038/d41586-024-00884-1</a></p>Researchers are scrambling to explain why rates of multiple cancers are increasing among adults under the age of 50.]]></content:encoded>
+            <dc:title><![CDATA[Audio long read: Why are so many young people getting cancer? What the data say]]></dc:title>
+            <dc:creator>Heidi Ledford</dc:creator><dc:creator>Benjamin Thompson</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00884-1</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-05; | doi:10.1038/d41586-024-00884-1</dc:source>
+            <dc:date>2024-04-05</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00884-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00884-1</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01005-8">
@@ -280,6 +310,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00996-8</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00996-8</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01026-3">
+            <title><![CDATA[Daily briefing: Gut bacteria can break down artery-clogging cholesterol]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01026-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 04 April 2024; <a href="https://www.nature.com/articles/d41586-024-01026-3">doi:10.1038/d41586-024-01026-3</a></p>Oscillibacter species can transform cholesterol into a more harmless form — hinting at probiotic treatments. Plus, mRNA drug shows the technology’s potential beyond vaccines and how loneliness harms your health.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Gut bacteria can break down artery-clogging cholesterol]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01026-3</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-04; | doi:10.1038/d41586-024-01026-3</dc:source>
+            <dc:date>2024-04-04</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01026-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01026-3</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00990-0">
@@ -1255,51 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00842-x</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00842-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00945-5">
-            <title><![CDATA[No sweat: Moisture-wicking device keeps wearable-tech dry]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00945-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 27 March 2024; <a href="https://www.nature.com/articles/d41586-024-00945-5">doi:10.1038/d41586-024-00945-5</a></p>Breathable patch could allow for comfortable and multifunctional wearable electronics.]]></content:encoded>
-            <dc:title><![CDATA[No sweat: Moisture-wicking device keeps wearable-tech dry]]></dc:title>
-            <dc:creator>Dan Fox</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00945-5</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-27; | doi:10.1038/d41586-024-00945-5</dc:source>
-            <dc:date>2024-03-27</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00945-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00945-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07170-0">
-            <title><![CDATA[A global timekeeping problem postponed by global warming]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07170-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 27 March 2024; <a href="https://www.nature.com/articles/s41586-024-07170-0">doi:10.1038/s41586-024-07170-0</a></p>Increased melting of ice in Greenland and Antarctica, measured by satellite gravity, has decreased the angular velocity of Earth more rapidly than before and has already affected global timekeeping.]]></content:encoded>
-            <dc:title><![CDATA[A global timekeeping problem postponed by global warming]]></dc:title>
-            <dc:creator>Duncan Carr Agnew</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07170-0</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-27; | doi:10.1038/s41586-024-07170-0</dc:source>
-            <dc:date>2024-03-27</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07170-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07170-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07237-y">
-            <title><![CDATA[CGRP sensory neurons promote tissue healing via neutrophils and macrophages]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07237-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 27 March 2024; <a href="https://www.nature.com/articles/s41586-024-07237-y">doi:10.1038/s41586-024-07237-y</a></p>Experiments in mouse models show that NaV1.8+ nociceptors innervate sites of injury and provide wound repair signals to immune cells by releasing calcitonin gene-related peptide (CGRP).]]></content:encoded>
-            <dc:title><![CDATA[CGRP sensory neurons promote tissue healing via neutrophils and macrophages]]></dc:title>
-            <dc:creator>Yen-Zhen Lu</dc:creator><dc:creator>Bhavana Nayer</dc:creator><dc:creator>Shailendra Kumar Singh</dc:creator><dc:creator>Yasmin K. Alshoubaki</dc:creator><dc:creator>Elle Yuan</dc:creator><dc:creator>Anthony J. Park</dc:creator><dc:creator>Kenta Maruyama</dc:creator><dc:creator>Shizuo Akira</dc:creator><dc:creator>Mikaël M. Martino</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07237-y</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-27; | doi:10.1038/s41586-024-07237-y</dc:source>
-            <dc:date>2024-03-27</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07237-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07237-y</prism:url>
         </item>
     
 </rdf:RDF>
