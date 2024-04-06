@@ -18,6 +18,8 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00976-y"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01025-4"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00966-0"/>
@@ -166,8 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00922-y"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00842-x"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,21 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00976-y">
+            <title><![CDATA[Exclusive: official investigation reveals how superconductivity physicist faked blockbuster results]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00976-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 April 2024; <a href="https://www.nature.com/articles/d41586-024-00976-y">doi:10.1038/d41586-024-00976-y</a></p>The confidential 124-page report from the University of Rochester, disclosed in a lawsuit, details the extent of Ranga Dias’s scientific misconduct.]]></content:encoded>
+            <dc:title><![CDATA[Exclusive: official investigation reveals how superconductivity physicist faked blockbuster results]]></dc:title>
+            <dc:creator>Dan Garisto</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00976-y</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-06; | doi:10.1038/d41586-024-00976-y</dc:source>
+            <dc:date>2024-04-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00976-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00976-y</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01025-4">
             <title><![CDATA[Wild women and restoring public trust: Books in brief]]></title>
@@ -1285,21 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00922-y</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00922-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00842-x">
-            <title><![CDATA[Video: Cancer-busting vaccines]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00842-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 27 March 2024; <a href="https://www.nature.com/articles/d41586-024-00842-x">doi:10.1038/d41586-024-00842-x</a></p>Treatments that could train the immune system to identify and destroy cancer cells are on the way.]]></content:encoded>
-            <dc:title><![CDATA[Video: Cancer-busting vaccines]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-00842-x</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-27; | doi:10.1038/d41586-024-00842-x</dc:source>
-            <dc:date>2024-03-27</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00842-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00842-x</prism:url>
         </item>
     
 </rdf:RDF>
