@@ -18,6 +18,16 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07379-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07346-8"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07384-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01004-9"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07205-6"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01024-5"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01003-w"/>
@@ -26,11 +36,15 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00999-5"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01035-2"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01042-3"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01047-y"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01002-x"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01036-1"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00976-y"/>
                 
@@ -41,6 +55,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00884-1"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01005-8"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01049-w"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00997-7"/>
                 
@@ -152,22 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07323-1"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00968-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00908-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00906-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00907-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00902-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07341-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00943-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00950-8"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,81 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07379-z">
+            <title><![CDATA[Tumor-selective activity of RAS-GTP inhibition in pancreatic cancer]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07379-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 April 2024; <a href="https://www.nature.com/articles/s41586-024-07379-z">doi:10.1038/s41586-024-07379-z</a></p>Tumor-selective activity of RAS-GTP inhibition in pancreatic cancer]]></content:encoded>
+            <dc:title><![CDATA[Tumor-selective activity of RAS-GTP inhibition in pancreatic cancer]]></dc:title>
+            <dc:creator>Urszula N. Wasko</dc:creator><dc:creator>Jingjing Jiang</dc:creator><dc:creator>Tanner C. Dalton</dc:creator><dc:creator>Alvaro Curiel-Garcia</dc:creator><dc:creator>A. Cole Edwards</dc:creator><dc:creator>Yingyun Wang</dc:creator><dc:creator>Bianca Lee</dc:creator><dc:creator>Margo Orlen</dc:creator><dc:creator>Sha Tian</dc:creator><dc:creator>Clint A. Stalnecker</dc:creator><dc:creator>Kristina Drizyte-Miller</dc:creator><dc:creator>Marie Menard</dc:creator><dc:creator>Julien Dilly</dc:creator><dc:creator>Stephen A. Sastra</dc:creator><dc:creator>Carmine F. Palermo</dc:creator><dc:creator>Marie C. Hasselluhn</dc:creator><dc:creator>Amanda R. Decker-Farrell</dc:creator><dc:creator>Stephanie Chang</dc:creator><dc:creator>Lingyan Jiang</dc:creator><dc:creator>Xing Wei</dc:creator><dc:creator>Yu C. Yang</dc:creator><dc:creator>Ciara Helland</dc:creator><dc:creator>Haley Courtney</dc:creator><dc:creator>Yevgeniy Gindin</dc:creator><dc:creator>Karl Muonio</dc:creator><dc:creator>Ruiping Zhao</dc:creator><dc:creator>Samantha B. Kemp</dc:creator><dc:creator>Cynthia Clendenin</dc:creator><dc:creator>Rina Sor</dc:creator><dc:creator>William P. Vostrejs</dc:creator><dc:creator>Priya S. Hibshman</dc:creator><dc:creator>Amber M. Amparo</dc:creator><dc:creator>Connor Hennessey</dc:creator><dc:creator>Matthew G. Rees</dc:creator><dc:creator>Melissa M. Ronan</dc:creator><dc:creator>Jennifer A. Roth</dc:creator><dc:creator>Jens Brodbeck</dc:creator><dc:creator>Lorenzo Tomassoni</dc:creator><dc:creator>Basil Bakir</dc:creator><dc:creator>Nicholas D. Socci</dc:creator><dc:creator>Laura E. Herring</dc:creator><dc:creator>Natalie K. Barker</dc:creator><dc:creator>Junning Wang</dc:creator><dc:creator>James M. Cleary</dc:creator><dc:creator>Brian M. Wolpin</dc:creator><dc:creator>John A. Chabot</dc:creator><dc:creator>Michael D. Kluger</dc:creator><dc:creator>Gulam A. Manji</dc:creator><dc:creator>Kenneth Y. Tsai</dc:creator><dc:creator>Miroslav Sekulic</dc:creator><dc:creator>Stephen M. Lagana</dc:creator><dc:creator>Andrea Califano</dc:creator><dc:creator>Elsa Quintana</dc:creator><dc:creator>Zhengping Wang</dc:creator><dc:creator>Jacqueline A. M. Smith</dc:creator><dc:creator>Matthew Holderfield</dc:creator><dc:creator>David Wildes</dc:creator><dc:creator>Scott W. Lowe</dc:creator><dc:creator>Michael A. Badgley</dc:creator><dc:creator>Andrew J. Aguirre</dc:creator><dc:creator>Robert H. Vonderheide</dc:creator><dc:creator>Ben Z. Stanger</dc:creator><dc:creator>Timour Baslan</dc:creator><dc:creator>Channing J. Der</dc:creator><dc:creator>Mallika Singh</dc:creator><dc:creator>Kenneth P. Olive</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07379-z</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-08; | doi:10.1038/s41586-024-07379-z</dc:source>
+            <dc:date>2024-04-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07379-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07379-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07346-8">
+            <title><![CDATA[Author Correction: Macromolecular condensation buffers intracellular water potential]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07346-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 April 2024; <a href="https://www.nature.com/articles/s41586-024-07346-8">doi:10.1038/s41586-024-07346-8</a></p>Author Correction: Macromolecular condensation buffers intracellular water potential]]></content:encoded>
+            <dc:title><![CDATA[Author Correction: Macromolecular condensation buffers intracellular water potential]]></dc:title>
+            <dc:creator>Joseph L. Watson</dc:creator><dc:creator>Estere Seinkmane</dc:creator><dc:creator>Christine T. Styles</dc:creator><dc:creator>Andrei Mihut</dc:creator><dc:creator>Lara K. Krüger</dc:creator><dc:creator>Kerrie E. McNally</dc:creator><dc:creator>Vicente Jose Planelles-Herrero</dc:creator><dc:creator>Michal Dudek</dc:creator><dc:creator>Patrick M. McCall</dc:creator><dc:creator>Silvia Barbiero</dc:creator><dc:creator>Michael Vanden Oever</dc:creator><dc:creator>Sew Yeu Peak-Chew</dc:creator><dc:creator>Benjamin T. Porebski</dc:creator><dc:creator>Aiwei Zeng</dc:creator><dc:creator>Nina M. Rzechorzek</dc:creator><dc:creator>David C. S. Wong</dc:creator><dc:creator>Andrew D. Beale</dc:creator><dc:creator>Alessandra Stangherlin</dc:creator><dc:creator>Margot Riggi</dc:creator><dc:creator>Janet Iwasa</dc:creator><dc:creator>Jörg Morf</dc:creator><dc:creator>Christos Miliotis</dc:creator><dc:creator>Alina Guna</dc:creator><dc:creator>Alison J. Inglis</dc:creator><dc:creator>Jan Brugués</dc:creator><dc:creator>Rebecca M. Voorhees</dc:creator><dc:creator>Joseph E. Chambers</dc:creator><dc:creator>Qing-Jun Meng</dc:creator><dc:creator>John S. O’Neill</dc:creator><dc:creator>Rachel S. Edgar</dc:creator><dc:creator>Emmanuel Derivery</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07346-8</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-08; | doi:10.1038/s41586-024-07346-8</dc:source>
+            <dc:date>2024-04-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07346-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07346-8</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07384-2">
+            <title><![CDATA[The PARTNER trial of neoadjuvant olaparib in triple-negative breast cancer]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07384-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 April 2024; <a href="https://www.nature.com/articles/s41586-024-07384-2">doi:10.1038/s41586-024-07384-2</a></p>The PARTNER trial of neoadjuvant olaparib in triple-negative breast cancer]]></content:encoded>
+            <dc:title><![CDATA[The PARTNER trial of neoadjuvant olaparib in triple-negative breast cancer]]></dc:title>
+            <dc:creator>Jean E. Abraham</dc:creator><dc:creator>Karen Pinilla</dc:creator><dc:creator>Alimu Dayimu</dc:creator><dc:creator>Louise Grybowicz</dc:creator><dc:creator>Nikolaos Demiris</dc:creator><dc:creator>Caron Harvey</dc:creator><dc:creator>Lynsey M. Drewett</dc:creator><dc:creator>Rebecca Lucey</dc:creator><dc:creator>Alexander Fulton</dc:creator><dc:creator>Anne N. Roberts</dc:creator><dc:creator>Joanna R. Worley</dc:creator><dc:creator>Anita Chhabra</dc:creator><dc:creator>Wendi Qian</dc:creator><dc:creator>Anne-Laure Vallier</dc:creator><dc:creator>Richard M. Hardy</dc:creator><dc:creator>Steve Chan</dc:creator><dc:creator>Tamas Hickish</dc:creator><dc:creator>Devashish Tripathi</dc:creator><dc:creator>Ramachandran Venkitaraman</dc:creator><dc:creator>Mojca Persic</dc:creator><dc:creator>Shahzeena Aslam</dc:creator><dc:creator>Daniel Glassman</dc:creator><dc:creator>Sanjay Raj</dc:creator><dc:creator>Annabel Borley</dc:creator><dc:creator>Jeremy P. Braybrooke</dc:creator><dc:creator>Stephanie Sutherland</dc:creator><dc:creator>Emma Staples</dc:creator><dc:creator>Lucy C. Scott</dc:creator><dc:creator>Mark Davies</dc:creator><dc:creator>Cheryl A. Palmer</dc:creator><dc:creator>Margaret Moody</dc:creator><dc:creator>Mark J. Churn</dc:creator><dc:creator>Jacqueline C. Newby</dc:creator><dc:creator>Mukesh B. Mukesh</dc:creator><dc:creator>Amitabha Chakrabarti</dc:creator><dc:creator>Rebecca R. Roylance</dc:creator><dc:creator>Philip C. Schouten</dc:creator><dc:creator>Nicola C. Levitt</dc:creator><dc:creator>Karen McAdam</dc:creator><dc:creator>Anne C. Armstrong</dc:creator><dc:creator>Ellen R. Copson</dc:creator><dc:creator>Emma McMurtry</dc:creator><dc:creator>Marc Tischkowitz</dc:creator><dc:creator>Elena Provenzano</dc:creator><dc:creator>Helena M. Earl</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07384-2</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-08; | doi:10.1038/s41586-024-07384-2</dc:source>
+            <dc:date>2024-04-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07384-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07384-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01004-9">
+            <title><![CDATA[Digging in: last chance to save a native forest]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01004-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 April 2024; <a href="https://www.nature.com/articles/d41586-024-01004-9">doi:10.1038/d41586-024-01004-9</a></p>Dario Sandrini hikes, plants and digs to save a threatened and diminishing ecosystem.]]></content:encoded>
+            <dc:title><![CDATA[Digging in: last chance to save a native forest]]></dc:title>
+            <dc:creator>James Mitchell Crow</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01004-9</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-08; | doi:10.1038/d41586-024-01004-9</dc:source>
+            <dc:date>2024-04-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01004-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01004-9</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07205-6">
+            <title><![CDATA[Concurrent inhibition of oncogenic and wild-type RAS-GTP for cancer therapy]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07205-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 April 2024; <a href="https://www.nature.com/articles/s41586-024-07205-6">doi:10.1038/s41586-024-07205-6</a></p>RMC-7977, a compound that exhibits potent inhibition of the active states of mutant and wild-type KRAS, NRAS and HRAS variants has a strong anti-tumour effect on RAS-addicted tumours and is well tolerated in preclinical models.]]></content:encoded>
+            <dc:title><![CDATA[Concurrent inhibition of oncogenic and wild-type RAS-GTP for cancer therapy]]></dc:title>
+            <dc:creator>Matthew Holderfield</dc:creator><dc:creator>Bianca J. Lee</dc:creator><dc:creator>Jingjing Jiang</dc:creator><dc:creator>Aidan Tomlinson</dc:creator><dc:creator>Kyle J. Seamon</dc:creator><dc:creator>Alessia Mira</dc:creator><dc:creator>Enrico Patrucco</dc:creator><dc:creator>Grace Goodhart</dc:creator><dc:creator>Julien Dilly</dc:creator><dc:creator>Yevgeniy Gindin</dc:creator><dc:creator>Nuntana Dinglasan</dc:creator><dc:creator>Yingyun Wang</dc:creator><dc:creator>Lick Pui Lai</dc:creator><dc:creator>Shurui Cai</dc:creator><dc:creator>Lingyan Jiang</dc:creator><dc:creator>Nicole Nasholm</dc:creator><dc:creator>Nataliya Shifrin</dc:creator><dc:creator>Cristina Blaj</dc:creator><dc:creator>Harshit Shah</dc:creator><dc:creator>James W. Evans</dc:creator><dc:creator>Nilufar Montazer</dc:creator><dc:creator>Oliver Lai</dc:creator><dc:creator>Jade Shi</dc:creator><dc:creator>Ethan Ahler</dc:creator><dc:creator>Elsa Quintana</dc:creator><dc:creator>Stephanie Chang</dc:creator><dc:creator>Anthony Salvador</dc:creator><dc:creator>Abby Marquez</dc:creator><dc:creator>Jim Cregg</dc:creator><dc:creator>Yang Liu</dc:creator><dc:creator>Anthony Milin</dc:creator><dc:creator>Anqi Chen</dc:creator><dc:creator>Tamar Bar Ziv</dc:creator><dc:creator>Dylan Parsons</dc:creator><dc:creator>John E. Knox</dc:creator><dc:creator>Jennifer E. Klomp</dc:creator><dc:creator>Jennifer Roth</dc:creator><dc:creator>Matthew Rees</dc:creator><dc:creator>Melissa Ronan</dc:creator><dc:creator>Antonio Cuevas-Navarro</dc:creator><dc:creator>Feng Hu</dc:creator><dc:creator>Piro Lito</dc:creator><dc:creator>David Santamaria</dc:creator><dc:creator>Andrew J. Aguirre</dc:creator><dc:creator>Andrew M. Waters</dc:creator><dc:creator>Channing J. Der</dc:creator><dc:creator>Chiara Ambrogio</dc:creator><dc:creator>Zhengping Wang</dc:creator><dc:creator>Adrian L. Gill</dc:creator><dc:creator>Elena S. Koltun</dc:creator><dc:creator>Jacqueline A. M. Smith</dc:creator><dc:creator>David Wildes</dc:creator><dc:creator>Mallika Singh</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07205-6</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-08; | doi:10.1038/s41586-024-07205-6</dc:source>
+            <dc:date>2024-04-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07205-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07205-6</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01024-5">
             <title><![CDATA[How to plug the female mentoring gap in Latin American science]]></title>
@@ -237,6 +312,21 @@
             <prism:url>https://www.nature.com/articles/d41586-024-00999-5</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01035-2">
+            <title><![CDATA[Brazil budget cuts could leave science labs without power and water]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01035-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 April 2024; <a href="https://www.nature.com/articles/d41586-024-01035-2">doi:10.1038/d41586-024-01035-2</a></p>The Lula administration is trying to reverse lawmakers’ reductions, which are hitting scientists in the Amazon especially hard.]]></content:encoded>
+            <dc:title><![CDATA[Brazil budget cuts could leave science labs without power and water]]></dc:title>
+            <dc:creator>Rodrigo de Oliveira Andrade</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01035-2</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-08; | doi:10.1038/d41586-024-01035-2</dc:source>
+            <dc:date>2024-04-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01035-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01035-2</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-024-01042-3">
             <title><![CDATA[Three ways ChatGPT helps me in my academic writing]]></title>
             <link>https://www.nature.com/articles/d41586-024-01042-3</link>
@@ -253,11 +343,11 @@
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01047-y">
-            <title><![CDATA[How two PhD students overcame the odds to snag tenure-track jobs ]]></title>
+            <title><![CDATA[How two PhD students overcame the odds to snag tenure-track jobs]]></title>
             <link>https://www.nature.com/articles/d41586-024-01047-y</link>
             <content:encoded>
                 <![CDATA[<p>Nature, Published online: 08 April 2024; <a href="https://www.nature.com/articles/d41586-024-01047-y">doi:10.1038/d41586-024-01047-y</a></p>Between us, we got several offers to lead labs before we had finished our PhDs.]]></content:encoded>
-            <dc:title><![CDATA[How two PhD students overcame the odds to snag tenure-track jobs ]]></dc:title>
+            <dc:title><![CDATA[How two PhD students overcame the odds to snag tenure-track jobs]]></dc:title>
             <dc:creator>Violeta Rodriguez </dc:creator><dc:creator>Qimin Liu</dc:creator>
             <dc:identifier>doi:10.1038/d41586-024-01047-y</dc:identifier>
             <dc:source>Nature, Published online: 2024-04-08; | doi:10.1038/d41586-024-01047-y</dc:source>
@@ -280,6 +370,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01002-x</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01002-x</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01036-1">
+            <title><![CDATA[Bird flu outbreak in US cows: why scientists are concerned]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01036-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 April 2024; <a href="https://www.nature.com/articles/d41586-024-01036-1">doi:10.1038/d41586-024-01036-1</a></p>A virus that has killed hundreds of millions of birds has now infected cattle in six US states, but the threat to humans is currently low.]]></content:encoded>
+            <dc:title><![CDATA[Bird flu outbreak in US cows: why scientists are concerned]]></dc:title>
+            <dc:creator>Max Kozlov</dc:creator><dc:creator>Smriti Mallapaty</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01036-1</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-08; | doi:10.1038/d41586-024-01036-1</dc:source>
+            <dc:date>2024-04-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01036-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01036-1</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00976-y">
@@ -355,6 +460,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01005-8</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01005-8</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01049-w">
+            <title><![CDATA[Daily briefing: Diabetes drug shows promise against Parkinson’s]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01049-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 05 April 2024; <a href="https://www.nature.com/articles/d41586-024-01049-w">doi:10.1038/d41586-024-01049-w</a></p>Lixisenatide, a drug in the same family as Ozempic, seems to slow the progression of Parkinson’s disease. Plus, why scientists will look to the Sun’s corona during the 8 April eclipse.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Diabetes drug shows promise against Parkinson’s]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01049-w</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-05; | doi:10.1038/d41586-024-01049-w</dc:source>
+            <dc:date>2024-04-05</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01049-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01049-w</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00997-7">
@@ -1180,126 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/s41586-024-07323-1</prism:doi>
             <prism:url>https://www.nature.com/articles/s41586-024-07323-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00968-y">
-            <title><![CDATA[Green space near home has an antidepressant effect]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00968-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 01 April 2024; <a href="https://www.nature.com/articles/d41586-024-00968-y">doi:10.1038/d41586-024-00968-y</a></p>People who had the most vegetation near their residences were the least likely to report depression and anxiety.]]></content:encoded>
-            <dc:title><![CDATA[Green space near home has an antidepressant effect]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-00968-y</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-01; | doi:10.1038/d41586-024-00968-y</dc:source>
-            <dc:date>2024-04-01</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00968-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00968-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00908-w">
-            <title><![CDATA[How I use tide gauges to develop geospatial maps]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00908-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 01 April 2024; <a href="https://www.nature.com/articles/d41586-024-00908-w">doi:10.1038/d41586-024-00908-w</a></p>Geographer Muh Aris Marfai collects reference data for Indonesia’s coastal areas to prepare for the impacts of climate change.]]></content:encoded>
-            <dc:title><![CDATA[How I use tide gauges to develop geospatial maps]]></dc:title>
-            <dc:creator>Nikki Forrester</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00908-w</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-01; | doi:10.1038/d41586-024-00908-w</dc:source>
-            <dc:date>2024-04-01</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00908-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00908-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00906-y">
-            <title><![CDATA[How scientists are making the most of Reddit]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00906-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 01 April 2024; <a href="https://www.nature.com/articles/d41586-024-00906-y">doi:10.1038/d41586-024-00906-y</a></p>As X wanes, researchers are turning to Reddit for insights and data, and to better connect with the public.]]></content:encoded>
-            <dc:title><![CDATA[How scientists are making the most of Reddit]]></dc:title>
-            <dc:creator>Hannah Docter-Loeb</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00906-y</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-01; | doi:10.1038/d41586-024-00906-y</dc:source>
-            <dc:date>2024-04-01</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00906-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00906-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00907-x">
-            <title><![CDATA[How synthetic biologists are building better biofactories]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00907-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 01 April 2024; <a href="https://www.nature.com/articles/d41586-024-00907-x">doi:10.1038/d41586-024-00907-x</a></p>Artificial electron donors and acceptors expand researchers’ metabolic engineering options — if only cells would cooperate.]]></content:encoded>
-            <dc:title><![CDATA[How synthetic biologists are building better biofactories]]></dc:title>
-            <dc:creator>Sara Reardon</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00907-x</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-01; | doi:10.1038/d41586-024-00907-x</dc:source>
-            <dc:date>2024-04-01</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00907-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00907-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00902-2">
-            <title><![CDATA[The great rewiring: is social media really behind an epidemic of teenage mental illness?]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00902-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 29 March 2024; <a href="https://www.nature.com/articles/d41586-024-00902-2">doi:10.1038/d41586-024-00902-2</a></p>The evidence is equivocal on whether screen time is to blame for rising levels of teen depression and anxiety — and rising hysteria could distract us from tackling the real causes.]]></content:encoded>
-            <dc:title><![CDATA[The great rewiring: is social media really behind an epidemic of teenage mental illness?]]></dc:title>
-            <dc:creator>Candice L. Odgers</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00902-2</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-29; | doi:10.1038/d41586-024-00902-2</dc:source>
-            <dc:date>2024-03-29</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00902-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00902-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07341-z">
-            <title><![CDATA[Copper-catalyzed dehydrogenation or lactonization of C(sp<sup>3</sup>)−H bonds]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07341-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 28 March 2024; <a href="https://www.nature.com/articles/s41586-024-07341-z">doi:10.1038/s41586-024-07341-z</a></p>Copper-catalyzed dehydrogenation or lactonization of C(sp<sup>3</sup>)−H bonds]]></content:encoded>
-            <dc:title><![CDATA[Copper-catalyzed dehydrogenation or lactonization of C(sp<sup>3</sup>)−H bonds]]></dc:title>
-            <dc:creator>Shupeng Zhou</dc:creator><dc:creator>Zi-Jun Zhang</dc:creator><dc:creator>Jin-Quan Yu</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07341-z</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-28; | doi:10.1038/s41586-024-07341-z</dc:source>
-            <dc:date>2024-03-28</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07341-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07341-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00943-7">
-            <title><![CDATA[Scientists made a six-legged mouse embryo — here’s why]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00943-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 28 March 2024; <a href="https://www.nature.com/articles/d41586-024-00943-7">doi:10.1038/d41586-024-00943-7</a></p>A rodent with two extra limbs instead of genitals shows the crucial role of a gene pathway in determining the fate of a primordial structure.]]></content:encoded>
-            <dc:title><![CDATA[Scientists made a six-legged mouse embryo — here’s why]]></dc:title>
-            <dc:creator>Sara Reardon</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00943-7</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-28; | doi:10.1038/d41586-024-00943-7</dc:source>
-            <dc:date>2024-03-28</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00943-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00943-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00950-8">
-            <title><![CDATA[How a spreadsheet helped me to land my dream job]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00950-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 28 March 2024; <a href="https://www.nature.com/articles/d41586-024-00950-8">doi:10.1038/d41586-024-00950-8</a></p>A shared spreadsheet, passed from generation to generation, helps graduate students in management navigate the academic job market. Whatever your field of study, you can make one, too.]]></content:encoded>
-            <dc:title><![CDATA[How a spreadsheet helped me to land my dream job]]></dc:title>
-            <dc:creator>Silvia  Sanasi</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00950-8</dc:identifier>
-            <dc:source>Nature, Published online: 2024-03-28; | doi:10.1038/d41586-024-00950-8</dc:source>
-            <dc:date>2024-03-28</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00950-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00950-8</prism:url>
         </item>
     
 </rdf:RDF>
