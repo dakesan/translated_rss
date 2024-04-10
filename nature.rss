@@ -18,6 +18,16 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01055-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00993-x"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00998-6"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00956-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01054-z"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07365-5"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07392-2"/>
@@ -45,6 +55,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00994-w"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01059-8"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01064-x"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07379-z"/>
                 
@@ -156,18 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00898-9"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00974-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00988-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00962-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07344-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00972-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00977-x"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,81 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01055-y">
+            <title><![CDATA[Randomness in computation wins computer-science ‘Nobel’]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01055-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 10 April 2024; <a href="https://www.nature.com/articles/d41586-024-01055-y">doi:10.1038/d41586-024-01055-y</a></p>Computer scientist Avi Wigderson is known for clarifying the role of randomness in algorithms, and for studying their complexity.]]></content:encoded>
+            <dc:title><![CDATA[Randomness in computation wins computer-science ‘Nobel’]]></dc:title>
+            <dc:creator>Davide Castelvecchi</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01055-y</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-10; | doi:10.1038/d41586-024-01055-y</dc:source>
+            <dc:date>2024-04-10</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01055-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01055-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00993-x">
+            <title><![CDATA[What happens when climate change and the mental-health crisis collide?]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00993-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 10 April 2024; <a href="https://www.nature.com/articles/d41586-024-00993-x">doi:10.1038/d41586-024-00993-x</a></p>The warming planet is worsening mental illness and distress. Researchers need to work out the scale of the problem and how those who need assistance can be helped.]]></content:encoded>
+            <dc:title><![CDATA[What happens when climate change and the mental-health crisis collide?]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-00993-x</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-10; | doi:10.1038/d41586-024-00993-x</dc:source>
+            <dc:date>2024-04-10</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00993-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00993-x</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00998-6">
+            <title><![CDATA[The rise of eco-anxiety: scientists wake up to the mental-health toll of climate change]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00998-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 10 April 2024; <a href="https://www.nature.com/articles/d41586-024-00998-6">doi:10.1038/d41586-024-00998-6</a></p>Researchers want to unpick how climate change affects mental health around the world — from lives that are disrupted by catastrophic weather to people who are anxious about the future.]]></content:encoded>
+            <dc:title><![CDATA[The rise of eco-anxiety: scientists wake up to the mental-health toll of climate change]]></dc:title>
+            <dc:creator>Helen Pearson</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00998-6</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-10; | doi:10.1038/d41586-024-00998-6</dc:source>
+            <dc:date>2024-04-10</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00998-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00998-6</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00956-2">
+            <title><![CDATA[India is booming — but there are worries ahead for basic science]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00956-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 10 April 2024; <a href="https://www.nature.com/articles/d41586-024-00956-2">doi:10.1038/d41586-024-00956-2</a></p>With voting about to start in India’s general election, some researchers are concerned that sluggish funding growth and slow decision-making processes could hold the country back.]]></content:encoded>
+            <dc:title><![CDATA[India is booming — but there are worries ahead for basic science]]></dc:title>
+            <dc:creator>Smriti Mallapaty</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00956-2</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-10; | doi:10.1038/d41586-024-00956-2</dc:source>
+            <dc:date>2024-04-10</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00956-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00956-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01054-z">
+            <title><![CDATA[Total solar eclipse 2024: what we saw and what scientists learnt]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01054-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 10 April 2024; <a href="https://www.nature.com/articles/d41586-024-01054-z">doi:10.1038/d41586-024-01054-z</a></p>Astronomers and enthusiasts share with Nature what dazzled them most during the moments when the Moon blocked the Sun.]]></content:encoded>
+            <dc:title><![CDATA[Total solar eclipse 2024: what we saw and what scientists learnt]]></dc:title>
+            <dc:creator>Sumeet Kulkarni</dc:creator><dc:creator>Lauren Wolf</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01054-z</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-10; | doi:10.1038/d41586-024-01054-z</dc:source>
+            <dc:date>2024-04-10</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01054-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01054-z</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07365-5">
             <title><![CDATA[Giant energy storage and power density negative capacitance superlattices]]></title>
@@ -373,11 +448,11 @@
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01059-8">
-            <title><![CDATA[In a surprise move Iran releases conservationists who studied big cats]]></title>
+            <title><![CDATA[Iran frees scientists who studied big cats in surprise move]]></title>
             <link>https://www.nature.com/articles/d41586-024-01059-8</link>
             <content:encoded>
                 <![CDATA[<p>Nature, Published online: 09 April 2024; <a href="https://www.nature.com/articles/d41586-024-01059-8">doi:10.1038/d41586-024-01059-8</a></p>Six-year ordeal for researchers studying Asiatic cheetah and Persian leopard ends in prisoner amnesty.]]></content:encoded>
-            <dc:title><![CDATA[In a surprise move Iran releases conservationists who studied big cats]]></dc:title>
+            <dc:title><![CDATA[Iran frees scientists who studied big cats in surprise move]]></dc:title>
             <dc:creator>Michele Catanzaro</dc:creator>
             <dc:identifier>doi:10.1038/d41586-024-01059-8</dc:identifier>
             <dc:source>Nature, Published online: 2024-04-09; | doi:10.1038/d41586-024-01059-8</dc:source>
@@ -385,6 +460,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01059-8</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01059-8</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01064-x">
+            <title><![CDATA[AI &amp; robotics briefing: How AI is improving climate forecasts]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01064-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 09 April 2024; <a href="https://www.nature.com/articles/d41586-024-01064-x">doi:10.1038/d41586-024-01064-x</a></p>Climate forecasting powered by AI algorithms could replace the equation-based systems that guide global policy. Plus, how prompt flooding bypasses safety barriers and the algorithm that makes beer tastier.]]></content:encoded>
+            <dc:title><![CDATA[AI &amp; robotics briefing: How AI is improving climate forecasts]]></dc:title>
+            <dc:creator>Katrina Krämer</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01064-x</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-09; | doi:10.1038/d41586-024-01064-x</dc:source>
+            <dc:date>2024-04-09</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01064-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01064-x</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07379-z">
@@ -1210,96 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00898-9</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00898-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00974-0">
-            <title><![CDATA[Diabetes drug slows development of Parkinson’s disease]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00974-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 03 April 2024; <a href="https://www.nature.com/articles/d41586-024-00974-0">doi:10.1038/d41586-024-00974-0</a></p>The drug, which is in the same family as blockbuster weight-loss drugs such as Wegovy, slowed development of symptoms by a small but statistically significant amount.]]></content:encoded>
-            <dc:title><![CDATA[Diabetes drug slows development of Parkinson’s disease]]></dc:title>
-            <dc:creator>David Adam</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00974-0</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-03; | doi:10.1038/d41586-024-00974-0</dc:source>
-            <dc:date>2024-04-03</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00974-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00974-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00988-8">
-            <title><![CDATA[Taiwan hit by biggest earthquake in 25 years: why scientists weren’t surprised]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00988-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 03 April 2024; <a href="https://www.nature.com/articles/d41586-024-00988-8">doi:10.1038/d41586-024-00988-8</a></p>A complex network of faults lies in the area that experienced the earthquake, and more shocks are expected.]]></content:encoded>
-            <dc:title><![CDATA[Taiwan hit by biggest earthquake in 25 years: why scientists weren’t surprised]]></dc:title>
-            <dc:creator>Gemma Conroy</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00988-8</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-03; | doi:10.1038/d41586-024-00988-8</dc:source>
-            <dc:date>2024-04-03</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00988-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00988-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00962-4">
-            <title><![CDATA[The EU’s ominous emphasis on ‘open strategic autonomy’ in research]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00962-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 03 April 2024; <a href="https://www.nature.com/articles/d41586-024-00962-4">doi:10.1038/d41586-024-00962-4</a></p>A reboot of the flagship Horizon Europe fund risks prioritizing a mindset geared towards security over open, future-facing research collaboration.]]></content:encoded>
-            <dc:title><![CDATA[The EU’s ominous emphasis on ‘open strategic autonomy’ in research]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-00962-4</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-03; | doi:10.1038/d41586-024-00962-4</dc:source>
-            <dc:date>2024-04-03</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00962-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00962-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07344-w">
-            <title><![CDATA[Author Correction: SARS-CoV-2 neutralizing antibody structures inform therapeutic strategies]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07344-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 02 April 2024; <a href="https://www.nature.com/articles/s41586-024-07344-w">doi:10.1038/s41586-024-07344-w</a></p>Author Correction: SARS-CoV-2 neutralizing antibody structures inform therapeutic strategies]]></content:encoded>
-            <dc:title><![CDATA[Author Correction: SARS-CoV-2 neutralizing antibody structures inform therapeutic strategies]]></dc:title>
-            <dc:creator>Christopher O. Barnes</dc:creator><dc:creator>Claudia A. Jette</dc:creator><dc:creator>Morgan E. Abernathy</dc:creator><dc:creator>Kim-Marie A. Dam</dc:creator><dc:creator>Shannon R. Esswein</dc:creator><dc:creator>Harry B. Gristick</dc:creator><dc:creator>Andrey G. Malyutin</dc:creator><dc:creator>Naima G. Sharaf</dc:creator><dc:creator>Kathryn E. Huey-Tubman</dc:creator><dc:creator>Yu E. Lee</dc:creator><dc:creator>Davide F. Robbiani</dc:creator><dc:creator>Michel C. Nussenzweig</dc:creator><dc:creator>Anthony P. West Jr</dc:creator><dc:creator>Pamela J. Bjorkman</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07344-w</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-02; | doi:10.1038/s41586-024-07344-w</dc:source>
-            <dc:date>2024-04-02</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07344-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07344-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00972-2">
-            <title><![CDATA[Don’t dismiss carbon credits that aim to avoid future emissions]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00972-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 02 April 2024; <a href="https://www.nature.com/articles/d41586-024-00972-2">doi:10.1038/d41586-024-00972-2</a></p>Don’t dismiss carbon credits that aim to avoid future emissions]]></content:encoded>
-            <dc:title><![CDATA[Don’t dismiss carbon credits that aim to avoid future emissions]]></dc:title>
-            <dc:creator>Edward Mitchard</dc:creator><dc:creator>Peter Ellis</dc:creator><dc:creator>Susan Cook Patton</dc:creator><dc:creator>Roselyn Fosuah Adjei</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00972-2</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-02; | doi:10.1038/d41586-024-00972-2</dc:source>
-            <dc:date>2024-04-02</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00972-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00972-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00977-x">
-            <title><![CDATA[Right- or left-handed? Protein in embryo cells might help decide]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00977-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 02 April 2024; <a href="https://www.nature.com/articles/d41586-024-00977-x">doi:10.1038/d41586-024-00977-x</a></p>Gene that codes for structural protein could determine the dominant side of the human brain.]]></content:encoded>
-            <dc:title><![CDATA[Right- or left-handed? Protein in embryo cells might help decide]]></dc:title>
-            <dc:creator>Sumeet Kulkarni</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00977-x</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-02; | doi:10.1038/d41586-024-00977-x</dc:source>
-            <dc:date>2024-04-02</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00977-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00977-x</prism:url>
         </item>
     
 </rdf:RDF>
