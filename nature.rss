@@ -18,9 +18,17 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07365-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07392-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07333-z"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01039-y"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01041-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00919-7"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01038-z"/>
                 
@@ -30,7 +38,13 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00995-9"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01053-0"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01001-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00994-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01059-8"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07379-z"/>
                 
@@ -47,6 +61,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01003-w"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01044-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01058-9"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00999-5"/>
                 
@@ -152,22 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00977-x"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00918-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00970-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00969-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00971-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00901-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00899-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00953-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00904-0"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,51 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07365-5">
+            <title><![CDATA[Giant energy storage and power density negative capacitance superlattices]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07365-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 09 April 2024; <a href="https://www.nature.com/articles/s41586-024-07365-5">doi:10.1038/s41586-024-07365-5</a></p>Giant energy storage and power density negative capacitance superlattices]]></content:encoded>
+            <dc:title><![CDATA[Giant energy storage and power density negative capacitance superlattices]]></dc:title>
+            <dc:creator>Suraj S. Cheema</dc:creator><dc:creator>Nirmaan Shanker</dc:creator><dc:creator>Shang-Lin Hsu</dc:creator><dc:creator>Joseph Schaadt</dc:creator><dc:creator>Nathan M. Ellis</dc:creator><dc:creator>Matthew Cook</dc:creator><dc:creator>Ravi Rastogi</dc:creator><dc:creator>Robert C. N. Pilawa-Podgurski</dc:creator><dc:creator>Jim Ciston</dc:creator><dc:creator>Mohamed Mohamed</dc:creator><dc:creator>Sayeef Salahuddin</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07365-5</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-09; | doi:10.1038/s41586-024-07365-5</dc:source>
+            <dc:date>2024-04-09</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07365-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07365-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07392-2">
+            <title><![CDATA[Publisher Correction: Decoding chromatin states by proteomic profiling of nucleosome readers]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07392-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 09 April 2024; <a href="https://www.nature.com/articles/s41586-024-07392-2">doi:10.1038/s41586-024-07392-2</a></p>Publisher Correction: Decoding chromatin states by proteomic profiling of nucleosome readers]]></content:encoded>
+            <dc:title><![CDATA[Publisher Correction: Decoding chromatin states by proteomic profiling of nucleosome readers]]></dc:title>
+            <dc:creator>Saulius Lukauskas</dc:creator><dc:creator>Andrey Tvardovskiy</dc:creator><dc:creator>Nhuong V. Nguyen</dc:creator><dc:creator>Mara Stadler</dc:creator><dc:creator>Peter Faull</dc:creator><dc:creator>Tina Ravnsborg</dc:creator><dc:creator>Bihter Özdemir Aygenli</dc:creator><dc:creator>Scarlett Dornauer</dc:creator><dc:creator>Helen Flynn</dc:creator><dc:creator>Rik G. H. Lindeboom</dc:creator><dc:creator>Teresa K. Barth</dc:creator><dc:creator>Kevin Brockers</dc:creator><dc:creator>Stefanie M. Hauck</dc:creator><dc:creator>Michiel Vermeulen</dc:creator><dc:creator>Ambrosius P. Snijders</dc:creator><dc:creator>Christian L. Müller</dc:creator><dc:creator>Peter A. DiMaggio</dc:creator><dc:creator>Ole N. Jensen</dc:creator><dc:creator>Robert Schneider</dc:creator><dc:creator>Till Bartke</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07392-2</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-09; | doi:10.1038/s41586-024-07392-2</dc:source>
+            <dc:date>2024-04-09</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07392-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07392-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07333-z">
+            <title><![CDATA[Author Correction: Landscape-scale benefits of protected areas for tropical biodiversity]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07333-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 09 April 2024; <a href="https://www.nature.com/articles/s41586-024-07333-z">doi:10.1038/s41586-024-07333-z</a></p>Author Correction: Landscape-scale benefits of protected areas for tropical biodiversity]]></content:encoded>
+            <dc:title><![CDATA[Author Correction: Landscape-scale benefits of protected areas for tropical biodiversity]]></dc:title>
+            <dc:creator>Jedediah F. Brodie</dc:creator><dc:creator>Jayasilan Mohd-Azlan</dc:creator><dc:creator>Cheng Chen</dc:creator><dc:creator>Oliver R. Wearn</dc:creator><dc:creator>Mairin C. M. Deith</dc:creator><dc:creator>James G. C. Ball</dc:creator><dc:creator>Eleanor M. Slade</dc:creator><dc:creator>David F. R. P. Burslem</dc:creator><dc:creator>Shu Woan Teoh</dc:creator><dc:creator>Peter J. Williams</dc:creator><dc:creator>An Nguyen</dc:creator><dc:creator>Jonathan H. Moore</dc:creator><dc:creator>Scott J. Goetz</dc:creator><dc:creator>Patrick Burns</dc:creator><dc:creator>Patrick Jantz</dc:creator><dc:creator>Christopher R. Hakkenberg</dc:creator><dc:creator>Zaneta M. Kaszta</dc:creator><dc:creator>Sam Cushman</dc:creator><dc:creator>David Coomes</dc:creator><dc:creator>Olga E. Helmy</dc:creator><dc:creator>Glen Reynolds</dc:creator><dc:creator>Jon Paul Rodríguez</dc:creator><dc:creator>Walter Jetz</dc:creator><dc:creator>Matthew Scott Luskin</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07333-z</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-09; | doi:10.1038/s41586-024-07333-z</dc:source>
+            <dc:date>2024-04-09</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07333-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07333-z</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01039-y">
             <title><![CDATA[How to break big tech’s stranglehold on AI in academia]]></title>
@@ -205,6 +250,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01041-4</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01041-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00919-7">
+            <title><![CDATA[The biologist who built a Faraday cage for a crab]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00919-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 09 April 2024; <a href="https://www.nature.com/articles/d41586-024-00919-7">doi:10.1038/d41586-024-00919-7</a></p>What every biologist should know about electronics, plus a disturbing outbreak of volcanism in North Carolina, in the weekly dip into Nature’s archive.]]></content:encoded>
+            <dc:title><![CDATA[The biologist who built a Faraday cage for a crab]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-00919-7</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-09; | doi:10.1038/d41586-024-00919-7</dc:source>
+            <dc:date>2024-04-09</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00919-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00919-7</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01038-z">
@@ -267,6 +327,21 @@
             <prism:url>https://www.nature.com/articles/d41586-024-00995-9</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01053-0">
+            <title><![CDATA[How I harnessed media engagement to supercharge my research career]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01053-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 09 April 2024; <a href="https://www.nature.com/articles/d41586-024-01053-0">doi:10.1038/d41586-024-01053-0</a></p>My initial exposure to the world’s media was serendipitous, but I’ve learnt to be proactive about it — and reaped the benefits.]]></content:encoded>
+            <dc:title><![CDATA[How I harnessed media engagement to supercharge my research career]]></dc:title>
+            <dc:creator>Ben Singh</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01053-0</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-09; | doi:10.1038/d41586-024-01053-0</dc:source>
+            <dc:date>2024-04-09</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01053-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01053-0</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-024-01001-y">
             <title><![CDATA[AI can help to tailor drugs for Africa — but Africans should lead the way]]></title>
             <link>https://www.nature.com/articles/d41586-024-01001-y</link>
@@ -280,6 +355,36 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01001-y</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01001-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00994-w">
+            <title><![CDATA[Rwanda 30 years on: understanding the horror of genocide]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00994-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 09 April 2024; <a href="https://www.nature.com/articles/d41586-024-00994-w">doi:10.1038/d41586-024-00994-w</a></p>Researchers must support and elevate the voices of Rwanda’s scholars and survivors.]]></content:encoded>
+            <dc:title><![CDATA[Rwanda 30 years on: understanding the horror of genocide]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-00994-w</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-09; | doi:10.1038/d41586-024-00994-w</dc:source>
+            <dc:date>2024-04-09</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00994-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00994-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01059-8">
+            <title><![CDATA[In a surprise move Iran releases conservationists who studied big cats]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01059-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 09 April 2024; <a href="https://www.nature.com/articles/d41586-024-01059-8">doi:10.1038/d41586-024-01059-8</a></p>Six-year ordeal for researchers studying Asiatic cheetah and Persian leopard ends in prisoner amnesty.]]></content:encoded>
+            <dc:title><![CDATA[In a surprise move Iran releases conservationists who studied big cats]]></dc:title>
+            <dc:creator>Michele Catanzaro</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01059-8</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-09; | doi:10.1038/d41586-024-01059-8</dc:source>
+            <dc:date>2024-04-09</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01059-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01059-8</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07379-z">
@@ -400,6 +505,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01044-1</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01044-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01058-9">
+            <title><![CDATA[Daily briefing: How a physicist faked blockbuster superconductivity claims]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01058-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 April 2024; <a href="https://www.nature.com/articles/d41586-024-01058-9">doi:10.1038/d41586-024-01058-9</a></p>An official investigation reveals the extent of superconductivity physicist Ranga Dias’s scientific misconduct. Plus, why scientists are concerned about a bird flu outbreak in US cows and the theory of ‘survival of the nicest’.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: How a physicist faked blockbuster superconductivity claims]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01058-9</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-08; | doi:10.1038/d41586-024-01058-9</dc:source>
+            <dc:date>2024-04-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01058-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01058-9</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00999-5">
@@ -1180,126 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00977-x</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00977-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00918-8">
-            <title><![CDATA[Why hand-operated front brakes were set to be the future of motoring]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00918-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 02 April 2024; <a href="https://www.nature.com/articles/d41586-024-00918-8">doi:10.1038/d41586-024-00918-8</a></p>The complexity of fitting brakes to all four wheels of a car and the simplicity of John Maynard Smith’s ecological models, in the weekly dip into Nature’s archive.]]></content:encoded>
-            <dc:title><![CDATA[Why hand-operated front brakes were set to be the future of motoring]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-00918-8</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-02; | doi:10.1038/d41586-024-00918-8</dc:source>
-            <dc:date>2024-04-02</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00918-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00918-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00970-4">
-            <title><![CDATA[Adopt universal standards for study adaptation to boost health, education and social-science research]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00970-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 02 April 2024; <a href="https://www.nature.com/articles/d41586-024-00970-4">doi:10.1038/d41586-024-00970-4</a></p>Adopt universal standards for study adaptation to boost health, education and social-science research]]></content:encoded>
-            <dc:title><![CDATA[Adopt universal standards for study adaptation to boost health, education and social-science research]]></dc:title>
-            <dc:creator>Dragos Iliescu</dc:creator><dc:creator>Samuel Greiff</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00970-4</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-02; | doi:10.1038/d41586-024-00970-4</dc:source>
-            <dc:date>2024-04-02</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00970-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00970-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00969-x">
-            <title><![CDATA[How can we make PhD training fit for the modern world? Broaden its philosophical foundations]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00969-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 02 April 2024; <a href="https://www.nature.com/articles/d41586-024-00969-x">doi:10.1038/d41586-024-00969-x</a></p>How can we make PhD training fit for the modern world? Broaden its philosophical foundations]]></content:encoded>
-            <dc:title><![CDATA[How can we make PhD training fit for the modern world? Broaden its philosophical foundations]]></dc:title>
-            <dc:creator>Ganesh Alagarasan</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00969-x</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-02; | doi:10.1038/d41586-024-00969-x</dc:source>
-            <dc:date>2024-04-02</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00969-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00969-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00971-3">
-            <title><![CDATA[Allow researchers with caring responsibilities ‘promotion pauses’ to make research more equitable]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00971-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 02 April 2024; <a href="https://www.nature.com/articles/d41586-024-00971-3">doi:10.1038/d41586-024-00971-3</a></p>Allow researchers with caring responsibilities ‘promotion pauses’ to make research more equitable]]></content:encoded>
-            <dc:title><![CDATA[Allow researchers with caring responsibilities ‘promotion pauses’ to make research more equitable]]></dc:title>
-            <dc:creator>Daniel H. Lowenstein</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00971-3</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-02; | doi:10.1038/d41586-024-00971-3</dc:source>
-            <dc:date>2024-04-02</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00971-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00971-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00901-3">
-            <title><![CDATA[Long COVID still has no cure — so these patients are turning to research]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00901-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 02 April 2024; <a href="https://www.nature.com/articles/d41586-024-00901-3">doi:10.1038/d41586-024-00901-3</a></p>With key long COVID trials yet to yield results, people with the condition are trying to change how clinical trials are done.]]></content:encoded>
-            <dc:title><![CDATA[Long COVID still has no cure — so these patients are turning to research]]></dc:title>
-            <dc:creator>Rachel Fairbank</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00901-3</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-02; | doi:10.1038/d41586-024-00901-3</dc:source>
-            <dc:date>2024-04-02</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00901-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00901-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00899-8">
-            <title><![CDATA[Impact factors are outdated, but new research assessments still fail scientists]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00899-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 02 April 2024; <a href="https://www.nature.com/articles/d41586-024-00899-8">doi:10.1038/d41586-024-00899-8</a></p>A move away from narrow assessment metrics such as publication records is welcome. Now planning and consultation is needed to make sure that replacements work better.]]></content:encoded>
-            <dc:title><![CDATA[Impact factors are outdated, but new research assessments still fail scientists]]></dc:title>
-            <dc:creator>Kelly Cobey</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00899-8</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-02; | doi:10.1038/d41586-024-00899-8</dc:source>
-            <dc:date>2024-04-02</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00899-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00899-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00953-5">
-            <title><![CDATA[‘Maybe I was never meant to be in science’: how imposter syndrome seizes scientist mothers]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00953-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 02 April 2024; <a href="https://www.nature.com/articles/d41586-024-00953-5">doi:10.1038/d41586-024-00953-5</a></p>Brazilian biologist Fernanda Staniscuaski saw career opportunities diminish after returning from parental leave, prompting her to take action.]]></content:encoded>
-            <dc:title><![CDATA[‘Maybe I was never meant to be in science’: how imposter syndrome seizes scientist mothers]]></dc:title>
-            <dc:creator>Julie Gould</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00953-5</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-02; | doi:10.1038/d41586-024-00953-5</dc:source>
-            <dc:date>2024-04-02</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00953-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00953-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00904-0">
-            <title><![CDATA[A 2023 hurricane caught Mexico off guard: we must work together to prepare better]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00904-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 02 April 2024; <a href="https://www.nature.com/articles/d41586-024-00904-0">doi:10.1038/d41586-024-00904-0</a></p>Hurricane Otis yields lessons for researchers and policymakers on how to reduce risks in the face of inequality.]]></content:encoded>
-            <dc:title><![CDATA[A 2023 hurricane caught Mexico off guard: we must work together to prepare better]]></dc:title>
-            <dc:creator>Gian C. Delgado-Ramos</dc:creator><dc:creator>Simone Lucatello</dc:creator><dc:creator>Debora Ley</dc:creator><dc:creator>Antonina Ivanova</dc:creator><dc:creator>Ma de Lourdes Romo-Aguilar</dc:creator><dc:creator>Cecilia Conde</dc:creator><dc:creator>Miguel Imaz-Lamadrid</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00904-0</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-02; | doi:10.1038/d41586-024-00904-0</dc:source>
-            <dc:date>2024-04-02</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00904-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00904-0</prism:url>
         </item>
     
 </rdf:RDF>
