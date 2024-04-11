@@ -18,6 +18,8 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00931-x"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07360-w"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07373-5"/>
@@ -166,8 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01030-7"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00884-1"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,21 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00931-x">
+            <title><![CDATA[This fMRI technique promised to transform brain research — why can no one replicate it?]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00931-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 11 April 2024; <a href="https://www.nature.com/articles/d41586-024-00931-x">doi:10.1038/d41586-024-00931-x</a></p>The DIANA technique sparked excitement from neuroscientists. But two new papers have cast doubt over the results.]]></content:encoded>
+            <dc:title><![CDATA[This fMRI technique promised to transform brain research — why can no one replicate it?]]></dc:title>
+            <dc:creator>McKenzie Prillaman</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00931-x</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-11; | doi:10.1038/d41586-024-00931-x</dc:source>
+            <dc:date>2024-04-11</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00931-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00931-x</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07360-w">
             <title><![CDATA[Selenium alloyed tellurium oxide for amorphous p-channel transistors]]></title>
@@ -1285,21 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01030-7</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01030-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00884-1">
-            <title><![CDATA[Audio long read: Why are so many young people getting cancer? What the data say]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00884-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 05 April 2024; <a href="https://www.nature.com/articles/d41586-024-00884-1">doi:10.1038/d41586-024-00884-1</a></p>Researchers are scrambling to explain why rates of multiple cancers are increasing among adults under the age of 50.]]></content:encoded>
-            <dc:title><![CDATA[Audio long read: Why are so many young people getting cancer? What the data say]]></dc:title>
-            <dc:creator>Heidi Ledford</dc:creator><dc:creator>Benjamin Thompson</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00884-1</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-05; | doi:10.1038/d41586-024-00884-1</dc:source>
-            <dc:date>2024-04-05</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00884-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00884-1</prism:url>
         </item>
     
 </rdf:RDF>
