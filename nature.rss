@@ -18,6 +18,10 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07401-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01103-7"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01031-6"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01032-5"/>
@@ -164,10 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01042-3"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01047-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01002-x"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,36 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07401-4">
+            <title><![CDATA[Author Correction: Controlling the helicity of light by electrical magnetization switching]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07401-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 12 April 2024; <a href="https://www.nature.com/articles/s41586-024-07401-4">doi:10.1038/s41586-024-07401-4</a></p>Author Correction: Controlling the helicity of light by electrical magnetization switching]]></content:encoded>
+            <dc:title><![CDATA[Author Correction: Controlling the helicity of light by electrical magnetization switching]]></dc:title>
+            <dc:creator>Pambiang Abel Dainone</dc:creator><dc:creator>Nicholas Figueiredo Prestes</dc:creator><dc:creator>Pierre Renucci</dc:creator><dc:creator>Alexandre Bouché</dc:creator><dc:creator>Martina Morassi</dc:creator><dc:creator>Xavier Devaux</dc:creator><dc:creator>Markus Lindemann</dc:creator><dc:creator>Jean-Marie George</dc:creator><dc:creator>Henri Jaffrès</dc:creator><dc:creator>Aristide Lemaitre</dc:creator><dc:creator>Bo Xu</dc:creator><dc:creator>Mathieu Stoffel</dc:creator><dc:creator>Tongxin Chen</dc:creator><dc:creator>Laurent Lombez</dc:creator><dc:creator>Delphine Lagarde</dc:creator><dc:creator>Guangwei Cong</dc:creator><dc:creator>Tianyi Ma</dc:creator><dc:creator>Philippe Pigeat</dc:creator><dc:creator>Michel Vergnat</dc:creator><dc:creator>Hervé Rinnert</dc:creator><dc:creator>Xavier Marie</dc:creator><dc:creator>Xiufeng Han</dc:creator><dc:creator>Stephane Mangin</dc:creator><dc:creator>Juan-Carlos Rojas-Sánchez</dc:creator><dc:creator>Jian-Ping Wang</dc:creator><dc:creator>Matthew C. Beard</dc:creator><dc:creator>Nils C. Gerhardt</dc:creator><dc:creator>Igor Žutić</dc:creator><dc:creator>Yuan Lu</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07401-4</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-12; | doi:10.1038/s41586-024-07401-4</dc:source>
+            <dc:date>2024-04-12</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07401-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07401-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01103-7">
+            <title><![CDATA[Peter Higgs obituary: physicist who predicted boson that explains why particles have mass]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01103-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 12 April 2024; <a href="https://www.nature.com/articles/d41586-024-01103-7">doi:10.1038/d41586-024-01103-7</a></p>Theoretical physicist saw his eponymous particle discovered after 48 years.]]></content:encoded>
+            <dc:title><![CDATA[Peter Higgs obituary: physicist who predicted boson that explains why particles have mass]]></dc:title>
+            <dc:creator>Christine Sutton</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01103-7</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-12; | doi:10.1038/d41586-024-01103-7</dc:source>
+            <dc:date>2024-04-12</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01103-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01103-7</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01031-6">
             <title><![CDATA[Bitter taste receptors are even older than scientists thought]]></title>
@@ -1270,36 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01042-3</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01042-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01047-y">
-            <title><![CDATA[How two PhD students overcame the odds to snag tenure-track jobs]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01047-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 08 April 2024; <a href="https://www.nature.com/articles/d41586-024-01047-y">doi:10.1038/d41586-024-01047-y</a></p>Between us, we got several offers to lead labs before we had finished our PhDs.]]></content:encoded>
-            <dc:title><![CDATA[How two PhD students overcame the odds to snag tenure-track jobs]]></dc:title>
-            <dc:creator>Violeta Rodriguez </dc:creator><dc:creator>Qimin Liu</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01047-y</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-08; | doi:10.1038/d41586-024-01047-y</dc:source>
-            <dc:date>2024-04-08</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01047-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01047-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01002-x">
-            <title><![CDATA[Ready or not, AI is coming to science education — and students have opinions]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01002-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 08 April 2024; <a href="https://www.nature.com/articles/d41586-024-01002-x">doi:10.1038/d41586-024-01002-x</a></p>As educators debate whether it’s even possible to use AI safely in research and education, students are taking a role in shaping its responsible use.]]></content:encoded>
-            <dc:title><![CDATA[Ready or not, AI is coming to science education — and students have opinions]]></dc:title>
-            <dc:creator>Sarah Wells</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01002-x</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-08; | doi:10.1038/d41586-024-01002-x</dc:source>
-            <dc:date>2024-04-08</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01002-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01002-x</prism:url>
         </item>
     
 </rdf:RDF>
