@@ -30,6 +30,8 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01046-z"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01106-4"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00931-x"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07360-w"/>
@@ -166,8 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01035-2"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01042-3"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -265,6 +265,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01046-z</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01046-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01106-4">
+            <title><![CDATA[Daily briefing: Signs that ChatGPT is polluting peer review]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01106-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 11 April 2024; <a href="https://www.nature.com/articles/d41586-024-01106-4">doi:10.1038/d41586-024-01106-4</a></p>Buzzwords typical of AI-generated text were found in peer review reports. Plus, replication issues plague promising DIANA fMRI technique and how climate change is harming mental health.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Signs that ChatGPT is polluting peer review]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01106-4</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-11; | doi:10.1038/d41586-024-01106-4</dc:source>
+            <dc:date>2024-04-11</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01106-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01106-4</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00931-x">
@@ -1285,21 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01035-2</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01035-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01042-3">
-            <title><![CDATA[Three ways ChatGPT helps me in my academic writing]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01042-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 08 April 2024; <a href="https://www.nature.com/articles/d41586-024-01042-3">doi:10.1038/d41586-024-01042-3</a></p>Generative AI can be a valuable aid in writing, editing and peer review – if you use it responsibly, says Dritjon Gruda.]]></content:encoded>
-            <dc:title><![CDATA[Three ways ChatGPT helps me in my academic writing]]></dc:title>
-            <dc:creator>Dritjon Gruda</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01042-3</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-08; | doi:10.1038/d41586-024-01042-3</dc:source>
-            <dc:date>2024-04-08</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01042-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01042-3</prism:url>
         </item>
     
 </rdf:RDF>
