@@ -18,6 +18,8 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01076-7"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07401-4"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01103-7"/>
@@ -166,8 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00999-5"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01035-2"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,21 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01076-7">
+            <title><![CDATA[Lethal dust storms blanket Asia every spring — now AI could help predict them]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01076-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 15 April 2024; <a href="https://www.nature.com/articles/d41586-024-01076-7">doi:10.1038/d41586-024-01076-7</a></p>As the annual phenomenon once again strikes East Asia, scientists are hard at work to better predict how they will affect people.]]></content:encoded>
+            <dc:title><![CDATA[Lethal dust storms blanket Asia every spring — now AI could help predict them]]></dc:title>
+            <dc:creator>Xiaoying You</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01076-7</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-15; | doi:10.1038/d41586-024-01076-7</dc:source>
+            <dc:date>2024-04-15</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01076-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01076-7</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07401-4">
             <title><![CDATA[Author Correction: Controlling the helicity of light by electrical magnetization switching]]></title>
@@ -1285,21 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00999-5</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00999-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01035-2">
-            <title><![CDATA[Brazil budget cuts could leave science labs without power and water]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01035-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 08 April 2024; <a href="https://www.nature.com/articles/d41586-024-01035-2">doi:10.1038/d41586-024-01035-2</a></p>The Lula administration is trying to reverse lawmakers’ reductions, which are hitting scientists in the Amazon especially hard.]]></content:encoded>
-            <dc:title><![CDATA[Brazil budget cuts could leave science labs without power and water]]></dc:title>
-            <dc:creator>Rodrigo de Oliveira Andrade</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01035-2</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-08; | doi:10.1038/d41586-024-01035-2</dc:source>
-            <dc:date>2024-04-08</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01035-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01035-2</prism:url>
         </item>
     
 </rdf:RDF>
