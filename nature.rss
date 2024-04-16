@@ -18,6 +18,12 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01072-x"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01097-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07244-z"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01076-7"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01050-3"/>
@@ -28,9 +34,17 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01108-2"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01115-3"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01087-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00660-1"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01080-x"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07401-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01112-6"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01103-7"/>
                 
@@ -154,20 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01061-0"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01059-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01064-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07379-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07346-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07384-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01004-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07205-6"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,51 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01072-x">
+            <title><![CDATA[A spa session for humpback whales]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01072-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 15 April 2024; <a href="https://www.nature.com/articles/d41586-024-01072-x">doi:10.1038/d41586-024-01072-x</a></p>The gigantic animals have worked out an unusual way to exfoliate — a perfect way to deal with whale lice.]]></content:encoded>
+            <dc:title><![CDATA[A spa session for humpback whales]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-01072-x</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-15; | doi:10.1038/d41586-024-01072-x</dc:source>
+            <dc:date>2024-04-15</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01072-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01072-x</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01097-2">
+            <title><![CDATA[Acid test: why the chemistry of this unique crater lake matters]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01097-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 15 April 2024; <a href="https://www.nature.com/articles/d41586-024-01097-2">doi:10.1038/d41586-024-01097-2</a></p>Hanik Humaida monitors the activity of Indonesia’s volcanoes to help protect the public.]]></content:encoded>
+            <dc:title><![CDATA[Acid test: why the chemistry of this unique crater lake matters]]></dc:title>
+            <dc:creator>James Mitchell Crow</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01097-2</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-15; | doi:10.1038/d41586-024-01097-2</dc:source>
+            <dc:date>2024-04-15</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01097-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01097-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07244-z">
+            <title><![CDATA[Light-wave-controlled Haldane model in monolayer hexagonal boron nitride]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07244-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 15 April 2024; <a href="https://www.nature.com/articles/s41586-024-07244-z">doi:10.1038/s41586-024-07244-z</a></p>We introduce strong tailored light-wave-driven time-reversal symmetry breaking in monolayer hexagonal boron nitride, realizing a sub-laser-cycle controllable analogue of the topological model of Haldane and inducing non-resonant valley polarization.]]></content:encoded>
+            <dc:title><![CDATA[Light-wave-controlled Haldane model in monolayer hexagonal boron nitride]]></dc:title>
+            <dc:creator>Sambit Mitra</dc:creator><dc:creator>Álvaro Jiménez-Galán</dc:creator><dc:creator>Mario Aulich</dc:creator><dc:creator>Marcel Neuhaus</dc:creator><dc:creator>Rui E. F. Silva</dc:creator><dc:creator>Volodymyr Pervak</dc:creator><dc:creator>Matthias F. Kling</dc:creator><dc:creator>Shubhadeep Biswas</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07244-z</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-15; | doi:10.1038/s41586-024-07244-z</dc:source>
+            <dc:date>2024-04-15</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07244-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07244-z</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01076-7">
             <title><![CDATA[Lethal dust storms blanket Asia every spring — now AI could help predict them]]></title>
@@ -252,6 +297,51 @@
             <prism:url>https://www.nature.com/articles/d41586-024-01108-2</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01115-3">
+            <title><![CDATA[Could JWST solve cosmology’s big mystery? Physicists debate Universe-expansion data]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01115-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 15 April 2024; <a href="https://www.nature.com/articles/d41586-024-01115-3">doi:10.1038/d41586-024-01115-3</a></p>New results could help to end a long standing disagreement over the rate of cosmic expansion. But scientists say more measurements are needed.]]></content:encoded>
+            <dc:title><![CDATA[Could JWST solve cosmology’s big mystery? Physicists debate Universe-expansion data]]></dc:title>
+            <dc:creator>Davide Castelvecchi</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01115-3</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-15; | doi:10.1038/d41586-024-01115-3</dc:source>
+            <dc:date>2024-04-15</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01115-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01115-3</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01087-4">
+            <title><![CDATA[AI now beats humans at basic tasks — new benchmarks are needed, says major report]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01087-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 15 April 2024; <a href="https://www.nature.com/articles/d41586-024-01087-4">doi:10.1038/d41586-024-01087-4</a></p>Stanford University’s 2024 AI Index charts the meteoric rise of artificial-intelligence tools.]]></content:encoded>
+            <dc:title><![CDATA[AI now beats humans at basic tasks — new benchmarks are needed, says major report]]></dc:title>
+            <dc:creator>Nicola Jones</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01087-4</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-15; | doi:10.1038/d41586-024-01087-4</dc:source>
+            <dc:date>2024-04-15</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01087-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01087-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00660-1">
+            <title><![CDATA[Revealed: the ten research papers that policy documents cite most]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00660-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 15 April 2024; <a href="https://www.nature.com/articles/d41586-024-00660-1">doi:10.1038/d41586-024-00660-1</a></p>An exclusive analysis shows that economics and interdisciplinary teams get the attention of policymakers.]]></content:encoded>
+            <dc:title><![CDATA[Revealed: the ten research papers that policy documents cite most]]></dc:title>
+            <dc:creator>Dalmeet Singh Chawla</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00660-1</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-15; | doi:10.1038/d41586-024-00660-1</dc:source>
+            <dc:date>2024-04-15</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00660-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00660-1</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-024-01080-x">
             <title><![CDATA[Citizenship privilege harms science]]></title>
             <link>https://www.nature.com/articles/d41586-024-01080-x</link>
@@ -280,6 +370,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/s41586-024-07401-4</prism:doi>
             <prism:url>https://www.nature.com/articles/s41586-024-07401-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01112-6">
+            <title><![CDATA[Daily briefing: First direct image of a ‘Wigner crystal’ made entirely of electrons]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01112-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 12 April 2024; <a href="https://www.nature.com/articles/d41586-024-01112-6">doi:10.1038/d41586-024-01112-6</a></p>A crystal structure predicted by Eugene Wigner in 1934 has been directly imaged for the first time. Plus, the first algae that can fix nitrogen and evidence for a shared practice of human sacrifice across Stone Age Europe.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: First direct image of a ‘Wigner crystal’ made entirely of electrons]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01112-6</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-12; | doi:10.1038/d41586-024-01112-6</dc:source>
+            <dc:date>2024-04-12</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01112-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01112-6</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01103-7">
@@ -808,11 +913,11 @@
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00956-2">
-            <title><![CDATA[India is booming — but there are worries ahead for basic science]]></title>
+            <title><![CDATA[What the India election means for science]]></title>
             <link>https://www.nature.com/articles/d41586-024-00956-2</link>
             <content:encoded>
                 <![CDATA[<p>Nature, Published online: 10 April 2024; <a href="https://www.nature.com/articles/d41586-024-00956-2">doi:10.1038/d41586-024-00956-2</a></p>With voting about to start in India’s general election, some researchers are concerned that sluggish funding growth and slow decision-making processes could hold the country back.]]></content:encoded>
-            <dc:title><![CDATA[India is booming — but there are worries ahead for basic science]]></dc:title>
+            <dc:title><![CDATA[What the India election means for science]]></dc:title>
             <dc:creator>Smriti Mallapaty</dc:creator>
             <dc:identifier>doi:10.1038/d41586-024-00956-2</dc:identifier>
             <dc:source>Nature, Published online: 2024-04-10; | doi:10.1038/d41586-024-00956-2</dc:source>
@@ -1195,111 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01061-0</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01061-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01059-8">
-            <title><![CDATA[Iran frees scientists who studied big cats in surprise move]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01059-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 09 April 2024; <a href="https://www.nature.com/articles/d41586-024-01059-8">doi:10.1038/d41586-024-01059-8</a></p>Six-year ordeal for researchers studying Asiatic cheetah and Persian leopard ends in prisoner amnesty.]]></content:encoded>
-            <dc:title><![CDATA[Iran frees scientists who studied big cats in surprise move]]></dc:title>
-            <dc:creator>Michele Catanzaro</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01059-8</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-09; | doi:10.1038/d41586-024-01059-8</dc:source>
-            <dc:date>2024-04-09</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01059-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01059-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01064-x">
-            <title><![CDATA[AI &amp; robotics briefing: How AI is improving climate forecasts]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01064-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 09 April 2024; <a href="https://www.nature.com/articles/d41586-024-01064-x">doi:10.1038/d41586-024-01064-x</a></p>Climate forecasting powered by AI algorithms could replace the equation-based systems that guide global policy. Plus, how prompt flooding bypasses safety barriers and the algorithm that makes beer tastier.]]></content:encoded>
-            <dc:title><![CDATA[AI &amp; robotics briefing: How AI is improving climate forecasts]]></dc:title>
-            <dc:creator>Katrina Krämer</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01064-x</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-09; | doi:10.1038/d41586-024-01064-x</dc:source>
-            <dc:date>2024-04-09</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01064-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01064-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07379-z">
-            <title><![CDATA[Tumor-selective activity of RAS-GTP inhibition in pancreatic cancer]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07379-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 08 April 2024; <a href="https://www.nature.com/articles/s41586-024-07379-z">doi:10.1038/s41586-024-07379-z</a></p>Tumor-selective activity of RAS-GTP inhibition in pancreatic cancer]]></content:encoded>
-            <dc:title><![CDATA[Tumor-selective activity of RAS-GTP inhibition in pancreatic cancer]]></dc:title>
-            <dc:creator>Urszula N. Wasko</dc:creator><dc:creator>Jingjing Jiang</dc:creator><dc:creator>Tanner C. Dalton</dc:creator><dc:creator>Alvaro Curiel-Garcia</dc:creator><dc:creator>A. Cole Edwards</dc:creator><dc:creator>Yingyun Wang</dc:creator><dc:creator>Bianca Lee</dc:creator><dc:creator>Margo Orlen</dc:creator><dc:creator>Sha Tian</dc:creator><dc:creator>Clint A. Stalnecker</dc:creator><dc:creator>Kristina Drizyte-Miller</dc:creator><dc:creator>Marie Menard</dc:creator><dc:creator>Julien Dilly</dc:creator><dc:creator>Stephen A. Sastra</dc:creator><dc:creator>Carmine F. Palermo</dc:creator><dc:creator>Marie C. Hasselluhn</dc:creator><dc:creator>Amanda R. Decker-Farrell</dc:creator><dc:creator>Stephanie Chang</dc:creator><dc:creator>Lingyan Jiang</dc:creator><dc:creator>Xing Wei</dc:creator><dc:creator>Yu C. Yang</dc:creator><dc:creator>Ciara Helland</dc:creator><dc:creator>Haley Courtney</dc:creator><dc:creator>Yevgeniy Gindin</dc:creator><dc:creator>Karl Muonio</dc:creator><dc:creator>Ruiping Zhao</dc:creator><dc:creator>Samantha B. Kemp</dc:creator><dc:creator>Cynthia Clendenin</dc:creator><dc:creator>Rina Sor</dc:creator><dc:creator>William P. Vostrejs</dc:creator><dc:creator>Priya S. Hibshman</dc:creator><dc:creator>Amber M. Amparo</dc:creator><dc:creator>Connor Hennessey</dc:creator><dc:creator>Matthew G. Rees</dc:creator><dc:creator>Melissa M. Ronan</dc:creator><dc:creator>Jennifer A. Roth</dc:creator><dc:creator>Jens Brodbeck</dc:creator><dc:creator>Lorenzo Tomassoni</dc:creator><dc:creator>Basil Bakir</dc:creator><dc:creator>Nicholas D. Socci</dc:creator><dc:creator>Laura E. Herring</dc:creator><dc:creator>Natalie K. Barker</dc:creator><dc:creator>Junning Wang</dc:creator><dc:creator>James M. Cleary</dc:creator><dc:creator>Brian M. Wolpin</dc:creator><dc:creator>John A. Chabot</dc:creator><dc:creator>Michael D. Kluger</dc:creator><dc:creator>Gulam A. Manji</dc:creator><dc:creator>Kenneth Y. Tsai</dc:creator><dc:creator>Miroslav Sekulic</dc:creator><dc:creator>Stephen M. Lagana</dc:creator><dc:creator>Andrea Califano</dc:creator><dc:creator>Elsa Quintana</dc:creator><dc:creator>Zhengping Wang</dc:creator><dc:creator>Jacqueline A. M. Smith</dc:creator><dc:creator>Matthew Holderfield</dc:creator><dc:creator>David Wildes</dc:creator><dc:creator>Scott W. Lowe</dc:creator><dc:creator>Michael A. Badgley</dc:creator><dc:creator>Andrew J. Aguirre</dc:creator><dc:creator>Robert H. Vonderheide</dc:creator><dc:creator>Ben Z. Stanger</dc:creator><dc:creator>Timour Baslan</dc:creator><dc:creator>Channing J. Der</dc:creator><dc:creator>Mallika Singh</dc:creator><dc:creator>Kenneth P. Olive</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07379-z</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-08; | doi:10.1038/s41586-024-07379-z</dc:source>
-            <dc:date>2024-04-08</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07379-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07379-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07346-8">
-            <title><![CDATA[Author Correction: Macromolecular condensation buffers intracellular water potential]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07346-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 08 April 2024; <a href="https://www.nature.com/articles/s41586-024-07346-8">doi:10.1038/s41586-024-07346-8</a></p>Author Correction: Macromolecular condensation buffers intracellular water potential]]></content:encoded>
-            <dc:title><![CDATA[Author Correction: Macromolecular condensation buffers intracellular water potential]]></dc:title>
-            <dc:creator>Joseph L. Watson</dc:creator><dc:creator>Estere Seinkmane</dc:creator><dc:creator>Christine T. Styles</dc:creator><dc:creator>Andrei Mihut</dc:creator><dc:creator>Lara K. Krüger</dc:creator><dc:creator>Kerrie E. McNally</dc:creator><dc:creator>Vicente Jose Planelles-Herrero</dc:creator><dc:creator>Michal Dudek</dc:creator><dc:creator>Patrick M. McCall</dc:creator><dc:creator>Silvia Barbiero</dc:creator><dc:creator>Michael Vanden Oever</dc:creator><dc:creator>Sew Yeu Peak-Chew</dc:creator><dc:creator>Benjamin T. Porebski</dc:creator><dc:creator>Aiwei Zeng</dc:creator><dc:creator>Nina M. Rzechorzek</dc:creator><dc:creator>David C. S. Wong</dc:creator><dc:creator>Andrew D. Beale</dc:creator><dc:creator>Alessandra Stangherlin</dc:creator><dc:creator>Margot Riggi</dc:creator><dc:creator>Janet Iwasa</dc:creator><dc:creator>Jörg Morf</dc:creator><dc:creator>Christos Miliotis</dc:creator><dc:creator>Alina Guna</dc:creator><dc:creator>Alison J. Inglis</dc:creator><dc:creator>Jan Brugués</dc:creator><dc:creator>Rebecca M. Voorhees</dc:creator><dc:creator>Joseph E. Chambers</dc:creator><dc:creator>Qing-Jun Meng</dc:creator><dc:creator>John S. O’Neill</dc:creator><dc:creator>Rachel S. Edgar</dc:creator><dc:creator>Emmanuel Derivery</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07346-8</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-08; | doi:10.1038/s41586-024-07346-8</dc:source>
-            <dc:date>2024-04-08</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07346-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07346-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07384-2">
-            <title><![CDATA[The PARTNER trial of neoadjuvant olaparib in triple-negative breast cancer]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07384-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 08 April 2024; <a href="https://www.nature.com/articles/s41586-024-07384-2">doi:10.1038/s41586-024-07384-2</a></p>The PARTNER trial of neoadjuvant olaparib in triple-negative breast cancer]]></content:encoded>
-            <dc:title><![CDATA[The PARTNER trial of neoadjuvant olaparib in triple-negative breast cancer]]></dc:title>
-            <dc:creator>Jean E. Abraham</dc:creator><dc:creator>Karen Pinilla</dc:creator><dc:creator>Alimu Dayimu</dc:creator><dc:creator>Louise Grybowicz</dc:creator><dc:creator>Nikolaos Demiris</dc:creator><dc:creator>Caron Harvey</dc:creator><dc:creator>Lynsey M. Drewett</dc:creator><dc:creator>Rebecca Lucey</dc:creator><dc:creator>Alexander Fulton</dc:creator><dc:creator>Anne N. Roberts</dc:creator><dc:creator>Joanna R. Worley</dc:creator><dc:creator>Anita Chhabra</dc:creator><dc:creator>Wendi Qian</dc:creator><dc:creator>Anne-Laure Vallier</dc:creator><dc:creator>Richard M. Hardy</dc:creator><dc:creator>Steve Chan</dc:creator><dc:creator>Tamas Hickish</dc:creator><dc:creator>Devashish Tripathi</dc:creator><dc:creator>Ramachandran Venkitaraman</dc:creator><dc:creator>Mojca Persic</dc:creator><dc:creator>Shahzeena Aslam</dc:creator><dc:creator>Daniel Glassman</dc:creator><dc:creator>Sanjay Raj</dc:creator><dc:creator>Annabel Borley</dc:creator><dc:creator>Jeremy P. Braybrooke</dc:creator><dc:creator>Stephanie Sutherland</dc:creator><dc:creator>Emma Staples</dc:creator><dc:creator>Lucy C. Scott</dc:creator><dc:creator>Mark Davies</dc:creator><dc:creator>Cheryl A. Palmer</dc:creator><dc:creator>Margaret Moody</dc:creator><dc:creator>Mark J. Churn</dc:creator><dc:creator>Jacqueline C. Newby</dc:creator><dc:creator>Mukesh B. Mukesh</dc:creator><dc:creator>Amitabha Chakrabarti</dc:creator><dc:creator>Rebecca R. Roylance</dc:creator><dc:creator>Philip C. Schouten</dc:creator><dc:creator>Nicola C. Levitt</dc:creator><dc:creator>Karen McAdam</dc:creator><dc:creator>Anne C. Armstrong</dc:creator><dc:creator>Ellen R. Copson</dc:creator><dc:creator>Emma McMurtry</dc:creator><dc:creator>Marc Tischkowitz</dc:creator><dc:creator>Elena Provenzano</dc:creator><dc:creator>Helena M. Earl</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07384-2</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-08; | doi:10.1038/s41586-024-07384-2</dc:source>
-            <dc:date>2024-04-08</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07384-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07384-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01004-9">
-            <title><![CDATA[Digging in: last chance to save a native forest]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01004-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 08 April 2024; <a href="https://www.nature.com/articles/d41586-024-01004-9">doi:10.1038/d41586-024-01004-9</a></p>Dario Sandrini hikes, plants and digs to save a threatened and diminishing ecosystem.]]></content:encoded>
-            <dc:title><![CDATA[Digging in: last chance to save a native forest]]></dc:title>
-            <dc:creator>James Mitchell Crow</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01004-9</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-08; | doi:10.1038/d41586-024-01004-9</dc:source>
-            <dc:date>2024-04-08</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01004-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01004-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07205-6">
-            <title><![CDATA[Concurrent inhibition of oncogenic and wild-type RAS-GTP for cancer therapy]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07205-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 08 April 2024; <a href="https://www.nature.com/articles/s41586-024-07205-6">doi:10.1038/s41586-024-07205-6</a></p>RMC-7977, a compound that exhibits potent inhibition of the active states of mutant and wild-type KRAS, NRAS and HRAS variants has a strong anti-tumour effect on RAS-addicted tumours and is well tolerated in preclinical models.]]></content:encoded>
-            <dc:title><![CDATA[Concurrent inhibition of oncogenic and wild-type RAS-GTP for cancer therapy]]></dc:title>
-            <dc:creator>Matthew Holderfield</dc:creator><dc:creator>Bianca J. Lee</dc:creator><dc:creator>Jingjing Jiang</dc:creator><dc:creator>Aidan Tomlinson</dc:creator><dc:creator>Kyle J. Seamon</dc:creator><dc:creator>Alessia Mira</dc:creator><dc:creator>Enrico Patrucco</dc:creator><dc:creator>Grace Goodhart</dc:creator><dc:creator>Julien Dilly</dc:creator><dc:creator>Yevgeniy Gindin</dc:creator><dc:creator>Nuntana Dinglasan</dc:creator><dc:creator>Yingyun Wang</dc:creator><dc:creator>Lick Pui Lai</dc:creator><dc:creator>Shurui Cai</dc:creator><dc:creator>Lingyan Jiang</dc:creator><dc:creator>Nicole Nasholm</dc:creator><dc:creator>Nataliya Shifrin</dc:creator><dc:creator>Cristina Blaj</dc:creator><dc:creator>Harshit Shah</dc:creator><dc:creator>James W. Evans</dc:creator><dc:creator>Nilufar Montazer</dc:creator><dc:creator>Oliver Lai</dc:creator><dc:creator>Jade Shi</dc:creator><dc:creator>Ethan Ahler</dc:creator><dc:creator>Elsa Quintana</dc:creator><dc:creator>Stephanie Chang</dc:creator><dc:creator>Anthony Salvador</dc:creator><dc:creator>Abby Marquez</dc:creator><dc:creator>Jim Cregg</dc:creator><dc:creator>Yang Liu</dc:creator><dc:creator>Anthony Milin</dc:creator><dc:creator>Anqi Chen</dc:creator><dc:creator>Tamar Bar Ziv</dc:creator><dc:creator>Dylan Parsons</dc:creator><dc:creator>John E. Knox</dc:creator><dc:creator>Jennifer E. Klomp</dc:creator><dc:creator>Jennifer Roth</dc:creator><dc:creator>Matthew Rees</dc:creator><dc:creator>Melissa Ronan</dc:creator><dc:creator>Antonio Cuevas-Navarro</dc:creator><dc:creator>Feng Hu</dc:creator><dc:creator>Piro Lito</dc:creator><dc:creator>David Santamaria</dc:creator><dc:creator>Andrew J. Aguirre</dc:creator><dc:creator>Andrew M. Waters</dc:creator><dc:creator>Channing J. Der</dc:creator><dc:creator>Chiara Ambrogio</dc:creator><dc:creator>Zhengping Wang</dc:creator><dc:creator>Adrian L. Gill</dc:creator><dc:creator>Elena S. Koltun</dc:creator><dc:creator>Jacqueline A. M. Smith</dc:creator><dc:creator>David Wildes</dc:creator><dc:creator>Mallika Singh</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07205-6</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-08; | doi:10.1038/s41586-024-07205-6</dc:source>
-            <dc:date>2024-04-08</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07205-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07205-6</prism:url>
         </item>
     
 </rdf:RDF>
