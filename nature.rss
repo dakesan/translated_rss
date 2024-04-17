@@ -18,6 +18,16 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01135-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01090-9"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01089-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01110-8"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01092-7"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01083-8"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01086-5"/>
@@ -34,7 +44,11 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01012-9"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01133-1"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01081-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01129-x"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01091-8"/>
                 
@@ -65,6 +79,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01080-x"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01109-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01120-6"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07401-4"/>
                 
@@ -152,22 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01009-4"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00440-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00921-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01054-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00889-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00910-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00712-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07365-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07392-2"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,81 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01135-z">
+            <title><![CDATA[Researchers want a ‘nutrition label’ for academic-paper facts]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01135-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 17 April 2024; <a href="https://www.nature.com/articles/d41586-024-01135-z">doi:10.1038/d41586-024-01135-z</a></p>An ‘at a glance’ approach to publication details, such as journal acceptance rates and the number of peer reviewers, would promote transparency, scientists say.]]></content:encoded>
+            <dc:title><![CDATA[Researchers want a ‘nutrition label’ for academic-paper facts]]></dc:title>
+            <dc:creator>Dalmeet Singh Chawla</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01135-z</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-17; | doi:10.1038/d41586-024-01135-z</dc:source>
+            <dc:date>2024-04-17</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01135-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01135-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01090-9">
+            <title><![CDATA[We must protect the global plastics treaty from corporate interference]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01090-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 17 April 2024; <a href="https://www.nature.com/articles/d41586-024-01090-9">doi:10.1038/d41586-024-01090-9</a></p>A United Nations-backed agreement to end plastic pollution is within reach — but only if scientists, civil society and businesses unite against powerful vested interests.]]></content:encoded>
+            <dc:title><![CDATA[We must protect the global plastics treaty from corporate interference]]></dc:title>
+            <dc:creator>Martin  Wagner</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01090-9</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-17; | doi:10.1038/d41586-024-01090-9</dc:source>
+            <dc:date>2024-04-17</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01090-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01090-9</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01089-2">
+            <title><![CDATA[UN plastics treaty: don’t let lobbyists drown out researchers]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01089-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 17 April 2024; <a href="https://www.nature.com/articles/d41586-024-01089-2">doi:10.1038/d41586-024-01089-2</a></p>Tackling plastic pollution needs scientists to be in the negotiating room at upcoming talks.]]></content:encoded>
+            <dc:title><![CDATA[UN plastics treaty: don’t let lobbyists drown out researchers]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-01089-2</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-17; | doi:10.1038/d41586-024-01089-2</dc:source>
+            <dc:date>2024-04-17</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01089-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01089-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01110-8">
+            <title><![CDATA[AI traces mysterious metastatic cancers to their source]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01110-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 17 April 2024; <a href="https://www.nature.com/articles/d41586-024-01110-8">doi:10.1038/d41586-024-01110-8</a></p>Algorithm examines images of metastatic cells to identify the location of the primary tumour.]]></content:encoded>
+            <dc:title><![CDATA[AI traces mysterious metastatic cancers to their source]]></dc:title>
+            <dc:creator>Smriti Mallapaty</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01110-8</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-17; | doi:10.1038/d41586-024-01110-8</dc:source>
+            <dc:date>2024-04-17</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01110-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01110-8</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01092-7">
+            <title><![CDATA[What toilets can reveal about COVID, cancer and other health threats]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01092-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 17 April 2024; <a href="https://www.nature.com/articles/d41586-024-01092-7">doi:10.1038/d41586-024-01092-7</a></p>Wastewater testing grew tremendously during the pandemic. But is it ready to tackle the opioid crisis, air pollution and antibiotic resistance?]]></content:encoded>
+            <dc:title><![CDATA[What toilets can reveal about COVID, cancer and other health threats]]></dc:title>
+            <dc:creator>Betsy Ladyzhets</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01092-7</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-17; | doi:10.1038/d41586-024-01092-7</dc:source>
+            <dc:date>2024-04-17</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01092-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01092-7</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01083-8">
             <title><![CDATA[Use game theory for climate models that really help reach net zero goals]]></title>
@@ -297,6 +372,21 @@
             <prism:url>https://www.nature.com/articles/d41586-024-01012-9</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01133-1">
+            <title><![CDATA[AI &amp; robotics briefing: AI-fuelled election campaigns are here]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01133-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 16 April 2024; <a href="https://www.nature.com/articles/d41586-024-01133-1">doi:10.1038/d41586-024-01133-1</a></p>Political candidates are increasingly using ‘softfakes’ — obviously AI-generated content — to boost their campaigns and whitewash their reputation. Plus, AI now beats humans at basic tasks and algorithm learns to nudge human gaming partner.]]></content:encoded>
+            <dc:title><![CDATA[AI &amp; robotics briefing: AI-fuelled election campaigns are here]]></dc:title>
+            <dc:creator>Katrina Krämer</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01133-1</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-16; | doi:10.1038/d41586-024-01133-1</dc:source>
+            <dc:date>2024-04-16</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01133-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01133-1</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-024-01081-w">
             <title><![CDATA[Do climate lawsuits lead to action? Researchers assess their impact]]></title>
             <link>https://www.nature.com/articles/d41586-024-01081-w</link>
@@ -310,6 +400,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01081-w</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01081-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01129-x">
+            <title><![CDATA[US COVID-origins hearing puts scientific journals in the hot seat]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01129-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 16 April 2024; <a href="https://www.nature.com/articles/d41586-024-01129-x">doi:10.1038/d41586-024-01129-x</a></p>Politicians spar over whether academic publishers colluded with government scientists to suppress the lab-leak hypothesis.]]></content:encoded>
+            <dc:title><![CDATA[US COVID-origins hearing puts scientific journals in the hot seat]]></dc:title>
+            <dc:creator>Max Kozlov</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01129-x</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-16; | doi:10.1038/d41586-024-01129-x</dc:source>
+            <dc:date>2024-04-16</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01129-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01129-x</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01091-8">
@@ -535,6 +640,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01109-1</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01109-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01120-6">
+            <title><![CDATA[Daily briefing: Why some people always get lost]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01120-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 15 April 2024; <a href="https://www.nature.com/articles/d41586-024-01120-6">doi:10.1038/d41586-024-01120-6</a></p>Upbringing and life experience matter more than genetics when it comes to being a good navigator. Plus, AI could help predict lethal dust storms and Australia is testing ‘genetic rescue’ to save vulnerable species.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Why some people always get lost]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01120-6</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-15; | doi:10.1038/d41586-024-01120-6</dc:source>
+            <dc:date>2024-04-15</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01120-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01120-6</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07401-4">
@@ -1180,126 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01009-4</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01009-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00440-x">
-            <title><![CDATA[Genetic risk variants lead to type 2 diabetes development through different pathways]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00440-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 10 April 2024; <a href="https://www.nature.com/articles/d41586-024-00440-x">doi:10.1038/d41586-024-00440-x</a></p>The largest genome-wide association study for type 2 diabetes so far, which included several ancestry groups, led to the identification of eight clusters of genetic risk variants. The clusters capture different biological pathways that contribute to the disease, and some clusters are associated with vascular complications.]]></content:encoded>
-            <dc:title><![CDATA[Genetic risk variants lead to type 2 diabetes development through different pathways]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-00440-x</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-10; | doi:10.1038/d41586-024-00440-x</dc:source>
-            <dc:date>2024-04-10</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00440-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00440-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00921-z">
-            <title><![CDATA[Three possible muses]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00921-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 10 April 2024; <a href="https://www.nature.com/articles/d41586-024-00921-z">doi:10.1038/d41586-024-00921-z</a></p>Collapse into now.]]></content:encoded>
-            <dc:title><![CDATA[Three possible muses]]></dc:title>
-            <dc:creator>Matt Tighe</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00921-z</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-10; | doi:10.1038/d41586-024-00921-z</dc:source>
-            <dc:date>2024-04-10</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00921-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00921-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01054-z">
-            <title><![CDATA[Total solar eclipse 2024: what dazzled scientists]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01054-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 10 April 2024; <a href="https://www.nature.com/articles/d41586-024-01054-z">doi:10.1038/d41586-024-01054-z</a></p>Amateur and professional astronomers share with Nature what they observed and what data they collected when the Moon blocked the Sun.]]></content:encoded>
-            <dc:title><![CDATA[Total solar eclipse 2024: what dazzled scientists]]></dc:title>
-            <dc:creator>Sumeet Kulkarni</dc:creator><dc:creator>Lauren Wolf</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01054-z</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-10; | doi:10.1038/d41586-024-01054-z</dc:source>
-            <dc:date>2024-04-10</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01054-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01054-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00889-w">
-            <title><![CDATA[Light makes atoms behave like electromagnetic coils]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00889-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 10 April 2024; <a href="https://www.nature.com/articles/d41586-024-00889-w">doi:10.1038/d41586-024-00889-w</a></p>Microscopic magnetic fields form in non-magnetic materials when light makes the atoms rotate. A similar macroscopic effect has long been known, but proof of its atomic equivalent could give rise to ultrafast data processing.]]></content:encoded>
-            <dc:title><![CDATA[Light makes atoms behave like electromagnetic coils]]></dc:title>
-            <dc:creator>Carl P. Romao</dc:creator><dc:creator>Dominik M. Juraschek</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00889-w</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-10; | doi:10.1038/d41586-024-00889-w</dc:source>
-            <dc:date>2024-04-10</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00889-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00889-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00910-2">
-            <title><![CDATA[Blocking cell death limits lung damage and inflammation from influenza]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00910-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 10 April 2024; <a href="https://www.nature.com/articles/d41586-024-00910-2">doi:10.1038/d41586-024-00910-2</a></p>Animals that receive an inhibitor of an antiviral cell-death response called necroptosis are less likely to die of influenza even at a late stage of infection. This has implications for the development of therapies for respiratory diseases.]]></content:encoded>
-            <dc:title><![CDATA[Blocking cell death limits lung damage and inflammation from influenza]]></dc:title>
-            <dc:creator>Nishma Gupta</dc:creator><dc:creator>John Silke</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00910-2</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-10; | doi:10.1038/d41586-024-00910-2</dc:source>
-            <dc:date>2024-04-10</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00910-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00910-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00712-6">
-            <title><![CDATA[A bitter taste receptor activated in a surprising way]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00712-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 10 April 2024; <a href="https://www.nature.com/articles/d41586-024-00712-6">doi:10.1038/d41586-024-00712-6</a></p>The sensing of bitter taste results from the complex interplay of many chemical cues and a range of receptors. It emerges that this complexity might be built-in even at the level of individual receptors.]]></content:encoded>
-            <dc:title><![CDATA[A bitter taste receptor activated in a surprising way]]></dc:title>
-            <dc:creator>Antonella Di Pizio</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00712-6</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-10; | doi:10.1038/d41586-024-00712-6</dc:source>
-            <dc:date>2024-04-10</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00712-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00712-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07365-5">
-            <title><![CDATA[Giant energy storage and power density negative capacitance superlattices]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07365-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 09 April 2024; <a href="https://www.nature.com/articles/s41586-024-07365-5">doi:10.1038/s41586-024-07365-5</a></p>Giant energy storage and power density negative capacitance superlattices]]></content:encoded>
-            <dc:title><![CDATA[Giant energy storage and power density negative capacitance superlattices]]></dc:title>
-            <dc:creator>Suraj S. Cheema</dc:creator><dc:creator>Nirmaan Shanker</dc:creator><dc:creator>Shang-Lin Hsu</dc:creator><dc:creator>Joseph Schaadt</dc:creator><dc:creator>Nathan M. Ellis</dc:creator><dc:creator>Matthew Cook</dc:creator><dc:creator>Ravi Rastogi</dc:creator><dc:creator>Robert C. N. Pilawa-Podgurski</dc:creator><dc:creator>Jim Ciston</dc:creator><dc:creator>Mohamed Mohamed</dc:creator><dc:creator>Sayeef Salahuddin</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07365-5</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-09; | doi:10.1038/s41586-024-07365-5</dc:source>
-            <dc:date>2024-04-09</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07365-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07365-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07392-2">
-            <title><![CDATA[Publisher Correction: Decoding chromatin states by proteomic profiling of nucleosome readers]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07392-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 09 April 2024; <a href="https://www.nature.com/articles/s41586-024-07392-2">doi:10.1038/s41586-024-07392-2</a></p>Publisher Correction: Decoding chromatin states by proteomic profiling of nucleosome readers]]></content:encoded>
-            <dc:title><![CDATA[Publisher Correction: Decoding chromatin states by proteomic profiling of nucleosome readers]]></dc:title>
-            <dc:creator>Saulius Lukauskas</dc:creator><dc:creator>Andrey Tvardovskiy</dc:creator><dc:creator>Nhuong V. Nguyen</dc:creator><dc:creator>Mara Stadler</dc:creator><dc:creator>Peter Faull</dc:creator><dc:creator>Tina Ravnsborg</dc:creator><dc:creator>Bihter Özdemir Aygenli</dc:creator><dc:creator>Scarlett Dornauer</dc:creator><dc:creator>Helen Flynn</dc:creator><dc:creator>Rik G. H. Lindeboom</dc:creator><dc:creator>Teresa K. Barth</dc:creator><dc:creator>Kevin Brockers</dc:creator><dc:creator>Stefanie M. Hauck</dc:creator><dc:creator>Michiel Vermeulen</dc:creator><dc:creator>Ambrosius P. Snijders</dc:creator><dc:creator>Christian L. Müller</dc:creator><dc:creator>Peter A. DiMaggio</dc:creator><dc:creator>Ole N. Jensen</dc:creator><dc:creator>Robert Schneider</dc:creator><dc:creator>Till Bartke</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07392-2</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-09; | doi:10.1038/s41586-024-07392-2</dc:source>
-            <dc:date>2024-04-09</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07392-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07392-2</prism:url>
         </item>
     
 </rdf:RDF>
