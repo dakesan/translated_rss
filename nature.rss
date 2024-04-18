@@ -18,6 +18,8 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01118-0"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01074-9"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01122-4"/>
@@ -166,8 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01103-7"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01031-6"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,21 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01118-0">
+            <title><![CDATA[Meet ‘goldene’: this gilded cousin of graphene is also one atom thick]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01118-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 18 April 2024; <a href="https://www.nature.com/articles/d41586-024-01118-0">doi:10.1038/d41586-024-01118-0</a></p>Sheets of gold might find use as catalysts, or in light-sensing devices.]]></content:encoded>
+            <dc:title><![CDATA[Meet ‘goldene’: this gilded cousin of graphene is also one atom thick]]></dc:title>
+            <dc:creator>Mark Peplow</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01118-0</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-18; | doi:10.1038/d41586-024-01118-0</dc:source>
+            <dc:date>2024-04-18</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01118-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01118-0</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01074-9">
             <title><![CDATA[This water bottle purifies your drink with energy from your steps]]></title>
@@ -1285,21 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01103-7</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01103-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01031-6">
-            <title><![CDATA[Bitter taste receptors are even older than scientists thought]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01031-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 11 April 2024; <a href="https://www.nature.com/articles/d41586-024-01031-6">doi:10.1038/d41586-024-01031-6</a></p>Discovery in sharks suggests that these sensory receptors date back to some 450 million years ago.]]></content:encoded>
-            <dc:title><![CDATA[Bitter taste receptors are even older than scientists thought]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-01031-6</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-11; | doi:10.1038/d41586-024-01031-6</dc:source>
-            <dc:date>2024-04-11</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01031-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01031-6</prism:url>
         </item>
     
 </rdf:RDF>
