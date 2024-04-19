@@ -18,6 +18,10 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01160-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01151-z"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01156-8"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01037-0"/>
@@ -164,10 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01096-3"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01108-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01115-3"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,36 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01160-y">
+            <title><![CDATA[Dogwhistles, drilling and the roots of Western civilization: Books in brief]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01160-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 19 April 2024; <a href="https://www.nature.com/articles/d41586-024-01160-y">doi:10.1038/d41586-024-01160-y</a></p>Andrew Robinson reviews five of the best science picks.]]></content:encoded>
+            <dc:title><![CDATA[Dogwhistles, drilling and the roots of Western civilization: Books in brief]]></dc:title>
+            <dc:creator>Andrew Robinson</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01160-y</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-19; | doi:10.1038/d41586-024-01160-y</dc:source>
+            <dc:date>2024-04-19</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01160-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01160-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01151-z">
+            <title><![CDATA[Australia’s Great Barrier Reef is ‘transforming’ from repeated coral bleaching]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01151-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 19 April 2024; <a href="https://www.nature.com/articles/d41586-024-01151-z">doi:10.1038/d41586-024-01151-z</a></p>The coral reef is currently experiencing its worst mass bleaching event on record — warming waters brought on by climate change are to blame.]]></content:encoded>
+            <dc:title><![CDATA[Australia’s Great Barrier Reef is ‘transforming’ from repeated coral bleaching]]></dc:title>
+            <dc:creator>Bianca Nogrady</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01151-z</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-19; | doi:10.1038/d41586-024-01151-z</dc:source>
+            <dc:date>2024-04-19</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01151-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01151-z</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01156-8">
             <title><![CDATA[Londoners see what a scientist looks like up close in 50 photographs]]></title>
@@ -1270,36 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01096-3</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01096-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01108-2">
-            <title><![CDATA[‘Shrugging off failure is hard’: the $400-million grant setback that shaped the Smithsonian lead scientist’s career]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01108-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 15 April 2024; <a href="https://www.nature.com/articles/d41586-024-01108-2">doi:10.1038/d41586-024-01108-2</a></p>Planetary scientist Ellen Stofan thought about leaving research after a funding bid was rejected. But new opportunities emerged.]]></content:encoded>
-            <dc:title><![CDATA[‘Shrugging off failure is hard’: the $400-million grant setback that shaped the Smithsonian lead scientist’s career]]></dc:title>
-            <dc:creator>Anne Gulland </dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01108-2</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-15; | doi:10.1038/d41586-024-01108-2</dc:source>
-            <dc:date>2024-04-15</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01108-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01108-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01115-3">
-            <title><![CDATA[Could JWST solve cosmology’s big mystery? Physicists debate Universe-expansion data]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01115-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 15 April 2024; <a href="https://www.nature.com/articles/d41586-024-01115-3">doi:10.1038/d41586-024-01115-3</a></p>Results from the telescope could help to end a long-standing disagreement over the rate of cosmic expansion. But scientists say more measurements are needed.]]></content:encoded>
-            <dc:title><![CDATA[Could JWST solve cosmology’s big mystery? Physicists debate Universe-expansion data]]></dc:title>
-            <dc:creator>Davide Castelvecchi</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01115-3</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-15; | doi:10.1038/d41586-024-01115-3</dc:source>
-            <dc:date>2024-04-15</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01115-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01115-3</prism:url>
         </item>
     
 </rdf:RDF>
