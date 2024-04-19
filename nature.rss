@@ -18,7 +18,19 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01156-8"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01037-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01075-8"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01138-w"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01118-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01132-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01149-7"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01074-9"/>
                 
@@ -104,6 +116,8 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01110-8"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01153-x"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01092-7"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01017-4"/>
@@ -132,6 +146,8 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01091-8"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01125-1"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01101-9"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01072-x"/>
@@ -152,22 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01115-3"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01087-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00660-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01080-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01109-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01120-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07401-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01112-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01103-7"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,66 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01156-8">
+            <title><![CDATA[Londoners see what a scientist looks like up close in 50 photographs]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01156-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 18 April 2024; <a href="https://www.nature.com/articles/d41586-024-01156-8">doi:10.1038/d41586-024-01156-8</a></p>Nature’s Where I Work images are being exhibited in the UK capital until June.]]></content:encoded>
+            <dc:title><![CDATA[Londoners see what a scientist looks like up close in 50 photographs]]></dc:title>
+            <dc:creator>Jack Leeming</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01156-8</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-18; | doi:10.1038/d41586-024-01156-8</dc:source>
+            <dc:date>2024-04-18</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01156-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01156-8</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01037-0">
+            <title><![CDATA[Why queasiness kills hunger: brain circuit identified]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01037-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 18 April 2024; <a href="https://www.nature.com/articles/d41586-024-01037-0">doi:10.1038/d41586-024-01037-0</a></p>Feelings of hunger, nausea and fullness seem to be governed by separate brain circuits, finds a study in mice.]]></content:encoded>
+            <dc:title><![CDATA[Why queasiness kills hunger: brain circuit identified]]></dc:title>
+            <dc:creator>Gillian Dohrn</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01037-0</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-18; | doi:10.1038/d41586-024-01037-0</dc:source>
+            <dc:date>2024-04-18</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01037-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01037-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01075-8">
+            <title><![CDATA[Burnt remains of Maya royalty mark a dramatic power shift]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01075-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 18 April 2024; <a href="https://www.nature.com/articles/d41586-024-01075-8">doi:10.1038/d41586-024-01075-8</a></p>Finds in pyramid at Guatemalan site suggest that remains were disinterred and desecrated in a public ritual.]]></content:encoded>
+            <dc:title><![CDATA[Burnt remains of Maya royalty mark a dramatic power shift]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-01075-8</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-18; | doi:10.1038/d41586-024-01075-8</dc:source>
+            <dc:date>2024-04-18</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01075-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01075-8</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01138-w">
+            <title><![CDATA[Violent volcanoes have wracked Jupiter’s moon Io for billions of years]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01138-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 18 April 2024; <a href="https://www.nature.com/articles/d41586-024-01138-w">doi:10.1038/d41586-024-01138-w</a></p>Understanding the volcanic moon’s history could offer fresh insights into conditions on early Earth.]]></content:encoded>
+            <dc:title><![CDATA[Violent volcanoes have wracked Jupiter’s moon Io for billions of years]]></dc:title>
+            <dc:creator>Sarah Wild</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01138-w</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-18; | doi:10.1038/d41586-024-01138-w</dc:source>
+            <dc:date>2024-04-18</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01138-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01138-w</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01118-0">
             <title><![CDATA[Meet ‘goldene’: this gilded cousin of graphene is also one atom thick]]></title>
@@ -190,6 +250,36 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01118-0</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01118-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01132-2">
+            <title><![CDATA[AI’s keen diagnostic eye]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01132-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 18 April 2024; <a href="https://www.nature.com/articles/d41586-024-01132-2">doi:10.1038/d41586-024-01132-2</a></p>Powered by deep-learning algorithms, artificial intelligence systems could replace agents such as chemicals currently used to augment medical scans.]]></content:encoded>
+            <dc:title><![CDATA[AI’s keen diagnostic eye]]></dc:title>
+            <dc:creator>Neil Savage</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01132-2</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-18; | doi:10.1038/d41586-024-01132-2</dc:source>
+            <dc:date>2024-04-18</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01132-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01132-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01149-7">
+            <title><![CDATA[Nearly half of China’s major cities are sinking — some ‘rapidly’]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01149-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 18 April 2024; <a href="https://www.nature.com/articles/d41586-024-01149-7">doi:10.1038/d41586-024-01149-7</a></p>Tens of millions of people in the country’s coastal lands might find their homes below sea level by 2120 owing to sinking and sea-level rise.]]></content:encoded>
+            <dc:title><![CDATA[Nearly half of China’s major cities are sinking — some ‘rapidly’]]></dc:title>
+            <dc:creator>Xiaoying You</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01149-7</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-18; | doi:10.1038/d41586-024-01149-7</dc:source>
+            <dc:date>2024-04-18</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01149-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01149-7</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01074-9">
@@ -822,6 +912,21 @@
             <prism:url>https://www.nature.com/articles/d41586-024-01110-8</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01153-x">
+            <title><![CDATA[Daily briefing: Food is medicine]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01153-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 17 April 2024; <a href="https://www.nature.com/articles/d41586-024-01153-x">doi:10.1038/d41586-024-01153-x</a></p>Evidence is growing that targeted dietary interventions can treat, delay and even prevent some illnesses. Plus, an AI model helps track the spread of metastatic cancers and how climate lawsuits push governments and companies to act.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Food is medicine]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01153-x</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-17; | doi:10.1038/d41586-024-01153-x</dc:source>
+            <dc:date>2024-04-17</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01153-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01153-x</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-024-01092-7">
             <title><![CDATA[What toilets can reveal about COVID, cancer and other health threats]]></title>
             <link>https://www.nature.com/articles/d41586-024-01092-7</link>
@@ -1032,6 +1137,21 @@
             <prism:url>https://www.nature.com/articles/d41586-024-01091-8</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01125-1">
+            <title><![CDATA[Daily briefing: AI now beats humans at basic reading and maths]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01125-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 16 April 2024; <a href="https://www.nature.com/articles/d41586-024-01125-1">doi:10.1038/d41586-024-01125-1</a></p>Artificial intelligence systems can now nearly match — and sometimes exceed — human performance in basic tasks. Plus, NASA admits that plan to bring Mars rocks to Earth won’t work and three new species of extinct giant kangaroos discovered.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: AI now beats humans at basic reading and maths]]></dc:title>
+            <dc:creator>Katrina Krämer</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01125-1</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-16; | doi:10.1038/d41586-024-01125-1</dc:source>
+            <dc:date>2024-04-16</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01125-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01125-1</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-024-01101-9">
             <title><![CDATA[Structure peer review to make it more robust]]></title>
             <link>https://www.nature.com/articles/d41586-024-01101-9</link>
@@ -1180,126 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01115-3</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01115-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01087-4">
-            <title><![CDATA[AI now beats humans at basic tasks — new benchmarks are needed, says major report]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01087-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 15 April 2024; <a href="https://www.nature.com/articles/d41586-024-01087-4">doi:10.1038/d41586-024-01087-4</a></p>Stanford University’s 2024 AI Index charts the meteoric rise of artificial-intelligence tools.]]></content:encoded>
-            <dc:title><![CDATA[AI now beats humans at basic tasks — new benchmarks are needed, says major report]]></dc:title>
-            <dc:creator>Nicola Jones</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01087-4</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-15; | doi:10.1038/d41586-024-01087-4</dc:source>
-            <dc:date>2024-04-15</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01087-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01087-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00660-1">
-            <title><![CDATA[Revealed: the ten research papers that policy documents cite most]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00660-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 15 April 2024; <a href="https://www.nature.com/articles/d41586-024-00660-1">doi:10.1038/d41586-024-00660-1</a></p>An exclusive analysis shows that economics and interdisciplinary teams get the attention of policymakers.]]></content:encoded>
-            <dc:title><![CDATA[Revealed: the ten research papers that policy documents cite most]]></dc:title>
-            <dc:creator>Dalmeet Singh Chawla</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00660-1</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-15; | doi:10.1038/d41586-024-00660-1</dc:source>
-            <dc:date>2024-04-15</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00660-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00660-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01080-x">
-            <title><![CDATA[Citizenship privilege harms science]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01080-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 15 April 2024; <a href="https://www.nature.com/articles/d41586-024-01080-x">doi:10.1038/d41586-024-01080-x</a></p>Researchers from the global south face often-distressing immigration bureaucracy that most from the global north do not. Six steps can begin to counteract this inequity.]]></content:encoded>
-            <dc:title><![CDATA[Citizenship privilege harms science]]></dc:title>
-            <dc:creator>Mayank Chugh</dc:creator><dc:creator>Tiffany Joseph</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01080-x</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-15; | doi:10.1038/d41586-024-01080-x</dc:source>
-            <dc:date>2024-04-15</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01080-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01080-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01109-1">
-            <title><![CDATA[NASA admits plan to bring Mars rocks to Earth won’t work — and seeks fresh ideas]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01109-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 15 April 2024; <a href="https://www.nature.com/articles/d41586-024-01109-1">doi:10.1038/d41586-024-01109-1</a></p>The agency’s head calls the current plan for delivering samples collected by the Perseverance rover ‘too expensive’ and its schedule ‘unacceptable’.]]></content:encoded>
-            <dc:title><![CDATA[NASA admits plan to bring Mars rocks to Earth won’t work — and seeks fresh ideas]]></dc:title>
-            <dc:creator>Sumeet Kulkarni</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01109-1</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-15; | doi:10.1038/d41586-024-01109-1</dc:source>
-            <dc:date>2024-04-15</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01109-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01109-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01120-6">
-            <title><![CDATA[Daily briefing: Why some people always get lost]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01120-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 15 April 2024; <a href="https://www.nature.com/articles/d41586-024-01120-6">doi:10.1038/d41586-024-01120-6</a></p>Upbringing and life experience matter more than genetics when it comes to being a good navigator. Plus, AI could help predict lethal dust storms and Australia is testing ‘genetic rescue’ to save vulnerable species.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: Why some people always get lost]]></dc:title>
-            <dc:creator>Flora Graham</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01120-6</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-15; | doi:10.1038/d41586-024-01120-6</dc:source>
-            <dc:date>2024-04-15</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01120-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01120-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07401-4">
-            <title><![CDATA[Author Correction: Controlling the helicity of light by electrical magnetization switching]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07401-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 12 April 2024; <a href="https://www.nature.com/articles/s41586-024-07401-4">doi:10.1038/s41586-024-07401-4</a></p>Author Correction: Controlling the helicity of light by electrical magnetization switching]]></content:encoded>
-            <dc:title><![CDATA[Author Correction: Controlling the helicity of light by electrical magnetization switching]]></dc:title>
-            <dc:creator>Pambiang Abel Dainone</dc:creator><dc:creator>Nicholas Figueiredo Prestes</dc:creator><dc:creator>Pierre Renucci</dc:creator><dc:creator>Alexandre Bouché</dc:creator><dc:creator>Martina Morassi</dc:creator><dc:creator>Xavier Devaux</dc:creator><dc:creator>Markus Lindemann</dc:creator><dc:creator>Jean-Marie George</dc:creator><dc:creator>Henri Jaffrès</dc:creator><dc:creator>Aristide Lemaitre</dc:creator><dc:creator>Bo Xu</dc:creator><dc:creator>Mathieu Stoffel</dc:creator><dc:creator>Tongxin Chen</dc:creator><dc:creator>Laurent Lombez</dc:creator><dc:creator>Delphine Lagarde</dc:creator><dc:creator>Guangwei Cong</dc:creator><dc:creator>Tianyi Ma</dc:creator><dc:creator>Philippe Pigeat</dc:creator><dc:creator>Michel Vergnat</dc:creator><dc:creator>Hervé Rinnert</dc:creator><dc:creator>Xavier Marie</dc:creator><dc:creator>Xiufeng Han</dc:creator><dc:creator>Stephane Mangin</dc:creator><dc:creator>Juan-Carlos Rojas-Sánchez</dc:creator><dc:creator>Jian-Ping Wang</dc:creator><dc:creator>Matthew C. Beard</dc:creator><dc:creator>Nils C. Gerhardt</dc:creator><dc:creator>Igor Žutić</dc:creator><dc:creator>Yuan Lu</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07401-4</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-12; | doi:10.1038/s41586-024-07401-4</dc:source>
-            <dc:date>2024-04-12</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07401-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07401-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01112-6">
-            <title><![CDATA[Daily briefing: First direct image of a ‘Wigner crystal’ made entirely of electrons]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01112-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 12 April 2024; <a href="https://www.nature.com/articles/d41586-024-01112-6">doi:10.1038/d41586-024-01112-6</a></p>A crystal structure predicted by Eugene Wigner in 1934 has been directly imaged for the first time. Plus, the first algae that can fix nitrogen and evidence for a shared practice of human sacrifice across Stone Age Europe.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: First direct image of a ‘Wigner crystal’ made entirely of electrons]]></dc:title>
-            <dc:creator>Flora Graham</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01112-6</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-12; | doi:10.1038/d41586-024-01112-6</dc:source>
-            <dc:date>2024-04-12</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01112-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01112-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01103-7">
-            <title><![CDATA[Peter Higgs obituary: physicist who predicted boson that explains why particles have mass]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01103-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 12 April 2024; <a href="https://www.nature.com/articles/d41586-024-01103-7">doi:10.1038/d41586-024-01103-7</a></p>Theoretical physicist saw his eponymous particle discovered after 48 years.]]></content:encoded>
-            <dc:title><![CDATA[Peter Higgs obituary: physicist who predicted boson that explains why particles have mass]]></dc:title>
-            <dc:creator>Christine Sutton</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01103-7</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-12; | doi:10.1038/d41586-024-01103-7</dc:source>
-            <dc:date>2024-04-12</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01103-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01103-7</prism:url>
         </item>
     
 </rdf:RDF>
