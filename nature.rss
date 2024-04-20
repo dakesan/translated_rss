@@ -18,9 +18,15 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01158-6"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01073-w"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01160-y"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01151-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01144-y"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01156-8"/>
                 
@@ -162,12 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01076-7"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01050-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01093-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01096-3"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,36 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01158-6">
+            <title><![CDATA[Living on Mars would probably suck — here's why]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01158-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 19 April 2024; <a href="https://www.nature.com/articles/d41586-024-01158-6">doi:10.1038/d41586-024-01158-6</a></p>Kelly and Zach Weinersmith join us to discuss their book A City on Mars: Can We Settle Space, Should We Settle Space, and Have We Really Thought This Through?]]></content:encoded>
+            <dc:title><![CDATA[Living on Mars would probably suck — here's why]]></dc:title>
+            <dc:creator>Benjamin Thompson</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01158-6</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-19; | doi:10.1038/d41586-024-01158-6</dc:source>
+            <dc:date>2024-04-19</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01158-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01158-6</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01073-w">
+            <title><![CDATA[Detectors deep in South Pole ice pin down elusive tau neutrino]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01073-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 19 April 2024; <a href="https://www.nature.com/articles/d41586-024-01073-w">doi:10.1038/d41586-024-01073-w</a></p>Antarctic observatory gathers the first clear evidence of mysterious subatomic particles from space.]]></content:encoded>
+            <dc:title><![CDATA[Detectors deep in South Pole ice pin down elusive tau neutrino]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-01073-w</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-19; | doi:10.1038/d41586-024-01073-w</dc:source>
+            <dc:date>2024-04-19</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01073-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01073-w</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01160-y">
             <title><![CDATA[Dogwhistles, drilling and the roots of Western civilization: Books in brief]]></title>
@@ -205,6 +235,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01151-z</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01151-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01144-y">
+            <title><![CDATA[Do insects have an inner life? Animal consciousness needs a rethink]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01144-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 19 April 2024; <a href="https://www.nature.com/articles/d41586-024-01144-y">doi:10.1038/d41586-024-01144-y</a></p>A declaration signed by dozens of scientists says there is “a realistic possibility” for elements of consciousness in reptiles, insects and molluscs.]]></content:encoded>
+            <dc:title><![CDATA[Do insects have an inner life? Animal consciousness needs a rethink]]></dc:title>
+            <dc:creator>Mariana Lenharo</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01144-y</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-19; | doi:10.1038/d41586-024-01144-y</dc:source>
+            <dc:date>2024-04-19</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01144-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01144-y</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01156-8">
@@ -1255,51 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01076-7</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01076-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01050-3">
-            <title><![CDATA[How a young physicist’s job move helped Argentina join the ATLAS collaboration]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01050-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 15 April 2024; <a href="https://www.nature.com/articles/d41586-024-01050-3">doi:10.1038/d41586-024-01050-3</a></p>A stint at CERN exposed María Teresa Dova to longstanding collaborators and mentors, culminating in a successful bid to join a landmark project.]]></content:encoded>
-            <dc:title><![CDATA[How a young physicist’s job move helped Argentina join the ATLAS collaboration]]></dc:title>
-            <dc:creator>Julie Gould</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01050-3</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-15; | doi:10.1038/d41586-024-01050-3</dc:source>
-            <dc:date>2024-04-15</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01050-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01050-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01093-6">
-            <title><![CDATA[Are women in research being led up the garden path?]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01093-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 15 April 2024; <a href="https://www.nature.com/articles/d41586-024-01093-6">doi:10.1038/d41586-024-01093-6</a></p>A moving memoir of botany and motherhood explores the historical pressures on female scientists.]]></content:encoded>
-            <dc:title><![CDATA[Are women in research being led up the garden path?]]></dc:title>
-            <dc:creator>Josie Glausiusz</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01093-6</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-15; | doi:10.1038/d41586-024-01093-6</dc:source>
-            <dc:date>2024-04-15</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01093-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01093-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01096-3">
-            <title><![CDATA[A milestone map of mouse-brain connectivity reveals challenging new terrain for scientists]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01096-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 15 April 2024; <a href="https://www.nature.com/articles/d41586-024-01096-3">doi:10.1038/d41586-024-01096-3</a></p>A pioneering ‘connectomics’ collaboration has successfully reconstructed one cubic millimetre of brain tissue, but researchers are still just scratching the surface of the complexity it contains.]]></content:encoded>
-            <dc:title><![CDATA[A milestone map of mouse-brain connectivity reveals challenging new terrain for scientists]]></dc:title>
-            <dc:creator>Michael Eisenstein</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01096-3</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-15; | doi:10.1038/d41586-024-01096-3</dc:source>
-            <dc:date>2024-04-15</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01096-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01096-3</prism:url>
         </item>
     
 </rdf:RDF>
