@@ -18,6 +18,10 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07393-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01137-x"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01158-6"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01073-w"/>
@@ -164,10 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01097-2"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07244-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01076-7"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,36 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07393-1">
+            <title><![CDATA[Author Correction: Targeting SWI/SNF ATPases in enhancer-addicted prostate cancer]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07393-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 22 April 2024; <a href="https://www.nature.com/articles/s41586-024-07393-1">doi:10.1038/s41586-024-07393-1</a></p>Author Correction: Targeting SWI/SNF ATPases in enhancer-addicted prostate cancer]]></content:encoded>
+            <dc:title><![CDATA[Author Correction: Targeting SWI/SNF ATPases in enhancer-addicted prostate cancer]]></dc:title>
+            <dc:creator>Lanbo Xiao</dc:creator><dc:creator>Abhijit Parolia</dc:creator><dc:creator>Yuanyuan Qiao</dc:creator><dc:creator>Pushpinder Bawa</dc:creator><dc:creator>Sanjana Eyunni</dc:creator><dc:creator>Rahul Mannan</dc:creator><dc:creator>Sandra E. Carson</dc:creator><dc:creator>Yu Chang</dc:creator><dc:creator>Xiaoju Wang</dc:creator><dc:creator>Yuping Zhang</dc:creator><dc:creator>Josh N. Vo</dc:creator><dc:creator>Steven Kregel</dc:creator><dc:creator>Stephanie A. Simko</dc:creator><dc:creator>Andrew D. Delekta</dc:creator><dc:creator>Mustapha Jaber</dc:creator><dc:creator>Heng Zheng</dc:creator><dc:creator>Ingrid J. Apel</dc:creator><dc:creator>Lisa McMurry</dc:creator><dc:creator>Fengyun Su</dc:creator><dc:creator>Rui Wang</dc:creator><dc:creator>Sylvia Zelenka-Wang</dc:creator><dc:creator>Sanjita Sasmal</dc:creator><dc:creator>Leena Khare</dc:creator><dc:creator>Subhendu Mukherjee</dc:creator><dc:creator>Chandrasekhar Abbineni</dc:creator><dc:creator>Kiran Aithal</dc:creator><dc:creator>Mital S. Bhakta</dc:creator><dc:creator>Jay Ghurye</dc:creator><dc:creator>Xuhong Cao</dc:creator><dc:creator>Nora M. Navone</dc:creator><dc:creator>Alexey I. Nesvizhskii</dc:creator><dc:creator>Rohit Mehra</dc:creator><dc:creator>Ulka Vaishampayan</dc:creator><dc:creator>Marco Blanchette</dc:creator><dc:creator>Yuzhuo Wang</dc:creator><dc:creator>Susanta Samajdar</dc:creator><dc:creator>Murali Ramachandra</dc:creator><dc:creator>Arul M. Chinnaiyan</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07393-1</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-22; | doi:10.1038/s41586-024-07393-1</dc:source>
+            <dc:date>2024-04-22</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07393-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07393-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01137-x">
+            <title><![CDATA[Will AI accelerate or delay the race to net-zero emissions?]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01137-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 22 April 2024; <a href="https://www.nature.com/articles/d41586-024-01137-x">doi:10.1038/d41586-024-01137-x</a></p>As artificial intelligence transforms the global economy, researchers need to explore scenarios to assess how it can help, rather than harm, the climate.]]></content:encoded>
+            <dc:title><![CDATA[Will AI accelerate or delay the race to net-zero emissions?]]></dc:title>
+            <dc:creator>Amy  Luers</dc:creator><dc:creator>Jonathan  Koomey</dc:creator><dc:creator>Eric  Masanet</dc:creator><dc:creator>Owen  Gaffney</dc:creator><dc:creator>Felix  Creutzig</dc:creator><dc:creator>Juan   Lavista Ferres</dc:creator><dc:creator>Eric   Horvitz</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01137-x</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-22; | doi:10.1038/d41586-024-01137-x</dc:source>
+            <dc:date>2024-04-22</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01137-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01137-x</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01158-6">
             <title><![CDATA[Living on Mars would probably suck — here's why]]></title>
@@ -1270,36 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01097-2</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01097-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07244-z">
-            <title><![CDATA[Light-wave-controlled Haldane model in monolayer hexagonal boron nitride]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07244-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 15 April 2024; <a href="https://www.nature.com/articles/s41586-024-07244-z">doi:10.1038/s41586-024-07244-z</a></p>We introduce strong tailored light-wave-driven time-reversal symmetry breaking in monolayer hexagonal boron nitride, realizing a sub-laser-cycle controllable analogue of the topological model of Haldane and inducing non-resonant valley polarization.]]></content:encoded>
-            <dc:title><![CDATA[Light-wave-controlled Haldane model in monolayer hexagonal boron nitride]]></dc:title>
-            <dc:creator>Sambit Mitra</dc:creator><dc:creator>Álvaro Jiménez-Galán</dc:creator><dc:creator>Mario Aulich</dc:creator><dc:creator>Marcel Neuhaus</dc:creator><dc:creator>Rui E. F. Silva</dc:creator><dc:creator>Volodymyr Pervak</dc:creator><dc:creator>Matthias F. Kling</dc:creator><dc:creator>Shubhadeep Biswas</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07244-z</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-15; | doi:10.1038/s41586-024-07244-z</dc:source>
-            <dc:date>2024-04-15</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07244-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07244-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01076-7">
-            <title><![CDATA[Lethal dust storms blanket Asia every spring — now AI could help predict them]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01076-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 15 April 2024; <a href="https://www.nature.com/articles/d41586-024-01076-7">doi:10.1038/d41586-024-01076-7</a></p>As the annual phenomenon once again strikes East Asia, scientists are hard at work to better predict how they will affect people.]]></content:encoded>
-            <dc:title><![CDATA[Lethal dust storms blanket Asia every spring — now AI could help predict them]]></dc:title>
-            <dc:creator>Xiaoying You</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01076-7</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-15; | doi:10.1038/d41586-024-01076-7</dc:source>
-            <dc:date>2024-04-15</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01076-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01076-7</prism:url>
         </item>
     
 </rdf:RDF>
