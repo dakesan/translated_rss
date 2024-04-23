@@ -18,7 +18,23 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07412-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07413-0"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07393-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01182-6"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01147-9"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07348-6"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01130-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01169-3"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01179-1"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01137-x"/>
                 
@@ -152,22 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01012-9"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01133-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01081-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01129-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01091-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01125-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01101-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01072-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01097-2"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,36 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07412-1">
+            <title><![CDATA[Star Formation Shut Down by Multiphase Gas Outflow in a Galaxy at a Redshift of 2.45]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07412-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 22 April 2024; <a href="https://www.nature.com/articles/s41586-024-07412-1">doi:10.1038/s41586-024-07412-1</a></p>Star Formation Shut Down by Multiphase Gas Outflow in a Galaxy at a Redshift of 2.45]]></content:encoded>
+            <dc:title><![CDATA[Star Formation Shut Down by Multiphase Gas Outflow in a Galaxy at a Redshift of 2.45]]></dc:title>
+            <dc:creator>Sirio Belli</dc:creator><dc:creator>Minjung Park</dc:creator><dc:creator>Rebecca L. Davies</dc:creator><dc:creator>J. Trevor Mendel</dc:creator><dc:creator>Benjamin D. Johnson</dc:creator><dc:creator>Charlie Conroy</dc:creator><dc:creator>Chloë Benton</dc:creator><dc:creator>Letizia Bugiani</dc:creator><dc:creator>Razieh Emami</dc:creator><dc:creator>Joel Leja</dc:creator><dc:creator>Yijia Li</dc:creator><dc:creator>Gabriel Maheson</dc:creator><dc:creator>Elijah P. Mathews</dc:creator><dc:creator>Rohan P. Naidu</dc:creator><dc:creator>Erica J. Nelson</dc:creator><dc:creator>Sandro Tacchella</dc:creator><dc:creator>Bryan A. Terrazas</dc:creator><dc:creator>Rainer Weinberger</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07412-1</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-22; | doi:10.1038/s41586-024-07412-1</dc:source>
+            <dc:date>2024-04-22</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07412-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07412-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07413-0">
+            <title><![CDATA[Author Correction: Interim analyses of a first-in-human phase 1/2 mRNA trial for propionic acidaemia]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07413-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 22 April 2024; <a href="https://www.nature.com/articles/s41586-024-07413-0">doi:10.1038/s41586-024-07413-0</a></p>Author Correction: Interim analyses of a first-in-human phase 1/2 mRNA trial for propionic acidaemia]]></content:encoded>
+            <dc:title><![CDATA[Author Correction: Interim analyses of a first-in-human phase 1/2 mRNA trial for propionic acidaemia]]></dc:title>
+            <dc:creator>Dwight Koeberl</dc:creator><dc:creator>Andreas Schulze</dc:creator><dc:creator>Neal Sondheimer</dc:creator><dc:creator>Gerald S. Lipshutz</dc:creator><dc:creator>Tarekegn Geberhiwot</dc:creator><dc:creator>Lerong Li</dc:creator><dc:creator>Rajnish Saini</dc:creator><dc:creator>Junxiang Luo</dc:creator><dc:creator>Vanja Sikirica</dc:creator><dc:creator>Ling Jin</dc:creator><dc:creator>Min Liang</dc:creator><dc:creator>Mary Leuchars</dc:creator><dc:creator>Stephanie Grunewald</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07413-0</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-22; | doi:10.1038/s41586-024-07413-0</dc:source>
+            <dc:date>2024-04-22</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07413-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07413-0</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07393-1">
             <title><![CDATA[Author Correction: Targeting SWI/SNF ATPases in enhancer-addicted prostate cancer]]></title>
@@ -190,6 +220,96 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/s41586-024-07393-1</prism:doi>
             <prism:url>https://www.nature.com/articles/s41586-024-07393-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01182-6">
+            <title><![CDATA[How ground glass might save crops from drought on a Caribbean island]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01182-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 22 April 2024; <a href="https://www.nature.com/articles/d41586-024-01182-6">doi:10.1038/d41586-024-01182-6</a></p>In Grenada, public-health researcher Lindonne Telesford tests a soil additive made from recycled glass that could help farmers adapt to climate change.]]></content:encoded>
+            <dc:title><![CDATA[How ground glass might save crops from drought on a Caribbean island]]></dc:title>
+            <dc:creator>Kendall Powell</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01182-6</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-22; | doi:10.1038/d41586-024-01182-6</dc:source>
+            <dc:date>2024-04-22</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01182-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01182-6</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01147-9">
+            <title><![CDATA[Dozens of genes are linked to post-traumatic stress disorder]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01147-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 22 April 2024; <a href="https://www.nature.com/articles/d41586-024-01147-9">doi:10.1038/d41586-024-01147-9</a></p>Findings underscore that genetic factors contribute to development of the condition after a traumatic incident.]]></content:encoded>
+            <dc:title><![CDATA[Dozens of genes are linked to post-traumatic stress disorder]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-01147-9</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-22; | doi:10.1038/d41586-024-01147-9</dc:source>
+            <dc:date>2024-04-22</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01147-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01147-9</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07348-6">
+            <title><![CDATA[Multimodal cell atlas of the ageing human skeletal muscle]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07348-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 22 April 2024; <a href="https://www.nature.com/articles/s41586-024-07348-6">doi:10.1038/s41586-024-07348-6</a></p>The Human Muscle Ageing Cell Atlas provides a series of integrated cellular and molecular explanations for sarcopenia and frailty development in advanced ages.]]></content:encoded>
+            <dc:title><![CDATA[Multimodal cell atlas of the ageing human skeletal muscle]]></dc:title>
+            <dc:creator>Yiwei Lai</dc:creator><dc:creator>Ignacio Ramírez-Pardo</dc:creator><dc:creator>Joan Isern</dc:creator><dc:creator>Juan An</dc:creator><dc:creator>Eusebio Perdiguero</dc:creator><dc:creator>Antonio L. Serrano</dc:creator><dc:creator>Jinxiu Li</dc:creator><dc:creator>Esther García-Domínguez</dc:creator><dc:creator>Jessica Segalés</dc:creator><dc:creator>Pengcheng Guo</dc:creator><dc:creator>Vera Lukesova</dc:creator><dc:creator>Eva Andrés</dc:creator><dc:creator>Jing Zuo</dc:creator><dc:creator>Yue Yuan</dc:creator><dc:creator>Chuanyu Liu</dc:creator><dc:creator>José Viña</dc:creator><dc:creator>Julio Doménech-Fernández</dc:creator><dc:creator>Mari Carmen Gómez-Cabrera</dc:creator><dc:creator>Yancheng Song</dc:creator><dc:creator>Longqi Liu</dc:creator><dc:creator>Xun Xu</dc:creator><dc:creator>Pura Muñoz-Cánoves</dc:creator><dc:creator>Miguel A. Esteban</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07348-6</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-22; | doi:10.1038/s41586-024-07348-6</dc:source>
+            <dc:date>2024-04-22</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07348-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07348-6</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01130-4">
+            <title><![CDATA[How to freeze a memory: putting worms on ice stops them forgetting]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01130-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 22 April 2024; <a href="https://www.nature.com/articles/d41586-024-01130-4">doi:10.1038/d41586-024-01130-4</a></p>The model organism Caenorhabditis elegans is quick to forget a notable odour — unless it is chilled or given lithium.]]></content:encoded>
+            <dc:title><![CDATA[How to freeze a memory: putting worms on ice stops them forgetting]]></dc:title>
+            <dc:creator>Julian  Nowogrodzki</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01130-4</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-22; | doi:10.1038/d41586-024-01130-4</dc:source>
+            <dc:date>2024-04-22</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01130-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01130-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01169-3">
+            <title><![CDATA[Your perception of time is skewed by what you see]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01169-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 22 April 2024; <a href="https://www.nature.com/articles/d41586-024-01169-3">doi:10.1038/d41586-024-01169-3</a></p>Features of a scene such as size and clutter can affect the brain’s sense of how much time has passed while observing it.]]></content:encoded>
+            <dc:title><![CDATA[Your perception of time is skewed by what you see]]></dc:title>
+            <dc:creator>Lilly Tozer</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01169-3</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-22; | doi:10.1038/d41586-024-01169-3</dc:source>
+            <dc:date>2024-04-22</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01169-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01169-3</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01179-1">
+            <title><![CDATA[How volcanoes shaped our planet — and why we need to be ready for the next big eruption]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01179-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 22 April 2024; <a href="https://www.nature.com/articles/d41586-024-01179-1">doi:10.1038/d41586-024-01179-1</a></p>The world should learn from past disasters and prepare for the effects of future, inevitable volcanic catastrophes, a wide-reaching book teaches us.]]></content:encoded>
+            <dc:title><![CDATA[How volcanoes shaped our planet — and why we need to be ready for the next big eruption]]></dc:title>
+            <dc:creator>Heather Handley</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01179-1</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-22; | doi:10.1038/d41586-024-01179-1</dc:source>
+            <dc:date>2024-04-22</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01179-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01179-1</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01137-x">
@@ -1180,126 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01012-9</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01012-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01133-1">
-            <title><![CDATA[AI &amp; robotics briefing: AI-fuelled election campaigns are here]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01133-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 16 April 2024; <a href="https://www.nature.com/articles/d41586-024-01133-1">doi:10.1038/d41586-024-01133-1</a></p>Political candidates are increasingly using ‘softfakes’ — obviously AI-generated content — to boost their campaigns and whitewash their reputation. Plus, AI now beats humans at basic tasks and algorithm learns to nudge human gaming partner.]]></content:encoded>
-            <dc:title><![CDATA[AI &amp; robotics briefing: AI-fuelled election campaigns are here]]></dc:title>
-            <dc:creator>Katrina Krämer</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01133-1</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-16; | doi:10.1038/d41586-024-01133-1</dc:source>
-            <dc:date>2024-04-16</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01133-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01133-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01081-w">
-            <title><![CDATA[Do climate lawsuits lead to action? Researchers assess their impact]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01081-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 16 April 2024; <a href="https://www.nature.com/articles/d41586-024-01081-w">doi:10.1038/d41586-024-01081-w</a></p>Litigation can lead governments to strengthen their climate policies and curb companies’ greenwashing, say scientists.]]></content:encoded>
-            <dc:title><![CDATA[Do climate lawsuits lead to action? Researchers assess their impact]]></dc:title>
-            <dc:creator>Carissa Wong</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01081-w</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-16; | doi:10.1038/d41586-024-01081-w</dc:source>
-            <dc:date>2024-04-16</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01081-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01081-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01129-x">
-            <title><![CDATA[US COVID-origins hearing puts scientific journals in the hot seat]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01129-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 16 April 2024; <a href="https://www.nature.com/articles/d41586-024-01129-x">doi:10.1038/d41586-024-01129-x</a></p>Politicians spar over whether academic publishers colluded with government scientists to suppress the lab-leak hypothesis.]]></content:encoded>
-            <dc:title><![CDATA[US COVID-origins hearing puts scientific journals in the hot seat]]></dc:title>
-            <dc:creator>Max Kozlov</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01129-x</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-16; | doi:10.1038/d41586-024-01129-x</dc:source>
-            <dc:date>2024-04-16</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01129-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01129-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01091-8">
-            <title><![CDATA[Obesity drugs aren’t always forever. What happens when you quit?]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01091-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 16 April 2024; <a href="https://www.nature.com/articles/d41586-024-01091-8">doi:10.1038/d41586-024-01091-8</a></p>Many researchers think that Wegovy and Ozempic should be taken for life, but myriad factors can force people off them.]]></content:encoded>
-            <dc:title><![CDATA[Obesity drugs aren’t always forever. What happens when you quit?]]></dc:title>
-            <dc:creator>McKenzie Prillaman</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01091-8</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-16; | doi:10.1038/d41586-024-01091-8</dc:source>
-            <dc:date>2024-04-16</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01091-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01091-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01125-1">
-            <title><![CDATA[Daily briefing: AI now beats humans at basic reading and maths]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01125-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 16 April 2024; <a href="https://www.nature.com/articles/d41586-024-01125-1">doi:10.1038/d41586-024-01125-1</a></p>Artificial intelligence systems can now nearly match — and sometimes exceed — human performance in basic tasks. Plus, NASA admits that plan to bring Mars rocks to Earth won’t work and three new species of extinct giant kangaroos discovered.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: AI now beats humans at basic reading and maths]]></dc:title>
-            <dc:creator>Katrina Krämer</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01125-1</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-16; | doi:10.1038/d41586-024-01125-1</dc:source>
-            <dc:date>2024-04-16</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01125-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01125-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01101-9">
-            <title><![CDATA[Structure peer review to make it more robust]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01101-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 16 April 2024; <a href="https://www.nature.com/articles/d41586-024-01101-9">doi:10.1038/d41586-024-01101-9</a></p>Everyone who reviews a manuscript should answer a transparent set of questions, to ensure that scientific literature is subject to reliable quality control.]]></content:encoded>
-            <dc:title><![CDATA[Structure peer review to make it more robust]]></dc:title>
-            <dc:creator>Mario  Malički</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01101-9</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-16; | doi:10.1038/d41586-024-01101-9</dc:source>
-            <dc:date>2024-04-16</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01101-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01101-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01072-x">
-            <title><![CDATA[A spa session for humpback whales]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01072-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 15 April 2024; <a href="https://www.nature.com/articles/d41586-024-01072-x">doi:10.1038/d41586-024-01072-x</a></p>The gigantic animals have worked out an unusual way to exfoliate — a perfect way to deal with whale lice.]]></content:encoded>
-            <dc:title><![CDATA[A spa session for humpback whales]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-01072-x</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-15; | doi:10.1038/d41586-024-01072-x</dc:source>
-            <dc:date>2024-04-15</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01072-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01072-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01097-2">
-            <title><![CDATA[Acid test: why the chemistry of this unique crater lake matters]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01097-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 15 April 2024; <a href="https://www.nature.com/articles/d41586-024-01097-2">doi:10.1038/d41586-024-01097-2</a></p>Hanik Humaida monitors the activity of Indonesia’s volcanoes to help protect the public.]]></content:encoded>
-            <dc:title><![CDATA[Acid test: why the chemistry of this unique crater lake matters]]></dc:title>
-            <dc:creator>James Mitchell Crow</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01097-2</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-15; | doi:10.1038/d41586-024-01097-2</dc:source>
-            <dc:date>2024-04-15</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01097-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01097-2</prism:url>
         </item>
     
 </rdf:RDF>
