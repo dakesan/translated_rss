@@ -18,13 +18,21 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07450-9"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01187-1"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01185-3"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01180-8"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01188-0"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01186-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01176-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01167-5"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01181-7"/>
                 
@@ -48,6 +56,8 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01169-3"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01195-1"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01179-1"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01137-x"/>
@@ -60,6 +70,8 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01151-z"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01172-8"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01144-y"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01156-8"/>
@@ -67,6 +79,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01037-0"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01075-8"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01163-9"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01138-w"/>
                 
@@ -154,20 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01016-5"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00858-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00912-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01110-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01153-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01092-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01017-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01083-8"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,21 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07450-9">
+            <title><![CDATA[Publisher Correction: FOXO1 is a master regulator of memory programming in CAR T cells]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07450-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 23 April 2024; <a href="https://www.nature.com/articles/s41586-024-07450-9">doi:10.1038/s41586-024-07450-9</a></p>Publisher Correction: FOXO1 is a master regulator of memory programming in CAR T cells]]></content:encoded>
+            <dc:title><![CDATA[Publisher Correction: FOXO1 is a master regulator of memory programming in CAR T cells]]></dc:title>
+            <dc:creator>Alexander E. Doan</dc:creator><dc:creator>Katherine P. Mueller</dc:creator><dc:creator>Andy Y. Chen</dc:creator><dc:creator>Geoffrey T. Rouin</dc:creator><dc:creator>Yingshi Chen</dc:creator><dc:creator>Bence Daniel</dc:creator><dc:creator>John Lattin</dc:creator><dc:creator>Martina Markovska</dc:creator><dc:creator>Brett Mozarsky</dc:creator><dc:creator>Jose Arias-Umana</dc:creator><dc:creator>Robert Hapke</dc:creator><dc:creator>In-Young Jung</dc:creator><dc:creator>Alice Wang</dc:creator><dc:creator>Peng Xu</dc:creator><dc:creator>Dorota Klysz</dc:creator><dc:creator>Gabrielle Zuern</dc:creator><dc:creator>Malek Bashti</dc:creator><dc:creator>Patrick J. Quinn</dc:creator><dc:creator>Zhuang Miao</dc:creator><dc:creator>Katalin Sandor</dc:creator><dc:creator>Wenxi Zhang</dc:creator><dc:creator>Gregory M. Chen</dc:creator><dc:creator>Faith Ryu</dc:creator><dc:creator>Meghan Logun</dc:creator><dc:creator>Junior Hall</dc:creator><dc:creator>Kai Tan</dc:creator><dc:creator>Stephan A. Grupp</dc:creator><dc:creator>Susan E. McClory</dc:creator><dc:creator>Caleb A. Lareau</dc:creator><dc:creator>Joseph A. Fraietta</dc:creator><dc:creator>Elena Sotillo</dc:creator><dc:creator>Ansuman T. Satpathy</dc:creator><dc:creator>Crystal L. Mackall</dc:creator><dc:creator>Evan W. Weber</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07450-9</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-23; | doi:10.1038/s41586-024-07450-9</dc:source>
+            <dc:date>2024-04-23</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07450-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07450-9</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01187-1">
             <title><![CDATA[India’s 50-year-old Chipko movement is a model for environmental activism]]></title>
@@ -207,6 +222,21 @@
             <prism:url>https://www.nature.com/articles/d41586-024-01185-3</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01180-8">
+            <title><![CDATA[Charles Darwin investigates: the curious case of primrose punishment]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01180-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 23 April 2024; <a href="https://www.nature.com/articles/d41586-024-01180-8">doi:10.1038/d41586-024-01180-8</a></p>Birds emerge as top suspects for unexplained flower mutilation, and reflections from 1974 mark the 21st anniversary of the discovery of the DNA double helix, in the weekly dip into Nature’s archive.]]></content:encoded>
+            <dc:title><![CDATA[Charles Darwin investigates: the curious case of primrose punishment]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-01180-8</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-23; | doi:10.1038/d41586-024-01180-8</dc:source>
+            <dc:date>2024-04-23</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01180-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01180-8</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-024-01188-0">
             <title><![CDATA[Chemistry lab destroyed by Taiwan earthquake has physical and mental impacts]]></title>
             <link>https://www.nature.com/articles/d41586-024-01188-0</link>
@@ -235,6 +265,36 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01186-2</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01186-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01176-4">
+            <title><![CDATA[Any plan to make smoking obsolete is the right step]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01176-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 23 April 2024; <a href="https://www.nature.com/articles/d41586-024-01176-4">doi:10.1038/d41586-024-01176-4</a></p>The United Kingdom is correct to attempt to end the single largest preventable cause of illness and death, as was New Zealand before its government changed its mind.]]></content:encoded>
+            <dc:title><![CDATA[Any plan to make smoking obsolete is the right step]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-01176-4</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-23; | doi:10.1038/d41586-024-01176-4</dc:source>
+            <dc:date>2024-04-23</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01176-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01176-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01167-5">
+            <title><![CDATA[Monkeypox virus: dangerous strain gains ability to spread through sex, new data suggest]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01167-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 23 April 2024; <a href="https://www.nature.com/articles/d41586-024-01167-5">doi:10.1038/d41586-024-01167-5</a></p>A cluster of mpox cases in the Democratic Republic of the Congo sparks worries of a wider outbreak.]]></content:encoded>
+            <dc:title><![CDATA[Monkeypox virus: dangerous strain gains ability to spread through sex, new data suggest]]></dc:title>
+            <dc:creator>Max Kozlov</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01167-5</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-23; | doi:10.1038/d41586-024-01167-5</dc:source>
+            <dc:date>2024-04-23</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01167-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01167-5</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01181-7">
@@ -402,6 +462,21 @@
             <prism:url>https://www.nature.com/articles/d41586-024-01169-3</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01195-1">
+            <title><![CDATA[Daily briefing: Great Barrier Reef is experiencing its worst mass bleaching event on record]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01195-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 22 April 2024; <a href="https://www.nature.com/articles/d41586-024-01195-1">doi:10.1038/d41586-024-01195-1</a></p>Iconic coral reef is ‘transforming’ from repeated bleaching events. Plus, researchers face the possibility of animal consciousness and science explores the neurodiversity of visual imagery.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Great Barrier Reef is experiencing its worst mass bleaching event on record]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01195-1</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-22; | doi:10.1038/d41586-024-01195-1</dc:source>
+            <dc:date>2024-04-22</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01195-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01195-1</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-024-01179-1">
             <title><![CDATA[How volcanoes shaped our planet — and why we need to be ready for the next big eruption]]></title>
             <link>https://www.nature.com/articles/d41586-024-01179-1</link>
@@ -492,6 +567,21 @@
             <prism:url>https://www.nature.com/articles/d41586-024-01151-z</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01172-8">
+            <title><![CDATA[Daily briefing: why queasiness kills hunger]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01172-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 19 April 2024; <a href="https://www.nature.com/articles/d41586-024-01172-8">doi:10.1038/d41586-024-01172-8</a></p>Feelings of hunger, nausea and fullness seem to be governed by separate brain circuits. Plus, nearly half of China’s major cities are sinking and Jupiter’s moon, Io, is the most volcanically active place in the Solar System.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: why queasiness kills hunger]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01172-8</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-19; | doi:10.1038/d41586-024-01172-8</dc:source>
+            <dc:date>2024-04-19</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01172-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01172-8</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-024-01144-y">
             <title><![CDATA[Do insects have an inner life? Animal consciousness needs a rethink]]></title>
             <link>https://www.nature.com/articles/d41586-024-01144-y</link>
@@ -550,6 +640,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01075-8</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01075-8</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01163-9">
+            <title><![CDATA[Daily briefing: ‘Goldene’ is a gilded cousin of graphene that is one atom thick]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01163-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 18 April 2024; <a href="https://www.nature.com/articles/d41586-024-01163-9">doi:10.1038/d41586-024-01163-9</a></p>Single-atom-thick sheet of gold is probably the first 2D metal. Plus, some bumblebees can survive up to a week underwater and what crackdowns on smoking and vaping will do for public health.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: ‘Goldene’ is a gilded cousin of graphene that is one atom thick]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01163-9</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-18; | doi:10.1038/d41586-024-01163-9</dc:source>
+            <dc:date>2024-04-18</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01163-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01163-9</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01138-w">
@@ -1195,111 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01016-5</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01016-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00858-3">
-            <title><![CDATA[Surprise hybrid origins of a butterfly species]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00858-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 17 April 2024; <a href="https://www.nature.com/articles/d41586-024-00858-3">doi:10.1038/d41586-024-00858-3</a></p>Mating between different species has often been considered an evolutionary dead end, but a study in longwing butterflies suggests that such hybridization could underlie the origins of a new species.]]></content:encoded>
-            <dc:title><![CDATA[Surprise hybrid origins of a butterfly species]]></dc:title>
-            <dc:creator>Megan E. Frayer</dc:creator><dc:creator>Jenn M. Coughlan</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00858-3</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-17; | doi:10.1038/d41586-024-00858-3</dc:source>
-            <dc:date>2024-04-17</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00858-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00858-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00912-0">
-            <title><![CDATA[An exploration of how the insect-wing hinge functions]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00912-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 17 April 2024; <a href="https://www.nature.com/articles/d41586-024-00912-0">doi:10.1038/d41586-024-00912-0</a></p>The hinge enables insects to control their wing movements, but how it works is hard to study. Multidisciplinary research, using imaging and machine-learning methods, now sheds light on the mechanism that underlies its operation.]]></content:encoded>
-            <dc:title><![CDATA[An exploration of how the insect-wing hinge functions]]></dc:title>
-            <dc:creator>Tanvi  Deora</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00912-0</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-17; | doi:10.1038/d41586-024-00912-0</dc:source>
-            <dc:date>2024-04-17</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00912-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00912-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01110-8">
-            <title><![CDATA[AI traces mysterious metastatic cancers to their source]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01110-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 17 April 2024; <a href="https://www.nature.com/articles/d41586-024-01110-8">doi:10.1038/d41586-024-01110-8</a></p>Algorithm examines images of metastatic cells to identify the location of the primary tumour.]]></content:encoded>
-            <dc:title><![CDATA[AI traces mysterious metastatic cancers to their source]]></dc:title>
-            <dc:creator>Smriti Mallapaty</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01110-8</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-17; | doi:10.1038/d41586-024-01110-8</dc:source>
-            <dc:date>2024-04-17</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01110-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01110-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01153-x">
-            <title><![CDATA[Daily briefing: Food is medicine]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01153-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 17 April 2024; <a href="https://www.nature.com/articles/d41586-024-01153-x">doi:10.1038/d41586-024-01153-x</a></p>Evidence is growing that targeted dietary interventions can treat, delay and even prevent some illnesses. Plus, an AI model helps track the spread of metastatic cancers and how climate lawsuits push governments and companies to act.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: Food is medicine]]></dc:title>
-            <dc:creator>Flora Graham</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01153-x</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-17; | doi:10.1038/d41586-024-01153-x</dc:source>
-            <dc:date>2024-04-17</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01153-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01153-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01092-7">
-            <title><![CDATA[What toilets can reveal about COVID, cancer and other health threats]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01092-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 17 April 2024; <a href="https://www.nature.com/articles/d41586-024-01092-7">doi:10.1038/d41586-024-01092-7</a></p>Wastewater testing grew tremendously during the pandemic. But is it ready to tackle the opioid crisis, air pollution and antibiotic resistance?]]></content:encoded>
-            <dc:title><![CDATA[What toilets can reveal about COVID, cancer and other health threats]]></dc:title>
-            <dc:creator>Betsy Ladyzhets</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01092-7</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-17; | doi:10.1038/d41586-024-01092-7</dc:source>
-            <dc:date>2024-04-17</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01092-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01092-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01017-4">
-            <title><![CDATA[The sympathetic nervous system arose in the earliest vertebrates]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01017-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 17 April 2024; <a href="https://www.nature.com/articles/d41586-024-01017-4">doi:10.1038/d41586-024-01017-4</a></p>The sympathetic nervous system, which enables the fight-or-flight response, was thought to be present only in jawed vertebrates. Analysis of a jawless vertebrate suggests that this system might be a feature of all animals with a spine.]]></content:encoded>
-            <dc:title><![CDATA[The sympathetic nervous system arose in the earliest vertebrates]]></dc:title>
-            <dc:creator>Uwe  Ernsberger</dc:creator><dc:creator>Hermann  Rohrer</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01017-4</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-17; | doi:10.1038/d41586-024-01017-4</dc:source>
-            <dc:date>2024-04-17</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01017-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01017-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01083-8">
-            <title><![CDATA[Use game theory for climate models that really help reach net zero goals]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01083-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 16 April 2024; <a href="https://www.nature.com/articles/d41586-024-01083-8">doi:10.1038/d41586-024-01083-8</a></p>Use game theory for climate models that really help reach net zero goals]]></content:encoded>
-            <dc:title><![CDATA[Use game theory for climate models that really help reach net zero goals]]></dc:title>
-            <dc:creator>Kathleen B. Aviso</dc:creator><dc:creator>Raymond R. Tan</dc:creator><dc:creator>Jose B. Cruz, Jr</dc:creator><dc:creator>Maria Victoria Migo-Sumagang</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01083-8</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-16; | doi:10.1038/d41586-024-01083-8</dc:source>
-            <dc:date>2024-04-16</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01083-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01083-8</prism:url>
         </item>
     
 </rdf:RDF>
