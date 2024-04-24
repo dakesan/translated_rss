@@ -18,6 +18,16 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01183-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01175-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01178-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01173-7"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00452-7"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07450-9"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01187-1"/>
@@ -39,6 +49,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01177-3"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01029-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01224-z"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07412-1"/>
                 
@@ -156,18 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01100-w"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01089-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01124-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01131-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01136-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01099-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01016-5"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,81 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01183-5">
+            <title><![CDATA[First glowing animals lit up the oceans half a billion years ago]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01183-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 24 April 2024; <a href="https://www.nature.com/articles/d41586-024-01183-5">doi:10.1038/d41586-024-01183-5</a></p>Family tree of ‘octocorals’ pushes origin of bioluminescence back to 540 million years ago, when the first animal species developed eyes.]]></content:encoded>
+            <dc:title><![CDATA[First glowing animals lit up the oceans half a billion years ago]]></dc:title>
+            <dc:creator>Freda Kreier</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01183-5</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-24; | doi:10.1038/d41586-024-01183-5</dc:source>
+            <dc:date>2024-04-24</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01183-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01183-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01175-5">
+            <title><![CDATA[<i>Las Boriqueñas</i> remembers the forgotten Puerto Rican women who tested the first pill]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01175-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 24 April 2024; <a href="https://www.nature.com/articles/d41586-024-01175-5">doi:10.1038/d41586-024-01175-5</a></p>Clinical trials of the first oral contraceptive recalled in a bold theatre production.]]></content:encoded>
+            <dc:title><![CDATA[<i>Las Boriqueñas</i> remembers the forgotten Puerto Rican women who tested the first pill]]></dc:title>
+            <dc:creator>Mariana Lenharo</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01175-5</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-24; | doi:10.1038/d41586-024-01175-5</dc:source>
+            <dc:date>2024-04-24</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01175-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01175-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01178-2">
+            <title><![CDATA[Ecologists: don’t lose touch with the joy of fieldwork]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01178-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 24 April 2024; <a href="https://www.nature.com/articles/d41586-024-01178-2">doi:10.1038/d41586-024-01178-2</a></p>Amid the data deluge provided by lab-based techniques, such as environmental-DNA analysis, true connection still comes only in the outdoors.]]></content:encoded>
+            <dc:title><![CDATA[Ecologists: don’t lose touch with the joy of fieldwork]]></dc:title>
+            <dc:creator>Chris Mantegna</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01178-2</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-24; | doi:10.1038/d41586-024-01178-2</dc:source>
+            <dc:date>2024-04-24</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01178-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01178-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01173-7">
+            <title><![CDATA[WHO redefines airborne transmission: what does that mean for future pandemics?]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01173-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 24 April 2024; <a href="https://www.nature.com/articles/d41586-024-01173-7">doi:10.1038/d41586-024-01173-7</a></p>The World Health Organization was criticized for being too slow to classify COVID-19 as airborne. Will the new terminology help next time?]]></content:encoded>
+            <dc:title><![CDATA[WHO redefines airborne transmission: what does that mean for future pandemics?]]></dc:title>
+            <dc:creator>Bianca Nogrady</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01173-7</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-24; | doi:10.1038/d41586-024-01173-7</dc:source>
+            <dc:date>2024-04-24</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01173-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01173-7</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00452-7">
+            <title><![CDATA[A chemical method for selective labelling of the key amino acid tryptophan]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00452-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 24 April 2024; <a href="https://www.nature.com/articles/d41586-024-00452-7">doi:10.1038/d41586-024-00452-7</a></p>A broadly applicable method allows selective, rapid and efficient chemical modification of the side chain of tryptophan amino acids in proteins. This platform enables systematic, proteome-wide identification of tryptophan residues, which can form a bond (called cation–π interaction) with positively charged molecules. Such interactions are key in many biochemical processes, including protein-mediated phase separation.]]></content:encoded>
+            <dc:title><![CDATA[A chemical method for selective labelling of the key amino acid tryptophan]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-00452-7</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-24; | doi:10.1038/d41586-024-00452-7</dc:source>
+            <dc:date>2024-04-24</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00452-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00452-7</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07450-9">
             <title><![CDATA[Publisher Correction: FOXO1 is a master regulator of memory programming in CAR T cells]]></title>
@@ -340,6 +415,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01029-0</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01029-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01224-z">
+            <title><![CDATA[AI &amp; robotics briefing: Winged robot demystifies insect flight]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01224-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 23 April 2024; <a href="https://www.nature.com/articles/d41586-024-01224-z">doi:10.1038/d41586-024-01224-z</a></p>Robot fly helps to unravel the workings of the insect wing hinge. Plus, AI traces mysterious metastatic cancers to their source and general rules for AI in publishing are coming.]]></content:encoded>
+            <dc:title><![CDATA[AI &amp; robotics briefing: Winged robot demystifies insect flight]]></dc:title>
+            <dc:creator>Katrina Krämer</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01224-z</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-23; | doi:10.1038/d41586-024-01224-z</dc:source>
+            <dc:date>2024-04-23</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01224-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01224-z</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07412-1">
@@ -1210,96 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01100-w</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01100-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01089-2">
-            <title><![CDATA[UN plastics treaty: don’t let lobbyists drown out researchers]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01089-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 17 April 2024; <a href="https://www.nature.com/articles/d41586-024-01089-2">doi:10.1038/d41586-024-01089-2</a></p>Tackling plastic pollution needs scientists to be in the negotiating room at upcoming talks.]]></content:encoded>
-            <dc:title><![CDATA[UN plastics treaty: don’t let lobbyists drown out researchers]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-01089-2</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-17; | doi:10.1038/d41586-024-01089-2</dc:source>
-            <dc:date>2024-04-17</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01089-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01089-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01124-2">
-            <title><![CDATA[Canadian science gets biggest boost to PhD and postdoc pay in 20 years]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01124-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 17 April 2024; <a href="https://www.nature.com/articles/d41586-024-01124-2">doi:10.1038/d41586-024-01124-2</a></p>Government budget includes more money for basic research and notable increases to postgraduate stipends.]]></content:encoded>
-            <dc:title><![CDATA[Canadian science gets biggest boost to PhD and postdoc pay in 20 years]]></dc:title>
-            <dc:creator>Brian Owens</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01124-2</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-17; | doi:10.1038/d41586-024-01124-2</dc:source>
-            <dc:date>2024-04-17</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01124-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01124-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01131-3">
-            <title><![CDATA[Humans and their livestock have sheltered in this Saudi Arabian cave for 10,000 years]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01131-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 17 April 2024; <a href="https://www.nature.com/articles/d41586-024-01131-3">doi:10.1038/d41586-024-01131-3</a></p>Saudi herders have travelled the same routes for millennia, cave discovery suggests.]]></content:encoded>
-            <dc:title><![CDATA[Humans and their livestock have sheltered in this Saudi Arabian cave for 10,000 years]]></dc:title>
-            <dc:creator>Gillian Dohrn</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01131-3</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-17; | doi:10.1038/d41586-024-01131-3</dc:source>
-            <dc:date>2024-04-17</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01131-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01131-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01136-y">
-            <title><![CDATA[Keys, wallet, phone: the neuroscience behind working memory]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01136-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 17 April 2024; <a href="https://www.nature.com/articles/d41586-024-01136-y">doi:10.1038/d41586-024-01136-y</a></p>Brain areas work in tandem to temporarily store important information, and an aurora on a cool brown dwarf.]]></content:encoded>
-            <dc:title><![CDATA[Keys, wallet, phone: the neuroscience behind working memory]]></dc:title>
-            <dc:creator>Benjamin Thompson</dc:creator><dc:creator>Noah Baker</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01136-y</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-17; | doi:10.1038/d41586-024-01136-y</dc:source>
-            <dc:date>2024-04-17</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01136-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01136-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01099-0">
-            <title><![CDATA[I dive for fish in the longest freshwater lake in the world]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01099-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 17 April 2024; <a href="https://www.nature.com/articles/d41586-024-01099-0">doi:10.1038/d41586-024-01099-0</a></p>Biologist Carolin Sommer-Trembo describes her fascination for fish and why she enjoys doing science in Switzerland.]]></content:encoded>
-            <dc:title><![CDATA[I dive for fish in the longest freshwater lake in the world]]></dc:title>
-            <dc:creator>Nikki Forrester</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01099-0</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-17; | doi:10.1038/d41586-024-01099-0</dc:source>
-            <dc:date>2024-04-17</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01099-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01099-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01016-5">
-            <title><![CDATA[Bacteria deploy umbrella toxins against their competitors]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01016-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 17 April 2024; <a href="https://www.nature.com/articles/d41586-024-01016-5">doi:10.1038/d41586-024-01016-5</a></p>Bacteria make protein toxins to compete with other bacteria in microbial communities. A study of a common soil bacterium has revealed a previously unknown type of antibacterial toxin that forms a striking umbrella-like structure.]]></content:encoded>
-            <dc:title><![CDATA[Bacteria deploy umbrella toxins against their competitors]]></dc:title>
-            <dc:creator>Sarah J.  Coulthurst</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01016-5</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-17; | doi:10.1038/d41586-024-01016-5</dc:source>
-            <dc:date>2024-04-17</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01016-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01016-5</prism:url>
         </item>
     
 </rdf:RDF>
