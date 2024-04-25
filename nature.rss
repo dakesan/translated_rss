@@ -18,6 +18,12 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01216-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01235-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01052-1"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07439-4"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01230-1"/>
@@ -162,12 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01179-1"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01137-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01158-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01073-w"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,51 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01216-z">
+            <title><![CDATA[‘Shut up and calculate’: how Einstein lost the battle to explain quantum reality]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01216-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 25 April 2024; <a href="https://www.nature.com/articles/d41586-024-01216-z">doi:10.1038/d41586-024-01216-z</a></p>By suppressing questions they considered too ‘philosophical’, post-war physicists created an unquestioning orthodoxy that influences science to this day.]]></content:encoded>
+            <dc:title><![CDATA[‘Shut up and calculate’: how Einstein lost the battle to explain quantum reality]]></dc:title>
+            <dc:creator>Jim Baggott</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01216-z</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-25; | doi:10.1038/d41586-024-01216-z</dc:source>
+            <dc:date>2024-04-25</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01216-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01216-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01235-w">
+            <title><![CDATA[Algorithm ranks peer reviewers by reputation — but critics warn of bias]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01235-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 25 April 2024; <a href="https://www.nature.com/articles/d41586-024-01235-w">doi:10.1038/d41586-024-01235-w</a></p>There are questions about whether the tool, which could be used by editors to find and shortlist peer reviewers, would disadvantage inexperienced candidates or those in certain locations.]]></content:encoded>
+            <dc:title><![CDATA[Algorithm ranks peer reviewers by reputation — but critics warn of bias]]></dc:title>
+            <dc:creator>Dalmeet Singh Chawla</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01235-w</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-25; | doi:10.1038/d41586-024-01235-w</dc:source>
+            <dc:date>2024-04-25</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01235-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01235-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01052-1">
+            <title><![CDATA[NATO is boosting AI and climate research as scientific diplomacy remains on ice]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01052-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 25 April 2024; <a href="https://www.nature.com/articles/d41586-024-01052-1">doi:10.1038/d41586-024-01052-1</a></p>As the military alliance created to counter the Soviet Union expands, it is prioritizing studies on how climate change affects security, cyber attacks and election interference.]]></content:encoded>
+            <dc:title><![CDATA[NATO is boosting AI and climate research as scientific diplomacy remains on ice]]></dc:title>
+            <dc:creator>Natasha Gilbert</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01052-1</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-25; | doi:10.1038/d41586-024-01052-1</dc:source>
+            <dc:date>2024-04-25</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01052-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01052-1</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07439-4">
             <title><![CDATA[Structures of human γδ T cell receptor–CD3 complex]]></title>
@@ -1255,51 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01179-1</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01179-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01137-x">
-            <title><![CDATA[Will AI accelerate or delay the race to net-zero emissions?]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01137-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 22 April 2024; <a href="https://www.nature.com/articles/d41586-024-01137-x">doi:10.1038/d41586-024-01137-x</a></p>As artificial intelligence transforms the global economy, researchers need to explore scenarios to assess how it can help, rather than harm, the climate.]]></content:encoded>
-            <dc:title><![CDATA[Will AI accelerate or delay the race to net-zero emissions?]]></dc:title>
-            <dc:creator>Amy  Luers</dc:creator><dc:creator>Jonathan  Koomey</dc:creator><dc:creator>Eric  Masanet</dc:creator><dc:creator>Owen  Gaffney</dc:creator><dc:creator>Felix  Creutzig</dc:creator><dc:creator>Juan   Lavista Ferres</dc:creator><dc:creator>Eric   Horvitz</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01137-x</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-22; | doi:10.1038/d41586-024-01137-x</dc:source>
-            <dc:date>2024-04-22</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01137-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01137-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01158-6">
-            <title><![CDATA[Living on Mars would probably suck — here's why]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01158-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 19 April 2024; <a href="https://www.nature.com/articles/d41586-024-01158-6">doi:10.1038/d41586-024-01158-6</a></p>Kelly and Zach Weinersmith join us to discuss their book A City on Mars: Can We Settle Space, Should We Settle Space, and Have We Really Thought This Through?]]></content:encoded>
-            <dc:title><![CDATA[Living on Mars would probably suck — here's why]]></dc:title>
-            <dc:creator>Benjamin Thompson</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01158-6</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-19; | doi:10.1038/d41586-024-01158-6</dc:source>
-            <dc:date>2024-04-19</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01158-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01158-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01073-w">
-            <title><![CDATA[Detectors deep in South Pole ice pin down elusive tau neutrino]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01073-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 19 April 2024; <a href="https://www.nature.com/articles/d41586-024-01073-w">doi:10.1038/d41586-024-01073-w</a></p>Antarctic observatory gathers the first clear evidence of mysterious subatomic particles from space.]]></content:encoded>
-            <dc:title><![CDATA[Detectors deep in South Pole ice pin down elusive tau neutrino]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-01073-w</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-19; | doi:10.1038/d41586-024-01073-w</dc:source>
-            <dc:date>2024-04-19</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01073-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01073-w</prism:url>
         </item>
     
 </rdf:RDF>
