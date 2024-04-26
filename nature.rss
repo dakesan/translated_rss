@@ -18,6 +18,8 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01229-8"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01145-x"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01148-8"/>
@@ -128,6 +130,8 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01157-7"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01244-9"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01020-9"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00452-7"/>
@@ -164,10 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01177-3"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01029-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01224-z"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,21 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01229-8">
+            <title><![CDATA[Future of Humanity Institute shuts: what’s next for ‘deep future’ research?]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01229-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 26 April 2024; <a href="https://www.nature.com/articles/d41586-024-01229-8">doi:10.1038/d41586-024-01229-8</a></p>Researchers from several disciplines hope to predict — and prevent — scenarios that pose risks to humanity.]]></content:encoded>
+            <dc:title><![CDATA[Future of Humanity Institute shuts: what’s next for ‘deep future’ research?]]></dc:title>
+            <dc:creator>David Adam</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01229-8</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-26; | doi:10.1038/d41586-024-01229-8</dc:source>
+            <dc:date>2024-04-26</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01229-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01229-8</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01145-x">
             <title><![CDATA[Garden-variety fungus is an expert at environmental clean-ups]]></title>
@@ -1002,6 +1017,21 @@
             <prism:url>https://www.nature.com/articles/d41586-024-01157-7</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01244-9">
+            <title><![CDATA[Daily briefing: The origins of bioluminescence in animals date back over half a billion years]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01244-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 24 April 2024; <a href="https://www.nature.com/articles/d41586-024-01244-9">doi:10.1038/d41586-024-01244-9</a></p>Octocorals probably evolved the ability to make light when the first animals developed eyes. Plus, the WHO has redefined ‘airborne transmission’ and how artificial intelligence is changing weapons of war.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: The origins of bioluminescence in animals date back over half a billion years]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01244-9</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-24; | doi:10.1038/d41586-024-01244-9</dc:source>
+            <dc:date>2024-04-24</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01244-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01244-9</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-024-01020-9">
             <title><![CDATA[Ancient DNA traces family lines and political shifts in the Avar empire]]></title>
             <link>https://www.nature.com/articles/d41586-024-01020-9</link>
@@ -1270,36 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01177-3</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01177-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01029-0">
-            <title><![CDATA[Lethal AI weapons are here: how can we control them?]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01029-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 23 April 2024; <a href="https://www.nature.com/articles/d41586-024-01029-0">doi:10.1038/d41586-024-01029-0</a></p>Autonomous weapons guided by artificial intelligence are already in use. Researchers, legal experts and ethicists are struggling with what should be allowed on the battlefield.]]></content:encoded>
-            <dc:title><![CDATA[Lethal AI weapons are here: how can we control them?]]></dc:title>
-            <dc:creator>David Adam</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01029-0</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-23; | doi:10.1038/d41586-024-01029-0</dc:source>
-            <dc:date>2024-04-23</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01029-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01029-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01224-z">
-            <title><![CDATA[AI &amp; robotics briefing: Winged robot demystifies insect flight]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01224-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 23 April 2024; <a href="https://www.nature.com/articles/d41586-024-01224-z">doi:10.1038/d41586-024-01224-z</a></p>Robot fly helps to unravel the workings of the insect wing hinge. Plus, AI traces mysterious metastatic cancers to their source and general rules for AI in publishing are coming.]]></content:encoded>
-            <dc:title><![CDATA[AI &amp; robotics briefing: Winged robot demystifies insect flight]]></dc:title>
-            <dc:creator>Katrina Krämer</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01224-z</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-23; | doi:10.1038/d41586-024-01224-z</dc:source>
-            <dc:date>2024-04-23</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01224-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01224-z</prism:url>
         </item>
     
 </rdf:RDF>
