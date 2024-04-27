@@ -18,6 +18,8 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01256-5"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01251-w"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01201-6"/>
@@ -166,8 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01186-2"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01176-4"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,21 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01256-5">
+            <title><![CDATA[Bird flu virus has been spreading in US cows for months, RNA reveals]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01256-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 27 April 2024; <a href="https://www.nature.com/articles/d41586-024-01256-5">doi:10.1038/d41586-024-01256-5</a></p>Genomic analysis suggests that the outbreak probably began in December or January, but a shortage of data is hampering efforts to pin down the source.]]></content:encoded>
+            <dc:title><![CDATA[Bird flu virus has been spreading in US cows for months, RNA reveals]]></dc:title>
+            <dc:creator>Smriti Mallapaty</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01256-5</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-27; | doi:10.1038/d41586-024-01256-5</dc:source>
+            <dc:date>2024-04-27</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01256-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01256-5</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01251-w">
             <title><![CDATA[Audio long read: Why loneliness is bad for your health]]></title>
@@ -1285,21 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01186-2</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01186-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01176-4">
-            <title><![CDATA[Any plan to make smoking obsolete is the right step]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01176-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 23 April 2024; <a href="https://www.nature.com/articles/d41586-024-01176-4">doi:10.1038/d41586-024-01176-4</a></p>The United Kingdom is correct to attempt to end the single largest preventable cause of illness and death, as was New Zealand before its government changed its mind.]]></content:encoded>
-            <dc:title><![CDATA[Any plan to make smoking obsolete is the right step]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-01176-4</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-23; | doi:10.1038/d41586-024-01176-4</dc:source>
-            <dc:date>2024-04-23</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01176-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01176-4</prism:url>
         </item>
     
 </rdf:RDF>
