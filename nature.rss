@@ -18,6 +18,12 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01251-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01201-6"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01257-4"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01229-8"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01145-x"/>
@@ -29,6 +35,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01128-y"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01246-7"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01253-8"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01223-0"/>
                 
@@ -160,14 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01176-4"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01167-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01202-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01181-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01177-3"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,51 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01251-w">
+            <title><![CDATA[Audio long read: Why loneliness is bad for your health]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01251-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 26 April 2024; <a href="https://www.nature.com/articles/d41586-024-01251-w">doi:10.1038/d41586-024-01251-w</a></p>New research is revealing the mechanisms linking loneliness and conditions like dementia, depression and cardiovascular disease.]]></content:encoded>
+            <dc:title><![CDATA[Audio long read: Why loneliness is bad for your health]]></dc:title>
+            <dc:creator>Saima May Sidik</dc:creator><dc:creator>Benjamin Thompson</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01251-w</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-26; | doi:10.1038/d41586-024-01251-w</dc:source>
+            <dc:date>2024-04-26</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01251-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01251-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01201-6">
+            <title><![CDATA[Could a rare mutation that causes dwarfism also slow ageing?]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01201-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 26 April 2024; <a href="https://www.nature.com/articles/d41586-024-01201-6">doi:10.1038/d41586-024-01201-6</a></p>People with Laron syndrome have a low risk of heart disease and a number of other age-related disorders, hinting at strategies for new treatments.]]></content:encoded>
+            <dc:title><![CDATA[Could a rare mutation that causes dwarfism also slow ageing?]]></dc:title>
+            <dc:creator>Mariana Lenharo</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01201-6</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-26; | doi:10.1038/d41586-024-01201-6</dc:source>
+            <dc:date>2024-04-26</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01201-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01201-6</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01257-4">
+            <title><![CDATA[Want to make a difference? Try working at an environmental non-profit organization]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01257-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 26 April 2024; <a href="https://www.nature.com/articles/d41586-024-01257-4">doi:10.1038/d41586-024-01257-4</a></p>Moving to non-profit work requires researchers to shift their mindset to focus on applied science for policymaking and conservation practice.]]></content:encoded>
+            <dc:title><![CDATA[Want to make a difference? Try working at an environmental non-profit organization]]></dc:title>
+            <dc:creator>Natasha Gilbert</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01257-4</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-26; | doi:10.1038/d41586-024-01257-4</dc:source>
+            <dc:date>2024-04-26</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01257-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01257-4</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01229-8">
             <title><![CDATA[Future of Humanity Institute shuts: what’s next for ‘deep future’ research?]]></title>
@@ -267,6 +312,21 @@
             <prism:url>https://www.nature.com/articles/d41586-024-01246-7</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01253-8">
+            <title><![CDATA[Daily briefing: How an unlikely friendship with Jung influenced Pauli’s physics]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01253-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 25 April 2024; <a href="https://www.nature.com/articles/d41586-024-01253-8">doi:10.1038/d41586-024-01253-8</a></p>A patient-analyst relationship to psychoanalyst Carl Jung that evolved into a friendship deeply influenced physicist Wolfgang Pauli’s work. Plus, organoids shed light on cancer and other diseases, and medieval graves reveal secrets of a mysterious nomadic people.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: How an unlikely friendship with Jung influenced Pauli’s physics]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01253-8</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-25; | doi:10.1038/d41586-024-01253-8</dc:source>
+            <dc:date>2024-04-25</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01253-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01253-8</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-024-01223-0">
             <title><![CDATA[China's Moon atlas is the most detailed ever made]]></title>
             <link>https://www.nature.com/articles/d41586-024-01223-0</link>
@@ -313,11 +373,11 @@
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01242-x">
-            <title><![CDATA[NIH pay raise for postdocs and PhD students could have US ripple effect]]></title>
+            <title><![CDATA[NIH pay rise for postdocs and PhD students could have US ripple effect]]></title>
             <link>https://www.nature.com/articles/d41586-024-01242-x</link>
             <content:encoded>
                 <![CDATA[<p>Nature, Published online: 25 April 2024; <a href="https://www.nature.com/articles/d41586-024-01242-x">doi:10.1038/d41586-024-01242-x</a></p>Salary increases for the 17,000-plus recipients of an NIH research award could lead to increases in other academic settings.]]></content:encoded>
-            <dc:title><![CDATA[NIH pay raise for postdocs and PhD students could have US ripple effect]]></dc:title>
+            <dc:title><![CDATA[NIH pay rise for postdocs and PhD students could have US ripple effect]]></dc:title>
             <dc:creator>Amanda Heidt</dc:creator>
             <dc:identifier>doi:10.1038/d41586-024-01242-x</dc:identifier>
             <dc:source>Nature, Published online: 2024-04-25; | doi:10.1038/d41586-024-01242-x</dc:source>
@@ -361,7 +421,7 @@
             <title><![CDATA[NATO is boosting AI and climate research as scientific diplomacy remains on ice]]></title>
             <link>https://www.nature.com/articles/d41586-024-01052-1</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 25 April 2024; <a href="https://www.nature.com/articles/d41586-024-01052-1">doi:10.1038/d41586-024-01052-1</a></p>As the military alliance created to counter the Soviet Union expands, it is prioritizing studies on how climate change affects security, cyber attacks and election interference.]]></content:encoded>
+                <![CDATA[<p>Nature, Published online: 25 April 2024; <a href="https://www.nature.com/articles/d41586-024-01052-1">doi:10.1038/d41586-024-01052-1</a></p>As the military alliance created to counter the Soviet Union expands, it is prioritizing studies on how climate change affects security, cyberattacks and election interference.]]></content:encoded>
             <dc:title><![CDATA[NATO is boosting AI and climate research as scientific diplomacy remains on ice]]></dc:title>
             <dc:creator>Natasha Gilbert</dc:creator>
             <dc:identifier>doi:10.1038/d41586-024-01052-1</dc:identifier>
@@ -883,11 +943,11 @@
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01199-x">
-            <title><![CDATA[Mini-colon and brain 'organoids' shed light on cancer and other diseases]]></title>
+            <title><![CDATA[Mini-colon and brain ‘organoids’ shed light on cancer and other diseases]]></title>
             <link>https://www.nature.com/articles/d41586-024-01199-x</link>
             <content:encoded>
                 <![CDATA[<p>Nature, Published online: 24 April 2024; <a href="https://www.nature.com/articles/d41586-024-01199-x">doi:10.1038/d41586-024-01199-x</a></p>Tiny 3D structures made from human stem cells sometimes offer insights that animal models cannot.]]></content:encoded>
-            <dc:title><![CDATA[Mini-colon and brain 'organoids' shed light on cancer and other diseases]]></dc:title>
+            <dc:title><![CDATA[Mini-colon and brain ‘organoids’ shed light on cancer and other diseases]]></dc:title>
             <dc:creator>Sara Reardon</dc:creator>
             <dc:identifier>doi:10.1038/d41586-024-01199-x</dc:identifier>
             <dc:source>Nature, Published online: 2024-04-24; | doi:10.1038/d41586-024-01199-x</dc:source>
@@ -1240,66 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01176-4</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01176-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01167-5">
-            <title><![CDATA[Monkeypox virus: dangerous strain gains ability to spread through sex, new data suggest]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01167-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 23 April 2024; <a href="https://www.nature.com/articles/d41586-024-01167-5">doi:10.1038/d41586-024-01167-5</a></p>A cluster of mpox cases in the Democratic Republic of the Congo sparks worries of a wider outbreak.]]></content:encoded>
-            <dc:title><![CDATA[Monkeypox virus: dangerous strain gains ability to spread through sex, new data suggest]]></dc:title>
-            <dc:creator>Max Kozlov</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01167-5</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-23; | doi:10.1038/d41586-024-01167-5</dc:source>
-            <dc:date>2024-04-23</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01167-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01167-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01202-5">
-            <title><![CDATA[Daily briefing: Visual clutter skews our time perception]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01202-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 23 April 2024; <a href="https://www.nature.com/articles/d41586-024-01202-5">doi:10.1038/d41586-024-01202-5</a></p>Our ability to track time is skewed by what we are looking at. Plus, NASA has reestablished clear communication with Voyager 1 and why we aren’t ready for the next big volcano eruption.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: Visual clutter skews our time perception]]></dc:title>
-            <dc:creator>Katrina Krämer</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01202-5</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-23; | doi:10.1038/d41586-024-01202-5</dc:source>
-            <dc:date>2024-04-23</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01202-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01202-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01181-7">
-            <title><![CDATA[Breaking ice, and helicopter drops: winning photos of working scientists]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01181-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 23 April 2024; <a href="https://www.nature.com/articles/d41586-024-01181-7">doi:10.1038/d41586-024-01181-7</a></p>Nature’s annual photography competition attracted stunning images from around the world, including two very different shots featuring the Polarstern research vessel.]]></content:encoded>
-            <dc:title><![CDATA[Breaking ice, and helicopter drops: winning photos of working scientists]]></dc:title>
-            <dc:creator>Jack Leeming</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01181-7</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-23; | doi:10.1038/d41586-024-01181-7</dc:source>
-            <dc:date>2024-04-23</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01181-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01181-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01177-3">
-            <title><![CDATA[European ruling linking climate change to human rights could be a game changer — here’s how]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01177-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 23 April 2024; <a href="https://www.nature.com/articles/d41586-024-01177-3">doi:10.1038/d41586-024-01177-3</a></p>The European Court of Human Rights’ judgment in a Swiss case cements the concept that climate inaction violates human rights — responsible nations around the world will take heed.]]></content:encoded>
-            <dc:title><![CDATA[European ruling linking climate change to human rights could be a game changer — here’s how]]></dc:title>
-            <dc:creator>Charlotte E. Blattner</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01177-3</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-23; | doi:10.1038/d41586-024-01177-3</dc:source>
-            <dc:date>2024-04-23</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01177-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01177-3</prism:url>
         </item>
     
 </rdf:RDF>
