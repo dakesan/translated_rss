@@ -18,6 +18,12 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01218-x"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01192-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01217-y"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01256-5"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01251-w"/>
@@ -162,12 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01185-3"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01180-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01188-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01186-2"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,51 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01218-x">
+            <title><![CDATA[I strive to make the Great Barrier Reef more resilient to heat stress]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01218-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 29 April 2024; <a href="https://www.nature.com/articles/d41586-024-01218-x">doi:10.1038/d41586-024-01218-x</a></p>Matthew Nitschke grows coral symbionts in a slowly warming tank to prepare reef life for climate change.]]></content:encoded>
+            <dc:title><![CDATA[I strive to make the Great Barrier Reef more resilient to heat stress]]></dc:title>
+            <dc:creator>James Mitchell Crow</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01218-x</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-29; | doi:10.1038/d41586-024-01218-x</dc:source>
+            <dc:date>2024-04-29</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01218-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01218-x</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01192-4">
+            <title><![CDATA[Superconductivity hunt gets boost from China's $220 million physics 'playground']]></title>
+            <link>https://www.nature.com/articles/d41586-024-01192-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 29 April 2024; <a href="https://www.nature.com/articles/d41586-024-01192-4">doi:10.1038/d41586-024-01192-4</a></p>From extreme cold to strong magnets and high pressures, the Synergetic Extreme Condition User Facility (SECUF) provides conditions for researching these potential wonder materials.]]></content:encoded>
+            <dc:title><![CDATA[Superconductivity hunt gets boost from China's $220 million physics 'playground']]></dc:title>
+            <dc:creator>Gemma Conroy</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01192-4</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-29; | doi:10.1038/d41586-024-01192-4</dc:source>
+            <dc:date>2024-04-29</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01192-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01192-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01217-y">
+            <title><![CDATA[85 million cells — and counting — at your fingertips]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01217-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 29 April 2024; <a href="https://www.nature.com/articles/d41586-024-01217-y">doi:10.1038/d41586-024-01217-y</a></p>Chan Zuckerberg CELL by GENE Discover aims to be a one-stop shop for single-cell RNA sequencing data storage, access and analysis.]]></content:encoded>
+            <dc:title><![CDATA[85 million cells — and counting — at your fingertips]]></dc:title>
+            <dc:creator>Jeffrey M. Perkel</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01217-y</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-29; | doi:10.1038/d41586-024-01217-y</dc:source>
+            <dc:date>2024-04-29</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01217-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01217-y</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01256-5">
             <title><![CDATA[Bird flu virus has been spreading in US cows for months, RNA reveals]]></title>
@@ -331,7 +376,7 @@
             <title><![CDATA[Daily briefing: How an unlikely friendship with Jung influenced Pauli’s physics]]></title>
             <link>https://www.nature.com/articles/d41586-024-01253-8</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 25 April 2024; <a href="https://www.nature.com/articles/d41586-024-01253-8">doi:10.1038/d41586-024-01253-8</a></p>A patient-analyst relationship to psychoanalyst Carl Jung that evolved into a friendship deeply influenced physicist Wolfgang Pauli’s work. Plus, organoids shed light on cancer and other diseases, and medieval graves reveal secrets of a mysterious nomadic people.]]></content:encoded>
+                <![CDATA[<p>Nature, Published online: 25 April 2024; <a href="https://www.nature.com/articles/d41586-024-01253-8">doi:10.1038/d41586-024-01253-8</a></p>A patient–analyst relationship to psychoanalyst Carl Jung that evolved into a friendship deeply influenced physicist Wolfgang Pauli’s work. Plus, organoids shed light on cancer and other diseases, and medieval graves reveal secrets of a mysterious nomadic people.]]></content:encoded>
             <dc:title><![CDATA[Daily briefing: How an unlikely friendship with Jung influenced Pauli’s physics]]></dc:title>
             <dc:creator>Flora Graham</dc:creator>
             <dc:identifier>doi:10.1038/d41586-024-01253-8</dc:identifier>
@@ -1255,51 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01185-3</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01185-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01180-8">
-            <title><![CDATA[Charles Darwin investigates: the curious case of primrose punishment]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01180-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 23 April 2024; <a href="https://www.nature.com/articles/d41586-024-01180-8">doi:10.1038/d41586-024-01180-8</a></p>Birds emerge as top suspects for unexplained flower mutilation, and reflections from 1974 mark the 21st anniversary of the discovery of the DNA double helix, in the weekly dip into Nature’s archive.]]></content:encoded>
-            <dc:title><![CDATA[Charles Darwin investigates: the curious case of primrose punishment]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-01180-8</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-23; | doi:10.1038/d41586-024-01180-8</dc:source>
-            <dc:date>2024-04-23</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01180-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01180-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01188-0">
-            <title><![CDATA[Chemistry lab destroyed by Taiwan earthquake has physical and mental impacts]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01188-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 23 April 2024; <a href="https://www.nature.com/articles/d41586-024-01188-0">doi:10.1038/d41586-024-01188-0</a></p>Chemistry lab destroyed by Taiwan earthquake has physical and mental impacts]]></content:encoded>
-            <dc:title><![CDATA[Chemistry lab destroyed by Taiwan earthquake has physical and mental impacts]]></dc:title>
-            <dc:creator>Fun Man Fung</dc:creator><dc:creator>Yi-Hsin Liu</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01188-0</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-23; | doi:10.1038/d41586-024-01188-0</dc:source>
-            <dc:date>2024-04-23</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01188-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01188-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01186-2">
-            <title><![CDATA[More work is needed to take on the rural wastewater challenge]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01186-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 23 April 2024; <a href="https://www.nature.com/articles/d41586-024-01186-2">doi:10.1038/d41586-024-01186-2</a></p>More work is needed to take on the rural wastewater challenge]]></content:encoded>
-            <dc:title><![CDATA[More work is needed to take on the rural wastewater challenge]]></dc:title>
-            <dc:creator>Jinlou Huang</dc:creator><dc:creator>Duo Li</dc:creator><dc:creator>Frederic Coulon</dc:creator><dc:creator>Xiao Jin Yang</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01186-2</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-23; | doi:10.1038/d41586-024-01186-2</dc:source>
-            <dc:date>2024-04-23</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01186-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01186-2</prism:url>
         </item>
     
 </rdf:RDF>
