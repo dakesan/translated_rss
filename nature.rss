@@ -18,17 +18,29 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07402-3"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01218-x"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01168-4"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01192-4"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00464-3"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01247-6"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01217-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01243-w"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01256-5"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01251-w"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01201-6"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01266-3"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01257-4"/>
                 
@@ -156,18 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01174-6"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01019-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01165-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01021-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07450-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01187-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01185-3"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,21 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07402-3">
+            <title><![CDATA[Author Correction: Targeting DCAF5 suppresses <i>SMARCB1</i>-mutant cancer by stabilizing SWI/SNF]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07402-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 29 April 2024; <a href="https://www.nature.com/articles/s41586-024-07402-3">doi:10.1038/s41586-024-07402-3</a></p>Author Correction: Targeting DCAF5 suppresses <i>SMARCB1</i>-mutant cancer by stabilizing SWI/SNF]]></content:encoded>
+            <dc:title><![CDATA[Author Correction: Targeting DCAF5 suppresses <i>SMARCB1</i>-mutant cancer by stabilizing SWI/SNF]]></dc:title>
+            <dc:creator>Sandi Radko-Juettner</dc:creator><dc:creator>Hong Yue</dc:creator><dc:creator>Jacquelyn A. Myers</dc:creator><dc:creator>Raymond D. Carter</dc:creator><dc:creator>Alexis N. Robertson</dc:creator><dc:creator>Priya Mittal</dc:creator><dc:creator>Zhexin Zhu</dc:creator><dc:creator>Baranda S. Hansen</dc:creator><dc:creator>Katherine A. Donovan</dc:creator><dc:creator>Moritz Hunkeler</dc:creator><dc:creator>Wojciech Rosikiewicz</dc:creator><dc:creator>Zhiping Wu</dc:creator><dc:creator>Meghan G. McReynolds</dc:creator><dc:creator>Shourya S. Roy Burman</dc:creator><dc:creator>Anna M. Schmoker</dc:creator><dc:creator>Nada Mageed</dc:creator><dc:creator>Scott A. Brown</dc:creator><dc:creator>Robert J. Mobley</dc:creator><dc:creator>Janet F. Partridge</dc:creator><dc:creator>Elizabeth A. Stewart</dc:creator><dc:creator>Shondra M. Pruett-Miller</dc:creator><dc:creator>Behnam Nabet</dc:creator><dc:creator>Junmin Peng</dc:creator><dc:creator>Nathanael S. Gray</dc:creator><dc:creator>Eric S. Fischer</dc:creator><dc:creator>Charles W. M. Roberts</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07402-3</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-29; | doi:10.1038/s41586-024-07402-3</dc:source>
+            <dc:date>2024-04-29</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07402-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07402-3</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01218-x">
             <title><![CDATA[I strive to make the Great Barrier Reef more resilient to heat stress]]></title>
@@ -190,6 +205,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01218-x</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01218-x</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01168-4">
+            <title><![CDATA[Epic blazes threaten Arctic permafrost. Can fire-fighters save it?]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01168-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 29 April 2024; <a href="https://www.nature.com/articles/d41586-024-01168-4">doi:10.1038/d41586-024-01168-4</a></p>Some scientists argue that it’s time to rethink the blanket policy of letting blazes burn themselves out in northern wildernesses.]]></content:encoded>
+            <dc:title><![CDATA[Epic blazes threaten Arctic permafrost. Can fire-fighters save it?]]></dc:title>
+            <dc:creator>Jeff Tollefson</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01168-4</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-29; | doi:10.1038/d41586-024-01168-4</dc:source>
+            <dc:date>2024-04-29</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01168-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01168-4</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01192-4">
@@ -207,6 +237,36 @@
             <prism:url>https://www.nature.com/articles/d41586-024-01192-4</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00464-3">
+            <title><![CDATA[Elephant-nose fish ‘see’ farther by electric sensing when in groups]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00464-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 29 April 2024; <a href="https://www.nature.com/articles/d41586-024-00464-3">doi:10.1038/d41586-024-00464-3</a></p>The elephant-nose fish senses its environment by emitting electrical pulses. A multi-pronged investigation suggests that this remarkable sensing ability is amplified in social groups by individuals ‘listening in’ on the pulses of their neighbours.]]></content:encoded>
+            <dc:title><![CDATA[Elephant-nose fish ‘see’ farther by electric sensing when in groups]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-00464-3</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-29; | doi:10.1038/d41586-024-00464-3</dc:source>
+            <dc:date>2024-04-29</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00464-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00464-3</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01247-6">
+            <title><![CDATA[How reliable is this research? Tool flags papers discussed on PubPeer]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01247-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 29 April 2024; <a href="https://www.nature.com/articles/d41586-024-01247-6">doi:10.1038/d41586-024-01247-6</a></p>Browser plug-in alerts users when studies — or their references — have been posted on a site known for raising integrity concerns.]]></content:encoded>
+            <dc:title><![CDATA[How reliable is this research? Tool flags papers discussed on PubPeer]]></dc:title>
+            <dc:creator>Dalmeet Singh Chawla</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01247-6</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-29; | doi:10.1038/d41586-024-01247-6</dc:source>
+            <dc:date>2024-04-29</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01247-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01247-6</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-024-01217-y">
             <title><![CDATA[85 million cells — and counting — at your fingertips]]></title>
             <link>https://www.nature.com/articles/d41586-024-01217-y</link>
@@ -220,6 +280,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01217-y</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01217-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01243-w">
+            <title><![CDATA[‘ChatGPT for CRISPR’ creates new gene-editing tools]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01243-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 29 April 2024; <a href="https://www.nature.com/articles/d41586-024-01243-w">doi:10.1038/d41586-024-01243-w</a></p>Some of the AI-designed gene editors could be more versatile than those found in nature.]]></content:encoded>
+            <dc:title><![CDATA[‘ChatGPT for CRISPR’ creates new gene-editing tools]]></dc:title>
+            <dc:creator>Ewen Callaway</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01243-w</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-29; | doi:10.1038/d41586-024-01243-w</dc:source>
+            <dc:date>2024-04-29</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01243-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01243-w</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01256-5">
@@ -265,6 +340,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01201-6</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01201-6</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01266-3">
+            <title><![CDATA[Daily briefing: Gaze upon the most detailed Moon maps ever made]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01266-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 26 April 2024; <a href="https://www.nature.com/articles/d41586-024-01266-3">doi:10.1038/d41586-024-01266-3</a></p>The new Geologic Atlas took more than 100 researchers over a decade to compile. Plus, how gliding marsupials got their ‘wings’ and H5N1 bird flu virus material has been detected in US milk.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Gaze upon the most detailed Moon maps ever made]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01266-3</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-26; | doi:10.1038/d41586-024-01266-3</dc:source>
+            <dc:date>2024-04-26</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01266-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01266-3</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01257-4">
@@ -1210,96 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01174-6</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01174-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01019-2">
-            <title><![CDATA[Tumours form without genetic mutations]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01019-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 24 April 2024; <a href="https://www.nature.com/articles/d41586-024-01019-2">doi:10.1038/d41586-024-01019-2</a></p>Researchers find that brief and reversible inhibition of a gene-silencing mechanism leads to irreversible tumour formation in fruit flies, challenging the idea that cancer is caused only by permanent changes to DNA.]]></content:encoded>
-            <dc:title><![CDATA[Tumours form without genetic mutations]]></dc:title>
-            <dc:creator>Anne-Kathrin Classen</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01019-2</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-24; | doi:10.1038/d41586-024-01019-2</dc:source>
-            <dc:date>2024-04-24</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01019-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01019-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01165-7">
-            <title><![CDATA[DNA from ancient graves reveals the culture of a mysterious nomadic people]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01165-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 24 April 2024; <a href="https://www.nature.com/articles/d41586-024-01165-7">doi:10.1038/d41586-024-01165-7</a></p>Hundreds of genomes shed light on the marriage habits and social norms of the Avar people of central Europe.]]></content:encoded>
-            <dc:title><![CDATA[DNA from ancient graves reveals the culture of a mysterious nomadic people]]></dc:title>
-            <dc:creator>Michael Eisenstein</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01165-7</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-24; | doi:10.1038/d41586-024-01165-7</dc:source>
-            <dc:date>2024-04-24</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01165-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01165-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01021-8">
-            <title><![CDATA[Marsupial genomes reveal how a skin membrane for gliding evolved]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01021-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 24 April 2024; <a href="https://www.nature.com/articles/d41586-024-01021-8">doi:10.1038/d41586-024-01021-8</a></p>A parachute-like skin membrane, the patagium, evolved independently in several marsupial species. Genomic analysis suggests that this trait came about through different changes to the regulation of the same gene.]]></content:encoded>
-            <dc:title><![CDATA[Marsupial genomes reveal how a skin membrane for gliding evolved]]></dc:title>
-            <dc:creator>Darío G. Lupiáñez</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01021-8</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-24; | doi:10.1038/d41586-024-01021-8</dc:source>
-            <dc:date>2024-04-24</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01021-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01021-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07450-9">
-            <title><![CDATA[Publisher Correction: FOXO1 is a master regulator of memory programming in CAR T cells]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07450-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 23 April 2024; <a href="https://www.nature.com/articles/s41586-024-07450-9">doi:10.1038/s41586-024-07450-9</a></p>Publisher Correction: FOXO1 is a master regulator of memory programming in CAR T cells]]></content:encoded>
-            <dc:title><![CDATA[Publisher Correction: FOXO1 is a master regulator of memory programming in CAR T cells]]></dc:title>
-            <dc:creator>Alexander E. Doan</dc:creator><dc:creator>Katherine P. Mueller</dc:creator><dc:creator>Andy Y. Chen</dc:creator><dc:creator>Geoffrey T. Rouin</dc:creator><dc:creator>Yingshi Chen</dc:creator><dc:creator>Bence Daniel</dc:creator><dc:creator>John Lattin</dc:creator><dc:creator>Martina Markovska</dc:creator><dc:creator>Brett Mozarsky</dc:creator><dc:creator>Jose Arias-Umana</dc:creator><dc:creator>Robert Hapke</dc:creator><dc:creator>In-Young Jung</dc:creator><dc:creator>Alice Wang</dc:creator><dc:creator>Peng Xu</dc:creator><dc:creator>Dorota Klysz</dc:creator><dc:creator>Gabrielle Zuern</dc:creator><dc:creator>Malek Bashti</dc:creator><dc:creator>Patrick J. Quinn</dc:creator><dc:creator>Zhuang Miao</dc:creator><dc:creator>Katalin Sandor</dc:creator><dc:creator>Wenxi Zhang</dc:creator><dc:creator>Gregory M. Chen</dc:creator><dc:creator>Faith Ryu</dc:creator><dc:creator>Meghan Logun</dc:creator><dc:creator>Junior Hall</dc:creator><dc:creator>Kai Tan</dc:creator><dc:creator>Stephan A. Grupp</dc:creator><dc:creator>Susan E. McClory</dc:creator><dc:creator>Caleb A. Lareau</dc:creator><dc:creator>Joseph A. Fraietta</dc:creator><dc:creator>Elena Sotillo</dc:creator><dc:creator>Ansuman T. Satpathy</dc:creator><dc:creator>Crystal L. Mackall</dc:creator><dc:creator>Evan W. Weber</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07450-9</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-23; | doi:10.1038/s41586-024-07450-9</dc:source>
-            <dc:date>2024-04-23</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07450-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07450-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01187-1">
-            <title><![CDATA[India’s 50-year-old Chipko movement is a model for environmental activism]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01187-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 23 April 2024; <a href="https://www.nature.com/articles/d41586-024-01187-1">doi:10.1038/d41586-024-01187-1</a></p>India’s 50-year-old Chipko movement is a model for environmental activism]]></content:encoded>
-            <dc:title><![CDATA[India’s 50-year-old Chipko movement is a model for environmental activism]]></dc:title>
-            <dc:creator>N. S. Prasanna</dc:creator><dc:creator>Gudasalamani Ravikanth</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01187-1</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-23; | doi:10.1038/d41586-024-01187-1</dc:source>
-            <dc:date>2024-04-23</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01187-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01187-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01185-3">
-            <title><![CDATA[The Middle East’s largest hypersaline lake risks turning into an environmental disaster zone]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01185-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 23 April 2024; <a href="https://www.nature.com/articles/d41586-024-01185-3">doi:10.1038/d41586-024-01185-3</a></p>The Middle East’s largest hypersaline lake risks turning into an environmental disaster zone]]></content:encoded>
-            <dc:title><![CDATA[The Middle East’s largest hypersaline lake risks turning into an environmental disaster zone]]></dc:title>
-            <dc:creator>Alireza Mohammadi</dc:creator><dc:creator>Ali Azareh</dc:creator><dc:creator>Mohammad Hossein Khanjani</dc:creator><dc:creator>Moslem Sharifinia</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01185-3</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-23; | doi:10.1038/d41586-024-01185-3</dc:source>
-            <dc:date>2024-04-23</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01185-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01185-3</prism:url>
         </item>
     
 </rdf:RDF>
