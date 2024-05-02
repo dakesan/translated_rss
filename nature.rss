@@ -18,6 +18,8 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01261-8"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07469-y"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07319-x"/>
@@ -86,6 +88,8 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01204-3"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01317-9"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01207-0"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01259-2"/>
@@ -130,6 +134,8 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00944-6"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01303-1"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01152-y"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01056-x"/>
@@ -143,6 +149,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01218-x"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01168-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01291-2"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01192-4"/>
                 
@@ -160,14 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01201-6"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01266-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01257-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01229-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01145-x"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,21 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01261-8">
+            <title><![CDATA[Never mind little green men: life on other planets might be purple]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01261-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 02 May 2024; <a href="https://www.nature.com/articles/d41586-024-01261-8">doi:10.1038/d41586-024-01261-8</a></p>Bacteria that make food using a compound other than chlorophyll could paint other planets in a wide range of colours.]]></content:encoded>
+            <dc:title><![CDATA[Never mind little green men: life on other planets might be purple]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-01261-8</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-02; | doi:10.1038/d41586-024-01261-8</dc:source>
+            <dc:date>2024-05-02</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01261-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01261-8</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07469-y">
             <title><![CDATA[A body–brain circuit that regulates body inflammatory responses]]></title>
@@ -583,11 +598,11 @@
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01293-0">
-            <title><![CDATA[Chinese virologist who was first to share COVID genome sleeps on street after lab shuts]]></title>
+            <title><![CDATA[Chinese virologist who was first to share COVID-19 genome sleeps on street after lab shuts]]></title>
             <link>https://www.nature.com/articles/d41586-024-01293-0</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 01 May 2024; <a href="https://www.nature.com/articles/d41586-024-01293-0">doi:10.1038/d41586-024-01293-0</a></p>Zhang Yongzhen shared the genomic sequence of SARS-CoV-2 with the world, speeding the development of vaccines.]]></content:encoded>
-            <dc:title><![CDATA[Chinese virologist who was first to share COVID genome sleeps on street after lab shuts]]></dc:title>
+                <![CDATA[<p>Nature, Published online: 01 May 2024; <a href="https://www.nature.com/articles/d41586-024-01293-0">doi:10.1038/d41586-024-01293-0</a></p>Zhang Yongzhen shared the genomic sequence of SARS-CoV-2 with the world, speeding up the development of vaccines.]]></content:encoded>
+            <dc:title><![CDATA[Chinese virologist who was first to share COVID-19 genome sleeps on street after lab shuts]]></dc:title>
             <dc:creator>Smriti Mallapaty</dc:creator>
             <dc:identifier>doi:10.1038/d41586-024-01293-0</dc:identifier>
             <dc:source>Nature, Published online: 2024-05-01; | doi:10.1038/d41586-024-01293-0</dc:source>
@@ -685,6 +700,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01204-3</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01204-3</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01317-9">
+            <title><![CDATA[Daily briefing: What scientists think of Netflix’s 3 Body Problem]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01317-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 01 May 2024; <a href="https://www.nature.com/articles/d41586-024-01317-9">doi:10.1038/d41586-024-01317-9</a></p>The scientific adviser of 3 Body Problem, a planetary scientist and a nanotechnology expert review the hit sci-fi show. Plus, why a trailblazing Chinese virologist was sleeping in the street outside his own lab.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: What scientists think of Netflix’s 3 Body Problem]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01317-9</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-01; | doi:10.1038/d41586-024-01317-9</dc:source>
+            <dc:date>2024-05-01</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01317-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01317-9</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01207-0">
@@ -991,7 +1021,7 @@
             <title><![CDATA[The science of <i>3 Body Problem</i>: what’s fact and what’s fiction?]]></title>
             <link>https://www.nature.com/articles/d41586-024-01272-5</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 30 April 2024; <a href="https://www.nature.com/articles/d41586-024-01272-5">doi:10.1038/d41586-024-01272-5</a></p>Nature spoke to the sci-fi program’s adviser and two other researchers about the portrayal of PhD scientists and their technologies.]]></content:encoded>
+                <![CDATA[<p>Nature, Published online: 30 April 2024; <a href="https://www.nature.com/articles/d41586-024-01272-5">doi:10.1038/d41586-024-01272-5</a></p>Nature spoke to the sci-fi programme’s adviser and two other researchers about the portrayal of PhD scientists and their technologies.]]></content:encoded>
             <dc:title><![CDATA[The science of <i>3 Body Problem</i>: what’s fact and what’s fiction?]]></dc:title>
             <dc:creator>Sumeet Kulkarni</dc:creator>
             <dc:identifier>doi:10.1038/d41586-024-01272-5</dc:identifier>
@@ -1017,6 +1047,21 @@
             <prism:url>https://www.nature.com/articles/d41586-024-00944-6</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01303-1">
+            <title><![CDATA[Daily briefing: First fetus-to-fetus transplant in rats]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01303-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 30 April 2024; <a href="https://www.nature.com/articles/d41586-024-01303-1">doi:10.1038/d41586-024-01303-1</a></p>Kidney tissue was transplanted from one rat fetus to another while the recipient was still in its mother’s womb. Plus, ‘ChatGPT for CRISPR’ creates new gene-editing tools and a desperate plan to save permafrost from carbon-bomb wildfires.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: First fetus-to-fetus transplant in rats]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01303-1</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-30; | doi:10.1038/d41586-024-01303-1</dc:source>
+            <dc:date>2024-04-30</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01303-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01303-1</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-024-01152-y">
             <title><![CDATA[First fetus-to-fetus transplant demonstrated in rats]]></title>
             <link>https://www.nature.com/articles/d41586-024-01152-y</link>
@@ -1033,11 +1078,11 @@
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01056-x">
-            <title><![CDATA[What China’s mission to collect rocks from the Moon's far side could reveal]]></title>
+            <title><![CDATA[What China’s mission to collect rocks from the Moon’s far side could reveal]]></title>
             <link>https://www.nature.com/articles/d41586-024-01056-x</link>
             <content:encoded>
                 <![CDATA[<p>Nature, Published online: 30 April 2024; <a href="https://www.nature.com/articles/d41586-024-01056-x">doi:10.1038/d41586-024-01056-x</a></p>The Chang’e-6 mission aims to land in the Moon’s oldest and largest crater, where it will collect rocks to bring back to Earth.]]></content:encoded>
-            <dc:title><![CDATA[What China’s mission to collect rocks from the Moon's far side could reveal]]></dc:title>
+            <dc:title><![CDATA[What China’s mission to collect rocks from the Moon’s far side could reveal]]></dc:title>
             <dc:creator>Ling Xin</dc:creator>
             <dc:identifier>doi:10.1038/d41586-024-01056-x</dc:identifier>
             <dc:source>Nature, Published online: 2024-04-30; | doi:10.1038/d41586-024-01056-x</dc:source>
@@ -1120,6 +1165,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01168-4</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01168-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01291-2">
+            <title><![CDATA[Daily briefing: Bird flu has been spreading undetected in US cattle for months]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01291-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 29 April 2024; <a href="https://www.nature.com/articles/d41586-024-01291-2">doi:10.1038/d41586-024-01291-2</a></p>The H5N1 strain of avian influenza probably jumped from an infected bird into a cow around late December. Plus, a rare mutation that causes dwarfism might slow ageing and how to collect royalties from your research papers.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Bird flu has been spreading undetected in US cattle for months]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01291-2</dc:identifier>
+            <dc:source>Nature, Published online: 2024-04-29; | doi:10.1038/d41586-024-01291-2</dc:source>
+            <dc:date>2024-04-29</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01291-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01291-2</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01192-4">
@@ -1240,66 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01201-6</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01201-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01266-3">
-            <title><![CDATA[Daily briefing: Gaze upon the most detailed Moon maps ever made]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01266-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 26 April 2024; <a href="https://www.nature.com/articles/d41586-024-01266-3">doi:10.1038/d41586-024-01266-3</a></p>The new Geologic Atlas took more than 100 researchers over a decade to compile. Plus, how gliding marsupials got their ‘wings’ and H5N1 bird flu virus material has been detected in US milk.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: Gaze upon the most detailed Moon maps ever made]]></dc:title>
-            <dc:creator>Flora Graham</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01266-3</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-26; | doi:10.1038/d41586-024-01266-3</dc:source>
-            <dc:date>2024-04-26</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01266-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01266-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01257-4">
-            <title><![CDATA[Want to make a difference? Try working at an environmental non-profit organization]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01257-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 26 April 2024; <a href="https://www.nature.com/articles/d41586-024-01257-4">doi:10.1038/d41586-024-01257-4</a></p>Moving to non-profit work requires researchers to shift their mindset to focus on applied science for policymaking and conservation practice.]]></content:encoded>
-            <dc:title><![CDATA[Want to make a difference? Try working at an environmental non-profit organization]]></dc:title>
-            <dc:creator>Natasha Gilbert</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01257-4</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-26; | doi:10.1038/d41586-024-01257-4</dc:source>
-            <dc:date>2024-04-26</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01257-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01257-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01229-8">
-            <title><![CDATA[Future of Humanity Institute shuts: what’s next for ‘deep future’ research?]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01229-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 26 April 2024; <a href="https://www.nature.com/articles/d41586-024-01229-8">doi:10.1038/d41586-024-01229-8</a></p>Researchers from several disciplines hope to predict — and prevent — scenarios that pose risks to humanity.]]></content:encoded>
-            <dc:title><![CDATA[Future of Humanity Institute shuts: what’s next for ‘deep future’ research?]]></dc:title>
-            <dc:creator>David Adam</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01229-8</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-26; | doi:10.1038/d41586-024-01229-8</dc:source>
-            <dc:date>2024-04-26</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01229-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01229-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01145-x">
-            <title><![CDATA[Garden-variety fungus is an expert at environmental clean-ups]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01145-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 25 April 2024; <a href="https://www.nature.com/articles/d41586-024-01145-x">doi:10.1038/d41586-024-01145-x</a></p>The common fungus Aspergillus niger removes both heavy metals and organic pollutants from its surroundings.]]></content:encoded>
-            <dc:title><![CDATA[Garden-variety fungus is an expert at environmental clean-ups]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-01145-x</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-25; | doi:10.1038/d41586-024-01145-x</dc:source>
-            <dc:date>2024-04-25</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01145-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01145-x</prism:url>
         </item>
     
 </rdf:RDF>
