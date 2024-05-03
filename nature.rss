@@ -18,7 +18,17 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07474-1"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01261-8"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01289-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01322-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01334-8"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01309-9"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07469-y"/>
                 
@@ -158,16 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01247-6"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01217-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01243-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01256-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01251-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01201-6"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,21 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07474-1">
+            <title><![CDATA[A deconstruction-reconstruction strategy for pyrimidine diversification]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07474-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 02 May 2024; <a href="https://www.nature.com/articles/s41586-024-07474-1">doi:10.1038/s41586-024-07474-1</a></p>A deconstruction-reconstruction strategy for pyrimidine diversification]]></content:encoded>
+            <dc:title><![CDATA[A deconstruction-reconstruction strategy for pyrimidine diversification]]></dc:title>
+            <dc:creator>Benjamin J. H. Uhlenbruck</dc:creator><dc:creator>Celena M. Josephitis</dc:creator><dc:creator>Louis de Lescure</dc:creator><dc:creator>Robert S. Paton</dc:creator><dc:creator>Andrew McNally</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07474-1</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-02; | doi:10.1038/s41586-024-07474-1</dc:source>
+            <dc:date>2024-05-02</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07474-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07474-1</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01261-8">
             <title><![CDATA[Never mind little green men: life on other planets might be purple]]></title>
@@ -190,6 +205,66 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01261-8</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01261-8</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01289-w">
+            <title><![CDATA['Orangutan, heal thyself': First wild animal seen using medicinal plant]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01289-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 02 May 2024; <a href="https://www.nature.com/articles/d41586-024-01289-w">doi:10.1038/d41586-024-01289-w</a></p>The Sumatran orangutan used a plant known to humans for its medicinal qualities.]]></content:encoded>
+            <dc:title><![CDATA['Orangutan, heal thyself': First wild animal seen using medicinal plant]]></dc:title>
+            <dc:creator>Gayathri Vaidyanathan</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01289-w</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-02; | doi:10.1038/d41586-024-01289-w</dc:source>
+            <dc:date>2024-05-02</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01289-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01289-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01322-y">
+            <title><![CDATA[UTIs make life miserable — scientists are finding new ways to tackle them]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01322-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 02 May 2024; <a href="https://www.nature.com/articles/d41586-024-01322-y">doi:10.1038/d41586-024-01322-y</a></p>Researchers are developing vaccines and fresh drug approaches to prevent and treat recurring infections without antibiotics.]]></content:encoded>
+            <dc:title><![CDATA[UTIs make life miserable — scientists are finding new ways to tackle them]]></dc:title>
+            <dc:creator>Carissa Wong</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01322-y</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-02; | doi:10.1038/d41586-024-01322-y</dc:source>
+            <dc:date>2024-05-02</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01322-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01322-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01334-8">
+            <title><![CDATA[US National Academies report outlines barriers and solutions for scientist carers]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01334-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 02 May 2024; <a href="https://www.nature.com/articles/d41586-024-01334-8">doi:10.1038/d41586-024-01334-8</a></p>Carers need better support from employers, such as paid parental leave, subsidized childcare and relief for other types of caregiving. But is there will among institutions to provide it?]]></content:encoded>
+            <dc:title><![CDATA[US National Academies report outlines barriers and solutions for scientist carers]]></dc:title>
+            <dc:creator>Amanda Heidt</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01334-8</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-02; | doi:10.1038/d41586-024-01334-8</dc:source>
+            <dc:date>2024-05-02</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01334-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01334-8</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01309-9">
+            <title><![CDATA[My PI yelled at me and I’m devastated. What do I do?]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01309-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 02 May 2024; <a href="https://www.nature.com/articles/d41586-024-01309-9">doi:10.1038/d41586-024-01309-9</a></p>It can be hard when junior scientists feel unsupported. Nature asked three scientists for their advice on how to respond.]]></content:encoded>
+            <dc:title><![CDATA[My PI yelled at me and I’m devastated. What do I do?]]></dc:title>
+            <dc:creator>Nikki Forrester</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01309-9</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-02; | doi:10.1038/d41586-024-01309-9</dc:source>
+            <dc:date>2024-05-02</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01309-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01309-9</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07469-y">
@@ -661,7 +736,7 @@
             <title><![CDATA[Controversial virus-hunting scientist skewered at US COVID-origins hearing]]></title>
             <link>https://www.nature.com/articles/d41586-024-01305-z</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 01 May 2024; <a href="https://www.nature.com/articles/d41586-024-01305-z">doi:10.1038/d41586-024-01305-z</a></p>Lawmakers interrogated Peter Daszak over his ties to China and whether his organisation, EcoHealth Alliance, has been a good steward of taxpayer dollars.]]></content:encoded>
+                <![CDATA[<p>Nature, Published online: 01 May 2024; <a href="https://www.nature.com/articles/d41586-024-01305-z">doi:10.1038/d41586-024-01305-z</a></p>Lawmakers interrogated Peter Daszak over his ties to China and whether his organization, EcoHealth Alliance, has been a good steward of taxpayer dollars.]]></content:encoded>
             <dc:title><![CDATA[Controversial virus-hunting scientist skewered at US COVID-origins hearing]]></dc:title>
             <dc:creator>Mariana Lenharo</dc:creator><dc:creator>Lauren Wolf</dc:creator>
             <dc:identifier>doi:10.1038/d41586-024-01305-z</dc:identifier>
@@ -1225,81 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01247-6</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01247-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01217-y">
-            <title><![CDATA[85 million cells — and counting — at your fingertips]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01217-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 29 April 2024; <a href="https://www.nature.com/articles/d41586-024-01217-y">doi:10.1038/d41586-024-01217-y</a></p>Chan Zuckerberg CELL by GENE Discover aims to be a one-stop shop for single-cell RNA sequencing data storage, access and analysis.]]></content:encoded>
-            <dc:title><![CDATA[85 million cells — and counting — at your fingertips]]></dc:title>
-            <dc:creator>Jeffrey M. Perkel</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01217-y</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-29; | doi:10.1038/d41586-024-01217-y</dc:source>
-            <dc:date>2024-04-29</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01217-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01217-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01243-w">
-            <title><![CDATA[‘ChatGPT for CRISPR’ creates new gene-editing tools]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01243-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 29 April 2024; <a href="https://www.nature.com/articles/d41586-024-01243-w">doi:10.1038/d41586-024-01243-w</a></p>Some of the AI-designed gene editors could be more versatile than those found in nature.]]></content:encoded>
-            <dc:title><![CDATA[‘ChatGPT for CRISPR’ creates new gene-editing tools]]></dc:title>
-            <dc:creator>Ewen Callaway</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01243-w</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-29; | doi:10.1038/d41586-024-01243-w</dc:source>
-            <dc:date>2024-04-29</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01243-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01243-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01256-5">
-            <title><![CDATA[Bird flu virus has been spreading among US cows for months, RNA reveals]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01256-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 27 April 2024; <a href="https://www.nature.com/articles/d41586-024-01256-5">doi:10.1038/d41586-024-01256-5</a></p>Genomic analysis suggests that the outbreak probably began in December or January, but a shortage of data is hampering efforts to pin down the source.]]></content:encoded>
-            <dc:title><![CDATA[Bird flu virus has been spreading among US cows for months, RNA reveals]]></dc:title>
-            <dc:creator>Smriti Mallapaty</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01256-5</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-27; | doi:10.1038/d41586-024-01256-5</dc:source>
-            <dc:date>2024-04-27</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01256-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01256-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01251-w">
-            <title><![CDATA[Audio long read: Why loneliness is bad for your health]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01251-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 26 April 2024; <a href="https://www.nature.com/articles/d41586-024-01251-w">doi:10.1038/d41586-024-01251-w</a></p>New research is revealing the mechanisms linking loneliness and conditions like dementia, depression and cardiovascular disease.]]></content:encoded>
-            <dc:title><![CDATA[Audio long read: Why loneliness is bad for your health]]></dc:title>
-            <dc:creator>Saima May Sidik</dc:creator><dc:creator>Benjamin Thompson</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01251-w</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-26; | doi:10.1038/d41586-024-01251-w</dc:source>
-            <dc:date>2024-04-26</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01251-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01251-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01201-6">
-            <title><![CDATA[Could a rare mutation that causes dwarfism also slow ageing?]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01201-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 26 April 2024; <a href="https://www.nature.com/articles/d41586-024-01201-6">doi:10.1038/d41586-024-01201-6</a></p>People with Laron syndrome have a low risk of heart disease and a number of other age-related disorders, hinting at strategies for new treatments.]]></content:encoded>
-            <dc:title><![CDATA[Could a rare mutation that causes dwarfism also slow ageing?]]></dc:title>
-            <dc:creator>Mariana Lenharo</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01201-6</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-26; | doi:10.1038/d41586-024-01201-6</dc:source>
-            <dc:date>2024-04-26</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01201-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01201-6</prism:url>
         </item>
     
 </rdf:RDF>
