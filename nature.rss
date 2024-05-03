@@ -18,6 +18,12 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01277-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01279-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01273-4"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07474-1"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01261-8"/>
@@ -162,12 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01291-2"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01192-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00464-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01247-6"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,51 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01277-0">
+            <title><![CDATA[From multiverses to cities: Books in brief]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01277-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 03 May 2024; <a href="https://www.nature.com/articles/d41586-024-01277-0">doi:10.1038/d41586-024-01277-0</a></p>Andrew Robinson reviews five of the best science picks.]]></content:encoded>
+            <dc:title><![CDATA[From multiverses to cities: Books in brief]]></dc:title>
+            <dc:creator>Andrew Robinson</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01277-0</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-03; | doi:10.1038/d41586-024-01277-0</dc:source>
+            <dc:date>2024-05-03</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01277-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01277-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01279-y">
+            <title><![CDATA[Hunger on campus: why US PhD students are fighting over food]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01279-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 03 May 2024; <a href="https://www.nature.com/articles/d41586-024-01279-y">doi:10.1038/d41586-024-01279-y</a></p>Graduate students are relying on donated and discounted food in the struggle to make ends meet.]]></content:encoded>
+            <dc:title><![CDATA[Hunger on campus: why US PhD students are fighting over food]]></dc:title>
+            <dc:creator>Laurie Udesky</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01279-y</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-03; | doi:10.1038/d41586-024-01279-y</dc:source>
+            <dc:date>2024-05-03</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01279-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01279-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01273-4">
+            <title><![CDATA[Dark energy is tearing the Universe apart. What if the force is weakening?]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01273-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 03 May 2024; <a href="https://www.nature.com/articles/d41586-024-01273-4">doi:10.1038/d41586-024-01273-4</a></p>The first set of results from a pioneering cosmic-mapping project hints that the repulsive force known as dark energy has changed over 11 billion years, which would alter ideas about how the Universe has evolved and what its future will be.]]></content:encoded>
+            <dc:title><![CDATA[Dark energy is tearing the Universe apart. What if the force is weakening?]]></dc:title>
+            <dc:creator>Davide Castelvecchi</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01273-4</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-03; | doi:10.1038/d41586-024-01273-4</dc:source>
+            <dc:date>2024-05-03</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01273-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01273-4</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07474-1">
             <title><![CDATA[A deconstruction-reconstruction strategy for pyrimidine diversification]]></title>
@@ -1255,51 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01291-2</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01291-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01192-4">
-            <title><![CDATA[Superconductivity hunt gets boost from China’s $220 million physics ‘playground’]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01192-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 29 April 2024; <a href="https://www.nature.com/articles/d41586-024-01192-4">doi:10.1038/d41586-024-01192-4</a></p>From extreme cold to strong magnets and high pressures, the Synergetic Extreme Condition User Facility (SECUF) provides conditions for researching potential wonder materials.]]></content:encoded>
-            <dc:title><![CDATA[Superconductivity hunt gets boost from China’s $220 million physics ‘playground’]]></dc:title>
-            <dc:creator>Gemma Conroy</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01192-4</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-29; | doi:10.1038/d41586-024-01192-4</dc:source>
-            <dc:date>2024-04-29</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01192-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01192-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00464-3">
-            <title><![CDATA[Elephant-nose fish ‘see’ farther by electric sensing when in groups]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00464-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 29 April 2024; <a href="https://www.nature.com/articles/d41586-024-00464-3">doi:10.1038/d41586-024-00464-3</a></p>The elephant-nose fish senses its environment by emitting electrical pulses. A multi-pronged investigation suggests that this remarkable sensing ability is amplified in social groups by individuals ‘listening in’ on the pulses of their neighbours.]]></content:encoded>
-            <dc:title><![CDATA[Elephant-nose fish ‘see’ farther by electric sensing when in groups]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-00464-3</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-29; | doi:10.1038/d41586-024-00464-3</dc:source>
-            <dc:date>2024-04-29</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00464-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00464-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01247-6">
-            <title><![CDATA[How reliable is this research? Tool flags papers discussed on PubPeer]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01247-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 29 April 2024; <a href="https://www.nature.com/articles/d41586-024-01247-6">doi:10.1038/d41586-024-01247-6</a></p>Browser plug-in alerts users when studies — or their references — have been posted on a site known for raising integrity concerns.]]></content:encoded>
-            <dc:title><![CDATA[How reliable is this research? Tool flags papers discussed on PubPeer]]></dc:title>
-            <dc:creator>Dalmeet Singh Chawla</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01247-6</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-29; | doi:10.1038/d41586-024-01247-6</dc:source>
-            <dc:date>2024-04-29</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01247-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01247-6</prism:url>
         </item>
     
 </rdf:RDF>
