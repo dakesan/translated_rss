@@ -18,11 +18,29 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07470-5"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01277-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01267-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01250-x"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01279-y"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01319-7"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01275-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01211-4"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01273-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01292-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01344-6"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00434-9"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07474-1"/>
                 
@@ -150,24 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00944-6"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01303-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01152-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01056-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01214-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01215-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07402-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01218-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01168-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01291-2"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,21 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07470-5">
+            <title><![CDATA[Author Correction: Stepwise activation of a metabotropic glutamate receptor]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07470-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 03 May 2024; <a href="https://www.nature.com/articles/s41586-024-07470-5">doi:10.1038/s41586-024-07470-5</a></p>Author Correction: Stepwise activation of a metabotropic glutamate receptor]]></content:encoded>
+            <dc:title><![CDATA[Author Correction: Stepwise activation of a metabotropic glutamate receptor]]></dc:title>
+            <dc:creator>Kaavya Krishna Kumar</dc:creator><dc:creator>Haoqing Wang</dc:creator><dc:creator>Chris Habrian</dc:creator><dc:creator>Naomi R. Latorraca</dc:creator><dc:creator>Jun Xu</dc:creator><dc:creator>Evan S. O’Brien</dc:creator><dc:creator>Chensong Zhang</dc:creator><dc:creator>Elizabeth Montabana</dc:creator><dc:creator>Antoine Koehl</dc:creator><dc:creator>Susan Marqusee</dc:creator><dc:creator>Ehud Y. Isacoff</dc:creator><dc:creator>Brian K. Kobilka</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07470-5</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-03; | doi:10.1038/s41586-024-07470-5</dc:source>
+            <dc:date>2024-05-03</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07470-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07470-5</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01277-0">
             <title><![CDATA[From multiverses to cities: Books in brief]]></title>
@@ -190,6 +205,36 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01277-0</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01277-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01267-2">
+            <title><![CDATA[Streamlined skull helps foxes take a nosedive]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01267-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 03 May 2024; <a href="https://www.nature.com/articles/d41586-024-01267-2">doi:10.1038/d41586-024-01267-2</a></p>Some fox species leap up and pounce head first into snow to capture prey that they hear below the surface. An analysis of the forces involved reveals how the shape of the skull has evolved to minimize damage from this behaviour.]]></content:encoded>
+            <dc:title><![CDATA[Streamlined skull helps foxes take a nosedive]]></dc:title>
+            <dc:creator>Mary Abraham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01267-2</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-03; | doi:10.1038/d41586-024-01267-2</dc:source>
+            <dc:date>2024-05-03</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01267-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01267-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01250-x">
+            <title><![CDATA[Mount Etna’s spectacular smoke rings and more — April’s best science images]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01250-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 03 May 2024; <a href="https://www.nature.com/articles/d41586-024-01250-x">doi:10.1038/d41586-024-01250-x</a></p>The month’s sharpest science shots, selected by Nature’s photo team.]]></content:encoded>
+            <dc:title><![CDATA[Mount Etna’s spectacular smoke rings and more — April’s best science images]]></dc:title>
+            <dc:creator>Emma Stoye</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01250-x</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-03; | doi:10.1038/d41586-024-01250-x</dc:source>
+            <dc:date>2024-05-03</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01250-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01250-x</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01279-y">
@@ -207,6 +252,51 @@
             <prism:url>https://www.nature.com/articles/d41586-024-01279-y</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01319-7">
+            <title><![CDATA[France’s research mega-campus faces leadership crisis]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01319-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 03 May 2024; <a href="https://www.nature.com/articles/d41586-024-01319-7">doi:10.1038/d41586-024-01319-7</a></p>The contest to elect the next president of Paris-Saclay University has collapsed, reflecting wider issues at the giant research centre.]]></content:encoded>
+            <dc:title><![CDATA[France’s research mega-campus faces leadership crisis]]></dc:title>
+            <dc:creator>Barbara Casassus</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01319-7</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-03; | doi:10.1038/d41586-024-01319-7</dc:source>
+            <dc:date>2024-05-03</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01319-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01319-7</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01275-2">
+            <title><![CDATA[Smarty plants? Controversial plant-intelligence studies explored in new book]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01275-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 03 May 2024; <a href="https://www.nature.com/articles/d41586-024-01275-2">doi:10.1038/d41586-024-01275-2</a></p>A deep dive into plant behaviour and consciousness asks why the topic has been taboo for so long, and whether botanists are changing their minds about plants’ cognitive abilities.]]></content:encoded>
+            <dc:title><![CDATA[Smarty plants? Controversial plant-intelligence studies explored in new book]]></dc:title>
+            <dc:creator>Beronda L. Montgomery</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01275-2</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-03; | doi:10.1038/d41586-024-01275-2</dc:source>
+            <dc:date>2024-05-03</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01275-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01275-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01211-4">
+            <title><![CDATA[A quantum solid made of electrons: observing the elusive Wigner crystal]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01211-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 03 May 2024; <a href="https://www.nature.com/articles/d41586-024-01211-4">doi:10.1038/d41586-024-01211-4</a></p>In ordinary materials, electrons move too quickly for their negative electric charges to affect their interactions. But at low temperatures and densities, they can be made to crystallize into an exotic type of electron solid — a phenomenon predicted by Eugene Wigner 90 years ago and only now directly observed.]]></content:encoded>
+            <dc:title><![CDATA[A quantum solid made of electrons: observing the elusive Wigner crystal]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-01211-4</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-03; | doi:10.1038/d41586-024-01211-4</dc:source>
+            <dc:date>2024-05-03</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01211-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01211-4</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-024-01273-4">
             <title><![CDATA[Dark energy is tearing the Universe apart. What if the force is weakening?]]></title>
             <link>https://www.nature.com/articles/d41586-024-01273-4</link>
@@ -220,6 +310,51 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01273-4</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01273-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01292-1">
+            <title><![CDATA[Who’s making chips for AI? Chinese manufacturers lag behind US tech giants]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01292-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 03 May 2024; <a href="https://www.nature.com/articles/d41586-024-01292-1">doi:10.1038/d41586-024-01292-1</a></p>Researchers in China say they are finding themselves five to ten years behind their US counterparts as export restrictions bite.]]></content:encoded>
+            <dc:title><![CDATA[Who’s making chips for AI? Chinese manufacturers lag behind US tech giants]]></dc:title>
+            <dc:creator>Jonathan O&#x27;Callaghan</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01292-1</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-03; | doi:10.1038/d41586-024-01292-1</dc:source>
+            <dc:date>2024-05-03</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01292-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01292-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01344-6">
+            <title><![CDATA[Daniel Kahneman obituary: psychologist who revolutionized the way we think about thinking]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01344-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 03 May 2024; <a href="https://www.nature.com/articles/d41586-024-01344-6">doi:10.1038/d41586-024-01344-6</a></p>Nobel prizewinner whose insights into the foibles of human decision-making launched the field of behavioural economics and sent ripples through all social sciences.]]></content:encoded>
+            <dc:title><![CDATA[Daniel Kahneman obituary: psychologist who revolutionized the way we think about thinking]]></dc:title>
+            <dc:creator>Eldar  Shafir</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01344-6</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-03; | doi:10.1038/d41586-024-01344-6</dc:source>
+            <dc:date>2024-05-03</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01344-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01344-6</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00434-9">
+            <title><![CDATA[Changing rainforest to plantations shifts tropical food webs]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00434-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 03 May 2024; <a href="https://www.nature.com/articles/d41586-024-00434-9">doi:10.1038/d41586-024-00434-9</a></p>A study provides insights into how energy flows in the food webs that connect soil- and canopy-dwelling organisms in tropical ecosystems with high biodiversity. When rainforest is converted to plantations, food webs are simplified and restructured, leading to profound changes in tropical-ecosystem functioning.]]></content:encoded>
+            <dc:title><![CDATA[Changing rainforest to plantations shifts tropical food webs]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-00434-9</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-03; | doi:10.1038/d41586-024-00434-9</dc:source>
+            <dc:date>2024-05-03</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00434-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00434-9</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07474-1">
@@ -253,11 +388,11 @@
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01289-w">
-            <title><![CDATA['Orangutan, heal thyself': First wild animal seen using medicinal plant]]></title>
+            <title><![CDATA[‘Orangutan, heal thyself’: First wild animal seen using medicinal plant]]></title>
             <link>https://www.nature.com/articles/d41586-024-01289-w</link>
             <content:encoded>
                 <![CDATA[<p>Nature, Published online: 02 May 2024; <a href="https://www.nature.com/articles/d41586-024-01289-w">doi:10.1038/d41586-024-01289-w</a></p>The Sumatran orangutan used a plant known to humans for its medicinal qualities.]]></content:encoded>
-            <dc:title><![CDATA['Orangutan, heal thyself': First wild animal seen using medicinal plant]]></dc:title>
+            <dc:title><![CDATA[‘Orangutan, heal thyself’: First wild animal seen using medicinal plant]]></dc:title>
             <dc:creator>Gayathri Vaidyanathan</dc:creator>
             <dc:identifier>doi:10.1038/d41586-024-01289-w</dc:identifier>
             <dc:source>Nature, Published online: 2024-05-02; | doi:10.1038/d41586-024-01289-w</dc:source>
@@ -1165,141 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00944-6</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00944-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01303-1">
-            <title><![CDATA[Daily briefing: First fetus-to-fetus transplant in rats]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01303-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 30 April 2024; <a href="https://www.nature.com/articles/d41586-024-01303-1">doi:10.1038/d41586-024-01303-1</a></p>Kidney tissue was transplanted from one rat fetus to another while the recipient was still in its mother’s womb. Plus, ‘ChatGPT for CRISPR’ creates new gene-editing tools and a desperate plan to save permafrost from carbon-bomb wildfires.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: First fetus-to-fetus transplant in rats]]></dc:title>
-            <dc:creator>Flora Graham</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01303-1</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-30; | doi:10.1038/d41586-024-01303-1</dc:source>
-            <dc:date>2024-04-30</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01303-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01303-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01152-y">
-            <title><![CDATA[First fetus-to-fetus transplant demonstrated in rats]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01152-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 30 April 2024; <a href="https://www.nature.com/articles/d41586-024-01152-y">doi:10.1038/d41586-024-01152-y</a></p>The tissue developed into functioning kidneys and produced urine.]]></content:encoded>
-            <dc:title><![CDATA[First fetus-to-fetus transplant demonstrated in rats]]></dc:title>
-            <dc:creator>Smriti Mallapaty</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01152-y</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-30; | doi:10.1038/d41586-024-01152-y</dc:source>
-            <dc:date>2024-04-30</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01152-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01152-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01056-x">
-            <title><![CDATA[What China’s mission to collect rocks from the Moon’s far side could reveal]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01056-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 30 April 2024; <a href="https://www.nature.com/articles/d41586-024-01056-x">doi:10.1038/d41586-024-01056-x</a></p>The Chang’e-6 mission aims to land in the Moon’s oldest and largest crater, where it will collect rocks to bring back to Earth.]]></content:encoded>
-            <dc:title><![CDATA[What China’s mission to collect rocks from the Moon’s far side could reveal]]></dc:title>
-            <dc:creator>Ling Xin</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01056-x</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-30; | doi:10.1038/d41586-024-01056-x</dc:source>
-            <dc:date>2024-04-30</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01056-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01056-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01214-1">
-            <title><![CDATA[Why doing science is difficult in India today]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01214-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 30 April 2024; <a href="https://www.nature.com/articles/d41586-024-01214-1">doi:10.1038/d41586-024-01214-1</a></p>With an election under way, the future of Indian science is on the ballot. Encouraging research and critical thinking should be a priority for the new government.]]></content:encoded>
-            <dc:title><![CDATA[Why doing science is difficult in India today]]></dc:title>
-            <dc:creator>Yamini Aiyar</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01214-1</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-30; | doi:10.1038/d41586-024-01214-1</dc:source>
-            <dc:date>2024-04-30</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01214-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01214-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01215-0">
-            <title><![CDATA[Do cutting-edge CAR-T-cell therapies cause cancer? What the data say]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01215-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 30 April 2024; <a href="https://www.nature.com/articles/d41586-024-01215-0">doi:10.1038/d41586-024-01215-0</a></p>Regulators have identified around 30 cases of cancer linked to this blockbuster treatment. But is CAR T to blame? The hunt is on for answers.]]></content:encoded>
-            <dc:title><![CDATA[Do cutting-edge CAR-T-cell therapies cause cancer? What the data say]]></dc:title>
-            <dc:creator>Cassandra Willyard</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01215-0</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-30; | doi:10.1038/d41586-024-01215-0</dc:source>
-            <dc:date>2024-04-30</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01215-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01215-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07402-3">
-            <title><![CDATA[Author Correction: Targeting DCAF5 suppresses <i>SMARCB1</i>-mutant cancer by stabilizing SWI/SNF]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07402-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 29 April 2024; <a href="https://www.nature.com/articles/s41586-024-07402-3">doi:10.1038/s41586-024-07402-3</a></p>Author Correction: Targeting DCAF5 suppresses <i>SMARCB1</i>-mutant cancer by stabilizing SWI/SNF]]></content:encoded>
-            <dc:title><![CDATA[Author Correction: Targeting DCAF5 suppresses <i>SMARCB1</i>-mutant cancer by stabilizing SWI/SNF]]></dc:title>
-            <dc:creator>Sandi Radko-Juettner</dc:creator><dc:creator>Hong Yue</dc:creator><dc:creator>Jacquelyn A. Myers</dc:creator><dc:creator>Raymond D. Carter</dc:creator><dc:creator>Alexis N. Robertson</dc:creator><dc:creator>Priya Mittal</dc:creator><dc:creator>Zhexin Zhu</dc:creator><dc:creator>Baranda S. Hansen</dc:creator><dc:creator>Katherine A. Donovan</dc:creator><dc:creator>Moritz Hunkeler</dc:creator><dc:creator>Wojciech Rosikiewicz</dc:creator><dc:creator>Zhiping Wu</dc:creator><dc:creator>Meghan G. McReynolds</dc:creator><dc:creator>Shourya S. Roy Burman</dc:creator><dc:creator>Anna M. Schmoker</dc:creator><dc:creator>Nada Mageed</dc:creator><dc:creator>Scott A. Brown</dc:creator><dc:creator>Robert J. Mobley</dc:creator><dc:creator>Janet F. Partridge</dc:creator><dc:creator>Elizabeth A. Stewart</dc:creator><dc:creator>Shondra M. Pruett-Miller</dc:creator><dc:creator>Behnam Nabet</dc:creator><dc:creator>Junmin Peng</dc:creator><dc:creator>Nathanael S. Gray</dc:creator><dc:creator>Eric S. Fischer</dc:creator><dc:creator>Charles W. M. Roberts</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07402-3</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-29; | doi:10.1038/s41586-024-07402-3</dc:source>
-            <dc:date>2024-04-29</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07402-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07402-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01218-x">
-            <title><![CDATA[I strive to make the Great Barrier Reef more resilient to heat stress]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01218-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 29 April 2024; <a href="https://www.nature.com/articles/d41586-024-01218-x">doi:10.1038/d41586-024-01218-x</a></p>Matthew Nitschke grows coral symbionts in a slowly warming tank to prepare reef life for climate change.]]></content:encoded>
-            <dc:title><![CDATA[I strive to make the Great Barrier Reef more resilient to heat stress]]></dc:title>
-            <dc:creator>James Mitchell Crow</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01218-x</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-29; | doi:10.1038/d41586-024-01218-x</dc:source>
-            <dc:date>2024-04-29</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01218-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01218-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01168-4">
-            <title><![CDATA[Epic blazes threaten Arctic permafrost. Can firefighters save it?]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01168-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 29 April 2024; <a href="https://www.nature.com/articles/d41586-024-01168-4">doi:10.1038/d41586-024-01168-4</a></p>Some scientists argue that it’s time to rethink the blanket policy of letting blazes burn themselves out in northern wildernesses.]]></content:encoded>
-            <dc:title><![CDATA[Epic blazes threaten Arctic permafrost. Can firefighters save it?]]></dc:title>
-            <dc:creator>Jeff Tollefson</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01168-4</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-29; | doi:10.1038/d41586-024-01168-4</dc:source>
-            <dc:date>2024-04-29</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01168-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01168-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01291-2">
-            <title><![CDATA[Daily briefing: Bird flu has been spreading undetected in US cattle for months]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01291-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 29 April 2024; <a href="https://www.nature.com/articles/d41586-024-01291-2">doi:10.1038/d41586-024-01291-2</a></p>The H5N1 strain of avian influenza probably jumped from an infected bird into a cow around late December. Plus, a rare mutation that causes dwarfism might slow ageing and how to collect royalties from your research papers.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: Bird flu has been spreading undetected in US cattle for months]]></dc:title>
-            <dc:creator>Flora Graham</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01291-2</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-29; | doi:10.1038/d41586-024-01291-2</dc:source>
-            <dc:date>2024-04-29</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01291-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01291-2</prism:url>
         </item>
     
 </rdf:RDF>
