@@ -18,6 +18,14 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01281-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01345-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01276-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01315-x"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07470-5"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01277-0"/>
@@ -160,14 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01269-0"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01271-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01307-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01272-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00944-6"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,66 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01281-4">
+            <title><![CDATA[I make 3D models of conifer needles to explore their climate effects]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01281-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 May 2024; <a href="https://www.nature.com/articles/d41586-024-01281-4">doi:10.1038/d41586-024-01281-4</a></p>Jan Pisek seeks a better understanding of how forests absorb sunlight, carbon and heat.]]></content:encoded>
+            <dc:title><![CDATA[I make 3D models of conifer needles to explore their climate effects]]></dc:title>
+            <dc:creator>Nic Fleming</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01281-4</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-06; | doi:10.1038/d41586-024-01281-4</dc:source>
+            <dc:date>2024-05-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01281-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01281-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01345-5">
+            <title><![CDATA[China's Chang'e-6 launches successfully — what happens next?]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01345-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 May 2024; <a href="https://www.nature.com/articles/d41586-024-01345-5">doi:10.1038/d41586-024-01345-5</a></p>Scientists have high hopes for the first mission to collect rocks from the far side of the Moon.]]></content:encoded>
+            <dc:title><![CDATA[China's Chang'e-6 launches successfully — what happens next?]]></dc:title>
+            <dc:creator>Ling Xin</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01345-5</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-06; | doi:10.1038/d41586-024-01345-5</dc:source>
+            <dc:date>2024-05-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01345-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01345-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01276-1">
+            <title><![CDATA[How rich is too rich?]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01276-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 May 2024; <a href="https://www.nature.com/articles/d41586-024-01276-1">doi:10.1038/d41586-024-01276-1</a></p>Where should society draw the line on extreme wealth? A fresh account sets out the logic and suggests how to redress inequality.]]></content:encoded>
+            <dc:title><![CDATA[How rich is too rich?]]></dc:title>
+            <dc:creator>Lucas Chancel</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01276-1</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-06; | doi:10.1038/d41586-024-01276-1</dc:source>
+            <dc:date>2024-05-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01276-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01276-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01315-x">
+            <title><![CDATA[Puppy-dog eyes in wild canines sparks rethink on dog evolution]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01315-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 05 May 2024; <a href="https://www.nature.com/articles/d41586-024-01315-x">doi:10.1038/d41586-024-01315-x</a></p>The eyebrows of the African wild dog have scientists wondering whether other dogs can make the irresistible ‘puppy-dog eyes’ expression.]]></content:encoded>
+            <dc:title><![CDATA[Puppy-dog eyes in wild canines sparks rethink on dog evolution]]></dc:title>
+            <dc:creator>Gillian Dohrn</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01315-x</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-05; | doi:10.1038/d41586-024-01315-x</dc:source>
+            <dc:date>2024-05-05</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01315-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01315-x</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07470-5">
             <title><![CDATA[Author Correction: Stepwise activation of a metabotropic glutamate receptor]]></title>
@@ -1240,66 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01269-0</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01269-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01271-6">
-            <title><![CDATA[Climate-targets group should rescind its endorsement of carbon offsets]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01271-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 30 April 2024; <a href="https://www.nature.com/articles/d41586-024-01271-6">doi:10.1038/d41586-024-01271-6</a></p>Climate-targets group should rescind its endorsement of carbon offsets]]></content:encoded>
-            <dc:title><![CDATA[Climate-targets group should rescind its endorsement of carbon offsets]]></dc:title>
-            <dc:creator>William R. L. Anderegg</dc:creator><dc:creator>Libby Blanchard</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01271-6</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-30; | doi:10.1038/d41586-024-01271-6</dc:source>
-            <dc:date>2024-04-30</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01271-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01271-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01307-x">
-            <title><![CDATA[AI &amp; robotics briefing: What running robots tell us about gaits]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01307-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 30 April 2024; <a href="https://www.nature.com/articles/d41586-024-01307-x">doi:10.1038/d41586-024-01307-x</a></p>A robot that changes from trot to bounce to avoid falls hints at why four-legged animals transition between gaits. Plus, AI designs new gene-editing tools and how autonomous weapons are changing war.]]></content:encoded>
-            <dc:title><![CDATA[AI &amp; robotics briefing: What running robots tell us about gaits]]></dc:title>
-            <dc:creator>Katrina Krämer</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01307-x</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-30; | doi:10.1038/d41586-024-01307-x</dc:source>
-            <dc:date>2024-04-30</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01307-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01307-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01272-5">
-            <title><![CDATA[The science of <i>3 Body Problem</i>: what’s fact and what’s fiction?]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01272-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 30 April 2024; <a href="https://www.nature.com/articles/d41586-024-01272-5">doi:10.1038/d41586-024-01272-5</a></p>Nature spoke to the sci-fi programme’s adviser and two other researchers about the portrayal of PhD scientists and their technologies.]]></content:encoded>
-            <dc:title><![CDATA[The science of <i>3 Body Problem</i>: what’s fact and what’s fiction?]]></dc:title>
-            <dc:creator>Sumeet Kulkarni</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01272-5</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-30; | doi:10.1038/d41586-024-01272-5</dc:source>
-            <dc:date>2024-04-30</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01272-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01272-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00944-6">
-            <title><![CDATA[This social sciences hub galvanized India’s dynamic growth. Can it survive?]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00944-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 30 April 2024; <a href="https://www.nature.com/articles/d41586-024-00944-6">doi:10.1038/d41586-024-00944-6</a></p>The Centre for Policy Research has lost its chief executive, most of its staff and is running out of cash.]]></content:encoded>
-            <dc:title><![CDATA[This social sciences hub galvanized India’s dynamic growth. Can it survive?]]></dc:title>
-            <dc:creator>Michele Catanzaro</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00944-6</dc:identifier>
-            <dc:source>Nature, Published online: 2024-04-30; | doi:10.1038/d41586-024-00944-6</dc:source>
-            <dc:date>2024-04-30</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00944-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00944-6</prism:url>
         </item>
     
 </rdf:RDF>
