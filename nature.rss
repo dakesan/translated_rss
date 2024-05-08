@@ -18,6 +18,12 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01333-9"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01374-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01280-5"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01342-8"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01340-w"/>
@@ -37,6 +43,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01377-x"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01316-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01382-0"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01283-2"/>
                 
@@ -160,14 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01305-z"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01249-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01204-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01317-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01207-0"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,51 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01333-9">
+            <title><![CDATA[Bird flu in US cows: where will it end?]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01333-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 May 2024; <a href="https://www.nature.com/articles/d41586-024-01333-9">doi:10.1038/d41586-024-01333-9</a></p>Scientists worry that the H5N1 strain of avian influenza will become endemic in cattle, which would aid its spread in people.]]></content:encoded>
+            <dc:title><![CDATA[Bird flu in US cows: where will it end?]]></dc:title>
+            <dc:creator>Sara Reardon</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01333-9</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-08; | doi:10.1038/d41586-024-01333-9</dc:source>
+            <dc:date>2024-05-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01333-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01333-9</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01374-0">
+            <title><![CDATA[How I fled bombed Aleppo to continue my career in science]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01374-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 May 2024; <a href="https://www.nature.com/articles/d41586-024-01374-0">doi:10.1038/d41586-024-01374-0</a></p>Aref Kyyaly’s quest to find a safe place, away from Syria, to do research taught him perseverance. Don’t give up, is his advice.]]></content:encoded>
+            <dc:title><![CDATA[How I fled bombed Aleppo to continue my career in science]]></dc:title>
+            <dc:creator>Benjamin Plackett</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01374-0</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-08; | doi:10.1038/d41586-024-01374-0</dc:source>
+            <dc:date>2024-05-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01374-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01374-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01280-5">
+            <title><![CDATA[Powerful ‘nanopore’ DNA sequencing method tackles proteins too]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01280-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 May 2024; <a href="https://www.nature.com/articles/d41586-024-01280-5">doi:10.1038/d41586-024-01280-5</a></p>Latest methods bring the speed, portability, and long read lengths of nanopore sequencing to proteomics.]]></content:encoded>
+            <dc:title><![CDATA[Powerful ‘nanopore’ DNA sequencing method tackles proteins too]]></dc:title>
+            <dc:creator>Caroline Seydel</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01280-5</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-08; | doi:10.1038/d41586-024-01280-5</dc:source>
+            <dc:date>2024-05-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01280-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01280-5</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01342-8">
             <title><![CDATA[Finding millennia-old ‘monumental’ corals could unlock secrets of climate resilience]]></title>
@@ -325,6 +370,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01316-w</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01316-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01382-0">
+            <title><![CDATA[AI &amp; robotics briefing: ‘Risk-of-death’ AI save lives in hospital trial]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01382-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 07 May 2024; <a href="https://www.nature.com/articles/d41586-024-01382-0">doi:10.1038/d41586-024-01382-0</a></p>An algorithm trained on electrocardiograms reduced deaths among high-risk patients by 31%. Plus, an AI transcription tool seems to hallucinate harmful text and a robot that efficiently combines bouncing and flying.]]></content:encoded>
+            <dc:title><![CDATA[AI &amp; robotics briefing: ‘Risk-of-death’ AI save lives in hospital trial]]></dc:title>
+            <dc:creator>Katrina Krämer</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01382-0</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-07; | doi:10.1038/d41586-024-01382-0</dc:source>
+            <dc:date>2024-05-07</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01382-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01382-0</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01283-2">
@@ -1240,66 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01305-z</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01305-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01249-4">
-            <title><![CDATA[How to meet Africa’s grand challenges with African know-how]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01249-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 01 May 2024; <a href="https://www.nature.com/articles/d41586-024-01249-4">doi:10.1038/d41586-024-01249-4</a></p>Simple measures to strengthen the interface between science, policy and society in African nations could help the continent leapfrog others in sustainable innovation and development.]]></content:encoded>
-            <dc:title><![CDATA[How to meet Africa’s grand challenges with African know-how]]></dc:title>
-            <dc:creator>Alfred R. Bizoza</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01249-4</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-01; | doi:10.1038/d41586-024-01249-4</dc:source>
-            <dc:date>2024-05-01</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01249-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01249-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01204-3">
-            <title><![CDATA[We need more-nuanced approaches to exploring sex and gender in research]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01204-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 01 May 2024; <a href="https://www.nature.com/articles/d41586-024-01204-3">doi:10.1038/d41586-024-01204-3</a></p>Some scientists are reluctant to investigate questions about sex and gender, particularly given today’s sociopolitical tensions around gender identity. But they should lean in and embrace the complexity.]]></content:encoded>
-            <dc:title><![CDATA[We need more-nuanced approaches to exploring sex and gender in research]]></dc:title>
-            <dc:creator>Stacey A. Ritz</dc:creator><dc:creator>Lorraine Greaves</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01204-3</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-01; | doi:10.1038/d41586-024-01204-3</dc:source>
-            <dc:date>2024-05-01</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01204-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01204-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01317-9">
-            <title><![CDATA[Daily briefing: What scientists think of Netflix’s 3 Body Problem]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01317-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 01 May 2024; <a href="https://www.nature.com/articles/d41586-024-01317-9">doi:10.1038/d41586-024-01317-9</a></p>The scientific adviser of 3 Body Problem, a planetary scientist and a nanotechnology expert review the hit sci-fi show. Plus, why a trailblazing Chinese virologist was sleeping in the street outside his own lab.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: What scientists think of Netflix’s 3 Body Problem]]></dc:title>
-            <dc:creator>Flora Graham</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01317-9</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-01; | doi:10.1038/d41586-024-01317-9</dc:source>
-            <dc:date>2024-05-01</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01317-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01317-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01207-0">
-            <title><![CDATA[Why it’s essential to study sex and gender, even as tensions rise]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01207-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 01 May 2024; <a href="https://www.nature.com/articles/d41586-024-01207-0">doi:10.1038/d41586-024-01207-0</a></p>Some scholars are reluctant to research sex and gender out of fear that their studies will be misused. In a series of specially commissioned articles, Nature encourages scientists to engage.]]></content:encoded>
-            <dc:title><![CDATA[Why it’s essential to study sex and gender, even as tensions rise]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-01207-0</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-01; | doi:10.1038/d41586-024-01207-0</dc:source>
-            <dc:date>2024-05-01</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01207-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01207-0</prism:url>
         </item>
     
 </rdf:RDF>
