@@ -22,7 +22,11 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01340-w"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01220-3"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01339-3"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01287-y"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01341-9"/>
                 
@@ -30,7 +34,11 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01324-w"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01377-x"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01316-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01283-2"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07428-7"/>
                 
@@ -60,6 +68,8 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01319-7"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01348-2"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01275-2"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01211-4"/>
@@ -75,6 +85,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07474-1"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01261-8"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01330-y"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01289-w"/>
                 
@@ -156,18 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01207-0"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01259-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01190-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01219-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01141-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01278-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01205-2"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -207,6 +207,21 @@
             <prism:url>https://www.nature.com/articles/d41586-024-01340-w</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01220-3">
+            <title><![CDATA[The dream of electronic newspapers becomes a reality — in 1974]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01220-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 07 May 2024; <a href="https://www.nature.com/articles/d41586-024-01220-3">doi:10.1038/d41586-024-01220-3</a></p>Efforts to develop an electronic newspaper providing information at the touch of a button took a step forward 50 years ago, and airborne bacteria in the London Underground come under scrutiny, in the weekly dip into Nature’s archive.]]></content:encoded>
+            <dc:title><![CDATA[The dream of electronic newspapers becomes a reality — in 1974]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-01220-3</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-07; | doi:10.1038/d41586-024-01220-3</dc:source>
+            <dc:date>2024-05-07</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01220-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01220-3</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-024-01339-3">
             <title><![CDATA[Beware of graphene’s huge and hidden environmental costs]]></title>
             <link>https://www.nature.com/articles/d41586-024-01339-3</link>
@@ -220,6 +235,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01339-3</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01339-3</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01287-y">
+            <title><![CDATA[Old electric-vehicle batteries can find new purpose — on the grid]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01287-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 07 May 2024; <a href="https://www.nature.com/articles/d41586-024-01287-y">doi:10.1038/d41586-024-01287-y</a></p>An algorithm can monitor the health of retired vehicle batteries used to store surplus power fed into the electrical grid.]]></content:encoded>
+            <dc:title><![CDATA[Old electric-vehicle batteries can find new purpose — on the grid]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-01287-y</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-07; | doi:10.1038/d41586-024-01287-y</dc:source>
+            <dc:date>2024-05-07</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01287-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01287-y</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01341-9">
@@ -267,6 +297,21 @@
             <prism:url>https://www.nature.com/articles/d41586-024-01324-w</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01377-x">
+            <title><![CDATA[US funders to tighten oversight of controversial ‘gain-of-function’ research]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01377-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 07 May 2024; <a href="https://www.nature.com/articles/d41586-024-01377-x">doi:10.1038/d41586-024-01377-x</a></p>New policy on high-risk biology studies aims to address criticism that previous rules were too vague.]]></content:encoded>
+            <dc:title><![CDATA[US funders to tighten oversight of controversial ‘gain-of-function’ research]]></dc:title>
+            <dc:creator>Max Kozlov</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01377-x</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-07; | doi:10.1038/d41586-024-01377-x</dc:source>
+            <dc:date>2024-05-07</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01377-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01377-x</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-024-01316-w">
             <title><![CDATA[How artificial intelligence is helping Ghana plan for a renewable energy future]]></title>
             <link>https://www.nature.com/articles/d41586-024-01316-w</link>
@@ -280,6 +325,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01316-w</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01316-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01283-2">
+            <title><![CDATA[Argentina’s pioneering nuclear research threatened by huge budget cuts]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01283-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 07 May 2024; <a href="https://www.nature.com/articles/d41586-024-01283-2">doi:10.1038/d41586-024-01283-2</a></p>President Javier Milei is making moves to partially privatize the sector, but in the meantime, projects have paused.]]></content:encoded>
+            <dc:title><![CDATA[Argentina’s pioneering nuclear research threatened by huge budget cuts]]></dc:title>
+            <dc:creator>Martín De Ambrosio</dc:creator><dc:creator>Fermín Koop</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01283-2</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-07; | doi:10.1038/d41586-024-01283-2</dc:source>
+            <dc:date>2024-05-07</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01283-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01283-2</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07428-7">
@@ -492,6 +552,21 @@
             <prism:url>https://www.nature.com/articles/d41586-024-01319-7</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01348-2">
+            <title><![CDATA[Daily briefing: Orangutan is first wild animal seen using medicinal plant]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01348-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 03 May 2024; <a href="https://www.nature.com/articles/d41586-024-01348-2">doi:10.1038/d41586-024-01348-2</a></p>A Sumatran orangutan nicknamed Rakus treated a gash in his cheek with a poultice. Plus, a promising vaccine for urinary tract infections and a special collection on sex and gender in research.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Orangutan is first wild animal seen using medicinal plant]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01348-2</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-03; | doi:10.1038/d41586-024-01348-2</dc:source>
+            <dc:date>2024-05-03</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01348-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01348-2</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-024-01275-2">
             <title><![CDATA[Smarty plants? Controversial plant-intelligence studies explored in new book]]></title>
             <link>https://www.nature.com/articles/d41586-024-01275-2</link>
@@ -610,6 +685,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01261-8</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01261-8</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01330-y">
+            <title><![CDATA[Daily briefing: Why exercise is good for us]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01330-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 02 May 2024; <a href="https://www.nature.com/articles/d41586-024-01330-y">doi:10.1038/d41586-024-01330-y</a></p>Scientists are starting to untangle exactly how we benefit from the stress of physical activity. Plus, studies in mice might have pinpointed the master dial that controls the immune system.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Why exercise is good for us]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01330-y</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-02; | doi:10.1038/d41586-024-01330-y</dc:source>
+            <dc:date>2024-05-02</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01330-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01330-y</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01289-w">
@@ -1210,96 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01207-0</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01207-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01259-2">
-            <title><![CDATA[Found: the dial in the brain that controls the immune system]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01259-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 01 May 2024; <a href="https://www.nature.com/articles/d41586-024-01259-2">doi:10.1038/d41586-024-01259-2</a></p>Scientists identify the brain cells that regulate inflammation, and pinpoint how they keep tabs on the immune response.]]></content:encoded>
-            <dc:title><![CDATA[Found: the dial in the brain that controls the immune system]]></dc:title>
-            <dc:creator>Giorgia Guglielmi</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01259-2</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-01; | doi:10.1038/d41586-024-01259-2</dc:source>
-            <dc:date>2024-05-01</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01259-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01259-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01190-6">
-            <title><![CDATA[Genomics reveal unknown mutation-promoting agents at global sites]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01190-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 01 May 2024; <a href="https://www.nature.com/articles/d41586-024-01190-6">doi:10.1038/d41586-024-01190-6</a></p>Genetic sequencing of human kidney cancers worldwide has revealed associations between geographical locations and specific mutation patterns, indicating exposure to known and unknown mutation-promoting agents.]]></content:encoded>
-            <dc:title><![CDATA[Genomics reveal unknown mutation-promoting agents at global sites]]></dc:title>
-            <dc:creator>Irene Franco</dc:creator><dc:creator>Fran Supek</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01190-6</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-01; | doi:10.1038/d41586-024-01190-6</dc:source>
-            <dc:date>2024-05-01</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01190-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01190-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01219-w">
-            <title><![CDATA[The AI tuner]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01219-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 01 May 2024; <a href="https://www.nature.com/articles/d41586-024-01219-w">doi:10.1038/d41586-024-01219-w</a></p>If music be the food of love.]]></content:encoded>
-            <dc:title><![CDATA[The AI tuner]]></dc:title>
-            <dc:creator>Joanna Friedman</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01219-w</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-01; | doi:10.1038/d41586-024-01219-w</dc:source>
-            <dc:date>2024-05-01</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01219-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01219-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01141-1">
-            <title><![CDATA[How bioinformatics led one scientist home to Lithuania]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01141-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 01 May 2024; <a href="https://www.nature.com/articles/d41586-024-01141-1">doi:10.1038/d41586-024-01141-1</a></p>Juozas Gordevičius founded a data-science company in the United States before returning to Vilnius.]]></content:encoded>
-            <dc:title><![CDATA[How bioinformatics led one scientist home to Lithuania]]></dc:title>
-            <dc:creator>Jacqui Thornton</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01141-1</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-01; | doi:10.1038/d41586-024-01141-1</dc:source>
-            <dc:date>2024-05-01</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01141-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01141-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01278-z">
-            <title><![CDATA[Allen J. Bard obituary: electrochemist whose techniques underpin clinical diagnostics, materials discovery and more]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01278-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 01 May 2024; <a href="https://www.nature.com/articles/d41586-024-01278-z">doi:10.1038/d41586-024-01278-z</a></p>Innovator who pioneered scanning electrochemical microscopy, bioassays and solar fuels.]]></content:encoded>
-            <dc:title><![CDATA[Allen J. Bard obituary: electrochemist whose techniques underpin clinical diagnostics, materials discovery and more]]></dc:title>
-            <dc:creator>Michael   Rose</dc:creator><dc:creator>Henry S.   White</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01278-z</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-01; | doi:10.1038/d41586-024-01278-z</dc:source>
-            <dc:date>2024-05-01</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01278-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01278-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01205-2">
-            <title><![CDATA[Male–female comparisons are powerful in biomedical research — don’t abandon them]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01205-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 01 May 2024; <a href="https://www.nature.com/articles/d41586-024-01205-2">doi:10.1038/d41586-024-01205-2</a></p>Binary sex studies have been denounced as too simplistic, but dropping them altogether would impede progress in a long-neglected area of biomedicine.]]></content:encoded>
-            <dc:title><![CDATA[Male–female comparisons are powerful in biomedical research — don’t abandon them]]></dc:title>
-            <dc:creator>Arthur P. Arnold</dc:creator><dc:creator>Sabra L. Klein</dc:creator><dc:creator>Margaret M. McCarthy</dc:creator><dc:creator>Jeffrey S. Mogil</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01205-2</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-01; | doi:10.1038/d41586-024-01205-2</dc:source>
-            <dc:date>2024-05-01</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01205-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01205-2</prism:url>
         </item>
     
 </rdf:RDF>
