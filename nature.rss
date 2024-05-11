@@ -18,6 +18,12 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01288-x"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00449-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01414-9"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07495-w"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01285-0"/>
@@ -162,12 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01281-4"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07294-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07261-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01194-2"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,51 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01288-x">
+            <title><![CDATA[These parrots go on killing sprees over real-estate shortages]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01288-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 10 May 2024; <a href="https://www.nature.com/articles/d41586-024-01288-x">doi:10.1038/d41586-024-01288-x</a></p>Scientists recorded green-rumped parrotlets pecking others’ chicks to death, probably to claim the nest space.]]></content:encoded>
+            <dc:title><![CDATA[These parrots go on killing sprees over real-estate shortages]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-01288-x</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-10; | doi:10.1038/d41586-024-01288-x</dc:source>
+            <dc:date>2024-05-10</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01288-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01288-x</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00449-2">
+            <title><![CDATA[A jawless-fish genome untangles the history of vertebrate genome multiplications]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00449-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 10 May 2024; <a href="https://www.nature.com/articles/d41586-024-00449-2">doi:10.1038/d41586-024-00449-2</a></p>Clarifying how genome duplication and triplication events shaped early vertebrate genomes has presented a challenge in evolutionary biology. The genome of the jawless hagfish provides a missing piece of this puzzle.]]></content:encoded>
+            <dc:title><![CDATA[A jawless-fish genome untangles the history of vertebrate genome multiplications]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-00449-2</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-10; | doi:10.1038/d41586-024-00449-2</dc:source>
+            <dc:date>2024-05-10</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00449-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00449-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01414-9">
+            <title><![CDATA[Diana Wall obituary: ecologist who foresaw the importance of soil biodiversity]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01414-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 10 May 2024; <a href="https://www.nature.com/articles/d41586-024-01414-9">doi:10.1038/d41586-024-01414-9</a></p>Environmental scientist who revealed the crucial role of underground animals in sustainability.]]></content:encoded>
+            <dc:title><![CDATA[Diana Wall obituary: ecologist who foresaw the importance of soil biodiversity]]></dc:title>
+            <dc:creator>Richard D.  Bardgett</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01414-9</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-10; | doi:10.1038/d41586-024-01414-9</dc:source>
+            <dc:date>2024-05-10</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01414-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01414-9</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07495-w">
             <title><![CDATA[Rhizobia–diatom symbiosis fixes missing nitrogen in the ocean]]></title>
@@ -1168,11 +1213,11 @@
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01377-x">
-            <title><![CDATA[US funders to tighten oversight of controversial ‘gain-of-function’ research]]></title>
+            <title><![CDATA[US funders to tighten oversight of controversial ‘gain of function’ research]]></title>
             <link>https://www.nature.com/articles/d41586-024-01377-x</link>
             <content:encoded>
                 <![CDATA[<p>Nature, Published online: 07 May 2024; <a href="https://www.nature.com/articles/d41586-024-01377-x">doi:10.1038/d41586-024-01377-x</a></p>New policy on high-risk biology studies aims to address criticism that previous rules were too vague.]]></content:encoded>
-            <dc:title><![CDATA[US funders to tighten oversight of controversial ‘gain-of-function’ research]]></dc:title>
+            <dc:title><![CDATA[US funders to tighten oversight of controversial ‘gain of function’ research]]></dc:title>
             <dc:creator>Max Kozlov</dc:creator>
             <dc:identifier>doi:10.1038/d41586-024-01377-x</dc:identifier>
             <dc:source>Nature, Published online: 2024-05-07; | doi:10.1038/d41586-024-01377-x</dc:source>
@@ -1255,51 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01281-4</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01281-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07294-3">
-            <title><![CDATA[Quantum control of a cat qubit with bit-flip times exceeding ten seconds]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07294-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 06 May 2024; <a href="https://www.nature.com/articles/s41586-024-07294-3">doi:10.1038/s41586-024-07294-3</a></p>A type of qubit that has inherent resistance to bit-flip errors has been manipulated with a bit-flip time of more than 10 s without losing that error protection.]]></content:encoded>
-            <dc:title><![CDATA[Quantum control of a cat qubit with bit-flip times exceeding ten seconds]]></dc:title>
-            <dc:creator>U. Réglade</dc:creator><dc:creator>A. Bocquet</dc:creator><dc:creator>R. Gautier</dc:creator><dc:creator>J. Cohen</dc:creator><dc:creator>A. Marquet</dc:creator><dc:creator>E. Albertinale</dc:creator><dc:creator>N. Pankratova</dc:creator><dc:creator>M. Hallén</dc:creator><dc:creator>F. Rautschke</dc:creator><dc:creator>L.-A. Sellem</dc:creator><dc:creator>P. Rouchon</dc:creator><dc:creator>A. Sarlette</dc:creator><dc:creator>M. Mirrahimi</dc:creator><dc:creator>P. Campagne-Ibarcq</dc:creator><dc:creator>R. Lescanne</dc:creator><dc:creator>S. Jezouin</dc:creator><dc:creator>Z. Leghtas</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07294-3</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-06; | doi:10.1038/s41586-024-07294-3</dc:source>
-            <dc:date>2024-05-06</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07294-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07294-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07261-y">
-            <title><![CDATA[Venus water loss is dominated by HCO<sup>+</sup> dissociative recombination]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07261-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 06 May 2024; <a href="https://www.nature.com/articles/s41586-024-07261-y">doi:10.1038/s41586-024-07261-y</a></p>Water loss to space late in Venus history is shown to be more active than previously thought, with unmeasured HCO+ dissociative recombination dominating present-day H loss.]]></content:encoded>
-            <dc:title><![CDATA[Venus water loss is dominated by HCO<sup>+</sup> dissociative recombination]]></dc:title>
-            <dc:creator>M. S. Chaffin</dc:creator><dc:creator>E. M. Cangi</dc:creator><dc:creator>B. S. Gregory</dc:creator><dc:creator>R. V. Yelle</dc:creator><dc:creator>J. Deighan</dc:creator><dc:creator>R. D. Elliott</dc:creator><dc:creator>H. Gröller</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07261-y</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-06; | doi:10.1038/s41586-024-07261-y</dc:source>
-            <dc:date>2024-05-06</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07261-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07261-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01194-2">
-            <title><![CDATA[Microbubble ultrasound maps hidden signs of heart disease]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01194-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 06 May 2024; <a href="https://www.nature.com/articles/d41586-024-01194-2">doi:10.1038/d41586-024-01194-2</a></p>Cardiovascular disease claims more lives each year than do the two next-deadliest diseases combined. An ultrasound technique that tracks tiny gas-filled bubbles could pave the way towards improved early detection.]]></content:encoded>
-            <dc:title><![CDATA[Microbubble ultrasound maps hidden signs of heart disease]]></dc:title>
-            <dc:creator>Elisa E. Konofagou</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01194-2</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-06; | doi:10.1038/d41586-024-01194-2</dc:source>
-            <dc:date>2024-05-06</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01194-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01194-2</prism:url>
         </item>
     
 </rdf:RDF>
