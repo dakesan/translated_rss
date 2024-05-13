@@ -18,6 +18,8 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01410-z"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01288-x"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00449-2"/>
@@ -166,8 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07428-7"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01281-4"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,21 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01410-z">
+            <title><![CDATA[Is the Internet bad for you? Huge study reveals surprise effect on well-being]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01410-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 12 May 2024; <a href="https://www.nature.com/articles/d41586-024-01410-z">doi:10.1038/d41586-024-01410-z</a></p>A survey of more than 2.4 million people finds that being online can have a positive effect on welfare.]]></content:encoded>
+            <dc:title><![CDATA[Is the Internet bad for you? Huge study reveals surprise effect on well-being]]></dc:title>
+            <dc:creator>Carissa Wong</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01410-z</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-12; | doi:10.1038/d41586-024-01410-z</dc:source>
+            <dc:date>2024-05-12</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01410-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01410-z</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01288-x">
             <title><![CDATA[These parrots go on killing sprees over real-estate shortages]]></title>
@@ -1285,21 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/s41586-024-07428-7</prism:doi>
             <prism:url>https://www.nature.com/articles/s41586-024-07428-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01281-4">
-            <title><![CDATA[I make 3D models of conifer needles to explore their climate effects]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01281-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 06 May 2024; <a href="https://www.nature.com/articles/d41586-024-01281-4">doi:10.1038/d41586-024-01281-4</a></p>Jan Pisek seeks a better understanding of how forests absorb sunlight, carbon and heat.]]></content:encoded>
-            <dc:title><![CDATA[I make 3D models of conifer needles to explore their climate effects]]></dc:title>
-            <dc:creator>Nic Fleming</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01281-4</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-06; | doi:10.1038/d41586-024-01281-4</dc:source>
-            <dc:date>2024-05-06</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01281-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01281-4</prism:url>
         </item>
     
 </rdf:RDF>
