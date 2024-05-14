@@ -18,17 +18,31 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07468-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07515-9"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07540-8"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01373-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01432-7"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01409-6"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01346-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01424-7"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01403-y"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01410-z"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01288-x"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00449-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01418-5"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01414-9"/>
                 
@@ -154,20 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01220-3"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01339-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01287-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01341-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01274-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01380-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01324-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01377-x"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,51 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07468-z">
+            <title><![CDATA[Publisher Correction: Network-level encoding of local neurotransmitters in cortical astrocytes]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07468-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 13 May 2024; <a href="https://www.nature.com/articles/s41586-024-07468-z">doi:10.1038/s41586-024-07468-z</a></p>Publisher Correction: Network-level encoding of local neurotransmitters in cortical astrocytes]]></content:encoded>
+            <dc:title><![CDATA[Publisher Correction: Network-level encoding of local neurotransmitters in cortical astrocytes]]></dc:title>
+            <dc:creator>Michelle K. Cahill</dc:creator><dc:creator>Max Collard</dc:creator><dc:creator>Vincent Tse</dc:creator><dc:creator>Michael E. Reitman</dc:creator><dc:creator>Roberto Etchenique</dc:creator><dc:creator>Christoph Kirst</dc:creator><dc:creator>Kira E. Poskanzer</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07468-z</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-13; | doi:10.1038/s41586-024-07468-z</dc:source>
+            <dc:date>2024-05-13</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07468-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07468-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07515-9">
+            <title><![CDATA[Plasmid targeting and destruction by the DdmDE bacterial defence system]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07515-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 13 May 2024; <a href="https://www.nature.com/articles/s41586-024-07515-9">doi:10.1038/s41586-024-07515-9</a></p>Plasmid targeting and destruction by the DdmDE bacterial defence system]]></content:encoded>
+            <dc:title><![CDATA[Plasmid targeting and destruction by the DdmDE bacterial defence system]]></dc:title>
+            <dc:creator>Jack P. K. Bravo</dc:creator><dc:creator>Delisa A. Ramos</dc:creator><dc:creator>Rodrigo Fregoso Ocampo</dc:creator><dc:creator>Caiden Ingram</dc:creator><dc:creator>David W. Taylor</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07515-9</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-13; | doi:10.1038/s41586-024-07515-9</dc:source>
+            <dc:date>2024-05-13</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07515-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07515-9</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07540-8">
+            <title><![CDATA[Publisher Correction: Ultra-compact quasi-true time delay for boosting wireless channel capacity]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07540-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 13 May 2024; <a href="https://www.nature.com/articles/s41586-024-07540-8">doi:10.1038/s41586-024-07540-8</a></p>Publisher Correction: Ultra-compact quasi-true time delay for boosting wireless channel capacity]]></content:encoded>
+            <dc:title><![CDATA[Publisher Correction: Ultra-compact quasi-true time delay for boosting wireless channel capacity]]></dc:title>
+            <dc:creator>Bala Govind</dc:creator><dc:creator>Thomas Tapen</dc:creator><dc:creator>Alyssa Apsel</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07540-8</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-13; | doi:10.1038/s41586-024-07540-8</dc:source>
+            <dc:date>2024-05-13</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07540-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07540-8</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01373-1">
             <title><![CDATA[Why my heart beats for Nigeria’s endangered bats]]></title>
@@ -190,6 +235,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01373-1</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01373-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01432-7">
+            <title><![CDATA[Dazzling auroras are just a warm-up as more solar storms are likely, scientists say]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01432-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 13 May 2024; <a href="https://www.nature.com/articles/d41586-024-01432-7">doi:10.1038/d41586-024-01432-7</a></p>Nature talks to physicists about what to expect in the next months and beyond as the Sun hits its 'maximum'.]]></content:encoded>
+            <dc:title><![CDATA[Dazzling auroras are just a warm-up as more solar storms are likely, scientists say]]></dc:title>
+            <dc:creator>Alexandra Witze</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01432-7</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-13; | doi:10.1038/d41586-024-01432-7</dc:source>
+            <dc:date>2024-05-13</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01432-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01432-7</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01409-6">
@@ -220,6 +280,36 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01346-4</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01346-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01424-7">
+            <title><![CDATA[Brain-reading device is best yet at decoding ‘internal speech’]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01424-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 13 May 2024; <a href="https://www.nature.com/articles/d41586-024-01424-7">doi:10.1038/d41586-024-01424-7</a></p>Technology that enables researchers to interpret brain signals could one day allow people to talk using only their thoughts.]]></content:encoded>
+            <dc:title><![CDATA[Brain-reading device is best yet at decoding ‘internal speech’]]></dc:title>
+            <dc:creator>Miryam Naddaf</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01424-7</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-13; | doi:10.1038/d41586-024-01424-7</dc:source>
+            <dc:date>2024-05-13</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01424-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01424-7</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01403-y">
+            <title><![CDATA[Human embryos embrace asymmetry to form the body]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01403-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 13 May 2024; <a href="https://www.nature.com/articles/d41586-024-01403-y">doi:10.1038/d41586-024-01403-y</a></p>The cells generated by the very first division of the fertilized egg make a lopsided contribution to the body’s organs and tissues.]]></content:encoded>
+            <dc:title><![CDATA[Human embryos embrace asymmetry to form the body]]></dc:title>
+            <dc:creator>Sara Reardon</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01403-y</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-13; | doi:10.1038/d41586-024-01403-y</dc:source>
+            <dc:date>2024-05-13</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01403-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01403-y</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01410-z">
@@ -265,6 +355,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-00449-2</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-00449-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01418-5">
+            <title><![CDATA[Daily briefing: A millimetre of brain in spectacular detail]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01418-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 10 May 2024; <a href="https://www.nature.com/articles/d41586-024-01418-5">doi:10.1038/d41586-024-01418-5</a></p>Google scientists have modelled a tiny fragment of the human brain at nanoscale resolution. Plus, a bold proposal to limit extreme wealth.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: A millimetre of brain in spectacular detail]]></dc:title>
+            <dc:creator>Katrina Krämer</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01418-5</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-10; | doi:10.1038/d41586-024-01418-5</dc:source>
+            <dc:date>2024-05-10</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01418-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01418-5</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01414-9">
@@ -1195,111 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01220-3</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01220-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01339-3">
-            <title><![CDATA[Beware of graphene’s huge and hidden environmental costs]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01339-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 07 May 2024; <a href="https://www.nature.com/articles/d41586-024-01339-3">doi:10.1038/d41586-024-01339-3</a></p>Beware of graphene’s huge and hidden environmental costs]]></content:encoded>
-            <dc:title><![CDATA[Beware of graphene’s huge and hidden environmental costs]]></dc:title>
-            <dc:creator>Shijie Guo</dc:creator><dc:creator>Zihan Cai</dc:creator><dc:creator>Yanchao Yang</dc:creator><dc:creator>Qingyuan Ding</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01339-3</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-07; | doi:10.1038/d41586-024-01339-3</dc:source>
-            <dc:date>2024-05-07</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01339-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01339-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01287-y">
-            <title><![CDATA[Old electric-vehicle batteries can find new purpose — on the grid]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01287-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 07 May 2024; <a href="https://www.nature.com/articles/d41586-024-01287-y">doi:10.1038/d41586-024-01287-y</a></p>An algorithm can monitor the health of retired vehicle batteries used to store surplus power fed into the electrical grid.]]></content:encoded>
-            <dc:title><![CDATA[Old electric-vehicle batteries can find new purpose — on the grid]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-01287-y</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-07; | doi:10.1038/d41586-024-01287-y</dc:source>
-            <dc:date>2024-05-07</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01287-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01287-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01341-9">
-            <title><![CDATA[Countering extreme wildfires with prescribed burning can be counterproductive]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01341-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 07 May 2024; <a href="https://www.nature.com/articles/d41586-024-01341-9">doi:10.1038/d41586-024-01341-9</a></p>Countering extreme wildfires with prescribed burning can be counterproductive]]></content:encoded>
-            <dc:title><![CDATA[Countering extreme wildfires with prescribed burning can be counterproductive]]></dc:title>
-            <dc:creator>David Lindenmayer</dc:creator><dc:creator>Philip Zylstra</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01341-9</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-07; | doi:10.1038/d41586-024-01341-9</dc:source>
-            <dc:date>2024-05-07</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01341-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01341-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01274-3">
-            <title><![CDATA[Hacking the immune system could slow ageing — here’s how]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01274-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 07 May 2024; <a href="https://www.nature.com/articles/d41586-024-01274-3">doi:10.1038/d41586-024-01274-3</a></p>Our immune system falters over time, which could explain the negative effects of ageing.]]></content:encoded>
-            <dc:title><![CDATA[Hacking the immune system could slow ageing — here’s how]]></dc:title>
-            <dc:creator>Alison Abbott</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01274-3</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-07; | doi:10.1038/d41586-024-01274-3</dc:source>
-            <dc:date>2024-05-07</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01274-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01274-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01380-2">
-            <title><![CDATA[Daily briefing: Grad students are going hungry on campus]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01380-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 07 May 2024; <a href="https://www.nature.com/articles/d41586-024-01380-2">doi:10.1038/d41586-024-01380-2</a></p>Food insecurity is ‘off the scales’ in universities, say researchers. Plus, the mission to grab rocks from the far side of the Moon has launched and the letter that jump-started Alzheimer’s research.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: Grad students are going hungry on campus]]></dc:title>
-            <dc:creator>Flora Graham</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01380-2</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-07; | doi:10.1038/d41586-024-01380-2</dc:source>
-            <dc:date>2024-05-07</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01380-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01380-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01324-w">
-            <title><![CDATA[Expat grants won’t fix Brazilian research]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01324-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 07 May 2024; <a href="https://www.nature.com/articles/d41586-024-01324-w">doi:10.1038/d41586-024-01324-w</a></p>Permanent jobs and fairer hiring practices would encourage overseas scientists to return.]]></content:encoded>
-            <dc:title><![CDATA[Expat grants won’t fix Brazilian research]]></dc:title>
-            <dc:creator>Juliano Morimoto</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01324-w</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-07; | doi:10.1038/d41586-024-01324-w</dc:source>
-            <dc:date>2024-05-07</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01324-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01324-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01377-x">
-            <title><![CDATA[US funders to tighten oversight of controversial ‘gain of function’ research]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01377-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 07 May 2024; <a href="https://www.nature.com/articles/d41586-024-01377-x">doi:10.1038/d41586-024-01377-x</a></p>New policy on high-risk biology studies aims to address criticism that previous rules were too vague.]]></content:encoded>
-            <dc:title><![CDATA[US funders to tighten oversight of controversial ‘gain of function’ research]]></dc:title>
-            <dc:creator>Max Kozlov</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01377-x</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-07; | doi:10.1038/d41586-024-01377-x</dc:source>
-            <dc:date>2024-05-07</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01377-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01377-x</prism:url>
         </item>
     
 </rdf:RDF>
