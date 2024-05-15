@@ -18,6 +18,14 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01437-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01411-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01372-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01370-4"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07544-4"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07512-y"/>
@@ -41,6 +49,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01338-4"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01371-3"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01447-0"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01412-x"/>
                 
@@ -158,16 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07345-9"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01295-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01170-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01210-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01333-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01296-x"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,66 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01437-2">
+            <title><![CDATA[I’m worried I’ve been contacted by a predatory publisher — how do I find out?]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01437-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 15 May 2024; <a href="https://www.nature.com/articles/d41586-024-01437-2">doi:10.1038/d41586-024-01437-2</a></p>Researchers frequently receive invitations to publish in journals that they might not have heard of. Nature asked two scientists how they would check whether a publication is legitimate.]]></content:encoded>
+            <dc:title><![CDATA[I’m worried I’ve been contacted by a predatory publisher — how do I find out?]]></dc:title>
+            <dc:creator>Nikki Forrester</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01437-2</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-15; | doi:10.1038/d41586-024-01437-2</dc:source>
+            <dc:date>2024-05-15</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01437-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01437-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01411-y">
+            <title><![CDATA[Forestry social science is failing the needs of the people who need it most]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01411-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 15 May 2024; <a href="https://www.nature.com/articles/d41586-024-01411-y">doi:10.1038/d41586-024-01411-y</a></p>Rich nations’ fixation on forests as climate offsets has resulted in the needs of those who live in or make a living from these resources being ignored. A broader view and more collaboration between disciplines is required.]]></content:encoded>
+            <dc:title><![CDATA[Forestry social science is failing the needs of the people who need it most]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-01411-y</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-15; | doi:10.1038/d41586-024-01411-y</dc:source>
+            <dc:date>2024-05-15</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01411-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01411-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01372-2">
+            <title><![CDATA[Neglecting sex and gender in research is a public-health risk]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01372-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 15 May 2024; <a href="https://www.nature.com/articles/d41586-024-01372-2">doi:10.1038/d41586-024-01372-2</a></p>The data are clear: taking sex and gender into account in research and using that knowledge to change health care could benefit billions of people.]]></content:encoded>
+            <dc:title><![CDATA[Neglecting sex and gender in research is a public-health risk]]></dc:title>
+            <dc:creator>Sue Haupt</dc:creator><dc:creator>Cheryl Carcel</dc:creator><dc:creator>Robyn Norton</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01372-2</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-15; | doi:10.1038/d41586-024-01372-2</dc:source>
+            <dc:date>2024-05-15</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01372-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01372-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01370-4">
+            <title><![CDATA[How to kill the ‘zombie’ cells that make you age]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01370-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 15 May 2024; <a href="https://www.nature.com/articles/d41586-024-01370-4">doi:10.1038/d41586-024-01370-4</a></p>Researchers are using new molecules, engineered immune cells and gene therapy to kill senescent cells and treat age-related diseases.]]></content:encoded>
+            <dc:title><![CDATA[How to kill the ‘zombie’ cells that make you age]]></dc:title>
+            <dc:creator>Carissa Wong</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01370-4</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-15; | doi:10.1038/d41586-024-01370-4</dc:source>
+            <dc:date>2024-05-15</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01370-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01370-4</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07544-4">
             <title><![CDATA[Author Correction: Magneto-optics in a van der Waals magnet tuned by self-hybridized polaritons]]></title>
@@ -355,6 +415,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01371-3</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01371-3</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01447-0">
+            <title><![CDATA[AI &amp; robotics briefing: Why AI needs to see the ‘ugly’ side of science]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01447-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 14 May 2024; <a href="https://www.nature.com/articles/d41586-024-01447-0">doi:10.1038/d41586-024-01447-0</a></p>The absence of negative results in the scientific literature is affecting AI tools trained on published data. Plus, why animals still outrun robots and AlphaFold gets major upgrade.]]></content:encoded>
+            <dc:title><![CDATA[AI &amp; robotics briefing: Why AI needs to see the ‘ugly’ side of science]]></dc:title>
+            <dc:creator>Katrina Krämer</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01447-0</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-14; | doi:10.1038/d41586-024-01447-0</dc:source>
+            <dc:date>2024-05-14</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01447-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01447-0</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01412-x">
@@ -1225,81 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/s41586-024-07345-9</prism:doi>
             <prism:url>https://www.nature.com/articles/s41586-024-07345-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01295-y">
-            <title><![CDATA[‘Ghost roads’ could be the biggest direct threat to tropical forests]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01295-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 08 May 2024; <a href="https://www.nature.com/articles/d41586-024-01295-y">doi:10.1038/d41586-024-01295-y</a></p>By using volunteers to map roads in forests across Borneo, Sumatra and New Guinea, an innovative study shows that existing maps of the Asia-Pacific region are rife with errors. It also reveals that unmapped roads are extremely common — up to seven times more abundant than mapped ones. Such ‘ghost roads’ are promoting illegal logging, mining, wildlife poaching and deforestation in some of the world’s biologically richest ecosystems.]]></content:encoded>
-            <dc:title><![CDATA[‘Ghost roads’ could be the biggest direct threat to tropical forests]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-01295-y</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-08; | doi:10.1038/d41586-024-01295-y</dc:source>
-            <dc:date>2024-05-08</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01295-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01295-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01170-w">
-            <title><![CDATA[Vibration isolation could boost performance of near-infrared organic LEDs]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01170-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 08 May 2024; <a href="https://www.nature.com/articles/d41586-024-01170-w">doi:10.1038/d41586-024-01170-w</a></p>The development of high-performance organic LEDs and other devices that emit near-infrared light has been hindered by seemingly fundamental features of the light-emitting molecules. A potential solution has been identified.]]></content:encoded>
-            <dc:title><![CDATA[Vibration isolation could boost performance of near-infrared organic LEDs]]></dc:title>
-            <dc:creator>Margherita Maiuri</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01170-w</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-08; | doi:10.1038/d41586-024-01170-w</dc:source>
-            <dc:date>2024-05-08</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01170-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01170-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01210-5">
-            <title><![CDATA[Vaccine-enhancing plant extract could be mass produced in yeast]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01210-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 08 May 2024; <a href="https://www.nature.com/articles/d41586-024-01210-5">doi:10.1038/d41586-024-01210-5</a></p>The Chilean soapbark tree is the source of QS-21 — a valuable but hard-to-obtain vaccine additive. Yeast strains engineered to express all components of the QS-21 biosynthetic pathway provide an alternative route to this therapeutic.]]></content:encoded>
-            <dc:title><![CDATA[Vaccine-enhancing plant extract could be mass produced in yeast]]></dc:title>
-            <dc:creator>Ryan Nett</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01210-5</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-08; | doi:10.1038/d41586-024-01210-5</dc:source>
-            <dc:date>2024-05-08</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01210-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01210-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01333-9">
-            <title><![CDATA[Bird flu in US cows: where will it end?]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01333-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 08 May 2024; <a href="https://www.nature.com/articles/d41586-024-01333-9">doi:10.1038/d41586-024-01333-9</a></p>Scientists worry that the H5N1 strain of avian influenza will become endemic in cattle, which would aid its spread in people.]]></content:encoded>
-            <dc:title><![CDATA[Bird flu in US cows: where will it end?]]></dc:title>
-            <dc:creator>Sara Reardon</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01333-9</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-08; | doi:10.1038/d41586-024-01333-9</dc:source>
-            <dc:date>2024-05-08</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01333-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01333-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01296-x">
-            <title><![CDATA[Toad psychedelic points to biological target for antidepressants]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01296-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 08 May 2024; <a href="https://www.nature.com/articles/d41586-024-01296-x">doi:10.1038/d41586-024-01296-x</a></p>A hallucinogenic compound secreted by toads has served as a springboard for research into the therapeutic benefits of psychedelics. The findings suggest that these compounds exert antidepressant effects in part by binding an under-appreciated target in the brain.]]></content:encoded>
-            <dc:title><![CDATA[Toad psychedelic points to biological target for antidepressants]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-01296-x</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-08; | doi:10.1038/d41586-024-01296-x</dc:source>
-            <dc:date>2024-05-08</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01296-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01296-x</prism:url>
         </item>
     
 </rdf:RDF>
