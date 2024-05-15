@@ -18,11 +18,19 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07544-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07512-y"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01422-9"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01420-x"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01395-9"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01419-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01367-z"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01421-w"/>
                 
@@ -34,6 +42,8 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01371-3"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01412-x"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00458-1"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07468-z"/>
@@ -43,6 +53,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07540-8"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01373-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01434-5"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01432-7"/>
                 
@@ -156,18 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01296-x"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01355-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01383-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01374-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01282-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01294-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01353-5"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,36 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07544-4">
+            <title><![CDATA[Author Correction: Magneto-optics in a van der Waals magnet tuned by self-hybridized polaritons]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07544-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 14 May 2024; <a href="https://www.nature.com/articles/s41586-024-07544-4">doi:10.1038/s41586-024-07544-4</a></p>Author Correction: Magneto-optics in a van der Waals magnet tuned by self-hybridized polaritons]]></content:encoded>
+            <dc:title><![CDATA[Author Correction: Magneto-optics in a van der Waals magnet tuned by self-hybridized polaritons]]></dc:title>
+            <dc:creator>Florian Dirnberger</dc:creator><dc:creator>Jiamin Quan</dc:creator><dc:creator>Rezlind Bushati</dc:creator><dc:creator>Geoffrey M. Diederich</dc:creator><dc:creator>Matthias Florian</dc:creator><dc:creator>Julian Klein</dc:creator><dc:creator>Kseniia Mosina</dc:creator><dc:creator>Zdenek Sofer</dc:creator><dc:creator>Xiaodong Xu</dc:creator><dc:creator>Akashdeep Kamra</dc:creator><dc:creator>Francisco J. García-Vidal</dc:creator><dc:creator>Andrea Alù</dc:creator><dc:creator>Vinod M. Menon</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07544-4</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-14; | doi:10.1038/s41586-024-07544-4</dc:source>
+            <dc:date>2024-05-14</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07544-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07544-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07512-y">
+            <title><![CDATA[2023 summer warmth unparalleled over the past 2,000 years]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07512-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 14 May 2024; <a href="https://www.nature.com/articles/s41586-024-07512-y">doi:10.1038/s41586-024-07512-y</a></p>2023 summer warmth unparalleled over the past 2,000 years]]></content:encoded>
+            <dc:title><![CDATA[2023 summer warmth unparalleled over the past 2,000 years]]></dc:title>
+            <dc:creator>Jan Esper</dc:creator><dc:creator>Max Torbenson</dc:creator><dc:creator>Ulf Büntgen</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07512-y</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-14; | doi:10.1038/s41586-024-07512-y</dc:source>
+            <dc:date>2024-05-14</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07512-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07512-y</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01422-9">
             <title><![CDATA[Real-world plastic-waste success stories can help to boost global treaty]]></title>
@@ -207,6 +237,21 @@
             <prism:url>https://www.nature.com/articles/d41586-024-01420-x</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01395-9">
+            <title><![CDATA[Africa’s lush tropical forests face a surprising threat: fire]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01395-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 14 May 2024; <a href="https://www.nature.com/articles/d41586-024-01395-9">doi:10.1038/d41586-024-01395-9</a></p>Climate change and deforestation have increased the frequency of blazes in the humid forests of West and Central Africa.]]></content:encoded>
+            <dc:title><![CDATA[Africa’s lush tropical forests face a surprising threat: fire]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-01395-9</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-14; | doi:10.1038/d41586-024-01395-9</dc:source>
+            <dc:date>2024-05-14</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01395-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01395-9</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-024-01419-4">
             <title><![CDATA[Inequality is bad — but that doesn’t mean the rich are]]></title>
             <link>https://www.nature.com/articles/d41586-024-01419-4</link>
@@ -220,6 +265,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01419-4</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01419-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01367-z">
+            <title><![CDATA[Balls of lightning and flames from the sky: can science explain?]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01367-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 14 May 2024; <a href="https://www.nature.com/articles/d41586-024-01367-z">doi:10.1038/d41586-024-01367-z</a></p>A book cataloguing mysterious events challenges scientists to provide some answers, and Charles Darwin continues his investigations of crimes against primroses, in the weekly dip into Nature’s archive.]]></content:encoded>
+            <dc:title><![CDATA[Balls of lightning and flames from the sky: can science explain?]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-01367-z</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-14; | doi:10.1038/d41586-024-01367-z</dc:source>
+            <dc:date>2024-05-14</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01367-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01367-z</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01421-w">
@@ -297,6 +357,21 @@
             <prism:url>https://www.nature.com/articles/d41586-024-01371-3</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01412-x">
+            <title><![CDATA[A DARPA-like agency could boost EU innovation — but cannot come at the expense of existing schemes]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01412-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 14 May 2024; <a href="https://www.nature.com/articles/d41586-024-01412-x">doi:10.1038/d41586-024-01412-x</a></p>If Europe wants to create a high-risk, high-reward research body, it needs grass-roots backing.]]></content:encoded>
+            <dc:title><![CDATA[A DARPA-like agency could boost EU innovation — but cannot come at the expense of existing schemes]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-01412-x</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-14; | doi:10.1038/d41586-024-01412-x</dc:source>
+            <dc:date>2024-05-14</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01412-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01412-x</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-024-00458-1">
             <title><![CDATA[Mega study charts how genetic variants affect metabolism]]></title>
             <link>https://www.nature.com/articles/d41586-024-00458-1</link>
@@ -372,11 +447,26 @@
             <prism:url>https://www.nature.com/articles/d41586-024-01373-1</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01434-5">
+            <title><![CDATA[Daily briefing: Internet use seems to boost well-being]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01434-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 13 May 2024; <a href="https://www.nature.com/articles/d41586-024-01434-5">doi:10.1038/d41586-024-01434-5</a></p>A survey of people in 168 countries finds that Internet use might boost life satisfaction and sense of purpose. Plus, what a Neanderthal’s Mona-Lisa smile tells us about ourselves and how the cauliflower got its whorls.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Internet use seems to boost well-being]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01434-5</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-13; | doi:10.1038/d41586-024-01434-5</dc:source>
+            <dc:date>2024-05-13</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01434-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01434-5</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-024-01432-7">
             <title><![CDATA[Dazzling auroras are just a warm-up as more solar storms are likely, scientists say]]></title>
             <link>https://www.nature.com/articles/d41586-024-01432-7</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 May 2024; <a href="https://www.nature.com/articles/d41586-024-01432-7">doi:10.1038/d41586-024-01432-7</a></p>Nature talks to physicists about what to expect in the next months and beyond as the Sun hits its 'maximum'.]]></content:encoded>
+                <![CDATA[<p>Nature, Published online: 13 May 2024; <a href="https://www.nature.com/articles/d41586-024-01432-7">doi:10.1038/d41586-024-01432-7</a></p>Nature talks to physicists about what to expect in the next few months and beyond as the Sun hits its ‘maximum’.]]></content:encoded>
             <dc:title><![CDATA[Dazzling auroras are just a warm-up as more solar storms are likely, scientists say]]></dc:title>
             <dc:creator>Alexandra Witze</dc:creator>
             <dc:identifier>doi:10.1038/d41586-024-01432-7</dc:identifier>
@@ -1210,96 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01296-x</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01296-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01355-3">
-            <title><![CDATA[Dozens of Brazilian universities hit by strikes over academic wages]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01355-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 08 May 2024; <a href="https://www.nature.com/articles/d41586-024-01355-3">doi:10.1038/d41586-024-01355-3</a></p>Some professors and staff members have been on strike for as long as four weeks as they seek better conditions at their institutions.]]></content:encoded>
-            <dc:title><![CDATA[Dozens of Brazilian universities hit by strikes over academic wages]]></dc:title>
-            <dc:creator>Jeff Tollefson</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01355-3</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-08; | doi:10.1038/d41586-024-01355-3</dc:source>
-            <dc:date>2024-05-08</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01355-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01355-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01383-z">
-            <title><![CDATA[Major AlphaFold upgrade offers boost for drug discovery]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01383-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 08 May 2024; <a href="https://www.nature.com/articles/d41586-024-01383-z">doi:10.1038/d41586-024-01383-z</a></p>Latest version of the AI models how proteins interact with other molecules — but DeepMind restricts access to the tool.]]></content:encoded>
-            <dc:title><![CDATA[Major AlphaFold upgrade offers boost for drug discovery]]></dc:title>
-            <dc:creator>Ewen Callaway</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01383-z</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-08; | doi:10.1038/d41586-024-01383-z</dc:source>
-            <dc:date>2024-05-08</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01383-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01383-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01374-0">
-            <title><![CDATA[How I fled bombed Aleppo to continue my career in science]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01374-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 08 May 2024; <a href="https://www.nature.com/articles/d41586-024-01374-0">doi:10.1038/d41586-024-01374-0</a></p>Aref Kyyaly’s quest to find a safe place, away from Syria, to do research taught him perseverance. Don’t give up, is his advice.]]></content:encoded>
-            <dc:title><![CDATA[How I fled bombed Aleppo to continue my career in science]]></dc:title>
-            <dc:creator>Benjamin Plackett</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01374-0</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-08; | doi:10.1038/d41586-024-01374-0</dc:source>
-            <dc:date>2024-05-08</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01374-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01374-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01282-3">
-            <title><![CDATA[Tashni’s first tunnel]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01282-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 08 May 2024; <a href="https://www.nature.com/articles/d41586-024-01282-3">doi:10.1038/d41586-024-01282-3</a></p>Digging deep.]]></content:encoded>
-            <dc:title><![CDATA[Tashni’s first tunnel]]></dc:title>
-            <dc:creator>Robert Blasiak</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01282-3</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-08; | doi:10.1038/d41586-024-01282-3</dc:source>
-            <dc:date>2024-05-08</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01282-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01282-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01294-z">
-            <title><![CDATA[Quantum tunnelling of electrons brings ultrafast optical microscopy to the atomic scale]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01294-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 08 May 2024; <a href="https://www.nature.com/articles/d41586-024-01294-z">doi:10.1038/d41586-024-01294-z</a></p>The oscillating electromagnetic fields that carry light can cause electrons to tunnel back and forth through a potential energy barrier. Remarkably, this alternating current can coherently emit measurable light waves — an unexpected process that can be exploited to build an optical microscope that undercuts existing spatial and temporal limitations.]]></content:encoded>
-            <dc:title><![CDATA[Quantum tunnelling of electrons brings ultrafast optical microscopy to the atomic scale]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-01294-z</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-08; | doi:10.1038/d41586-024-01294-z</dc:source>
-            <dc:date>2024-05-08</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01294-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01294-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01353-5">
-            <title><![CDATA[Best ever clocks: breakthrough paves way for ultra-precise ‘nuclear’ timekeepers]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01353-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 08 May 2024; <a href="https://www.nature.com/articles/d41586-024-01353-5">doi:10.1038/d41586-024-01353-5</a></p>A clock based on energy shifts in atomic nuclei could transform fundamental-physics research.]]></content:encoded>
-            <dc:title><![CDATA[Best ever clocks: breakthrough paves way for ultra-precise ‘nuclear’ timekeepers]]></dc:title>
-            <dc:creator>Elizabeth Gibney</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01353-5</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-08; | doi:10.1038/d41586-024-01353-5</dc:source>
-            <dc:date>2024-05-08</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01353-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01353-5</prism:url>
         </item>
     
 </rdf:RDF>
