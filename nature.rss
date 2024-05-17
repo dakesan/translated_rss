@@ -18,6 +18,12 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01460-3"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01449-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01443-4"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07539-1"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07535-5"/>
@@ -162,12 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01387-9"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01388-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01386-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07508-8"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,51 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01460-3">
+            <title><![CDATA[US halts funding to controversial virus-hunting group: what researchers think]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01460-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 16 May 2024; <a href="https://www.nature.com/articles/d41586-024-01460-3">doi:10.1038/d41586-024-01460-3</a></p>Some scientists think the decision regarding EcoHealth Alliance is fair, while others say it might negatively impact virus surveillance.]]></content:encoded>
+            <dc:title><![CDATA[US halts funding to controversial virus-hunting group: what researchers think]]></dc:title>
+            <dc:creator>Mariana Lenharo</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01460-3</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-16; | doi:10.1038/d41586-024-01460-3</dc:source>
+            <dc:date>2024-05-16</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01460-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01460-3</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01449-y">
+            <title><![CDATA[Found at last: long-lost branch of the Nile that ran by the pyramids]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01449-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 16 May 2024; <a href="https://www.nature.com/articles/d41586-024-01449-y">doi:10.1038/d41586-024-01449-y</a></p>Geological survey reveals the remains of a major waterway that ancient Egyptian builders could have used to transport materials.]]></content:encoded>
+            <dc:title><![CDATA[Found at last: long-lost branch of the Nile that ran by the pyramids]]></dc:title>
+            <dc:creator>Freda Kreier</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01449-y</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-16; | doi:10.1038/d41586-024-01449-y</dc:source>
+            <dc:date>2024-05-16</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01449-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01449-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01443-4">
+            <title><![CDATA[Gut microbes linked to fatty diet drive tumour growth]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01443-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 16 May 2024; <a href="https://www.nature.com/articles/d41586-024-01443-4">doi:10.1038/d41586-024-01443-4</a></p>Scientists know there is a link between obesity and some cancers. A study in mice and people suggests why that might be.]]></content:encoded>
+            <dc:title><![CDATA[Gut microbes linked to fatty diet drive tumour growth]]></dc:title>
+            <dc:creator>Gillian Dohrn</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01443-4</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-16; | doi:10.1038/d41586-024-01443-4</dc:source>
+            <dc:date>2024-05-16</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01443-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01443-4</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07539-1">
             <title><![CDATA[Imprinting of serum neutralizing antibodies by Wuhan-1 mRNA vaccines]]></title>
@@ -1255,51 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01387-9</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01387-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01388-8">
-            <title><![CDATA[US TikTok ban: how the looming restriction is affecting scientists on the app]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01388-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 09 May 2024; <a href="https://www.nature.com/articles/d41586-024-01388-8">doi:10.1038/d41586-024-01388-8</a></p>Nature talks to researchers about what is at stake if users in the country lose access.]]></content:encoded>
-            <dc:title><![CDATA[US TikTok ban: how the looming restriction is affecting scientists on the app]]></dc:title>
-            <dc:creator>Ariana Remmel</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01388-8</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-09; | doi:10.1038/d41586-024-01388-8</dc:source>
-            <dc:date>2024-05-09</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01388-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01388-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01386-w">
-            <title><![CDATA[How ignorance and gender inequality thwart treatment of a widespread illness]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01386-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 09 May 2024; <a href="https://www.nature.com/articles/d41586-024-01386-w">doi:10.1038/d41586-024-01386-w</a></p>Tens of millions of people have female genital schistosomiasis, a neglected tropical disease that few physicians have even heard of. Efforts are under way to move it out of obscurity and empower women and girls to access sexual and reproductive health care.]]></content:encoded>
-            <dc:title><![CDATA[How ignorance and gender inequality thwart treatment of a widespread illness]]></dc:title>
-            <dc:creator>Claire Ainsworth</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01386-w</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-09; | doi:10.1038/d41586-024-01386-w</dc:source>
-            <dc:date>2024-05-09</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01386-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01386-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07508-8">
-            <title><![CDATA[Structural mechanism of angiogenin activation by the ribosome]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07508-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 08 May 2024; <a href="https://www.nature.com/articles/s41586-024-07508-8">doi:10.1038/s41586-024-07508-8</a></p>Structural mechanism of angiogenin activation by the ribosome]]></content:encoded>
-            <dc:title><![CDATA[Structural mechanism of angiogenin activation by the ribosome]]></dc:title>
-            <dc:creator>Anna B. Loveland</dc:creator><dc:creator>Cha San Koh</dc:creator><dc:creator>Robin Ganesan</dc:creator><dc:creator>Allan Jacobson</dc:creator><dc:creator>Andrei A. Korostelev</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07508-8</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-08; | doi:10.1038/s41586-024-07508-8</dc:source>
-            <dc:date>2024-05-08</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07508-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07508-8</prism:url>
         </item>
     
 </rdf:RDF>
