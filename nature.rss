@@ -18,6 +18,10 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01450-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01416-7"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01460-3"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01449-y"/>
@@ -164,10 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01394-w"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01354-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01387-9"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,36 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01450-5">
+            <title><![CDATA[Recycled sewage, public health and the memory of the world: Books in brief]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01450-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 17 May 2024; <a href="https://www.nature.com/articles/d41586-024-01450-5">doi:10.1038/d41586-024-01450-5</a></p>Andrew Robinson reviews five of the best science picks.]]></content:encoded>
+            <dc:title><![CDATA[Recycled sewage, public health and the memory of the world: Books in brief]]></dc:title>
+            <dc:creator>Andrew Robinson</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01450-5</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-17; | doi:10.1038/d41586-024-01450-5</dc:source>
+            <dc:date>2024-05-17</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01450-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01450-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01416-7">
+            <title><![CDATA[Could bird flu in cows lead to a human outbreak? Slow response worries scientists]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01416-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 17 May 2024; <a href="https://www.nature.com/articles/d41586-024-01416-7">doi:10.1038/d41586-024-01416-7</a></p>The H5N1 virus is a long way from becoming adapted to humans, but limited testing and tracking mean we could miss danger signs.]]></content:encoded>
+            <dc:title><![CDATA[Could bird flu in cows lead to a human outbreak? Slow response worries scientists]]></dc:title>
+            <dc:creator>Smriti Mallapaty</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01416-7</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-17; | doi:10.1038/d41586-024-01416-7</dc:source>
+            <dc:date>2024-05-17</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01416-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01416-7</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01460-3">
             <title><![CDATA[US halts funding to controversial virus-hunting group: what researchers think]]></title>
@@ -1270,36 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01394-w</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01394-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01354-4">
-            <title><![CDATA[The US Congress is taking on AI — this computer scientist is helping]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01354-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 09 May 2024; <a href="https://www.nature.com/articles/d41586-024-01354-4">doi:10.1038/d41586-024-01354-4</a></p>Kiri Wagstaff, who temporarily shelved her academic career to provide advice on federal AI legislation, talks about life inside the halls of power.]]></content:encoded>
-            <dc:title><![CDATA[The US Congress is taking on AI — this computer scientist is helping]]></dc:title>
-            <dc:creator>Nicola Jones</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01354-4</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-09; | doi:10.1038/d41586-024-01354-4</dc:source>
-            <dc:date>2024-05-09</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01354-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01354-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01387-9">
-            <title><![CDATA[Cubic millimetre of brain mapped in spectacular detail]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01387-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 09 May 2024; <a href="https://www.nature.com/articles/d41586-024-01387-9">doi:10.1038/d41586-024-01387-9</a></p>Google scientists have modelled a fragment of the human brain at nanoscale resolution, revealing cells with previously undiscovered features.]]></content:encoded>
-            <dc:title><![CDATA[Cubic millimetre of brain mapped in spectacular detail]]></dc:title>
-            <dc:creator>Carissa Wong</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01387-9</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-09; | doi:10.1038/d41586-024-01387-9</dc:source>
-            <dc:date>2024-05-09</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01387-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01387-9</prism:url>
         </item>
     
 </rdf:RDF>
