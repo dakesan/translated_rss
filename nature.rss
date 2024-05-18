@@ -18,13 +18,29 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07565-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07494-x"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01398-6"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01396-8"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01450-5"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01453-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01364-2"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01416-7"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01478-7"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01460-3"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01449-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01473-y"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01443-4"/>
                 
@@ -77,6 +93,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07437-6"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07308-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01458-x"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01437-2"/>
                 
@@ -150,24 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01424-7"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01403-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01410-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01288-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00449-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01418-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01414-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07495-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01285-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01394-w"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,66 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07565-z">
+            <title><![CDATA[Author Correction: Quantum control of a cat qubit with bit-flip times exceeding ten seconds]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07565-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 17 May 2024; <a href="https://www.nature.com/articles/s41586-024-07565-z">doi:10.1038/s41586-024-07565-z</a></p>Author Correction: Quantum control of a cat qubit with bit-flip times exceeding ten seconds]]></content:encoded>
+            <dc:title><![CDATA[Author Correction: Quantum control of a cat qubit with bit-flip times exceeding ten seconds]]></dc:title>
+            <dc:creator>U. Réglade</dc:creator><dc:creator>A. Bocquet</dc:creator><dc:creator>R. Gautier</dc:creator><dc:creator>J. Cohen</dc:creator><dc:creator>A. Marquet</dc:creator><dc:creator>E. Albertinale</dc:creator><dc:creator>N. Pankratova</dc:creator><dc:creator>M. Hallén</dc:creator><dc:creator>F. Rautschke</dc:creator><dc:creator>L.-A. Sellem</dc:creator><dc:creator>P. Rouchon</dc:creator><dc:creator>A. Sarlette</dc:creator><dc:creator>M. Mirrahimi</dc:creator><dc:creator>P. Campagne-Ibarcq</dc:creator><dc:creator>R. Lescanne</dc:creator><dc:creator>S. Jezouin</dc:creator><dc:creator>Z. Leghtas</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07565-z</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-17; | doi:10.1038/s41586-024-07565-z</dc:source>
+            <dc:date>2024-05-17</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07565-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07565-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07494-x">
+            <title><![CDATA[Author Correction: A small and vigorous black hole in the early Universe]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07494-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 17 May 2024; <a href="https://www.nature.com/articles/s41586-024-07494-x">doi:10.1038/s41586-024-07494-x</a></p>Author Correction: A small and vigorous black hole in the early Universe]]></content:encoded>
+            <dc:title><![CDATA[Author Correction: A small and vigorous black hole in the early Universe]]></dc:title>
+            <dc:creator>Roberto Maiolino</dc:creator><dc:creator>Jan Scholtz</dc:creator><dc:creator>Joris Witstok</dc:creator><dc:creator>Stefano Carniani</dc:creator><dc:creator>Francesco D’Eugenio</dc:creator><dc:creator>Anna de Graaff</dc:creator><dc:creator>Hannah Übler</dc:creator><dc:creator>Sandro Tacchella</dc:creator><dc:creator>Emma Curtis-Lake</dc:creator><dc:creator>Santiago Arribas</dc:creator><dc:creator>Andrew Bunker</dc:creator><dc:creator>Stéphane Charlot</dc:creator><dc:creator>Jacopo Chevallard</dc:creator><dc:creator>Mirko Curti</dc:creator><dc:creator>Tobias J. Looser</dc:creator><dc:creator>Michael V. Maseda</dc:creator><dc:creator>Timothy D. Rawle</dc:creator><dc:creator>Bruno Rodríguez del Pino</dc:creator><dc:creator>Chris J. Willott</dc:creator><dc:creator>Eiichi Egami</dc:creator><dc:creator>Daniel J. Eisenstein</dc:creator><dc:creator>Kevin N. Hainline</dc:creator><dc:creator>Brant Robertson</dc:creator><dc:creator>Christina C. Williams</dc:creator><dc:creator>Christopher N. A. Willmer</dc:creator><dc:creator>William M. Baker</dc:creator><dc:creator>Kristan Boyett</dc:creator><dc:creator>Christa DeCoursey</dc:creator><dc:creator>Andrew C. Fabian</dc:creator><dc:creator>Jakob M. Helton</dc:creator><dc:creator>Zhiyuan Ji</dc:creator><dc:creator>Gareth C. Jones</dc:creator><dc:creator>Nimisha Kumari</dc:creator><dc:creator>Nicolas Laporte</dc:creator><dc:creator>Erica J. Nelson</dc:creator><dc:creator>Michele Perna</dc:creator><dc:creator>Lester Sandles</dc:creator><dc:creator>Irene Shivaei</dc:creator><dc:creator>Fengwu Sun</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07494-x</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-17; | doi:10.1038/s41586-024-07494-x</dc:source>
+            <dc:date>2024-05-17</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07494-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07494-x</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01398-6">
+            <title><![CDATA[How cheesemaking could cook up an antidote for alcohol excess]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01398-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 17 May 2024; <a href="https://www.nature.com/articles/d41586-024-01398-6">doi:10.1038/d41586-024-01398-6</a></p>A gel made from a milk protein reduces alcohol levels in the blood of intoxicated mice.]]></content:encoded>
+            <dc:title><![CDATA[How cheesemaking could cook up an antidote for alcohol excess]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-01398-6</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-17; | doi:10.1038/d41586-024-01398-6</dc:source>
+            <dc:date>2024-05-17</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01398-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01398-6</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01396-8">
+            <title><![CDATA[Reading between the lines: application essays predict university success]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01396-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 17 May 2024; <a href="https://www.nature.com/articles/d41586-024-01396-8">doi:10.1038/d41586-024-01396-8</a></p>Applicants whose essays had broader ‘semantic content’ tended to achieve higher marks.]]></content:encoded>
+            <dc:title><![CDATA[Reading between the lines: application essays predict university success]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-01396-8</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-17; | doi:10.1038/d41586-024-01396-8</dc:source>
+            <dc:date>2024-05-17</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01396-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01396-8</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01450-5">
             <title><![CDATA[Recycled sewage, public health and the memory of the world: Books in brief]]></title>
@@ -190,6 +250,36 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01450-5</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01450-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01453-2">
+            <title><![CDATA[Pig-organ transplants: what three human recipients have taught scientists]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01453-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 17 May 2024; <a href="https://www.nature.com/articles/d41586-024-01453-2">doi:10.1038/d41586-024-01453-2</a></p>As researchers mark the loss of the first living recipient of a pig kidney, they share what they’ve learnt about xenotransplantation.]]></content:encoded>
+            <dc:title><![CDATA[Pig-organ transplants: what three human recipients have taught scientists]]></dc:title>
+            <dc:creator>Max Kozlov</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01453-2</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-17; | doi:10.1038/d41586-024-01453-2</dc:source>
+            <dc:date>2024-05-17</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01453-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01453-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01364-2">
+            <title><![CDATA[mRNA therapy is safe for treating the inherited metabolic condition propionic acidaemia]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01364-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 17 May 2024; <a href="https://www.nature.com/articles/d41586-024-01364-2">doi:10.1038/d41586-024-01364-2</a></p>Propionic acidaemia is an inheirited metabolic condition caused by a lack of a liver enzyme, which leads to accumulation of toxic compounds. In a first-in-human trial, a therapeutic messenger RNA drug (mRNA-3927) led to restored enzyme activity, was well tolerated and showed a promising dose-dependent reduction of potentially life-threatening clinical events.]]></content:encoded>
+            <dc:title><![CDATA[mRNA therapy is safe for treating the inherited metabolic condition propionic acidaemia]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-01364-2</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-17; | doi:10.1038/d41586-024-01364-2</dc:source>
+            <dc:date>2024-05-17</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01364-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01364-2</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01416-7">
@@ -207,11 +297,26 @@
             <prism:url>https://www.nature.com/articles/d41586-024-01416-7</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01478-7">
+            <title><![CDATA[Daniel Dennett obituary: ‘New atheism’ philosopher who sparked debate on consciousness]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01478-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 17 May 2024; <a href="https://www.nature.com/articles/d41586-024-01478-7">doi:10.1038/d41586-024-01478-7</a></p>Cognitive scientist who boldly explored free will, the human mind and AI, and rejected the existence of God.]]></content:encoded>
+            <dc:title><![CDATA[Daniel Dennett obituary: ‘New atheism’ philosopher who sparked debate on consciousness]]></dc:title>
+            <dc:creator>Liad  Mudrik</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01478-7</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-17; | doi:10.1038/d41586-024-01478-7</dc:source>
+            <dc:date>2024-05-17</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01478-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01478-7</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-024-01460-3">
             <title><![CDATA[US halts funding to controversial virus-hunting group: what researchers think]]></title>
             <link>https://www.nature.com/articles/d41586-024-01460-3</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 16 May 2024; <a href="https://www.nature.com/articles/d41586-024-01460-3">doi:10.1038/d41586-024-01460-3</a></p>Some scientists think the decision regarding EcoHealth Alliance is fair, while others say it might negatively impact virus surveillance.]]></content:encoded>
+                <![CDATA[<p>Nature, Published online: 16 May 2024; <a href="https://www.nature.com/articles/d41586-024-01460-3">doi:10.1038/d41586-024-01460-3</a></p>Some scientists think the decision regarding EcoHealth Alliance is fair; others say it might negatively affect virus surveillance.]]></content:encoded>
             <dc:title><![CDATA[US halts funding to controversial virus-hunting group: what researchers think]]></dc:title>
             <dc:creator>Mariana Lenharo</dc:creator>
             <dc:identifier>doi:10.1038/d41586-024-01460-3</dc:identifier>
@@ -235,6 +340,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01449-y</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01449-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01473-y">
+            <title><![CDATA[Daily briefing: ‘Quantum internet’ demonstrated in three cities]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01473-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 16 May 2024; <a href="https://www.nature.com/articles/d41586-024-01473-y">doi:10.1038/d41586-024-01473-y</a></p>Three research teams each created quantum-entangled states over several kilometres of existing optical fibres in real urban areas. Plus, lizard-inspired buildings could save lives and linguists are re-examining the idea that people are shaped by their native language.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: ‘Quantum internet’ demonstrated in three cities]]></dc:title>
+            <dc:creator>Katrina Krämer</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01473-y</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-16; | doi:10.1038/d41586-024-01473-y</dc:source>
+            <dc:date>2024-05-16</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01473-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01473-y</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01443-4">
@@ -625,6 +745,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/s41586-024-07308-0</prism:doi>
             <prism:url>https://www.nature.com/articles/s41586-024-07308-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01458-x">
+            <title><![CDATA[Daily briefing: How AI could help mathematicians achieve ‘moments of divine inspiration’]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01458-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 15 May 2024; <a href="https://www.nature.com/articles/d41586-024-01458-x">doi:10.1038/d41586-024-01458-x</a></p>Mathematical conjectures could be the ideal testing ground for AI-assisted discovery. Plus, why humans are so good at running and how to kill ‘zombie’ cells that make us age.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: How AI could help mathematicians achieve ‘moments of divine inspiration’]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01458-x</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-15; | doi:10.1038/d41586-024-01458-x</dc:source>
+            <dc:date>2024-05-15</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01458-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01458-x</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01437-2">
@@ -1165,141 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01424-7</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01424-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01403-y">
-            <title><![CDATA[Human embryos embrace asymmetry to form the body]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01403-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 May 2024; <a href="https://www.nature.com/articles/d41586-024-01403-y">doi:10.1038/d41586-024-01403-y</a></p>The cells generated by the very first division of the fertilized egg make a lopsided contribution to the body’s organs and tissues.]]></content:encoded>
-            <dc:title><![CDATA[Human embryos embrace asymmetry to form the body]]></dc:title>
-            <dc:creator>Sara Reardon</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01403-y</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-13; | doi:10.1038/d41586-024-01403-y</dc:source>
-            <dc:date>2024-05-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01403-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01403-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01410-z">
-            <title><![CDATA[Is the Internet bad for you? Huge study reveals surprise effect on well-being]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01410-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 12 May 2024; <a href="https://www.nature.com/articles/d41586-024-01410-z">doi:10.1038/d41586-024-01410-z</a></p>A survey of more than 2.4 million people finds that being online can have a positive effect on welfare.]]></content:encoded>
-            <dc:title><![CDATA[Is the Internet bad for you? Huge study reveals surprise effect on well-being]]></dc:title>
-            <dc:creator>Carissa Wong</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01410-z</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-12; | doi:10.1038/d41586-024-01410-z</dc:source>
-            <dc:date>2024-05-12</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01410-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01410-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01288-x">
-            <title><![CDATA[These parrots go on killing sprees over real-estate shortages]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01288-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 10 May 2024; <a href="https://www.nature.com/articles/d41586-024-01288-x">doi:10.1038/d41586-024-01288-x</a></p>Scientists recorded green-rumped parrotlets pecking others’ chicks to death, probably to claim the nest space.]]></content:encoded>
-            <dc:title><![CDATA[These parrots go on killing sprees over real-estate shortages]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-01288-x</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-10; | doi:10.1038/d41586-024-01288-x</dc:source>
-            <dc:date>2024-05-10</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01288-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01288-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00449-2">
-            <title><![CDATA[A jawless-fish genome untangles the history of vertebrate genome multiplications]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00449-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 10 May 2024; <a href="https://www.nature.com/articles/d41586-024-00449-2">doi:10.1038/d41586-024-00449-2</a></p>Clarifying how genome duplication and triplication events shaped early vertebrate genomes has presented a challenge in evolutionary biology. The genome of the jawless hagfish provides a missing piece of this puzzle.]]></content:encoded>
-            <dc:title><![CDATA[A jawless-fish genome untangles the history of vertebrate genome multiplications]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-00449-2</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-10; | doi:10.1038/d41586-024-00449-2</dc:source>
-            <dc:date>2024-05-10</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00449-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00449-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01418-5">
-            <title><![CDATA[Daily briefing: A millimetre of brain in spectacular detail]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01418-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 10 May 2024; <a href="https://www.nature.com/articles/d41586-024-01418-5">doi:10.1038/d41586-024-01418-5</a></p>Google scientists have modelled a tiny fragment of the human brain at nanoscale resolution. Plus, a bold proposal to limit extreme wealth.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: A millimetre of brain in spectacular detail]]></dc:title>
-            <dc:creator>Flora Graham</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01418-5</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-10; | doi:10.1038/d41586-024-01418-5</dc:source>
-            <dc:date>2024-05-10</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01418-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01418-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01414-9">
-            <title><![CDATA[Diana Wall obituary: ecologist who foresaw the importance of soil biodiversity]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01414-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 10 May 2024; <a href="https://www.nature.com/articles/d41586-024-01414-9">doi:10.1038/d41586-024-01414-9</a></p>Environmental scientist who revealed the crucial role of underground animals in sustainability.]]></content:encoded>
-            <dc:title><![CDATA[Diana Wall obituary: ecologist who foresaw the importance of soil biodiversity]]></dc:title>
-            <dc:creator>Richard D.  Bardgett</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01414-9</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-10; | doi:10.1038/d41586-024-01414-9</dc:source>
-            <dc:date>2024-05-10</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01414-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01414-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07495-w">
-            <title><![CDATA[Rhizobia–diatom symbiosis fixes missing nitrogen in the ocean]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07495-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 09 May 2024; <a href="https://www.nature.com/articles/s41586-024-07495-w">doi:10.1038/s41586-024-07495-w</a></p>Rhizobia–diatom symbiosis fixes missing nitrogen in the ocean]]></content:encoded>
-            <dc:title><![CDATA[Rhizobia–diatom symbiosis fixes missing nitrogen in the ocean]]></dc:title>
-            <dc:creator>Bernhard Tschitschko</dc:creator><dc:creator>Mertcan Esti</dc:creator><dc:creator>Miriam Philippi</dc:creator><dc:creator>Abiel T. Kidane</dc:creator><dc:creator>Sten Littmann</dc:creator><dc:creator>Katharina Kitzinger</dc:creator><dc:creator>Daan R. Speth</dc:creator><dc:creator>Shengjie Li</dc:creator><dc:creator>Alexandra Kraberg</dc:creator><dc:creator>Daniela Tienken</dc:creator><dc:creator>Hannah K. Marchant</dc:creator><dc:creator>Boran Kartal</dc:creator><dc:creator>Jana Milucka</dc:creator><dc:creator>Wiebke Mohr</dc:creator><dc:creator>Marcel M. M. Kuypers</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07495-w</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-09; | doi:10.1038/s41586-024-07495-w</dc:source>
-            <dc:date>2024-05-09</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07495-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07495-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01285-0">
-            <title><![CDATA[CRISPR therapy restores some vision to people with blindness]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01285-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 09 May 2024; <a href="https://www.nature.com/articles/d41586-024-01285-0">doi:10.1038/d41586-024-01285-0</a></p>People with an inherited condition that causes vision loss in childhood had vision improvements after treatment to replace a mutated gene.]]></content:encoded>
-            <dc:title><![CDATA[CRISPR therapy restores some vision to people with blindness]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-01285-0</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-09; | doi:10.1038/d41586-024-01285-0</dc:source>
-            <dc:date>2024-05-09</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01285-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01285-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01394-w">
-            <title><![CDATA[Daily briefing: ‘The ugly side of science’ — how to report negative results]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01394-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 09 May 2024; <a href="https://www.nature.com/articles/d41586-024-01394-w">doi:10.1038/d41586-024-01394-w</a></p>Data repositories, workshops and alternative journals allow scientists to destigmatize and discuss negative results. Plus, a major step toward ultra-precise ‘nuclear’ clocks and the first rocky exoplanet with a confirmed atmosphere.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: ‘The ugly side of science’ — how to report negative results]]></dc:title>
-            <dc:creator>Katrina Krämer</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01394-w</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-09; | doi:10.1038/d41586-024-01394-w</dc:source>
-            <dc:date>2024-05-09</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01394-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01394-w</prism:url>
         </item>
     
 </rdf:RDF>
