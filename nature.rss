@@ -18,6 +18,18 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01444-3"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01470-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01471-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01457-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01462-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01474-x"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07565-z"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07494-x"/>
@@ -35,6 +47,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01416-7"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01478-7"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01485-8"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01460-3"/>
                 
@@ -154,20 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07515-9"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07540-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01373-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01434-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01432-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01409-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01346-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01424-7"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,96 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01444-3">
+            <title><![CDATA[China's Yangtze fish-rescue plan is a failure, study says]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01444-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 20 May 2024; <a href="https://www.nature.com/articles/d41586-024-01444-3">doi:10.1038/d41586-024-01444-3</a></p>Researchers have debated the best management plan for highly endangered fish species since the 1980s.]]></content:encoded>
+            <dc:title><![CDATA[China's Yangtze fish-rescue plan is a failure, study says]]></dc:title>
+            <dc:creator>Xiaoying You</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01444-3</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-20; | doi:10.1038/d41586-024-01444-3</dc:source>
+            <dc:date>2024-05-20</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01444-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01444-3</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01470-1">
+            <title><![CDATA[Why the European Space Agency should join the US mission to Uranus]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01470-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 20 May 2024; <a href="https://www.nature.com/articles/d41586-024-01470-1">doi:10.1038/d41586-024-01470-1</a></p>Without international partnerships, NASA’s groundbreaking mission could fail to be ready in time for its optimal launch window.]]></content:encoded>
+            <dc:title><![CDATA[Why the European Space Agency should join the US mission to Uranus]]></dc:title>
+            <dc:creator>Olivier Mousis</dc:creator><dc:creator>Robin M. Canup</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01470-1</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-20; | doi:10.1038/d41586-024-01470-1</dc:source>
+            <dc:date>2024-05-20</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01470-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01470-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01471-0">
+            <title><![CDATA[How religious scientists balance work and faith]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01471-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 20 May 2024; <a href="https://www.nature.com/articles/d41586-024-01471-0">doi:10.1038/d41586-024-01471-0</a></p>Researchers find ways to interweave faith and science, from discussing Ramadan fasts with colleagues to applying religious parables to lab work.]]></content:encoded>
+            <dc:title><![CDATA[How religious scientists balance work and faith]]></dc:title>
+            <dc:creator>Anne Marie Conlon</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01471-0</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-20; | doi:10.1038/d41586-024-01471-0</dc:source>
+            <dc:date>2024-05-20</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01471-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01471-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01457-y">
+            <title><![CDATA[Why babies in South Korea are suing the government]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01457-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 20 May 2024; <a href="https://www.nature.com/articles/d41586-024-01457-y">doi:10.1038/d41586-024-01457-y</a></p>The first case in East Asia to challenge government climate policies will boost awareness of global warming and encourage further lawsuits in the region.]]></content:encoded>
+            <dc:title><![CDATA[Why babies in South Korea are suing the government]]></dc:title>
+            <dc:creator>Carissa Wong</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01457-y</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-20; | doi:10.1038/d41586-024-01457-y</dc:source>
+            <dc:date>2024-05-20</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01457-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01457-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01462-1">
+            <title><![CDATA[Infrastructure projects need to demonstrate a return on investment]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01462-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 20 May 2024; <a href="https://www.nature.com/articles/d41586-024-01462-1">doi:10.1038/d41586-024-01462-1</a></p>Terms such as sustainability and inclusivity loom large in big infrastructure projects. But impact and value for money needs measuring too, says Sinan Küfeoğlu.]]></content:encoded>
+            <dc:title><![CDATA[Infrastructure projects need to demonstrate a return on investment]]></dc:title>
+            <dc:creator>Dom Byrne</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01462-1</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-20; | doi:10.1038/d41586-024-01462-1</dc:source>
+            <dc:date>2024-05-20</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01462-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01462-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01474-x">
+            <title><![CDATA[DeepLabCut: the motion-tracking tool that went viral]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01474-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 20 May 2024; <a href="https://www.nature.com/articles/d41586-024-01474-x">doi:10.1038/d41586-024-01474-x</a></p>Mackenzie and Alexander Mathis were still early in their careers when their software created a sensation. Now they’re using it to support other young scientists.]]></content:encoded>
+            <dc:title><![CDATA[DeepLabCut: the motion-tracking tool that went viral]]></dc:title>
+            <dc:creator>Jyoti Madhusoodanan</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01474-x</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-20; | doi:10.1038/d41586-024-01474-x</dc:source>
+            <dc:date>2024-05-20</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01474-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01474-x</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07565-z">
             <title><![CDATA[Author Correction: Quantum control of a cat qubit with bit-flip times exceeding ten seconds]]></title>
@@ -310,6 +400,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01478-7</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01478-7</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01485-8">
+            <title><![CDATA[Daily briefing: Long-lost branch of the Nile ran by the pyramids]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01485-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 17 May 2024; <a href="https://www.nature.com/articles/d41586-024-01485-8">doi:10.1038/d41586-024-01485-8</a></p>Remains of an ancient branch of the Nile River hint at why Egyptians chose to build at Giza. Plus, how a ‘tactical sacrifice’ can save a building from collapse the our pick of the five best science books to read this week.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Long-lost branch of the Nile ran by the pyramids]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01485-8</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-17; | doi:10.1038/d41586-024-01485-8</dc:source>
+            <dc:date>2024-05-17</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01485-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01485-8</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01460-3">
@@ -1195,111 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/s41586-024-07515-9</prism:doi>
             <prism:url>https://www.nature.com/articles/s41586-024-07515-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07540-8">
-            <title><![CDATA[Publisher Correction: Ultra-compact quasi-true time delay for boosting wireless channel capacity]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07540-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 May 2024; <a href="https://www.nature.com/articles/s41586-024-07540-8">doi:10.1038/s41586-024-07540-8</a></p>Publisher Correction: Ultra-compact quasi-true time delay for boosting wireless channel capacity]]></content:encoded>
-            <dc:title><![CDATA[Publisher Correction: Ultra-compact quasi-true time delay for boosting wireless channel capacity]]></dc:title>
-            <dc:creator>Bala Govind</dc:creator><dc:creator>Thomas Tapen</dc:creator><dc:creator>Alyssa Apsel</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07540-8</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-13; | doi:10.1038/s41586-024-07540-8</dc:source>
-            <dc:date>2024-05-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07540-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07540-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01373-1">
-            <title><![CDATA[Why my heart beats for Nigeria’s endangered bats]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01373-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 May 2024; <a href="https://www.nature.com/articles/d41586-024-01373-1">doi:10.1038/d41586-024-01373-1</a></p>Iroro Tanshi works to better understand a number of threatened species.]]></content:encoded>
-            <dc:title><![CDATA[Why my heart beats for Nigeria’s endangered bats]]></dc:title>
-            <dc:creator>Linda Nordling</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01373-1</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-13; | doi:10.1038/d41586-024-01373-1</dc:source>
-            <dc:date>2024-05-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01373-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01373-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01434-5">
-            <title><![CDATA[Daily briefing: Internet use seems to boost well-being]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01434-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 May 2024; <a href="https://www.nature.com/articles/d41586-024-01434-5">doi:10.1038/d41586-024-01434-5</a></p>A survey of people in 168 countries finds that Internet use might boost life satisfaction and sense of purpose. Plus, what a Neanderthal’s Mona-Lisa smile tells us about ourselves and how the cauliflower got its whorls.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: Internet use seems to boost well-being]]></dc:title>
-            <dc:creator>Flora Graham</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01434-5</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-13; | doi:10.1038/d41586-024-01434-5</dc:source>
-            <dc:date>2024-05-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01434-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01434-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01432-7">
-            <title><![CDATA[Dazzling auroras are just a warm-up as more solar storms are likely, scientists say]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01432-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 May 2024; <a href="https://www.nature.com/articles/d41586-024-01432-7">doi:10.1038/d41586-024-01432-7</a></p>Nature talks to physicists about what to expect in the next few months and beyond as the Sun hits its ‘maximum’.]]></content:encoded>
-            <dc:title><![CDATA[Dazzling auroras are just a warm-up as more solar storms are likely, scientists say]]></dc:title>
-            <dc:creator>Alexandra Witze</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01432-7</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-13; | doi:10.1038/d41586-024-01432-7</dc:source>
-            <dc:date>2024-05-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01432-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01432-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01409-6">
-            <title><![CDATA[Decent work for all: why multinationals need a helping hand]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01409-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 May 2024; <a href="https://www.nature.com/articles/d41586-024-01409-6">doi:10.1038/d41586-024-01409-6</a></p>Moses Ngoze explains why the growth of micro, small and medium enterprises in Africa are key to achieving global economic growth.]]></content:encoded>
-            <dc:title><![CDATA[Decent work for all: why multinationals need a helping hand]]></dc:title>
-            <dc:creator>Dom Byrne</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01409-6</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-13; | doi:10.1038/d41586-024-01409-6</dc:source>
-            <dc:date>2024-05-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01409-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01409-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01346-4">
-            <title><![CDATA[World’s brightest X-rays: China first in Asia to build next-generation synchrotron]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01346-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 May 2024; <a href="https://www.nature.com/articles/d41586-024-01346-4">doi:10.1038/d41586-024-01346-4</a></p>The US$665-million High Energy Photon Source (HEPS) outside Beijing puts China among only a handful of countries that have fourth-generation synchrotron light sources.]]></content:encoded>
-            <dc:title><![CDATA[World’s brightest X-rays: China first in Asia to build next-generation synchrotron]]></dc:title>
-            <dc:creator>Gemma Conroy</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01346-4</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-13; | doi:10.1038/d41586-024-01346-4</dc:source>
-            <dc:date>2024-05-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01346-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01346-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01424-7">
-            <title><![CDATA[Brain-reading device is best yet at decoding ‘internal speech’]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01424-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 13 May 2024; <a href="https://www.nature.com/articles/d41586-024-01424-7">doi:10.1038/d41586-024-01424-7</a></p>Technology that enables researchers to interpret brain signals could one day allow people to talk using only their thoughts.]]></content:encoded>
-            <dc:title><![CDATA[Brain-reading device is best yet at decoding ‘internal speech’]]></dc:title>
-            <dc:creator>Miryam Naddaf</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01424-7</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-13; | doi:10.1038/d41586-024-01424-7</dc:source>
-            <dc:date>2024-05-13</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01424-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01424-7</prism:url>
         </item>
     
 </rdf:RDF>
