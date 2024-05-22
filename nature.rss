@@ -18,6 +18,16 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07549-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01463-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01494-7"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01466-x"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01495-6"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01489-4"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01491-w"/>
@@ -29,6 +39,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01490-x"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01368-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01538-y"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01465-y"/>
                 
@@ -156,18 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01352-6"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01411-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01143-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01445-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01433-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01405-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01372-2"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,81 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07549-z">
+            <title><![CDATA[Author Correction: Large-scale plasma proteomics comparisons through genetics and disease associations]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07549-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 22 May 2024; <a href="https://www.nature.com/articles/s41586-024-07549-z">doi:10.1038/s41586-024-07549-z</a></p>Author Correction: Large-scale plasma proteomics comparisons through genetics and disease associations]]></content:encoded>
+            <dc:title><![CDATA[Author Correction: Large-scale plasma proteomics comparisons through genetics and disease associations]]></dc:title>
+            <dc:creator>Grimur Hjorleifsson Eldjarn</dc:creator><dc:creator>Egil Ferkingstad</dc:creator><dc:creator>Sigrun H. Lund</dc:creator><dc:creator>Hannes Helgason</dc:creator><dc:creator>Olafur Th. Magnusson</dc:creator><dc:creator>Kristbjorg Gunnarsdottir</dc:creator><dc:creator>Thorunn A. Olafsdottir</dc:creator><dc:creator>Bjarni V. Halldorsson</dc:creator><dc:creator>Pall I. Olason</dc:creator><dc:creator>Florian Zink</dc:creator><dc:creator>Sigurjon A. Gudjonsson</dc:creator><dc:creator>Gardar Sveinbjornsson</dc:creator><dc:creator>Magnus I. Magnusson</dc:creator><dc:creator>Agnar Helgason</dc:creator><dc:creator>Asmundur Oddsson</dc:creator><dc:creator>Gisli H. Halldorsson</dc:creator><dc:creator>Magnus K. Magnusson</dc:creator><dc:creator>Saedis Saevarsdottir</dc:creator><dc:creator>Thjodbjorg Eiriksdottir</dc:creator><dc:creator>Gisli Masson</dc:creator><dc:creator>Hreinn Stefansson</dc:creator><dc:creator>Ingileif Jonsdottir</dc:creator><dc:creator>Hilma Holm</dc:creator><dc:creator>Thorunn Rafnar</dc:creator><dc:creator>Pall Melsted</dc:creator><dc:creator>Jona Saemundsdottir</dc:creator><dc:creator>Gudmundur L. Norddahl</dc:creator><dc:creator>Gudmar Thorleifsson</dc:creator><dc:creator>Magnus O. Ulfarsson</dc:creator><dc:creator>Daniel F. Gudbjartsson</dc:creator><dc:creator>Unnur Thorsteinsdottir</dc:creator><dc:creator>Patrick Sulem</dc:creator><dc:creator>Kari Stefansson</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07549-z</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-22; | doi:10.1038/s41586-024-07549-z</dc:source>
+            <dc:date>2024-05-22</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07549-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07549-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01463-0">
+            <title><![CDATA[AlphaFold3 — why did <i>Nature</i> publish it without its code?]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01463-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 22 May 2024; <a href="https://www.nature.com/articles/d41586-024-01463-0">doi:10.1038/d41586-024-01463-0</a></p>Criticism of our decision to publish AlphaFold3 raises important questions. We welcome readers’ views.]]></content:encoded>
+            <dc:title><![CDATA[AlphaFold3 — why did <i>Nature</i> publish it without its code?]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-01463-0</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-22; | doi:10.1038/d41586-024-01463-0</dc:source>
+            <dc:date>2024-05-22</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01463-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01463-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01494-7">
+            <title><![CDATA[Can mathematicians help to solve social-justice problems?]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01494-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 22 May 2024; <a href="https://www.nature.com/articles/d41586-024-01494-7">doi:10.1038/d41586-024-01494-7</a></p>Researchers discuss the triumphs and trials of using their craft to tackle society’s greatest challenges.]]></content:encoded>
+            <dc:title><![CDATA[Can mathematicians help to solve social-justice problems?]]></dc:title>
+            <dc:creator>Rachel   Crowell</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01494-7</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-22; | doi:10.1038/d41586-024-01494-7</dc:source>
+            <dc:date>2024-05-22</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01494-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01494-7</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01466-x">
+            <title><![CDATA[Why role-playing games can spur climate action]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01466-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 22 May 2024; <a href="https://www.nature.com/articles/d41586-024-01466-x">doi:10.1038/d41586-024-01466-x</a></p>Solving problems in a safe, collaborative environment can help us think out of the box and build empathy — crucial skills in a warming world.]]></content:encoded>
+            <dc:title><![CDATA[Why role-playing games can spur climate action]]></dc:title>
+            <dc:creator>Sam Illingworth</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01466-x</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-22; | doi:10.1038/d41586-024-01466-x</dc:source>
+            <dc:date>2024-05-22</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01466-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01466-x</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01495-6">
+            <title><![CDATA[China’s ChatGPT: what a boom in Chinese chatbots means for AI]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01495-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 22 May 2024; <a href="https://www.nature.com/articles/d41586-024-01495-6">doi:10.1038/d41586-024-01495-6</a></p>ChatGLM is one of hundreds of AI language models being developed for the Chinese language. It comes close to ChatGPT on many measures, say its creators.]]></content:encoded>
+            <dc:title><![CDATA[China’s ChatGPT: what a boom in Chinese chatbots means for AI]]></dc:title>
+            <dc:creator>Celeste Biever</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01495-6</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-22; | doi:10.1038/d41586-024-01495-6</dc:source>
+            <dc:date>2024-05-22</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01495-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01495-6</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01489-4">
             <title><![CDATA[Internet use and teen mental health: it’s about more than just screen time]]></title>
@@ -267,6 +342,21 @@
             <prism:url>https://www.nature.com/articles/d41586-024-01368-y</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01538-y">
+            <title><![CDATA[AI &amp; robotics briefing: How psychology and neuroscience crack open the AI ‘black box’]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01538-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 21 May 2024; <a href="https://www.nature.com/articles/d41586-024-01538-y">doi:10.1038/d41586-024-01538-y</a></p>Researchers are borrowing approaches from psychology and neuroscience to find out how large language models ‘think’. Plus, self-driving super lab finds record-breaking laser material and AI-designed drugs get a reality check.]]></content:encoded>
+            <dc:title><![CDATA[AI &amp; robotics briefing: How psychology and neuroscience crack open the AI ‘black box’]]></dc:title>
+            <dc:creator>Katrina Krämer</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01538-y</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-21; | doi:10.1038/d41586-024-01538-y</dc:source>
+            <dc:date>2024-05-21</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01538-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01538-y</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-024-01465-y">
             <title><![CDATA[Pay researchers to spot errors in published papers]]></title>
             <link>https://www.nature.com/articles/d41586-024-01465-y</link>
@@ -283,11 +373,11 @@
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01451-4">
-            <title><![CDATA[First ‘bilingual’ brain-reading device decodes Spanish and English words ]]></title>
+            <title><![CDATA[First ‘bilingual’ brain-reading device decodes Spanish and English words]]></title>
             <link>https://www.nature.com/articles/d41586-024-01451-4</link>
             <content:encoded>
                 <![CDATA[<p>Nature, Published online: 21 May 2024; <a href="https://www.nature.com/articles/d41586-024-01451-4">doi:10.1038/d41586-024-01451-4</a></p>Artificial-intelligence system allows a man who cannot speak coherently to have a conversation in the language of his choice.]]></content:encoded>
-            <dc:title><![CDATA[First ‘bilingual’ brain-reading device decodes Spanish and English words ]]></dc:title>
+            <dc:title><![CDATA[First ‘bilingual’ brain-reading device decodes Spanish and English words]]></dc:title>
             <dc:creator>Amanda Heidt</dc:creator>
             <dc:identifier>doi:10.1038/d41586-024-01451-4</dc:identifier>
             <dc:source>Nature, Published online: 2024-05-21; | doi:10.1038/d41586-024-01451-4</dc:source>
@@ -1210,96 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01352-6</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01352-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01411-y">
-            <title><![CDATA[Forestry social science is failing the needs of the people who need it most]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01411-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 15 May 2024; <a href="https://www.nature.com/articles/d41586-024-01411-y">doi:10.1038/d41586-024-01411-y</a></p>Rich nations’ fixation on forests as climate offsets has resulted in the needs of those who live in or make a living from these resources being ignored. A broader view and more collaboration between disciplines is required.]]></content:encoded>
-            <dc:title><![CDATA[Forestry social science is failing the needs of the people who need it most]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-01411-y</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-15; | doi:10.1038/d41586-024-01411-y</dc:source>
-            <dc:date>2024-05-15</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01411-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01411-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01143-z">
-            <title><![CDATA[Strategic links save buildings from total collapse]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01143-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 15 May 2024; <a href="https://www.nature.com/articles/d41586-024-01143-z">doi:10.1038/d41586-024-01143-z</a></p>A design principle for buildings incorporates components that can control the propagation of failure by isolating parts of the structure as they fail — offering a way to prevent a partial collapse snowballing into complete destruction.]]></content:encoded>
-            <dc:title><![CDATA[Strategic links save buildings from total collapse]]></dc:title>
-            <dc:creator>Sarah L. Orton</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01143-z</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-15; | doi:10.1038/d41586-024-01143-z</dc:source>
-            <dc:date>2024-05-15</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01143-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01143-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01445-2">
-            <title><![CDATA[‘Quantum internet’ demonstration in cities is most advanced yet]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01445-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 15 May 2024; <a href="https://www.nature.com/articles/d41586-024-01445-2">doi:10.1038/d41586-024-01445-2</a></p>Experiments generate quantum entanglement over optical fibres across three real cities, marking progress towards networks that could have revolutionary applications.]]></content:encoded>
-            <dc:title><![CDATA[‘Quantum internet’ demonstration in cities is most advanced yet]]></dc:title>
-            <dc:creator>Davide Castelvecchi</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01445-2</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-15; | doi:10.1038/d41586-024-01445-2</dc:source>
-            <dc:date>2024-05-15</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01445-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01445-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01433-6">
-            <title><![CDATA[Experimental obesity drug packs double punch to reduce weight]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01433-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 15 May 2024; <a href="https://www.nature.com/articles/d41586-024-01433-6">doi:10.1038/d41586-024-01433-6</a></p>Test of weight-loss candidate in mice shows that there is still room for improvement in a burgeoning field.]]></content:encoded>
-            <dc:title><![CDATA[Experimental obesity drug packs double punch to reduce weight]]></dc:title>
-            <dc:creator>Asher Mullard</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01433-6</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-15; | doi:10.1038/d41586-024-01433-6</dc:source>
-            <dc:date>2024-05-15</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01433-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01433-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01405-w">
-            <title><![CDATA[Explaining novel scientific concepts to people whose technical acumen does not extend to turning it off, then turning it on again]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01405-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 15 May 2024; <a href="https://www.nature.com/articles/d41586-024-01405-w">doi:10.1038/d41586-024-01405-w</a></p>Guided by the light.]]></content:encoded>
-            <dc:title><![CDATA[Explaining novel scientific concepts to people whose technical acumen does not extend to turning it off, then turning it on again]]></dc:title>
-            <dc:creator>Joel Glover</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01405-w</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-15; | doi:10.1038/d41586-024-01405-w</dc:source>
-            <dc:date>2024-05-15</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01405-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01405-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01372-2">
-            <title><![CDATA[Neglecting sex and gender in research is a public-health risk]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01372-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 15 May 2024; <a href="https://www.nature.com/articles/d41586-024-01372-2">doi:10.1038/d41586-024-01372-2</a></p>The data are clear: taking sex and gender into account in research and using that knowledge to change health care could benefit billions of people.]]></content:encoded>
-            <dc:title><![CDATA[Neglecting sex and gender in research is a public-health risk]]></dc:title>
-            <dc:creator>Sue Haupt</dc:creator><dc:creator>Cheryl Carcel</dc:creator><dc:creator>Robyn Norton</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01372-2</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-15; | doi:10.1038/d41586-024-01372-2</dc:source>
-            <dc:date>2024-05-15</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01372-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01372-2</prism:url>
         </item>
     
 </rdf:RDF>
