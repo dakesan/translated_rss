@@ -18,6 +18,24 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07579-7"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06940-6"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01401-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01399-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01482-x"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01400-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01481-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01500-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01555-x"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07545-3"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07569-9"/>
@@ -150,24 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07526-6"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07395-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07556-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01475-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01454-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01479-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01444-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01470-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01497-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01471-0"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,141 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07579-7">
+            <title><![CDATA[Stereospecific alkenylidene homologation of organoboronates by S<sub>N</sub>V reaction]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07579-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 23 May 2024; <a href="https://www.nature.com/articles/s41586-024-07579-7">doi:10.1038/s41586-024-07579-7</a></p>Stereospecific alkenylidene homologation of organoboronates by S<sub>N</sub>V reaction]]></content:encoded>
+            <dc:title><![CDATA[Stereospecific alkenylidene homologation of organoboronates by S<sub>N</sub>V reaction]]></dc:title>
+            <dc:creator>Miao Chen</dc:creator><dc:creator>Christian D. Knox</dc:creator><dc:creator>Mithun C. Madhusudhanan</dc:creator><dc:creator>Thomas H. Tugwell</dc:creator><dc:creator>Coco Liu</dc:creator><dc:creator>Peng Liu</dc:creator><dc:creator>Guangbin Dong</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07579-7</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-23; | doi:10.1038/s41586-024-07579-7</dc:source>
+            <dc:date>2024-05-23</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07579-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07579-7</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-023-06940-6">
+            <title><![CDATA[Publisher Correction: A molecular map of the immune response region from the major histocompatibility complex of the mouse]]></title>
+            <link>https://www.nature.com/articles/s41586-023-06940-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 23 May 2024; <a href="https://www.nature.com/articles/s41586-023-06940-6">doi:10.1038/s41586-023-06940-6</a></p>Publisher Correction: A molecular map of the immune response region from the major histocompatibility complex of the mouse]]></content:encoded>
+            <dc:title><![CDATA[Publisher Correction: A molecular map of the immune response region from the major histocompatibility complex of the mouse]]></dc:title>
+            <dc:creator>Michael Steinmetz</dc:creator><dc:creator>Karyl Minard</dc:creator><dc:creator>Suzanna Horvath</dc:creator><dc:creator>Janet McNicholast</dc:creator><dc:creator>Jeffrey Frelinger</dc:creator><dc:creator>Claire Wake</dc:creator><dc:creator>Eric Long</dc:creator><dc:creator>Bernard Mach</dc:creator><dc:creator>Leroy Hood</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-023-06940-6</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-23; | doi:10.1038/s41586-023-06940-6</dc:source>
+            <dc:date>2024-05-23</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-023-06940-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-023-06940-6</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01401-0">
+            <title><![CDATA[Is that a giant sandwich? No, it’s the biggest protoplanetary disk in the sky]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01401-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 23 May 2024; <a href="https://www.nature.com/articles/d41586-024-01401-0">doi:10.1038/d41586-024-01401-0</a></p>A colossal object called Dracula’s Chivito, referring to an well-stuffed sandwich popular in Uruguay, is the chunkiest planetary nursery known.]]></content:encoded>
+            <dc:title><![CDATA[Is that a giant sandwich? No, it’s the biggest protoplanetary disk in the sky]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-01401-0</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-23; | doi:10.1038/d41586-024-01401-0</dc:source>
+            <dc:date>2024-05-23</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01401-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01401-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01399-5">
+            <title><![CDATA[Two receptors are better than one for AI-designed obesity drugs]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01399-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 23 May 2024; <a href="https://www.nature.com/articles/d41586-024-01399-5">doi:10.1038/d41586-024-01399-5</a></p>Compounds predicted by machine learning attach to two receptors involved in appetite and weight.]]></content:encoded>
+            <dc:title><![CDATA[Two receptors are better than one for AI-designed obesity drugs]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-01399-5</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-23; | doi:10.1038/d41586-024-01399-5</dc:source>
+            <dc:date>2024-05-23</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01399-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01399-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01482-x">
+            <title><![CDATA[These crows have counting skills previously only seen in people]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01482-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 23 May 2024; <a href="https://www.nature.com/articles/d41586-024-01482-x">doi:10.1038/d41586-024-01482-x</a></p>The corvids are the first animals other than humans known to produce a deliberate number of calls on command.]]></content:encoded>
+            <dc:title><![CDATA[These crows have counting skills previously only seen in people]]></dc:title>
+            <dc:creator>Mariana Lenharo</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01482-x</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-23; | doi:10.1038/d41586-024-01482-x</dc:source>
+            <dc:date>2024-05-23</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01482-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01482-x</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01400-1">
+            <title><![CDATA[A tiny killer is making an entire region’s sea urchins disintegrate]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01400-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 23 May 2024; <a href="https://www.nature.com/articles/d41586-024-01400-1">doi:10.1038/d41586-024-01400-1</a></p>A single-celled organism is destroying up to 100% of urchins in parts of the Red Sea and the Western Indian Ocean.]]></content:encoded>
+            <dc:title><![CDATA[A tiny killer is making an entire region’s sea urchins disintegrate]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-01400-1</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-23; | doi:10.1038/d41586-024-01400-1</dc:source>
+            <dc:date>2024-05-23</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01400-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01400-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01481-y">
+            <title><![CDATA[Superstar porous materials get salty thanks to computer simulations]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01481-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 23 May 2024; <a href="https://www.nature.com/articles/d41586-024-01481-y">doi:10.1038/d41586-024-01481-y</a></p>Model predicts the structure of previously elusive compounds with practical applications.]]></content:encoded>
+            <dc:title><![CDATA[Superstar porous materials get salty thanks to computer simulations]]></dc:title>
+            <dc:creator>Ariana Remmel</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01481-y</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-23; | doi:10.1038/d41586-024-01481-y</dc:source>
+            <dc:date>2024-05-23</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01481-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01481-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01500-y">
+            <title><![CDATA[Seed-stashing chickadees overturn ideas about location memory]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01500-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 23 May 2024; <a href="https://www.nature.com/articles/d41586-024-01500-y">doi:10.1038/d41586-024-01500-y</a></p>Certain neurons encode memories of events that occurred in specific physical locations known as place fields. Chickadees show patterns of neuronal activity that are specific to locations of hidden food but independent of place fields.]]></content:encoded>
+            <dc:title><![CDATA[Seed-stashing chickadees overturn ideas about location memory]]></dc:title>
+            <dc:creator>Margaret M. Donahue</dc:creator><dc:creator>Laura Lee Colgin</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01500-y</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-23; | doi:10.1038/d41586-024-01500-y</dc:source>
+            <dc:date>2024-05-23</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01500-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01500-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01555-x">
+            <title><![CDATA[Who will make AlphaFold3 open source? Scientists race to crack AI model]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01555-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 23 May 2024; <a href="https://www.nature.com/articles/d41586-024-01555-x">doi:10.1038/d41586-024-01555-x</a></p>Researchers are aiming to create fully accessible versions of the latest iteration of DeepMind’s blockbuster protein-structure model.]]></content:encoded>
+            <dc:title><![CDATA[Who will make AlphaFold3 open source? Scientists race to crack AI model]]></dc:title>
+            <dc:creator>Ewen Callaway</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01555-x</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-23; | doi:10.1038/d41586-024-01555-x</dc:source>
+            <dc:date>2024-05-23</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01555-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01555-x</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07545-3">
             <title><![CDATA[Author Correction: A high-density and high-confinement tokamak plasma regime for fusion energy]]></title>
@@ -898,11 +1033,11 @@
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01495-6">
-            <title><![CDATA[China's ChatGPT: why China is building its own AI chatbots]]></title>
+            <title><![CDATA[China’s ChatGPT: why China is building its own AI chatbots]]></title>
             <link>https://www.nature.com/articles/d41586-024-01495-6</link>
             <content:encoded>
                 <![CDATA[<p>Nature, Published online: 22 May 2024; <a href="https://www.nature.com/articles/d41586-024-01495-6">doi:10.1038/d41586-024-01495-6</a></p>ChatGLM is one of hundreds of AI language models being developed for the Chinese language. It comes close to ChatGPT on many measures, say its creators.]]></content:encoded>
-            <dc:title><![CDATA[China's ChatGPT: why China is building its own AI chatbots]]></dc:title>
+            <dc:title><![CDATA[China’s ChatGPT: why China is building its own AI chatbots]]></dc:title>
             <dc:creator>Celeste Biever</dc:creator>
             <dc:identifier>doi:10.1038/d41586-024-01495-6</dc:identifier>
             <dc:source>Nature, Published online: 2024-05-22; | doi:10.1038/d41586-024-01495-6</dc:source>
@@ -988,11 +1123,11 @@
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01490-x">
-            <title><![CDATA[Bad intercultural communication is hobbling academia — fix it for research equity]]></title>
+            <title><![CDATA[Lack of effective intercultural communication is hobbling academia — fix it for research equity]]></title>
             <link>https://www.nature.com/articles/d41586-024-01490-x</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 21 May 2024; <a href="https://www.nature.com/articles/d41586-024-01490-x">doi:10.1038/d41586-024-01490-x</a></p>Bad intercultural communication is hobbling academia — fix it for research equity]]></content:encoded>
-            <dc:title><![CDATA[Bad intercultural communication is hobbling academia — fix it for research equity]]></dc:title>
+                <![CDATA[<p>Nature, Published online: 21 May 2024; <a href="https://www.nature.com/articles/d41586-024-01490-x">doi:10.1038/d41586-024-01490-x</a></p>Lack of effective intercultural communication is hobbling academia — fix it for research equity]]></content:encoded>
+            <dc:title><![CDATA[Lack of effective intercultural communication is hobbling academia — fix it for research equity]]></dc:title>
             <dc:creator>Shoumit Dey</dc:creator><dc:creator>Pooja Sharma</dc:creator>
             <dc:identifier>doi:10.1038/d41586-024-01490-x</dc:identifier>
             <dc:source>Nature, Published online: 2024-05-21; | doi:10.1038/d41586-024-01490-x</dc:source>
@@ -1165,141 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/s41586-024-07526-6</prism:doi>
             <prism:url>https://www.nature.com/articles/s41586-024-07526-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07395-z">
-            <title><![CDATA[A warm Neptune’s methane reveals core mass and vigorous atmospheric mixing]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07395-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 20 May 2024; <a href="https://www.nature.com/articles/s41586-024-07395-z">doi:10.1038/s41586-024-07395-z</a></p>A warm Neptune’s methane reveals core mass and vigorous atmospheric mixing]]></content:encoded>
-            <dc:title><![CDATA[A warm Neptune’s methane reveals core mass and vigorous atmospheric mixing]]></dc:title>
-            <dc:creator>David K. Sing</dc:creator><dc:creator>Zafar Rustamkulov</dc:creator><dc:creator>Daniel P. Thorngren</dc:creator><dc:creator>Joanna K. Barstow</dc:creator><dc:creator>Pascal Tremblin</dc:creator><dc:creator>Catarina Alves de Oliveira</dc:creator><dc:creator>Tracy L. Beck</dc:creator><dc:creator>Stephan M. Birkmann</dc:creator><dc:creator>Ryan C. Challener</dc:creator><dc:creator>Nicolas Crouzet</dc:creator><dc:creator>Néstor Espinoza</dc:creator><dc:creator>Pierre Ferruit</dc:creator><dc:creator>Giovanna Giardino</dc:creator><dc:creator>Amélie Gressier</dc:creator><dc:creator>Elspeth K. H. Lee</dc:creator><dc:creator>Nikole K. Lewis</dc:creator><dc:creator>Roberto Maiolino</dc:creator><dc:creator>Elena Manjavacas</dc:creator><dc:creator>Bernard J. Rauscher</dc:creator><dc:creator>Marco Sirianni</dc:creator><dc:creator>Jeff A. Valenti</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07395-z</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-20; | doi:10.1038/s41586-024-07395-z</dc:source>
-            <dc:date>2024-05-20</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07395-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07395-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07556-0">
-            <title><![CDATA[A deep catalogue of protein-coding variation in 983,578 individuals]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07556-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 20 May 2024; <a href="https://www.nature.com/articles/s41586-024-07556-0">doi:10.1038/s41586-024-07556-0</a></p>A deep catalogue of protein-coding variation in 983,578 individuals]]></content:encoded>
-            <dc:title><![CDATA[A deep catalogue of protein-coding variation in 983,578 individuals]]></dc:title>
-            <dc:creator>Kathie Y. Sun</dc:creator><dc:creator>Xiaodong Bai</dc:creator><dc:creator>Siying Chen</dc:creator><dc:creator>Suying Bao</dc:creator><dc:creator>Chuanyi Zhang</dc:creator><dc:creator>Manav Kapoor</dc:creator><dc:creator>Joshua Backman</dc:creator><dc:creator>Tyler Joseph</dc:creator><dc:creator>Evan Maxwell</dc:creator><dc:creator>George Mitra</dc:creator><dc:creator>Alexander Gorovits</dc:creator><dc:creator>Adam Mansfield</dc:creator><dc:creator>Boris Boutkov</dc:creator><dc:creator>Sujit Gokhale</dc:creator><dc:creator>Lukas Habegger</dc:creator><dc:creator>Anthony Marcketta</dc:creator><dc:creator>Adam E. Locke</dc:creator><dc:creator>Liron Ganel</dc:creator><dc:creator>Alicia Hawes</dc:creator><dc:creator>Michael D. Kessler</dc:creator><dc:creator>Deepika Sharma</dc:creator><dc:creator>Jeffrey Staples</dc:creator><dc:creator>Jonas Bovijn</dc:creator><dc:creator>Sahar Gelfman</dc:creator><dc:creator>Alessandro Di Gioia</dc:creator><dc:creator>Veera M. Rajagopal</dc:creator><dc:creator>Alexander Lopez</dc:creator><dc:creator>Jennifer Rico Varela</dc:creator><dc:creator>Jesus Alegre</dc:creator><dc:creator>Jaime Berumen</dc:creator><dc:creator>Roberto Tapia-Conyer</dc:creator><dc:creator>Pablo Kuri-Morales</dc:creator><dc:creator>Jason Torres</dc:creator><dc:creator>Jonathan Emberson</dc:creator><dc:creator>Rory Collins</dc:creator><dc:creator>Michael Cantor</dc:creator><dc:creator>Timothy Thornton</dc:creator><dc:creator>Hyun Min Kang</dc:creator><dc:creator>John D. Overton</dc:creator><dc:creator>Alan R. Shuldiner</dc:creator><dc:creator>M. Laura Cremona</dc:creator><dc:creator>Mona Nafde</dc:creator><dc:creator>Aris Baras</dc:creator><dc:creator>Goncalo Abecasis</dc:creator><dc:creator>Jonathan Marchini</dc:creator><dc:creator>Jeffrey G. Reid</dc:creator><dc:creator>William Salerno</dc:creator><dc:creator>Suganthi Balasubramanian</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07556-0</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-20; | doi:10.1038/s41586-024-07556-0</dc:source>
-            <dc:date>2024-05-20</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07556-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07556-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01475-w">
-            <title><![CDATA[How my research is putting blue crab on the menu in Croatia]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01475-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 20 May 2024; <a href="https://www.nature.com/articles/d41586-024-01475-w">doi:10.1038/d41586-024-01475-w</a></p>Neven Iveša investigates the invasive species in the Adriatic Sea, and works out how to lessen its impact.]]></content:encoded>
-            <dc:title><![CDATA[How my research is putting blue crab on the menu in Croatia]]></dc:title>
-            <dc:creator>Jack Leeming</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01475-w</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-20; | doi:10.1038/d41586-024-01475-w</dc:source>
-            <dc:date>2024-05-20</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01475-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01475-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01454-1">
-            <title><![CDATA[The origin of the cockroach: how a notorious pest conquered the world]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01454-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 20 May 2024; <a href="https://www.nature.com/articles/d41586-024-01454-1">doi:10.1038/d41586-024-01454-1</a></p>Genomic analysis suggests the common kitchen vermin spread from Europe to the world. But it wasn’t originally found in Europe.]]></content:encoded>
-            <dc:title><![CDATA[The origin of the cockroach: how a notorious pest conquered the world]]></dc:title>
-            <dc:creator>Bianca Nogrady</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01454-1</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-20; | doi:10.1038/d41586-024-01454-1</dc:source>
-            <dc:date>2024-05-20</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01454-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01454-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01479-6">
-            <title><![CDATA[How to set up your new lab space]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01479-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 20 May 2024; <a href="https://www.nature.com/articles/d41586-024-01479-6">doi:10.1038/d41586-024-01479-6</a></p>An empty room can be intimidating. But with some thoughtful planning, you can create a thriving scientific community.]]></content:encoded>
-            <dc:title><![CDATA[How to set up your new lab space]]></dc:title>
-            <dc:creator>Marissa Coppola</dc:creator><dc:creator>Jessica W. Tsai</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01479-6</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-20; | doi:10.1038/d41586-024-01479-6</dc:source>
-            <dc:date>2024-05-20</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01479-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01479-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01444-3">
-            <title><![CDATA[China's Yangtze fish-rescue plan is a failure, study says]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01444-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 20 May 2024; <a href="https://www.nature.com/articles/d41586-024-01444-3">doi:10.1038/d41586-024-01444-3</a></p>Researchers have debated the best management plan for highly endangered fish species since the 1980s.]]></content:encoded>
-            <dc:title><![CDATA[China's Yangtze fish-rescue plan is a failure, study says]]></dc:title>
-            <dc:creator>Xiaoying You</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01444-3</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-20; | doi:10.1038/d41586-024-01444-3</dc:source>
-            <dc:date>2024-05-20</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01444-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01444-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01470-1">
-            <title><![CDATA[Why the European Space Agency should join the US mission to Uranus]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01470-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 20 May 2024; <a href="https://www.nature.com/articles/d41586-024-01470-1">doi:10.1038/d41586-024-01470-1</a></p>Without international partnerships, NASA’s groundbreaking mission could fail to be ready in time for its optimal launch window.]]></content:encoded>
-            <dc:title><![CDATA[Why the European Space Agency should join the US mission to Uranus]]></dc:title>
-            <dc:creator>Olivier Mousis</dc:creator><dc:creator>Robin M. Canup</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01470-1</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-20; | doi:10.1038/d41586-024-01470-1</dc:source>
-            <dc:date>2024-05-20</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01470-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01470-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01497-4">
-            <title><![CDATA[Daily briefing: We must get to Uranus by 2050 — and Europe can help]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01497-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 20 May 2024; <a href="https://www.nature.com/articles/d41586-024-01497-4">doi:10.1038/d41586-024-01497-4</a></p>How the European Space Agency can help boost a US mission to Uranus. Also, dams are hobbling ambitious conservation efforts for the Yangtze River and lessons from the first pig-organ transplants into humans.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: We must get to Uranus by 2050 — and Europe can help]]></dc:title>
-            <dc:creator>Flora Graham</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01497-4</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-20; | doi:10.1038/d41586-024-01497-4</dc:source>
-            <dc:date>2024-05-20</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01497-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01497-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01471-0">
-            <title><![CDATA[How religious scientists balance work and faith]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01471-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 20 May 2024; <a href="https://www.nature.com/articles/d41586-024-01471-0">doi:10.1038/d41586-024-01471-0</a></p>Researchers find ways to interweave faith and science, from discussing Ramadan fasts with colleagues to applying religious parables to lab work.]]></content:encoded>
-            <dc:title><![CDATA[How religious scientists balance work and faith]]></dc:title>
-            <dc:creator>Anne Marie Conlon</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01471-0</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-20; | doi:10.1038/d41586-024-01471-0</dc:source>
-            <dc:date>2024-05-20</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01471-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01471-0</prism:url>
         </item>
     
 </rdf:RDF>
