@@ -18,6 +18,14 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01548-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01452-3"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01520-8"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01523-5"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07579-7"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-023-06940-6"/>
@@ -31,6 +39,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01400-1"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01481-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01569-5"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01500-y"/>
                 
@@ -102,6 +112,8 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01361-5"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01545-z"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01357-1"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01543-1"/>
@@ -156,18 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01404-x"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01468-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01464-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01469-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01504-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07514-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07526-6"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,66 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01548-w">
+            <title><![CDATA[Software tools identify forgotten genes]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01548-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 24 May 2024; <a href="https://www.nature.com/articles/d41586-024-01548-w">doi:10.1038/d41586-024-01548-w</a></p>Find My Understudied Genes and the Unknome database highlight interesting genes that have been neglected by science.]]></content:encoded>
+            <dc:title><![CDATA[Software tools identify forgotten genes]]></dc:title>
+            <dc:creator>Matthew Hutson</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01548-w</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-24; | doi:10.1038/d41586-024-01548-w</dc:source>
+            <dc:date>2024-05-24</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01548-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01548-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01452-3">
+            <title><![CDATA[Neanderthal–human baby-making was recent — and brief]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01452-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 24 May 2024; <a href="https://www.nature.com/articles/d41586-024-01452-3">doi:10.1038/d41586-024-01452-3</a></p>Analysis of dozens of ancient genomes reveals that close encounters between the two species took place in a narrow time window.]]></content:encoded>
+            <dc:title><![CDATA[Neanderthal–human baby-making was recent — and brief]]></dc:title>
+            <dc:creator>Michael Eisenstein</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01452-3</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-24; | doi:10.1038/d41586-024-01452-3</dc:source>
+            <dc:date>2024-05-24</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01452-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01452-3</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01520-8">
+            <title><![CDATA[The global economy’s 200-year growth spurt — and what comes next]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01520-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 24 May 2024; <a href="https://www.nature.com/articles/d41586-024-01520-8">doi:10.1038/d41586-024-01520-8</a></p>Can an unlimited supply of innovations and ideas maintain growth without costing the Earth? Yes, a wide-ranging book contends.]]></content:encoded>
+            <dc:title><![CDATA[The global economy’s 200-year growth spurt — and what comes next]]></dc:title>
+            <dc:creator>Rutger Hoekstra</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01520-8</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-24; | doi:10.1038/d41586-024-01520-8</dc:source>
+            <dc:date>2024-05-24</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01520-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01520-8</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01523-5">
+            <title><![CDATA[How researchers in remote regions handle the isolation]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01523-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 24 May 2024; <a href="https://www.nature.com/articles/d41586-024-01523-5">doi:10.1038/d41586-024-01523-5</a></p>Recruitment challenges and limited resources are among the challenges faced by scientists who live and work off the beaten track.]]></content:encoded>
+            <dc:title><![CDATA[How researchers in remote regions handle the isolation]]></dc:title>
+            <dc:creator>Chris Woolston</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01523-5</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-24; | doi:10.1038/d41586-024-01523-5</dc:source>
+            <dc:date>2024-05-24</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01523-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01523-5</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07579-7">
             <title><![CDATA[Stereospecific alkenylidene homologation of organoboronates by S<sub>N</sub>V reaction]]></title>
@@ -280,6 +340,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01481-y</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01481-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01569-5">
+            <title><![CDATA[Daily briefing: Why climate change is making flights rougher]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01569-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 23 May 2024; <a href="https://www.nature.com/articles/d41586-024-01569-5">doi:10.1038/d41586-024-01569-5</a></p>Severe turbulence such as those that killed one person on a Singapore Airlines flight, could become more frequent with warming temperatures. Plus, promethium is made into a ‘complex’ for the first time and bizarre bacteria defy textbooks by writing new genes.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Why climate change is making flights rougher]]></dc:title>
+            <dc:creator>Katrina Krämer</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01569-5</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-23; | doi:10.1038/d41586-024-01569-5</dc:source>
+            <dc:date>2024-05-23</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01569-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01569-5</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01500-y">
@@ -807,6 +882,21 @@
             <prism:url>https://www.nature.com/articles/d41586-024-01361-5</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01545-z">
+            <title><![CDATA[Daily briefing: The body odours that make mosquitoes want to bite you]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01545-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 22 May 2024; <a href="https://www.nature.com/articles/d41586-024-01545-z">doi:10.1038/d41586-024-01545-z</a></p>An ambitious field trial in Zambia investigated why mosquitoes seem to find some people more appetizing than others. Plus, anxiety treatments tailored to young brains and the first ‘bilingual’ brain-reading device.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: The body odours that make mosquitoes want to bite you]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01545-z</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-22; | doi:10.1038/d41586-024-01545-z</dc:source>
+            <dc:date>2024-05-22</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01545-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01545-z</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-024-01357-1">
             <title><![CDATA[Instability could explain the Sun’s curious cycle]]></title>
             <link>https://www.nature.com/articles/d41586-024-01357-1</link>
@@ -1210,96 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01404-x</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01404-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01468-9">
-            <title><![CDATA[Harassment of scientists is surging — institutions aren’t sure how to help]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01468-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 21 May 2024; <a href="https://www.nature.com/articles/d41586-024-01468-9">doi:10.1038/d41586-024-01468-9</a></p>As researchers increasingly face many kinds of attack over their work, there is debate about how to support and protect them.]]></content:encoded>
-            <dc:title><![CDATA[Harassment of scientists is surging — institutions aren’t sure how to help]]></dc:title>
-            <dc:creator>Bianca Nogrady</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01468-9</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-21; | doi:10.1038/d41586-024-01468-9</dc:source>
-            <dc:date>2024-05-21</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01468-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01468-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01464-z">
-            <title><![CDATA[A global pandemic treaty is in sight: don’t scupper it]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01464-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 21 May 2024; <a href="https://www.nature.com/articles/d41586-024-01464-z">doi:10.1038/d41586-024-01464-z</a></p>Millions of people died of COVID-19 because the fundamental principle of equity between nations was ignored during the outbreak. That must not be allowed to happen again.]]></content:encoded>
-            <dc:title><![CDATA[A global pandemic treaty is in sight: don’t scupper it]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-01464-z</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-21; | doi:10.1038/d41586-024-01464-z</dc:source>
-            <dc:date>2024-05-21</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01464-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01464-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01469-8">
-            <title><![CDATA[Dumping, pillaging and slavery — why exploitation of the high seas must end]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01469-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 21 May 2024; <a href="https://www.nature.com/articles/d41586-024-01469-8">doi:10.1038/d41586-024-01469-8</a></p>It’s time to sustainably manage the international ocean for marine and human life, says bold investigative book.]]></content:encoded>
-            <dc:title><![CDATA[Dumping, pillaging and slavery — why exploitation of the high seas must end]]></dc:title>
-            <dc:creator>Diva Amon</dc:creator><dc:creator>Juliano Palacios Abrantes</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01469-8</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-21; | doi:10.1038/d41586-024-01469-8</dc:source>
-            <dc:date>2024-05-21</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01469-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01469-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01504-8">
-            <title><![CDATA[Brazil’s plummeting graduate enrolments hint at declining interest in academic science careers]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01504-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 21 May 2024; <a href="https://www.nature.com/articles/d41586-024-01504-8">doi:10.1038/d41586-024-01504-8</a></p>The total number of individuals entering master’s and doctoral programmes dropped 12% between 2019 and 2022, reaching the lowest level in nearly a decade.]]></content:encoded>
-            <dc:title><![CDATA[Brazil’s plummeting graduate enrolments hint at declining interest in academic science careers]]></dc:title>
-            <dc:creator>Rodrigo de Oliveira Andrade</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01504-8</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-21; | doi:10.1038/d41586-024-01504-8</dc:source>
-            <dc:date>2024-05-21</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01504-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01504-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07514-w">
-            <title><![CDATA[A high internal heat flux and large core in a warm neptune exoplanet]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07514-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 20 May 2024; <a href="https://www.nature.com/articles/s41586-024-07514-w">doi:10.1038/s41586-024-07514-w</a></p>A high internal heat flux and large core in a warm neptune exoplanet]]></content:encoded>
-            <dc:title><![CDATA[A high internal heat flux and large core in a warm neptune exoplanet]]></dc:title>
-            <dc:creator>Luis Welbanks</dc:creator><dc:creator>Taylor J. Bell</dc:creator><dc:creator>Thomas G. Beatty</dc:creator><dc:creator>Michael R. Line</dc:creator><dc:creator>Kazumasa Ohno</dc:creator><dc:creator>Jonathan J. Fortney</dc:creator><dc:creator>Everett Schlawin</dc:creator><dc:creator>Thomas P. Greene</dc:creator><dc:creator>Emily Rauscher</dc:creator><dc:creator>Peter McGill</dc:creator><dc:creator>Matthew Murphy</dc:creator><dc:creator>Vivien Parmentier</dc:creator><dc:creator>Yao Tang</dc:creator><dc:creator>Isaac Edelman</dc:creator><dc:creator>Sagnick Mukherjee</dc:creator><dc:creator>Lindsey S. Wiser</dc:creator><dc:creator>Pierre-Olivier Lagage</dc:creator><dc:creator>Achrène Dyrek</dc:creator><dc:creator>Kenneth E. Arnold</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07514-w</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-20; | doi:10.1038/s41586-024-07514-w</dc:source>
-            <dc:date>2024-05-20</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07514-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07514-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07526-6">
-            <title><![CDATA[<i>In vitro</i> reconstitution of epigenetic reprogramming in the human germ line]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07526-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 20 May 2024; <a href="https://www.nature.com/articles/s41586-024-07526-6">doi:10.1038/s41586-024-07526-6</a></p><i>In vitro</i> reconstitution of epigenetic reprogramming in the human germ line]]></content:encoded>
-            <dc:title><![CDATA[<i>In vitro</i> reconstitution of epigenetic reprogramming in the human germ line]]></dc:title>
-            <dc:creator>Yusuke Murase</dc:creator><dc:creator>Ryuta Yokogawa</dc:creator><dc:creator>Yukihiro Yabuta</dc:creator><dc:creator>Masahiro Nagano</dc:creator><dc:creator>Yoshitaka Katou</dc:creator><dc:creator>Manami Mizuyama</dc:creator><dc:creator>Ayaka Kitamura</dc:creator><dc:creator>Pimpitcha Puangsricharoen</dc:creator><dc:creator>Chika Yamashiro</dc:creator><dc:creator>Bo Hu</dc:creator><dc:creator>Ken Mizuta</dc:creator><dc:creator>Kosuke Ogata</dc:creator><dc:creator>Yasushi Ishihama</dc:creator><dc:creator>Mitinori Saitou</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07526-6</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-20; | doi:10.1038/s41586-024-07526-6</dc:source>
-            <dc:date>2024-05-20</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07526-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07526-6</prism:url>
         </item>
     
 </rdf:RDF>
