@@ -18,6 +18,12 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07542-6"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01562-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01564-w"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01548-w"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01452-3"/>
@@ -25,6 +31,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01520-8"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01523-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01570-y"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07579-7"/>
                 
@@ -160,14 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01368-y"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01538-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01465-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01451-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01404-x"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,51 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07542-6">
+            <title><![CDATA[Author Correction: Bitter taste receptor activation by cholesterol and an intracellular tastant]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07542-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 24 May 2024; <a href="https://www.nature.com/articles/s41586-024-07542-6">doi:10.1038/s41586-024-07542-6</a></p>Author Correction: Bitter taste receptor activation by cholesterol and an intracellular tastant]]></content:encoded>
+            <dc:title><![CDATA[Author Correction: Bitter taste receptor activation by cholesterol and an intracellular tastant]]></dc:title>
+            <dc:creator>Yoojoong Kim</dc:creator><dc:creator>Ryan H. Gumpper</dc:creator><dc:creator>Yongfeng Liu</dc:creator><dc:creator>D. Dewran Kocak</dc:creator><dc:creator>Yan Xiong</dc:creator><dc:creator>Can Cao</dc:creator><dc:creator>Zhijie Deng</dc:creator><dc:creator>Brian E. Krumm</dc:creator><dc:creator>Manish K. Jain</dc:creator><dc:creator>Shicheng Zhang</dc:creator><dc:creator>Jian Jin</dc:creator><dc:creator>Bryan L. Roth</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07542-6</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-24; | doi:10.1038/s41586-024-07542-6</dc:source>
+            <dc:date>2024-05-24</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07542-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07542-6</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01562-y">
+            <title><![CDATA[Audio long read: How does ChatGPT ‘think’? Psychology and neuroscience crack open AI large language models]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01562-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 24 May 2024; <a href="https://www.nature.com/articles/d41586-024-01562-y">doi:10.1038/d41586-024-01562-y</a></p>To understand the 'brains' of LLMs, researchers are attempting to reverse-engineering artificial intelligence systems.]]></content:encoded>
+            <dc:title><![CDATA[Audio long read: How does ChatGPT ‘think’? Psychology and neuroscience crack open AI large language models]]></dc:title>
+            <dc:creator>Matthew Hutson</dc:creator><dc:creator>Benjamin Thompson</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01562-y</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-24; | doi:10.1038/d41586-024-01562-y</dc:source>
+            <dc:date>2024-05-24</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01562-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01562-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01564-w">
+            <title><![CDATA[Ozempic keeps wowing: trial data show benefits for kidney disease]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01564-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 24 May 2024; <a href="https://www.nature.com/articles/d41586-024-01564-w">doi:10.1038/d41586-024-01564-w</a></p>Semaglutide, the same compound in obesity drug Wegovy, slashes risk of kidney failure and death for people with diabetes.]]></content:encoded>
+            <dc:title><![CDATA[Ozempic keeps wowing: trial data show benefits for kidney disease]]></dc:title>
+            <dc:creator>Rachel Fairbank</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01564-w</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-24; | doi:10.1038/d41586-024-01564-w</dc:source>
+            <dc:date>2024-05-24</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01564-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01564-w</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01548-w">
             <title><![CDATA[Software tools identify forgotten genes]]></title>
@@ -235,6 +280,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01523-5</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01523-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01570-y">
+            <title><![CDATA[What steps to take when funding starts to run out]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01570-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 24 May 2024; <a href="https://www.nature.com/articles/d41586-024-01570-y">doi:10.1038/d41586-024-01570-y</a></p>Although researchers often face uncertainty when grants expire with no replacement in sight, there are creative ways to ease the dry spell.]]></content:encoded>
+            <dc:title><![CDATA[What steps to take when funding starts to run out]]></dc:title>
+            <dc:creator>Neil Savage</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01570-y</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-24; | doi:10.1038/d41586-024-01570-y</dc:source>
+            <dc:date>2024-05-24</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01570-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01570-y</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07579-7">
@@ -1240,66 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01368-y</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01368-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01538-y">
-            <title><![CDATA[AI &amp; robotics briefing: How psychology and neuroscience crack open the AI ‘black box’]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01538-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 21 May 2024; <a href="https://www.nature.com/articles/d41586-024-01538-y">doi:10.1038/d41586-024-01538-y</a></p>Researchers are borrowing approaches from psychology and neuroscience to find out how large language models ‘think’. Plus, self-driving super lab finds record-breaking laser material and AI-designed drugs get a reality check.]]></content:encoded>
-            <dc:title><![CDATA[AI &amp; robotics briefing: How psychology and neuroscience crack open the AI ‘black box’]]></dc:title>
-            <dc:creator>Katrina Krämer</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01538-y</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-21; | doi:10.1038/d41586-024-01538-y</dc:source>
-            <dc:date>2024-05-21</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01538-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01538-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01465-y">
-            <title><![CDATA[Pay researchers to spot errors in published papers]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01465-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 21 May 2024; <a href="https://www.nature.com/articles/d41586-024-01465-y">doi:10.1038/d41586-024-01465-y</a></p>Borrowing the idea of ‘bug bounties’ from the technology industry could provide a systematic way to detect and correct the errors that litter the scientific literature.]]></content:encoded>
-            <dc:title><![CDATA[Pay researchers to spot errors in published papers]]></dc:title>
-            <dc:creator>Malte Elson</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01465-y</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-21; | doi:10.1038/d41586-024-01465-y</dc:source>
-            <dc:date>2024-05-21</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01465-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01465-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01451-4">
-            <title><![CDATA[First ‘bilingual’ brain-reading device decodes Spanish and English words]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01451-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 21 May 2024; <a href="https://www.nature.com/articles/d41586-024-01451-4">doi:10.1038/d41586-024-01451-4</a></p>Artificial-intelligence system allows a man who cannot speak coherently to have a conversation in the language of his choice.]]></content:encoded>
-            <dc:title><![CDATA[First ‘bilingual’ brain-reading device decodes Spanish and English words]]></dc:title>
-            <dc:creator>Amanda Heidt</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01451-4</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-21; | doi:10.1038/d41586-024-01451-4</dc:source>
-            <dc:date>2024-05-21</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01451-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01451-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01404-x">
-            <title><![CDATA[Lab-grown sperm and eggs: ‘epigenetic’ reset in human cells paves the way]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01404-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 21 May 2024; <a href="https://www.nature.com/articles/d41586-024-01404-x">doi:10.1038/d41586-024-01404-x</a></p>Technique wipes away tags on DNA that must be reprogrammed during development of reproductive cells.]]></content:encoded>
-            <dc:title><![CDATA[Lab-grown sperm and eggs: ‘epigenetic’ reset in human cells paves the way]]></dc:title>
-            <dc:creator>Heidi Ledford</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01404-x</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-21; | doi:10.1038/d41586-024-01404-x</dc:source>
-            <dc:date>2024-05-21</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01404-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01404-x</prism:url>
         </item>
     
 </rdf:RDF>
