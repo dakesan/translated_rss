@@ -18,6 +18,12 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01526-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01534-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01519-1"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07542-6"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01562-y"/>
@@ -162,12 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01487-6"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01488-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01490-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01368-y"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,51 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01526-2">
+            <title><![CDATA[I study artefacts left in prehistoric caves]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01526-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 27 May 2024; <a href="https://www.nature.com/articles/d41586-024-01526-2">doi:10.1038/d41586-024-01526-2</a></p>Basran Burhan helped to date the oldest piece of figurative art discovered so far.]]></content:encoded>
+            <dc:title><![CDATA[I study artefacts left in prehistoric caves]]></dc:title>
+            <dc:creator>James Mitchell Crow</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01526-2</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-27; | doi:10.1038/d41586-024-01526-2</dc:source>
+            <dc:date>2024-05-27</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01526-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01526-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01534-2">
+            <title><![CDATA[How artificial intelligence is helping to identify global inequalities ]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01534-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 27 May 2024; <a href="https://www.nature.com/articles/d41586-024-01534-2">doi:10.1038/d41586-024-01534-2</a></p>Machine learning tools are helping researchers understand how income is distributed and progress towards reducing inequality.]]></content:encoded>
+            <dc:title><![CDATA[How artificial intelligence is helping to identify global inequalities ]]></dc:title>
+            <dc:creator>Dom Byrne</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01534-2</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-27; | doi:10.1038/d41586-024-01534-2</dc:source>
+            <dc:date>2024-05-27</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01534-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01534-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01519-1">
+            <title><![CDATA[Tackling ‘wicked’ problems calls for engineers with social responsibility]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01519-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 27 May 2024; <a href="https://www.nature.com/articles/d41586-024-01519-1">doi:10.1038/d41586-024-01519-1</a></p>Many technologies are high-risk, and their problems cannot be fixed by policy alone; engineers must embrace social responsibility.]]></content:encoded>
+            <dc:title><![CDATA[Tackling ‘wicked’ problems calls for engineers with social responsibility]]></dc:title>
+            <dc:creator>Susan Krumdieck</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01519-1</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-27; | doi:10.1038/d41586-024-01519-1</dc:source>
+            <dc:date>2024-05-27</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01519-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01519-1</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07542-6">
             <title><![CDATA[Author Correction: Bitter taste receptor activation by cholesterol and an intracellular tastant]]></title>
@@ -1255,51 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01487-6</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01487-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01488-5">
-            <title><![CDATA[Social-media influence on teen mental health goes beyond just cause and effect]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01488-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 21 May 2024; <a href="https://www.nature.com/articles/d41586-024-01488-5">doi:10.1038/d41586-024-01488-5</a></p>Social-media influence on teen mental health goes beyond just cause and effect]]></content:encoded>
-            <dc:title><![CDATA[Social-media influence on teen mental health goes beyond just cause and effect]]></dc:title>
-            <dc:creator>Michael A. Spikes</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01488-5</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-21; | doi:10.1038/d41586-024-01488-5</dc:source>
-            <dc:date>2024-05-21</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01488-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01488-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01490-x">
-            <title><![CDATA[Lack of effective intercultural communication is hobbling academia — fix it for research equity]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01490-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 21 May 2024; <a href="https://www.nature.com/articles/d41586-024-01490-x">doi:10.1038/d41586-024-01490-x</a></p>Lack of effective intercultural communication is hobbling academia — fix it for research equity]]></content:encoded>
-            <dc:title><![CDATA[Lack of effective intercultural communication is hobbling academia — fix it for research equity]]></dc:title>
-            <dc:creator>Shoumit Dey</dc:creator><dc:creator>Pooja Sharma</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01490-x</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-21; | doi:10.1038/d41586-024-01490-x</dc:source>
-            <dc:date>2024-05-21</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01490-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01490-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01368-y">
-            <title><![CDATA[Save the forest to save the tiger — why vegetation conservation matters]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01368-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 21 May 2024; <a href="https://www.nature.com/articles/d41586-024-01368-y">doi:10.1038/d41586-024-01368-y</a></p>The Royal Botanic Gardens, Kew, emphasizes the importance of conserving wild plant species, plus a wonderstruck sky-watcher spots a brilliant meteor, in the weekly dip into Nature’s archive.]]></content:encoded>
-            <dc:title><![CDATA[Save the forest to save the tiger — why vegetation conservation matters]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-01368-y</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-21; | doi:10.1038/d41586-024-01368-y</dc:source>
-            <dc:date>2024-05-21</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01368-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01368-y</prism:url>
         </item>
     
 </rdf:RDF>
