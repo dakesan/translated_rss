@@ -20,6 +20,8 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01526-2"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01571-x"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01534-2"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01519-1"/>
@@ -166,8 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01491-w"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01487-6"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -190,6 +190,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01526-2</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01526-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01571-x">
+            <title><![CDATA[Researcher parents are paying a high price for conference travel — here’s how to fix it]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01571-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 27 May 2024; <a href="https://www.nature.com/articles/d41586-024-01571-x">doi:10.1038/d41586-024-01571-x</a></p>Three scientist mothers call for a change in how conference childcare costs are reimbursed, drawing on their personal experiences.]]></content:encoded>
+            <dc:title><![CDATA[Researcher parents are paying a high price for conference travel — here’s how to fix it]]></dc:title>
+            <dc:creator>Laura Carter</dc:creator><dc:creator>Laura Wolz</dc:creator><dc:creator>Laura J. Pallett</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01571-x</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-27; | doi:10.1038/d41586-024-01571-x</dc:source>
+            <dc:date>2024-05-27</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01571-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01571-x</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01534-2">
@@ -1285,21 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01491-w</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01491-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01487-6">
-            <title><![CDATA[Mars rover mission will use pioneering nuclear power source]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01487-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 21 May 2024; <a href="https://www.nature.com/articles/d41586-024-01487-6">doi:10.1038/d41586-024-01487-6</a></p>The radioactive unit will help to deliver Europe’s first Mars rover to the planet’s surface.]]></content:encoded>
-            <dc:title><![CDATA[Mars rover mission will use pioneering nuclear power source]]></dc:title>
-            <dc:creator>Elizabeth Gibney</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01487-6</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-21; | doi:10.1038/d41586-024-01487-6</dc:source>
-            <dc:date>2024-05-21</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01487-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01487-6</prism:url>
         </item>
     
 </rdf:RDF>
