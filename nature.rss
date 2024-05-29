@@ -18,11 +18,17 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07581-z"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01573-9"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01576-6"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01369-x"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01574-8"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01563-x"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01575-7"/>
                 
@@ -30,9 +36,17 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01517-3"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01515-5"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01522-6"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01442-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01525-3"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01572-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01483-w"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01547-x"/>
                 
@@ -51,6 +65,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01564-w"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01548-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01579-3"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01452-3"/>
                 
@@ -152,22 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01543-1"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01463-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01477-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01494-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01466-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01358-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01407-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01320-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01480-z"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,21 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07581-z">
+            <title><![CDATA[Asymmetric hydrogenation of ketimines with minimally different alkyl groups]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07581-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 May 2024; <a href="https://www.nature.com/articles/s41586-024-07581-z">doi:10.1038/s41586-024-07581-z</a></p>Asymmetric hydrogenation of ketimines with minimally different alkyl groups]]></content:encoded>
+            <dc:title><![CDATA[Asymmetric hydrogenation of ketimines with minimally different alkyl groups]]></dc:title>
+            <dc:creator>Mingyang Wang</dc:creator><dc:creator>Shihan Liu</dc:creator><dc:creator>Hao Liu</dc:creator><dc:creator>Yujie Wang</dc:creator><dc:creator>Yu Lan</dc:creator><dc:creator>Qiang Liu</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07581-z</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-28; | doi:10.1038/s41586-024-07581-z</dc:source>
+            <dc:date>2024-05-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07581-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07581-z</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01573-9">
             <title><![CDATA[Anglo-American bias could make generative AI an invisible intellectual cage]]></title>
@@ -207,6 +222,21 @@
             <prism:url>https://www.nature.com/articles/d41586-024-01576-6</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01369-x">
+            <title><![CDATA[Pollen problems: May brings dismay to a hay-fever sufferer in 1874]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01369-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 May 2024; <a href="https://www.nature.com/articles/d41586-024-01369-x">doi:10.1038/d41586-024-01369-x</a></p>A book on everyday biology that appeals to non-specialists and specialists alike, and a trek through hay fields causes one Nature reader to experience relentless ‘sneezings’, in the weekly dip into Nature’s archive.]]></content:encoded>
+            <dc:title><![CDATA[Pollen problems: May brings dismay to a hay-fever sufferer in 1874]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-01369-x</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-28; | doi:10.1038/d41586-024-01369-x</dc:source>
+            <dc:date>2024-05-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01369-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01369-x</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-024-01574-8">
             <title><![CDATA[Adopt stricter regulation to stop ‘critical mineral’ greenwashing]]></title>
             <link>https://www.nature.com/articles/d41586-024-01574-8</link>
@@ -220,6 +250,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01574-8</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01574-8</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01563-x">
+            <title><![CDATA[How mathematician Freeman Hrabowski opened doors for Black scientists]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01563-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 May 2024; <a href="https://www.nature.com/articles/d41586-024-01563-x">doi:10.1038/d41586-024-01563-x</a></p>Over 30 years, the scholarship programme Hrabowski founded has supported more than 1,500 Black students. He spoke to Nature for our new Changemakers series.]]></content:encoded>
+            <dc:title><![CDATA[How mathematician Freeman Hrabowski opened doors for Black scientists]]></dc:title>
+            <dc:creator>Benjamin Thompson</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01563-x</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-28; | doi:10.1038/d41586-024-01563-x</dc:source>
+            <dc:date>2024-05-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01563-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01563-x</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01575-7">
@@ -267,6 +312,21 @@
             <prism:url>https://www.nature.com/articles/d41586-024-01517-3</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01515-5">
+            <title><![CDATA[Changemakers — <i>Nature</i>’s new series celebrates champions of inclusion in science]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01515-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 May 2024; <a href="https://www.nature.com/articles/d41586-024-01515-5">doi:10.1038/d41586-024-01515-5</a></p>All around the world, people are pushing back against racism, gender bias and other forms of discrimination to make a positive difference. Our series will tell their stories and highlight their achievements.]]></content:encoded>
+            <dc:title><![CDATA[Changemakers — <i>Nature</i>’s new series celebrates champions of inclusion in science]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-01515-5</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-28; | doi:10.1038/d41586-024-01515-5</dc:source>
+            <dc:date>2024-05-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01515-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01515-5</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-024-01522-6">
             <title><![CDATA[Risks of bridge collapses are real and set to rise — here’s why]]></title>
             <link>https://www.nature.com/articles/d41586-024-01522-6</link>
@@ -295,6 +355,51 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01442-5</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01442-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01525-3">
+            <title><![CDATA[I had my white colleagues walk in a Black student’s shoes for a day]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01525-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 May 2024; <a href="https://www.nature.com/articles/d41586-024-01525-3">doi:10.1038/d41586-024-01525-3</a></p>Freeman Hrabowski learnt the power of bold actions when he marched for civil rights in his youth. Since then, he has encouraged others to question the status quo — and affirm Black student success in the sciences.]]></content:encoded>
+            <dc:title><![CDATA[I had my white colleagues walk in a Black student’s shoes for a day]]></dc:title>
+            <dc:creator>Virginia Gewin</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01525-3</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-28; | doi:10.1038/d41586-024-01525-3</dc:source>
+            <dc:date>2024-05-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01525-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01525-3</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01572-w">
+            <title><![CDATA[Autistic people three times more likely to develop Parkinson's-like symptoms]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01572-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 May 2024; <a href="https://www.nature.com/articles/d41586-024-01572-w">doi:10.1038/d41586-024-01572-w</a></p>Largest study of its kind also finds increased risk in older adults with a range of intellectual disabilities.]]></content:encoded>
+            <dc:title><![CDATA[Autistic people three times more likely to develop Parkinson's-like symptoms]]></dc:title>
+            <dc:creator>Miryam Naddaf</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01572-w</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-28; | doi:10.1038/d41586-024-01572-w</dc:source>
+            <dc:date>2024-05-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01572-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01572-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01483-w">
+            <title><![CDATA[The immune system can sabotage gene therapies — can scientists rein it in?]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01483-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 May 2024; <a href="https://www.nature.com/articles/d41586-024-01483-w">doi:10.1038/d41586-024-01483-w</a></p>People treated with gene therapy cannot receive a second dose for fear of a dangerous immune response. Researchers hope to find a way around this.]]></content:encoded>
+            <dc:title><![CDATA[The immune system can sabotage gene therapies — can scientists rein it in?]]></dc:title>
+            <dc:creator>Heidi Ledford</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01483-w</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-28; | doi:10.1038/d41586-024-01483-w</dc:source>
+            <dc:date>2024-05-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01483-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01483-w</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01547-x">
@@ -430,6 +535,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01548-w</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01548-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01579-3">
+            <title><![CDATA[Daily briefing: Carrion crows have counting skills seen only in people]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01579-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 24 May 2024; <a href="https://www.nature.com/articles/d41586-024-01579-3">doi:10.1038/d41586-024-01579-3</a></p>Carrion crows can reliably caw a number of times – from one to four – on command. Plus, scientists are racing to make AlphaFold3 more accessible and a new pathway for fentanyl addiction.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Carrion crows have counting skills seen only in people]]></dc:title>
+            <dc:creator>Katrina Krämer</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01579-3</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-24; | doi:10.1038/d41586-024-01579-3</dc:source>
+            <dc:date>2024-05-24</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01579-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01579-3</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01452-3">
@@ -1180,126 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01543-1</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01543-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01463-0">
-            <title><![CDATA[AlphaFold3 — why did <i>Nature</i> publish it without its code?]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01463-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 22 May 2024; <a href="https://www.nature.com/articles/d41586-024-01463-0">doi:10.1038/d41586-024-01463-0</a></p>Criticism of our decision to publish AlphaFold3 raises important questions. We welcome readers’ views.]]></content:encoded>
-            <dc:title><![CDATA[AlphaFold3 — why did <i>Nature</i> publish it without its code?]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-01463-0</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-22; | doi:10.1038/d41586-024-01463-0</dc:source>
-            <dc:date>2024-05-22</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01463-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01463-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01477-8">
-            <title><![CDATA[Bizarre bacteria defy textbooks by writing new genes]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01477-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 22 May 2024; <a href="https://www.nature.com/articles/d41586-024-01477-8">doi:10.1038/d41586-024-01477-8</a></p>Bacterial defensive systems scramble the standard workflow of life.]]></content:encoded>
-            <dc:title><![CDATA[Bizarre bacteria defy textbooks by writing new genes]]></dc:title>
-            <dc:creator>Ewen Callaway</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01477-8</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-22; | doi:10.1038/d41586-024-01477-8</dc:source>
-            <dc:date>2024-05-22</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01477-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01477-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01494-7">
-            <title><![CDATA[Can mathematicians help to solve social-justice problems?]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01494-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 22 May 2024; <a href="https://www.nature.com/articles/d41586-024-01494-7">doi:10.1038/d41586-024-01494-7</a></p>Researchers discuss the triumphs and trials of using their craft to tackle society’s greatest challenges.]]></content:encoded>
-            <dc:title><![CDATA[Can mathematicians help to solve social-justice problems?]]></dc:title>
-            <dc:creator>Rachel   Crowell</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01494-7</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-22; | doi:10.1038/d41586-024-01494-7</dc:source>
-            <dc:date>2024-05-22</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01494-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01494-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01466-x">
-            <title><![CDATA[Why role-playing games can spur climate action]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01466-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 22 May 2024; <a href="https://www.nature.com/articles/d41586-024-01466-x">doi:10.1038/d41586-024-01466-x</a></p>Solving problems in a safe, collaborative environment can help us think out of the box and build empathy — crucial skills in a warming world.]]></content:encoded>
-            <dc:title><![CDATA[Why role-playing games can spur climate action]]></dc:title>
-            <dc:creator>Sam Illingworth</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01466-x</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-22; | doi:10.1038/d41586-024-01466-x</dc:source>
-            <dc:date>2024-05-22</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01466-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01466-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01358-0">
-            <title><![CDATA[Designer porous solids open up vast sandbox for materials research]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01358-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 22 May 2024; <a href="https://www.nature.com/articles/d41586-024-01358-0">doi:10.1038/d41586-024-01358-0</a></p>A simple design approach and predictive computational methods have spawned a pathway for making materials that could trap specific molecules — an ability needed for applications such as carbon capture.]]></content:encoded>
-            <dc:title><![CDATA[Designer porous solids open up vast sandbox for materials research]]></dc:title>
-            <dc:creator>Dejan-Krešimir Bučar</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01358-0</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-22; | doi:10.1038/d41586-024-01358-0</dc:source>
-            <dc:date>2024-05-22</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01358-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01358-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01407-8">
-            <title><![CDATA[Time’s restless ocean]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01407-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 22 May 2024; <a href="https://www.nature.com/articles/d41586-024-01407-8">doi:10.1038/d41586-024-01407-8</a></p>A qualified success.]]></content:encoded>
-            <dc:title><![CDATA[Time’s restless ocean]]></dc:title>
-            <dc:creator>Jacey Bedford</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01407-8</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-22; | doi:10.1038/d41586-024-01407-8</dc:source>
-            <dc:date>2024-05-22</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01407-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01407-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01320-0">
-            <title><![CDATA[AI networks reveal how flies find a mate]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01320-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 22 May 2024; <a href="https://www.nature.com/articles/d41586-024-01320-0">doi:10.1038/d41586-024-01320-0</a></p>Artificial neural networks that model the visual system of a male fruit fly can accurately predict the insect’s behaviour in response to seeing a potential mate — paving the way for the building of more complex models of brain circuits.]]></content:encoded>
-            <dc:title><![CDATA[AI networks reveal how flies find a mate]]></dc:title>
-            <dc:creator>Pavan Ramdya</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01320-0</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-22; | doi:10.1038/d41586-024-01320-0</dc:source>
-            <dc:date>2024-05-22</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01320-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01320-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01480-z">
-            <title><![CDATA[Element from the periodic table’s far reaches coaxed into elusive compound]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01480-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 22 May 2024; <a href="https://www.nature.com/articles/d41586-024-01480-z">doi:10.1038/d41586-024-01480-z</a></p>Chemists achieve synthetic feat with radioactive promethium for the first time.]]></content:encoded>
-            <dc:title><![CDATA[Element from the periodic table’s far reaches coaxed into elusive compound]]></dc:title>
-            <dc:creator>Mark Peplow</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01480-z</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-22; | doi:10.1038/d41586-024-01480-z</dc:source>
-            <dc:date>2024-05-22</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01480-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01480-z</prism:url>
         </item>
     
 </rdf:RDF>
