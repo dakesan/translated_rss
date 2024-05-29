@@ -18,6 +18,14 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01533-3"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01518-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00467-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01516-4"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07581-z"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01573-9"/>
@@ -160,14 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01359-z"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01361-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01545-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01357-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01543-1"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,66 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01533-3">
+            <title><![CDATA[Exclusive: How NASA astronauts are training to walk on the Moon in 2026]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01533-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 29 May 2024; <a href="https://www.nature.com/articles/d41586-024-01533-3">doi:10.1038/d41586-024-01533-3</a></p>Simulated lunar exploration in an Arizona volcanic field this month helped astronauts to prepare for doing geology in harsh conditions at the lunar south pole. Nature joined mission control.]]></content:encoded>
+            <dc:title><![CDATA[Exclusive: How NASA astronauts are training to walk on the Moon in 2026]]></dc:title>
+            <dc:creator>Alexandra Witze</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01533-3</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-29; | doi:10.1038/d41586-024-01533-3</dc:source>
+            <dc:date>2024-05-29</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01533-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01533-3</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01518-2">
+            <title><![CDATA[A myopia epidemic is sweeping the globe. Here’s how to stop it]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01518-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 29 May 2024; <a href="https://www.nature.com/articles/d41586-024-01518-2">doi:10.1038/d41586-024-01518-2</a></p>Time spent outdoors is the best defence against rising rates of short-sightedness, but scientists are searching for other ways to reverse the troubling trend.]]></content:encoded>
+            <dc:title><![CDATA[A myopia epidemic is sweeping the globe. Here’s how to stop it]]></dc:title>
+            <dc:creator>Elie Dolgin</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01518-2</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-29; | doi:10.1038/d41586-024-01518-2</dc:source>
+            <dc:date>2024-05-29</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01518-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01518-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00467-0">
+            <title><![CDATA[Monkey business: primates’ social life tracked with wireless neuronal recording]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00467-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 29 May 2024; <a href="https://www.nature.com/articles/d41586-024-00467-0">doi:10.1038/d41586-024-00467-0</a></p>Primates have rich social lives orchestrated by brain circuits that are still poorly understood, partly because they have not been studied under naturalistic conditions. New wireless technology for recording neuronal activity in freely moving monkeys enabled insights into how neurons track natural social interactions, including reciprocity and social support towards a partner.]]></content:encoded>
+            <dc:title><![CDATA[Monkey business: primates’ social life tracked with wireless neuronal recording]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-00467-0</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-29; | doi:10.1038/d41586-024-00467-0</dc:source>
+            <dc:date>2024-05-29</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00467-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00467-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01516-4">
+            <title><![CDATA[<i>Nature</i>’s message to South Africa’s next government: talk to your researchers]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01516-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 29 May 2024; <a href="https://www.nature.com/articles/d41586-024-01516-4">doi:10.1038/d41586-024-01516-4</a></p>The young nation faces some deep-rooted challenges. Solutions informed by science could make a difference.]]></content:encoded>
+            <dc:title><![CDATA[<i>Nature</i>’s message to South Africa’s next government: talk to your researchers]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-01516-4</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-29; | doi:10.1038/d41586-024-01516-4</dc:source>
+            <dc:date>2024-05-29</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01516-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01516-4</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07581-z">
             <title><![CDATA[Asymmetric hydrogenation of ketimines with minimally different alkyl groups]]></title>
@@ -1240,66 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01359-z</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01359-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01361-5">
-            <title><![CDATA[Neural pathways for reward and relief promote fentanyl addiction]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01361-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 22 May 2024; <a href="https://www.nature.com/articles/d41586-024-01361-5">doi:10.1038/d41586-024-01361-5</a></p>Neuroscientists find that two distinct neural pathways are responsible for the addictive properties of the opioid fentanyl: one mediates reward, the other promotes the seeking of relief from symptoms of withdrawal.]]></content:encoded>
-            <dc:title><![CDATA[Neural pathways for reward and relief promote fentanyl addiction]]></dc:title>
-            <dc:creator>Markus Heilig</dc:creator><dc:creator>Michele Petrella</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01361-5</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-22; | doi:10.1038/d41586-024-01361-5</dc:source>
-            <dc:date>2024-05-22</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01361-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01361-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01545-z">
-            <title><![CDATA[Daily briefing: The body odours that make mosquitoes want to bite you]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01545-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 22 May 2024; <a href="https://www.nature.com/articles/d41586-024-01545-z">doi:10.1038/d41586-024-01545-z</a></p>An ambitious field trial in Zambia investigated why mosquitoes seem to find some people more appetizing than others. Plus, anxiety treatments tailored to young brains and the first ‘bilingual’ brain-reading device.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: The body odours that make mosquitoes want to bite you]]></dc:title>
-            <dc:creator>Flora Graham</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01545-z</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-22; | doi:10.1038/d41586-024-01545-z</dc:source>
-            <dc:date>2024-05-22</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01545-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01545-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01357-1">
-            <title><![CDATA[Instability could explain the Sun’s curious cycle]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01357-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 22 May 2024; <a href="https://www.nature.com/articles/d41586-024-01357-1">doi:10.1038/d41586-024-01357-1</a></p>A phenomenon that affects the magnetic fields of rotating bodies could be involved in recurring changes in the Sun’s behaviour, which are related to a periodic flipping of its field. The proposal is a fresh take on this strange effect.]]></content:encoded>
-            <dc:title><![CDATA[Instability could explain the Sun’s curious cycle]]></dc:title>
-            <dc:creator>Ellen Zweibel</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01357-1</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-22; | doi:10.1038/d41586-024-01357-1</dc:source>
-            <dc:date>2024-05-22</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01357-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01357-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01543-1">
-            <title><![CDATA[Guidelines for academics aim to lessen ethical pitfalls in generative-AI use]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01543-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 22 May 2024; <a href="https://www.nature.com/articles/d41586-024-01543-1">doi:10.1038/d41586-024-01543-1</a></p>Researchers warn against normalizing the use of AI without safeguarding against risks.]]></content:encoded>
-            <dc:title><![CDATA[Guidelines for academics aim to lessen ethical pitfalls in generative-AI use]]></dc:title>
-            <dc:creator>Liam Drew</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01543-1</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-22; | doi:10.1038/d41586-024-01543-1</dc:source>
-            <dc:date>2024-05-22</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01543-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01543-1</prism:url>
         </item>
     
 </rdf:RDF>
