@@ -18,6 +18,12 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01530-6"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01611-6"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01347-3"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07414-z"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07593-9"/>
@@ -98,6 +104,8 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01429-2"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01615-2"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01516-4"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01549-9"/>
@@ -160,14 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01564-w"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01548-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01579-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01605-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01452-3"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,51 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01530-6">
+            <title><![CDATA[More than a billion people live in ‘energy poverty’]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01530-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 30 May 2024; <a href="https://www.nature.com/articles/d41586-024-01530-6">doi:10.1038/d41586-024-01530-6</a></p>Satellite data help to show that many people with access to electricity cannot take advantage of it.]]></content:encoded>
+            <dc:title><![CDATA[More than a billion people live in ‘energy poverty’]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-01530-6</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-30; | doi:10.1038/d41586-024-01530-6</dc:source>
+            <dc:date>2024-05-30</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01530-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01530-6</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01611-6">
+            <title><![CDATA[Defying the stereotype of Black resilience]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01611-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 30 May 2024; <a href="https://www.nature.com/articles/d41586-024-01611-6">doi:10.1038/d41586-024-01611-6</a></p>As head of the Black In Neuro network, Kaela S. Singleton argues that Black success should not require hardship or struggle.]]></content:encoded>
+            <dc:title><![CDATA[Defying the stereotype of Black resilience]]></dc:title>
+            <dc:creator>Jyoti Madhusoodanan</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01611-6</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-30; | doi:10.1038/d41586-024-01611-6</dc:source>
+            <dc:date>2024-05-30</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01611-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01611-6</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01347-3">
+            <title><![CDATA[Disputed dark-matter claim to be tested by new lab in South Korea]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01347-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 30 May 2024; <a href="https://www.nature.com/articles/d41586-024-01347-3">doi:10.1038/d41586-024-01347-3</a></p>A multi-million dollar facility is hoping to put a 21-year-old debate about dark matter to rest.]]></content:encoded>
+            <dc:title><![CDATA[Disputed dark-matter claim to be tested by new lab in South Korea]]></dc:title>
+            <dc:creator>Gemma Conroy</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01347-3</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-30; | doi:10.1038/d41586-024-01347-3</dc:source>
+            <dc:date>2024-05-30</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01347-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01347-3</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07414-z">
             <title><![CDATA[Author Correction: Cryo-EM structures of apo and antagonist-bound human Ca<sub>v</sub>3.1]]></title>
@@ -777,6 +822,21 @@
             <prism:url>https://www.nature.com/articles/d41586-024-01429-2</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01615-2">
+            <title><![CDATA[Daily briefing: Autism triples risk of Parkinson’s-like symptoms]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01615-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 29 May 2024; <a href="https://www.nature.com/articles/d41586-024-01615-2">doi:10.1038/d41586-024-01615-2</a></p>People with autism, intellectual disabilities or both are three times more likely than the general population to develop Parkinson’s-like symptoms as they age. Plus, a study seems to cast doubt on the theory that sleep cleanses the brain and what to do when funding runs out.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Autism triples risk of Parkinson’s-like symptoms]]></dc:title>
+            <dc:creator>Katrina Krämer</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01615-2</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-29; | doi:10.1038/d41586-024-01615-2</dc:source>
+            <dc:date>2024-05-29</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01615-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01615-2</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-024-01516-4">
             <title><![CDATA[<i>Nature</i>’s message to South Africa’s next government: talk to your researchers]]></title>
             <link>https://www.nature.com/articles/d41586-024-01516-4</link>
@@ -1078,11 +1138,11 @@
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01572-w">
-            <title><![CDATA[Autistic people three times more likely to develop Parkinson's-like symptoms]]></title>
+            <title><![CDATA[Autistic people three times more likely to develop Parkinson’s-like symptoms]]></title>
             <link>https://www.nature.com/articles/d41586-024-01572-w</link>
             <content:encoded>
                 <![CDATA[<p>Nature, Published online: 28 May 2024; <a href="https://www.nature.com/articles/d41586-024-01572-w">doi:10.1038/d41586-024-01572-w</a></p>Largest study of its kind also finds increased risk in older adults with a range of intellectual disabilities.]]></content:encoded>
-            <dc:title><![CDATA[Autistic people three times more likely to develop Parkinson's-like symptoms]]></dc:title>
+            <dc:title><![CDATA[Autistic people three times more likely to develop Parkinson’s-like symptoms]]></dc:title>
             <dc:creator>Miryam Naddaf</dc:creator>
             <dc:identifier>doi:10.1038/d41586-024-01572-w</dc:identifier>
             <dc:source>Nature, Published online: 2024-05-28; | doi:10.1038/d41586-024-01572-w</dc:source>
@@ -1240,66 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01564-w</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01564-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01548-w">
-            <title><![CDATA[Software tools identify forgotten genes]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01548-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 24 May 2024; <a href="https://www.nature.com/articles/d41586-024-01548-w">doi:10.1038/d41586-024-01548-w</a></p>Find My Understudied Genes and the Unknome database highlight interesting genes that have been neglected by science.]]></content:encoded>
-            <dc:title><![CDATA[Software tools identify forgotten genes]]></dc:title>
-            <dc:creator>Matthew Hutson</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01548-w</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-24; | doi:10.1038/d41586-024-01548-w</dc:source>
-            <dc:date>2024-05-24</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01548-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01548-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01579-3">
-            <title><![CDATA[Daily briefing: Carrion crows have counting skills seen only in people]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01579-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 24 May 2024; <a href="https://www.nature.com/articles/d41586-024-01579-3">doi:10.1038/d41586-024-01579-3</a></p>Carrion crows can reliably caw a number of times – from one to four – on command. Plus, scientists are racing to make AlphaFold3 more accessible and a new pathway for fentanyl addiction.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: Carrion crows have counting skills seen only in people]]></dc:title>
-            <dc:creator>Katrina Krämer</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01579-3</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-24; | doi:10.1038/d41586-024-01579-3</dc:source>
-            <dc:date>2024-05-24</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01579-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01579-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01605-4">
-            <title><![CDATA[Daily briefing: Neanderthals and humans made babies — briefly]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01605-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 24 May 2024; <a href="https://www.nature.com/articles/d41586-024-01605-4">doi:10.1038/d41586-024-01605-4</a></p>Mixing between Neanderthals and Homo sapiens lasted less than 7,000 years — a remarkably short time on evolutionary scale. Plus, Ozempic shows benefits for kidney disease and how researchers in remote regions handle the isolation.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: Neanderthals and humans made babies — briefly]]></dc:title>
-            <dc:creator>Katrina Krämer</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01605-4</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-24; | doi:10.1038/d41586-024-01605-4</dc:source>
-            <dc:date>2024-05-24</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01605-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01605-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01452-3">
-            <title><![CDATA[Neanderthal–human baby-making was recent — and brief]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01452-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 24 May 2024; <a href="https://www.nature.com/articles/d41586-024-01452-3">doi:10.1038/d41586-024-01452-3</a></p>Analysis of dozens of ancient genomes reveals that close encounters between the two species took place in a narrow time window.]]></content:encoded>
-            <dc:title><![CDATA[Neanderthal–human baby-making was recent — and brief]]></dc:title>
-            <dc:creator>Michael Eisenstein</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01452-3</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-24; | doi:10.1038/d41586-024-01452-3</dc:source>
-            <dc:date>2024-05-24</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01452-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01452-3</prism:url>
         </item>
     
 </rdf:RDF>
