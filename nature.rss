@@ -18,9 +18,21 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07562-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01532-4"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01530-6"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01616-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01493-8"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01611-6"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01583-7"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01556-w"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01347-3"/>
                 
@@ -156,18 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01526-2"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01571-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01534-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01519-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07542-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01562-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01564-w"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,36 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07562-2">
+            <title><![CDATA[Publisher Correction: Anti-TIGIT antibody improves PD-L1 blockade through myeloid and T<sub>reg</sub> cells]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07562-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 30 May 2024; <a href="https://www.nature.com/articles/s41586-024-07562-2">doi:10.1038/s41586-024-07562-2</a></p>Publisher Correction: Anti-TIGIT antibody improves PD-L1 blockade through myeloid and T<sub>reg</sub> cells]]></content:encoded>
+            <dc:title><![CDATA[Publisher Correction: Anti-TIGIT antibody improves PD-L1 blockade through myeloid and T<sub>reg</sub> cells]]></dc:title>
+            <dc:creator>Xiangnan Guan</dc:creator><dc:creator>Ruozhen Hu</dc:creator><dc:creator>Yoonha Choi</dc:creator><dc:creator>Shyam Srivats</dc:creator><dc:creator>Barzin Y. Nabet</dc:creator><dc:creator>John Silva</dc:creator><dc:creator>Lisa McGinnis</dc:creator><dc:creator>Robert Hendricks</dc:creator><dc:creator>Katherine Nutsch</dc:creator><dc:creator>Karl L. Banta</dc:creator><dc:creator>Ellen Duong</dc:creator><dc:creator>Alexis Dunkle</dc:creator><dc:creator>Patrick S. Chang</dc:creator><dc:creator>Chia-Jung Han</dc:creator><dc:creator>Stephanie Mittman</dc:creator><dc:creator>Nandini Molden</dc:creator><dc:creator>Pallavi Daggumati</dc:creator><dc:creator>Wendy Connolly</dc:creator><dc:creator>Melissa Johnson</dc:creator><dc:creator>Delvys Rodriguez Abreu</dc:creator><dc:creator>Byoung Chul Cho</dc:creator><dc:creator>Antoine Italiano</dc:creator><dc:creator>Ignacio Gil-Bazo</dc:creator><dc:creator>Enriqueta Felip</dc:creator><dc:creator>Ira Mellman</dc:creator><dc:creator>Sanjeev Mariathasan</dc:creator><dc:creator>David S. Shames</dc:creator><dc:creator>Raymond Meng</dc:creator><dc:creator>Eugene Y. Chiang</dc:creator><dc:creator>Robert J. Johnston</dc:creator><dc:creator>Namrata S. Patil</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07562-2</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-30; | doi:10.1038/s41586-024-07562-2</dc:source>
+            <dc:date>2024-05-30</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07562-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07562-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01532-4">
+            <title><![CDATA[Karaoke-related stress soars after a good night of REM sleep]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01532-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 30 May 2024; <a href="https://www.nature.com/articles/d41586-024-01532-4">doi:10.1038/d41586-024-01532-4</a></p>The emotional load of listening to one’s own performance is preserved by a certain type of sleep.]]></content:encoded>
+            <dc:title><![CDATA[Karaoke-related stress soars after a good night of REM sleep]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-01532-4</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-30; | doi:10.1038/d41586-024-01532-4</dc:source>
+            <dc:date>2024-05-30</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01532-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01532-4</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01530-6">
             <title><![CDATA[More than a billion people live in ‘energy poverty’]]></title>
@@ -192,6 +222,36 @@
             <prism:url>https://www.nature.com/articles/d41586-024-01530-6</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01616-1">
+            <title><![CDATA[How I overcame my stage fright in the lab]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01616-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 30 May 2024; <a href="https://www.nature.com/articles/d41586-024-01616-1">doi:10.1038/d41586-024-01616-1</a></p>Kwabena Boahen Asare was determined to conquer his fear of public speaking after landing a research placement that required him to give weekly presentations.]]></content:encoded>
+            <dc:title><![CDATA[How I overcame my stage fright in the lab]]></dc:title>
+            <dc:creator>Kwabena Asare</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01616-1</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-30; | doi:10.1038/d41586-024-01616-1</dc:source>
+            <dc:date>2024-05-30</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01616-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01616-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01493-8">
+            <title><![CDATA[Japan’s push to make all research open access is taking shape]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01493-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 30 May 2024; <a href="https://www.nature.com/articles/d41586-024-01493-8">doi:10.1038/d41586-024-01493-8</a></p>Japan will start allocating the 10 billion yen it promised to spend on institutional repositories to make the nation’s science free to read.]]></content:encoded>
+            <dc:title><![CDATA[Japan’s push to make all research open access is taking shape]]></dc:title>
+            <dc:creator>Dalmeet Singh Chawla</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01493-8</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-30; | doi:10.1038/d41586-024-01493-8</dc:source>
+            <dc:date>2024-05-30</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01493-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01493-8</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-024-01611-6">
             <title><![CDATA[Defying the stereotype of Black resilience]]></title>
             <link>https://www.nature.com/articles/d41586-024-01611-6</link>
@@ -205,6 +265,36 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01611-6</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01611-6</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01583-7">
+            <title><![CDATA[Mexico’s next president is likely to be this scientist — but researchers are split in their support]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01583-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 30 May 2024; <a href="https://www.nature.com/articles/d41586-024-01583-7">doi:10.1038/d41586-024-01583-7</a></p>Some are hopeful, but others worry that Claudia Sheinbaum Pardo will follow in her controversial predecessor’s footsteps rather than stand up for science.]]></content:encoded>
+            <dc:title><![CDATA[Mexico’s next president is likely to be this scientist — but researchers are split in their support]]></dc:title>
+            <dc:creator>Humberto Basilio</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01583-7</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-30; | doi:10.1038/d41586-024-01583-7</dc:source>
+            <dc:date>2024-05-30</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01583-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01583-7</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01556-w">
+            <title><![CDATA[Measuring the forces that shape early human embryos]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01556-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 30 May 2024; <a href="https://www.nature.com/articles/d41586-024-01556-w">doi:10.1038/d41586-024-01556-w</a></p>Contractile forces at the surface of cells of early human embryos bring the cells together. When these forces are absent, the embryo will not develop further. ‘Weak’ cells do not produce these forces and cannot contribute to the embryo. These observations should influence clinical choices during assisted reproductive-technology procedures.]]></content:encoded>
+            <dc:title><![CDATA[Measuring the forces that shape early human embryos]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-01556-w</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-30; | doi:10.1038/d41586-024-01556-w</dc:source>
+            <dc:date>2024-05-30</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01556-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01556-w</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01347-3">
@@ -1210,96 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01526-2</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01526-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01571-x">
-            <title><![CDATA[Researcher parents are paying a high price for conference travel — here’s how to fix it]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01571-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 27 May 2024; <a href="https://www.nature.com/articles/d41586-024-01571-x">doi:10.1038/d41586-024-01571-x</a></p>Three scientist mothers call for a change in how conference childcare costs are reimbursed, drawing on their personal experiences.]]></content:encoded>
-            <dc:title><![CDATA[Researcher parents are paying a high price for conference travel — here’s how to fix it]]></dc:title>
-            <dc:creator>Laura Carter</dc:creator><dc:creator>Laura Wolz</dc:creator><dc:creator>Laura J. Pallett</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01571-x</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-27; | doi:10.1038/d41586-024-01571-x</dc:source>
-            <dc:date>2024-05-27</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01571-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01571-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01534-2">
-            <title><![CDATA[How artificial intelligence is helping to identify global inequalities]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01534-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 27 May 2024; <a href="https://www.nature.com/articles/d41586-024-01534-2">doi:10.1038/d41586-024-01534-2</a></p>Machine learning tools are helping researchers understand how income is distributed and progress towards reducing inequality.]]></content:encoded>
-            <dc:title><![CDATA[How artificial intelligence is helping to identify global inequalities]]></dc:title>
-            <dc:creator>Dom Byrne</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01534-2</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-27; | doi:10.1038/d41586-024-01534-2</dc:source>
-            <dc:date>2024-05-27</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01534-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01534-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01519-1">
-            <title><![CDATA[Tackling ‘wicked’ problems calls for engineers with social responsibility]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01519-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 27 May 2024; <a href="https://www.nature.com/articles/d41586-024-01519-1">doi:10.1038/d41586-024-01519-1</a></p>Many technologies are high-risk, and their problems cannot be fixed by policy alone; engineers must embrace social responsibility.]]></content:encoded>
-            <dc:title><![CDATA[Tackling ‘wicked’ problems calls for engineers with social responsibility]]></dc:title>
-            <dc:creator>Susan Krumdieck</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01519-1</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-27; | doi:10.1038/d41586-024-01519-1</dc:source>
-            <dc:date>2024-05-27</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01519-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01519-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07542-6">
-            <title><![CDATA[Author Correction: Bitter taste receptor activation by cholesterol and an intracellular tastant]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07542-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 24 May 2024; <a href="https://www.nature.com/articles/s41586-024-07542-6">doi:10.1038/s41586-024-07542-6</a></p>Author Correction: Bitter taste receptor activation by cholesterol and an intracellular tastant]]></content:encoded>
-            <dc:title><![CDATA[Author Correction: Bitter taste receptor activation by cholesterol and an intracellular tastant]]></dc:title>
-            <dc:creator>Yoojoong Kim</dc:creator><dc:creator>Ryan H. Gumpper</dc:creator><dc:creator>Yongfeng Liu</dc:creator><dc:creator>D. Dewran Kocak</dc:creator><dc:creator>Yan Xiong</dc:creator><dc:creator>Can Cao</dc:creator><dc:creator>Zhijie Deng</dc:creator><dc:creator>Brian E. Krumm</dc:creator><dc:creator>Manish K. Jain</dc:creator><dc:creator>Shicheng Zhang</dc:creator><dc:creator>Jian Jin</dc:creator><dc:creator>Bryan L. Roth</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07542-6</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-24; | doi:10.1038/s41586-024-07542-6</dc:source>
-            <dc:date>2024-05-24</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07542-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07542-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01562-y">
-            <title><![CDATA[Audio long read: How does ChatGPT ‘think’? Psychology and neuroscience crack open AI large language models]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01562-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 24 May 2024; <a href="https://www.nature.com/articles/d41586-024-01562-y">doi:10.1038/d41586-024-01562-y</a></p>To understand the 'brains' of LLMs, researchers are attempting to reverse-engineering artificial intelligence systems.]]></content:encoded>
-            <dc:title><![CDATA[Audio long read: How does ChatGPT ‘think’? Psychology and neuroscience crack open AI large language models]]></dc:title>
-            <dc:creator>Matthew Hutson</dc:creator><dc:creator>Benjamin Thompson</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01562-y</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-24; | doi:10.1038/d41586-024-01562-y</dc:source>
-            <dc:date>2024-05-24</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01562-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01562-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01564-w">
-            <title><![CDATA[Ozempic keeps wowing: trial data show benefits for kidney disease]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01564-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 24 May 2024; <a href="https://www.nature.com/articles/d41586-024-01564-w">doi:10.1038/d41586-024-01564-w</a></p>Semaglutide, the same compound in obesity drug Wegovy, slashes risk of kidney failure and death for people with diabetes.]]></content:encoded>
-            <dc:title><![CDATA[Ozempic keeps wowing: trial data show benefits for kidney disease]]></dc:title>
-            <dc:creator>Rachel Fairbank</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01564-w</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-24; | doi:10.1038/d41586-024-01564-w</dc:source>
-            <dc:date>2024-05-24</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01564-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01564-w</prism:url>
         </item>
     
 </rdf:RDF>
