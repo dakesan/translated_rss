@@ -18,6 +18,10 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01613-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01620-5"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07562-2"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01532-4"/>
@@ -142,8 +146,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01574-8"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01563-x"/>
-                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01575-7"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01521-7"/>
@@ -166,8 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01606-3"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01526-2"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,36 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01613-4">
+            <title><![CDATA[First pig-to-human liver transplant recipient 'doing very well']]></title>
+            <link>https://www.nature.com/articles/d41586-024-01613-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 31 May 2024; <a href="https://www.nature.com/articles/d41586-024-01613-4">doi:10.1038/d41586-024-01613-4</a></p>The transplant aims to prolong the life of the patient and provide important lessons for doctors.]]></content:encoded>
+            <dc:title><![CDATA[First pig-to-human liver transplant recipient 'doing very well']]></dc:title>
+            <dc:creator>Smriti Mallapaty</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01613-4</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-31; | doi:10.1038/d41586-024-01613-4</dc:source>
+            <dc:date>2024-05-31</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01613-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01613-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01620-5">
+            <title><![CDATA[How I run a virtual lab group that’s collaborative, inclusive and productive]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01620-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 31 May 2024; <a href="https://www.nature.com/articles/d41586-024-01620-5">doi:10.1038/d41586-024-01620-5</a></p>Despite having no fixed address, my team has been able to work together to create impactful science.]]></content:encoded>
+            <dc:title><![CDATA[How I run a virtual lab group that’s collaborative, inclusive and productive]]></dc:title>
+            <dc:creator>Luisa Maria Diele-Viegas</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01620-5</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-31; | doi:10.1038/d41586-024-01620-5</dc:source>
+            <dc:date>2024-05-31</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01620-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01620-5</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07562-2">
             <title><![CDATA[Publisher Correction: Anti-TIGIT antibody improves PD-L1 blockade through myeloid and T<sub>reg</sub> cells]]></title>
@@ -241,7 +271,7 @@
             <title><![CDATA[Japan’s push to make all research open access is taking shape]]></title>
             <link>https://www.nature.com/articles/d41586-024-01493-8</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 30 May 2024; <a href="https://www.nature.com/articles/d41586-024-01493-8">doi:10.1038/d41586-024-01493-8</a></p>Japan will start allocating the 10 billion yen it promised to spend on institutional repositories to make the nation’s science free to read.]]></content:encoded>
+                <![CDATA[<p>Nature, Published online: 30 May 2024; <a href="https://www.nature.com/articles/d41586-024-01493-8">doi:10.1038/d41586-024-01493-8</a></p>Japan will start allocating the ¥10 billion it promised to spend on institutional repositories to make the nation’s science free to read.]]></content:encoded>
             <dc:title><![CDATA[Japan’s push to make all research open access is taking shape]]></dc:title>
             <dc:creator>Dalmeet Singh Chawla</dc:creator>
             <dc:identifier>doi:10.1038/d41586-024-01493-8</dc:identifier>
@@ -1107,21 +1137,6 @@
             <prism:url>https://www.nature.com/articles/d41586-024-01574-8</prism:url>
         </item>
     
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01563-x">
-            <title><![CDATA[How mathematician Freeman Hrabowski opened doors for Black scientists]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01563-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 28 May 2024; <a href="https://www.nature.com/articles/d41586-024-01563-x">doi:10.1038/d41586-024-01563-x</a></p>Over 30 years, the scholarship programme Hrabowski founded has supported more than 1,500 Black students. He spoke to Nature for our new Changemakers series.]]></content:encoded>
-            <dc:title><![CDATA[How mathematician Freeman Hrabowski opened doors for Black scientists]]></dc:title>
-            <dc:creator>Benjamin Thompson</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01563-x</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-28; | doi:10.1038/d41586-024-01563-x</dc:source>
-            <dc:date>2024-05-28</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01563-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01563-x</prism:url>
-        </item>
-    
         <item rdf:about="https://www.nature.com/articles/d41586-024-01575-7">
             <title><![CDATA[Don’t leave out joints and bones in exercise studies]]></title>
             <link>https://www.nature.com/articles/d41586-024-01575-7</link>
@@ -1201,7 +1216,7 @@
             <title><![CDATA[The AI revolution is coming to robots: how will it change them?]]></title>
             <link>https://www.nature.com/articles/d41586-024-01442-5</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 28 May 2024; <a href="https://www.nature.com/articles/d41586-024-01442-5">doi:10.1038/d41586-024-01442-5</a></p>The melding of artificial intelligence and robotics could catapult both to new heights.]]></content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 May 2024; <a href="https://www.nature.com/articles/d41586-024-01442-5">doi:10.1038/d41586-024-01442-5</a></p>The melding of artificial intelligence and robotics could catapult both fields to new heights.]]></content:encoded>
             <dc:title><![CDATA[The AI revolution is coming to robots: how will it change them?]]></dc:title>
             <dc:creator>Elizabeth Gibney</dc:creator>
             <dc:identifier>doi:10.1038/d41586-024-01442-5</dc:identifier>
@@ -1285,21 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01606-3</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01606-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01526-2">
-            <title><![CDATA[I study artefacts left in prehistoric caves]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01526-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 27 May 2024; <a href="https://www.nature.com/articles/d41586-024-01526-2">doi:10.1038/d41586-024-01526-2</a></p>Basran Burhan helped to date the oldest piece of figurative art discovered so far.]]></content:encoded>
-            <dc:title><![CDATA[I study artefacts left in prehistoric caves]]></dc:title>
-            <dc:creator>James Mitchell Crow</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01526-2</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-27; | doi:10.1038/d41586-024-01526-2</dc:source>
-            <dc:date>2024-05-27</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01526-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01526-2</prism:url>
         </item>
     
 </rdf:RDF>
