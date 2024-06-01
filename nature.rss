@@ -18,9 +18,19 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01531-5"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01613-4"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01609-0"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01620-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01567-7"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01626-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01584-6"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07562-2"/>
                 
@@ -37,6 +47,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01583-7"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01556-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01639-8"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01347-3"/>
                 
@@ -156,18 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01522-6"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01442-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01525-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01572-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01483-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01547-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01606-3"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -177,12 +177,27 @@
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01531-5">
+            <title><![CDATA[Sex hormones in the gut soar during pregnancy — thanks to busy bacteria]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01531-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 31 May 2024; <a href="https://www.nature.com/articles/d41586-024-01531-5">doi:10.1038/d41586-024-01531-5</a></p>Two species in the gut microbiome transform corticosteroids into progestins, which can affect mood and behaviour.]]></content:encoded>
+            <dc:title><![CDATA[Sex hormones in the gut soar during pregnancy — thanks to busy bacteria]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-01531-5</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-31; | doi:10.1038/d41586-024-01531-5</dc:source>
+            <dc:date>2024-05-31</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01531-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01531-5</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-024-01613-4">
-            <title><![CDATA[First pig-to-human liver transplant recipient 'doing very well']]></title>
+            <title><![CDATA[First pig-to-human liver transplant recipient ‘doing very well’]]></title>
             <link>https://www.nature.com/articles/d41586-024-01613-4</link>
             <content:encoded>
                 <![CDATA[<p>Nature, Published online: 31 May 2024; <a href="https://www.nature.com/articles/d41586-024-01613-4">doi:10.1038/d41586-024-01613-4</a></p>The transplant aims to prolong the life of the patient and provide important lessons for doctors.]]></content:encoded>
-            <dc:title><![CDATA[First pig-to-human liver transplant recipient 'doing very well']]></dc:title>
+            <dc:title><![CDATA[First pig-to-human liver transplant recipient ‘doing very well’]]></dc:title>
             <dc:creator>Smriti Mallapaty</dc:creator>
             <dc:identifier>doi:10.1038/d41586-024-01613-4</dc:identifier>
             <dc:source>Nature, Published online: 2024-05-31; | doi:10.1038/d41586-024-01613-4</dc:source>
@@ -190,6 +205,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01613-4</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01613-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01609-0">
+            <title><![CDATA[Biomedical paper retractions have quadrupled in 20 years — why?]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01609-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 31 May 2024; <a href="https://www.nature.com/articles/d41586-024-01609-0">doi:10.1038/d41586-024-01609-0</a></p>Unreliable data, falsification and other issues related to misconduct are driving a growing proportion of retractions.]]></content:encoded>
+            <dc:title><![CDATA[Biomedical paper retractions have quadrupled in 20 years — why?]]></dc:title>
+            <dc:creator>Holly Else</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01609-0</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-31; | doi:10.1038/d41586-024-01609-0</dc:source>
+            <dc:date>2024-05-31</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01609-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01609-0</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01620-5">
@@ -205,6 +235,51 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01620-5</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01620-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01567-7">
+            <title><![CDATA[Biggest genome ever found belongs to this odd little plant]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01567-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 31 May 2024; <a href="https://www.nature.com/articles/d41586-024-01567-7">doi:10.1038/d41586-024-01567-7</a></p>The gigantic genome of a type of fork fern smashes the human one in terms of size.]]></content:encoded>
+            <dc:title><![CDATA[Biggest genome ever found belongs to this odd little plant]]></dc:title>
+            <dc:creator>Max Kozlov</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01567-7</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-31; | doi:10.1038/d41586-024-01567-7</dc:source>
+            <dc:date>2024-05-31</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01567-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01567-7</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01626-z">
+            <title><![CDATA[What is science? Tech heavyweights brawl over definition]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01626-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 31 May 2024; <a href="https://www.nature.com/articles/d41586-024-01626-z">doi:10.1038/d41586-024-01626-z</a></p>AI pioneer Yann LeCun and Elon Musk went head-to-head in a debate about modern research that drew thousands of comments.]]></content:encoded>
+            <dc:title><![CDATA[What is science? Tech heavyweights brawl over definition]]></dc:title>
+            <dc:creator>Fred Schwaller</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01626-z</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-31; | doi:10.1038/d41586-024-01626-z</dc:source>
+            <dc:date>2024-05-31</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01626-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01626-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01584-6">
+            <title><![CDATA[The cicadas are here! Why US researchers are swarming to study them]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01584-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 31 May 2024; <a href="https://www.nature.com/articles/d41586-024-01584-6">doi:10.1038/d41586-024-01584-6</a></p>Two particular broods of the insects are popping up together for the first time in two centuries, and there’s a lot we don’t know about them.]]></content:encoded>
+            <dc:title><![CDATA[The cicadas are here! Why US researchers are swarming to study them]]></dc:title>
+            <dc:creator>Sumeet Kulkarni</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01584-6</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-31; | doi:10.1038/d41586-024-01584-6</dc:source>
+            <dc:date>2024-05-31</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01584-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01584-6</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07562-2">
@@ -325,6 +400,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01556-w</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01556-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01639-8">
+            <title><![CDATA[Daily briefing: ‘Smart’ antibiotic spares the microbiome]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01639-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 30 May 2024; <a href="https://www.nature.com/articles/d41586-024-01639-8">doi:10.1038/d41586-024-01639-8</a></p>The antibiotic lolamicin targets disease-causing bacteria without disturbing healthy gut bacteria. Plus, the underground lab that will test a controversial dark-matter claim and how NASA astronauts train to walk on the Moon.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: ‘Smart’ antibiotic spares the microbiome]]></dc:title>
+            <dc:creator>Katrina Krämer</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01639-8</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-30; | doi:10.1038/d41586-024-01639-8</dc:source>
+            <dc:date>2024-05-30</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01639-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01639-8</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01347-3">
@@ -1210,96 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01522-6</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01522-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01442-5">
-            <title><![CDATA[The AI revolution is coming to robots: how will it change them?]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01442-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 28 May 2024; <a href="https://www.nature.com/articles/d41586-024-01442-5">doi:10.1038/d41586-024-01442-5</a></p>The melding of artificial intelligence and robotics could catapult both fields to new heights.]]></content:encoded>
-            <dc:title><![CDATA[The AI revolution is coming to robots: how will it change them?]]></dc:title>
-            <dc:creator>Elizabeth Gibney</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01442-5</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-28; | doi:10.1038/d41586-024-01442-5</dc:source>
-            <dc:date>2024-05-28</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01442-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01442-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01525-3">
-            <title><![CDATA[I had my white colleagues walk in a Black student’s shoes for a day]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01525-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 28 May 2024; <a href="https://www.nature.com/articles/d41586-024-01525-3">doi:10.1038/d41586-024-01525-3</a></p>Freeman Hrabowski learnt the power of bold actions when he marched for civil rights in his youth. Since then, he has encouraged others to question the status quo — and affirm Black student success in the sciences.]]></content:encoded>
-            <dc:title><![CDATA[I had my white colleagues walk in a Black student’s shoes for a day]]></dc:title>
-            <dc:creator>Virginia Gewin</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01525-3</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-28; | doi:10.1038/d41586-024-01525-3</dc:source>
-            <dc:date>2024-05-28</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01525-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01525-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01572-w">
-            <title><![CDATA[Autistic people three times more likely to develop Parkinson’s-like symptoms]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01572-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 28 May 2024; <a href="https://www.nature.com/articles/d41586-024-01572-w">doi:10.1038/d41586-024-01572-w</a></p>Largest study of its kind also finds increased risk in older adults with a range of intellectual disabilities.]]></content:encoded>
-            <dc:title><![CDATA[Autistic people three times more likely to develop Parkinson’s-like symptoms]]></dc:title>
-            <dc:creator>Miryam Naddaf</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01572-w</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-28; | doi:10.1038/d41586-024-01572-w</dc:source>
-            <dc:date>2024-05-28</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01572-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01572-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01483-w">
-            <title><![CDATA[The immune system can sabotage gene therapies — can scientists rein it in?]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01483-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 28 May 2024; <a href="https://www.nature.com/articles/d41586-024-01483-w">doi:10.1038/d41586-024-01483-w</a></p>People treated with gene therapy cannot receive a second dose for fear of a dangerous immune response. Researchers hope to find a way around this.]]></content:encoded>
-            <dc:title><![CDATA[The immune system can sabotage gene therapies — can scientists rein it in?]]></dc:title>
-            <dc:creator>Heidi Ledford</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01483-w</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-28; | doi:10.1038/d41586-024-01483-w</dc:source>
-            <dc:date>2024-05-28</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01483-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01483-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01547-x">
-            <title><![CDATA[‘Stop the xenophobia’ — South African researchers sound alarm on eve of election]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01547-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 28 May 2024; <a href="https://www.nature.com/articles/d41586-024-01547-x">doi:10.1038/d41586-024-01547-x</a></p>South Africa’s scientists want the next government to halt declining funding and urge universities to do more to protect international researchers from attacks.]]></content:encoded>
-            <dc:title><![CDATA[‘Stop the xenophobia’ — South African researchers sound alarm on eve of election]]></dc:title>
-            <dc:creator>Sarah Wild</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01547-x</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-28; | doi:10.1038/d41586-024-01547-x</dc:source>
-            <dc:date>2024-05-28</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01547-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01547-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01606-3">
-            <title><![CDATA[AI &amp; robotics briefing: AI decodes languages in first ‘bilingual’ brain-reading device]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01606-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 28 May 2024; <a href="https://www.nature.com/articles/d41586-024-01606-3">doi:10.1038/d41586-024-01606-3</a></p>An AI-powered brain implant has helped, for the first time, a paralysed bilingual person speak in both their languages. Plus, why researchers are building a Chinese-language ChatGPT and the react to make an open-source AlphaFold.]]></content:encoded>
-            <dc:title><![CDATA[AI &amp; robotics briefing: AI decodes languages in first ‘bilingual’ brain-reading device]]></dc:title>
-            <dc:creator>Katrina Krämer</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01606-3</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-28; | doi:10.1038/d41586-024-01606-3</dc:source>
-            <dc:date>2024-05-28</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01606-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01606-3</prism:url>
         </item>
     
 </rdf:RDF>
