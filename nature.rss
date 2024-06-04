@@ -18,9 +18,25 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07364-6"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01592-6"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07492-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01660-x"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01621-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01669-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01657-6"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01591-7"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01662-9"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01658-5"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01531-5"/>
                 
@@ -33,6 +49,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01567-7"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01626-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01664-7"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01584-6"/>
                 
@@ -150,24 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01427-4"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01578-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07581-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01573-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01576-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01369-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01574-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01575-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01521-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01517-3"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,21 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07364-6">
+            <title><![CDATA[Author Correction: Nuclear genetic control of mtDNA copy number and heteroplasmy in humans]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07364-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 03 June 2024; <a href="https://www.nature.com/articles/s41586-024-07364-6">doi:10.1038/s41586-024-07364-6</a></p>Author Correction: Nuclear genetic control of mtDNA copy number and heteroplasmy in humans]]></content:encoded>
+            <dc:title><![CDATA[Author Correction: Nuclear genetic control of mtDNA copy number and heteroplasmy in humans]]></dc:title>
+            <dc:creator>Rahul Gupta</dc:creator><dc:creator>Masahiro Kanai</dc:creator><dc:creator>Timothy J. Durham</dc:creator><dc:creator>Kristin Tsuo</dc:creator><dc:creator>Jason G. McCoy</dc:creator><dc:creator>Anna V. Kotrys</dc:creator><dc:creator>Wei Zhou</dc:creator><dc:creator>Patrick F. Chinnery</dc:creator><dc:creator>Konrad J. Karczewski</dc:creator><dc:creator>Sarah E. Calvo</dc:creator><dc:creator>Benjamin M. Neale</dc:creator><dc:creator>Vamsi K. Mootha</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07364-6</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-03; | doi:10.1038/s41586-024-07364-6</dc:source>
+            <dc:date>2024-06-03</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07364-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07364-6</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01592-6">
             <title><![CDATA[I breed and release Arctic foxes to boost their numbers in the wild]]></title>
@@ -192,6 +207,81 @@
             <prism:url>https://www.nature.com/articles/d41586-024-01592-6</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07492-z">
+            <title><![CDATA[Observation of Bose–Einstein condensation of dipolar molecules]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07492-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 03 June 2024; <a href="https://www.nature.com/articles/s41586-024-07492-z">doi:10.1038/s41586-024-07492-z</a></p>Bose–Einstein condensate of sodium–caesium molecules is observed by means of evaporative cooling and collisional shielding.]]></content:encoded>
+            <dc:title><![CDATA[Observation of Bose–Einstein condensation of dipolar molecules]]></dc:title>
+            <dc:creator>Niccolò Bigagli</dc:creator><dc:creator>Weijun Yuan</dc:creator><dc:creator>Siwei Zhang</dc:creator><dc:creator>Boris Bulatovic</dc:creator><dc:creator>Tijs Karman</dc:creator><dc:creator>Ian Stevenson</dc:creator><dc:creator>Sebastian Will</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07492-z</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-03; | doi:10.1038/s41586-024-07492-z</dc:source>
+            <dc:date>2024-06-03</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07492-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07492-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01660-x">
+            <title><![CDATA[We pulled together for ocean science]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01660-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 03 June 2024; <a href="https://www.nature.com/articles/d41586-024-01660-x">doi:10.1038/d41586-024-01660-x</a></p>Isabelle Côté and three other female marine scientists competed in a row across the Atlantic ocean, making the trip in 38 days to raise money for ocean education, conservation and research.]]></content:encoded>
+            <dc:title><![CDATA[We pulled together for ocean science]]></dc:title>
+            <dc:creator>Lesley Evans Ogden</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01660-x</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-03; | doi:10.1038/d41586-024-01660-x</dc:source>
+            <dc:date>2024-06-03</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01660-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01660-x</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01621-4">
+            <title><![CDATA[Why cicadas shriek so loudly and more: your questions answered]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01621-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 03 June 2024; <a href="https://www.nature.com/articles/d41586-024-01621-4">doi:10.1038/d41586-024-01621-4</a></p>Billions of the insects are making an epic emergence in the eastern United States.]]></content:encoded>
+            <dc:title><![CDATA[Why cicadas shriek so loudly and more: your questions answered]]></dc:title>
+            <dc:creator>Sumeet Kulkarni</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01621-4</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-03; | doi:10.1038/d41586-024-01621-4</dc:source>
+            <dc:date>2024-06-03</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01621-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01621-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01669-2">
+            <title><![CDATA[Using live transport data to deliver sustainable cities]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01669-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 03 June 2024; <a href="https://www.nature.com/articles/d41586-024-01669-2">doi:10.1038/d41586-024-01669-2</a></p>Smart cities rely on digital technologies to keep goods and people moving at a lower cost to the planet. The world needs more of them.]]></content:encoded>
+            <dc:title><![CDATA[Using live transport data to deliver sustainable cities]]></dc:title>
+            <dc:creator>Dom Byrne</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01669-2</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-03; | doi:10.1038/d41586-024-01669-2</dc:source>
+            <dc:date>2024-06-03</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01669-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01669-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01657-6">
+            <title><![CDATA[‘Preposterous’: Anthony Fauci denies cover-up of COVID origins during tense hearing]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01657-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 03 June 2024; <a href="https://www.nature.com/articles/d41586-024-01657-6">doi:10.1038/d41586-024-01657-6</a></p>Long-awaited testimony ends in fireworks as US lawmakers spar over the former infectious-disease official’s pandemic actions.]]></content:encoded>
+            <dc:title><![CDATA[‘Preposterous’: Anthony Fauci denies cover-up of COVID origins during tense hearing]]></dc:title>
+            <dc:creator>Max Kozlov</dc:creator><dc:creator>Lauren Wolf</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01657-6</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-03; | doi:10.1038/d41586-024-01657-6</dc:source>
+            <dc:date>2024-06-03</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01657-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01657-6</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-024-01591-7">
             <title><![CDATA[How to keep the lights on: the mission to make more photostable fluorophores]]></title>
             <link>https://www.nature.com/articles/d41586-024-01591-7</link>
@@ -205,6 +295,36 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01591-7</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01591-7</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01662-9">
+            <title><![CDATA[Physicists coax molecules into exotic quantum state — ending decades-long quest]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01662-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 03 June 2024; <a href="https://www.nature.com/articles/d41586-024-01662-9">doi:10.1038/d41586-024-01662-9</a></p>Molecular Bose–Einstein condensates could help to provide the answers to fundamental questions, or form the basis of new quantum computers.]]></content:encoded>
+            <dc:title><![CDATA[Physicists coax molecules into exotic quantum state — ending decades-long quest]]></dc:title>
+            <dc:creator>Elizabeth Gibney</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01662-9</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-03; | doi:10.1038/d41586-024-01662-9</dc:source>
+            <dc:date>2024-06-03</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01662-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01662-9</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01658-5">
+            <title><![CDATA[Hope for global pandemic treaty rises — despite missed deadline]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01658-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 03 June 2024; <a href="https://www.nature.com/articles/d41586-024-01658-5">doi:10.1038/d41586-024-01658-5</a></p>Delegates were at an impasse over key issues, but agreements on other public-health emergency measures sparks cautious optimism.]]></content:encoded>
+            <dc:title><![CDATA[Hope for global pandemic treaty rises — despite missed deadline]]></dc:title>
+            <dc:creator>Mariana Lenharo</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01658-5</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-03; | doi:10.1038/d41586-024-01658-5</dc:source>
+            <dc:date>2024-06-03</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01658-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01658-5</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01531-5">
@@ -295,6 +415,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01626-z</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01626-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01664-7">
+            <title><![CDATA[Daily briefing: If you do research and don’t publish it, is it science?]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01664-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 31 May 2024; <a href="https://www.nature.com/articles/d41586-024-01664-7">doi:10.1038/d41586-024-01664-7</a></p>Tech heavyweights brawl over whether research needs to be published to count as science. Plus, the first recipient of a gene-edited pig liver is ‘doing very well’ and how Viking-age hunters took down the world’s biggest animal.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: If you do research and don’t publish it, is it science?]]></dc:title>
+            <dc:creator>Katrina Krämer</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01664-7</dc:identifier>
+            <dc:source>Nature, Published online: 2024-05-31; | doi:10.1038/d41586-024-01664-7</dc:source>
+            <dc:date>2024-05-31</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01664-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01664-7</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01584-6">
@@ -403,11 +538,11 @@
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01583-7">
-            <title><![CDATA[Mexico’s next president is likely to be this scientist — but researchers are split in their support]]></title>
+            <title><![CDATA[Mexico’s next president will be a scientist — researchers are split in their support]]></title>
             <link>https://www.nature.com/articles/d41586-024-01583-7</link>
             <content:encoded>
                 <![CDATA[<p>Nature, Published online: 30 May 2024; <a href="https://www.nature.com/articles/d41586-024-01583-7">doi:10.1038/d41586-024-01583-7</a></p>Some are hopeful, but others worry that Claudia Sheinbaum Pardo will follow in her controversial predecessor’s footsteps rather than stand up for science.]]></content:encoded>
-            <dc:title><![CDATA[Mexico’s next president is likely to be this scientist — but researchers are split in their support]]></dc:title>
+            <dc:title><![CDATA[Mexico’s next president will be a scientist — researchers are split in their support]]></dc:title>
             <dc:creator>Humberto Basilio</dc:creator>
             <dc:identifier>doi:10.1038/d41586-024-01583-7</dc:identifier>
             <dc:source>Nature, Published online: 2024-05-30; | doi:10.1038/d41586-024-01583-7</dc:source>
@@ -1165,141 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01427-4</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01427-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01578-4">
-            <title><![CDATA[Who owns your voice? Scarlett Johansson OpenAI complaint raises questions]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01578-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 29 May 2024; <a href="https://www.nature.com/articles/d41586-024-01578-4">doi:10.1038/d41586-024-01578-4</a></p>In the age of artificial intelligence, situations are emerging that challenge the laws over rights to a persona.]]></content:encoded>
-            <dc:title><![CDATA[Who owns your voice? Scarlett Johansson OpenAI complaint raises questions]]></dc:title>
-            <dc:creator>Nicola Jones</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01578-4</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-29; | doi:10.1038/d41586-024-01578-4</dc:source>
-            <dc:date>2024-05-29</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01578-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01578-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07581-z">
-            <title><![CDATA[Asymmetric hydrogenation of ketimines with minimally different alkyl groups]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07581-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 28 May 2024; <a href="https://www.nature.com/articles/s41586-024-07581-z">doi:10.1038/s41586-024-07581-z</a></p>Asymmetric hydrogenation of ketimines with minimally different alkyl groups]]></content:encoded>
-            <dc:title><![CDATA[Asymmetric hydrogenation of ketimines with minimally different alkyl groups]]></dc:title>
-            <dc:creator>Mingyang Wang</dc:creator><dc:creator>Shihan Liu</dc:creator><dc:creator>Hao Liu</dc:creator><dc:creator>Yujie Wang</dc:creator><dc:creator>Yu Lan</dc:creator><dc:creator>Qiang Liu</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07581-z</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-28; | doi:10.1038/s41586-024-07581-z</dc:source>
-            <dc:date>2024-05-28</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07581-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07581-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01573-9">
-            <title><![CDATA[Anglo-American bias could make generative AI an invisible intellectual cage]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01573-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 28 May 2024; <a href="https://www.nature.com/articles/d41586-024-01573-9">doi:10.1038/d41586-024-01573-9</a></p>Anglo-American bias could make generative AI an invisible intellectual cage]]></content:encoded>
-            <dc:title><![CDATA[Anglo-American bias could make generative AI an invisible intellectual cage]]></dc:title>
-            <dc:creator>Queenie Luo</dc:creator><dc:creator>Michael Puett</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01573-9</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-28; | doi:10.1038/d41586-024-01573-9</dc:source>
-            <dc:date>2024-05-28</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01573-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01573-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01576-6">
-            <title><![CDATA[Keep an open mind on faster-than-light ‘tachyons’ as the source of quantum entanglement]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01576-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 28 May 2024; <a href="https://www.nature.com/articles/d41586-024-01576-6">doi:10.1038/d41586-024-01576-6</a></p>Keep an open mind on faster-than-light ‘tachyons’ as the source of quantum entanglement]]></content:encoded>
-            <dc:title><![CDATA[Keep an open mind on faster-than-light ‘tachyons’ as the source of quantum entanglement]]></dc:title>
-            <dc:creator>Ian Crawford</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01576-6</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-28; | doi:10.1038/d41586-024-01576-6</dc:source>
-            <dc:date>2024-05-28</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01576-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01576-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01369-x">
-            <title><![CDATA[Pollen problems: May brings dismay to a hay-fever sufferer in 1874]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01369-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 28 May 2024; <a href="https://www.nature.com/articles/d41586-024-01369-x">doi:10.1038/d41586-024-01369-x</a></p>A book on everyday biology that appeals to non-specialists and specialists alike, and a trek through hay fields causes one Nature reader to experience relentless ‘sneezings’, in the weekly dip into Nature’s archive.]]></content:encoded>
-            <dc:title><![CDATA[Pollen problems: May brings dismay to a hay-fever sufferer in 1874]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-01369-x</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-28; | doi:10.1038/d41586-024-01369-x</dc:source>
-            <dc:date>2024-05-28</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01369-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01369-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01574-8">
-            <title><![CDATA[Adopt stricter regulation to stop ‘critical mineral’ greenwashing]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01574-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 28 May 2024; <a href="https://www.nature.com/articles/d41586-024-01574-8">doi:10.1038/d41586-024-01574-8</a></p>Adopt stricter regulation to stop ‘critical mineral’ greenwashing]]></content:encoded>
-            <dc:title><![CDATA[Adopt stricter regulation to stop ‘critical mineral’ greenwashing]]></dc:title>
-            <dc:creator>Andrea Arratia-Solar</dc:creator><dc:creator>David Fleming-Muñoz</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01574-8</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-28; | doi:10.1038/d41586-024-01574-8</dc:source>
-            <dc:date>2024-05-28</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01574-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01574-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01575-7">
-            <title><![CDATA[Don’t leave out joints and bones in exercise studies]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01575-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 28 May 2024; <a href="https://www.nature.com/articles/d41586-024-01575-7">doi:10.1038/d41586-024-01575-7</a></p>Don’t leave out joints and bones in exercise studies]]></content:encoded>
-            <dc:title><![CDATA[Don’t leave out joints and bones in exercise studies]]></dc:title>
-            <dc:creator>Francis Berenbaum</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01575-7</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-28; | doi:10.1038/d41586-024-01575-7</dc:source>
-            <dc:date>2024-05-28</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01575-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01575-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01521-7">
-            <title><![CDATA[Heed lessons from past studies involving transgender people: first, do no harm]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01521-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 28 May 2024; <a href="https://www.nature.com/articles/d41586-024-01521-7">doi:10.1038/d41586-024-01521-7</a></p>Decades of neuroscientific work have focused on exploring a biological basis for transgender identity — but researchers must take societal factors into account.]]></content:encoded>
-            <dc:title><![CDATA[Heed lessons from past studies involving transgender people: first, do no harm]]></dc:title>
-            <dc:creator>Mathilde Kennis</dc:creator><dc:creator>Robin Staicu</dc:creator><dc:creator>Marieke Dewitte</dc:creator><dc:creator>Guy T’Sjoen</dc:creator><dc:creator>Alexander T. Sack</dc:creator><dc:creator>Felix Duecker</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01521-7</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-28; | doi:10.1038/d41586-024-01521-7</dc:source>
-            <dc:date>2024-05-28</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01521-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01521-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01517-3">
-            <title><![CDATA[Monsoons are changing in India — here’s how to climate-proof the economy]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01517-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 28 May 2024; <a href="https://www.nature.com/articles/d41586-024-01517-3">doi:10.1038/d41586-024-01517-3</a></p>Global warming is shifting rainfall patterns across South Asia, and each area will be affected differently — local approaches are needed to track and respond to these changes.]]></content:encoded>
-            <dc:title><![CDATA[Monsoons are changing in India — here’s how to climate-proof the economy]]></dc:title>
-            <dc:creator>Shravan Prabhu</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01517-3</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-28; | doi:10.1038/d41586-024-01517-3</dc:source>
-            <dc:date>2024-05-28</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01517-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01517-3</prism:url>
         </item>
     
 </rdf:RDF>
