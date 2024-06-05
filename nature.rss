@@ -18,6 +18,10 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01685-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01622-3"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07594-8"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01665-6"/>
@@ -45,6 +49,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07364-6"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01592-6"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01656-7"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07492-z"/>
                 
@@ -162,12 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01533-3"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01566-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01239-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01527-1"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,36 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01685-2">
+            <title><![CDATA[‘I saw that discrimination wasn’t hearsay or rumours — it really did exist’]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01685-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 05 June 2024; <a href="https://www.nature.com/articles/d41586-024-01685-2">doi:10.1038/d41586-024-01685-2</a></p>JoAnn Trejo attributes her path to pharmacology to her immigrant family’s strong work ethic. Today, she uses recruitment and mentorship training to unlock the potential of other scientists from under-represented groups.]]></content:encoded>
+            <dc:title><![CDATA[‘I saw that discrimination wasn’t hearsay or rumours — it really did exist’]]></dc:title>
+            <dc:creator>Robin Donovan</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01685-2</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-05; | doi:10.1038/d41586-024-01685-2</dc:source>
+            <dc:date>2024-06-05</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01685-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01685-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01622-3">
+            <title><![CDATA[MDMA therapy for PTSD rejected by FDA panel]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01622-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 05 June 2024; <a href="https://www.nature.com/articles/d41586-024-01622-3">doi:10.1038/d41586-024-01622-3</a></p>Scientific advisers vote overwhelmingly that the risks of MDMA treatment for post-traumatic stress disorder outweigh the benefits.]]></content:encoded>
+            <dc:title><![CDATA[MDMA therapy for PTSD rejected by FDA panel]]></dc:title>
+            <dc:creator>Sara Reardon</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01622-3</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-05; | doi:10.1038/d41586-024-01622-3</dc:source>
+            <dc:date>2024-06-05</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01622-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01622-3</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07594-8">
             <title><![CDATA[Author Correction: Myt1l safeguards neuronal identity by actively repressing many non-neuronal fates]]></title>
@@ -385,6 +415,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01592-6</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01592-6</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01656-7">
+            <title><![CDATA[Mystery of huge ancient engravings of snakes solved at last]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01656-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 03 June 2024; <a href="https://www.nature.com/articles/d41586-024-01656-7">doi:10.1038/d41586-024-01656-7</a></p>The depictions along South America’s Orinoco River are some of the biggest rock art known.]]></content:encoded>
+            <dc:title><![CDATA[Mystery of huge ancient engravings of snakes solved at last]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-01656-7</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-03; | doi:10.1038/d41586-024-01656-7</dc:source>
+            <dc:date>2024-06-03</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01656-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01656-7</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07492-z">
@@ -1255,51 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01533-3</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01533-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01566-8">
-            <title><![CDATA[‘Smart’ antibiotic can kill deadly bacteria while sparing the microbiome]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01566-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 29 May 2024; <a href="https://www.nature.com/articles/d41586-024-01566-8">doi:10.1038/d41586-024-01566-8</a></p>Compound called lolamicin targets a group of harmful microbes but does not disturb those that live peacefully in the gut.]]></content:encoded>
-            <dc:title><![CDATA[‘Smart’ antibiotic can kill deadly bacteria while sparing the microbiome]]></dc:title>
-            <dc:creator>Fred Schwaller</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01566-8</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-29; | doi:10.1038/d41586-024-01566-8</dc:source>
-            <dc:date>2024-05-29</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01566-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01566-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01239-6">
-            <title><![CDATA[Why snow is crucial for water supply — and what will happen when it becomes scarce]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01239-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 29 May 2024; <a href="https://www.nature.com/articles/d41586-024-01239-6">doi:10.1038/d41586-024-01239-6</a></p>Analysis of 70 years of snowfall in the Northern Hemisphere reveals that snow buffers the effect of varying precipitation levels on streamflow. The link highlights the need to rethink water-resource management as snow levels decline.]]></content:encoded>
-            <dc:title><![CDATA[Why snow is crucial for water supply — and what will happen when it becomes scarce]]></dc:title>
-            <dc:creator>Karen R. Ryberg</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01239-6</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-29; | doi:10.1038/d41586-024-01239-6</dc:source>
-            <dc:date>2024-05-29</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01239-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01239-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01527-1">
-            <title><![CDATA[It’s time for your performance review]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01527-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 29 May 2024; <a href="https://www.nature.com/articles/d41586-024-01527-1">doi:10.1038/d41586-024-01527-1</a></p>Cooking up a storm.]]></content:encoded>
-            <dc:title><![CDATA[It’s time for your performance review]]></dc:title>
-            <dc:creator>Jane Brown</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01527-1</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-29; | doi:10.1038/d41586-024-01527-1</dc:source>
-            <dc:date>2024-05-29</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01527-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01527-1</prism:url>
         </item>
     
 </rdf:RDF>
