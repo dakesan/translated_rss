@@ -26,7 +26,15 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01666-5"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01589-1"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01667-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01677-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01602-7"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01586-4"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01544-0"/>
                 
@@ -49,6 +57,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01657-6"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01591-7"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01674-5"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01662-9"/>
                 
@@ -158,16 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01527-1"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01428-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01518-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01430-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01426-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00467-0"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -237,6 +237,21 @@
             <prism:url>https://www.nature.com/articles/d41586-024-01666-5</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01589-1">
+            <title><![CDATA[Problem-solving PhD students are prepared for careers in industry]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01589-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 04 June 2024; <a href="https://www.nature.com/articles/d41586-024-01589-1">doi:10.1038/d41586-024-01589-1</a></p>PhD programmes in an industrial setting were on the rise in the 1970s, and a reflection on Darwin’s rich accomplishments, in the weekly dip into Nature’s archive.]]></content:encoded>
+            <dc:title><![CDATA[Problem-solving PhD students are prepared for careers in industry]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-01589-1</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-04; | doi:10.1038/d41586-024-01589-1</dc:source>
+            <dc:date>2024-06-04</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01589-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01589-1</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-024-01667-4">
             <title><![CDATA[Organic product legislation ignores agricultural plastic use — that must change]]></title>
             <link>https://www.nature.com/articles/d41586-024-01667-4</link>
@@ -250,6 +265,51 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01667-4</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01667-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01677-2">
+            <title><![CDATA[Superfast Microsoft AI is first to predict air pollution for the whole world]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01677-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 04 June 2024; <a href="https://www.nature.com/articles/d41586-024-01677-2">doi:10.1038/d41586-024-01677-2</a></p>The model, called Aurora, also forecasts global weather for ten days — all in less than a minute.]]></content:encoded>
+            <dc:title><![CDATA[Superfast Microsoft AI is first to predict air pollution for the whole world]]></dc:title>
+            <dc:creator>Carissa Wong</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01677-2</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-04; | doi:10.1038/d41586-024-01677-2</dc:source>
+            <dc:date>2024-06-04</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01677-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01677-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01602-7">
+            <title><![CDATA[What Modi’s third term in India means for science]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01602-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 04 June 2024; <a href="https://www.nature.com/articles/d41586-024-01602-7">doi:10.1038/d41586-024-01602-7</a></p>Research that drives development and national pride will take centre stage for the next five years, say researchers.]]></content:encoded>
+            <dc:title><![CDATA[What Modi’s third term in India means for science]]></dc:title>
+            <dc:creator>Smriti Mallapaty</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01602-7</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-04; | doi:10.1038/d41586-024-01602-7</dc:source>
+            <dc:date>2024-06-04</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01602-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01602-7</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01586-4">
+            <title><![CDATA[Negotiating a pandemic treaty is just the first step — how will countries comply?]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01586-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 04 June 2024; <a href="https://www.nature.com/articles/d41586-024-01586-4">doi:10.1038/d41586-024-01586-4</a></p>Governments must act now on vaccine and pathogen-sample sharing, or any agreement will be a promise only on paper.]]></content:encoded>
+            <dc:title><![CDATA[Negotiating a pandemic treaty is just the first step — how will countries comply?]]></dc:title>
+            <dc:creator>Tae Jung Park</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01586-4</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-04; | doi:10.1038/d41586-024-01586-4</dc:source>
+            <dc:date>2024-06-04</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01586-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01586-4</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01544-0">
@@ -343,11 +403,11 @@
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01660-x">
-            <title><![CDATA[We pulled together for ocean science]]></title>
+            <title><![CDATA[Racing across the Atlantic: how we pulled together for ocean science]]></title>
             <link>https://www.nature.com/articles/d41586-024-01660-x</link>
             <content:encoded>
                 <![CDATA[<p>Nature, Published online: 03 June 2024; <a href="https://www.nature.com/articles/d41586-024-01660-x">doi:10.1038/d41586-024-01660-x</a></p>Isabelle Côté and three other female marine scientists competed in a row across the Atlantic ocean, making the trip in 38 days to raise money for ocean education, conservation and research.]]></content:encoded>
-            <dc:title><![CDATA[We pulled together for ocean science]]></dc:title>
+            <dc:title><![CDATA[Racing across the Atlantic: how we pulled together for ocean science]]></dc:title>
             <dc:creator>Lesley Evans Ogden</dc:creator>
             <dc:identifier>doi:10.1038/d41586-024-01660-x</dc:identifier>
             <dc:source>Nature, Published online: 2024-06-03; | doi:10.1038/d41586-024-01660-x</dc:source>
@@ -415,6 +475,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01591-7</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01591-7</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01674-5">
+            <title><![CDATA[Daily briefing: Tiny fork fern has the biggest genome ever found]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01674-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 03 June 2024; <a href="https://www.nature.com/articles/d41586-024-01674-5">doi:10.1038/d41586-024-01674-5</a></p>A species of fork fern, Tmesipteris oblanceolata, has the biggest genome ever recorded. Plus, biomedical paper retractions are soaring and environmental engineer Claudia Sheinbaum Pardo is elected Mexico’s president.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Tiny fork fern has the biggest genome ever found]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01674-5</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-03; | doi:10.1038/d41586-024-01674-5</dc:source>
+            <dc:date>2024-06-03</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01674-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01674-5</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01662-9">
@@ -1225,81 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01527-1</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01527-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01428-3">
-            <title><![CDATA[Advances in highly targeted radiation treatment for cancer have ignited interest in a once obscure field]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01428-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 29 May 2024; <a href="https://www.nature.com/articles/d41586-024-01428-3">doi:10.1038/d41586-024-01428-3</a></p>Therapies that treat while diagnosing — theranostics — can extend length of survival and improve the quality of life for some people with advance-stage cancer.]]></content:encoded>
-            <dc:title><![CDATA[Advances in highly targeted radiation treatment for cancer have ignited interest in a once obscure field]]></dc:title>
-            <dc:creator>Rachel Nuwer</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01428-3</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-29; | doi:10.1038/d41586-024-01428-3</dc:source>
-            <dc:date>2024-05-29</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01428-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01428-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01518-2">
-            <title><![CDATA[A myopia epidemic is sweeping the globe. Here’s how to stop it]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01518-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 29 May 2024; <a href="https://www.nature.com/articles/d41586-024-01518-2">doi:10.1038/d41586-024-01518-2</a></p>Time spent outdoors is the best defence against rising rates of short-sightedness, but scientists are searching for other ways to reverse the troubling trend.]]></content:encoded>
-            <dc:title><![CDATA[A myopia epidemic is sweeping the globe. Here’s how to stop it]]></dc:title>
-            <dc:creator>Elie Dolgin</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01518-2</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-29; | doi:10.1038/d41586-024-01518-2</dc:source>
-            <dc:date>2024-05-29</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01518-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01518-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01430-9">
-            <title><![CDATA[Randomized trials of cancer drugs are for yesterday]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01430-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 29 May 2024; <a href="https://www.nature.com/articles/d41586-024-01430-9">doi:10.1038/d41586-024-01430-9</a></p>Pitting new treatments against old, ineffective agents is neither ethical nor economical.]]></content:encoded>
-            <dc:title><![CDATA[Randomized trials of cancer drugs are for yesterday]]></dc:title>
-            <dc:creator>Elaine Schattner</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01430-9</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-29; | doi:10.1038/d41586-024-01430-9</dc:source>
-            <dc:date>2024-05-29</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01430-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01430-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01426-5">
-            <title><![CDATA[How antibody–drug conjugates aim to take down cancer]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01426-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 29 May 2024; <a href="https://www.nature.com/articles/d41586-024-01426-5">doi:10.1038/d41586-024-01426-5</a></p>Scientists are trying to work out how to balance potency with toxicity and tackle the cost of next-generation therapeutics.]]></content:encoded>
-            <dc:title><![CDATA[How antibody–drug conjugates aim to take down cancer]]></dc:title>
-            <dc:creator>Benjamin Plackett</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01426-5</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-29; | doi:10.1038/d41586-024-01426-5</dc:source>
-            <dc:date>2024-05-29</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01426-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01426-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00467-0">
-            <title><![CDATA[Monkey business: primates’ social life tracked with wireless neuronal recording]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00467-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 29 May 2024; <a href="https://www.nature.com/articles/d41586-024-00467-0">doi:10.1038/d41586-024-00467-0</a></p>Primates have rich social lives orchestrated by brain circuits that are still poorly understood, partly because they have not been studied under naturalistic conditions. New wireless technology for recording neuronal activity in freely moving monkeys enabled insights into how neurons track natural social interactions, including reciprocity and social support towards a partner.]]></content:encoded>
-            <dc:title><![CDATA[Monkey business: primates’ social life tracked with wireless neuronal recording]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-00467-0</dc:identifier>
-            <dc:source>Nature, Published online: 2024-05-29; | doi:10.1038/d41586-024-00467-0</dc:source>
-            <dc:date>2024-05-29</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00467-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00467-0</prism:url>
         </item>
     
 </rdf:RDF>
