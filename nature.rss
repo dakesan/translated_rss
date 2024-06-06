@@ -18,11 +18,19 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07646-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01689-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01694-1"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07610-x"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07416-x"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01595-3"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01654-9"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01688-z"/>
                 
@@ -160,14 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07364-6"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01592-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01656-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07492-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01660-x"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,51 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07646-z">
+            <title><![CDATA[Publisher Correction: Interim analyses of a first-in-human phase 1/2 mRNA trial for propionic acidaemia]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07646-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 June 2024; <a href="https://www.nature.com/articles/s41586-024-07646-z">doi:10.1038/s41586-024-07646-z</a></p>Publisher Correction: Interim analyses of a first-in-human phase 1/2 mRNA trial for propionic acidaemia]]></content:encoded>
+            <dc:title><![CDATA[Publisher Correction: Interim analyses of a first-in-human phase 1/2 mRNA trial for propionic acidaemia]]></dc:title>
+            <dc:creator>Dwight Koeberl</dc:creator><dc:creator>Andreas Schulze</dc:creator><dc:creator>Neal Sondheimer</dc:creator><dc:creator>Gerald S. Lipshutz</dc:creator><dc:creator>Tarekegn Geberhiwot</dc:creator><dc:creator>Lerong Li</dc:creator><dc:creator>Rajnish Saini</dc:creator><dc:creator>Junxiang Luo</dc:creator><dc:creator>Vanja Sikirica</dc:creator><dc:creator>Ling Jin</dc:creator><dc:creator>Min Liang</dc:creator><dc:creator>Mary Leuchars</dc:creator><dc:creator>Stephanie Grunewald</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07646-z</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-06; | doi:10.1038/s41586-024-07646-z</dc:source>
+            <dc:date>2024-06-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07646-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07646-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01689-y">
+            <title><![CDATA[Why female students at an inner London school are seeing scientists in a different light]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01689-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 June 2024; <a href="https://www.nature.com/articles/d41586-024-01689-y">doi:10.1038/d41586-024-01689-y</a></p>Julie Gould describes what happened after showing 50 images of working scientists to a bunch of 12–13 year-olds.]]></content:encoded>
+            <dc:title><![CDATA[Why female students at an inner London school are seeing scientists in a different light]]></dc:title>
+            <dc:creator>Julie Gould</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01689-y</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-06; | doi:10.1038/d41586-024-01689-y</dc:source>
+            <dc:date>2024-06-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01689-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01689-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01694-1">
+            <title><![CDATA[I was denied tenure — how do I cope?]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01694-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 June 2024; <a href="https://www.nature.com/articles/d41586-024-01694-1">doi:10.1038/d41586-024-01694-1</a></p>Researchers can work long and hard for a permanent academic position, only for their hopes to be dashed. Nature sought advice from three scientists who have experienced the same disappointment.]]></content:encoded>
+            <dc:title><![CDATA[I was denied tenure — how do I cope?]]></dc:title>
+            <dc:creator>Nikki Forrester</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01694-1</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-06; | doi:10.1038/d41586-024-01694-1</dc:source>
+            <dc:date>2024-06-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01694-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01694-1</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07610-x">
             <title><![CDATA[Structure and topography of the synaptic V-ATPase–synaptophysin complex]]></title>
@@ -220,6 +265,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01595-3</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01595-3</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01654-9">
+            <title><![CDATA[AI finds huge cache of anti-bacterial peptides hidden in genomic data]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01654-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 05 June 2024; <a href="https://www.nature.com/articles/d41586-024-01654-9">doi:10.1038/d41586-024-01654-9</a></p>Machine-learning technique uncovers nearly 900,000 microbe-fighting peptide sequences in genomes collected from soils and other sources.]]></content:encoded>
+            <dc:title><![CDATA[AI finds huge cache of anti-bacterial peptides hidden in genomic data]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-01654-9</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-05; | doi:10.1038/d41586-024-01654-9</dc:source>
+            <dc:date>2024-06-05</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01654-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01654-9</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01688-z">
@@ -1213,11 +1273,11 @@
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01625-0">
-            <title><![CDATA[China's Chang'e-6 collects first rock samples from Moon's far side]]></title>
+            <title><![CDATA[China’s Chang’e-6 collects first rock samples from Moon’s far side]]></title>
             <link>https://www.nature.com/articles/d41586-024-01625-0</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 04 June 2024; <a href="https://www.nature.com/articles/d41586-024-01625-0">doi:10.1038/d41586-024-01625-0</a></p>Scientists are now hoping the spacecraft will successfully dock with its orbiter and make a safe trip home.]]></content:encoded>
-            <dc:title><![CDATA[China's Chang'e-6 collects first rock samples from Moon's far side]]></dc:title>
+                <![CDATA[<p>Nature, Published online: 04 June 2024; <a href="https://www.nature.com/articles/d41586-024-01625-0">doi:10.1038/d41586-024-01625-0</a></p>Scientists are now hoping the spacecraft will successfully dock with its orbiter and have a safe trip home.]]></content:encoded>
+            <dc:title><![CDATA[China’s Chang’e-6 collects first rock samples from Moon’s far side]]></dc:title>
             <dc:creator>Ling Xin</dc:creator>
             <dc:identifier>doi:10.1038/d41586-024-01625-0</dc:identifier>
             <dc:source>Nature, Published online: 2024-06-04; | doi:10.1038/d41586-024-01625-0</dc:source>
@@ -1240,66 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/s41586-024-07364-6</prism:doi>
             <prism:url>https://www.nature.com/articles/s41586-024-07364-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01592-6">
-            <title><![CDATA[I breed and release Arctic foxes to boost their numbers in the wild]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01592-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 03 June 2024; <a href="https://www.nature.com/articles/d41586-024-01592-6">doi:10.1038/d41586-024-01592-6</a></p>Over the past 25 years, Kristine Ulvund has helped to increase the species’ population size from 50 or so individuals to more than 500.]]></content:encoded>
-            <dc:title><![CDATA[I breed and release Arctic foxes to boost their numbers in the wild]]></dc:title>
-            <dc:creator>Rachel Nuwer</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01592-6</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-03; | doi:10.1038/d41586-024-01592-6</dc:source>
-            <dc:date>2024-06-03</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01592-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01592-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01656-7">
-            <title><![CDATA[Mystery of huge ancient engravings of snakes solved at last]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01656-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 03 June 2024; <a href="https://www.nature.com/articles/d41586-024-01656-7">doi:10.1038/d41586-024-01656-7</a></p>The depictions along South America’s Orinoco River are some of the biggest rock art known.]]></content:encoded>
-            <dc:title><![CDATA[Mystery of huge ancient engravings of snakes solved at last]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-01656-7</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-03; | doi:10.1038/d41586-024-01656-7</dc:source>
-            <dc:date>2024-06-03</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01656-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01656-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07492-z">
-            <title><![CDATA[Observation of Bose–Einstein condensation of dipolar molecules]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07492-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 03 June 2024; <a href="https://www.nature.com/articles/s41586-024-07492-z">doi:10.1038/s41586-024-07492-z</a></p>Bose–Einstein condensate of sodium–caesium molecules is observed by means of evaporative cooling and collisional shielding.]]></content:encoded>
-            <dc:title><![CDATA[Observation of Bose–Einstein condensation of dipolar molecules]]></dc:title>
-            <dc:creator>Niccolò Bigagli</dc:creator><dc:creator>Weijun Yuan</dc:creator><dc:creator>Siwei Zhang</dc:creator><dc:creator>Boris Bulatovic</dc:creator><dc:creator>Tijs Karman</dc:creator><dc:creator>Ian Stevenson</dc:creator><dc:creator>Sebastian Will</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07492-z</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-03; | doi:10.1038/s41586-024-07492-z</dc:source>
-            <dc:date>2024-06-03</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07492-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07492-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01660-x">
-            <title><![CDATA[Racing across the Atlantic: how we pulled together for ocean science]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01660-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 03 June 2024; <a href="https://www.nature.com/articles/d41586-024-01660-x">doi:10.1038/d41586-024-01660-x</a></p>Isabelle Côté and three other female marine scientists competed in a row across the Atlantic ocean, making the trip in 38 days to raise money for ocean education, conservation and research.]]></content:encoded>
-            <dc:title><![CDATA[Racing across the Atlantic: how we pulled together for ocean science]]></dc:title>
-            <dc:creator>Lesley Evans Ogden</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01660-x</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-03; | doi:10.1038/d41586-024-01660-x</dc:source>
-            <dc:date>2024-06-03</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01660-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01660-x</prism:url>
         </item>
     
 </rdf:RDF>
