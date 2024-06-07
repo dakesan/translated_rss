@@ -18,6 +18,8 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01456-z"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07646-z"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07637-0"/>
@@ -166,8 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01666-5"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01589-1"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,21 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01456-z">
+            <title><![CDATA[World's first wooden satellite could herald era of greener space exploration]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01456-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 07 June 2024; <a href="https://www.nature.com/articles/d41586-024-01456-z">doi:10.1038/d41586-024-01456-z</a></p>Japan’s satellite will test wood's resilience in space — wooden Moon shelters are also planned.]]></content:encoded>
+            <dc:title><![CDATA[World's first wooden satellite could herald era of greener space exploration]]></dc:title>
+            <dc:creator>Tim Hornyak</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01456-z</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-07; | doi:10.1038/d41586-024-01456-z</dc:source>
+            <dc:date>2024-06-07</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01456-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01456-z</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07646-z">
             <title><![CDATA[Publisher Correction: Interim analyses of a first-in-human phase 1/2 mRNA trial for propionic acidaemia]]></title>
@@ -316,7 +331,7 @@
             <title><![CDATA[What’s the best way to tackle climate change? An ‘evidence bank’ could help scientists find answers]]></title>
             <link>https://www.nature.com/articles/d41586-024-01683-4</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 06 June 2024; <a href="https://www.nature.com/articles/d41586-024-01683-4">doi:10.1038/d41586-024-01683-4</a></p>Sythensizing research on which policies are most effective is a key priority in climate science, advocates say.]]></content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 June 2024; <a href="https://www.nature.com/articles/d41586-024-01683-4">doi:10.1038/d41586-024-01683-4</a></p>Synthesizing research on which policies are most effective is a key priority in climate science, advocates say.]]></content:encoded>
             <dc:title><![CDATA[What’s the best way to tackle climate change? An ‘evidence bank’ could help scientists find answers]]></dc:title>
             <dc:creator>Helen Pearson</dc:creator>
             <dc:identifier>doi:10.1038/d41586-024-01683-4</dc:identifier>
@@ -898,11 +913,11 @@
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01588-2">
-            <title><![CDATA[Is AI misinformation influencing elections in India?]]></title>
+            <title><![CDATA[How prevalent is AI misinformation? What our studies in India show so far]]></title>
             <link>https://www.nature.com/articles/d41586-024-01588-2</link>
             <content:encoded>
                 <![CDATA[<p>Nature, Published online: 05 June 2024; <a href="https://www.nature.com/articles/d41586-024-01588-2">doi:10.1038/d41586-024-01588-2</a></p>A sample of roughly two million WhatsApp messages highlights urgent concerns about the spread and prevalence of AI-generated political content.]]></content:encoded>
-            <dc:title><![CDATA[Is AI misinformation influencing elections in India?]]></dc:title>
+            <dc:title><![CDATA[How prevalent is AI misinformation? What our studies in India show so far]]></dc:title>
             <dc:creator>Kiran Garimella</dc:creator><dc:creator>Simon Chauchard</dc:creator>
             <dc:identifier>doi:10.1038/d41586-024-01588-2</dc:identifier>
             <dc:source>Nature, Published online: 2024-06-05; | doi:10.1038/d41586-024-01588-2</dc:source>
@@ -1285,21 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01666-5</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01666-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01589-1">
-            <title><![CDATA[Problem-solving PhD students are prepared for careers in industry]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01589-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 04 June 2024; <a href="https://www.nature.com/articles/d41586-024-01589-1">doi:10.1038/d41586-024-01589-1</a></p>PhD programmes in an industrial setting were on the rise in the 1970s, and a reflection on Darwin’s rich accomplishments, in the weekly dip into Nature’s archive.]]></content:encoded>
-            <dc:title><![CDATA[Problem-solving PhD students are prepared for careers in industry]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-01589-1</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-04; | doi:10.1038/d41586-024-01589-1</dc:source>
-            <dc:date>2024-06-04</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01589-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01589-1</prism:url>
         </item>
     
 </rdf:RDF>
