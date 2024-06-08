@@ -18,7 +18,13 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01725-x"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01456-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01718-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01704-2"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07646-z"/>
                 
@@ -37,6 +43,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01689-y"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01694-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01709-x"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01683-4"/>
                 
@@ -122,6 +130,8 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01630-3"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01699-w"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01598-0"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01633-0"/>
@@ -158,16 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01502-w"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01599-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07594-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01665-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01668-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01666-5"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -177,11 +177,26 @@
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01725-x">
+            <title><![CDATA[Sparrow massacres and Cuban vaccines: Books in Brief]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01725-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 07 June 2024; <a href="https://www.nature.com/articles/d41586-024-01725-x">doi:10.1038/d41586-024-01725-x</a></p>Andrew Robinson reviews five of the best science picks.]]></content:encoded>
+            <dc:title><![CDATA[Sparrow massacres and Cuban vaccines: Books in Brief]]></dc:title>
+            <dc:creator>Andrew Robinson</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01725-x</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-07; | doi:10.1038/d41586-024-01725-x</dc:source>
+            <dc:date>2024-06-07</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01725-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01725-x</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-024-01456-z">
             <title><![CDATA[World's first wooden satellite could herald era of greener space exploration]]></title>
             <link>https://www.nature.com/articles/d41586-024-01456-z</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 07 June 2024; <a href="https://www.nature.com/articles/d41586-024-01456-z">doi:10.1038/d41586-024-01456-z</a></p>Japan’s satellite will test wood's resilience in space — wooden Moon shelters are also planned.]]></content:encoded>
+                <![CDATA[<p>Nature, Published online: 07 June 2024; <a href="https://www.nature.com/articles/d41586-024-01456-z">doi:10.1038/d41586-024-01456-z</a></p>Japan’s satellite will test wood’s resilience in space — wooden Moon shelters are also planned.]]></content:encoded>
             <dc:title><![CDATA[World's first wooden satellite could herald era of greener space exploration]]></dc:title>
             <dc:creator>Tim Hornyak</dc:creator>
             <dc:identifier>doi:10.1038/d41586-024-01456-z</dc:identifier>
@@ -190,6 +205,36 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01456-z</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01456-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01718-w">
+            <title><![CDATA[How white supremacy became a global health problem]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01718-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 07 June 2024; <a href="https://www.nature.com/articles/d41586-024-01718-w">doi:10.1038/d41586-024-01718-w</a></p>Racism is a systemic issue — one that we have the knowledge and tools to solve. But is there a will?]]></content:encoded>
+            <dc:title><![CDATA[How white supremacy became a global health problem]]></dc:title>
+            <dc:creator>Sirry  Alang</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01718-w</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-07; | doi:10.1038/d41586-024-01718-w</dc:source>
+            <dc:date>2024-06-07</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01718-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01718-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01704-2">
+            <title><![CDATA[FBI asks scientists for trust in taking anti-Asian bias seriously]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01704-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 07 June 2024; <a href="https://www.nature.com/articles/d41586-024-01704-2">doi:10.1038/d41586-024-01704-2</a></p>At public forum, US investigators seek to repair damage from China Initiative with researchers of Asian descent.]]></content:encoded>
+            <dc:title><![CDATA[FBI asks scientists for trust in taking anti-Asian bias seriously]]></dc:title>
+            <dc:creator>Neil Savage</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01704-2</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-07; | doi:10.1038/d41586-024-01704-2</dc:source>
+            <dc:date>2024-06-07</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01704-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01704-2</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07646-z">
@@ -325,6 +370,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01694-1</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01694-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01709-x">
+            <title><![CDATA[Daily briefing: Evidence grows that cows spread bird flu through their milk]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01709-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 06 June 2024; <a href="https://www.nature.com/articles/d41586-024-01709-x">doi:10.1038/d41586-024-01709-x</a></p>Astonishing amounts of H5N1 virus have been found in the raw milk of cows infected with avian influenza. Plus, Neanderthal fire pits offer a snapshot of ancient life and how a dad’s diet affects his sons’ health.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Evidence grows that cows spread bird flu through their milk]]></dc:title>
+            <dc:creator>Katrina Krämer</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01709-x</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-06; | doi:10.1038/d41586-024-01709-x</dc:source>
+            <dc:date>2024-06-06</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01709-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01709-x</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01683-4">
@@ -957,6 +1017,21 @@
             <prism:url>https://www.nature.com/articles/d41586-024-01630-3</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01699-w">
+            <title><![CDATA[Daily briefing: Landmark Alzheimer’s paper will be retracted]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01699-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 05 June 2024; <a href="https://www.nature.com/articles/d41586-024-01699-w">doi:10.1038/d41586-024-01699-w</a></p>Senior author plans to retract her team’s highly cited study on the cause of Alzheimer’s disease after acknowledging that the paper contains manipulated images. Plus, why cicadas shriek so loudly and how CO2 helps viruses stay alive in the air.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Landmark Alzheimer’s paper will be retracted]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01699-w</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-05; | doi:10.1038/d41586-024-01699-w</dc:source>
+            <dc:date>2024-06-05</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01699-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01699-w</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-024-01598-0">
             <title><![CDATA[Chinese research collaborations shift to the Belt and Road]]></title>
             <link>https://www.nature.com/articles/d41586-024-01598-0</link>
@@ -1225,81 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01502-w</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01502-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01599-z">
-            <title><![CDATA[Why China has been a growing study destination for African students]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01599-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 05 June 2024; <a href="https://www.nature.com/articles/d41586-024-01599-z">doi:10.1038/d41586-024-01599-z</a></p>Scholarships and soft power among reasons for increasing numbers, but graduates return with mixed reviews.]]></content:encoded>
-            <dc:title><![CDATA[Why China has been a growing study destination for African students]]></dc:title>
-            <dc:creator>Rachel Nuwer</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01599-z</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-05; | doi:10.1038/d41586-024-01599-z</dc:source>
-            <dc:date>2024-06-05</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01599-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01599-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07594-8">
-            <title><![CDATA[Author Correction: Myt1l safeguards neuronal identity by actively repressing many non-neuronal fates]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07594-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 04 June 2024; <a href="https://www.nature.com/articles/s41586-024-07594-8">doi:10.1038/s41586-024-07594-8</a></p>Author Correction: Myt1l safeguards neuronal identity by actively repressing many non-neuronal fates]]></content:encoded>
-            <dc:title><![CDATA[Author Correction: Myt1l safeguards neuronal identity by actively repressing many non-neuronal fates]]></dc:title>
-            <dc:creator>Moritz Mall</dc:creator><dc:creator>Michael S. Kareta</dc:creator><dc:creator>Soham Chanda</dc:creator><dc:creator>Henrik Ahlenius</dc:creator><dc:creator>Nicholas Perotti</dc:creator><dc:creator>Bo Zhou</dc:creator><dc:creator>Sarah D. Grieder</dc:creator><dc:creator>Xuecai Ge</dc:creator><dc:creator>Sienna Drake</dc:creator><dc:creator>Cheen Euong Ang</dc:creator><dc:creator>Brandon M. Walker</dc:creator><dc:creator>Thomas Vierbuchen</dc:creator><dc:creator>Daniel R. Fuentes</dc:creator><dc:creator>Philip Brennecke</dc:creator><dc:creator>Kazuhiro R. Nitta</dc:creator><dc:creator>Arttu Jolma</dc:creator><dc:creator>Lars M. Steinmetz</dc:creator><dc:creator>Jussi Taipale</dc:creator><dc:creator>Thomas C. Südhof</dc:creator><dc:creator>Marius Wernig</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07594-8</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-04; | doi:10.1038/s41586-024-07594-8</dc:source>
-            <dc:date>2024-06-04</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07594-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07594-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01665-6">
-            <title><![CDATA[Mega engineering projects won’t stop a repeat of the devastating southern Brazil floods]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01665-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 04 June 2024; <a href="https://www.nature.com/articles/d41586-024-01665-6">doi:10.1038/d41586-024-01665-6</a></p>Mega engineering projects won’t stop a repeat of the devastating southern Brazil floods]]></content:encoded>
-            <dc:title><![CDATA[Mega engineering projects won’t stop a repeat of the devastating southern Brazil floods]]></dc:title>
-            <dc:creator>Luiz Roberto Malabarba</dc:creator><dc:creator>Fernando Gertum Becker</dc:creator><dc:creator>Maria João Ramos Pereira</dc:creator><dc:creator>Márcio Borges-Martins</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01665-6</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-04; | doi:10.1038/d41586-024-01665-6</dc:source>
-            <dc:date>2024-06-04</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01665-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01665-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01668-3">
-            <title><![CDATA[Underfunding cannabis research hampers sensible policymaking and boosts the black market]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01668-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 04 June 2024; <a href="https://www.nature.com/articles/d41586-024-01668-3">doi:10.1038/d41586-024-01668-3</a></p>Underfunding cannabis research hampers sensible policymaking and boosts the black market]]></content:encoded>
-            <dc:title><![CDATA[Underfunding cannabis research hampers sensible policymaking and boosts the black market]]></dc:title>
-            <dc:creator>Davoud Torkamaneh</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01668-3</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-04; | doi:10.1038/d41586-024-01668-3</dc:source>
-            <dc:date>2024-06-04</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01668-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01668-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01666-5">
-            <title><![CDATA[Neurotechnologies that can read our mind could undermine international norms on freedom of thought]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01666-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 04 June 2024; <a href="https://www.nature.com/articles/d41586-024-01666-5">doi:10.1038/d41586-024-01666-5</a></p>Neurotechnologies that can read our mind could undermine international norms on freedom of thought]]></content:encoded>
-            <dc:title><![CDATA[Neurotechnologies that can read our mind could undermine international norms on freedom of thought]]></dc:title>
-            <dc:creator>Christoph Bublitz</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01666-5</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-04; | doi:10.1038/d41586-024-01666-5</dc:source>
-            <dc:date>2024-06-04</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01666-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01666-5</prism:url>
         </item>
     
 </rdf:RDF>
