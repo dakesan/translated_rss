@@ -18,6 +18,10 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01716-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01714-0"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07633-4"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07675-8"/>
@@ -51,6 +55,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01715-z"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01739-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01760-8"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01697-y"/>
                 
@@ -162,12 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07335-x"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07498-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07472-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07491-0"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,36 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01716-y">
+            <title><![CDATA[Hope, despair and CRISPR — the race to save one woman’s life]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01716-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 12 June 2024; <a href="https://www.nature.com/articles/d41586-024-01716-y">doi:10.1038/d41586-024-01716-y</a></p>Researchers in India fought to develop what could have been the first therapy to use gene-editing to halt a rare neurodegenerative disease. The efforts hold lessons for the messy state of modern drug development.]]></content:encoded>
+            <dc:title><![CDATA[Hope, despair and CRISPR — the race to save one woman’s life]]></dc:title>
+            <dc:creator>Heidi Ledford</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01716-y</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-12; | doi:10.1038/d41586-024-01716-y</dc:source>
+            <dc:date>2024-06-12</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01716-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01716-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01714-0">
+            <title><![CDATA[CRISPR cures and cancer vaccines: researchers can help to shepherd them to market]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01714-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 12 June 2024; <a href="https://www.nature.com/articles/d41586-024-01714-0">doi:10.1038/d41586-024-01714-0</a></p>It’s not just people with ultra-rare disorders who could benefit from hyper-personalized therapies. Scientists and regulators must work together to ensure the benefits are spread.]]></content:encoded>
+            <dc:title><![CDATA[CRISPR cures and cancer vaccines: researchers can help to shepherd them to market]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-01714-0</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-12; | doi:10.1038/d41586-024-01714-0</dc:source>
+            <dc:date>2024-06-12</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01714-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01714-0</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07633-4">
             <title><![CDATA[A virtual rodent predicts the structure of neural activity across behaviors]]></title>
@@ -430,6 +460,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01739-5</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01739-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01760-8">
+            <title><![CDATA[AI &amp; robotics briefing: The year machines will run out of data]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01760-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 11 June 2024; <a href="https://www.nature.com/articles/d41586-024-01760-8">doi:10.1038/d41586-024-01760-8</a></p>Large language models could exhaust the supply of publicly available, human-crafted writing in the next two to eight years. Plus, AI model finds huge cache of potential antibiotics hidden in genomes and Microsoft’s algorithm predicts global air pollution in less than a minute.]]></content:encoded>
+            <dc:title><![CDATA[AI &amp; robotics briefing: The year machines will run out of data]]></dc:title>
+            <dc:creator>Katrina Krämer</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01760-8</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-11; | doi:10.1038/d41586-024-01760-8</dc:source>
+            <dc:date>2024-06-11</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01760-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01760-8</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01697-y">
@@ -1255,51 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/s41586-024-07335-x</prism:doi>
             <prism:url>https://www.nature.com/articles/s41586-024-07335-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07498-7">
-            <title><![CDATA[Global shortfalls in documented actions to conserve biodiversity]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07498-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 05 June 2024; <a href="https://www.nature.com/articles/s41586-024-07498-7">doi:10.1038/s41586-024-07498-7</a></p>A global assessment of conservation interventions for threatened species across a range of data sources finds that interventions for most species remain insufficient or absent.]]></content:encoded>
-            <dc:title><![CDATA[Global shortfalls in documented actions to conserve biodiversity]]></dc:title>
-            <dc:creator>Rebecca A. Senior</dc:creator><dc:creator>Ruby Bagwyn</dc:creator><dc:creator>Danyan Leng</dc:creator><dc:creator>Alexander K. Killion</dc:creator><dc:creator>Walter Jetz</dc:creator><dc:creator>David S. Wilcove</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07498-7</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-05; | doi:10.1038/s41586-024-07498-7</dc:source>
-            <dc:date>2024-06-05</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07498-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07498-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07472-3">
-            <title><![CDATA[Epigenetic inheritance of diet-induced and sperm-borne mitochondrial RNAs]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07472-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 05 June 2024; <a href="https://www.nature.com/articles/s41586-024-07472-3">doi:10.1038/s41586-024-07472-3</a></p>A study shows that epididymal spermatozoa are sensitive to preconception diet, identifies mitochondrial tRNAs and their fragments as sperm-borne factors and demonstrates epigenetic inheritance of mitochondrial tRNAs.]]></content:encoded>
-            <dc:title><![CDATA[Epigenetic inheritance of diet-induced and sperm-borne mitochondrial RNAs]]></dc:title>
-            <dc:creator>A. Tomar</dc:creator><dc:creator>M. Gomez-Velazquez</dc:creator><dc:creator>R. Gerlini</dc:creator><dc:creator>G. Comas-Armangué</dc:creator><dc:creator>L. Makharadze</dc:creator><dc:creator>T. Kolbe</dc:creator><dc:creator>A. Boersma</dc:creator><dc:creator>M. Dahlhoff</dc:creator><dc:creator>J. P. Burgstaller</dc:creator><dc:creator>M. Lassi</dc:creator><dc:creator>J. Darr</dc:creator><dc:creator>J. Toppari</dc:creator><dc:creator>H. Virtanen</dc:creator><dc:creator>A. Kühnapfel</dc:creator><dc:creator>M. Scholz</dc:creator><dc:creator>K. Landgraf</dc:creator><dc:creator>W. Kiess</dc:creator><dc:creator>M. Vogel</dc:creator><dc:creator>V. Gailus-Durner</dc:creator><dc:creator>H. Fuchs</dc:creator><dc:creator>S. Marschall</dc:creator><dc:creator>M. Hrabě de Angelis</dc:creator><dc:creator>N. Kotaja</dc:creator><dc:creator>A. Körner</dc:creator><dc:creator>R. Teperino</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07472-3</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-05; | doi:10.1038/s41586-024-07472-3</dc:source>
-            <dc:date>2024-06-05</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07472-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07472-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07491-0">
-            <title><![CDATA[Microbial competition for phosphorus limits the CO<sub>2</sub> response of a mature forest]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07491-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 05 June 2024; <a href="https://www.nature.com/articles/s41586-024-07491-0">doi:10.1038/s41586-024-07491-0</a></p>Microbial pre-emption of mineralized soil P limits the capacity of trees for increased P uptake and assimilation under elevated CO2 and therefore restricts their capacity to sequester extra C.]]></content:encoded>
-            <dc:title><![CDATA[Microbial competition for phosphorus limits the CO<sub>2</sub> response of a mature forest]]></dc:title>
-            <dc:creator>Mingkai Jiang</dc:creator><dc:creator>Kristine Y. Crous</dc:creator><dc:creator>Yolima Carrillo</dc:creator><dc:creator>Catriona A. Macdonald</dc:creator><dc:creator>Ian C. Anderson</dc:creator><dc:creator>Matthias M. Boer</dc:creator><dc:creator>Mark Farrell</dc:creator><dc:creator>Andrew N. Gherlenda</dc:creator><dc:creator>Laura Castañeda-Gómez</dc:creator><dc:creator>Shun Hasegawa</dc:creator><dc:creator>Klaus Jarosch</dc:creator><dc:creator>Paul J. Milham</dc:creator><dc:creator>Rául Ochoa-Hueso</dc:creator><dc:creator>Varsha Pathare</dc:creator><dc:creator>Johanna Pihlblad</dc:creator><dc:creator>Juan Piñeiro</dc:creator><dc:creator>Jeff R. Powell</dc:creator><dc:creator>Sally A. Power</dc:creator><dc:creator>Peter B. Reich</dc:creator><dc:creator>Markus Riegler</dc:creator><dc:creator>Sönke Zaehle</dc:creator><dc:creator>Benjamin Smith</dc:creator><dc:creator>Belinda E. Medlyn</dc:creator><dc:creator>David S. Ellsworth</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07491-0</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-05; | doi:10.1038/s41586-024-07491-0</dc:source>
-            <dc:date>2024-06-05</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07491-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07491-0</prism:url>
         </item>
     
 </rdf:RDF>
