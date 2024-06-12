@@ -18,15 +18,31 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07633-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07675-8"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07586-8"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07648-x"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07639-y"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01745-7"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01700-6"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01590-8"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01746-6"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01701-5"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01744-8"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01728-8"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01733-x"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01717-x"/>
                 
@@ -38,6 +54,8 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01697-y"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01705-1"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07666-9"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01722-0"/>
@@ -47,6 +65,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07496-9"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01712-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01752-8"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01743-9"/>
                 
@@ -148,26 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07491-0"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07449-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07404-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07517-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07484-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07524-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07482-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01597-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01552-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01618-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01601-8"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,81 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07633-4">
+            <title><![CDATA[A virtual rodent predicts the structure of neural activity across behaviors]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07633-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 11 June 2024; <a href="https://www.nature.com/articles/s41586-024-07633-4">doi:10.1038/s41586-024-07633-4</a></p>A virtual rodent predicts the structure of neural activity across behaviors]]></content:encoded>
+            <dc:title><![CDATA[A virtual rodent predicts the structure of neural activity across behaviors]]></dc:title>
+            <dc:creator>Diego Aldarondo</dc:creator><dc:creator>Josh Merel</dc:creator><dc:creator>Jesse D. Marshall</dc:creator><dc:creator>Leonard Hasenclever</dc:creator><dc:creator>Ugne Klibaite</dc:creator><dc:creator>Amanda Gellis</dc:creator><dc:creator>Yuval Tassa</dc:creator><dc:creator>Greg Wayne</dc:creator><dc:creator>Matthew Botvinick</dc:creator><dc:creator>Bence P. Ölveczky</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07633-4</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-11; | doi:10.1038/s41586-024-07633-4</dc:source>
+            <dc:date>2024-06-11</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07633-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07633-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07675-8">
+            <title><![CDATA[A general strategy for the synthesis of taxane diterpenes]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07675-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 11 June 2024; <a href="https://www.nature.com/articles/s41586-024-07675-8">doi:10.1038/s41586-024-07675-8</a></p>A general strategy for the synthesis of taxane diterpenes]]></content:encoded>
+            <dc:title><![CDATA[A general strategy for the synthesis of taxane diterpenes]]></dc:title>
+            <dc:creator>Lu Pan</dc:creator><dc:creator>Fabian Schneider</dc:creator><dc:creator>Moritz Ottenbruch</dc:creator><dc:creator>Rainer Wiechert</dc:creator><dc:creator>Tatjana List</dc:creator><dc:creator>Philipp Schoch</dc:creator><dc:creator>Bastian Mertes</dc:creator><dc:creator>Tanja Gaich</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07675-8</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-11; | doi:10.1038/s41586-024-07675-8</dc:source>
+            <dc:date>2024-06-11</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07675-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07675-8</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07586-8">
+            <title><![CDATA[A Second Space Age Spanning Omics, Platforms, and Medicine Across Orbits]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07586-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 11 June 2024; <a href="https://www.nature.com/articles/s41586-024-07586-8">doi:10.1038/s41586-024-07586-8</a></p>A Second Space Age Spanning Omics, Platforms, and Medicine Across Orbits]]></content:encoded>
+            <dc:title><![CDATA[A Second Space Age Spanning Omics, Platforms, and Medicine Across Orbits]]></dc:title>
+            <dc:creator>Christopher E. Mason</dc:creator><dc:creator>James Green</dc:creator><dc:creator>Konstantinos I. Adamopoulos</dc:creator><dc:creator>Evan E. Afshin</dc:creator><dc:creator>Jordan J. Baechle</dc:creator><dc:creator>Mathias Basner</dc:creator><dc:creator>Susan M. Bailey</dc:creator><dc:creator>Luca Bielski</dc:creator><dc:creator>Josef Borg</dc:creator><dc:creator>Joseph Borg</dc:creator><dc:creator>Jared T. Broddrick</dc:creator><dc:creator>Marissa Burke</dc:creator><dc:creator>Andrés Caicedo</dc:creator><dc:creator>Verónica Castañeda</dc:creator><dc:creator>Subhamoy Chatterjee</dc:creator><dc:creator>Christopher Chin</dc:creator><dc:creator>George Church</dc:creator><dc:creator>Sylvain V. Costes</dc:creator><dc:creator>Iwijn De Vlaminck</dc:creator><dc:creator>Rajeev I. Desai</dc:creator><dc:creator>Raja Dhir</dc:creator><dc:creator>Juan Esteban Diaz</dc:creator><dc:creator>Sofia M. Etlin</dc:creator><dc:creator>Zachary Feinstein</dc:creator><dc:creator>David Furman</dc:creator><dc:creator>J. Sebastian Garcia-Medina</dc:creator><dc:creator>Francine Garrett-Bakelman</dc:creator><dc:creator>Stefania Giacomello</dc:creator><dc:creator>Anjali Gupta</dc:creator><dc:creator>Amira Hassanin</dc:creator><dc:creator>Nadia Houerbi</dc:creator><dc:creator>Iris Irby</dc:creator><dc:creator>Emilia Javorsky</dc:creator><dc:creator>Peter Jirak</dc:creator><dc:creator>Christopher W. Jones</dc:creator><dc:creator>Khaled Y. Kamal</dc:creator><dc:creator>Brian D. Kangas</dc:creator><dc:creator>Fathi Karouia</dc:creator><dc:creator>JangKeun Kim</dc:creator><dc:creator>Joo Hyun Kim</dc:creator><dc:creator>Ashley Kleinman</dc:creator><dc:creator>Try Lam</dc:creator><dc:creator>John M. Lawler</dc:creator><dc:creator>Jessica A. Lee</dc:creator><dc:creator>Charles L. Limoli</dc:creator><dc:creator>Alexander Lucaci</dc:creator><dc:creator>Matthew MacKay</dc:creator><dc:creator>J. Tyson McDonald</dc:creator><dc:creator>Ari M. Melnick</dc:creator><dc:creator>Cem Meydan</dc:creator><dc:creator>Jakub Mieczkowski</dc:creator><dc:creator>Masafumi Muratani</dc:creator><dc:creator>Deena Najjar</dc:creator><dc:creator>Mariam A. Othman</dc:creator><dc:creator>Eliah G. Overbey</dc:creator><dc:creator>Vera Paar</dc:creator><dc:creator>Jiwoon Park</dc:creator><dc:creator>Amber M. Paul</dc:creator><dc:creator>Adrian Perdyan</dc:creator><dc:creator>Jacqueline Proszynski</dc:creator><dc:creator>Robert J. Reynolds</dc:creator><dc:creator>April E. Ronca</dc:creator><dc:creator>Kate Rubins</dc:creator><dc:creator>Krista A. Ryon</dc:creator><dc:creator>Lauren M. Sanders</dc:creator><dc:creator>Patricia Savi Glowe</dc:creator><dc:creator>Yash Shevde</dc:creator><dc:creator>Michael A. Schmidt</dc:creator><dc:creator>Ryan T. Scott</dc:creator><dc:creator>Bader Shirah</dc:creator><dc:creator>Karolina Sienkiewicz</dc:creator><dc:creator>Maria Sierra</dc:creator><dc:creator>Keith Siew</dc:creator><dc:creator>Corey A. Theriot</dc:creator><dc:creator>Braden T. Tierney</dc:creator><dc:creator>Kasthuri Venkateswaran</dc:creator><dc:creator>Jeremy Wain Hirschberg</dc:creator><dc:creator>Stephen B. Walsh</dc:creator><dc:creator>Claire Walter</dc:creator><dc:creator>Daniel A. Winer</dc:creator><dc:creator>Min Yu</dc:creator><dc:creator>Luis Zea</dc:creator><dc:creator>Jaime Mateus</dc:creator><dc:creator>Afshin Beheshti</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07586-8</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-11; | doi:10.1038/s41586-024-07586-8</dc:source>
+            <dc:date>2024-06-11</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07586-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07586-8</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07648-x">
+            <title><![CDATA[Molecular and physiologic changes in the SpaceX Inspiration4 civilian crew]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07648-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 11 June 2024; <a href="https://www.nature.com/articles/s41586-024-07648-x">doi:10.1038/s41586-024-07648-x</a></p>Molecular and physiologic changes in the SpaceX Inspiration4 civilian crew]]></content:encoded>
+            <dc:title><![CDATA[Molecular and physiologic changes in the SpaceX Inspiration4 civilian crew]]></dc:title>
+            <dc:creator>C. W. Jones</dc:creator><dc:creator>E. G. Overbey</dc:creator><dc:creator>J. Lacombe</dc:creator><dc:creator>A. J. Ecker</dc:creator><dc:creator>C. Meydan</dc:creator><dc:creator>K. Ryon</dc:creator><dc:creator>B. Tierney</dc:creator><dc:creator>N. Damle</dc:creator><dc:creator>M. MacKay</dc:creator><dc:creator>E. E. Afshin</dc:creator><dc:creator>J. Foox</dc:creator><dc:creator>J. Park</dc:creator><dc:creator>T. Nelson</dc:creator><dc:creator>M. Suhail</dc:creator><dc:creator>S. G. Byhaqui</dc:creator><dc:creator>B. Aslam</dc:creator><dc:creator>U. A. Tali</dc:creator><dc:creator>L. Nisa</dc:creator><dc:creator>P. Menon</dc:creator><dc:creator>C. O. Patel</dc:creator><dc:creator>S. A. Khan</dc:creator><dc:creator>D. J. Ebert</dc:creator><dc:creator>A. Everson</dc:creator><dc:creator>M. C. Schubert</dc:creator><dc:creator>N. N. Ali</dc:creator><dc:creator>M. S. Sarma</dc:creator><dc:creator>J. Kim</dc:creator><dc:creator>N. Houerbi</dc:creator><dc:creator>K. Grigorev</dc:creator><dc:creator>S. Garcia Medina</dc:creator><dc:creator>A. J. Summers</dc:creator><dc:creator>J. Gu</dc:creator><dc:creator>J. A. Altin</dc:creator><dc:creator>A. Fattahi</dc:creator><dc:creator>M. I. Hirzallah</dc:creator><dc:creator>J. H. Wu</dc:creator><dc:creator>A. C. Stahn</dc:creator><dc:creator>A. Beheshti</dc:creator><dc:creator>R. Klotz</dc:creator><dc:creator>V. Ortiz</dc:creator><dc:creator>M. Yu</dc:creator><dc:creator>L. Patras</dc:creator><dc:creator>I. Matei</dc:creator><dc:creator>D. Lyden</dc:creator><dc:creator>A. Melnick</dc:creator><dc:creator>N. Banerjee</dc:creator><dc:creator>S. Mullane</dc:creator><dc:creator>A. Kleinman</dc:creator><dc:creator>M. Loesche</dc:creator><dc:creator>A. S. Menon</dc:creator><dc:creator>D. B. Donoviel</dc:creator><dc:creator>E. Urquieta</dc:creator><dc:creator>J. Mateus</dc:creator><dc:creator>A. E. Sargsyan</dc:creator><dc:creator>M. Shelhamer</dc:creator><dc:creator>F. Zenhausern</dc:creator><dc:creator>E. M. Bershad</dc:creator><dc:creator>M. Basner</dc:creator><dc:creator>C. E. Mason</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07648-x</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-11; | doi:10.1038/s41586-024-07648-x</dc:source>
+            <dc:date>2024-06-11</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07648-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07648-x</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07639-y">
+            <title><![CDATA[The Space Omics and Medical Atlas (SOMA) and international astronaut biobank]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07639-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 11 June 2024; <a href="https://www.nature.com/articles/s41586-024-07639-y">doi:10.1038/s41586-024-07639-y</a></p>The Space Omics and Medical Atlas (SOMA) and international astronaut biobank]]></content:encoded>
+            <dc:title><![CDATA[The Space Omics and Medical Atlas (SOMA) and international astronaut biobank]]></dc:title>
+            <dc:creator>Eliah G. Overbey</dc:creator><dc:creator>JangKeun Kim</dc:creator><dc:creator>Braden T. Tierney</dc:creator><dc:creator>Jiwoon Park</dc:creator><dc:creator>Nadia Houerbi</dc:creator><dc:creator>Alexander G. Lucaci</dc:creator><dc:creator>Sebastian Garcia Medina</dc:creator><dc:creator>Namita Damle</dc:creator><dc:creator>Deena Najjar</dc:creator><dc:creator>Kirill Grigorev</dc:creator><dc:creator>Evan E. Afshin</dc:creator><dc:creator>Krista A. Ryon</dc:creator><dc:creator>Karolina Sienkiewicz</dc:creator><dc:creator>Laura Patras</dc:creator><dc:creator>Remi Klotz</dc:creator><dc:creator>Veronica Ortiz</dc:creator><dc:creator>Matthew MacKay</dc:creator><dc:creator>Annalise Schweickart</dc:creator><dc:creator>Christopher R. Chin</dc:creator><dc:creator>Maria A. Sierra</dc:creator><dc:creator>Matias F. Valenzuela</dc:creator><dc:creator>Ezequiel Dantas</dc:creator><dc:creator>Theodore M. Nelson</dc:creator><dc:creator>Egle Cekanaviciute</dc:creator><dc:creator>Gabriel Deards</dc:creator><dc:creator>Jonathan Foox</dc:creator><dc:creator>S. Anand Narayanan</dc:creator><dc:creator>Caleb M. Schmidt</dc:creator><dc:creator>Michael A. Schmidt</dc:creator><dc:creator>Julian C. Schmidt</dc:creator><dc:creator>Sean Mullane</dc:creator><dc:creator>Seth Stravers Tigchelaar</dc:creator><dc:creator>Steven Levitte</dc:creator><dc:creator>Craig Westover</dc:creator><dc:creator>Chandrima Bhattacharya</dc:creator><dc:creator>Serena Lucotti</dc:creator><dc:creator>Jeremy Wain Hirschberg</dc:creator><dc:creator>Jacqueline Proszynski</dc:creator><dc:creator>Marissa Burke</dc:creator><dc:creator>Ashley Kleinman</dc:creator><dc:creator>Daniel J. Butler</dc:creator><dc:creator>Conor Loy</dc:creator><dc:creator>Omary Mzava</dc:creator><dc:creator>Joan Lenz</dc:creator><dc:creator>Doru Paul</dc:creator><dc:creator>Christopher Mozsary</dc:creator><dc:creator>Lauren M. Sanders</dc:creator><dc:creator>Lynn E. Taylor</dc:creator><dc:creator>Chintan O. Patel</dc:creator><dc:creator>Sharib A. Khan</dc:creator><dc:creator>Mir Suhail</dc:creator><dc:creator>Syed G. Byhaqui</dc:creator><dc:creator>Burhan Aslam</dc:creator><dc:creator>Aaron S. Gajadhar</dc:creator><dc:creator>Lucy Williamson</dc:creator><dc:creator>Purvi Tandel</dc:creator><dc:creator>Qiu Yang</dc:creator><dc:creator>Jessica Chu</dc:creator><dc:creator>Ryan W. Benz</dc:creator><dc:creator>Asim Siddiqui</dc:creator><dc:creator>Daniel Hornburg</dc:creator><dc:creator>Kelly Blease</dc:creator><dc:creator>Juan Moreno</dc:creator><dc:creator>Andrew Boddicker</dc:creator><dc:creator>Junhua Zhao</dc:creator><dc:creator>Bryan Lajoie</dc:creator><dc:creator>Ryan T. Scott</dc:creator><dc:creator>Rachel R. Gilbert</dc:creator><dc:creator>San-huei Lai Polo</dc:creator><dc:creator>Andrew Altomare</dc:creator><dc:creator>Semyon Kruglyak</dc:creator><dc:creator>Shawn Levy</dc:creator><dc:creator>Ishara Ariyapala</dc:creator><dc:creator>Joanne Beer</dc:creator><dc:creator>Bingqing Zhang</dc:creator><dc:creator>Briana M. Hudson</dc:creator><dc:creator>Aric Rininger</dc:creator><dc:creator>Sarah E. Church</dc:creator><dc:creator>Afshin Beheshti</dc:creator><dc:creator>George M. Church</dc:creator><dc:creator>Scott M. Smith</dc:creator><dc:creator>Brian E. Crucian</dc:creator><dc:creator>Sara R. Zwart</dc:creator><dc:creator>Irina Matei</dc:creator><dc:creator>David C. Lyden</dc:creator><dc:creator>Francine Garrett-Bakelman</dc:creator><dc:creator>Jan Krumsiek</dc:creator><dc:creator>Qiuying Chen</dc:creator><dc:creator>Dawson Miller</dc:creator><dc:creator>Joe Shuga</dc:creator><dc:creator>Stephen Williams</dc:creator><dc:creator>Corey Nemec</dc:creator><dc:creator>Guy Trudel</dc:creator><dc:creator>Martin Pelchat</dc:creator><dc:creator>Odette Laneuville</dc:creator><dc:creator>Iwijn De Vlaminck</dc:creator><dc:creator>Steven Gross</dc:creator><dc:creator>Kelly L. Bolton</dc:creator><dc:creator>Susan M. Bailey</dc:creator><dc:creator>Richard Granstein</dc:creator><dc:creator>David Furman</dc:creator><dc:creator>Ari M. Melnick</dc:creator><dc:creator>Sylvain V. Costes</dc:creator><dc:creator>Bader Shirah</dc:creator><dc:creator>Min Yu</dc:creator><dc:creator>Anil S. Menon</dc:creator><dc:creator>Jaime Mateus</dc:creator><dc:creator>Cem Meydan</dc:creator><dc:creator>Christopher E. Mason</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07639-y</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-11; | doi:10.1038/s41586-024-07639-y</dc:source>
+            <dc:date>2024-06-11</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07639-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07639-y</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01745-7">
             <title><![CDATA[Science profits most when people of faith feel equally welcomed]]></title>
@@ -207,6 +282,21 @@
             <prism:url>https://www.nature.com/articles/d41586-024-01700-6</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01590-8">
+            <title><![CDATA[Physics is more than a collection of laws — it is a living craft]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01590-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 11 June 2024; <a href="https://www.nature.com/articles/d41586-024-01590-8">doi:10.1038/d41586-024-01590-8</a></p>The Cavendish Laboratory’s director, Brian Pippard, comments on the landscape of physics research in 1974, plus the benefits of applying thermodynamics to physiology, in the weekly dip in Nature’s archive.]]></content:encoded>
+            <dc:title><![CDATA[Physics is more than a collection of laws — it is a living craft]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-01590-8</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-11; | doi:10.1038/d41586-024-01590-8</dc:source>
+            <dc:date>2024-06-11</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01590-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01590-8</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-024-01746-6">
             <title><![CDATA[Equality doesn’t equal sustainability — even high-welfare states must do more]]></title>
             <link>https://www.nature.com/articles/d41586-024-01746-6</link>
@@ -220,6 +310,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01746-6</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01746-6</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01701-5">
+            <title><![CDATA[CRISPR improves a crop that feeds billions]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01701-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 11 June 2024; <a href="https://www.nature.com/articles/d41586-024-01701-5">doi:10.1038/d41586-024-01701-5</a></p>The gene-editing system, normally used to disrupt a gene, is applied to improve the function of a gene in rice.]]></content:encoded>
+            <dc:title><![CDATA[CRISPR improves a crop that feeds billions]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-01701-5</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-11; | doi:10.1038/d41586-024-01701-5</dc:source>
+            <dc:date>2024-06-11</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01701-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01701-5</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01744-8">
@@ -250,6 +355,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01728-8</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01728-8</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01733-x">
+            <title><![CDATA[A win for global action: harm from some ozone-eroding gases starts to fall]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01733-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 11 June 2024; <a href="https://www.nature.com/articles/d41586-024-01733-x">doi:10.1038/d41586-024-01733-x</a></p>Emissions reductions achieved under the landmark Montreal Protocol mean that the ozone hole could close sooner than expected.]]></content:encoded>
+            <dc:title><![CDATA[A win for global action: harm from some ozone-eroding gases starts to fall]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-01733-x</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-11; | doi:10.1038/d41586-024-01733-x</dc:source>
+            <dc:date>2024-06-11</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01733-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01733-x</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01717-x">
@@ -327,6 +447,21 @@
             <prism:url>https://www.nature.com/articles/d41586-024-01697-y</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01705-1">
+            <title><![CDATA[How a few days in space can disrupt a person’s biology]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01705-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 11 June 2024; <a href="https://www.nature.com/articles/d41586-024-01705-1">doi:10.1038/d41586-024-01705-1</a></p>Trove of health data from space tourists and astronauts reveals the effects of microgravity, radiation and more.]]></content:encoded>
+            <dc:title><![CDATA[How a few days in space can disrupt a person’s biology]]></dc:title>
+            <dc:creator>Heidi Ledford</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01705-1</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-11; | doi:10.1038/d41586-024-01705-1</dc:source>
+            <dc:date>2024-06-11</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01705-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01705-1</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/s41586-024-07666-9">
             <title><![CDATA[Author Correction: Loss of CDK4/6 activity in S/G2 phase leads to cell cycle reversal]]></title>
             <link>https://www.nature.com/articles/s41586-024-07666-9</link>
@@ -400,6 +535,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01712-2</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01712-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01752-8">
+            <title><![CDATA[Daily briefing: Good news for Moderna’s two-in-one COVID and flu vaccine]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01752-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 10 June 2024; <a href="https://www.nature.com/articles/d41586-024-01752-8">doi:10.1038/d41586-024-01752-8</a></p>A combined jab against COVID-19 and influenza has produced positive results in a large clinical trial. Plus, magic tricks reveal how animals think and what to do if you’re denied tenure.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Good news for Moderna’s two-in-one COVID and flu vaccine]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01752-8</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-10; | doi:10.1038/d41586-024-01752-8</dc:source>
+            <dc:date>2024-06-10</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01752-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01752-8</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01743-9">
@@ -1150,156 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/s41586-024-07491-0</prism:doi>
             <prism:url>https://www.nature.com/articles/s41586-024-07491-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07449-2">
-            <title><![CDATA[Capturing carbon dioxide from air with charged-sorbents]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07449-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 05 June 2024; <a href="https://www.nature.com/articles/s41586-024-07449-2">doi:10.1038/s41586-024-07449-2</a></p>Charged-sorbents are a new class of designer sorbent materials for the capture of carbon dioxide from the atmosphere, and can be regenerated at low temperatures with direct heating generation using renewable electricity.]]></content:encoded>
-            <dc:title><![CDATA[Capturing carbon dioxide from air with charged-sorbents]]></dc:title>
-            <dc:creator>Huaiguang Li</dc:creator><dc:creator>Mary E. Zick</dc:creator><dc:creator>Teedhat Trisukhon</dc:creator><dc:creator>Matteo Signorile</dc:creator><dc:creator>Xinyu Liu</dc:creator><dc:creator>Helen Eastmond</dc:creator><dc:creator>Shivani Sharma</dc:creator><dc:creator>Tristan L. Spreng</dc:creator><dc:creator>Jack Taylor</dc:creator><dc:creator>Jamie W. Gittins</dc:creator><dc:creator>Cavan Farrow</dc:creator><dc:creator>S. Alexandra Lim</dc:creator><dc:creator>Valentina Crocellà</dc:creator><dc:creator>Phillip J. Milner</dc:creator><dc:creator>Alexander C. Forse</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07449-2</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-05; | doi:10.1038/s41586-024-07449-2</dc:source>
-            <dc:date>2024-06-05</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07449-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07449-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07404-1">
-            <title><![CDATA[Companies inadvertently fund online misinformation despite consumer backlash]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07404-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 05 June 2024; <a href="https://www.nature.com/articles/s41586-024-07404-1">doi:10.1038/s41586-024-07404-1</a></p>Many companies unknowingly advertise on websites that publish misinformation despite the reputational and financial risks, and increased transparency for consumers and advertisers could counter unintended ad revenue going to misinformation websites.]]></content:encoded>
-            <dc:title><![CDATA[Companies inadvertently fund online misinformation despite consumer backlash]]></dc:title>
-            <dc:creator>Wajeeha Ahmad</dc:creator><dc:creator>Ananya Sen</dc:creator><dc:creator>Charles Eesley</dc:creator><dc:creator>Erik Brynjolfsson</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07404-1</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-05; | doi:10.1038/s41586-024-07404-1</dc:source>
-            <dc:date>2024-06-05</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07404-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07404-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07517-7">
-            <title><![CDATA[Single-cell nascent RNA sequencing unveils coordinated global transcription]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07517-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 05 June 2024; <a href="https://www.nature.com/articles/s41586-024-07517-7">doi:10.1038/s41586-024-07517-7</a></p>Nascent transcription in genes and enhancers genome-wide at the single-cell level is quantified using global run-on and sequencing (GRO–seq) with click chemistry.]]></content:encoded>
-            <dc:title><![CDATA[Single-cell nascent RNA sequencing unveils coordinated global transcription]]></dc:title>
-            <dc:creator>Dig B. Mahat</dc:creator><dc:creator>Nathaniel D. Tippens</dc:creator><dc:creator>Jorge D. Martin-Rufino</dc:creator><dc:creator>Sean K. Waterton</dc:creator><dc:creator>Jiayu Fu</dc:creator><dc:creator>Sarah E. Blatt</dc:creator><dc:creator>Phillip A. Sharp</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07517-7</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-05; | doi:10.1038/s41586-024-07517-7</dc:source>
-            <dc:date>2024-06-05</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07517-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07517-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07484-z">
-            <title><![CDATA[Observation of edge states derived from topological helix chains]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07484-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 05 June 2024; <a href="https://www.nature.com/articles/s41586-024-07484-z">doi:10.1038/s41586-024-07484-z</a></p>Unusual electronic states derived from topological helix chains were observed that support the emergent bound states in elemental tellurium.]]></content:encoded>
-            <dc:title><![CDATA[Observation of edge states derived from topological helix chains]]></dc:title>
-            <dc:creator>K. Nakayama</dc:creator><dc:creator>A. Tokuyama</dc:creator><dc:creator>K. Yamauchi</dc:creator><dc:creator>A. Moriya</dc:creator><dc:creator>T. Kato</dc:creator><dc:creator>K. Sugawara</dc:creator><dc:creator>S. Souma</dc:creator><dc:creator>M. Kitamura</dc:creator><dc:creator>K. Horiba</dc:creator><dc:creator>H. Kumigashira</dc:creator><dc:creator>T. Oguchi</dc:creator><dc:creator>T. Takahashi</dc:creator><dc:creator>K. Segawa</dc:creator><dc:creator>T. Sato</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07484-z</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-05; | doi:10.1038/s41586-024-07484-z</dc:source>
-            <dc:date>2024-06-05</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07484-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07484-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07524-8">
-            <title><![CDATA[Post-January 6th deplatforming reduced the reach of misinformation on Twitter]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07524-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 05 June 2024; <a href="https://www.nature.com/articles/s41586-024-07524-8">doi:10.1038/s41586-024-07524-8</a></p>Difference-in-differences analysis indicates that the decision by Twitter to deplatform 70,000 users following the events at the US Capitol on 6 January 2021 had wider effects on the spread of misinformation.]]></content:encoded>
-            <dc:title><![CDATA[Post-January 6th deplatforming reduced the reach of misinformation on Twitter]]></dc:title>
-            <dc:creator>Stefan D. McCabe</dc:creator><dc:creator>Diogo Ferrari</dc:creator><dc:creator>Jon Green</dc:creator><dc:creator>David M. J. Lazer</dc:creator><dc:creator>Kevin M. Esterling</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07524-8</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-05; | doi:10.1038/s41586-024-07524-8</dc:source>
-            <dc:date>2024-06-05</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07524-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07524-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07482-1">
-            <title><![CDATA[Visualization of oxygen vacancies and self-doped ligand holes in La<sub>3</sub>Ni<sub>2</sub>O<sub>7−<i>δ</i></sub>]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07482-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 05 June 2024; <a href="https://www.nature.com/articles/s41586-024-07482-1">doi:10.1038/s41586-024-07482-1</a></p>Direct visualization of oxygen vacancies and self-doped ligand holes reveals the role of ligand oxygen in La3Ni2O7−δ and provides further understanding of superconducting nickelate materials.]]></content:encoded>
-            <dc:title><![CDATA[Visualization of oxygen vacancies and self-doped ligand holes in La<sub>3</sub>Ni<sub>2</sub>O<sub>7−<i>δ</i></sub>]]></dc:title>
-            <dc:creator>Zehao Dong</dc:creator><dc:creator>Mengwu Huo</dc:creator><dc:creator>Jie Li</dc:creator><dc:creator>Jingyuan Li</dc:creator><dc:creator>Pengcheng Li</dc:creator><dc:creator>Hualei Sun</dc:creator><dc:creator>Lin Gu</dc:creator><dc:creator>Yi Lu</dc:creator><dc:creator>Meng Wang</dc:creator><dc:creator>Yayu Wang</dc:creator><dc:creator>Zhen Chen</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07482-1</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-05; | doi:10.1038/s41586-024-07482-1</dc:source>
-            <dc:date>2024-06-05</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07482-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07482-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01597-1">
-            <title><![CDATA[China’s big-science bet]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01597-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 05 June 2024; <a href="https://www.nature.com/articles/d41586-024-01597-1">doi:10.1038/d41586-024-01597-1</a></p>With a view to increase its prestige and influence in global science, the country is investing heavily in major facilities.]]></content:encoded>
-            <dc:title><![CDATA[China’s big-science bet]]></dc:title>
-            <dc:creator>James Mitchell Crow</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01597-1</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-05; | doi:10.1038/d41586-024-01597-1</dc:source>
-            <dc:date>2024-06-05</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01597-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01597-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01552-0">
-            <title><![CDATA[Atomic-scale insights into the mystery of how ice surfaces melt]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01552-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 05 June 2024; <a href="https://www.nature.com/articles/d41586-024-01552-0">doi:10.1038/d41586-024-01552-0</a></p>It has long been known that ice starts melting at temperatures far below its nominal freezing point, but why or how has remained enigmatic. An innovation in atomic force microscopy provides insights into how this process begins in the most abundant form of ice on Earth.]]></content:encoded>
-            <dc:title><![CDATA[Atomic-scale insights into the mystery of how ice surfaces melt]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-01552-0</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-05; | doi:10.1038/d41586-024-01552-0</dc:source>
-            <dc:date>2024-06-05</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01552-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01552-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01618-z">
-            <title><![CDATA[What we do — and don’t — know about how misinformation spreads online]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01618-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 05 June 2024; <a href="https://www.nature.com/articles/d41586-024-01618-z">doi:10.1038/d41586-024-01618-z</a></p>There are gaps in our understanding of how and why digital misinformation propagates. To help design effective interventions to minimize the spread of falsehoods, researchers need data and transparency from online platforms.]]></content:encoded>
-            <dc:title><![CDATA[What we do — and don’t — know about how misinformation spreads online]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-01618-z</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-05; | doi:10.1038/d41586-024-01618-z</dc:source>
-            <dc:date>2024-06-05</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01618-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01618-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01601-8">
-            <title><![CDATA[A guide to the Nature Index]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01601-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 05 June 2024; <a href="https://www.nature.com/articles/d41586-024-01601-8">doi:10.1038/d41586-024-01601-8</a></p>A description of the terminology and methodology used in this supplement, and a guide to the functionality that is available free online at natureindex.com.]]></content:encoded>
-            <dc:title><![CDATA[A guide to the Nature Index]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-01601-8</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-05; | doi:10.1038/d41586-024-01601-8</dc:source>
-            <dc:date>2024-06-05</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01601-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01601-8</prism:url>
         </item>
     
 </rdf:RDF>
