@@ -18,6 +18,10 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01749-3"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01711-3"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07618-3"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07668-7"/>
@@ -164,10 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01507-5"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01719-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01725-x"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,36 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01749-3">
+            <title><![CDATA[Three ways to recognize hidden labour in research]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01749-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 13 June 2024; <a href="https://www.nature.com/articles/d41586-024-01749-3">doi:10.1038/d41586-024-01749-3</a></p>From designing studies and translating science to technical services, the work of support staff is highly diverse — and it needs merit systems to match.]]></content:encoded>
+            <dc:title><![CDATA[Three ways to recognize hidden labour in research]]></dc:title>
+            <dc:creator>Linda Nordling</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01749-3</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-13; | doi:10.1038/d41586-024-01749-3</dc:source>
+            <dc:date>2024-06-13</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01749-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01749-3</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01711-3">
+            <title><![CDATA[Cyberattacks are hitting research institutions — with devastating effects]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01711-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 13 June 2024; <a href="https://www.nature.com/articles/d41586-024-01711-3">doi:10.1038/d41586-024-01711-3</a></p>Hackers are targeting universities and research institutes with ransomware, leaving staff and students without the ability to work.]]></content:encoded>
+            <dc:title><![CDATA[Cyberattacks are hitting research institutions — with devastating effects]]></dc:title>
+            <dc:creator>Diana Kwon</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01711-3</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-13; | doi:10.1038/d41586-024-01711-3</dc:source>
+            <dc:date>2024-06-13</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01711-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01711-3</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07618-3">
             <title><![CDATA[A Multimodal Generative AI Copilot for Human Pathology]]></title>
@@ -1216,7 +1246,7 @@
             <title><![CDATA[Far-right gains in European elections: what they mean for climate goals]]></title>
             <link>https://www.nature.com/articles/d41586-024-01742-w</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 10 June 2024; <a href="https://www.nature.com/articles/d41586-024-01742-w">doi:10.1038/d41586-024-01742-w</a></p>A shift to the political right in Europe could make it harder to bring in more ambitious green policies, but key net-zero commitments should remain.]]></content:encoded>
+                <![CDATA[<p>Nature, Published online: 10 June 2024; <a href="https://www.nature.com/articles/d41586-024-01742-w">doi:10.1038/d41586-024-01742-w</a></p>A political shift to the right in Europe could make it harder to bring in more ambitious green policies, but key net-zero commitments should remain.]]></content:encoded>
             <dc:title><![CDATA[Far-right gains in European elections: what they mean for climate goals]]></dc:title>
             <dc:creator>Carissa Wong</dc:creator>
             <dc:identifier>doi:10.1038/d41586-024-01742-w</dc:identifier>
@@ -1270,36 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01507-5</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01507-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01719-9">
-            <title><![CDATA[Beyond the trans/cis binary: introducing new terms will enrich gender research]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01719-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 10 June 2024; <a href="https://www.nature.com/articles/d41586-024-01719-9">doi:10.1038/d41586-024-01719-9</a></p>We need terms such as ‘gender modality’ that are flexible enough to capture the nuances of human experience but pragmatic enough to serve science.]]></content:encoded>
-            <dc:title><![CDATA[Beyond the trans/cis binary: introducing new terms will enrich gender research]]></dc:title>
-            <dc:creator>Florence Ashley</dc:creator><dc:creator>Shari Brightly-Brown</dc:creator><dc:creator>G. Nic Rider</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01719-9</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-10; | doi:10.1038/d41586-024-01719-9</dc:source>
-            <dc:date>2024-06-10</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01719-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01719-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01725-x">
-            <title><![CDATA[Sparrow massacres and Cuban vaccines: Books in Brief]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01725-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 07 June 2024; <a href="https://www.nature.com/articles/d41586-024-01725-x">doi:10.1038/d41586-024-01725-x</a></p>Andrew Robinson reviews five of the best science picks.]]></content:encoded>
-            <dc:title><![CDATA[Sparrow massacres and Cuban vaccines: Books in Brief]]></dc:title>
-            <dc:creator>Andrew Robinson</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01725-x</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-07; | doi:10.1038/d41586-024-01725-x</dc:source>
-            <dc:date>2024-06-07</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01725-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01725-x</prism:url>
         </item>
     
 </rdf:RDF>
