@@ -18,6 +18,14 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07665-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01764-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02010-7"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02013-4"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01749-3"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01711-3"/>
@@ -80,6 +88,8 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01505-7"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02008-1"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01762-6"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01508-4"/>
@@ -134,6 +144,8 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01748-4"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01755-5"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01715-z"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01739-5"/>
@@ -156,18 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01752-8"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01743-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01727-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01742-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01721-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01726-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01507-5"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,66 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07665-w">
+            <title><![CDATA[Author Correction: Acceleration of radiative recombination for efficient perovskite LEDs]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07665-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 13 June 2024; <a href="https://www.nature.com/articles/s41586-024-07665-w">doi:10.1038/s41586-024-07665-w</a></p>Author Correction: Acceleration of radiative recombination for efficient perovskite LEDs]]></content:encoded>
+            <dc:title><![CDATA[Author Correction: Acceleration of radiative recombination for efficient perovskite LEDs]]></dc:title>
+            <dc:creator>Mengmeng Li</dc:creator><dc:creator>Yingguo Yang</dc:creator><dc:creator>Zhiyuan Kuang</dc:creator><dc:creator>Chenjie Hao</dc:creator><dc:creator>Saixue Wang</dc:creator><dc:creator>Feiyue Lu</dc:creator><dc:creator>Zhongran Liu</dc:creator><dc:creator>Jinglong Liu</dc:creator><dc:creator>Lingjiao Zeng</dc:creator><dc:creator>Yuxiao Cai</dc:creator><dc:creator>Yulin Mao</dc:creator><dc:creator>Jingshu Guo</dc:creator><dc:creator>He Tian</dc:creator><dc:creator>Guichuan Xing</dc:creator><dc:creator>Yu Cao</dc:creator><dc:creator>Chao Ma</dc:creator><dc:creator>Nana Wang</dc:creator><dc:creator>Qiming Peng</dc:creator><dc:creator>Lin Zhu</dc:creator><dc:creator>Wei Huang</dc:creator><dc:creator>Jianpu Wang</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07665-w</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-13; | doi:10.1038/s41586-024-07665-w</dc:source>
+            <dc:date>2024-06-13</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07665-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07665-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01764-4">
+            <title><![CDATA[AI and Euro 2024: VAR is shaking up football — and it’s not going away]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01764-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 13 June 2024; <a href="https://www.nature.com/articles/d41586-024-01764-4">doi:10.1038/d41586-024-01764-4</a></p>Sports physicist Eric Goff explains how updates to the technology can help referees to make the toughest calls.]]></content:encoded>
+            <dc:title><![CDATA[AI and Euro 2024: VAR is shaking up football — and it’s not going away]]></dc:title>
+            <dc:creator>Sumeet Kulkarni</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01764-4</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-13; | doi:10.1038/d41586-024-01764-4</dc:source>
+            <dc:date>2024-06-13</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01764-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01764-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02010-7">
+            <title><![CDATA[What causes long COVID? Case builds for rogue antibodies]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02010-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 13 June 2024; <a href="https://www.nature.com/articles/d41586-024-02010-7">doi:10.1038/d41586-024-02010-7</a></p>Study finds that antibodies from people with the debilitating condition trigger similar symptoms in mice.]]></content:encoded>
+            <dc:title><![CDATA[What causes long COVID? Case builds for rogue antibodies]]></dc:title>
+            <dc:creator>Carissa Wong</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02010-7</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-13; | doi:10.1038/d41586-024-02010-7</dc:source>
+            <dc:date>2024-06-13</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02010-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02010-7</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02013-4">
+            <title><![CDATA[Twelve scientist-endorsed tips to get over writer’s block]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02013-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 13 June 2024; <a href="https://www.nature.com/articles/d41586-024-02013-4">doi:10.1038/d41586-024-02013-4</a></p>How do you get your creative juices flowing after spending hours, days or months looking at a blank screen? Researchers share their advice.]]></content:encoded>
+            <dc:title><![CDATA[Twelve scientist-endorsed tips to get over writer’s block]]></dc:title>
+            <dc:creator>Emily Sohn</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02013-4</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-13; | doi:10.1038/d41586-024-02013-4</dc:source>
+            <dc:date>2024-06-13</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02013-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02013-4</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01749-3">
             <title><![CDATA[Three ways to recognize hidden labour in research]]></title>
@@ -642,6 +702,21 @@
             <prism:url>https://www.nature.com/articles/d41586-024-01505-7</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02008-1">
+            <title><![CDATA[Daily briefing: The desperate race to use CRISPR to cure a rare neurodegenerative disease]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02008-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 12 June 2024; <a href="https://www.nature.com/articles/d41586-024-02008-1">doi:10.1038/d41586-024-02008-1</a></p>Lessons for the messy state of modern drug development from researchers’ fight to save one young woman. Plus, what spaceflight does to your body and a peptide glass that heals itself.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: The desperate race to use CRISPR to cure a rare neurodegenerative disease]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02008-1</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-12; | doi:10.1038/d41586-024-02008-1</dc:source>
+            <dc:date>2024-06-12</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02008-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02008-1</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-024-01762-6">
             <title><![CDATA[The climate crisis is solvable, but human rights must trump profits]]></title>
             <link>https://www.nature.com/articles/d41586-024-01762-6</link>
@@ -1047,6 +1122,21 @@
             <prism:url>https://www.nature.com/articles/d41586-024-01748-4</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01755-5">
+            <title><![CDATA[Daily briefing: ‘I had no choice but to commit misconduct’]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01755-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 11 June 2024; <a href="https://www.nature.com/articles/d41586-024-01755-5">doi:10.1038/d41586-024-01755-5</a></p>Rare first-hand accounts from researchers who engaged in unethical behaviour. Plus, elephants call each other by name and what the science of elections can reveal in this super-election year.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: ‘I had no choice but to commit misconduct’]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01755-5</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-11; | doi:10.1038/d41586-024-01755-5</dc:source>
+            <dc:date>2024-06-11</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01755-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01755-5</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-024-01715-z">
             <title><![CDATA[Space weather can affect our daily lives — we need a better warning system]]></title>
             <link>https://www.nature.com/articles/d41586-024-01715-z</link>
@@ -1210,96 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01752-8</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01752-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01743-9">
-            <title><![CDATA[Counting the cost of fashion’s carbon footprint]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01743-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 10 June 2024; <a href="https://www.nature.com/articles/d41586-024-01743-9">doi:10.1038/d41586-024-01743-9</a></p>As a child Sonja Salmon loved chemistry and sewing. Now her research explores ways of reducing the textile industry’s environmental impact.]]></content:encoded>
-            <dc:title><![CDATA[Counting the cost of fashion’s carbon footprint]]></dc:title>
-            <dc:creator>Dom Byrne</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01743-9</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-10; | doi:10.1038/d41586-024-01743-9</dc:source>
-            <dc:date>2024-06-10</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01743-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01743-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01727-9">
-            <title><![CDATA[How we packed off the giant pandas from the Smithsonian’s National Zoo]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01727-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 10 June 2024; <a href="https://www.nature.com/articles/d41586-024-01727-9">doi:10.1038/d41586-024-01727-9</a></p>As the zoo prepares to welcome two giant pandas from China, its director Brandie Smith discusses the departure of their predecessors, Tian Tian, Mei Xiang and a three-year-old cub.]]></content:encoded>
-            <dc:title><![CDATA[How we packed off the giant pandas from the Smithsonian’s National Zoo]]></dc:title>
-            <dc:creator>Anne Gulland </dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01727-9</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-10; | doi:10.1038/d41586-024-01727-9</dc:source>
-            <dc:date>2024-06-10</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01727-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01727-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01742-w">
-            <title><![CDATA[Far-right gains in European elections: what they mean for climate goals]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01742-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 10 June 2024; <a href="https://www.nature.com/articles/d41586-024-01742-w">doi:10.1038/d41586-024-01742-w</a></p>A political shift to the right in Europe could make it harder to bring in more ambitious green policies, but key net-zero commitments should remain.]]></content:encoded>
-            <dc:title><![CDATA[Far-right gains in European elections: what they mean for climate goals]]></dc:title>
-            <dc:creator>Carissa Wong</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01742-w</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-10; | doi:10.1038/d41586-024-01742-w</dc:source>
-            <dc:date>2024-06-10</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01742-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01742-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01721-1">
-            <title><![CDATA[How to track the economic impact of public investments in AI]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01721-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 10 June 2024; <a href="https://www.nature.com/articles/d41586-024-01721-1">doi:10.1038/d41586-024-01721-1</a></p>National statistics systems should recognize the researchers whose ideas drive artificial-intelligence applications, not just machines and factory outputs.]]></content:encoded>
-            <dc:title><![CDATA[How to track the economic impact of public investments in AI]]></dc:title>
-            <dc:creator>Julia Lane</dc:creator><dc:creator>Jason Owen-Smith</dc:creator><dc:creator>Bruce A. Weinberg</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01721-1</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-10; | doi:10.1038/d41586-024-01721-1</dc:source>
-            <dc:date>2024-06-10</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01721-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01721-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01726-w">
-            <title><![CDATA[Alzheimer’s drug with modest benefits wins backing of FDA advisers]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01726-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 10 June 2024; <a href="https://www.nature.com/articles/d41586-024-01726-w">doi:10.1038/d41586-024-01726-w</a></p>Donanemab slows progression of symptoms, but questions linger about the durability of its effect.]]></content:encoded>
-            <dc:title><![CDATA[Alzheimer’s drug with modest benefits wins backing of FDA advisers]]></dc:title>
-            <dc:creator>Sara Reardon</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01726-w</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-10; | doi:10.1038/d41586-024-01726-w</dc:source>
-            <dc:date>2024-06-10</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01726-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01726-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01507-5">
-            <title><![CDATA[Two decades of deep ice cores from Antarctica]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01507-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 10 June 2024; <a href="https://www.nature.com/articles/d41586-024-01507-5">doi:10.1038/d41586-024-01507-5</a></p>In June 2004, the results of an ambitious Antarctic ice-drilling project brought insight into hundreds of thousands of years of climatic changes. The extraordinary sample still has much to offer climate research — even as its successor is being drilled.]]></content:encoded>
-            <dc:title><![CDATA[Two decades of deep ice cores from Antarctica]]></dc:title>
-            <dc:creator>Kenji Kawamura</dc:creator><dc:creator>Ikumi Oyabu</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01507-5</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-10; | doi:10.1038/d41586-024-01507-5</dc:source>
-            <dc:date>2024-06-10</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01507-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01507-5</prism:url>
         </item>
     
 </rdf:RDF>
