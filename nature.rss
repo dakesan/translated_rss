@@ -18,6 +18,10 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01702-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01758-2"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07665-w"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01764-4"/>
@@ -164,10 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07496-9"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01712-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01752-8"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,36 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01702-4">
+            <title><![CDATA[An object in space is emitting microwaves — and baffling scientists]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01702-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 14 June 2024; <a href="https://www.nature.com/articles/d41586-024-01702-4">doi:10.1038/d41586-024-01702-4</a></p>Data recorded at an observatory in Chile do not fit with a black hole, a supernova, a pair of merging stars or anything else.]]></content:encoded>
+            <dc:title><![CDATA[An object in space is emitting microwaves — and baffling scientists]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-01702-4</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-14; | doi:10.1038/d41586-024-01702-4</dc:source>
+            <dc:date>2024-06-14</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01702-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01702-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01758-2">
+            <title><![CDATA[Wildfires are raging in Nepal — climate change isn’t the only culprit]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01758-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 14 June 2024; <a href="https://www.nature.com/articles/d41586-024-01758-2">doi:10.1038/d41586-024-01758-2</a></p>Fire predictions pushed to locals’ smartphones could save forests, and lives, say researchers.]]></content:encoded>
+            <dc:title><![CDATA[Wildfires are raging in Nepal — climate change isn’t the only culprit]]></dc:title>
+            <dc:creator>Saugat Bolakhe</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01758-2</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-14; | doi:10.1038/d41586-024-01758-2</dc:source>
+            <dc:date>2024-06-14</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01758-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01758-2</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07665-w">
             <title><![CDATA[Author Correction: Acceleration of radiative recombination for efficient perovskite LEDs]]></title>
@@ -1270,36 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/s41586-024-07496-9</prism:doi>
             <prism:url>https://www.nature.com/articles/s41586-024-07496-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01712-2">
-            <title><![CDATA[What the science of elections can reveal in this super-election year]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01712-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 10 June 2024; <a href="https://www.nature.com/articles/d41586-024-01712-2">doi:10.1038/d41586-024-01712-2</a></p>As billions of people go to the polls in 2024, political scientists have a lot of data to sift through.]]></content:encoded>
-            <dc:title><![CDATA[What the science of elections can reveal in this super-election year]]></dc:title>
-            <dc:creator>Benjamin Plackett</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01712-2</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-10; | doi:10.1038/d41586-024-01712-2</dc:source>
-            <dc:date>2024-06-10</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01712-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01712-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01752-8">
-            <title><![CDATA[Daily briefing: Good news for Moderna’s two-in-one COVID and flu vaccine]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01752-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 10 June 2024; <a href="https://www.nature.com/articles/d41586-024-01752-8">doi:10.1038/d41586-024-01752-8</a></p>A combined jab against COVID-19 and influenza has produced positive results in a large clinical trial. Plus, magic tricks reveal how animals think and what to do if you’re denied tenure.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: Good news for Moderna’s two-in-one COVID and flu vaccine]]></dc:title>
-            <dc:creator>Flora Graham</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01752-8</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-10; | doi:10.1038/d41586-024-01752-8</dc:source>
-            <dc:date>2024-06-10</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01752-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01752-8</prism:url>
         </item>
     
 </rdf:RDF>
