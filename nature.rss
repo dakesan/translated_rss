@@ -20,7 +20,17 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01702-4"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02038-9"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01758-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02039-8"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02020-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02021-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01757-3"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07665-w"/>
                 
@@ -33,6 +43,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01749-3"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01711-3"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02016-1"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07618-3"/>
                 
@@ -156,18 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01760-8"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01697-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01705-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07666-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01722-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00797-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07496-9"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -192,6 +192,21 @@
             <prism:url>https://www.nature.com/articles/d41586-024-01702-4</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02038-9">
+            <title><![CDATA[My pivot from grain scientist to slave-trade historian]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02038-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 14 June 2024; <a href="https://www.nature.com/articles/d41586-024-02038-9">doi:10.1038/d41586-024-02038-9</a></p>Geoff Palmer, Scotland’s first Black professor, now applies scientific rigour to researching slavery.]]></content:encoded>
+            <dc:title><![CDATA[My pivot from grain scientist to slave-trade historian]]></dc:title>
+            <dc:creator>Christine Ro</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02038-9</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-14; | doi:10.1038/d41586-024-02038-9</dc:source>
+            <dc:date>2024-06-14</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02038-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02038-9</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-024-01758-2">
             <title><![CDATA[Wildfires are raging in Nepal — climate change isn’t the only culprit]]></title>
             <link>https://www.nature.com/articles/d41586-024-01758-2</link>
@@ -205,6 +220,66 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01758-2</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01758-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02039-8">
+            <title><![CDATA[Securing your science: the researcher’s guide to financial management]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02039-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 14 June 2024; <a href="https://www.nature.com/articles/d41586-024-02039-8">doi:10.1038/d41586-024-02039-8</a></p>Lab money management is an important, yet overlooked, professional skill for researchers.]]></content:encoded>
+            <dc:title><![CDATA[Securing your science: the researcher’s guide to financial management]]></dc:title>
+            <dc:creator>Andy Tay</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02039-8</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-14; | doi:10.1038/d41586-024-02039-8</dc:source>
+            <dc:date>2024-06-14</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02039-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02039-8</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02020-5">
+            <title><![CDATA[Unease as US drug agency weighs its use of independent scientists]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02020-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 14 June 2024; <a href="https://www.nature.com/articles/d41586-024-02020-5">doi:10.1038/d41586-024-02020-5</a></p>After several controversial drug approvals, the US Food and Drug Administration is mulling changes to its advisory panels, which include researchers and others.]]></content:encoded>
+            <dc:title><![CDATA[Unease as US drug agency weighs its use of independent scientists]]></dc:title>
+            <dc:creator>Max Kozlov</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02020-5</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-14; | doi:10.1038/d41586-024-02020-5</dc:source>
+            <dc:date>2024-06-14</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02020-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02020-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02021-4">
+            <title><![CDATA[It’s time to talk about menstruation and fieldwork]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02021-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 14 June 2024; <a href="https://www.nature.com/articles/d41586-024-02021-4">doi:10.1038/d41586-024-02021-4</a></p>Cringing colleagues can be an occupational hazard when pre-trip discussions cover periods — others welcome frank conversations.]]></content:encoded>
+            <dc:title><![CDATA[It’s time to talk about menstruation and fieldwork]]></dc:title>
+            <dc:creator>Cameron  Walker</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02021-4</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-14; | doi:10.1038/d41586-024-02021-4</dc:source>
+            <dc:date>2024-06-14</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02021-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02021-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01757-3">
+            <title><![CDATA[How the ‘mind’s eye’ calls up visual memories from the brain]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01757-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 14 June 2024; <a href="https://www.nature.com/articles/d41586-024-01757-3">doi:10.1038/d41586-024-01757-3</a></p>Different patterns of brain activity help to distinguish between images recalled from memory and the sight of physical objects.]]></content:encoded>
+            <dc:title><![CDATA[How the ‘mind’s eye’ calls up visual memories from the brain]]></dc:title>
+            <dc:creator>Julian Nowogrodzki</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01757-3</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-14; | doi:10.1038/d41586-024-01757-3</dc:source>
+            <dc:date>2024-06-14</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01757-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01757-3</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07665-w">
@@ -295,6 +370,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01711-3</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01711-3</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02016-1">
+            <title><![CDATA[Daily briefing: How COVID-vaccine technology could personalize cancer treatments]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02016-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 13 June 2024; <a href="https://www.nature.com/articles/d41586-024-02016-1">doi:10.1038/d41586-024-02016-1</a></p>The same mRNA technology that underpins pioneering COVID-19 vaccines could train the immune system to attack cancer cells. Plus, why poor sleep disrupts memory and how ancient DNA from Maya ruins tells the story of ritual human sacrifices.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: How COVID-vaccine technology could personalize cancer treatments]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02016-1</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-13; | doi:10.1038/d41586-024-02016-1</dc:source>
+            <dc:date>2024-06-13</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02016-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02016-1</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07618-3">
@@ -1210,96 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01760-8</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01760-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01697-y">
-            <title><![CDATA[Elite researchers in China say they had ‘no choice’ but to commit misconduct]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01697-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 11 June 2024; <a href="https://www.nature.com/articles/d41586-024-01697-y">doi:10.1038/d41586-024-01697-y</a></p>Anonymous interviewees say they engaged in unethical behaviour to protect their jobs — although others say study presents an overly negative view.]]></content:encoded>
-            <dc:title><![CDATA[Elite researchers in China say they had ‘no choice’ but to commit misconduct]]></dc:title>
-            <dc:creator>Smriti Mallapaty</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01697-y</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-11; | doi:10.1038/d41586-024-01697-y</dc:source>
-            <dc:date>2024-06-11</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01697-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01697-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01705-1">
-            <title><![CDATA[How a few days in space can disrupt a person’s biology]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01705-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 11 June 2024; <a href="https://www.nature.com/articles/d41586-024-01705-1">doi:10.1038/d41586-024-01705-1</a></p>Trove of health data from space tourists and astronauts reveals the effects of microgravity, radiation and more.]]></content:encoded>
-            <dc:title><![CDATA[How a few days in space can disrupt a person’s biology]]></dc:title>
-            <dc:creator>Heidi Ledford</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01705-1</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-11; | doi:10.1038/d41586-024-01705-1</dc:source>
-            <dc:date>2024-06-11</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01705-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01705-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07666-9">
-            <title><![CDATA[Author Correction: Loss of CDK4/6 activity in S/G2 phase leads to cell cycle reversal]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07666-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 10 June 2024; <a href="https://www.nature.com/articles/s41586-024-07666-9">doi:10.1038/s41586-024-07666-9</a></p>Author Correction: Loss of CDK4/6 activity in S/G2 phase leads to cell cycle reversal]]></content:encoded>
-            <dc:title><![CDATA[Author Correction: Loss of CDK4/6 activity in S/G2 phase leads to cell cycle reversal]]></dc:title>
-            <dc:creator>James A. Cornwell</dc:creator><dc:creator>Adrijana Crncec</dc:creator><dc:creator>Marwa M. Afifi</dc:creator><dc:creator>Kristina Tang</dc:creator><dc:creator>Ruhul Amin</dc:creator><dc:creator>Steven D. Cappell</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07666-9</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-10; | doi:10.1038/s41586-024-07666-9</dc:source>
-            <dc:date>2024-06-10</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07666-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07666-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01722-0">
-            <title><![CDATA[I raise delicate butterflies on the mean streets of New York]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01722-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 10 June 2024; <a href="https://www.nature.com/articles/d41586-024-01722-0">doi:10.1038/d41586-024-01722-0</a></p>Robyn Elman works to protect and conserve monarch butterflies before their dangerous migration down the US East Coast to Mexico.]]></content:encoded>
-            <dc:title><![CDATA[I raise delicate butterflies on the mean streets of New York]]></dc:title>
-            <dc:creator>Jack Leeming</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01722-0</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-10; | doi:10.1038/d41586-024-01722-0</dc:source>
-            <dc:date>2024-06-10</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01722-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01722-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-00797-z">
-            <title><![CDATA[Do elephants have names for each other?]]></title>
-            <link>https://www.nature.com/articles/d41586-024-00797-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 10 June 2024; <a href="https://www.nature.com/articles/d41586-024-00797-z">doi:10.1038/d41586-024-00797-z</a></p>Machine learning and careful observation suggest that some of the animals’ calls are specific to individuals, similar to a person’s name.]]></content:encoded>
-            <dc:title><![CDATA[Do elephants have names for each other?]]></dc:title>
-            <dc:creator>Gemma Conroy</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-00797-z</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-10; | doi:10.1038/d41586-024-00797-z</dc:source>
-            <dc:date>2024-06-10</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-00797-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-00797-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07496-9">
-            <title><![CDATA[Most nearby young star clusters formed in three massive complexes]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07496-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 10 June 2024; <a href="https://www.nature.com/articles/s41586-024-07496-9">doi:10.1038/s41586-024-07496-9</a></p>Analysis of data from Gaia Data Release 3 and other large spectroscopic surveys shows that nearly 60% of high-quality young clusters within 1 kpc of the Sun originated from just three distinct star-forming complexes.]]></content:encoded>
-            <dc:title><![CDATA[Most nearby young star clusters formed in three massive complexes]]></dc:title>
-            <dc:creator>Cameren Swiggum</dc:creator><dc:creator>João Alves</dc:creator><dc:creator>Robert Benjamin</dc:creator><dc:creator>Sebastian Ratzenböck</dc:creator><dc:creator>Núria Miret-Roig</dc:creator><dc:creator>Josefa Großschedl</dc:creator><dc:creator>Stefan Meingast</dc:creator><dc:creator>Alyssa Goodman</dc:creator><dc:creator>Ralf Konietzka</dc:creator><dc:creator>Catherine Zucker</dc:creator><dc:creator>Emily L. Hunt</dc:creator><dc:creator>Sabine Reffert</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07496-9</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-10; | doi:10.1038/s41586-024-07496-9</dc:source>
-            <dc:date>2024-06-10</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07496-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07496-9</prism:url>
         </item>
     
 </rdf:RDF>
