@@ -18,6 +18,16 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02005-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02029-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02043-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02023-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01754-6"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01702-4"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02038-9"/>
@@ -158,16 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01717-x"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01748-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01755-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01715-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01739-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01760-8"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,81 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02005-4">
+            <title><![CDATA[China could start building world's biggest particle collider in 2027]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02005-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 17 June 2024; <a href="https://www.nature.com/articles/d41586-024-02005-4">doi:10.1038/d41586-024-02005-4</a></p>The US$5 billion facility would be cheaper, bigger and faster to build than a similar one proposed by European scientists.]]></content:encoded>
+            <dc:title><![CDATA[China could start building world's biggest particle collider in 2027]]></dc:title>
+            <dc:creator>Gemma Conroy</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02005-4</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-17; | doi:10.1038/d41586-024-02005-4</dc:source>
+            <dc:date>2024-06-17</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02005-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02005-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02029-w">
+            <title><![CDATA[Push and pull: how to measure the forces that sculpt embryos]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02029-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 17 June 2024; <a href="https://www.nature.com/articles/d41586-024-02029-w">doi:10.1038/d41586-024-02029-w</a></p>A steadily growing toolbox is giving researchers the ability to monitor and measure the physical forces that shape embryonic development.]]></content:encoded>
+            <dc:title><![CDATA[Push and pull: how to measure the forces that sculpt embryos]]></dc:title>
+            <dc:creator>Michael Eisenstein</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02029-w</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-17; | doi:10.1038/d41586-024-02029-w</dc:source>
+            <dc:date>2024-06-17</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02029-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02029-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02043-y">
+            <title><![CDATA[How researchers and their managers can build an actionable career-development plan]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02043-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 17 June 2024; <a href="https://www.nature.com/articles/d41586-024-02043-y">doi:10.1038/d41586-024-02043-y</a></p>Tomasz Głowacki was new to industry when his manager helped him to craft an action plan that captured his goals and the skills needed to achieve them.]]></content:encoded>
+            <dc:title><![CDATA[How researchers and their managers can build an actionable career-development plan]]></dc:title>
+            <dc:creator>Tomasz Głowacki</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02043-y</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-17; | doi:10.1038/d41586-024-02043-y</dc:source>
+            <dc:date>2024-06-17</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02043-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02043-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02023-2">
+            <title><![CDATA[The Sustainable Development Goals: can they be made smarter?]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02023-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 17 June 2024; <a href="https://www.nature.com/articles/d41586-024-02023-2">doi:10.1038/d41586-024-02023-2</a></p>Accounting for factors such as artificial intelligence in a more ambitious set of goals has a lot of merit — as long as urgency is not lost on the existing ones.]]></content:encoded>
+            <dc:title><![CDATA[The Sustainable Development Goals: can they be made smarter?]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-02023-2</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-17; | doi:10.1038/d41586-024-02023-2</dc:source>
+            <dc:date>2024-06-17</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02023-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02023-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01754-6">
+            <title><![CDATA[Extending the Sustainable Development Goals to 2050 — a road map]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01754-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 17 June 2024; <a href="https://www.nature.com/articles/d41586-024-01754-6">doi:10.1038/d41586-024-01754-6</a></p>The world should redouble its efforts on the SDGs, not abandon them. Here’s how to progress the United Nations’ agenda towards 2050.]]></content:encoded>
+            <dc:title><![CDATA[Extending the Sustainable Development Goals to 2050 — a road map]]></dc:title>
+            <dc:creator>Francesco Fuso Nerini</dc:creator><dc:creator>Mariana Mazzucato</dc:creator><dc:creator>Johan Rockström</dc:creator><dc:creator>Harro van Asselt</dc:creator><dc:creator>Jim W. Hall</dc:creator><dc:creator>Stelvia Matos</dc:creator><dc:creator>Åsa Persson</dc:creator><dc:creator>Benjamin Sovacool</dc:creator><dc:creator>Ricardo Vinuesa</dc:creator><dc:creator>Jeffrey Sachs</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01754-6</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-17; | doi:10.1038/d41586-024-01754-6</dc:source>
+            <dc:date>2024-06-17</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01754-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01754-6</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01702-4">
             <title><![CDATA[An object in space is emitting microwaves — and baffling scientists]]></title>
@@ -1225,81 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01717-x</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01717-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01748-4">
-            <title><![CDATA[Open access is working — but researchers in lower-income countries enjoy fewer benefits]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01748-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 11 June 2024; <a href="https://www.nature.com/articles/d41586-024-01748-4">doi:10.1038/d41586-024-01748-4</a></p>Deep-seated aspects of local research systems need to be uprooted to ensure that researchers in low-income countries can harness the advantages of open access.]]></content:encoded>
-            <dc:title><![CDATA[Open access is working — but researchers in lower-income countries enjoy fewer benefits]]></dc:title>
-            <dc:creator>Holly Else</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01748-4</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-11; | doi:10.1038/d41586-024-01748-4</dc:source>
-            <dc:date>2024-06-11</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01748-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01748-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01755-5">
-            <title><![CDATA[Daily briefing: ‘I had no choice but to commit misconduct’]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01755-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 11 June 2024; <a href="https://www.nature.com/articles/d41586-024-01755-5">doi:10.1038/d41586-024-01755-5</a></p>Rare first-hand accounts from researchers who engaged in unethical behaviour. Plus, elephants call each other by name and what the science of elections can reveal in this super-election year.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: ‘I had no choice but to commit misconduct’]]></dc:title>
-            <dc:creator>Flora Graham</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01755-5</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-11; | doi:10.1038/d41586-024-01755-5</dc:source>
-            <dc:date>2024-06-11</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01755-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01755-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01715-z">
-            <title><![CDATA[Space weather can affect our daily lives — we need a better warning system]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01715-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 11 June 2024; <a href="https://www.nature.com/articles/d41586-024-01715-z">doi:10.1038/d41586-024-01715-z</a></p>Categorizing geomagnetic storms on a scale of one to five leaves no room for once-a-century superstorms.]]></content:encoded>
-            <dc:title><![CDATA[Space weather can affect our daily lives — we need a better warning system]]></dc:title>
-            <dc:creator>Sean Elvidge</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01715-z</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-11; | doi:10.1038/d41586-024-01715-z</dc:source>
-            <dc:date>2024-06-11</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01715-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01715-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01739-5">
-            <title><![CDATA[How restorative justice could help to heal science communities torn apart by harassment misconduct]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01739-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 11 June 2024; <a href="https://www.nature.com/articles/d41586-024-01739-5">doi:10.1038/d41586-024-01739-5</a></p>Could a programme used by police to tackle repeat offending be used in academia? Some institutions are keen to find out.]]></content:encoded>
-            <dc:title><![CDATA[How restorative justice could help to heal science communities torn apart by harassment misconduct]]></dc:title>
-            <dc:creator>Sarah Wild</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01739-5</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-11; | doi:10.1038/d41586-024-01739-5</dc:source>
-            <dc:date>2024-06-11</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01739-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01739-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01760-8">
-            <title><![CDATA[AI &amp; robotics briefing: The year machines will run out of data]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01760-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 11 June 2024; <a href="https://www.nature.com/articles/d41586-024-01760-8">doi:10.1038/d41586-024-01760-8</a></p>Large language models could exhaust the supply of publicly available, human-crafted writing in the next two to eight years. Plus, AI model finds huge cache of potential antibiotics hidden in genomes and Microsoft’s algorithm predicts global air pollution in less than a minute.]]></content:encoded>
-            <dc:title><![CDATA[AI &amp; robotics briefing: The year machines will run out of data]]></dc:title>
-            <dc:creator>Katrina Krämer</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01760-8</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-11; | doi:10.1038/d41586-024-01760-8</dc:source>
-            <dc:date>2024-06-11</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01760-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01760-8</prism:url>
         </item>
     
 </rdf:RDF>
