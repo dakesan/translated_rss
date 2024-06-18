@@ -18,6 +18,16 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07695-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07653-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07694-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07682-9"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02030-3"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02005-4"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02029-w"/>
@@ -26,7 +36,11 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02023-2"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02011-6"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01754-6"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02050-z"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01702-4"/>
                 
@@ -65,8 +79,6 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07669-6"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01750-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01763-5"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07531-9"/>
                 
@@ -140,6 +152,8 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01714-0"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01763-5"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07633-4"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07675-8"/>
@@ -154,20 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01700-6"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01590-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01746-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01701-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01744-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01728-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01733-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01717-x"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,81 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07695-4">
+            <title><![CDATA[Catalytic Glycosylation for Minimally Protected Donors and Acceptors]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07695-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 17 June 2024; <a href="https://www.nature.com/articles/s41586-024-07695-4">doi:10.1038/s41586-024-07695-4</a></p>Catalytic Glycosylation for Minimally Protected Donors and Acceptors]]></content:encoded>
+            <dc:title><![CDATA[Catalytic Glycosylation for Minimally Protected Donors and Acceptors]]></dc:title>
+            <dc:creator>Qiu-Di Dang</dc:creator><dc:creator>Yi-Hui Deng</dc:creator><dc:creator>Tian-Yu Sun</dc:creator><dc:creator>Yao Zhang</dc:creator><dc:creator>Jun Li</dc:creator><dc:creator>Xia Zhang</dc:creator><dc:creator>Yun-Dong Wu</dc:creator><dc:creator>Dawen Niu</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07695-4</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-17; | doi:10.1038/s41586-024-07695-4</dc:source>
+            <dc:date>2024-06-17</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07695-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07695-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07653-0">
+            <title><![CDATA[Retraction Note: Pluripotency of mesenchymal stem cells derived from adult marrow]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07653-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 17 June 2024; <a href="https://www.nature.com/articles/s41586-024-07653-0">doi:10.1038/s41586-024-07653-0</a></p>Retraction Note: Pluripotency of mesenchymal stem cells derived from adult marrow]]></content:encoded>
+            <dc:title><![CDATA[Retraction Note: Pluripotency of mesenchymal stem cells derived from adult marrow]]></dc:title>
+            <dc:creator>Yuehua Jiang</dc:creator><dc:creator>Balkrishna N. Jahagirdar</dc:creator><dc:creator>R. Lee Reinhardt</dc:creator><dc:creator>Robert E. Schwartz</dc:creator><dc:creator>C. Dirk Keene</dc:creator><dc:creator>Xilma R. Ortiz-Gonzalez</dc:creator><dc:creator>Morayma Reyes</dc:creator><dc:creator>Todd Lenvik</dc:creator><dc:creator>Troy Lund</dc:creator><dc:creator>Mark Blackstad</dc:creator><dc:creator>Jingbo Du</dc:creator><dc:creator>Sara Aldrich</dc:creator><dc:creator>Aaron Lisberg</dc:creator><dc:creator>Walter C. Low</dc:creator><dc:creator>David A. Largaespada</dc:creator><dc:creator>Catherine M. Verfaillie</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07653-0</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-17; | doi:10.1038/s41586-024-07653-0</dc:source>
+            <dc:date>2024-06-17</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07653-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07653-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07694-5">
+            <title><![CDATA[Hydroamination of alkenes with dinitrogen and titanium polyhydrides]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07694-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 17 June 2024; <a href="https://www.nature.com/articles/s41586-024-07694-5">doi:10.1038/s41586-024-07694-5</a></p>Hydroamination of alkenes with dinitrogen and titanium polyhydrides]]></content:encoded>
+            <dc:title><![CDATA[Hydroamination of alkenes with dinitrogen and titanium polyhydrides]]></dc:title>
+            <dc:creator>Takanori Shima</dc:creator><dc:creator>Qingde Zhuo</dc:creator><dc:creator>Xiaoxi Zhou</dc:creator><dc:creator>Ping Wu</dc:creator><dc:creator>Ryota Owada</dc:creator><dc:creator>Gen Luo</dc:creator><dc:creator>Zhaomin Hou</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07694-5</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-17; | doi:10.1038/s41586-024-07694-5</dc:source>
+            <dc:date>2024-06-17</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07694-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07694-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07682-9">
+            <title><![CDATA[Harnessing landrace diversity empowers wheat breeding]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07682-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 17 June 2024; <a href="https://www.nature.com/articles/s41586-024-07682-9">doi:10.1038/s41586-024-07682-9</a></p>Harnessing landrace diversity empowers wheat breeding]]></content:encoded>
+            <dc:title><![CDATA[Harnessing landrace diversity empowers wheat breeding]]></dc:title>
+            <dc:creator>Shifeng Cheng</dc:creator><dc:creator>Cong Feng</dc:creator><dc:creator>Luzie U. Wingen</dc:creator><dc:creator>Hong Cheng</dc:creator><dc:creator>Andrew B. Riche</dc:creator><dc:creator>Mei Jiang</dc:creator><dc:creator>Michelle Leverington-Waite</dc:creator><dc:creator>Zejian Huang</dc:creator><dc:creator>Sarah Collier</dc:creator><dc:creator>Simon Orford</dc:creator><dc:creator>Xiaoming Wang</dc:creator><dc:creator>Rajani Awal</dc:creator><dc:creator>Gary Barker</dc:creator><dc:creator>Tom O’Hara</dc:creator><dc:creator>Clare Lister</dc:creator><dc:creator>Ajay Siluveru</dc:creator><dc:creator>Jesús Quiroz-Chávez</dc:creator><dc:creator>Ricardo H. Ramírez-González</dc:creator><dc:creator>Ruth Bryant</dc:creator><dc:creator>Simon Berry</dc:creator><dc:creator>Urmil Bansal</dc:creator><dc:creator>Harbans S. Bariana</dc:creator><dc:creator>Malcolm J. Bennett</dc:creator><dc:creator>Breno Bicego</dc:creator><dc:creator>Lorelei Bilham</dc:creator><dc:creator>James K. M. Brown</dc:creator><dc:creator>Amanda Burridge</dc:creator><dc:creator>Chris Burt</dc:creator><dc:creator>Milika Buurman</dc:creator><dc:creator>March Castle</dc:creator><dc:creator>Laetitia Chartrain</dc:creator><dc:creator>Baizhi Chen</dc:creator><dc:creator>Worku Denbel</dc:creator><dc:creator>Ahmed F. Elkot</dc:creator><dc:creator>Paul Fenwick</dc:creator><dc:creator>David Feuerhelm</dc:creator><dc:creator>John Foulkes</dc:creator><dc:creator>Oorbessy Gaju</dc:creator><dc:creator>Adam Gauley</dc:creator><dc:creator>Kumar Gaurav</dc:creator><dc:creator>Amber N. Hafeez</dc:creator><dc:creator>Ruirui Han</dc:creator><dc:creator>Richard Horler</dc:creator><dc:creator>Junliang Hou</dc:creator><dc:creator>Muhammad S. Iqbal</dc:creator><dc:creator>Matthew Kerton</dc:creator><dc:creator>Ankica Kondic-Spica</dc:creator><dc:creator>Ania Kowalski</dc:creator><dc:creator>Jacob Lage</dc:creator><dc:creator>Xiaolong Li</dc:creator><dc:creator>Hongbing Liu</dc:creator><dc:creator>Shiyan Liu</dc:creator><dc:creator>Alison Lovegrove</dc:creator><dc:creator>Lingling Ma</dc:creator><dc:creator>Cathy Mumford</dc:creator><dc:creator>Saroj Parmar</dc:creator><dc:creator>Charlie Philp</dc:creator><dc:creator>Darryl Playford</dc:creator><dc:creator>Alexandra M. Przewieslik-Allen</dc:creator><dc:creator>Zareen Sarfraz</dc:creator><dc:creator>David Schafer</dc:creator><dc:creator>Peter R. Shewry</dc:creator><dc:creator>Yan Shi</dc:creator><dc:creator>Gustavo Slafer</dc:creator><dc:creator>Baoxing Song</dc:creator><dc:creator>Bo Song</dc:creator><dc:creator>David Steele</dc:creator><dc:creator>Burkhard Steuernagel</dc:creator><dc:creator>Phillip Tailby</dc:creator><dc:creator>Simon Tyrrell</dc:creator><dc:creator>Abdul Waheed</dc:creator><dc:creator>Mercy N. Wamalwa</dc:creator><dc:creator>Xingwei Wang</dc:creator><dc:creator>Yanping Wei</dc:creator><dc:creator>Mark Winfield</dc:creator><dc:creator>Shishi Wu</dc:creator><dc:creator>Yubing Wu</dc:creator><dc:creator>Brande B. H. Wulff</dc:creator><dc:creator>Wenfei Xian</dc:creator><dc:creator>Yawen Xu</dc:creator><dc:creator>Yunfeng Xu</dc:creator><dc:creator>Quan Yuan</dc:creator><dc:creator>Xin Zhang</dc:creator><dc:creator>Keith J. Edwards</dc:creator><dc:creator>Laura Dixon</dc:creator><dc:creator>Paul Nicholson</dc:creator><dc:creator>Noam Chayut</dc:creator><dc:creator>Malcolm J. Hawkesford</dc:creator><dc:creator>Cristobal Uauy</dc:creator><dc:creator>Dale Sanders</dc:creator><dc:creator>Sanwen Huang</dc:creator><dc:creator>Simon Griffiths</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07682-9</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-17; | doi:10.1038/s41586-024-07682-9</dc:source>
+            <dc:date>2024-06-17</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07682-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07682-9</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02030-3">
+            <title><![CDATA[How I’ve helped to discover nearly 40 species in the Amazon]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02030-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 17 June 2024; <a href="https://www.nature.com/articles/d41586-024-02030-3">doi:10.1038/d41586-024-02030-3</a></p>Rodolfo Salas-Gismondi conducts palaeontology on a riverbank.]]></content:encoded>
+            <dc:title><![CDATA[How I’ve helped to discover nearly 40 species in the Amazon]]></dc:title>
+            <dc:creator>Virginia Gewin</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02030-3</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-17; | doi:10.1038/d41586-024-02030-3</dc:source>
+            <dc:date>2024-06-17</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02030-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02030-3</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-02005-4">
             <title><![CDATA[China could start building world's biggest particle collider in 2027]]></title>
@@ -237,6 +312,21 @@
             <prism:url>https://www.nature.com/articles/d41586-024-02023-2</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02011-6">
+            <title><![CDATA[Tiny beauty: how I make scientific art from behind the microscope]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02011-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 17 June 2024; <a href="https://www.nature.com/articles/d41586-024-02011-6">doi:10.1038/d41586-024-02011-6</a></p>Steve Gschmeissner images tiny creatures and viruses to show the public an unseen world.]]></content:encoded>
+            <dc:title><![CDATA[Tiny beauty: how I make scientific art from behind the microscope]]></dc:title>
+            <dc:creator>Josie Glausiusz</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02011-6</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-17; | doi:10.1038/d41586-024-02011-6</dc:source>
+            <dc:date>2024-06-17</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02011-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02011-6</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-024-01754-6">
             <title><![CDATA[Extending the Sustainable Development Goals to 2050 — a road map]]></title>
             <link>https://www.nature.com/articles/d41586-024-01754-6</link>
@@ -250,6 +340,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01754-6</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01754-6</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02050-z">
+            <title><![CDATA[TRANSCRIPT]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02050-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 17 June 2024; <a href="https://www.nature.com/articles/d41586-024-02050-z">doi:10.1038/d41586-024-02050-z</a></p>TRANSCRIPT]]></content:encoded>
+            <dc:title><![CDATA[TRANSCRIPT]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-02050-z</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-17; | doi:10.1038/d41586-024-02050-z</dc:source>
+            <dc:date>2024-06-17</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02050-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02050-z</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01702-4">
@@ -316,7 +421,7 @@
             <title><![CDATA[Unease as US drug agency weighs its use of independent scientists]]></title>
             <link>https://www.nature.com/articles/d41586-024-02020-5</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 14 June 2024; <a href="https://www.nature.com/articles/d41586-024-02020-5">doi:10.1038/d41586-024-02020-5</a></p>After several controversial drug approvals, the US Food and Drug Administration is mulling changes to its advisory panels, which include researchers and others.]]></content:encoded>
+                <![CDATA[<p>Nature, Published online: 14 June 2024; <a href="https://www.nature.com/articles/d41586-024-02020-5">doi:10.1038/d41586-024-02020-5</a></p>After several controversial drug approvals, the US Food and Drug Administration is mulling over changes to its advisory panels, which include researchers and others.]]></content:encoded>
             <dc:title><![CDATA[Unease as US drug agency weighs its use of independent scientists]]></dc:title>
             <dc:creator>Max Kozlov</dc:creator>
             <dc:identifier>doi:10.1038/d41586-024-02020-5</dc:identifier>
@@ -535,21 +640,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01750-w</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01750-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01763-5">
-            <title><![CDATA[Hybrid working works: huge study reveals no drop in productivity]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01763-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 12 June 2024; <a href="https://www.nature.com/articles/d41586-024-01763-5">doi:10.1038/d41586-024-01763-5</a></p>Working from home two days a week improved staff retention and satisfaction — plus a detailed look at the effects of spaceflight on the human body.]]></content:encoded>
-            <dc:title><![CDATA[Hybrid working works: huge study reveals no drop in productivity]]></dc:title>
-            <dc:creator>Nick Petrić Howe</dc:creator><dc:creator>Elizabeth Gibney</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01763-5</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-12; | doi:10.1038/d41586-024-01763-5</dc:source>
-            <dc:date>2024-06-12</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01763-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01763-5</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07531-9">
@@ -1092,6 +1182,21 @@
             <prism:url>https://www.nature.com/articles/d41586-024-01714-0</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01763-5">
+            <title><![CDATA[Hybrid working works: huge study reveals no drop in productivity]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01763-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 12 June 2024; <a href="https://www.nature.com/articles/d41586-024-01763-5">doi:10.1038/d41586-024-01763-5</a></p>Working from home two days a week improved staff retention and satisfaction — plus a detailed look at the effects of spaceflight on the human body.]]></content:encoded>
+            <dc:title><![CDATA[Hybrid working works: huge study reveals no drop in productivity]]></dc:title>
+            <dc:creator>Nick Petrić Howe</dc:creator><dc:creator>Elizabeth Gibney</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01763-5</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-12; | doi:10.1038/d41586-024-01763-5</dc:source>
+            <dc:date>2024-06-12</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01763-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01763-5</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/s41586-024-07633-4">
             <title><![CDATA[A virtual rodent predicts the structure of neural activity across behaviors]]></title>
             <link>https://www.nature.com/articles/s41586-024-07633-4</link>
@@ -1195,111 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01700-6</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01700-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01590-8">
-            <title><![CDATA[Physics is more than a collection of laws — it is a living craft]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01590-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 11 June 2024; <a href="https://www.nature.com/articles/d41586-024-01590-8">doi:10.1038/d41586-024-01590-8</a></p>The Cavendish Laboratory’s director, Brian Pippard, comments on the landscape of physics research in 1974, plus the benefits of applying thermodynamics to physiology, in the weekly dip in Nature’s archive.]]></content:encoded>
-            <dc:title><![CDATA[Physics is more than a collection of laws — it is a living craft]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-01590-8</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-11; | doi:10.1038/d41586-024-01590-8</dc:source>
-            <dc:date>2024-06-11</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01590-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01590-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01746-6">
-            <title><![CDATA[Equality doesn’t equal sustainability — even high-welfare states must do more]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01746-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 11 June 2024; <a href="https://www.nature.com/articles/d41586-024-01746-6">doi:10.1038/d41586-024-01746-6</a></p>Equality doesn’t equal sustainability — even high-welfare states must do more]]></content:encoded>
-            <dc:title><![CDATA[Equality doesn’t equal sustainability — even high-welfare states must do more]]></dc:title>
-            <dc:creator>David Pérez-Neira</dc:creator><dc:creator>Sherman Farhad</dc:creator><dc:creator>Luis Buendía</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01746-6</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-11; | doi:10.1038/d41586-024-01746-6</dc:source>
-            <dc:date>2024-06-11</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01746-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01746-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01701-5">
-            <title><![CDATA[CRISPR improves a crop that feeds billions]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01701-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 11 June 2024; <a href="https://www.nature.com/articles/d41586-024-01701-5">doi:10.1038/d41586-024-01701-5</a></p>The gene-editing system, normally used to disrupt a gene, is applied to improve the function of a gene in rice.]]></content:encoded>
-            <dc:title><![CDATA[CRISPR improves a crop that feeds billions]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-01701-5</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-11; | doi:10.1038/d41586-024-01701-5</dc:source>
-            <dc:date>2024-06-11</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01701-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01701-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01744-8">
-            <title><![CDATA[Science and religion have profound differences — they should be kept apart]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01744-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 11 June 2024; <a href="https://www.nature.com/articles/d41586-024-01744-8">doi:10.1038/d41586-024-01744-8</a></p>Science and religion have profound differences — they should be kept apart]]></content:encoded>
-            <dc:title><![CDATA[Science and religion have profound differences — they should be kept apart]]></dc:title>
-            <dc:creator>Rodrigo Hirata Willemart</dc:creator><dc:creator>Antonio Carlos Marques</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01744-8</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-11; | doi:10.1038/d41586-024-01744-8</dc:source>
-            <dc:date>2024-06-11</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01744-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01744-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01728-8">
-            <title><![CDATA[Embryo models need consistent ethical oversight]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01728-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 11 June 2024; <a href="https://www.nature.com/articles/d41586-024-01728-8">doi:10.1038/d41586-024-01728-8</a></p>Embryo models need consistent ethical oversight]]></content:encoded>
-            <dc:title><![CDATA[Embryo models need consistent ethical oversight]]></dc:title>
-            <dc:creator>Magdalena Zernicka-Goetz</dc:creator><dc:creator>Insoo Hyun</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01728-8</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-11; | doi:10.1038/d41586-024-01728-8</dc:source>
-            <dc:date>2024-06-11</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01728-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01728-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01733-x">
-            <title><![CDATA[A win for global action: harm from some ozone-eroding gases starts to fall]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01733-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 11 June 2024; <a href="https://www.nature.com/articles/d41586-024-01733-x">doi:10.1038/d41586-024-01733-x</a></p>Emissions reductions achieved under the landmark Montreal Protocol mean that the ozone hole could close sooner than expected.]]></content:encoded>
-            <dc:title><![CDATA[A win for global action: harm from some ozone-eroding gases starts to fall]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-01733-x</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-11; | doi:10.1038/d41586-024-01733-x</dc:source>
-            <dc:date>2024-06-11</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01733-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01733-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01717-x">
-            <title><![CDATA[How personalized cancer vaccines could keep tumours from coming back]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01717-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 11 June 2024; <a href="https://www.nature.com/articles/d41586-024-01717-x">doi:10.1038/d41586-024-01717-x</a></p>The same mRNA technology that quickly brought the world a vaccine for COVID-19 is now showing promise as a bespoke therapy for cancer.]]></content:encoded>
-            <dc:title><![CDATA[How personalized cancer vaccines could keep tumours from coming back]]></dc:title>
-            <dc:creator>Elie Dolgin</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01717-x</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-11; | doi:10.1038/d41586-024-01717-x</dc:source>
-            <dc:date>2024-06-11</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01717-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01717-x</prism:url>
         </item>
     
 </rdf:RDF>
