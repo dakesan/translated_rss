@@ -18,6 +18,16 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02062-9"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02014-3"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02026-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02024-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02044-x"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07654-z"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07659-8"/>
@@ -35,6 +45,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02054-9"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07577-9"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02064-7"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01696-z"/>
                 
@@ -156,18 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07543-5"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01505-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02008-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01762-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01508-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01510-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01713-1"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,81 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02062-9">
+            <title><![CDATA[What’s the state of hiring researchers in science? Share your insights with <i>Nature</i>]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02062-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 19 June 2024; <a href="https://www.nature.com/articles/d41586-024-02062-9">doi:10.1038/d41586-024-02062-9</a></p>Our first global survey of research group leaders and other hiring managers seeks to capture recruitment highs and lows in the current climate.]]></content:encoded>
+            <dc:title><![CDATA[What’s the state of hiring researchers in science? Share your insights with <i>Nature</i>]]></dc:title>
+            <dc:creator>Linda Nordling</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02062-9</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-19; | doi:10.1038/d41586-024-02062-9</dc:source>
+            <dc:date>2024-06-19</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02062-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02062-9</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02014-3">
+            <title><![CDATA[A mighty river’s radical shift changed the face of ancient Egypt]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02014-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 19 June 2024; <a href="https://www.nature.com/articles/d41586-024-02014-3">doi:10.1038/d41586-024-02014-3</a></p>Samples taken near a capital of the pharaohs reveal an overhaul of the Nile 4,000 years ago.]]></content:encoded>
+            <dc:title><![CDATA[A mighty river’s radical shift changed the face of ancient Egypt]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-02014-3</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-19; | doi:10.1038/d41586-024-02014-3</dc:source>
+            <dc:date>2024-06-19</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02014-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02014-3</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02026-z">
+            <title><![CDATA[‘It can feel like there’s no way out’ — political scientists face pushback on their work]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02026-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 19 June 2024; <a href="https://www.nature.com/articles/d41586-024-02026-z">doi:10.1038/d41586-024-02026-z</a></p>In a year in which numerous countries are going to the polls, many election-watching scientists are under pressure.]]></content:encoded>
+            <dc:title><![CDATA[‘It can feel like there’s no way out’ — political scientists face pushback on their work]]></dc:title>
+            <dc:creator>Dyani Lewis</dc:creator><dc:creator>Alison Abbott</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02026-z</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-19; | doi:10.1038/d41586-024-02026-z</dc:source>
+            <dc:date>2024-06-19</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02026-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02026-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02024-1">
+            <title><![CDATA[Put people at the heart of schizophrenia research]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02024-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 19 June 2024; <a href="https://www.nature.com/articles/d41586-024-02024-1">doi:10.1038/d41586-024-02024-1</a></p>Scientists, health-care professionals, carers and individuals affected by the condition must work more closely with one another to improve people’s lives.]]></content:encoded>
+            <dc:title><![CDATA[Put people at the heart of schizophrenia research]]></dc:title>
+            <dc:creator>Constanza Morén</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02024-1</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-19; | doi:10.1038/d41586-024-02024-1</dc:source>
+            <dc:date>2024-06-19</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02024-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02024-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02044-x">
+            <title><![CDATA[What happens when patents on blockbuster weight-loss drugs expire?]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02044-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 19 June 2024; <a href="https://www.nature.com/articles/d41586-024-02044-x">doi:10.1038/d41586-024-02044-x</a></p>India and China are vying for market share as the patents on obesity drugs near their expiry.]]></content:encoded>
+            <dc:title><![CDATA[What happens when patents on blockbuster weight-loss drugs expire?]]></dc:title>
+            <dc:creator>Smriti Mallapaty</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02044-x</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-19; | doi:10.1038/d41586-024-02044-x</dc:source>
+            <dc:date>2024-06-19</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02044-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02044-x</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07654-z">
             <title><![CDATA[Publisher Correction: Sex differences orchestrated by androgens at single-cell resolution]]></title>
@@ -310,6 +385,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/s41586-024-07577-9</prism:doi>
             <prism:url>https://www.nature.com/articles/s41586-024-07577-9</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02064-7">
+            <title><![CDATA[AI &amp; robotics briefing: How AI referees are shaking up football]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02064-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 18 June 2024; <a href="https://www.nature.com/articles/d41586-024-02064-7">doi:10.1038/d41586-024-02064-7</a></p>Video assistant referees will support human referees at this year’s UEFA Euro football tournament. Plus, algorithm reveals that elephants have names for each other and how ‘bot’ became an insult.]]></content:encoded>
+            <dc:title><![CDATA[AI &amp; robotics briefing: How AI referees are shaking up football]]></dc:title>
+            <dc:creator>Katrina Krämer</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02064-7</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-18; | doi:10.1038/d41586-024-02064-7</dc:source>
+            <dc:date>2024-06-18</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02064-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02064-7</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01696-z">
@@ -1210,96 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/s41586-024-07543-5</prism:doi>
             <prism:url>https://www.nature.com/articles/s41586-024-07543-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01505-7">
-            <title><![CDATA[Self-healing glass from a simple peptide — just add water]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01505-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 12 June 2024; <a href="https://www.nature.com/articles/d41586-024-01505-7">doi:10.1038/d41586-024-01505-7</a></p>A simple peptide has been found to make disordered interactions with water, forming a self-healing glass that can also be used as an adhesive coating. The findings point the way to sustainable alternatives to conventional glass.]]></content:encoded>
-            <dc:title><![CDATA[Self-healing glass from a simple peptide — just add water]]></dc:title>
-            <dc:creator>Silvia Marchesan</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01505-7</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-12; | doi:10.1038/d41586-024-01505-7</dc:source>
-            <dc:date>2024-06-12</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01505-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01505-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-02008-1">
-            <title><![CDATA[Daily briefing: The desperate race to use CRISPR to cure a rare neurodegenerative disease]]></title>
-            <link>https://www.nature.com/articles/d41586-024-02008-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 12 June 2024; <a href="https://www.nature.com/articles/d41586-024-02008-1">doi:10.1038/d41586-024-02008-1</a></p>Lessons for the messy state of modern drug development from researchers’ fight to save one young woman. Plus, what spaceflight does to your body and a peptide glass that heals itself.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: The desperate race to use CRISPR to cure a rare neurodegenerative disease]]></dc:title>
-            <dc:creator>Flora Graham</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-02008-1</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-12; | doi:10.1038/d41586-024-02008-1</dc:source>
-            <dc:date>2024-06-12</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-02008-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-02008-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01762-6">
-            <title><![CDATA[The climate crisis is solvable, but human rights must trump profits]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01762-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 12 June 2024; <a href="https://www.nature.com/articles/d41586-024-01762-6">doi:10.1038/d41586-024-01762-6</a></p>Huge planetary problems were fixed in the past, yielding lessons for the current climate crisis — yet this time a solution is justice.]]></content:encoded>
-            <dc:title><![CDATA[The climate crisis is solvable, but human rights must trump profits]]></dc:title>
-            <dc:creator>Friederike  Otto</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01762-6</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-12; | doi:10.1038/d41586-024-01762-6</dc:source>
-            <dc:date>2024-06-12</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01762-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01762-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01508-4">
-            <title><![CDATA[Air sacs reduce energy costs for soaring birds]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01508-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 12 June 2024; <a href="https://www.nature.com/articles/d41586-024-01508-4">doi:10.1038/d41586-024-01508-4</a></p>Certain air sacs have evolved in multiple lineages of soaring birds, and it emerges that these probably function to reduce the force required from the major flight muscles as they hold the wings in place during gliding and soaring.]]></content:encoded>
-            <dc:title><![CDATA[Air sacs reduce energy costs for soaring birds]]></dc:title>
-            <dc:creator>Bret W. Tobalske</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01508-4</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-12; | doi:10.1038/d41586-024-01508-4</dc:source>
-            <dc:date>2024-06-12</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01508-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01508-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01510-w">
-            <title><![CDATA[Ribosomes unexpectedly moonlight as activators of angiogenin enzyme]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01510-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 12 June 2024; <a href="https://www.nature.com/articles/d41586-024-01510-w">doi:10.1038/d41586-024-01510-w</a></p>The enzyme angiogenin functions in stress responses and aids the formation of blood vessels. It emerges that the ribosome takes a break from its usual role of making proteins to activate angiogenin and position it to cleave transfer RNA.]]></content:encoded>
-            <dc:title><![CDATA[Ribosomes unexpectedly moonlight as activators of angiogenin enzyme]]></dc:title>
-            <dc:creator>Pavel Ivanov</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01510-w</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-12; | doi:10.1038/d41586-024-01510-w</dc:source>
-            <dc:date>2024-06-12</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01510-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01510-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01713-1">
-            <title><![CDATA[Hybrid working has benefits over fully in-person working — the evidence mounts]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01713-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 12 June 2024; <a href="https://www.nature.com/articles/d41586-024-01713-1">doi:10.1038/d41586-024-01713-1</a></p>Some employers are backing away from hybrid working, but research suggests that they need not be concerned.]]></content:encoded>
-            <dc:title><![CDATA[Hybrid working has benefits over fully in-person working — the evidence mounts]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-01713-1</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-12; | doi:10.1038/d41586-024-01713-1</dc:source>
-            <dc:date>2024-06-12</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01713-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01713-1</prism:url>
         </item>
     
 </rdf:RDF>
