@@ -18,6 +18,8 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07734-0"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02070-9"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07649-w"/>
@@ -89,6 +91,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01642-z"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02058-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02077-2"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01645-w"/>
                 
@@ -164,10 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01702-4"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02038-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02048-7"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,21 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07734-0">
+            <title><![CDATA[Author Correction: Disease-associated astrocyte epigenetic memory promotes CNS pathology]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07734-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 21 June 2024; <a href="https://www.nature.com/articles/s41586-024-07734-0">doi:10.1038/s41586-024-07734-0</a></p>Author Correction: Disease-associated astrocyte epigenetic memory promotes CNS pathology]]></content:encoded>
+            <dc:title><![CDATA[Author Correction: Disease-associated astrocyte epigenetic memory promotes CNS pathology]]></dc:title>
+            <dc:creator>Hong-Gyun Lee</dc:creator><dc:creator>Joseph M. Rone</dc:creator><dc:creator>Zhaorong Li</dc:creator><dc:creator>Camilo Faust Akl</dc:creator><dc:creator>Seung Won Shin</dc:creator><dc:creator>Joon-Hyuk Lee</dc:creator><dc:creator>Lucas E. Flausino</dc:creator><dc:creator>Florian Pernin</dc:creator><dc:creator>Chun-Cheih Chao</dc:creator><dc:creator>Kilian L. Kleemann</dc:creator><dc:creator>Lena Srun</dc:creator><dc:creator>Tomer Illouz</dc:creator><dc:creator>Federico Giovannoni</dc:creator><dc:creator>Marc Charabati</dc:creator><dc:creator>Liliana M. Sanmarco</dc:creator><dc:creator>Jessica E. Kenison</dc:creator><dc:creator>Gavin Piester</dc:creator><dc:creator>Stephanie E. J. Zandee</dc:creator><dc:creator>Jack P. Antel</dc:creator><dc:creator>Veit Rothhammer</dc:creator><dc:creator>Michael A. Wheeler</dc:creator><dc:creator>Alexandre Prat</dc:creator><dc:creator>Iain C. Clark</dc:creator><dc:creator>Francisco J. Quintana</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07734-0</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-21; | doi:10.1038/s41586-024-07734-0</dc:source>
+            <dc:date>2024-06-21</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07734-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07734-0</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-02070-9">
             <title><![CDATA[Gut microbiome discovery provides roadmap for life-saving cancer therapies]]></title>
@@ -715,6 +730,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-02058-5</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-02058-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02077-2">
+            <title><![CDATA[Daily briefing: Cheaper versions of drugs like Wegovy are on their way]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02077-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 19 June 2024; <a href="https://www.nature.com/articles/d41586-024-02077-2">doi:10.1038/d41586-024-02077-2</a></p>The patents on blockbuster weight-loss drugs are running out and companies are poised to make lower-cost versions. Plus, astronomers see a black hole wake up for the first time and how long is too long for a freight train.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Cheaper versions of drugs like Wegovy are on their way]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02077-2</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-19; | doi:10.1038/d41586-024-02077-2</dc:source>
+            <dc:date>2024-06-19</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02077-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02077-2</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-01645-w">
@@ -1270,36 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01702-4</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01702-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-02038-9">
-            <title><![CDATA[My pivot from grain scientist to slave-trade historian]]></title>
-            <link>https://www.nature.com/articles/d41586-024-02038-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 14 June 2024; <a href="https://www.nature.com/articles/d41586-024-02038-9">doi:10.1038/d41586-024-02038-9</a></p>Geoff Palmer, Scotland’s first Black professor, now applies scientific rigour to researching slavery.]]></content:encoded>
-            <dc:title><![CDATA[My pivot from grain scientist to slave-trade historian]]></dc:title>
-            <dc:creator>Christine Ro</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-02038-9</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-14; | doi:10.1038/d41586-024-02038-9</dc:source>
-            <dc:date>2024-06-14</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-02038-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-02038-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-02048-7">
-            <title><![CDATA[Daily briefing: Huge study reveals no drop in productivity from hybrid working]]></title>
-            <link>https://www.nature.com/articles/d41586-024-02048-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 14 June 2024; <a href="https://www.nature.com/articles/d41586-024-02048-7">doi:10.1038/d41586-024-02048-7</a></p>Some working from home helps keep workers happy, too. Plus, hints that rogue antibodies cause long COVID and AI-assisted VAR is coming to the Euros.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: Huge study reveals no drop in productivity from hybrid working]]></dc:title>
-            <dc:creator>Flora Graham</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-02048-7</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-14; | doi:10.1038/d41586-024-02048-7</dc:source>
-            <dc:date>2024-06-14</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-02048-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-02048-7</prism:url>
         </item>
     
 </rdf:RDF>
