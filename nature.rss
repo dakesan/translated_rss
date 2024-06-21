@@ -18,6 +18,8 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02070-9"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07649-w"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01703-3"/>
@@ -166,8 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02048-7"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01758-2"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,21 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02070-9">
+            <title><![CDATA[Gut microbiome discovery provides roadmap for life-saving cancer therapies]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02070-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 20 June 2024; <a href="https://www.nature.com/articles/d41586-024-02070-9">doi:10.1038/d41586-024-02070-9</a></p>The balance between bacterial communities in the gut affects the likelihood of a positive response to drugs called checkpoint inhibitors.]]></content:encoded>
+            <dc:title><![CDATA[Gut microbiome discovery provides roadmap for life-saving cancer therapies]]></dc:title>
+            <dc:creator>Giorgia Guglielmi</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02070-9</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-20; | doi:10.1038/d41586-024-02070-9</dc:source>
+            <dc:date>2024-06-20</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02070-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02070-9</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07649-w">
             <title><![CDATA[Author Correction: Extensive halogen-mediated ozone destruction over the tropical Atlantic Ocean]]></title>
@@ -1285,21 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-02048-7</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-02048-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01758-2">
-            <title><![CDATA[Wildfires are raging in Nepal — climate change isn’t the only culprit]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01758-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 14 June 2024; <a href="https://www.nature.com/articles/d41586-024-01758-2">doi:10.1038/d41586-024-01758-2</a></p>Fire predictions pushed to locals’ smartphones could save forests, and lives, say researchers.]]></content:encoded>
-            <dc:title><![CDATA[Wildfires are raging in Nepal — climate change isn’t the only culprit]]></dc:title>
-            <dc:creator>Saugat Bolakhe</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01758-2</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-14; | doi:10.1038/d41586-024-01758-2</dc:source>
-            <dc:date>2024-06-14</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01758-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01758-2</prism:url>
         </item>
     
 </rdf:RDF>
