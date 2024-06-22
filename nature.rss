@@ -20,6 +20,14 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07734-0"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02018-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02072-7"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02074-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02093-2"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02070-9"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07649-w"/>
@@ -160,14 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02055-8"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02023-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02011-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01754-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01702-4"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -190,6 +190,66 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/s41586-024-07734-0</prism:doi>
             <prism:url>https://www.nature.com/articles/s41586-024-07734-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02018-z">
+            <title><![CDATA[Self-targeting antibodies tied to lower malaria risk in kids]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02018-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 21 June 2024; <a href="https://www.nature.com/articles/d41586-024-02018-z">doi:10.1038/d41586-024-02018-z</a></p>Findings support one idea about why self-directed immune responses are more common in some populations.]]></content:encoded>
+            <dc:title><![CDATA[Self-targeting antibodies tied to lower malaria risk in kids]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-02018-z</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-21; | doi:10.1038/d41586-024-02018-z</dc:source>
+            <dc:date>2024-06-21</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02018-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02018-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02072-7">
+            <title><![CDATA[Gigantic oddball aurora seen from Earth for the first time]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02072-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 21 June 2024; <a href="https://www.nature.com/articles/d41586-024-02072-7">doi:10.1038/d41586-024-02072-7</a></p>A camera captured the vast, diffuse glow produced after the solar wind dropped to a whisper.]]></content:encoded>
+            <dc:title><![CDATA[Gigantic oddball aurora seen from Earth for the first time]]></dc:title>
+            <dc:creator>Alexandra Witze</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02072-7</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-21; | doi:10.1038/d41586-024-02072-7</dc:source>
+            <dc:date>2024-06-21</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02072-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02072-7</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02074-5">
+            <title><![CDATA[‘Fantastic’ particle could be most energetic neutrino ever detected]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02074-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 21 June 2024; <a href="https://www.nature.com/articles/d41586-024-02074-5">doi:10.1038/d41586-024-02074-5</a></p>The ultra-high-energy neutrino was spotted by deep-sea detectors and could point to a massive cosmic event.]]></content:encoded>
+            <dc:title><![CDATA[‘Fantastic’ particle could be most energetic neutrino ever detected]]></dc:title>
+            <dc:creator>Davide Castelvecchi</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02074-5</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-21; | doi:10.1038/d41586-024-02074-5</dc:source>
+            <dc:date>2024-06-21</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02074-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02074-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02093-2">
+            <title><![CDATA[The last few miles: how to prepare for the late-career stage in science]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02093-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 21 June 2024; <a href="https://www.nature.com/articles/d41586-024-02093-2">doi:10.1038/d41586-024-02093-2</a></p>It can be daunting to see the final chapter of your career approaching. Planning ahead can help.]]></content:encoded>
+            <dc:title><![CDATA[The last few miles: how to prepare for the late-career stage in science]]></dc:title>
+            <dc:creator>Julie Gould</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02093-2</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-21; | doi:10.1038/d41586-024-02093-2</dc:source>
+            <dc:date>2024-06-21</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02093-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02093-2</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-02070-9">
@@ -1240,66 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-02055-8</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-02055-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-02023-2">
-            <title><![CDATA[The Sustainable Development Goals: can they be made smarter?]]></title>
-            <link>https://www.nature.com/articles/d41586-024-02023-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 17 June 2024; <a href="https://www.nature.com/articles/d41586-024-02023-2">doi:10.1038/d41586-024-02023-2</a></p>Accounting for factors such as artificial intelligence in a more ambitious set of goals has a lot of merit — as long as urgency is not lost on the existing ones.]]></content:encoded>
-            <dc:title><![CDATA[The Sustainable Development Goals: can they be made smarter?]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-02023-2</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-17; | doi:10.1038/d41586-024-02023-2</dc:source>
-            <dc:date>2024-06-17</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-02023-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-02023-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-02011-6">
-            <title><![CDATA[Tiny beauty: how I make scientific art from behind the microscope]]></title>
-            <link>https://www.nature.com/articles/d41586-024-02011-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 17 June 2024; <a href="https://www.nature.com/articles/d41586-024-02011-6">doi:10.1038/d41586-024-02011-6</a></p>Steve Gschmeissner images tiny creatures and viruses to show the public an unseen world.]]></content:encoded>
-            <dc:title><![CDATA[Tiny beauty: how I make scientific art from behind the microscope]]></dc:title>
-            <dc:creator>Josie Glausiusz</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-02011-6</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-17; | doi:10.1038/d41586-024-02011-6</dc:source>
-            <dc:date>2024-06-17</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-02011-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-02011-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01754-6">
-            <title><![CDATA[Extending the Sustainable Development Goals to 2050 — a road map]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01754-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 17 June 2024; <a href="https://www.nature.com/articles/d41586-024-01754-6">doi:10.1038/d41586-024-01754-6</a></p>The world should redouble its efforts on the SDGs, not abandon them. Here’s how to progress the United Nations’ agenda towards 2050.]]></content:encoded>
-            <dc:title><![CDATA[Extending the Sustainable Development Goals to 2050 — a road map]]></dc:title>
-            <dc:creator>Francesco Fuso Nerini</dc:creator><dc:creator>Mariana Mazzucato</dc:creator><dc:creator>Johan Rockström</dc:creator><dc:creator>Harro van Asselt</dc:creator><dc:creator>Jim W. Hall</dc:creator><dc:creator>Stelvia Matos</dc:creator><dc:creator>Åsa Persson</dc:creator><dc:creator>Benjamin Sovacool</dc:creator><dc:creator>Ricardo Vinuesa</dc:creator><dc:creator>Jeffrey Sachs</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01754-6</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-17; | doi:10.1038/d41586-024-01754-6</dc:source>
-            <dc:date>2024-06-17</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01754-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01754-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01702-4">
-            <title><![CDATA[An object in space is emitting microwaves — and baffling scientists]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01702-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 14 June 2024; <a href="https://www.nature.com/articles/d41586-024-01702-4">doi:10.1038/d41586-024-01702-4</a></p>Data recorded at an observatory in Chile do not fit with a black hole, a supernova, a pair of merging stars or anything else.]]></content:encoded>
-            <dc:title><![CDATA[An object in space is emitting microwaves — and baffling scientists]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-01702-4</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-14; | doi:10.1038/d41586-024-01702-4</dc:source>
-            <dc:date>2024-06-14</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01702-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01702-4</prism:url>
         </item>
     
 </rdf:RDF>
