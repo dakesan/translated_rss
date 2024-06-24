@@ -18,6 +18,8 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07732-2"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07734-0"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02018-z"/>
@@ -166,8 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02043-y"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02055-8"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,21 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07732-2">
+            <title><![CDATA[Author Correction: The economic commitment of climate change]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07732-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 24 June 2024; <a href="https://www.nature.com/articles/s41586-024-07732-2">doi:10.1038/s41586-024-07732-2</a></p>Author Correction: The economic commitment of climate change]]></content:encoded>
+            <dc:title><![CDATA[Author Correction: The economic commitment of climate change]]></dc:title>
+            <dc:creator>Maximilian Kotz</dc:creator><dc:creator>Anders Levermann</dc:creator><dc:creator>Leonie Wenz</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07732-2</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-24; | doi:10.1038/s41586-024-07732-2</dc:source>
+            <dc:date>2024-06-24</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07732-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07732-2</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07734-0">
             <title><![CDATA[Author Correction: Disease-associated astrocyte epigenetic memory promotes CNS pathology]]></title>
@@ -1285,21 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-02043-y</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-02043-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-02055-8">
-            <title><![CDATA[Daily briefing: Millions of mosquitos deployed to save Hawaii’s birds]]></title>
-            <link>https://www.nature.com/articles/d41586-024-02055-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 17 June 2024; <a href="https://www.nature.com/articles/d41586-024-02055-8">doi:10.1038/d41586-024-02055-8</a></p>Ambitious project aims to slow the spread of avian malaria that is wiping out native birds. Plus, how the ‘mind’s eye’ might call up visual memories from the brain and tips to better manage your lab money.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: Millions of mosquitos deployed to save Hawaii’s birds]]></dc:title>
-            <dc:creator>Flora Graham</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-02055-8</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-17; | doi:10.1038/d41586-024-02055-8</dc:source>
-            <dc:date>2024-06-17</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-02055-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-02055-8</prism:url>
         </item>
     
 </rdf:RDF>
