@@ -18,6 +18,14 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07736-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02090-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02089-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02091-4"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07732-2"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07704-6"/>
@@ -160,14 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01627-y"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01559-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07695-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07653-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07694-5"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,66 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07736-y">
+            <title><![CDATA[Publisher Correction: Fabrication of red-emitting perovskite LEDs by stabilizing their octahedral structure]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07736-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 25 June 2024; <a href="https://www.nature.com/articles/s41586-024-07736-y">doi:10.1038/s41586-024-07736-y</a></p>Publisher Correction: Fabrication of red-emitting perovskite LEDs by stabilizing their octahedral structure]]></content:encoded>
+            <dc:title><![CDATA[Publisher Correction: Fabrication of red-emitting perovskite LEDs by stabilizing their octahedral structure]]></dc:title>
+            <dc:creator>Lingmei Kong</dc:creator><dc:creator>Yuqi Sun</dc:creator><dc:creator>Bin Zhao</dc:creator><dc:creator>Kangyu Ji</dc:creator><dc:creator>Jie Feng</dc:creator><dc:creator>Jianchao Dong</dc:creator><dc:creator>Yuanzhi Wang</dc:creator><dc:creator>Zirui Liu</dc:creator><dc:creator>Shabnum Maqbool</dc:creator><dc:creator>Yunguo Li</dc:creator><dc:creator>Yingguo Yang</dc:creator><dc:creator>Linjie Dai</dc:creator><dc:creator>Wanhee Lee</dc:creator><dc:creator>Changsoon Cho</dc:creator><dc:creator>Samuel D. Stranks</dc:creator><dc:creator>Richard H. Friend</dc:creator><dc:creator>Ning Wang</dc:creator><dc:creator>Neil C. Greenham</dc:creator><dc:creator>Xuyong Yang</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07736-y</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-25; | doi:10.1038/s41586-024-07736-y</dc:source>
+            <dc:date>2024-06-25</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07736-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07736-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02090-5">
+            <title><![CDATA[How societies respond to environmental stressors needs detailed studies]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02090-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 25 June 2024; <a href="https://www.nature.com/articles/d41586-024-02090-5">doi:10.1038/d41586-024-02090-5</a></p>How societies respond to environmental stressors needs detailed studies]]></content:encoded>
+            <dc:title><![CDATA[How societies respond to environmental stressors needs detailed studies]]></dc:title>
+            <dc:creator>Yitzchak Jaffe</dc:creator><dc:creator>Ari Caramanica</dc:creator><dc:creator>Max Price</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02090-5</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-25; | doi:10.1038/d41586-024-02090-5</dc:source>
+            <dc:date>2024-06-25</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02090-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02090-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02089-y">
+            <title><![CDATA[Establish a global day to tackle postpartum haemorrhage]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02089-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 25 June 2024; <a href="https://www.nature.com/articles/d41586-024-02089-y">doi:10.1038/d41586-024-02089-y</a></p>Establish a global day to tackle postpartum haemorrhage]]></content:encoded>
+            <dc:title><![CDATA[Establish a global day to tackle postpartum haemorrhage]]></dc:title>
+            <dc:creator>Abdulhammed Opeyemi Babatunde</dc:creator><dc:creator>Abdullahi Tunde Aborode</dc:creator><dc:creator>Oladapo O. Olayemi</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02089-y</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-25; | doi:10.1038/d41586-024-02089-y</dc:source>
+            <dc:date>2024-06-25</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02089-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02089-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02091-4">
+            <title><![CDATA[AI machine translation tools must be taught cultural differences too]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02091-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 25 June 2024; <a href="https://www.nature.com/articles/d41586-024-02091-4">doi:10.1038/d41586-024-02091-4</a></p>AI machine translation tools must be taught cultural differences too]]></content:encoded>
+            <dc:title><![CDATA[AI machine translation tools must be taught cultural differences too]]></dc:title>
+            <dc:creator>Helene Tenzer</dc:creator><dc:creator>Stefan Feuerriegel</dc:creator><dc:creator>Rebecca Piekkari</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02091-4</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-25; | doi:10.1038/d41586-024-02091-4</dc:source>
+            <dc:date>2024-06-25</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02091-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02091-4</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07732-2">
             <title><![CDATA[Author Correction: The economic commitment of climate change]]></title>
@@ -1240,66 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-01627-y</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-01627-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01559-7">
-            <title><![CDATA[Built-up sleep pressure drives the loss of neuronal connections during slumber]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01559-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 18 June 2024; <a href="https://www.nature.com/articles/d41586-024-01559-7">doi:10.1038/d41586-024-01559-7</a></p>Imaging of all synaptic connections of individual neurons in larval zebrafish across several days and nights indicates that sleep is necessary, but not sufficient, for the sleep-associated loss of synapses. Both the need to sleep accumulated during wake — known as sleep pressure — and the sleep state itself are required for synapse removal.]]></content:encoded>
-            <dc:title><![CDATA[Built-up sleep pressure drives the loss of neuronal connections during slumber]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-01559-7</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-18; | doi:10.1038/d41586-024-01559-7</dc:source>
-            <dc:date>2024-06-18</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01559-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01559-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07695-4">
-            <title><![CDATA[Catalytic Glycosylation for Minimally Protected Donors and Acceptors]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07695-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 17 June 2024; <a href="https://www.nature.com/articles/s41586-024-07695-4">doi:10.1038/s41586-024-07695-4</a></p>Catalytic Glycosylation for Minimally Protected Donors and Acceptors]]></content:encoded>
-            <dc:title><![CDATA[Catalytic Glycosylation for Minimally Protected Donors and Acceptors]]></dc:title>
-            <dc:creator>Qiu-Di Dang</dc:creator><dc:creator>Yi-Hui Deng</dc:creator><dc:creator>Tian-Yu Sun</dc:creator><dc:creator>Yao Zhang</dc:creator><dc:creator>Jun Li</dc:creator><dc:creator>Xia Zhang</dc:creator><dc:creator>Yun-Dong Wu</dc:creator><dc:creator>Dawen Niu</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07695-4</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-17; | doi:10.1038/s41586-024-07695-4</dc:source>
-            <dc:date>2024-06-17</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07695-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07695-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07653-0">
-            <title><![CDATA[Retraction Note: Pluripotency of mesenchymal stem cells derived from adult marrow]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07653-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 17 June 2024; <a href="https://www.nature.com/articles/s41586-024-07653-0">doi:10.1038/s41586-024-07653-0</a></p>Retraction Note: Pluripotency of mesenchymal stem cells derived from adult marrow]]></content:encoded>
-            <dc:title><![CDATA[Retraction Note: Pluripotency of mesenchymal stem cells derived from adult marrow]]></dc:title>
-            <dc:creator>Yuehua Jiang</dc:creator><dc:creator>Balkrishna N. Jahagirdar</dc:creator><dc:creator>R. Lee Reinhardt</dc:creator><dc:creator>Robert E. Schwartz</dc:creator><dc:creator>C. Dirk Keene</dc:creator><dc:creator>Xilma R. Ortiz-Gonzalez</dc:creator><dc:creator>Morayma Reyes</dc:creator><dc:creator>Todd Lenvik</dc:creator><dc:creator>Troy Lund</dc:creator><dc:creator>Mark Blackstad</dc:creator><dc:creator>Jingbo Du</dc:creator><dc:creator>Sara Aldrich</dc:creator><dc:creator>Aaron Lisberg</dc:creator><dc:creator>Walter C. Low</dc:creator><dc:creator>David A. Largaespada</dc:creator><dc:creator>Catherine M. Verfaillie</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07653-0</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-17; | doi:10.1038/s41586-024-07653-0</dc:source>
-            <dc:date>2024-06-17</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07653-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07653-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07694-5">
-            <title><![CDATA[Hydroamination of alkenes with dinitrogen and titanium polyhydrides]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07694-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 17 June 2024; <a href="https://www.nature.com/articles/s41586-024-07694-5">doi:10.1038/s41586-024-07694-5</a></p>Hydroamination of alkenes with dinitrogen and titanium polyhydrides]]></content:encoded>
-            <dc:title><![CDATA[Hydroamination of alkenes with dinitrogen and titanium polyhydrides]]></dc:title>
-            <dc:creator>Takanori Shima</dc:creator><dc:creator>Qingde Zhuo</dc:creator><dc:creator>Xiaoxi Zhou</dc:creator><dc:creator>Ping Wu</dc:creator><dc:creator>Ryota Owada</dc:creator><dc:creator>Gen Luo</dc:creator><dc:creator>Zhaomin Hou</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07694-5</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-17; | doi:10.1038/s41586-024-07694-5</dc:source>
-            <dc:date>2024-06-17</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07694-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07694-5</prism:url>
         </item>
     
 </rdf:RDF>
