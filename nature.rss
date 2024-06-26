@@ -18,6 +18,16 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02084-3"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02087-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02045-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02083-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02086-1"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07736-y"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02097-y"/>
@@ -158,16 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02051-y"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02028-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02054-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07577-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02064-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01696-z"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,81 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02084-3">
+            <title><![CDATA[Freudian scripts and sensory slips: Books in brief]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02084-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 26 June 2024; <a href="https://www.nature.com/articles/d41586-024-02084-3">doi:10.1038/d41586-024-02084-3</a></p>Andrew Robinson reviews five of the best science picks.]]></content:encoded>
+            <dc:title><![CDATA[Freudian scripts and sensory slips: Books in brief]]></dc:title>
+            <dc:creator>Andrew Robinson</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02084-3</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-26; | doi:10.1038/d41586-024-02084-3</dc:source>
+            <dc:date>2024-06-26</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02084-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02084-3</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02087-0">
+            <title><![CDATA[Digging deep for India’s water solution]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02087-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 26 June 2024; <a href="https://www.nature.com/articles/d41586-024-02087-0">doi:10.1038/d41586-024-02087-0</a></p>Vishwanath Srikantaiah works to restore India’s historic wells to provide better protection for water resources.]]></content:encoded>
+            <dc:title><![CDATA[Digging deep for India’s water solution]]></dc:title>
+            <dc:creator>Alexia Austin</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02087-0</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-26; | doi:10.1038/d41586-024-02087-0</dc:source>
+            <dc:date>2024-06-26</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02087-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02087-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02045-w">
+            <title><![CDATA[Does Ozempic boost fertility? What the science says]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02045-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 26 June 2024; <a href="https://www.nature.com/articles/d41586-024-02045-w">doi:10.1038/d41586-024-02045-w</a></p>Blockbuster weight-loss drugs have been linked to unexplained pregnancies. Research shows it is plausible, but more data is needed.]]></content:encoded>
+            <dc:title><![CDATA[Does Ozempic boost fertility? What the science says]]></dc:title>
+            <dc:creator>Gillian Dohrn</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02045-w</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-26; | doi:10.1038/d41586-024-02045-w</dc:source>
+            <dc:date>2024-06-26</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02045-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02045-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02083-4">
+            <title><![CDATA[How the grid came to shape the US landscape]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02083-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 26 June 2024; <a href="https://www.nature.com/articles/d41586-024-02083-4">doi:10.1038/d41586-024-02083-4</a></p>Science and reason underpinned early surveys, but sociopolitical ideals left their mark on the nation too, a historical account concludes.]]></content:encoded>
+            <dc:title><![CDATA[How the grid came to shape the US landscape]]></dc:title>
+            <dc:creator>K. John Holmes</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02083-4</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-26; | doi:10.1038/d41586-024-02083-4</dc:source>
+            <dc:date>2024-06-26</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02083-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02083-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02086-1">
+            <title><![CDATA[How the Lindau conference helps early-career researchers tap into a global network of Nobel laureates]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02086-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 26 June 2024; <a href="https://www.nature.com/articles/d41586-024-02086-1">doi:10.1038/d41586-024-02086-1</a></p>Past attendees of the Lindau meeting advise on how to make the most of the event and reap lasting career rewards.]]></content:encoded>
+            <dc:title><![CDATA[How the Lindau conference helps early-career researchers tap into a global network of Nobel laureates]]></dc:title>
+            <dc:creator>Lesley Evans Ogden</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02086-1</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-26; | doi:10.1038/d41586-024-02086-1</dc:source>
+            <dc:date>2024-06-26</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02086-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02086-1</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07736-y">
             <title><![CDATA[Publisher Correction: Fabrication of red-emitting perovskite LEDs by stabilizing their octahedral structure]]></title>
@@ -1225,81 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-02051-y</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-02051-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-02028-x">
-            <title><![CDATA[James Clerk Maxwell’s ode to bubble blowing]]></title>
-            <link>https://www.nature.com/articles/d41586-024-02028-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 18 June 2024; <a href="https://www.nature.com/articles/d41586-024-02028-x">doi:10.1038/d41586-024-02028-x</a></p>Curious volcanic activity confounds tourists near Naples, and Maxwell reviews a textbook on bubbles, in the weekly dip into Nature’s archive.]]></content:encoded>
-            <dc:title><![CDATA[James Clerk Maxwell’s ode to bubble blowing]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-02028-x</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-18; | doi:10.1038/d41586-024-02028-x</dc:source>
-            <dc:date>2024-06-18</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-02028-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-02028-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-02054-9">
-            <title><![CDATA[The global refugee crisis is above all a human tragedy — but it affects wildlife, too]]></title>
-            <link>https://www.nature.com/articles/d41586-024-02054-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 18 June 2024; <a href="https://www.nature.com/articles/d41586-024-02054-9">doi:10.1038/d41586-024-02054-9</a></p>The global refugee crisis is above all a human tragedy — but it affects wildlife, too]]></content:encoded>
-            <dc:title><![CDATA[The global refugee crisis is above all a human tragedy — but it affects wildlife, too]]></dc:title>
-            <dc:creator>Andrew D. Walde</dc:creator><dc:creator>Gift S. Demaya</dc:creator><dc:creator>Mathias Behangana</dc:creator><dc:creator>Luca Luiselli</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-02054-9</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-18; | doi:10.1038/d41586-024-02054-9</dc:source>
-            <dc:date>2024-06-18</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-02054-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-02054-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07577-9">
-            <title><![CDATA[Author Correction: TDP-43 loss and ALS-risk SNPs drive mis-splicing and depletion of UNC13A]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07577-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 18 June 2024; <a href="https://www.nature.com/articles/s41586-024-07577-9">doi:10.1038/s41586-024-07577-9</a></p>Author Correction: TDP-43 loss and ALS-risk SNPs drive mis-splicing and depletion of UNC13A]]></content:encoded>
-            <dc:title><![CDATA[Author Correction: TDP-43 loss and ALS-risk SNPs drive mis-splicing and depletion of UNC13A]]></dc:title>
-            <dc:creator>Anna-Leigh Brown</dc:creator><dc:creator>Oscar G. Wilkins</dc:creator><dc:creator>Matthew J. Keuss</dc:creator><dc:creator>Sarah E. Hill</dc:creator><dc:creator>Matteo Zanovello</dc:creator><dc:creator>Weaverly Colleen Lee</dc:creator><dc:creator>Alexander Bampton</dc:creator><dc:creator>Flora C. Y. Lee</dc:creator><dc:creator>Laura Masino</dc:creator><dc:creator>Yue A. Qi</dc:creator><dc:creator>Sam Bryce-Smith</dc:creator><dc:creator>Ariana Gatt</dc:creator><dc:creator>Martina Hallegger</dc:creator><dc:creator>Delphine Fagegaltier</dc:creator><dc:creator>Hemali Phatnani</dc:creator><dc:creator>Hemali Phatnani</dc:creator><dc:creator>Justin Kwan</dc:creator><dc:creator>Dhruv Sareen</dc:creator><dc:creator>James R. Broach</dc:creator><dc:creator>Zachary Simmons</dc:creator><dc:creator>Ximena Arcila-Londono</dc:creator><dc:creator>Edward B. Lee</dc:creator><dc:creator>Vivianna M. Van Deerlin</dc:creator><dc:creator>Neil A. Shneider</dc:creator><dc:creator>Ernest Fraenkel</dc:creator><dc:creator>Lyle W. Ostrow</dc:creator><dc:creator>Frank Baas</dc:creator><dc:creator>Noah Zaitlen</dc:creator><dc:creator>James D. Berry</dc:creator><dc:creator>Andrea Malaspina</dc:creator><dc:creator>Pietro Fratta</dc:creator><dc:creator>Gregory A. Cox</dc:creator><dc:creator>Leslie M. Thompson</dc:creator><dc:creator>Steve Finkbeiner</dc:creator><dc:creator>Efthimios Dardiotis</dc:creator><dc:creator>Timothy M. Miller</dc:creator><dc:creator>Siddharthan Chandran</dc:creator><dc:creator>Suvankar Pal</dc:creator><dc:creator>Eran Hornstein</dc:creator><dc:creator>Daniel J. MacGowan</dc:creator><dc:creator>Terry Heiman-Patterson</dc:creator><dc:creator>Molly G. Hammell</dc:creator><dc:creator>Nikolaos. A. Patsopoulos</dc:creator><dc:creator>Oleg Butovsky</dc:creator><dc:creator>Joshua Dubnau</dc:creator><dc:creator>Avindra Nath</dc:creator><dc:creator>Robert Bowser</dc:creator><dc:creator>Matthew Harms</dc:creator><dc:creator>Eleonora Aronica</dc:creator><dc:creator>Mary Poss</dc:creator><dc:creator>Jennifer Phillips-Cremins</dc:creator><dc:creator>John Crary</dc:creator><dc:creator>Nazem Atassi</dc:creator><dc:creator>Dale J. Lange</dc:creator><dc:creator>Darius J. Adams</dc:creator><dc:creator>Leonidas Stefanis</dc:creator><dc:creator>Marc Gotkine</dc:creator><dc:creator>Robert H. Baloh</dc:creator><dc:creator>Suma Babu</dc:creator><dc:creator>Towfique Raj</dc:creator><dc:creator>Sabrina Paganoni</dc:creator><dc:creator>Ophir Shalem</dc:creator><dc:creator>Colin Smith</dc:creator><dc:creator>Bin Zhang</dc:creator><dc:creator>Brent Harris</dc:creator><dc:creator>Iris Broce</dc:creator><dc:creator>Vivian Drory</dc:creator><dc:creator>John Ravits</dc:creator><dc:creator>Corey McMillan</dc:creator><dc:creator>Vilas Menon</dc:creator><dc:creator>Lani Wu</dc:creator><dc:creator>Steven Altschuler</dc:creator><dc:creator>Yossef Lerner</dc:creator><dc:creator>Rita Sattler</dc:creator><dc:creator>Kendall Van Keuren-Jensen</dc:creator><dc:creator>Orit Rozenblatt-Rosen</dc:creator><dc:creator>Kerstin Lindblad-Toh</dc:creator><dc:creator>Katharine Nicholson</dc:creator><dc:creator>Peter Gregersen</dc:creator><dc:creator>Jeong-Ho Lee</dc:creator><dc:creator>Sulev Koks</dc:creator><dc:creator>Stephen Muljo</dc:creator><dc:creator>Jia Newcombe</dc:creator><dc:creator>Emil K. Gustavsson</dc:creator><dc:creator>Sahba Seddighi</dc:creator><dc:creator>Joel F. Reyes</dc:creator><dc:creator>Steven L. Coon</dc:creator><dc:creator>Daniel Ramos</dc:creator><dc:creator>Giampietro Schiavo</dc:creator><dc:creator>Elizabeth M. C. Fisher</dc:creator><dc:creator>Towfique Raj</dc:creator><dc:creator>Maria Secrier</dc:creator><dc:creator>Tammaryn Lashley</dc:creator><dc:creator>Jernej Ule</dc:creator><dc:creator>Emanuele Buratti</dc:creator><dc:creator>Jack Humphrey</dc:creator><dc:creator>Michael E. Ward</dc:creator><dc:creator>Pietro Fratta</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07577-9</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-18; | doi:10.1038/s41586-024-07577-9</dc:source>
-            <dc:date>2024-06-18</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07577-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07577-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-02064-7">
-            <title><![CDATA[AI &amp; robotics briefing: How AI referees are shaking up football]]></title>
-            <link>https://www.nature.com/articles/d41586-024-02064-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 18 June 2024; <a href="https://www.nature.com/articles/d41586-024-02064-7">doi:10.1038/d41586-024-02064-7</a></p>Video assistant referees will support human referees at this year’s UEFA Euro football tournament. Plus, algorithm reveals that elephants have names for each other and how ‘bot’ became an insult.]]></content:encoded>
-            <dc:title><![CDATA[AI &amp; robotics briefing: How AI referees are shaking up football]]></dc:title>
-            <dc:creator>Katrina Krämer</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-02064-7</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-18; | doi:10.1038/d41586-024-02064-7</dc:source>
-            <dc:date>2024-06-18</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-02064-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-02064-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-01696-z">
-            <title><![CDATA[Misinformation might sway elections — but not in the way that you think]]></title>
-            <link>https://www.nature.com/articles/d41586-024-01696-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 18 June 2024; <a href="https://www.nature.com/articles/d41586-024-01696-z">doi:10.1038/d41586-024-01696-z</a></p>Rampant deepfakes and false news are often blamed for swaying votes. Research suggests it’s hard to change people’s political opinions, but easier to nudge their behaviour.]]></content:encoded>
-            <dc:title><![CDATA[Misinformation might sway elections — but not in the way that you think]]></dc:title>
-            <dc:creator>David Adam</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-01696-z</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-18; | doi:10.1038/d41586-024-01696-z</dc:source>
-            <dc:date>2024-06-18</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-01696-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-01696-z</prism:url>
         </item>
     
 </rdf:RDF>
