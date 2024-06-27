@@ -18,6 +18,8 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02003-6"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07656-x"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07741-1"/>
@@ -166,8 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02103-3"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02070-9"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,21 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02003-6">
+            <title><![CDATA[Five new ways to catch gravitational waves — and the secrets they’ll reveal]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02003-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 27 June 2024; <a href="https://www.nature.com/articles/d41586-024-02003-6">doi:10.1038/d41586-024-02003-6</a></p>Observatories, experiments and techniques are being developed to spot ripples in space-time at frequencies that currently can’t be detected.]]></content:encoded>
+            <dc:title><![CDATA[Five new ways to catch gravitational waves — and the secrets they’ll reveal]]></dc:title>
+            <dc:creator>Davide Castelvecchi</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02003-6</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-27; | doi:10.1038/d41586-024-02003-6</dc:source>
+            <dc:date>2024-06-27</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02003-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02003-6</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07656-x">
             <title><![CDATA[Retraction Note: Microbiome analyses of blood and tissues suggest cancer diagnostic approach]]></title>
@@ -1285,21 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-02103-3</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-02103-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-02070-9">
-            <title><![CDATA[Gut microbiome discovery provides roadmap for life-saving cancer therapies]]></title>
-            <link>https://www.nature.com/articles/d41586-024-02070-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 20 June 2024; <a href="https://www.nature.com/articles/d41586-024-02070-9">doi:10.1038/d41586-024-02070-9</a></p>The balance between bacterial communities in the gut affects the likelihood of a positive response to drugs called checkpoint inhibitors.]]></content:encoded>
-            <dc:title><![CDATA[Gut microbiome discovery provides roadmap for life-saving cancer therapies]]></dc:title>
-            <dc:creator>Giorgia Guglielmi</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-02070-9</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-20; | doi:10.1038/d41586-024-02070-9</dc:source>
-            <dc:date>2024-06-20</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-02070-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-02070-9</prism:url>
         </item>
     
 </rdf:RDF>
