@@ -18,7 +18,19 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02098-x"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02099-w"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02003-6"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02115-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02106-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02141-x"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02127-9"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07656-x"/>
                 
@@ -90,6 +102,8 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02083-4"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02128-8"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02086-1"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01647-8"/>
@@ -154,20 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07703-7"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02071-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07734-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02018-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02072-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02074-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02093-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02103-3"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,36 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02098-x">
+            <title><![CDATA[Smile! Living skin helps robot make a happy face]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02098-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 27 June 2024; <a href="https://www.nature.com/articles/d41586-024-02098-x">doi:10.1038/d41586-024-02098-x</a></p>Anchors inspired by skin ligaments connect cell-based composite to robotic visage.]]></content:encoded>
+            <dc:title><![CDATA[Smile! Living skin helps robot make a happy face]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-02098-x</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-27; | doi:10.1038/d41586-024-02098-x</dc:source>
+            <dc:date>2024-06-27</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02098-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02098-x</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02099-w">
+            <title><![CDATA[Deep-sea creatures survive crushing pressures with just the right fats]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02099-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 27 June 2024; <a href="https://www.nature.com/articles/d41586-024-02099-w">doi:10.1038/d41586-024-02099-w</a></p>Tiny predators called comb jellies have cell-membrane lipids that form curving structures under pressure.]]></content:encoded>
+            <dc:title><![CDATA[Deep-sea creatures survive crushing pressures with just the right fats]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-02099-w</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-27; | doi:10.1038/d41586-024-02099-w</dc:source>
+            <dc:date>2024-06-27</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02099-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02099-w</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-02003-6">
             <title><![CDATA[Five new ways to catch gravitational waves — and the secrets they’ll reveal]]></title>
@@ -190,6 +220,66 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-02003-6</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-02003-6</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02115-z">
+            <title><![CDATA[‘Epigenome editor’ silences gene that causes deadly brain disorders]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02115-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 27 June 2024; <a href="https://www.nature.com/articles/d41586-024-02115-z">doi:10.1038/d41586-024-02115-z</a></p>Prion diseases are caused by misfolded proteins, but a new tool can stop them forming in mice.]]></content:encoded>
+            <dc:title><![CDATA[‘Epigenome editor’ silences gene that causes deadly brain disorders]]></dc:title>
+            <dc:creator>Gemma Conroy</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02115-z</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-27; | doi:10.1038/d41586-024-02115-z</dc:source>
+            <dc:date>2024-06-27</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02115-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02115-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02106-0">
+            <title><![CDATA[How blockbuster obesity drugs create a full feeling — even before one bite of food]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02106-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 27 June 2024; <a href="https://www.nature.com/articles/d41586-024-02106-0">doi:10.1038/d41586-024-02106-0</a></p>Scientists identify brain area that holds two groups of neurons: one for pre-meal sensations of fullness and one for post-meal satiety.]]></content:encoded>
+            <dc:title><![CDATA[How blockbuster obesity drugs create a full feeling — even before one bite of food]]></dc:title>
+            <dc:creator>Mariana Lenharo</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02106-0</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-27; | doi:10.1038/d41586-024-02106-0</dc:source>
+            <dc:date>2024-06-27</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02106-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02106-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02141-x">
+            <title><![CDATA[No CRISPR: oddball ‘jumping gene’ enzyme edits genomes without breaking DNA]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02141-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 27 June 2024; <a href="https://www.nature.com/articles/d41586-024-02141-x">doi:10.1038/d41586-024-02141-x</a></p>A programmable RNA that bridges a genetic donor and a target could herald a safer and more flexible approach to large-scale chromosome changes.]]></content:encoded>
+            <dc:title><![CDATA[No CRISPR: oddball ‘jumping gene’ enzyme edits genomes without breaking DNA]]></dc:title>
+            <dc:creator>Heidi Ledford</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02141-x</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-27; | doi:10.1038/d41586-024-02141-x</dc:source>
+            <dc:date>2024-06-27</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02141-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02141-x</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02127-9">
+            <title><![CDATA[Ketamine for depression: slow-release pills could make treatment more accessible]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02127-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 27 June 2024; <a href="https://www.nature.com/articles/d41586-024-02127-9">doi:10.1038/d41586-024-02127-9</a></p>A ketamine-containing tablet could be a convenient alternative to intravenous treatments, with fewer unpleasant side effects.]]></content:encoded>
+            <dc:title><![CDATA[Ketamine for depression: slow-release pills could make treatment more accessible]]></dc:title>
+            <dc:creator>Helena Kudiabor</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02127-9</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-27; | doi:10.1038/d41586-024-02127-9</dc:source>
+            <dc:date>2024-06-27</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02127-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02127-9</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07656-x">
@@ -717,6 +807,21 @@
             <prism:url>https://www.nature.com/articles/d41586-024-02083-4</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02128-8">
+            <title><![CDATA[Daily briefing: Blockbuster weight-loss drugs linked to unexpected pregnancies]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02128-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 26 June 2024; <a href="https://www.nature.com/articles/d41586-024-02128-8">doi:10.1038/d41586-024-02128-8</a></p>Women on the pill or diagnosed as infertile have reported getting pregnant with ‘Ozempic babies’. Plus, the first ever rocks from the Moon’s far side land on Earth and the science of protests.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Blockbuster weight-loss drugs linked to unexpected pregnancies]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02128-8</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-26; | doi:10.1038/d41586-024-02128-8</dc:source>
+            <dc:date>2024-06-26</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02128-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02128-8</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-024-02086-1">
             <title><![CDATA[How to network with the brightest minds in science]]></title>
             <link>https://www.nature.com/articles/d41586-024-02086-1</link>
@@ -1195,111 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/s41586-024-07703-7</prism:doi>
             <prism:url>https://www.nature.com/articles/s41586-024-07703-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-02071-8">
-            <title><![CDATA[You’re not imagining it: extreme wildfires are now more common]]></title>
-            <link>https://www.nature.com/articles/d41586-024-02071-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 24 June 2024; <a href="https://www.nature.com/articles/d41586-024-02071-8">doi:10.1038/d41586-024-02071-8</a></p>For the first time, data show that cataclysmic infernos are increasing in frequency and intensity globally.]]></content:encoded>
-            <dc:title><![CDATA[You’re not imagining it: extreme wildfires are now more common]]></dc:title>
-            <dc:creator>Jeff Tollefson</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-02071-8</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-24; | doi:10.1038/d41586-024-02071-8</dc:source>
-            <dc:date>2024-06-24</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-02071-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-02071-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07734-0">
-            <title><![CDATA[Author Correction: Disease-associated astrocyte epigenetic memory promotes CNS pathology]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07734-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 21 June 2024; <a href="https://www.nature.com/articles/s41586-024-07734-0">doi:10.1038/s41586-024-07734-0</a></p>Author Correction: Disease-associated astrocyte epigenetic memory promotes CNS pathology]]></content:encoded>
-            <dc:title><![CDATA[Author Correction: Disease-associated astrocyte epigenetic memory promotes CNS pathology]]></dc:title>
-            <dc:creator>Hong-Gyun Lee</dc:creator><dc:creator>Joseph M. Rone</dc:creator><dc:creator>Zhaorong Li</dc:creator><dc:creator>Camilo Faust Akl</dc:creator><dc:creator>Seung Won Shin</dc:creator><dc:creator>Joon-Hyuk Lee</dc:creator><dc:creator>Lucas E. Flausino</dc:creator><dc:creator>Florian Pernin</dc:creator><dc:creator>Chun-Cheih Chao</dc:creator><dc:creator>Kilian L. Kleemann</dc:creator><dc:creator>Lena Srun</dc:creator><dc:creator>Tomer Illouz</dc:creator><dc:creator>Federico Giovannoni</dc:creator><dc:creator>Marc Charabati</dc:creator><dc:creator>Liliana M. Sanmarco</dc:creator><dc:creator>Jessica E. Kenison</dc:creator><dc:creator>Gavin Piester</dc:creator><dc:creator>Stephanie E. J. Zandee</dc:creator><dc:creator>Jack P. Antel</dc:creator><dc:creator>Veit Rothhammer</dc:creator><dc:creator>Michael A. Wheeler</dc:creator><dc:creator>Alexandre Prat</dc:creator><dc:creator>Iain C. Clark</dc:creator><dc:creator>Francisco J. Quintana</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07734-0</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-21; | doi:10.1038/s41586-024-07734-0</dc:source>
-            <dc:date>2024-06-21</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07734-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07734-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-02018-z">
-            <title><![CDATA[Autoimmune antibodies tied to lower malaria risk in kids]]></title>
-            <link>https://www.nature.com/articles/d41586-024-02018-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 21 June 2024; <a href="https://www.nature.com/articles/d41586-024-02018-z">doi:10.1038/d41586-024-02018-z</a></p>Findings support one idea about why self-directed immune responses are more common in some populations.]]></content:encoded>
-            <dc:title><![CDATA[Autoimmune antibodies tied to lower malaria risk in kids]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-02018-z</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-21; | doi:10.1038/d41586-024-02018-z</dc:source>
-            <dc:date>2024-06-21</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-02018-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-02018-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-02072-7">
-            <title><![CDATA[Gigantic oddball aurora seen from Earth for the first time]]></title>
-            <link>https://www.nature.com/articles/d41586-024-02072-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 21 June 2024; <a href="https://www.nature.com/articles/d41586-024-02072-7">doi:10.1038/d41586-024-02072-7</a></p>A camera captured the vast, diffuse glow produced after the solar wind dropped to a whisper.]]></content:encoded>
-            <dc:title><![CDATA[Gigantic oddball aurora seen from Earth for the first time]]></dc:title>
-            <dc:creator>Alexandra Witze</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-02072-7</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-21; | doi:10.1038/d41586-024-02072-7</dc:source>
-            <dc:date>2024-06-21</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-02072-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-02072-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-02074-5">
-            <title><![CDATA[‘Fantastic’ particle could be most energetic neutrino ever detected]]></title>
-            <link>https://www.nature.com/articles/d41586-024-02074-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 21 June 2024; <a href="https://www.nature.com/articles/d41586-024-02074-5">doi:10.1038/d41586-024-02074-5</a></p>The ultra-high-energy neutrino was spotted by deep-sea detectors and could point to a massive cosmic event.]]></content:encoded>
-            <dc:title><![CDATA[‘Fantastic’ particle could be most energetic neutrino ever detected]]></dc:title>
-            <dc:creator>Davide Castelvecchi</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-02074-5</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-21; | doi:10.1038/d41586-024-02074-5</dc:source>
-            <dc:date>2024-06-21</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-02074-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-02074-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-02093-2">
-            <title><![CDATA[The last few miles: how to prepare for the late-career stage in science]]></title>
-            <link>https://www.nature.com/articles/d41586-024-02093-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 21 June 2024; <a href="https://www.nature.com/articles/d41586-024-02093-2">doi:10.1038/d41586-024-02093-2</a></p>It can be daunting to see the final chapter of your career approaching. Planning ahead can help.]]></content:encoded>
-            <dc:title><![CDATA[The last few miles: how to prepare for the late-career stage in science]]></dc:title>
-            <dc:creator>Julie Gould</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-02093-2</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-21; | doi:10.1038/d41586-024-02093-2</dc:source>
-            <dc:date>2024-06-21</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-02093-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-02093-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-02103-3">
-            <title><![CDATA[Daily briefing: ‘Open-washing’ plagues big AI]]></title>
-            <link>https://www.nature.com/articles/d41586-024-02103-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 21 June 2024; <a href="https://www.nature.com/articles/d41586-024-02103-3">doi:10.1038/d41586-024-02103-3</a></p>Open-source artificial intelligence is nowhere near as open as its name would suggest, low-frequency vibrations arouse genital nerve cells in mice and why we must put people at the heart of schizophrenia research.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: ‘Open-washing’ plagues big AI]]></dc:title>
-            <dc:creator>Flora Graham</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-02103-3</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-21; | doi:10.1038/d41586-024-02103-3</dc:source>
-            <dc:date>2024-06-21</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-02103-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-02103-3</prism:url>
         </item>
     
 </rdf:RDF>
