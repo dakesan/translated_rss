@@ -24,6 +24,8 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02003-6"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02148-4"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02115-z"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02106-0"/>
@@ -166,8 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07705-5"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07703-7"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -220,6 +220,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-02003-6</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-02003-6</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02148-4">
+            <title><![CDATA[Daily briefing: How this lab became one of the most successful in the world]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02148-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 27 June 2024; <a href="https://www.nature.com/articles/d41586-024-02148-4">doi:10.1038/d41586-024-02148-4</a></p>Study reveals secrets of Cambridge’s Laboratory of Molecular Biology. Plus, the first 3D-model brains with cells from several people and five new ways to catch gravitational waves.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: How this lab became one of the most successful in the world]]></dc:title>
+            <dc:creator>Katrina Krämer</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02148-4</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-27; | doi:10.1038/d41586-024-02148-4</dc:source>
+            <dc:date>2024-06-27</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02148-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02148-4</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-02115-z">
@@ -1285,21 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/s41586-024-07705-5</prism:doi>
             <prism:url>https://www.nature.com/articles/s41586-024-07705-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07703-7">
-            <title><![CDATA[Bound star clusters observed in a lensed galaxy 460 Myr after the Big Bang]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07703-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 24 June 2024; <a href="https://www.nature.com/articles/s41586-024-07703-7">doi:10.1038/s41586-024-07703-7</a></p>Bound star clusters observed in a lensed galaxy 460 Myr after the Big Bang]]></content:encoded>
-            <dc:title><![CDATA[Bound star clusters observed in a lensed galaxy 460 Myr after the Big Bang]]></dc:title>
-            <dc:creator>Angela Adamo</dc:creator><dc:creator>Larry D. Bradley</dc:creator><dc:creator>Eros Vanzella</dc:creator><dc:creator>Adélaïde Claeyssens</dc:creator><dc:creator>Brian Welch</dc:creator><dc:creator>Jose M. Diego</dc:creator><dc:creator>Guillaume Mahler</dc:creator><dc:creator>Masamune Oguri</dc:creator><dc:creator>Keren Sharon</dc:creator><dc:creator>Abdurro’uf</dc:creator><dc:creator>Tiger Yu-Yang Hsiao</dc:creator><dc:creator>Xinfeng Xu</dc:creator><dc:creator>Matteo Messa</dc:creator><dc:creator>Augusto E. Lassen</dc:creator><dc:creator>Erik Zackrisson</dc:creator><dc:creator>Gabriel Brammer</dc:creator><dc:creator>Dan Coe</dc:creator><dc:creator>Vasily Kokorev</dc:creator><dc:creator>Massimo Ricotti</dc:creator><dc:creator>Adi Zitrin</dc:creator><dc:creator>Seiji Fujimoto</dc:creator><dc:creator>Akio K. Inoue</dc:creator><dc:creator>Tom Resseguier</dc:creator><dc:creator>Jane R. Rigby</dc:creator><dc:creator>Yolanda Jiménez-Teja</dc:creator><dc:creator>Rogier A. Windhorst</dc:creator><dc:creator>Takuya Hashimoto</dc:creator><dc:creator>Yoichi Tamura</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07703-7</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-24; | doi:10.1038/s41586-024-07703-7</dc:source>
-            <dc:date>2024-06-24</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07703-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07703-7</prism:url>
         </item>
     
 </rdf:RDF>
