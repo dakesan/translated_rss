@@ -18,6 +18,14 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02147-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02121-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02150-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02143-9"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02098-x"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02099-w"/>
@@ -160,14 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02101-5"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07732-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07704-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07691-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07705-5"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,66 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02147-5">
+            <title><![CDATA[Audio long read: How NASA astronauts are training to walk on the Moon in 2026]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02147-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 June 2024; <a href="https://www.nature.com/articles/d41586-024-02147-5">doi:10.1038/d41586-024-02147-5</a></p>NASA astronauts have been performing simulated lunar exploration in Arizona to help prepare them for doing geology at the Moon's south pole.]]></content:encoded>
+            <dc:title><![CDATA[Audio long read: How NASA astronauts are training to walk on the Moon in 2026]]></dc:title>
+            <dc:creator>Alexandra Witze</dc:creator><dc:creator>Benjamin Thompson</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02147-5</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-28; | doi:10.1038/d41586-024-02147-5</dc:source>
+            <dc:date>2024-06-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02147-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02147-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02121-1">
+            <title><![CDATA[Combined COVID-flu vaccines are coming: Moderna jab clears major test]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02121-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 June 2024; <a href="https://www.nature.com/articles/d41586-024-02121-1">doi:10.1038/d41586-024-02121-1</a></p>First large trial suggests mRNA drug gives better protection from SARS-CoV-2 and influenza viruses than single-target shots.]]></content:encoded>
+            <dc:title><![CDATA[Combined COVID-flu vaccines are coming: Moderna jab clears major test]]></dc:title>
+            <dc:creator>Freda Kreier</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02121-1</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-28; | doi:10.1038/d41586-024-02121-1</dc:source>
+            <dc:date>2024-06-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02121-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02121-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02150-w">
+            <title><![CDATA[Choose your own adventure: navigating retirement after an academic career]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02150-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 June 2024; <a href="https://www.nature.com/articles/d41586-024-02150-w">doi:10.1038/d41586-024-02150-w</a></p>How do you have a full and meaningful retirement? Late-career researchers and retired colleagues discuss the many options available.]]></content:encoded>
+            <dc:title><![CDATA[Choose your own adventure: navigating retirement after an academic career]]></dc:title>
+            <dc:creator>Julie Gould</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02150-w</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-28; | doi:10.1038/d41586-024-02150-w</dc:source>
+            <dc:date>2024-06-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02150-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02150-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02143-9">
+            <title><![CDATA[The Milky Way is ‘less weird’ than we thought]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02143-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 June 2024; <a href="https://www.nature.com/articles/d41586-024-02143-9">doi:10.1038/d41586-024-02143-9</a></p>The Galaxy’s core isn't as densely packed with stars as models suggested, a study finds, aligning it more closely with similar spiral galaxies.]]></content:encoded>
+            <dc:title><![CDATA[The Milky Way is ‘less weird’ than we thought]]></dc:title>
+            <dc:creator>Sumeet Kulkarni</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02143-9</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-28; | doi:10.1038/d41586-024-02143-9</dc:source>
+            <dc:date>2024-06-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02143-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02143-9</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-02098-x">
             <title><![CDATA[Smile! Living skin helps robot make a happy face]]></title>
@@ -256,7 +316,7 @@
             <title><![CDATA[How blockbuster obesity drugs create a full feeling — even before one bite of food]]></title>
             <link>https://www.nature.com/articles/d41586-024-02106-0</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 27 June 2024; <a href="https://www.nature.com/articles/d41586-024-02106-0">doi:10.1038/d41586-024-02106-0</a></p>Scientists identify brain area that holds two groups of neurons: one for pre-meal sensations of fullness and one for post-meal satiety.]]></content:encoded>
+                <![CDATA[<p>Nature, Published online: 27 June 2024; <a href="https://www.nature.com/articles/d41586-024-02106-0">doi:10.1038/d41586-024-02106-0</a></p>Scientists identify brain area harbouring two groups of neurons: one for pre-meal sensations of fullness, and one for post-meal satiety.]]></content:encoded>
             <dc:title><![CDATA[How blockbuster obesity drugs create a full feeling — even before one bite of food]]></dc:title>
             <dc:creator>Mariana Lenharo</dc:creator>
             <dc:identifier>doi:10.1038/d41586-024-02106-0</dc:identifier>
@@ -736,7 +796,7 @@
             <title><![CDATA[Does Ozempic boost fertility? What the science says]]></title>
             <link>https://www.nature.com/articles/d41586-024-02045-w</link>
             <content:encoded>
-                <![CDATA[<p>Nature, Published online: 26 June 2024; <a href="https://www.nature.com/articles/d41586-024-02045-w">doi:10.1038/d41586-024-02045-w</a></p>Blockbuster weight-loss drugs have been linked to unexplained pregnancies. Research shows it is plausible, but more data is needed.]]></content:encoded>
+                <![CDATA[<p>Nature, Published online: 26 June 2024; <a href="https://www.nature.com/articles/d41586-024-02045-w">doi:10.1038/d41586-024-02045-w</a></p>Blockbuster weight-loss drugs have been linked to unexplained pregnancies. Research shows it is plausible, but more data are needed.]]></content:encoded>
             <dc:title><![CDATA[Does Ozempic boost fertility? What the science says]]></dc:title>
             <dc:creator>Gillian Dohrn</dc:creator>
             <dc:identifier>doi:10.1038/d41586-024-02045-w</dc:identifier>
@@ -1240,66 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-02101-5</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-02101-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07732-2">
-            <title><![CDATA[Author Correction: The economic commitment of climate change]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07732-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 24 June 2024; <a href="https://www.nature.com/articles/s41586-024-07732-2">doi:10.1038/s41586-024-07732-2</a></p>Author Correction: The economic commitment of climate change]]></content:encoded>
-            <dc:title><![CDATA[Author Correction: The economic commitment of climate change]]></dc:title>
-            <dc:creator>Maximilian Kotz</dc:creator><dc:creator>Anders Levermann</dc:creator><dc:creator>Leonie Wenz</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07732-2</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-24; | doi:10.1038/s41586-024-07732-2</dc:source>
-            <dc:date>2024-06-24</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07732-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07732-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07704-6">
-            <title><![CDATA[No massive black holes in the Milky Way halo]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07704-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 24 June 2024; <a href="https://www.nature.com/articles/s41586-024-07704-6">doi:10.1038/s41586-024-07704-6</a></p>No massive black holes in the Milky Way halo]]></content:encoded>
-            <dc:title><![CDATA[No massive black holes in the Milky Way halo]]></dc:title>
-            <dc:creator>Przemek Mróz</dc:creator><dc:creator>Andrzej Udalski</dc:creator><dc:creator>Michał K. Szymański</dc:creator><dc:creator>Igor Soszyński</dc:creator><dc:creator>Łukasz Wyrzykowski</dc:creator><dc:creator>Paweł Pietrukowicz</dc:creator><dc:creator>Szymon Kozłowski</dc:creator><dc:creator>Radosław Poleski</dc:creator><dc:creator>Jan Skowron</dc:creator><dc:creator>Dorota Skowron</dc:creator><dc:creator>Krzysztof Ulaczyk</dc:creator><dc:creator>Mariusz Gromadzki</dc:creator><dc:creator>Krzysztof Rybicki</dc:creator><dc:creator>Patryk Iwanek</dc:creator><dc:creator>Marcin Wrona</dc:creator><dc:creator>Milena Ratajczak</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07704-6</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-24; | doi:10.1038/s41586-024-07704-6</dc:source>
-            <dc:date>2024-06-24</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07704-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07704-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07691-8">
-            <title><![CDATA[Retraction Note: A specific amyloid-β protein assembly in the brain impairs memory]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07691-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 24 June 2024; <a href="https://www.nature.com/articles/s41586-024-07691-8">doi:10.1038/s41586-024-07691-8</a></p>Retraction Note: A specific amyloid-β protein assembly in the brain impairs memory]]></content:encoded>
-            <dc:title><![CDATA[Retraction Note: A specific amyloid-β protein assembly in the brain impairs memory]]></dc:title>
-            <dc:creator>Sylvain Lesné</dc:creator><dc:creator>Ming Teng Koh</dc:creator><dc:creator>Linda Kotilinek</dc:creator><dc:creator>Rakez Kayed</dc:creator><dc:creator>Charles G. Glabe</dc:creator><dc:creator>Austin Yang</dc:creator><dc:creator>Michela Gallagher</dc:creator><dc:creator>Karen H. Ashe</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07691-8</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-24; | doi:10.1038/s41586-024-07691-8</dc:source>
-            <dc:date>2024-06-24</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07691-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07691-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07705-5">
-            <title><![CDATA[Water- and heat-activated dynamic passivation for perovskite photovoltaics]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07705-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 24 June 2024; <a href="https://www.nature.com/articles/s41586-024-07705-5">doi:10.1038/s41586-024-07705-5</a></p>Water- and heat-activated dynamic passivation for perovskite photovoltaics]]></content:encoded>
-            <dc:title><![CDATA[Water- and heat-activated dynamic passivation for perovskite photovoltaics]]></dc:title>
-            <dc:creator>Wei-Ting Wang</dc:creator><dc:creator>Philippe Holzhey</dc:creator><dc:creator>Ning Zhou</dc:creator><dc:creator>Qiang Zhang</dc:creator><dc:creator>Suer Zhou</dc:creator><dc:creator>Elisabeth A. Duijnstee</dc:creator><dc:creator>Kevin J. Rietwyk</dc:creator><dc:creator>Jeng-Yu Lin</dc:creator><dc:creator>Yijie Mu</dc:creator><dc:creator>Yanfeng Zhang</dc:creator><dc:creator>Udo Bach</dc:creator><dc:creator>Chun-Guey Wu</dc:creator><dc:creator>Hin‐Lap Yip</dc:creator><dc:creator>Henry J. Snaith</dc:creator><dc:creator>Shien-Ping Feng</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07705-5</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-24; | doi:10.1038/s41586-024-07705-5</dc:source>
-            <dc:date>2024-06-24</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07705-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07705-5</prism:url>
         </item>
     
 </rdf:RDF>
