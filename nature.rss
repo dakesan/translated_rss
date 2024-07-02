@@ -18,9 +18,15 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02126-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02157-3"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02147-5"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02121-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02152-8"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02150-w"/>
                 
@@ -162,12 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02109-x"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02117-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02122-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02101-5"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,36 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02126-w">
+            <title><![CDATA[What drives mosquitoes’ bloodlust? Their hormones]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02126-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 01 July 2024; <a href="https://www.nature.com/articles/d41586-024-02126-w">doi:10.1038/d41586-024-02126-w</a></p>One hormone seems to boosts the insects’ thirst for a blood meal, while another shuts it off.]]></content:encoded>
+            <dc:title><![CDATA[What drives mosquitoes’ bloodlust? Their hormones]]></dc:title>
+            <dc:creator>Gemma Conroy</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02126-w</dc:identifier>
+            <dc:source>Nature, Published online: 2024-07-01; | doi:10.1038/d41586-024-02126-w</dc:source>
+            <dc:date>2024-07-01</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02126-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02126-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02157-3">
+            <title><![CDATA[Bionic leg moves like a natural limb — without conscious thought]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02157-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 01 July 2024; <a href="https://www.nature.com/articles/d41586-024-02157-3">doi:10.1038/d41586-024-02157-3</a></p>Computer interface links signals from the brain to an artificial limb, giving the wearer better balance, flexibility and speed.]]></content:encoded>
+            <dc:title><![CDATA[Bionic leg moves like a natural limb — without conscious thought]]></dc:title>
+            <dc:creator>Miryam Naddaf</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02157-3</dc:identifier>
+            <dc:source>Nature, Published online: 2024-07-01; | doi:10.1038/d41586-024-02157-3</dc:source>
+            <dc:date>2024-07-01</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02157-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02157-3</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-02147-5">
             <title><![CDATA[Audio long read: How NASA astronauts are training to walk on the Moon in 2026]]></title>
@@ -205,6 +235,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-02121-1</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-02121-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02152-8">
+            <title><![CDATA[Daily briefing: How obesity drugs like Ozempic create a full feeling]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02152-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 June 2024; <a href="https://www.nature.com/articles/d41586-024-02152-8">doi:10.1038/d41586-024-02152-8</a></p>The brain areas involved in the feeling of fullness experienced by people taking GLP-1 drugs. Plus, an ‘epigenome editor’ silences a gene linked to deadly brain disorders and a ‘jumping gene’ enzyme edits genomes without breaking DNA.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: How obesity drugs like Ozempic create a full feeling]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02152-8</dc:identifier>
+            <dc:source>Nature, Published online: 2024-06-28; | doi:10.1038/d41586-024-02152-8</dc:source>
+            <dc:date>2024-06-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02152-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02152-8</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-02150-w">
@@ -1255,51 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-02109-x</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-02109-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-02117-x">
-            <title><![CDATA[Daily briefing: ‘Polar rain aurora’ seen from Earth for the first time]]></title>
-            <link>https://www.nature.com/articles/d41586-024-02117-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 25 June 2024; <a href="https://www.nature.com/articles/d41586-024-02117-x">doi:10.1038/d41586-024-02117-x</a></p>Scientists got the first-ever unimpeded view from Earth of a rare aurora spanning more than 3,000 kilometres across the North Pole. Plus, ‘fantastic’ particle could be the most energetic neutrino ever detected and why extreme wildfires are now more common.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: ‘Polar rain aurora’ seen from Earth for the first time]]></dc:title>
-            <dc:creator>Flora Graham</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-02117-x</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-25; | doi:10.1038/d41586-024-02117-x</dc:source>
-            <dc:date>2024-06-25</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-02117-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-02117-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-02122-0">
-            <title><![CDATA[AI &amp; robotics briefing: Tech giants are ‘open-washing’ their AI models]]></title>
-            <link>https://www.nature.com/articles/d41586-024-02122-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 25 June 2024; <a href="https://www.nature.com/articles/d41586-024-02122-0">doi:10.1038/d41586-024-02122-0</a></p>Google, Microsoft and others are describing their AI models as open source while disclosing little key information. Plus, self-driving cars’ safety record remains unclear and a new word for chatbot confabulations.]]></content:encoded>
-            <dc:title><![CDATA[AI &amp; robotics briefing: Tech giants are ‘open-washing’ their AI models]]></dc:title>
-            <dc:creator>Katrina Krämer</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-02122-0</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-25; | doi:10.1038/d41586-024-02122-0</dc:source>
-            <dc:date>2024-06-25</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-02122-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-02122-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-02101-5">
-            <title><![CDATA[First ever rocks from the Moon’s far side have landed on Earth]]></title>
-            <link>https://www.nature.com/articles/d41586-024-02101-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 25 June 2024; <a href="https://www.nature.com/articles/d41586-024-02101-5">doi:10.1038/d41586-024-02101-5</a></p>Scientists are eager to work on Chang’e-6 rock samples, which touched down in the Chinese autonomous region Inner Mongolia today.]]></content:encoded>
-            <dc:title><![CDATA[First ever rocks from the Moon’s far side have landed on Earth]]></dc:title>
-            <dc:creator>Ling  Xin</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-02101-5</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-25; | doi:10.1038/d41586-024-02101-5</dc:source>
-            <dc:date>2024-06-25</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-02101-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-02101-5</prism:url>
         </item>
     
 </rdf:RDF>
