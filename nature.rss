@@ -18,6 +18,14 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07735-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02211-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00942-8"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02073-6"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07727-z"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07595-7"/>
@@ -160,14 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02127-9"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07656-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07741-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07723-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02100-6"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,66 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07735-z">
+            <title><![CDATA[Author Correction: A high-performance neuroprosthesis for speech decoding and avatar control]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07735-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 04 July 2024; <a href="https://www.nature.com/articles/s41586-024-07735-z">doi:10.1038/s41586-024-07735-z</a></p>Author Correction: A high-performance neuroprosthesis for speech decoding and avatar control]]></content:encoded>
+            <dc:title><![CDATA[Author Correction: A high-performance neuroprosthesis for speech decoding and avatar control]]></dc:title>
+            <dc:creator>Sean L. Metzger</dc:creator><dc:creator>Kaylo T. Littlejohn</dc:creator><dc:creator>Alexander B. Silva</dc:creator><dc:creator>David A. Moses</dc:creator><dc:creator>Margaret P. Seaton</dc:creator><dc:creator>Ran Wang</dc:creator><dc:creator>Maximilian E. Dougherty</dc:creator><dc:creator>Jessie R. Liu</dc:creator><dc:creator>Peter Wu</dc:creator><dc:creator>Michael A. Berger</dc:creator><dc:creator>Inga Zhuravleva</dc:creator><dc:creator>Adelyn Tu-Chan</dc:creator><dc:creator>Karunesh Ganguly</dc:creator><dc:creator>Gopala K. Anumanchipalli</dc:creator><dc:creator>Edward F. Chang</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07735-z</dc:identifier>
+            <dc:source>Nature, Published online: 2024-07-04; | doi:10.1038/s41586-024-07735-z</dc:source>
+            <dc:date>2024-07-04</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07735-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07735-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02211-0">
+            <title><![CDATA[‘All things that wander in the heavens’: how I swapped my ivory tower for the world of science fiction]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02211-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 04 July 2024; <a href="https://www.nature.com/articles/d41586-024-02211-0">doi:10.1038/d41586-024-02211-0</a></p>Astrobiologist and writer Seven Rasmussen reflects on the craft and complexities of being a scientist-storyteller.]]></content:encoded>
+            <dc:title><![CDATA[‘All things that wander in the heavens’: how I swapped my ivory tower for the world of science fiction]]></dc:title>
+            <dc:creator>Fayth Tan</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02211-0</dc:identifier>
+            <dc:source>Nature, Published online: 2024-07-04; | doi:10.1038/d41586-024-02211-0</dc:source>
+            <dc:date>2024-07-04</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02211-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02211-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-00942-8">
+            <title><![CDATA[Japan’s scientists demand more money for basic science]]></title>
+            <link>https://www.nature.com/articles/d41586-024-00942-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 04 July 2024; <a href="https://www.nature.com/articles/d41586-024-00942-8">doi:10.1038/d41586-024-00942-8</a></p>Petition representing hundreds of thousands of researchers in Japan calls for an increase in cash to boost competitiveness.]]></content:encoded>
+            <dc:title><![CDATA[Japan’s scientists demand more money for basic science]]></dc:title>
+            <dc:creator>Anna Ikarashi</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-00942-8</dc:identifier>
+            <dc:source>Nature, Published online: 2024-07-04; | doi:10.1038/d41586-024-00942-8</dc:source>
+            <dc:date>2024-07-04</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-00942-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-00942-8</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02073-6">
+            <title><![CDATA[How do you make salty water drinkable? The hunt for fresh solutions to a briny problem]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02073-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 04 July 2024; <a href="https://www.nature.com/articles/d41586-024-02073-6">doi:10.1038/d41586-024-02073-6</a></p>Unconventional methods for desalination could create more drinking water, help many industries to deal with problematic brines and increase lithium supplies for batteries.]]></content:encoded>
+            <dc:title><![CDATA[How do you make salty water drinkable? The hunt for fresh solutions to a briny problem]]></dc:title>
+            <dc:creator>XiaoZhi Lim</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02073-6</dc:identifier>
+            <dc:source>Nature, Published online: 2024-07-04; | doi:10.1038/d41586-024-02073-6</dc:source>
+            <dc:date>2024-07-04</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02073-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02073-6</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07727-z">
             <title><![CDATA[Observation of the scaling dimension of fractional quantum Hall anyons]]></title>
@@ -1240,66 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-02127-9</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-02127-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07656-x">
-            <title><![CDATA[Retraction Note: Microbiome analyses of blood and tissues suggest cancer diagnostic approach]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07656-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 26 June 2024; <a href="https://www.nature.com/articles/s41586-024-07656-x">doi:10.1038/s41586-024-07656-x</a></p>Retraction Note: Microbiome analyses of blood and tissues suggest cancer diagnostic approach]]></content:encoded>
-            <dc:title><![CDATA[Retraction Note: Microbiome analyses of blood and tissues suggest cancer diagnostic approach]]></dc:title>
-            <dc:creator>Gregory D. Poore</dc:creator><dc:creator>Evguenia Kopylova</dc:creator><dc:creator>Qiyun Zhu</dc:creator><dc:creator>Carolina Carpenter</dc:creator><dc:creator>Serena Fraraccio</dc:creator><dc:creator>Stephen Wandro</dc:creator><dc:creator>Tomasz Kosciolek</dc:creator><dc:creator>Stefan Janssen</dc:creator><dc:creator>Jessica Metcalf</dc:creator><dc:creator>Se Jin Song</dc:creator><dc:creator>Jad Kanbar</dc:creator><dc:creator>Sandrine Miller-Montgomery</dc:creator><dc:creator>Robert Heaton</dc:creator><dc:creator>Rana Mckay</dc:creator><dc:creator>Sandip Pravin Patel</dc:creator><dc:creator>Austin D. Swafford</dc:creator><dc:creator>Rob Knight</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07656-x</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-26; | doi:10.1038/s41586-024-07656-x</dc:source>
-            <dc:date>2024-06-26</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07656-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07656-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07741-1">
-            <title><![CDATA[Mechanism for the initiation of spliceosome disassembly]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07741-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 26 June 2024; <a href="https://www.nature.com/articles/s41586-024-07741-1">doi:10.1038/s41586-024-07741-1</a></p>Mechanism for the initiation of spliceosome disassembly]]></content:encoded>
-            <dc:title><![CDATA[Mechanism for the initiation of spliceosome disassembly]]></dc:title>
-            <dc:creator>Matthias K. Vorländer</dc:creator><dc:creator>Patricia Rothe</dc:creator><dc:creator>Justus Kleifeld</dc:creator><dc:creator>Eric Cormack</dc:creator><dc:creator>Lalitha Veleti</dc:creator><dc:creator>Daria Riabov-Bassat</dc:creator><dc:creator>Laura Fin</dc:creator><dc:creator>Alex W. Phillips</dc:creator><dc:creator>Luisa Cochella</dc:creator><dc:creator>Clemens Plaschka</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07741-1</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-26; | doi:10.1038/s41586-024-07741-1</dc:source>
-            <dc:date>2024-06-26</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07741-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07741-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07723-3">
-            <title><![CDATA[Buried interface molecular hybrid for inverted perovskite solar cells]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07723-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 26 June 2024; <a href="https://www.nature.com/articles/s41586-024-07723-3">doi:10.1038/s41586-024-07723-3</a></p>Buried interface molecular hybrid for inverted perovskite solar cells]]></content:encoded>
-            <dc:title><![CDATA[Buried interface molecular hybrid for inverted perovskite solar cells]]></dc:title>
-            <dc:creator>Sanwan Liu</dc:creator><dc:creator>Jingbai Li</dc:creator><dc:creator>Wenshan Xiao</dc:creator><dc:creator>Rui Chen</dc:creator><dc:creator>Zhenxing Sun</dc:creator><dc:creator>Yong Zhang</dc:creator><dc:creator>Xia Lei</dc:creator><dc:creator>Shuaifeng Hu</dc:creator><dc:creator>Manuel Kober-Czerny</dc:creator><dc:creator>Jianan Wang</dc:creator><dc:creator>Fumeng Ren</dc:creator><dc:creator>Qisen Zhou</dc:creator><dc:creator>Hasan Raza</dc:creator><dc:creator>You Gao</dc:creator><dc:creator>Yitong Ji</dc:creator><dc:creator>Sibo Li</dc:creator><dc:creator>Huan Li</dc:creator><dc:creator>Longbin Qiu</dc:creator><dc:creator>Wenchao Huang</dc:creator><dc:creator>Yan Zhao</dc:creator><dc:creator>Baomin Xu</dc:creator><dc:creator>Zonghao Liu</dc:creator><dc:creator>Henry J. Snaith</dc:creator><dc:creator>Nam-Gyu Park</dc:creator><dc:creator>Wei Chen</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07723-3</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-26; | doi:10.1038/s41586-024-07723-3</dc:source>
-            <dc:date>2024-06-26</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07723-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07723-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-02100-6">
-            <title><![CDATA[Aged mice regain youthful muscles thanks to a compound that acts on the genes]]></title>
-            <link>https://www.nature.com/articles/d41586-024-02100-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 26 June 2024; <a href="https://www.nature.com/articles/d41586-024-02100-6">doi:10.1038/d41586-024-02100-6</a></p>A molecule increases levels of a protein that maintains telomeres, the caps on the ends of chromosomes.]]></content:encoded>
-            <dc:title><![CDATA[Aged mice regain youthful muscles thanks to a compound that acts on the genes]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-02100-6</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-26; | doi:10.1038/d41586-024-02100-6</dc:source>
-            <dc:date>2024-06-26</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-02100-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-02100-6</prism:url>
         </item>
     
 </rdf:RDF>
