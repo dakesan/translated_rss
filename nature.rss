@@ -18,9 +18,19 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07737-x"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07735-z"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07738-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02212-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02210-1"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02211-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02197-9"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-00942-8"/>
                 
@@ -100,6 +110,8 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02171-5"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02216-9"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02094-1"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02146-6"/>
@@ -156,18 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02099-w"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02003-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02148-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02115-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02106-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02141-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02127-9"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,21 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07737-x">
+            <title><![CDATA[Publisher Correction: Mental navigation in the primate entorhinal cortex]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07737-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 04 July 2024; <a href="https://www.nature.com/articles/s41586-024-07737-x">doi:10.1038/s41586-024-07737-x</a></p>Publisher Correction: Mental navigation in the primate entorhinal cortex]]></content:encoded>
+            <dc:title><![CDATA[Publisher Correction: Mental navigation in the primate entorhinal cortex]]></dc:title>
+            <dc:creator>Sujaya Neupane</dc:creator><dc:creator>Ila Fiete</dc:creator><dc:creator>Mehrdad Jazayeri</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07737-x</dc:identifier>
+            <dc:source>Nature, Published online: 2024-07-04; | doi:10.1038/s41586-024-07737-x</dc:source>
+            <dc:date>2024-07-04</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07737-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07737-x</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07735-z">
             <title><![CDATA[Author Correction: A high-performance neuroprosthesis for speech decoding and avatar control]]></title>
@@ -192,6 +207,51 @@
             <prism:url>https://www.nature.com/articles/s41586-024-07735-z</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07738-w">
+            <title><![CDATA[Author Correction: The evolution of lung cancer and impact of subclonal selection in TRACERx]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07738-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 04 July 2024; <a href="https://www.nature.com/articles/s41586-024-07738-w">doi:10.1038/s41586-024-07738-w</a></p>Author Correction: The evolution of lung cancer and impact of subclonal selection in TRACERx]]></content:encoded>
+            <dc:title><![CDATA[Author Correction: The evolution of lung cancer and impact of subclonal selection in TRACERx]]></dc:title>
+            <dc:creator>Alexander M. Frankell</dc:creator><dc:creator>Michelle Dietzen</dc:creator><dc:creator>Maise Al Bakir</dc:creator><dc:creator>Emilia L. Lim</dc:creator><dc:creator>Takahiro Karasaki</dc:creator><dc:creator>Sophia Ward</dc:creator><dc:creator>Selvaraju Veeriah</dc:creator><dc:creator>Emma Colliver</dc:creator><dc:creator>Ariana Huebner</dc:creator><dc:creator>Abigail Bunkum</dc:creator><dc:creator>Mark S. Hill</dc:creator><dc:creator>Kristiana Grigoriadis</dc:creator><dc:creator>David A. Moore</dc:creator><dc:creator>James R. M. Black</dc:creator><dc:creator>Wing Kin Liu</dc:creator><dc:creator>Kerstin Thol</dc:creator><dc:creator>Oriol Pich</dc:creator><dc:creator>Thomas B. K. Watkins</dc:creator><dc:creator>Cristina Naceur-Lombardelli</dc:creator><dc:creator>Daniel E. Cook</dc:creator><dc:creator>Roberto Salgado</dc:creator><dc:creator>Gareth A. Wilson</dc:creator><dc:creator>Chris Bailey</dc:creator><dc:creator>Mihaela Angelova</dc:creator><dc:creator>Robert Bentham</dc:creator><dc:creator>Carlos Martínez-Ruiz</dc:creator><dc:creator>Christopher Abbosh</dc:creator><dc:creator>Andrew G. Nicholson</dc:creator><dc:creator>John Le Quesne</dc:creator><dc:creator>Dhruva Biswas</dc:creator><dc:creator>Rachel Rosenthal</dc:creator><dc:creator>Clare Puttick</dc:creator><dc:creator>Sonya Hessey</dc:creator><dc:creator>Claudia Lee</dc:creator><dc:creator>Paulina Prymas</dc:creator><dc:creator>Antonia Toncheva</dc:creator><dc:creator>Jon Smith</dc:creator><dc:creator>Wei Xing</dc:creator><dc:creator>Jerome Nicod</dc:creator><dc:creator>Gillian Price</dc:creator><dc:creator>Keith M. Kerr</dc:creator><dc:creator>Babu Naidu</dc:creator><dc:creator>Gary Middleton</dc:creator><dc:creator>Kevin G. Blyth</dc:creator><dc:creator>Dean A. Fennell</dc:creator><dc:creator>Martin D. Forster</dc:creator><dc:creator>Siow Ming Lee</dc:creator><dc:creator>Mary Falzon</dc:creator><dc:creator>Madeleine Hewish</dc:creator><dc:creator>Michael J. Shackcloth</dc:creator><dc:creator>Eric Lim</dc:creator><dc:creator>Sarah Benafif</dc:creator><dc:creator>Peter Russell</dc:creator><dc:creator>Ekaterini Boleti</dc:creator><dc:creator>Matthew G. Krebs</dc:creator><dc:creator>Jason F. Lester</dc:creator><dc:creator>Dionysis Papadatos-Pastos</dc:creator><dc:creator>Tanya Ahmad</dc:creator><dc:creator>Ricky M. Thakrar</dc:creator><dc:creator>David Lawrence</dc:creator><dc:creator>Neal Navani</dc:creator><dc:creator>Sam M. Janes</dc:creator><dc:creator>Caroline Dive</dc:creator><dc:creator>Fiona H. Blackhall</dc:creator><dc:creator>Yvonne Summers</dc:creator><dc:creator>Judith Cave</dc:creator><dc:creator>Teresa Marafioti</dc:creator><dc:creator>Javier Herrero</dc:creator><dc:creator>Sergio A. Quezada</dc:creator><dc:creator>Karl S. Peggs</dc:creator><dc:creator>Roland F. Schwarz</dc:creator><dc:creator>Peter Van Loo</dc:creator><dc:creator>Daniël M. Miedema</dc:creator><dc:creator>Nicolai J. Birkbak</dc:creator><dc:creator>Crispin T. Hiley</dc:creator><dc:creator>Allan Hackshaw</dc:creator><dc:creator>Simone Zaccaria</dc:creator><dc:creator>John Le Quesne</dc:creator><dc:creator>Peter Van Loo</dc:creator><dc:creator>Amrita Bajaj</dc:creator><dc:creator>Apostolos Nakas</dc:creator><dc:creator>Azmina Sodha-Ramdeen</dc:creator><dc:creator>Keng Ang</dc:creator><dc:creator>Mohamad Tufail</dc:creator><dc:creator>Mohammed Fiyaz Chowdhry</dc:creator><dc:creator>Molly Scotland</dc:creator><dc:creator>Rebecca Boyles</dc:creator><dc:creator>Sridhar Rathinam</dc:creator><dc:creator>Claire Wilson</dc:creator><dc:creator>Domenic Marrone</dc:creator><dc:creator>Sean Dulloo</dc:creator><dc:creator>Gurdeep Matharu</dc:creator><dc:creator>Jacqui A. Shaw</dc:creator><dc:creator>Joan Riley</dc:creator><dc:creator>Lindsay Primrose</dc:creator><dc:creator>Heather Cheyne</dc:creator><dc:creator>Mohammed Khalil</dc:creator><dc:creator>Shirley Richardson</dc:creator><dc:creator>Tracey Cruickshank</dc:creator><dc:creator>Kayleigh Gilbert</dc:creator><dc:creator>Akshay J. Patel</dc:creator><dc:creator>Aya Osman</dc:creator><dc:creator>Christer Lacson</dc:creator><dc:creator>Gerald Langman</dc:creator><dc:creator>Helen Shackleford</dc:creator><dc:creator>Madava Djearaman</dc:creator><dc:creator>Salma Kadiri</dc:creator><dc:creator>Angela Leek</dc:creator><dc:creator>Jack Davies Hodgkinson</dc:creator><dc:creator>Nicola Totten</dc:creator><dc:creator>Angeles Montero</dc:creator><dc:creator>Elaine Smith</dc:creator><dc:creator>Eustace Fontaine</dc:creator><dc:creator>Felice Granato</dc:creator><dc:creator>Helen Doran</dc:creator><dc:creator>Juliette Novasio</dc:creator><dc:creator>Kendadai Rammohan</dc:creator><dc:creator>Leena Joseph</dc:creator><dc:creator>Paul Bishop</dc:creator><dc:creator>Rajesh Shah</dc:creator><dc:creator>Stuart Moss</dc:creator><dc:creator>Vijay Joshi</dc:creator><dc:creator>Philip Crosbie</dc:creator><dc:creator>Fabio Gomes</dc:creator><dc:creator>Kate Brown</dc:creator><dc:creator>Mathew Carter</dc:creator><dc:creator>Anshuman Chaturvedi</dc:creator><dc:creator>Lynsey Priest</dc:creator><dc:creator>Pedro Oliveira</dc:creator><dc:creator>Colin R. Lindsay</dc:creator><dc:creator>Alexandra Clipson</dc:creator><dc:creator>Jonathan Tugwood</dc:creator><dc:creator>Alastair Kerr</dc:creator><dc:creator>Dominic G. Rothwell</dc:creator><dc:creator>Elaine Kilgour</dc:creator><dc:creator>Hugo J. W. L. Aerts</dc:creator><dc:creator>Tom L. Kaufmann</dc:creator><dc:creator>Zoltan Szallasi</dc:creator><dc:creator>Judit Kisistok</dc:creator><dc:creator>Mateo Sokac</dc:creator><dc:creator>Miklos Diossy</dc:creator><dc:creator>Jonas Demeulemeester</dc:creator><dc:creator>Aengus Stewart</dc:creator><dc:creator>Alastair Magness</dc:creator><dc:creator>Andrew Rowan</dc:creator><dc:creator>Angeliki Karamani</dc:creator><dc:creator>Benny Chain</dc:creator><dc:creator>Brittany B. Campbell</dc:creator><dc:creator>Carla Castignani</dc:creator><dc:creator>Clare E. Weeden</dc:creator><dc:creator>Corentin Richard</dc:creator><dc:creator>David R. Pearce</dc:creator><dc:creator>Despoina Karagianni</dc:creator><dc:creator>Dina Levi</dc:creator><dc:creator>Elena Hoxha</dc:creator><dc:creator>Elizabeth Larose Cadieux</dc:creator><dc:creator>Emma Nye</dc:creator><dc:creator>Eva Grönroos</dc:creator><dc:creator>Felip Gálvez-Cancino</dc:creator><dc:creator>Foteini Athanasopoulou</dc:creator><dc:creator>Francisco Gimeno-Valiente</dc:creator><dc:creator>George Kassiotis</dc:creator><dc:creator>Georgia Stavrou</dc:creator><dc:creator>Gerasimos Mastrokalos</dc:creator><dc:creator>Haoran Zhai</dc:creator><dc:creator>Helen L. Lowe</dc:creator><dc:creator>Ignacio Matos</dc:creator><dc:creator>Jacki Goldman</dc:creator><dc:creator>James L. Reading</dc:creator><dc:creator>Jayant K. Rane</dc:creator><dc:creator>Jie Min Lam</dc:creator><dc:creator>John A. Hartley</dc:creator><dc:creator>Katey S. S. Enfield</dc:creator><dc:creator>Kayalvizhi Selvaraju</dc:creator><dc:creator>Kevin Litchfield</dc:creator><dc:creator>Kevin W. Ng</dc:creator><dc:creator>Kezhong Chen</dc:creator><dc:creator>Krijn Dijkstra</dc:creator><dc:creator>Krupa Thakkar</dc:creator><dc:creator>Leah Ensell</dc:creator><dc:creator>Mansi Shah</dc:creator><dc:creator>Marcos Vasquez</dc:creator><dc:creator>Maria Litovchenko</dc:creator><dc:creator>Mariana Werner Sunderland</dc:creator><dc:creator>Michelle Leung</dc:creator><dc:creator>Mickael Escudero</dc:creator><dc:creator>Miljana Tanić</dc:creator><dc:creator>Monica Sivakumar</dc:creator><dc:creator>Nnennaya Kanu</dc:creator><dc:creator>Olga Chervova</dc:creator><dc:creator>Olivia Lucas</dc:creator><dc:creator>Othman Al-Sawaf</dc:creator><dc:creator>Philip Hobson</dc:creator><dc:creator>Piotr Pawlik</dc:creator><dc:creator>Richard Kevin Stone</dc:creator><dc:creator>Robert E. Hynds</dc:creator><dc:creator>Roberto Vendramin</dc:creator><dc:creator>Sadegh Saghafinia</dc:creator><dc:creator>Saioa López</dc:creator><dc:creator>Samuel Gamble</dc:creator><dc:creator>Seng Kuong Anakin Ung</dc:creator><dc:creator>Sharon Vanloo</dc:creator><dc:creator>Stefan Boeing</dc:creator><dc:creator>Stephan Beck</dc:creator><dc:creator>Supreet Kaur Bola</dc:creator><dc:creator>Tamara Denner</dc:creator><dc:creator>Thanos P. Mourikis</dc:creator><dc:creator>Victoria Spanswick</dc:creator><dc:creator>Vittorio Barbè</dc:creator><dc:creator>Wei-Ting Lu</dc:creator><dc:creator>William Hill</dc:creator><dc:creator>Yin Wu</dc:creator><dc:creator>Yutaka Naito</dc:creator><dc:creator>Zoe Ramsden</dc:creator><dc:creator>Catarina Veiga</dc:creator><dc:creator>Gary Royle</dc:creator><dc:creator>Charles-Antoine Collins-Fekete</dc:creator><dc:creator>Francesco Fraioli</dc:creator><dc:creator>Paul Ashford</dc:creator><dc:creator>Tristan Clark</dc:creator><dc:creator>Elaine Borg</dc:creator><dc:creator>James Wilson</dc:creator><dc:creator>Alexander James Procter</dc:creator><dc:creator>Asia Ahmed</dc:creator><dc:creator>Magali N. Taylor</dc:creator><dc:creator>Arjun Nair</dc:creator><dc:creator>Davide Patrini</dc:creator><dc:creator>Emilie Martinoni Hoogenboom</dc:creator><dc:creator>Fleur Monk</dc:creator><dc:creator>James W. Holding</dc:creator><dc:creator>Junaid Choudhary</dc:creator><dc:creator>Kunal Bhakhri</dc:creator><dc:creator>Marco Scarci</dc:creator><dc:creator>Martin Hayward</dc:creator><dc:creator>Nikolaos Panagiotopoulos</dc:creator><dc:creator>Pat Gorman</dc:creator><dc:creator>Reena Khiroya</dc:creator><dc:creator>Robert CM. Stephens</dc:creator><dc:creator>Yien Ning Sophia Wong</dc:creator><dc:creator>Steve Bandula</dc:creator><dc:creator>Abigail Sharp</dc:creator><dc:creator>Sean Smith</dc:creator><dc:creator>Nicole Gower</dc:creator><dc:creator>Harjot Kaur Dhanda</dc:creator><dc:creator>Kitty Chan</dc:creator><dc:creator>Camilla Pilotti</dc:creator><dc:creator>Rachel Leslie</dc:creator><dc:creator>Anca Grapa</dc:creator><dc:creator>Hanyun Zhang</dc:creator><dc:creator>Khalid AbdulJabbar</dc:creator><dc:creator>Xiaoxi Pan</dc:creator><dc:creator>Yinyin Yuan</dc:creator><dc:creator>David Chuter</dc:creator><dc:creator>Mairead MacKenzie</dc:creator><dc:creator>Serena Chee</dc:creator><dc:creator>Aiman Alzetani</dc:creator><dc:creator>Lydia Scarlett</dc:creator><dc:creator>Jennifer Richards</dc:creator><dc:creator>Papawadee Ingram</dc:creator><dc:creator>Silvia Austin</dc:creator><dc:creator>Paulo De Sousa</dc:creator><dc:creator>Simon Jordan</dc:creator><dc:creator>Alexandra Rice</dc:creator><dc:creator>Hilgardt Raubenheimer</dc:creator><dc:creator>Harshil Bhayani</dc:creator><dc:creator>Lyn Ambrose</dc:creator><dc:creator>Anand Devaraj</dc:creator><dc:creator>Hema Chavan</dc:creator><dc:creator>Sofina Begum</dc:creator><dc:creator>Silviu I. Buderi</dc:creator><dc:creator>Daniel Kaniu</dc:creator><dc:creator>Mpho Malima</dc:creator><dc:creator>Sarah Booth</dc:creator><dc:creator>Nadia Fernandes</dc:creator><dc:creator>Pratibha Shah</dc:creator><dc:creator>Chiara Proli</dc:creator><dc:creator>Sarah Danson</dc:creator><dc:creator>Lily Robinson</dc:creator><dc:creator>Craig Dick</dc:creator><dc:creator>Alan Kirk</dc:creator><dc:creator>Mo Asif</dc:creator><dc:creator>Rocco Bilancia</dc:creator><dc:creator>Nikos Kostoulas</dc:creator><dc:creator>Mathew Thomas</dc:creator><dc:creator>Mariam Jamal-Hanjani</dc:creator><dc:creator>Nicholas McGranahan</dc:creator><dc:creator>Charles Swanton</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07738-w</dc:identifier>
+            <dc:source>Nature, Published online: 2024-07-04; | doi:10.1038/s41586-024-07738-w</dc:source>
+            <dc:date>2024-07-04</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07738-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07738-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02212-z">
+            <title><![CDATA[Faecal transplants can treat some cancers — but probably won’t ever be widely used]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02212-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 04 July 2024; <a href="https://www.nature.com/articles/d41586-024-02212-z">doi:10.1038/d41586-024-02212-z</a></p>Gut microbiota could be crucial to the success or failure of immunotherapy. Donated stool might give oncologists a way to tip the balance, but the real excitement lies in what comes next.]]></content:encoded>
+            <dc:title><![CDATA[Faecal transplants can treat some cancers — but probably won’t ever be widely used]]></dc:title>
+            <dc:creator>Liam Drew</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02212-z</dc:identifier>
+            <dc:source>Nature, Published online: 2024-07-04; | doi:10.1038/d41586-024-02212-z</dc:source>
+            <dc:date>2024-07-04</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02212-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02212-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02210-1">
+            <title><![CDATA[‘Chemical recycling’: 15-minute reaction turns old clothes into useful molecules]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02210-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 04 July 2024; <a href="https://www.nature.com/articles/d41586-024-02210-1">doi:10.1038/d41586-024-02210-1</a></p>Fast fashion creates millions of tonnes of waste each year — could clever chemistry help to tackle the problem?]]></content:encoded>
+            <dc:title><![CDATA[‘Chemical recycling’: 15-minute reaction turns old clothes into useful molecules]]></dc:title>
+            <dc:creator>Helena Kudiabor</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02210-1</dc:identifier>
+            <dc:source>Nature, Published online: 2024-07-04; | doi:10.1038/d41586-024-02210-1</dc:source>
+            <dc:date>2024-07-04</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02210-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02210-1</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-024-02211-0">
             <title><![CDATA[‘All things that wander in the heavens’: how I swapped my ivory tower for the world of science fiction]]></title>
             <link>https://www.nature.com/articles/d41586-024-02211-0</link>
@@ -205,6 +265,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-02211-0</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-02211-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02197-9">
+            <title><![CDATA[Give UK science the overhaul it urgently needs]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02197-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 04 July 2024; <a href="https://www.nature.com/articles/d41586-024-02197-9">doi:10.1038/d41586-024-02197-9</a></p>Five scholars share their science-policy priorities for the incoming government as it faces urgent challenges in tackling climate change, health, inequality and more.]]></content:encoded>
+            <dc:title><![CDATA[Give UK science the overhaul it urgently needs]]></dc:title>
+            <dc:creator>Marie Claire   Brisbois</dc:creator><dc:creator>Furaha  Asani</dc:creator><dc:creator>Jon  Agar</dc:creator><dc:creator>Yacine   Rezgui</dc:creator><dc:creator>Maria  Nedeva</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02197-9</dc:identifier>
+            <dc:source>Nature, Published online: 2024-07-04; | doi:10.1038/d41586-024-02197-9</dc:source>
+            <dc:date>2024-07-04</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02197-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02197-9</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-00942-8">
@@ -792,6 +867,21 @@
             <prism:url>https://www.nature.com/articles/d41586-024-02171-5</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02216-9">
+            <title><![CDATA[Daily briefing: Western scientists get rejected papers published faster]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02216-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 03 July 2024; <a href="https://www.nature.com/articles/d41586-024-02216-9">doi:10.1038/d41586-024-02216-9</a></p>Authors in Western countries are almost 6% more likely than those based in other parts of the world to successfully publish a paper after it has been rejected. Plus, why cancer risk declines sharply in old age and RNA-based pesticides promise precision killing.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Western scientists get rejected papers published faster]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02216-9</dc:identifier>
+            <dc:source>Nature, Published online: 2024-07-03; | doi:10.1038/d41586-024-02216-9</dc:source>
+            <dc:date>2024-07-03</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02216-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02216-9</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-024-02094-1">
             <title><![CDATA[Blueprints for ATP machinery will aid tuberculosis drug design]]></title>
             <link>https://www.nature.com/articles/d41586-024-02094-1</link>
@@ -1210,96 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-02099-w</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-02099-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-02003-6">
-            <title><![CDATA[Five new ways to catch gravitational waves — and the secrets they’ll reveal]]></title>
-            <link>https://www.nature.com/articles/d41586-024-02003-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 27 June 2024; <a href="https://www.nature.com/articles/d41586-024-02003-6">doi:10.1038/d41586-024-02003-6</a></p>Observatories, experiments and techniques are being developed to spot ripples in space-time at frequencies that currently can’t be detected.]]></content:encoded>
-            <dc:title><![CDATA[Five new ways to catch gravitational waves — and the secrets they’ll reveal]]></dc:title>
-            <dc:creator>Davide Castelvecchi</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-02003-6</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-27; | doi:10.1038/d41586-024-02003-6</dc:source>
-            <dc:date>2024-06-27</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-02003-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-02003-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-02148-4">
-            <title><![CDATA[Daily briefing: How this lab became one of the most successful in the world]]></title>
-            <link>https://www.nature.com/articles/d41586-024-02148-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 27 June 2024; <a href="https://www.nature.com/articles/d41586-024-02148-4">doi:10.1038/d41586-024-02148-4</a></p>Study reveals secrets of Cambridge’s Laboratory of Molecular Biology. Plus, the first 3D-model brains with cells from several people and five new ways to catch gravitational waves.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: How this lab became one of the most successful in the world]]></dc:title>
-            <dc:creator>Katrina Krämer</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-02148-4</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-27; | doi:10.1038/d41586-024-02148-4</dc:source>
-            <dc:date>2024-06-27</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-02148-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-02148-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-02115-z">
-            <title><![CDATA[‘Epigenome editor’ silences gene that causes deadly brain disorders]]></title>
-            <link>https://www.nature.com/articles/d41586-024-02115-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 27 June 2024; <a href="https://www.nature.com/articles/d41586-024-02115-z">doi:10.1038/d41586-024-02115-z</a></p>Prion diseases are caused by misfolded proteins, but a new tool can stop them forming in mice.]]></content:encoded>
-            <dc:title><![CDATA[‘Epigenome editor’ silences gene that causes deadly brain disorders]]></dc:title>
-            <dc:creator>Gemma Conroy</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-02115-z</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-27; | doi:10.1038/d41586-024-02115-z</dc:source>
-            <dc:date>2024-06-27</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-02115-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-02115-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-02106-0">
-            <title><![CDATA[How blockbuster obesity drugs create a full feeling — even before one bite of food]]></title>
-            <link>https://www.nature.com/articles/d41586-024-02106-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 27 June 2024; <a href="https://www.nature.com/articles/d41586-024-02106-0">doi:10.1038/d41586-024-02106-0</a></p>Scientists identify brain area harbouring two groups of neurons: one for pre-meal sensations of fullness, and one for post-meal satiety.]]></content:encoded>
-            <dc:title><![CDATA[How blockbuster obesity drugs create a full feeling — even before one bite of food]]></dc:title>
-            <dc:creator>Mariana Lenharo</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-02106-0</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-27; | doi:10.1038/d41586-024-02106-0</dc:source>
-            <dc:date>2024-06-27</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-02106-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-02106-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-02141-x">
-            <title><![CDATA[No CRISPR: oddball ‘jumping gene’ enzyme edits genomes without breaking DNA]]></title>
-            <link>https://www.nature.com/articles/d41586-024-02141-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 27 June 2024; <a href="https://www.nature.com/articles/d41586-024-02141-x">doi:10.1038/d41586-024-02141-x</a></p>A programmable RNA that bridges a genetic donor and a target could herald a safer and more flexible approach to large-scale chromosome changes.]]></content:encoded>
-            <dc:title><![CDATA[No CRISPR: oddball ‘jumping gene’ enzyme edits genomes without breaking DNA]]></dc:title>
-            <dc:creator>Heidi Ledford</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-02141-x</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-27; | doi:10.1038/d41586-024-02141-x</dc:source>
-            <dc:date>2024-06-27</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-02141-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-02141-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-02127-9">
-            <title><![CDATA[Ketamine for depression: slow-release pills could make treatment more accessible]]></title>
-            <link>https://www.nature.com/articles/d41586-024-02127-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 27 June 2024; <a href="https://www.nature.com/articles/d41586-024-02127-9">doi:10.1038/d41586-024-02127-9</a></p>A ketamine-containing tablet could be a convenient alternative to intravenous treatments, with fewer unpleasant side effects.]]></content:encoded>
-            <dc:title><![CDATA[Ketamine for depression: slow-release pills could make treatment more accessible]]></dc:title>
-            <dc:creator>Helena Kudiabor</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-02127-9</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-27; | doi:10.1038/d41586-024-02127-9</dc:source>
-            <dc:date>2024-06-27</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-02127-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-02127-9</prism:url>
         </item>
     
 </rdf:RDF>
