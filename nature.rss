@@ -18,6 +18,10 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02226-7"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02205-y"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02220-z"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02222-x"/>
@@ -164,10 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02172-4"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02147-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02121-1"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,36 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02226-7">
+            <title><![CDATA[How conspiracies took root in our culture]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02226-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 July 2024; <a href="https://www.nature.com/articles/d41586-024-02226-7">doi:10.1038/d41586-024-02226-7</a></p>UFO hunters and anti-vaxxers might seem like modern phenomena, but they both take inspiration from a little-known anti-science movement.]]></content:encoded>
+            <dc:title><![CDATA[How conspiracies took root in our culture]]></dc:title>
+            <dc:creator>Michael  Shermer</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02226-7</dc:identifier>
+            <dc:source>Nature, Published online: 2024-07-08; | doi:10.1038/d41586-024-02226-7</dc:source>
+            <dc:date>2024-07-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02226-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02226-7</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02205-y">
+            <title><![CDATA[Harrowing trends: how endangered-species researchers find hope in the dark]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02205-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 July 2024; <a href="https://www.nature.com/articles/d41586-024-02205-y">doi:10.1038/d41586-024-02205-y</a></p>When data collection can be damaging, conservation scientists must balance ethical trade-offs between interference and inaction.]]></content:encoded>
+            <dc:title><![CDATA[Harrowing trends: how endangered-species researchers find hope in the dark]]></dc:title>
+            <dc:creator>Nikki Forrester</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02205-y</dc:identifier>
+            <dc:source>Nature, Published online: 2024-07-08; | doi:10.1038/d41586-024-02205-y</dc:source>
+            <dc:date>2024-07-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02205-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02205-y</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-02220-z">
             <title><![CDATA[Blooming plants and sunken cities, Books in brief]]></title>
@@ -1270,36 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-02172-4</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-02172-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-02147-5">
-            <title><![CDATA[Audio long read: How NASA astronauts are training to walk on the Moon in 2026]]></title>
-            <link>https://www.nature.com/articles/d41586-024-02147-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 28 June 2024; <a href="https://www.nature.com/articles/d41586-024-02147-5">doi:10.1038/d41586-024-02147-5</a></p>NASA astronauts have been performing simulated lunar exploration in Arizona to help prepare them for doing geology at the Moon's south pole.]]></content:encoded>
-            <dc:title><![CDATA[Audio long read: How NASA astronauts are training to walk on the Moon in 2026]]></dc:title>
-            <dc:creator>Alexandra Witze</dc:creator><dc:creator>Benjamin Thompson</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-02147-5</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-28; | doi:10.1038/d41586-024-02147-5</dc:source>
-            <dc:date>2024-06-28</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-02147-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-02147-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-02121-1">
-            <title><![CDATA[Combined COVID–flu vaccines are coming: Moderna jab clears major test]]></title>
-            <link>https://www.nature.com/articles/d41586-024-02121-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 28 June 2024; <a href="https://www.nature.com/articles/d41586-024-02121-1">doi:10.1038/d41586-024-02121-1</a></p>First large trial suggests mRNA drug gives better protection from SARS-CoV-2 and influenza viruses than single-target shots.]]></content:encoded>
-            <dc:title><![CDATA[Combined COVID–flu vaccines are coming: Moderna jab clears major test]]></dc:title>
-            <dc:creator>Freda Kreier</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-02121-1</dc:identifier>
-            <dc:source>Nature, Published online: 2024-06-28; | doi:10.1038/d41586-024-02121-1</dc:source>
-            <dc:date>2024-06-28</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-02121-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-02121-1</prism:url>
         </item>
     
 </rdf:RDF>
