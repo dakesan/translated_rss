@@ -18,6 +18,26 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07760-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07766-6"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07764-8"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02228-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02203-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02260-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02218-7"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02247-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02261-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02214-x"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02226-7"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02205-y"/>
@@ -37,6 +57,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07735-z"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07738-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02240-9"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02212-z"/>
                 
@@ -146,28 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02186-y"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02184-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02144-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02142-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02107-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02140-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02183-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02169-z"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02153-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02126-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02157-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02172-4"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,156 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07760-y">
+            <title><![CDATA[Hydrogen sulfide and metal-enriched atmosphere for a Jupiter-mass exoplanet]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07760-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 July 2024; <a href="https://www.nature.com/articles/s41586-024-07760-y">doi:10.1038/s41586-024-07760-y</a></p>Hydrogen sulfide and metal-enriched atmosphere for a Jupiter-mass exoplanet]]></content:encoded>
+            <dc:title><![CDATA[Hydrogen sulfide and metal-enriched atmosphere for a Jupiter-mass exoplanet]]></dc:title>
+            <dc:creator>Guangwei Fu</dc:creator><dc:creator>Luis Welbanks</dc:creator><dc:creator>Drake Deming</dc:creator><dc:creator>Julie Inglis</dc:creator><dc:creator>Michael Zhang</dc:creator><dc:creator>Joshua Lothringer</dc:creator><dc:creator>Jegug Ih</dc:creator><dc:creator>Julianne I. Moses</dc:creator><dc:creator>Everett Schlawin</dc:creator><dc:creator>Heather A. Knutson</dc:creator><dc:creator>Gregory Henry</dc:creator><dc:creator>Thomas Greene</dc:creator><dc:creator>David K. Sing</dc:creator><dc:creator>Arjun B. Savel</dc:creator><dc:creator>Eliza M.-R. Kempton</dc:creator><dc:creator>Dana R. Louie</dc:creator><dc:creator>Michael Line</dc:creator><dc:creator>Matt Nixon</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07760-y</dc:identifier>
+            <dc:source>Nature, Published online: 2024-07-08; | doi:10.1038/s41586-024-07760-y</dc:source>
+            <dc:date>2024-07-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07760-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07760-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07766-6">
+            <title><![CDATA[Pathogenicity and transmissibility of bovine H5N1 influenza virus]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07766-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 July 2024; <a href="https://www.nature.com/articles/s41586-024-07766-6">doi:10.1038/s41586-024-07766-6</a></p>Pathogenicity and transmissibility of bovine H5N1 influenza virus]]></content:encoded>
+            <dc:title><![CDATA[Pathogenicity and transmissibility of bovine H5N1 influenza virus]]></dc:title>
+            <dc:creator>Amie J. Eisfeld</dc:creator><dc:creator>Asim Biswas</dc:creator><dc:creator>Lizheng Guan</dc:creator><dc:creator>Chunyang Gu</dc:creator><dc:creator>Tadashi Maemura</dc:creator><dc:creator>Sanja Trifkovic</dc:creator><dc:creator>Tong Wang</dc:creator><dc:creator>Lavanya Babujee</dc:creator><dc:creator>Randall Dahn</dc:creator><dc:creator>Peter J. Halfmann</dc:creator><dc:creator>Tera Barnhardt</dc:creator><dc:creator>Gabriele Neumann</dc:creator><dc:creator>Yasuo Suzuki</dc:creator><dc:creator>Alexis Thompson</dc:creator><dc:creator>Amy K. Swinford</dc:creator><dc:creator>Kiril M. Dimitrov</dc:creator><dc:creator>Keith Poulsen</dc:creator><dc:creator>Yoshihiro Kawaoka</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07766-6</dc:identifier>
+            <dc:source>Nature, Published online: 2024-07-08; | doi:10.1038/s41586-024-07766-6</dc:source>
+            <dc:date>2024-07-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07766-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07766-6</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07764-8">
+            <title><![CDATA[Two-dimensional Perovskitoids Enhance Stability in Perovskite Solar Cells]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07764-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 July 2024; <a href="https://www.nature.com/articles/s41586-024-07764-8">doi:10.1038/s41586-024-07764-8</a></p>Two-dimensional Perovskitoids Enhance Stability in Perovskite Solar Cells]]></content:encoded>
+            <dc:title><![CDATA[Two-dimensional Perovskitoids Enhance Stability in Perovskite Solar Cells]]></dc:title>
+            <dc:creator>Cheng Liu</dc:creator><dc:creator>Yi Yang</dc:creator><dc:creator>Hao Chen</dc:creator><dc:creator>Ioannis Spanopoulos</dc:creator><dc:creator>Abdulaziz S. R. Bati</dc:creator><dc:creator>Isaiah W. Gilley</dc:creator><dc:creator>Jianhua Chen</dc:creator><dc:creator>Aidan Maxwell</dc:creator><dc:creator>Badri Vishal</dc:creator><dc:creator>Robert P. Reynolds</dc:creator><dc:creator>Taylor E. Wiggins</dc:creator><dc:creator>Zaiwei Wang</dc:creator><dc:creator>Chuying Huang</dc:creator><dc:creator>Jared Fletcher</dc:creator><dc:creator>Yuan Liu</dc:creator><dc:creator>Lin X. Chen</dc:creator><dc:creator>Stefaan De Wolf</dc:creator><dc:creator>Bin Chen</dc:creator><dc:creator>Ding Zheng</dc:creator><dc:creator>Tobin J. Marks</dc:creator><dc:creator>Antonio Facchetti</dc:creator><dc:creator>Edward H. Sargent</dc:creator><dc:creator>Mercouri G. Kanatzidis</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07764-8</dc:identifier>
+            <dc:source>Nature, Published online: 2024-07-08; | doi:10.1038/s41586-024-07764-8</dc:source>
+            <dc:date>2024-07-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07764-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07764-8</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02228-5">
+            <title><![CDATA[Why I work to revive the Tasmanian tiger]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02228-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 July 2024; <a href="https://www.nature.com/articles/d41586-024-02228-5">doi:10.1038/d41586-024-02228-5</a></p>Andrew Pask develops genetic sequencing techniques for marsupials — including an apex predator that was hunted to death in the twentieth century.]]></content:encoded>
+            <dc:title><![CDATA[Why I work to revive the Tasmanian tiger]]></dc:title>
+            <dc:creator>Margaret  Simons</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02228-5</dc:identifier>
+            <dc:source>Nature, Published online: 2024-07-08; | doi:10.1038/d41586-024-02228-5</dc:source>
+            <dc:date>2024-07-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02228-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02228-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02203-0">
+            <title><![CDATA[How can I break into industry if my CV keeps disappearing into a black hole?]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02203-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 July 2024; <a href="https://www.nature.com/articles/d41586-024-02203-0">doi:10.1038/d41586-024-02203-0</a></p>An application needs to stand out from the crowd and avoid being filtered out by automated hiring systems. Nature spoke to industry experts to get their tips on how to make sure your CV gets seen.]]></content:encoded>
+            <dc:title><![CDATA[How can I break into industry if my CV keeps disappearing into a black hole?]]></dc:title>
+            <dc:creator>Miles Lizak</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02203-0</dc:identifier>
+            <dc:source>Nature, Published online: 2024-07-08; | doi:10.1038/d41586-024-02203-0</dc:source>
+            <dc:date>2024-07-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02203-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02203-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02260-5">
+            <title><![CDATA[Scientists relieved by far-right defeat in French election — but they still face uncertainty]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02260-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 July 2024; <a href="https://www.nature.com/articles/d41586-024-02260-5">doi:10.1038/d41586-024-02260-5</a></p>With no party winning an outright majority, the vote’s implications for research are unclear.]]></content:encoded>
+            <dc:title><![CDATA[Scientists relieved by far-right defeat in French election — but they still face uncertainty]]></dc:title>
+            <dc:creator>Barbara Casassus</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02260-5</dc:identifier>
+            <dc:source>Nature, Published online: 2024-07-08; | doi:10.1038/d41586-024-02260-5</dc:source>
+            <dc:date>2024-07-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02260-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02260-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02218-7">
+            <title><![CDATA[Can AI be superhuman? Flaws in top gaming bot cast doubt]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02218-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 July 2024; <a href="https://www.nature.com/articles/d41586-024-02218-7">doi:10.1038/d41586-024-02218-7</a></p>Building robust AI systems that always outperform people might be harder than thought, say researchers who studied Go-playing bots.]]></content:encoded>
+            <dc:title><![CDATA[Can AI be superhuman? Flaws in top gaming bot cast doubt]]></dc:title>
+            <dc:creator>Matthew Hutson</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02218-7</dc:identifier>
+            <dc:source>Nature, Published online: 2024-07-08; | doi:10.1038/d41586-024-02218-7</dc:source>
+            <dc:date>2024-07-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02218-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02218-7</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02247-2">
+            <title><![CDATA[ITER delay: what it means for nuclear fusion]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02247-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 July 2024; <a href="https://www.nature.com/articles/d41586-024-02247-2">doi:10.1038/d41586-024-02247-2</a></p>The world’s biggest fusion-energy experiment is likely to be beaten to its goals by other projects — but the massive reactor still has value, say scientists.]]></content:encoded>
+            <dc:title><![CDATA[ITER delay: what it means for nuclear fusion]]></dc:title>
+            <dc:creator>Elizabeth Gibney</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02247-2</dc:identifier>
+            <dc:source>Nature, Published online: 2024-07-08; | doi:10.1038/d41586-024-02247-2</dc:source>
+            <dc:date>2024-07-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02247-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02247-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02261-4">
+            <title><![CDATA[COVID tsar Patrick Vallance appointed UK science minister]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02261-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 July 2024; <a href="https://www.nature.com/articles/d41586-024-02261-4">doi:10.1038/d41586-024-02261-4</a></p>Labour Prime Minister Keir Starmer has placed several experts who aren’t politicians into government posts.]]></content:encoded>
+            <dc:title><![CDATA[COVID tsar Patrick Vallance appointed UK science minister]]></dc:title>
+            <dc:creator>Elizabeth Gibney</dc:creator><dc:creator>Sarah Wild</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02261-4</dc:identifier>
+            <dc:source>Nature, Published online: 2024-07-08; | doi:10.1038/d41586-024-02261-4</dc:source>
+            <dc:date>2024-07-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02261-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02261-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02214-x">
+            <title><![CDATA[Ex-Meta scientists debut gigantic AI protein design model]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02214-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 08 July 2024; <a href="https://www.nature.com/articles/d41586-024-02214-x">doi:10.1038/d41586-024-02214-x</a></p>EvolutionaryScale’s protein language model — among the largest AI models in biology — has created new fluorescent proteins and won big investment.]]></content:encoded>
+            <dc:title><![CDATA[Ex-Meta scientists debut gigantic AI protein design model]]></dc:title>
+            <dc:creator>Ewen Callaway</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02214-x</dc:identifier>
+            <dc:source>Nature, Published online: 2024-07-08; | doi:10.1038/d41586-024-02214-x</dc:source>
+            <dc:date>2024-07-08</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02214-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02214-x</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-02226-7">
             <title><![CDATA[How conspiracies took root in our culture]]></title>
@@ -325,6 +475,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/s41586-024-07738-w</prism:doi>
             <prism:url>https://www.nature.com/articles/s41586-024-07738-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02240-9">
+            <title><![CDATA[Daily briefing: Heavy-lift rocket restores Europe’s access to space]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02240-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 04 July 2024; <a href="https://www.nature.com/articles/d41586-024-02240-9">doi:10.1038/d41586-024-02240-9</a></p>After years of delays, Europe’s heavy-lift launcher Ariane 6 is scheduled for an inaugural flight next week. Plus, mysterious ancient humans hunted hyenas to thrive on top of the world and how individual brain cells encode the meaning of words.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Heavy-lift rocket restores Europe’s access to space]]></dc:title>
+            <dc:creator>Katrina Krämer</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02240-9</dc:identifier>
+            <dc:source>Nature, Published online: 2024-07-04; | doi:10.1038/d41586-024-02240-9</dc:source>
+            <dc:date>2024-07-04</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02240-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02240-9</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-02212-z">
@@ -1135,171 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-02186-y</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-02186-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-02184-0">
-            <title><![CDATA[Did the diarist who chronicled the Great Fire of London make up a scientific instrument?]]></title>
-            <link>https://www.nature.com/articles/d41586-024-02184-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 02 July 2024; <a href="https://www.nature.com/articles/d41586-024-02184-0">doi:10.1038/d41586-024-02184-0</a></p>The mention of a ‘scotoscope’ in Samuel Pepys’s diary is a subject of scrutiny, and Americans satiate British oyster lovers, in the weekly dip into Nature’s archive.]]></content:encoded>
-            <dc:title><![CDATA[Did the diarist who chronicled the Great Fire of London make up a scientific instrument?]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-02184-0</dc:identifier>
-            <dc:source>Nature, Published online: 2024-07-02; | doi:10.1038/d41586-024-02184-0</dc:source>
-            <dc:date>2024-07-02</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-02184-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-02184-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-02144-8">
-            <title><![CDATA[How Rwandan paediatrician Agnes Binagwaho fights racial stereotypes in global health]]></title>
-            <link>https://www.nature.com/articles/d41586-024-02144-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 02 July 2024; <a href="https://www.nature.com/articles/d41586-024-02144-8">doi:10.1038/d41586-024-02144-8</a></p>The former health minister talks about her push to transform health equity in Rwanda and calls out the concept of Western supremacy.]]></content:encoded>
-            <dc:title><![CDATA[How Rwandan paediatrician Agnes Binagwaho fights racial stereotypes in global health]]></dc:title>
-            <dc:creator>Abdullahi Tsanni</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-02144-8</dc:identifier>
-            <dc:source>Nature, Published online: 2024-07-02; | doi:10.1038/d41586-024-02144-8</dc:source>
-            <dc:date>2024-07-02</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-02144-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-02144-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-02142-w">
-            <title><![CDATA[Western scientists more likely to get rejected papers published — and do it faster]]></title>
-            <link>https://www.nature.com/articles/d41586-024-02142-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 02 July 2024; <a href="https://www.nature.com/articles/d41586-024-02142-w">doi:10.1038/d41586-024-02142-w</a></p>Authors from Western countries navigate the peer-review system more successfully than those from other nations, literature-tracking study suggests.]]></content:encoded>
-            <dc:title><![CDATA[Western scientists more likely to get rejected papers published — and do it faster]]></dc:title>
-            <dc:creator>David Adam</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-02142-w</dc:identifier>
-            <dc:source>Nature, Published online: 2024-07-02; | doi:10.1038/d41586-024-02142-w</dc:source>
-            <dc:date>2024-07-02</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-02142-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-02142-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-02107-z">
-            <title><![CDATA[Why cancer risk declines sharply in old age]]></title>
-            <link>https://www.nature.com/articles/d41586-024-02107-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 02 July 2024; <a href="https://www.nature.com/articles/d41586-024-02107-z">doi:10.1038/d41586-024-02107-z</a></p>New research identifies some of the genes that could help to explain why lung cancer incidence rises with age but declines after the age of 75.]]></content:encoded>
-            <dc:title><![CDATA[Why cancer risk declines sharply in old age]]></dc:title>
-            <dc:creator>Heidi Ledford</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-02107-z</dc:identifier>
-            <dc:source>Nature, Published online: 2024-07-02; | doi:10.1038/d41586-024-02107-z</dc:source>
-            <dc:date>2024-07-02</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-02107-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-02107-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-02140-y">
-            <title><![CDATA[Spy on millions of sleeping butterflies and more — June’s best science images]]></title>
-            <link>https://www.nature.com/articles/d41586-024-02140-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 02 July 2024; <a href="https://www.nature.com/articles/d41586-024-02140-y">doi:10.1038/d41586-024-02140-y</a></p>The month’s sharpest science shots, selected by Nature’s photo team.]]></content:encoded>
-            <dc:title><![CDATA[Spy on millions of sleeping butterflies and more — June’s best science images]]></dc:title>
-            <dc:creator>Emma Stoye</dc:creator><dc:creator>Helena Kudiabor</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-02140-y</dc:identifier>
-            <dc:source>Nature, Published online: 2024-07-02; | doi:10.1038/d41586-024-02140-y</dc:source>
-            <dc:date>2024-07-02</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-02140-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-02140-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-02183-1">
-            <title><![CDATA[Climate change is worsening the housing crisis — we must tackle the two together]]></title>
-            <link>https://www.nature.com/articles/d41586-024-02183-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 02 July 2024; <a href="https://www.nature.com/articles/d41586-024-02183-1">doi:10.1038/d41586-024-02183-1</a></p>Thousands of people are being displaced across the Arctic. Governments must listen to Indigenous and local communities and act on their advice.]]></content:encoded>
-            <dc:title><![CDATA[Climate change is worsening the housing crisis — we must tackle the two together]]></dc:title>
-            <dc:creator>Julia Christensen</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-02183-1</dc:identifier>
-            <dc:source>Nature, Published online: 2024-07-02; | doi:10.1038/d41586-024-02183-1</dc:source>
-            <dc:date>2024-07-02</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-02183-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-02183-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-02169-z">
-            <title><![CDATA[UK election: three research priorities for the next government]]></title>
-            <link>https://www.nature.com/articles/d41586-024-02169-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 02 July 2024; <a href="https://www.nature.com/articles/d41586-024-02169-z">doi:10.1038/d41586-024-02169-z</a></p>Ministers must take a global view of science, address a growing crisis in university finances and put a stop to interference in research autonomy.]]></content:encoded>
-            <dc:title><![CDATA[UK election: three research priorities for the next government]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-02169-z</dc:identifier>
-            <dc:source>Nature, Published online: 2024-07-02; | doi:10.1038/d41586-024-02169-z</dc:source>
-            <dc:date>2024-07-02</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-02169-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-02169-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-02153-7">
-            <title><![CDATA[Neuroscientists must not be afraid to study religion]]></title>
-            <link>https://www.nature.com/articles/d41586-024-02153-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 02 July 2024; <a href="https://www.nature.com/articles/d41586-024-02153-7">doi:10.1038/d41586-024-02153-7</a></p>Scientists interested in the brain have tended to avoid studying religion or spirituality for fear of being seen as unscientific. That needs to change.]]></content:encoded>
-            <dc:title><![CDATA[Neuroscientists must not be afraid to study religion]]></dc:title>
-            <dc:creator>Patrick McNamara</dc:creator><dc:creator>William Newsome</dc:creator><dc:creator>Brie Linkenhoker</dc:creator><dc:creator>Jordan Grafman</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-02153-7</dc:identifier>
-            <dc:source>Nature, Published online: 2024-07-02; | doi:10.1038/d41586-024-02153-7</dc:source>
-            <dc:date>2024-07-02</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-02153-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-02153-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-02126-w">
-            <title><![CDATA[What drives mosquitoes’ bloodlust? Their hormones]]></title>
-            <link>https://www.nature.com/articles/d41586-024-02126-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 01 July 2024; <a href="https://www.nature.com/articles/d41586-024-02126-w">doi:10.1038/d41586-024-02126-w</a></p>One hormone seems to boost the insects’ thirst for a blood meal, and another shuts it down.]]></content:encoded>
-            <dc:title><![CDATA[What drives mosquitoes’ bloodlust? Their hormones]]></dc:title>
-            <dc:creator>Gemma Conroy</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-02126-w</dc:identifier>
-            <dc:source>Nature, Published online: 2024-07-01; | doi:10.1038/d41586-024-02126-w</dc:source>
-            <dc:date>2024-07-01</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-02126-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-02126-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-02157-3">
-            <title><![CDATA[Bionic leg moves like a natural limb — without conscious thought]]></title>
-            <link>https://www.nature.com/articles/d41586-024-02157-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 01 July 2024; <a href="https://www.nature.com/articles/d41586-024-02157-3">doi:10.1038/d41586-024-02157-3</a></p>Computer interface links signals from the brain to an artificial limb, giving the wearer better balance, flexibility and speed.]]></content:encoded>
-            <dc:title><![CDATA[Bionic leg moves like a natural limb — without conscious thought]]></dc:title>
-            <dc:creator>Miryam Naddaf</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-02157-3</dc:identifier>
-            <dc:source>Nature, Published online: 2024-07-01; | doi:10.1038/d41586-024-02157-3</dc:source>
-            <dc:date>2024-07-01</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-02157-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-02157-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-02172-4">
-            <title><![CDATA[Daily briefing: See a smiling face made of living human skin cells]]></title>
-            <link>https://www.nature.com/articles/d41586-024-02172-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 01 July 2024; <a href="https://www.nature.com/articles/d41586-024-02172-4">doi:10.1038/d41586-024-02172-4</a></p>A robotic face is made from living human skin cells anchored to a ‘skeleton’ with ligament-like structures. Plus, massive old stars reveal the true nature of the Milky Way and how AI could help identify researchers with untapped innovation potential.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: See a smiling face made of living human skin cells]]></dc:title>
-            <dc:creator>Flora Graham</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-02172-4</dc:identifier>
-            <dc:source>Nature, Published online: 2024-07-01; | doi:10.1038/d41586-024-02172-4</dc:source>
-            <dc:date>2024-07-01</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-02172-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-02172-4</prism:url>
         </item>
     
 </rdf:RDF>
