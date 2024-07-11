@@ -18,6 +18,8 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07776-4"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02236-5"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02265-0"/>
@@ -128,6 +130,8 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02221-y"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02278-9"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07760-y"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07766-6"/>
@@ -164,10 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02219-6"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02257-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07737-x"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,21 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07776-4">
+            <title><![CDATA[Author Correction: Nano-achiral complex composites for extreme polarization optics]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07776-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 11 July 2024; <a href="https://www.nature.com/articles/s41586-024-07776-4">doi:10.1038/s41586-024-07776-4</a></p>Author Correction: Nano-achiral complex composites for extreme polarization optics]]></content:encoded>
+            <dc:title><![CDATA[Author Correction: Nano-achiral complex composites for extreme polarization optics]]></dc:title>
+            <dc:creator>Jun Lu</dc:creator><dc:creator>Wenbing Wu</dc:creator><dc:creator>Felippe Mariano Colombari</dc:creator><dc:creator>Ali Jawaid</dc:creator><dc:creator>Bryan Seymour</dc:creator><dc:creator>Kody Whisnant</dc:creator><dc:creator>Xiaoyang Zhong</dc:creator><dc:creator>Wonjin Choi</dc:creator><dc:creator>Nikolaos Chalmpes</dc:creator><dc:creator>Joerg Lahann</dc:creator><dc:creator>Richard A. Vaia</dc:creator><dc:creator>André Farias de Moura</dc:creator><dc:creator>Dhriti Nepal</dc:creator><dc:creator>Nicholas A. Kotov</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07776-4</dc:identifier>
+            <dc:source>Nature, Published online: 2024-07-11; | doi:10.1038/s41586-024-07776-4</dc:source>
+            <dc:date>2024-07-11</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07776-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07776-4</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-02236-5">
             <title><![CDATA[These period pads solidify blood to prevent leaks]]></title>
@@ -718,11 +733,11 @@
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-02273-0">
-            <title><![CDATA[This lab-grown meat has a beefy flavour boost]]></title>
+            <title><![CDATA[This lab-grown meat probably tastes like real beef]]></title>
             <link>https://www.nature.com/articles/d41586-024-02273-0</link>
             <content:encoded>
                 <![CDATA[<p>Nature, Published online: 10 July 2024; <a href="https://www.nature.com/articles/d41586-024-02273-0">doi:10.1038/d41586-024-02273-0</a></p>Cultured meat that tastes and smells more appetizing could enhance public perception of artificial steaks.]]></content:encoded>
-            <dc:title><![CDATA[This lab-grown meat has a beefy flavour boost]]></dc:title>
+            <dc:title><![CDATA[This lab-grown meat probably tastes like real beef]]></dc:title>
             <dc:creator>Helena Kudiabor</dc:creator>
             <dc:identifier>doi:10.1038/d41586-024-02273-0</dc:identifier>
             <dc:source>Nature, Published online: 2024-07-10; | doi:10.1038/d41586-024-02273-0</dc:source>
@@ -733,11 +748,11 @@
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-02280-1">
-            <title><![CDATA[Serious errors plague DNA tool that's a workhorse of biology]]></title>
+            <title><![CDATA[Serious errors plague DNA tool that’s a workhorse of biology]]></title>
             <link>https://www.nature.com/articles/d41586-024-02280-1</link>
             <content:encoded>
                 <![CDATA[<p>Nature, Published online: 10 July 2024; <a href="https://www.nature.com/articles/d41586-024-02280-1">doi:10.1038/d41586-024-02280-1</a></p>Researchers analysed thousands of laboratory-made plasmids and discovered that nearly half of them had defects, raising questions of experimental reproducibility.]]></content:encoded>
-            <dc:title><![CDATA[Serious errors plague DNA tool that's a workhorse of biology]]></dc:title>
+            <dc:title><![CDATA[Serious errors plague DNA tool that’s a workhorse of biology]]></dc:title>
             <dc:creator>Katherine Bourzac</dc:creator>
             <dc:identifier>doi:10.1038/d41586-024-02280-1</dc:identifier>
             <dc:source>Nature, Published online: 2024-07-10; | doi:10.1038/d41586-024-02280-1</dc:source>
@@ -1000,6 +1015,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-02221-y</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-02221-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02278-9">
+            <title><![CDATA[Daily briefing: Zircons rewrite history of plate tectonics]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02278-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 09 July 2024; <a href="https://www.nature.com/articles/d41586-024-02278-9">doi:10.1038/d41586-024-02278-9</a></p>Unbelievably ancient crystals suggest plate tectonics started earlier than we thought. Plus, the little-known anti-science movement that spawned a thousand conspiracies and why faecal transplants are only a ‘stepping stone’ towards better cancer treatments.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Zircons rewrite history of plate tectonics]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02278-9</dc:identifier>
+            <dc:source>Nature, Published online: 2024-07-09; | doi:10.1038/d41586-024-02278-9</dc:source>
+            <dc:date>2024-07-09</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02278-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02278-9</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07760-y">
@@ -1270,36 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-02219-6</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-02219-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-02257-0">
-            <title><![CDATA[Daily briefing: Spinal fluid causes aural migraine pain, suggests research in mice]]></title>
-            <link>https://www.nature.com/articles/d41586-024-02257-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 05 July 2024; <a href="https://www.nature.com/articles/d41586-024-02257-0">doi:10.1038/d41586-024-02257-0</a></p>Brain activity heralded by blind spots, flashes and other migraine ‘auras’ seems to trigger a change in cerebrospinal fluid. Plus, a ‘frog sauna’ protects against killer fungal disease and the benefits of full-body, continuous wearable ultrasound.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: Spinal fluid causes aural migraine pain, suggests research in mice]]></dc:title>
-            <dc:creator>Flora Graham</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-02257-0</dc:identifier>
-            <dc:source>Nature, Published online: 2024-07-05; | doi:10.1038/d41586-024-02257-0</dc:source>
-            <dc:date>2024-07-05</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-02257-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-02257-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07737-x">
-            <title><![CDATA[Publisher Correction: Mental navigation in the primate entorhinal cortex]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07737-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 04 July 2024; <a href="https://www.nature.com/articles/s41586-024-07737-x">doi:10.1038/s41586-024-07737-x</a></p>Publisher Correction: Mental navigation in the primate entorhinal cortex]]></content:encoded>
-            <dc:title><![CDATA[Publisher Correction: Mental navigation in the primate entorhinal cortex]]></dc:title>
-            <dc:creator>Sujaya Neupane</dc:creator><dc:creator>Ila Fiete</dc:creator><dc:creator>Mehrdad Jazayeri</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07737-x</dc:identifier>
-            <dc:source>Nature, Published online: 2024-07-04; | doi:10.1038/s41586-024-07737-x</dc:source>
-            <dc:date>2024-07-04</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07737-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07737-x</prism:url>
         </item>
     
 </rdf:RDF>
