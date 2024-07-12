@@ -18,6 +18,10 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02295-8"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02237-4"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07645-0"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07776-4"/>
@@ -164,10 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07766-6"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07764-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02228-5"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,36 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02295-8">
+            <title><![CDATA[The Napoleonic tweets, Books in brief]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02295-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 12 July 2024; <a href="https://www.nature.com/articles/d41586-024-02295-8">doi:10.1038/d41586-024-02295-8</a></p>Andrew Robinson reviews five of the best science picks.]]></content:encoded>
+            <dc:title><![CDATA[The Napoleonic tweets, Books in brief]]></dc:title>
+            <dc:creator>Andrew Robinson</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02295-8</dc:identifier>
+            <dc:source>Nature, Published online: 2024-07-12; | doi:10.1038/d41586-024-02295-8</dc:source>
+            <dc:date>2024-07-12</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02295-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02295-8</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02237-4">
+            <title><![CDATA[Bird flu could become a human pandemic. How are countries preparing?]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02237-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 12 July 2024; <a href="https://www.nature.com/articles/d41586-024-02237-4">doi:10.1038/d41586-024-02237-4</a></p>Wealthy nations are purchasing vaccines against H5N1 influenza and boosting surveillance, but there are concerns that low-income countries will be left behind.]]></content:encoded>
+            <dc:title><![CDATA[Bird flu could become a human pandemic. How are countries preparing?]]></dc:title>
+            <dc:creator>Smriti Mallapaty</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02237-4</dc:identifier>
+            <dc:source>Nature, Published online: 2024-07-12; | doi:10.1038/d41586-024-02237-4</dc:source>
+            <dc:date>2024-07-12</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02237-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02237-4</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07645-0">
             <title><![CDATA[Author Correction: A new antibiotic traps lipopolysaccharide in its intermembrane transporter]]></title>
@@ -1270,36 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/s41586-024-07766-6</prism:doi>
             <prism:url>https://www.nature.com/articles/s41586-024-07766-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07764-8">
-            <title><![CDATA[Two-dimensional Perovskitoids Enhance Stability in Perovskite Solar Cells]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07764-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 08 July 2024; <a href="https://www.nature.com/articles/s41586-024-07764-8">doi:10.1038/s41586-024-07764-8</a></p>Two-dimensional Perovskitoids Enhance Stability in Perovskite Solar Cells]]></content:encoded>
-            <dc:title><![CDATA[Two-dimensional Perovskitoids Enhance Stability in Perovskite Solar Cells]]></dc:title>
-            <dc:creator>Cheng Liu</dc:creator><dc:creator>Yi Yang</dc:creator><dc:creator>Hao Chen</dc:creator><dc:creator>Ioannis Spanopoulos</dc:creator><dc:creator>Abdulaziz S. R. Bati</dc:creator><dc:creator>Isaiah W. Gilley</dc:creator><dc:creator>Jianhua Chen</dc:creator><dc:creator>Aidan Maxwell</dc:creator><dc:creator>Badri Vishal</dc:creator><dc:creator>Robert P. Reynolds</dc:creator><dc:creator>Taylor E. Wiggins</dc:creator><dc:creator>Zaiwei Wang</dc:creator><dc:creator>Chuying Huang</dc:creator><dc:creator>Jared Fletcher</dc:creator><dc:creator>Yuan Liu</dc:creator><dc:creator>Lin X. Chen</dc:creator><dc:creator>Stefaan De Wolf</dc:creator><dc:creator>Bin Chen</dc:creator><dc:creator>Ding Zheng</dc:creator><dc:creator>Tobin J. Marks</dc:creator><dc:creator>Antonio Facchetti</dc:creator><dc:creator>Edward H. Sargent</dc:creator><dc:creator>Mercouri G. Kanatzidis</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07764-8</dc:identifier>
-            <dc:source>Nature, Published online: 2024-07-08; | doi:10.1038/s41586-024-07764-8</dc:source>
-            <dc:date>2024-07-08</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07764-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07764-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-02228-5">
-            <title><![CDATA[Why I work to revive the Tasmanian tiger]]></title>
-            <link>https://www.nature.com/articles/d41586-024-02228-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 08 July 2024; <a href="https://www.nature.com/articles/d41586-024-02228-5">doi:10.1038/d41586-024-02228-5</a></p>Andrew Pask develops genetic sequencing techniques for marsupials — including an apex predator that was hunted to death in the twentieth century.]]></content:encoded>
-            <dc:title><![CDATA[Why I work to revive the Tasmanian tiger]]></dc:title>
-            <dc:creator>Margaret  Simons</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-02228-5</dc:identifier>
-            <dc:source>Nature, Published online: 2024-07-08; | doi:10.1038/d41586-024-02228-5</dc:source>
-            <dc:date>2024-07-08</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-02228-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-02228-5</prism:url>
         </item>
     
 </rdf:RDF>
