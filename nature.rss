@@ -20,7 +20,17 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02295-8"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02276-x"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02255-2"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02237-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02256-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02296-7"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02303-x"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07645-0"/>
                 
@@ -39,6 +49,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07773-7"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02163-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02302-y"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02253-4"/>
                 
@@ -118,6 +130,8 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02243-6"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02290-z"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02135-9"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02277-w"/>
@@ -154,20 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02227-6"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02225-8"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02263-2"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02134-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02221-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02278-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07760-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07766-6"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -192,6 +192,36 @@
             <prism:url>https://www.nature.com/articles/d41586-024-02295-8</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02276-x">
+            <title><![CDATA[What <i>Twisters</i> gets right — and wrong — about tornado science]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02276-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 12 July 2024; <a href="https://www.nature.com/articles/d41586-024-02276-x">doi:10.1038/d41586-024-02276-x</a></p>Nature talks to tornado specialists and scientific advisers for the new disaster film about how it stacks up.]]></content:encoded>
+            <dc:title><![CDATA[What <i>Twisters</i> gets right — and wrong — about tornado science]]></dc:title>
+            <dc:creator>Alexandra Witze</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02276-x</dc:identifier>
+            <dc:source>Nature, Published online: 2024-07-12; | doi:10.1038/d41586-024-02276-x</dc:source>
+            <dc:date>2024-07-12</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02276-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02276-x</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02255-2">
+            <title><![CDATA[This kids’ brain cancer is incurable — but immune therapy holds promise]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02255-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 12 July 2024; <a href="https://www.nature.com/articles/d41586-024-02255-2">doi:10.1038/d41586-024-02255-2</a></p>CAR-T therapy, which harnesses a person’s own immune cells, racks up some astonishing success stories against deadly brain tumours in children.]]></content:encoded>
+            <dc:title><![CDATA[This kids’ brain cancer is incurable — but immune therapy holds promise]]></dc:title>
+            <dc:creator>Heidi Ledford</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02255-2</dc:identifier>
+            <dc:source>Nature, Published online: 2024-07-12; | doi:10.1038/d41586-024-02255-2</dc:source>
+            <dc:date>2024-07-12</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02255-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02255-2</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-024-02237-4">
             <title><![CDATA[Bird flu could become a human pandemic. How are countries preparing?]]></title>
             <link>https://www.nature.com/articles/d41586-024-02237-4</link>
@@ -205,6 +235,51 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-02237-4</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-02237-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02256-1">
+            <title><![CDATA[Microbiologist wins case against university over harassment during COVID]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02256-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 12 July 2024; <a href="https://www.nature.com/articles/d41586-024-02256-1">doi:10.1038/d41586-024-02256-1</a></p>Court finds University of Auckland breached obligations to protect Siouxsie Wiles while she provided public information about the pandemic.]]></content:encoded>
+            <dc:title><![CDATA[Microbiologist wins case against university over harassment during COVID]]></dc:title>
+            <dc:creator>Bianca Nogrady</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02256-1</dc:identifier>
+            <dc:source>Nature, Published online: 2024-07-12; | doi:10.1038/d41586-024-02256-1</dc:source>
+            <dc:date>2024-07-12</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02256-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02256-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02296-7">
+            <title><![CDATA[Pension planning and psychosocial support: how institutions can help academics at the late career stage]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02296-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 12 July 2024; <a href="https://www.nature.com/articles/d41586-024-02296-7">doi:10.1038/d41586-024-02296-7</a></p>Julie Gould looks at some of the schemes develped by universities to prepare staff for life in retirement.]]></content:encoded>
+            <dc:title><![CDATA[Pension planning and psychosocial support: how institutions can help academics at the late career stage]]></dc:title>
+            <dc:creator>Julie Gould</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02296-7</dc:identifier>
+            <dc:source>Nature, Published online: 2024-07-12; | doi:10.1038/d41586-024-02296-7</dc:source>
+            <dc:date>2024-07-12</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02296-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02296-7</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02303-x">
+            <title><![CDATA[Maggie Aderin-Pocock on diversity: ‘It’s hard to find an argument against it’]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02303-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 12 July 2024; <a href="https://www.nature.com/articles/d41586-024-02303-x">doi:10.1038/d41586-024-02303-x</a></p>The space scientist and broadcaster describes how she deals with racism, taps dyslexia’s hidden powers and inspires disadvantaged students to pursue science careers.]]></content:encoded>
+            <dc:title><![CDATA[Maggie Aderin-Pocock on diversity: ‘It’s hard to find an argument against it’]]></dc:title>
+            <dc:creator>Audrey Thompson</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02303-x</dc:identifier>
+            <dc:source>Nature, Published online: 2024-07-12; | doi:10.1038/d41586-024-02303-x</dc:source>
+            <dc:date>2024-07-12</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02303-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02303-x</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07645-0">
@@ -340,6 +415,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-02163-5</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-02163-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02302-y">
+            <title><![CDATA[Daily briefing: The mystery man at the centre of the Human Genome Project]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02302-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 11 July 2024; <a href="https://www.nature.com/articles/d41586-024-02302-y">doi:10.1038/d41586-024-02302-y</a></p>How one man became the source of almost all of the first human genome sequence. Plus, how anti-obesity drugs cause nausea and an elusive midsize black hole might be lurking in our Galaxy.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: The mystery man at the centre of the Human Genome Project]]></dc:title>
+            <dc:creator>Katrina Krämer</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02302-y</dc:identifier>
+            <dc:source>Nature, Published online: 2024-07-11; | doi:10.1038/d41586-024-02302-y</dc:source>
+            <dc:date>2024-07-11</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02302-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02302-y</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-02253-4">
@@ -927,6 +1017,21 @@
             <prism:url>https://www.nature.com/articles/d41586-024-02243-6</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02290-z">
+            <title><![CDATA[Daily briefing: Older people’s existing immunity could shape an H5N1 pandemic]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02290-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 10 July 2024; <a href="https://www.nature.com/articles/d41586-024-02290-z">doi:10.1038/d41586-024-02290-z</a></p>Older people might be more protected from bird flu because they were exposed to ‘matched’ flu strains during childhood. Plus, scientists are hopeful about Iran’s new heart-surgeon president and inside a radio observatory in Ukraine gravely damaged by the Russian invasion.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: Older people’s existing immunity could shape an H5N1 pandemic]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02290-z</dc:identifier>
+            <dc:source>Nature, Published online: 2024-07-10; | doi:10.1038/d41586-024-02290-z</dc:source>
+            <dc:date>2024-07-10</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02290-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02290-z</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-024-02135-9">
             <title><![CDATA[Speedy stars blow the cover of hidden black hole]]></title>
             <link>https://www.nature.com/articles/d41586-024-02135-9</link>
@@ -1195,111 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-02227-6</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-02227-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-02225-8">
-            <title><![CDATA[How PhD students and other academics are fighting the mental-health crisis in science]]></title>
-            <link>https://www.nature.com/articles/d41586-024-02225-8</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 09 July 2024; <a href="https://www.nature.com/articles/d41586-024-02225-8">doi:10.1038/d41586-024-02225-8</a></p>Universities and institutions across the globe are exploring unique initiatives to help their students and staff cope with the stress of research.]]></content:encoded>
-            <dc:title><![CDATA[How PhD students and other academics are fighting the mental-health crisis in science]]></dc:title>
-            <dc:creator>Shannon Hall</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-02225-8</dc:identifier>
-            <dc:source>Nature, Published online: 2024-07-09; | doi:10.1038/d41586-024-02225-8</dc:source>
-            <dc:date>2024-07-09</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-02225-8</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-02225-8</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-02263-2">
-            <title><![CDATA[Chiral perovskites deliver spin control to a conventional semiconductor]]></title>
-            <link>https://www.nature.com/articles/d41586-024-02263-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 09 July 2024; <a href="https://www.nature.com/articles/d41586-024-02263-2">doi:10.1038/d41586-024-02263-2</a></p>The integration of a chiral halide perovskite semiconductor into a light-emitting diode (LED) structure made from a III–V optoelectronic semiconductor creates a spin-LED that achieves 15% circularly polarized emission at room temperature without a magnetic field — a potential boon for spintronics and other spin‑based technologies.]]></content:encoded>
-            <dc:title><![CDATA[Chiral perovskites deliver spin control to a conventional semiconductor]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-02263-2</dc:identifier>
-            <dc:source>Nature, Published online: 2024-07-09; | doi:10.1038/d41586-024-02263-2</dc:source>
-            <dc:date>2024-07-09</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-02263-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-02263-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-02134-w">
-            <title><![CDATA[Ultracold molecules that interact from afar form elusive quantum state]]></title>
-            <link>https://www.nature.com/articles/d41586-024-02134-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 09 July 2024; <a href="https://www.nature.com/articles/d41586-024-02134-w">doi:10.1038/d41586-024-02134-w</a></p>A gas of molecules that interact over long distances has been cooled to mere nanokelvins, resulting in the emergence of a state known as a Bose–Einstein condensate — the first of its kind in this type of molecular system.]]></content:encoded>
-            <dc:title><![CDATA[Ultracold molecules that interact from afar form elusive quantum state]]></dc:title>
-            <dc:creator>Lauriane  Chomaz</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-02134-w</dc:identifier>
-            <dc:source>Nature, Published online: 2024-07-09; | doi:10.1038/d41586-024-02134-w</dc:source>
-            <dc:date>2024-07-09</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-02134-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-02134-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-02221-y">
-            <title><![CDATA[Huge neutrino detector sees first hints of particles from exploding stars]]></title>
-            <link>https://www.nature.com/articles/d41586-024-02221-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 09 July 2024; <a href="https://www.nature.com/articles/d41586-024-02221-y">doi:10.1038/d41586-024-02221-y</a></p>Japan’s Super-Kamiokande observatory could be seeing evidence of neutrinos from supernovae across cosmic history.]]></content:encoded>
-            <dc:title><![CDATA[Huge neutrino detector sees first hints of particles from exploding stars]]></dc:title>
-            <dc:creator>Davide Castelvecchi</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-02221-y</dc:identifier>
-            <dc:source>Nature, Published online: 2024-07-09; | doi:10.1038/d41586-024-02221-y</dc:source>
-            <dc:date>2024-07-09</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-02221-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-02221-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-02278-9">
-            <title><![CDATA[Daily briefing: Zircons rewrite history of plate tectonics]]></title>
-            <link>https://www.nature.com/articles/d41586-024-02278-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 09 July 2024; <a href="https://www.nature.com/articles/d41586-024-02278-9">doi:10.1038/d41586-024-02278-9</a></p>Unbelievably ancient crystals suggest plate tectonics started earlier than we thought. Plus, the little-known anti-science movement that spawned a thousand conspiracies and why faecal transplants are only a ‘stepping stone’ towards better cancer treatments.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: Zircons rewrite history of plate tectonics]]></dc:title>
-            <dc:creator>Flora Graham</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-02278-9</dc:identifier>
-            <dc:source>Nature, Published online: 2024-07-09; | doi:10.1038/d41586-024-02278-9</dc:source>
-            <dc:date>2024-07-09</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-02278-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-02278-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07760-y">
-            <title><![CDATA[Hydrogen sulfide and metal-enriched atmosphere for a Jupiter-mass exoplanet]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07760-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 08 July 2024; <a href="https://www.nature.com/articles/s41586-024-07760-y">doi:10.1038/s41586-024-07760-y</a></p>Hydrogen sulfide and metal-enriched atmosphere for a Jupiter-mass exoplanet]]></content:encoded>
-            <dc:title><![CDATA[Hydrogen sulfide and metal-enriched atmosphere for a Jupiter-mass exoplanet]]></dc:title>
-            <dc:creator>Guangwei Fu</dc:creator><dc:creator>Luis Welbanks</dc:creator><dc:creator>Drake Deming</dc:creator><dc:creator>Julie Inglis</dc:creator><dc:creator>Michael Zhang</dc:creator><dc:creator>Joshua Lothringer</dc:creator><dc:creator>Jegug Ih</dc:creator><dc:creator>Julianne I. Moses</dc:creator><dc:creator>Everett Schlawin</dc:creator><dc:creator>Heather A. Knutson</dc:creator><dc:creator>Gregory Henry</dc:creator><dc:creator>Thomas Greene</dc:creator><dc:creator>David K. Sing</dc:creator><dc:creator>Arjun B. Savel</dc:creator><dc:creator>Eliza M.-R. Kempton</dc:creator><dc:creator>Dana R. Louie</dc:creator><dc:creator>Michael Line</dc:creator><dc:creator>Matt Nixon</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07760-y</dc:identifier>
-            <dc:source>Nature, Published online: 2024-07-08; | doi:10.1038/s41586-024-07760-y</dc:source>
-            <dc:date>2024-07-08</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07760-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07760-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07766-6">
-            <title><![CDATA[Pathogenicity and transmissibility of bovine H5N1 influenza virus]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07766-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 08 July 2024; <a href="https://www.nature.com/articles/s41586-024-07766-6">doi:10.1038/s41586-024-07766-6</a></p>Pathogenicity and transmissibility of bovine H5N1 influenza virus]]></content:encoded>
-            <dc:title><![CDATA[Pathogenicity and transmissibility of bovine H5N1 influenza virus]]></dc:title>
-            <dc:creator>Amie J. Eisfeld</dc:creator><dc:creator>Asim Biswas</dc:creator><dc:creator>Lizheng Guan</dc:creator><dc:creator>Chunyang Gu</dc:creator><dc:creator>Tadashi Maemura</dc:creator><dc:creator>Sanja Trifkovic</dc:creator><dc:creator>Tong Wang</dc:creator><dc:creator>Lavanya Babujee</dc:creator><dc:creator>Randall Dahn</dc:creator><dc:creator>Peter J. Halfmann</dc:creator><dc:creator>Tera Barnhardt</dc:creator><dc:creator>Gabriele Neumann</dc:creator><dc:creator>Yasuo Suzuki</dc:creator><dc:creator>Alexis Thompson</dc:creator><dc:creator>Amy K. Swinford</dc:creator><dc:creator>Kiril M. Dimitrov</dc:creator><dc:creator>Keith Poulsen</dc:creator><dc:creator>Yoshihiro Kawaoka</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07766-6</dc:identifier>
-            <dc:source>Nature, Published online: 2024-07-08; | doi:10.1038/s41586-024-07766-6</dc:source>
-            <dc:date>2024-07-08</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07766-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07766-6</prism:url>
         </item>
     
 </rdf:RDF>
