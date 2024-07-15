@@ -18,11 +18,17 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02311-x"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02312-w"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02295-8"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02276-x"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02255-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02330-8"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02237-4"/>
                 
@@ -162,12 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02224-9"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02262-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02170-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02227-6"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,36 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02311-x">
+            <title><![CDATA[Science on the edge: how extreme outdoor skills enhanced our fieldwork]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02311-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 15 July 2024; <a href="https://www.nature.com/articles/d41586-024-02311-x">doi:10.1038/d41586-024-02311-x</a></p>Researchers describe how they developed extraordinary physical skills for their research and how to stay calm in the face of risks.]]></content:encoded>
+            <dc:title><![CDATA[Science on the edge: how extreme outdoor skills enhanced our fieldwork]]></dc:title>
+            <dc:creator>Shihab Jamal</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02311-x</dc:identifier>
+            <dc:source>Nature, Published online: 2024-07-15; | doi:10.1038/d41586-024-02311-x</dc:source>
+            <dc:date>2024-07-15</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02311-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02311-x</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02312-w">
+            <title><![CDATA[Your reagent is past its use-by date. Should you bin it?]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02312-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 15 July 2024; <a href="https://www.nature.com/articles/d41586-024-02312-w">doi:10.1038/d41586-024-02312-w</a></p>Some products are perfectly fine to use after their expiration date — if quality-control tests check out.]]></content:encoded>
+            <dc:title><![CDATA[Your reagent is past its use-by date. Should you bin it?]]></dc:title>
+            <dc:creator>Diana Kwon</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02312-w</dc:identifier>
+            <dc:source>Nature, Published online: 2024-07-15; | doi:10.1038/d41586-024-02312-w</dc:source>
+            <dc:date>2024-07-15</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02312-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02312-w</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-02295-8">
             <title><![CDATA[The Napoleonic tweets, Books in brief]]></title>
@@ -220,6 +250,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-02255-2</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-02255-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02330-8">
+            <title><![CDATA[Daily briefing: How nations are preparing for a possible H5N1 bird flu pandemic]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02330-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 12 July 2024; <a href="https://www.nature.com/articles/d41586-024-02330-8">doi:10.1038/d41586-024-02330-8</a></p>Countries are ramping up surveillance of avian influenza, purchasing vaccines and developing new ones. Plus, the first fossil chromosomes ever discovered have been found in skin samples from a woolly mammoth.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: How nations are preparing for a possible H5N1 bird flu pandemic]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02330-8</dc:identifier>
+            <dc:source>Nature, Published online: 2024-07-12; | doi:10.1038/d41586-024-02330-8</dc:source>
+            <dc:date>2024-07-12</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02330-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02330-8</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-02237-4">
@@ -1255,51 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-02224-9</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-02224-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-02262-3">
-            <title><![CDATA[Iran elects heart surgeon as president: scientists are hopeful]]></title>
-            <link>https://www.nature.com/articles/d41586-024-02262-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 09 July 2024; <a href="https://www.nature.com/articles/d41586-024-02262-3">doi:10.1038/d41586-024-02262-3</a></p>Researchers say unexpected victory for Masoud Pezeshkian could spell improvements to human rights, investment in science and academic freedom — if Iran’s top leaders give him space to act.]]></content:encoded>
-            <dc:title><![CDATA[Iran elects heart surgeon as president: scientists are hopeful]]></dc:title>
-            <dc:creator>Michele Catanzaro</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-02262-3</dc:identifier>
-            <dc:source>Nature, Published online: 2024-07-09; | doi:10.1038/d41586-024-02262-3</dc:source>
-            <dc:date>2024-07-09</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-02262-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-02262-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-02170-6">
-            <title><![CDATA[If bird flu sparks a human pandemic, your past immunity could help]]></title>
-            <link>https://www.nature.com/articles/d41586-024-02170-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 09 July 2024; <a href="https://www.nature.com/articles/d41586-024-02170-6">doi:10.1038/d41586-024-02170-6</a></p>Older populations might be more protected than younger ones because of exposure to ‘matched’ strains during childhood, but an H5N1 pandemic is likely to take a major toll all the same.]]></content:encoded>
-            <dc:title><![CDATA[If bird flu sparks a human pandemic, your past immunity could help]]></dc:title>
-            <dc:creator>Max Kozlov</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-02170-6</dc:identifier>
-            <dc:source>Nature, Published online: 2024-07-09; | doi:10.1038/d41586-024-02170-6</dc:source>
-            <dc:date>2024-07-09</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-02170-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-02170-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-02227-6">
-            <title><![CDATA[Canada just hiked PhD and postdoc pay — here’s how to get your country to do it, too]]></title>
-            <link>https://www.nature.com/articles/d41586-024-02227-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 09 July 2024; <a href="https://www.nature.com/articles/d41586-024-02227-6">doi:10.1038/d41586-024-02227-6</a></p>Walkouts, petitions and tweets: how a grass-roots movement led by students, postdocs and tenured academics radically changed government policy on science funding.]]></content:encoded>
-            <dc:title><![CDATA[Canada just hiked PhD and postdoc pay — here’s how to get your country to do it, too]]></dc:title>
-            <dc:creator>Kaitlin  Kharas</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-02227-6</dc:identifier>
-            <dc:source>Nature, Published online: 2024-07-09; | doi:10.1038/d41586-024-02227-6</dc:source>
-            <dc:date>2024-07-09</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-02227-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-02227-6</prism:url>
         </item>
     
 </rdf:RDF>
