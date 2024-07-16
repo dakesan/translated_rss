@@ -18,6 +18,14 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02319-3"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02317-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02318-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02324-6"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07768-4"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07790-6"/>
@@ -81,8 +89,6 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02265-0"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02286-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02254-3"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02238-3"/>
                 
@@ -150,6 +156,8 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02119-9"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02254-3"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02273-0"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02280-1"/>
@@ -160,14 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07794-2"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02229-4"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02248-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02250-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02201-2"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,66 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02319-3">
+            <title><![CDATA[Generative AI makes for better scientific writing — but beware the pitfalls]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02319-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 16 July 2024; <a href="https://www.nature.com/articles/d41586-024-02319-3">doi:10.1038/d41586-024-02319-3</a></p>Generative AI makes for better scientific writing — but beware the pitfalls]]></content:encoded>
+            <dc:title><![CDATA[Generative AI makes for better scientific writing — but beware the pitfalls]]></dc:title>
+            <dc:creator>Zhongkai  Liao</dc:creator><dc:creator>Congcong  Zhang</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02319-3</dc:identifier>
+            <dc:source>Nature, Published online: 2024-07-16; | doi:10.1038/d41586-024-02319-3</dc:source>
+            <dc:date>2024-07-16</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02319-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02319-3</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02317-5">
+            <title><![CDATA[The pandemic agreement: an African perspective]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02317-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 16 July 2024; <a href="https://www.nature.com/articles/d41586-024-02317-5">doi:10.1038/d41586-024-02317-5</a></p>The pandemic agreement: an African perspective]]></content:encoded>
+            <dc:title><![CDATA[The pandemic agreement: an African perspective]]></dc:title>
+            <dc:creator>Nicaise  Ndembi</dc:creator><dc:creator>Gerald  Mboowa</dc:creator><dc:creator>Sofonias K.  Tessema</dc:creator><dc:creator>Yenew Kebede  Tebeje</dc:creator><dc:creator>Jean   Kaseya</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02317-5</dc:identifier>
+            <dc:source>Nature, Published online: 2024-07-16; | doi:10.1038/d41586-024-02317-5</dc:source>
+            <dc:date>2024-07-16</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02317-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02317-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02318-4">
+            <title><![CDATA[Abandoning randomized controlled trials won’t help cancer treatment]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02318-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 16 July 2024; <a href="https://www.nature.com/articles/d41586-024-02318-4">doi:10.1038/d41586-024-02318-4</a></p>Abandoning randomized controlled trials won’t help cancer treatment]]></content:encoded>
+            <dc:title><![CDATA[Abandoning randomized controlled trials won’t help cancer treatment]]></dc:title>
+            <dc:creator>Lorenzo  Fornaro</dc:creator><dc:creator>Francesco  Crea</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02318-4</dc:identifier>
+            <dc:source>Nature, Published online: 2024-07-16; | doi:10.1038/d41586-024-02318-4</dc:source>
+            <dc:date>2024-07-16</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02318-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02318-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02324-6">
+            <title><![CDATA[The geneticist who uses science to free parents wrongly convicted of killing their children]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02324-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 16 July 2024; <a href="https://www.nature.com/articles/d41586-024-02324-6">doi:10.1038/d41586-024-02324-6</a></p>Carola Vinuesa describes how her career changed after identifying a genetic mutation that helped to secure the freedom of Kathleen Folbigg, who was serving a 30-year jail term for killing her four children.]]></content:encoded>
+            <dc:title><![CDATA[The geneticist who uses science to free parents wrongly convicted of killing their children]]></dc:title>
+            <dc:creator>Benjamin Plackett</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02324-6</dc:identifier>
+            <dc:source>Nature, Published online: 2024-07-16; | doi:10.1038/d41586-024-02324-6</dc:source>
+            <dc:date>2024-07-16</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02324-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02324-6</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07768-4">
             <title><![CDATA[Inhomogeneous terminators on the exoplanet WASP-39 b]]></title>
@@ -655,21 +715,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-02286-9</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-02286-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-02254-3">
-            <title><![CDATA[How anti-obesity drugs cause nausea: finding offers hope for better drugs]]></title>
-            <link>https://www.nature.com/articles/d41586-024-02254-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 10 July 2024; <a href="https://www.nature.com/articles/d41586-024-02254-3">doi:10.1038/d41586-024-02254-3</a></p>The neurons that produce a sick feeling and food aversion are distinct from those that induce a feeling of fullness.]]></content:encoded>
-            <dc:title><![CDATA[How anti-obesity drugs cause nausea: finding offers hope for better drugs]]></dc:title>
-            <dc:creator>Mariana Lenharo</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-02254-3</dc:identifier>
-            <dc:source>Nature, Published online: 2024-07-10; | doi:10.1038/d41586-024-02254-3</dc:source>
-            <dc:date>2024-07-10</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-02254-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-02254-3</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-02238-3">
@@ -1167,6 +1212,21 @@
             <prism:url>https://www.nature.com/articles/d41586-024-02119-9</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02254-3">
+            <title><![CDATA[How anti-obesity drugs cause nausea: finding offers hope for better drugs]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02254-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 10 July 2024; <a href="https://www.nature.com/articles/d41586-024-02254-3">doi:10.1038/d41586-024-02254-3</a></p>The neurons that produce a sick feeling and food aversion are distinct from those that induce a feeling of fullness.]]></content:encoded>
+            <dc:title><![CDATA[How anti-obesity drugs cause nausea: finding offers hope for better drugs]]></dc:title>
+            <dc:creator>Mariana Lenharo</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02254-3</dc:identifier>
+            <dc:source>Nature, Published online: 2024-07-10; | doi:10.1038/d41586-024-02254-3</dc:source>
+            <dc:date>2024-07-10</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02254-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02254-3</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-024-02273-0">
             <title><![CDATA[This lab-grown meat probably tastes like real beef]]></title>
             <link>https://www.nature.com/articles/d41586-024-02273-0</link>
@@ -1240,66 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/s41586-024-07794-2</prism:doi>
             <prism:url>https://www.nature.com/articles/s41586-024-07794-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-02229-4">
-            <title><![CDATA[How mud brought France and England together — 150 years ago]]></title>
-            <link>https://www.nature.com/articles/d41586-024-02229-4</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 09 July 2024; <a href="https://www.nature.com/articles/d41586-024-02229-4">doi:10.1038/d41586-024-02229-4</a></p>Artificial daylight lacks commercial interest, and a geologist’s thirst for knowledge kickstarts the bid for the Channel Tunnel, in our weekly dip into Nature’s archive.]]></content:encoded>
-            <dc:title><![CDATA[How mud brought France and England together — 150 years ago]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-02229-4</dc:identifier>
-            <dc:source>Nature, Published online: 2024-07-09; | doi:10.1038/d41586-024-02229-4</dc:source>
-            <dc:date>2024-07-09</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-02229-4</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-02229-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-02248-1">
-            <title><![CDATA[To explain biological sex, look to evolution]]></title>
-            <link>https://www.nature.com/articles/d41586-024-02248-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 09 July 2024; <a href="https://www.nature.com/articles/d41586-024-02248-1">doi:10.1038/d41586-024-02248-1</a></p>To explain biological sex, look to evolution]]></content:encoded>
-            <dc:title><![CDATA[To explain biological sex, look to evolution]]></dc:title>
-            <dc:creator>Paul E.  Griffiths</dc:creator><dc:creator>Hamish G.  Spencer</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-02248-1</dc:identifier>
-            <dc:source>Nature, Published online: 2024-07-09; | doi:10.1038/d41586-024-02248-1</dc:source>
-            <dc:date>2024-07-09</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-02248-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-02248-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-02250-7">
-            <title><![CDATA[Regulate to protect fragile Antarctic ecosystems from growing tourism]]></title>
-            <link>https://www.nature.com/articles/d41586-024-02250-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 09 July 2024; <a href="https://www.nature.com/articles/d41586-024-02250-7">doi:10.1038/d41586-024-02250-7</a></p>Regulate to protect fragile Antarctic ecosystems from growing tourism]]></content:encoded>
-            <dc:title><![CDATA[Regulate to protect fragile Antarctic ecosystems from growing tourism]]></dc:title>
-            <dc:creator>Yi  Luo</dc:creator><dc:creator>Huan  Zhong</dc:creator><dc:creator>Chengjun  Li</dc:creator><dc:creator>Christian  Sonne</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-02250-7</dc:identifier>
-            <dc:source>Nature, Published online: 2024-07-09; | doi:10.1038/d41586-024-02250-7</dc:source>
-            <dc:date>2024-07-09</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-02250-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-02250-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-02201-2">
-            <title><![CDATA[Storm-chasing seabirds served supper by cyclones]]></title>
-            <link>https://www.nature.com/articles/d41586-024-02201-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 09 July 2024; <a href="https://www.nature.com/articles/d41586-024-02201-2">doi:10.1038/d41586-024-02201-2</a></p>The ocean-going Desertas petrel often follows storms for days over thousands of kilometres.]]></content:encoded>
-            <dc:title><![CDATA[Storm-chasing seabirds served supper by cyclones]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-02201-2</dc:identifier>
-            <dc:source>Nature, Published online: 2024-07-09; | doi:10.1038/d41586-024-02201-2</dc:source>
-            <dc:date>2024-07-09</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-02201-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-02201-2</prism:url>
         </item>
     
 </rdf:RDF>
