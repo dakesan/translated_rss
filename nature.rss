@@ -18,6 +18,12 @@
         <items>
             <rdf:Seq>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07811-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07800-7"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-01747-5"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02319-3"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02317-5"/>
@@ -29,6 +35,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02320-w"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02335-3"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02354-0"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02307-7"/>
                 
@@ -53,6 +61,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02311-x"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02312-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02341-5"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02295-8"/>
                 
@@ -158,16 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07635-2"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07623-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02125-x"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02189-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02243-6"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02290-z"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -176,6 +176,51 @@
         <url>https://www.nature.com/uploads/product/nature/rss.png</url>
         <link>http://feeds.nature.com/nature/rss/current</link>
     </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07811-4">
+            <title><![CDATA[Catalysis of an S<sub>N</sub>2 pathway by geometric preorganization]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07811-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 18 July 2024; <a href="https://www.nature.com/articles/s41586-024-07811-4">doi:10.1038/s41586-024-07811-4</a></p>Catalysis of an S<sub>N</sub>2 pathway by geometric preorganization]]></content:encoded>
+            <dc:title><![CDATA[Catalysis of an S<sub>N</sub>2 pathway by geometric preorganization]]></dc:title>
+            <dc:creator>Gabriel J. Lovinger</dc:creator><dc:creator>Marcus H. Sak</dc:creator><dc:creator>Eric N. Jacobsen</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07811-4</dc:identifier>
+            <dc:source>Nature, Published online: 2024-07-18; | doi:10.1038/s41586-024-07811-4</dc:source>
+            <dc:date>2024-07-18</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07811-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07811-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-024-07800-7">
+            <title><![CDATA[A roadmap for affordable genetic medicines]]></title>
+            <link>https://www.nature.com/articles/s41586-024-07800-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 17 July 2024; <a href="https://www.nature.com/articles/s41586-024-07800-7">doi:10.1038/s41586-024-07800-7</a></p>A roadmap for affordable genetic medicines]]></content:encoded>
+            <dc:title><![CDATA[A roadmap for affordable genetic medicines]]></dc:title>
+            <dc:creator>Melinda Kliegman</dc:creator><dc:creator>Manar Zaghlula</dc:creator><dc:creator>Susan Abrahamson</dc:creator><dc:creator>Jonathan H. Esensten</dc:creator><dc:creator>Ross Wilson</dc:creator><dc:creator>Fyodor D. Urnov</dc:creator><dc:creator>Jennifer A. Doudna</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-024-07800-7</dc:identifier>
+            <dc:source>Nature, Published online: 2024-07-17; | doi:10.1038/s41586-024-07800-7</dc:source>
+            <dc:date>2024-07-17</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-024-07800-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-024-07800-7</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-01747-5">
+            <title><![CDATA[Things fall into place: how plants sense and respond to gravity]]></title>
+            <link>https://www.nature.com/articles/d41586-024-01747-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 17 July 2024; <a href="https://www.nature.com/articles/d41586-024-01747-5">doi:10.1038/d41586-024-01747-5</a></p>How plants sense their orientation in relation to gravity and steer their root and shoot growth accordingly is not fully understood. The discovery of key steps needed for this process fills in some of the gaps in our knowledge.]]></content:encoded>
+            <dc:title><![CDATA[Things fall into place: how plants sense and respond to gravity]]></dc:title>
+            <dc:creator>Suruchi Roychoudhry</dc:creator><dc:creator>Stefan Kepinski</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-01747-5</dc:identifier>
+            <dc:source>Nature, Published online: 2024-07-17; | doi:10.1038/d41586-024-01747-5</dc:source>
+            <dc:date>2024-07-17</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-01747-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-01747-5</prism:url>
+        </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-02319-3">
             <title><![CDATA[Generative AI makes for better scientific writing — but beware the pitfalls]]></title>
@@ -265,6 +310,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-02335-3</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-02335-3</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02354-0">
+            <title><![CDATA[AI &amp; robotics briefing: What is AI, really?]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02354-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 16 July 2024; <a href="https://www.nature.com/articles/d41586-024-02354-0">doi:10.1038/d41586-024-02354-0</a></p>Complex maths or almost magic: scholars are divided on what AI really is and what it is capable of. Plus, AI analysis helps to unravel sperm whales’ phonetic alphabet and algorithm predicts chemical composition of salt stains.]]></content:encoded>
+            <dc:title><![CDATA[AI &amp; robotics briefing: What is AI, really?]]></dc:title>
+            <dc:creator>Katrina Krämer</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02354-0</dc:identifier>
+            <dc:source>Nature, Published online: 2024-07-16; | doi:10.1038/d41586-024-02354-0</dc:source>
+            <dc:date>2024-07-16</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02354-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02354-0</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-02307-7">
@@ -445,6 +505,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-02312-w</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-02312-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02341-5">
+            <title><![CDATA[Daily briefing: The last universal common ancestor lived around 4.2 billion years ago]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02341-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 15 July 2024; <a href="https://www.nature.com/articles/d41586-024-02341-5">doi:10.1038/d41586-024-02341-5</a></p>The shared forebearer of all life probably ate carbon dioxide and hydrogen. Plus, what Twisters gets right (and wrong) about today’s storm chasers and how to enhance your fieldwork with extreme outdoor skills.]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: The last universal common ancestor lived around 4.2 billion years ago]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02341-5</dc:identifier>
+            <dc:source>Nature, Published online: 2024-07-15; | doi:10.1038/d41586-024-02341-5</dc:source>
+            <dc:date>2024-07-15</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02341-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02341-5</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-02295-8">
@@ -1225,81 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/s41586-024-07635-2</prism:doi>
             <prism:url>https://www.nature.com/articles/s41586-024-07635-2</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07623-6">
-            <title><![CDATA[Emergence of large-scale cell death through ferroptotic trigger waves]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07623-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 10 July 2024; <a href="https://www.nature.com/articles/s41586-024-07623-6">doi:10.1038/s41586-024-07623-6</a></p>Ferroptosis can propagate across human cells over long distances (≥5 mm) at constant speeds (around 5.5 μm per minute) through self-regenerating waves of reactive oxygen species; such waves facilitate large-scale cell death in the developing avian limb.]]></content:encoded>
-            <dc:title><![CDATA[Emergence of large-scale cell death through ferroptotic trigger waves]]></dc:title>
-            <dc:creator>Hannah K. C. Co</dc:creator><dc:creator>Chia-Chou Wu</dc:creator><dc:creator>Yi-Chen Lee</dc:creator><dc:creator>Sheng-hong Chen</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07623-6</dc:identifier>
-            <dc:source>Nature, Published online: 2024-07-10; | doi:10.1038/s41586-024-07623-6</dc:source>
-            <dc:date>2024-07-10</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07623-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07623-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-02125-x">
-            <title><![CDATA[Waves of ferroptotic cell death sculpt embryonic tissue]]></title>
-            <link>https://www.nature.com/articles/d41586-024-02125-x</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 10 July 2024; <a href="https://www.nature.com/articles/d41586-024-02125-x">doi:10.1038/d41586-024-02125-x</a></p>An unusual form of cell death called ferroptosis can sweep over embryonic tissues in a wave-like manner to ensure proper muscle development — evidence that ferroptosis has a role in normal physiology.]]></content:encoded>
-            <dc:title><![CDATA[Waves of ferroptotic cell death sculpt embryonic tissue]]></dc:title>
-            <dc:creator>Judith  Goncalves</dc:creator><dc:creator>Scott J.  Dixon</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-02125-x</dc:identifier>
-            <dc:source>Nature, Published online: 2024-07-10; | doi:10.1038/d41586-024-02125-x</dc:source>
-            <dc:date>2024-07-10</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-02125-x</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-02125-x</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-02189-9">
-            <title><![CDATA[Some photos you might like]]></title>
-            <link>https://www.nature.com/articles/d41586-024-02189-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 10 July 2024; <a href="https://www.nature.com/articles/d41586-024-02189-9">doi:10.1038/d41586-024-02189-9</a></p>A life, tagged.]]></content:encoded>
-            <dc:title><![CDATA[Some photos you might like]]></dc:title>
-            <dc:creator>Bob McHugh</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-02189-9</dc:identifier>
-            <dc:source>Nature, Published online: 2024-07-10; | doi:10.1038/d41586-024-02189-9</dc:source>
-            <dc:date>2024-07-10</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-02189-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-02189-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-02243-6">
-            <title><![CDATA[Multiple plague outbreaks in a Neolithic family give clues to prehistoric population dip]]></title>
-            <link>https://www.nature.com/articles/d41586-024-02243-6</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 10 July 2024; <a href="https://www.nature.com/articles/d41586-024-02243-6">doi:10.1038/d41586-024-02243-6</a></p>A reconstruction of the occurrence of plague in a large family tree from Neolithic Sweden indicates that 12 of 38 family members were infected in three separate waves — a potential explanation for a mysterious collapse in northern Europe’s population five millennia ago.]]></content:encoded>
-            <dc:title><![CDATA[Multiple plague outbreaks in a Neolithic family give clues to prehistoric population dip]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-02243-6</dc:identifier>
-            <dc:source>Nature, Published online: 2024-07-10; | doi:10.1038/d41586-024-02243-6</dc:source>
-            <dc:date>2024-07-10</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-02243-6</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-02243-6</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-02290-z">
-            <title><![CDATA[Daily briefing: Older people’s existing immunity could shape an H5N1 pandemic]]></title>
-            <link>https://www.nature.com/articles/d41586-024-02290-z</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 10 July 2024; <a href="https://www.nature.com/articles/d41586-024-02290-z">doi:10.1038/d41586-024-02290-z</a></p>Older people might be more protected from bird flu because they were exposed to ‘matched’ flu strains during childhood. Plus, scientists are hopeful about Iran’s new heart-surgeon president and inside a radio observatory in Ukraine gravely damaged by the Russian invasion.]]></content:encoded>
-            <dc:title><![CDATA[Daily briefing: Older people’s existing immunity could shape an H5N1 pandemic]]></dc:title>
-            <dc:creator>Flora Graham</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-02290-z</dc:identifier>
-            <dc:source>Nature, Published online: 2024-07-10; | doi:10.1038/d41586-024-02290-z</dc:source>
-            <dc:date>2024-07-10</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-02290-z</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-02290-z</prism:url>
         </item>
     
 </rdf:RDF>
