@@ -22,9 +22,27 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02317-5"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02230-x"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02318-4"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02320-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02335-3"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02307-7"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02314-8"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02324-6"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02315-7"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02287-8"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02322-8"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02337-1"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07768-4"/>
                 
@@ -150,24 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02290-z"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02135-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02277-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02119-9"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02254-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02273-0"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02280-1"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02285-w"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07775-5"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07794-2"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -207,6 +207,21 @@
             <prism:url>https://www.nature.com/articles/d41586-024-02317-5</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02230-x">
+            <title><![CDATA[The death forecast: how weather affects human mortality]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02230-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 16 July 2024; <a href="https://www.nature.com/articles/d41586-024-02230-x">doi:10.1038/d41586-024-02230-x</a></p>A link between the death rate and summer temperatures, and Lord Kelvin’s scientific achievements celebrated, in our weekly dip into Nature’s archive.]]></content:encoded>
+            <dc:title><![CDATA[The death forecast: how weather affects human mortality]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-02230-x</dc:identifier>
+            <dc:source>Nature, Published online: 2024-07-16; | doi:10.1038/d41586-024-02230-x</dc:source>
+            <dc:date>2024-07-16</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02230-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02230-x</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-024-02318-4">
             <title><![CDATA[Abandoning randomized controlled trials won’t help cancer treatment]]></title>
             <link>https://www.nature.com/articles/d41586-024-02318-4</link>
@@ -222,6 +237,66 @@
             <prism:url>https://www.nature.com/articles/d41586-024-02318-4</prism:url>
         </item>
     
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02320-w">
+            <title><![CDATA[Dogs might have evolved to read your emotions]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02320-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 16 July 2024; <a href="https://www.nature.com/articles/d41586-024-02320-w">doi:10.1038/d41586-024-02320-w</a></p>Emotional contagion between humans and canines comes from centuries of selective breeding, suggests a comparison with pet pigs.]]></content:encoded>
+            <dc:title><![CDATA[Dogs might have evolved to read your emotions]]></dc:title>
+            <dc:creator>Freda Kreier</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02320-w</dc:identifier>
+            <dc:source>Nature, Published online: 2024-07-16; | doi:10.1038/d41586-024-02320-w</dc:source>
+            <dc:date>2024-07-16</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02320-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02320-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02335-3">
+            <title><![CDATA[A minimalistic model achieves long-range explainable El Niño forecasts with high accuracy]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02335-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 16 July 2024; <a href="https://www.nature.com/articles/d41586-024-02335-3">doi:10.1038/d41586-024-02335-3</a></p>A conceptual model provides accurate forecasts of the El Niño–Southern Oscillation (ENSO) climate phenomenon 16–18 months in advance, outperforming global climate models and rivalling the best forecasts using artificial-intelligence methods. The model quantifies the effects of ocean climate patterns on ENSO predictability.]]></content:encoded>
+            <dc:title><![CDATA[A minimalistic model achieves long-range explainable El Niño forecasts with high accuracy]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-02335-3</dc:identifier>
+            <dc:source>Nature, Published online: 2024-07-16; | doi:10.1038/d41586-024-02335-3</dc:source>
+            <dc:date>2024-07-16</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02335-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02335-3</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02307-7">
+            <title><![CDATA[Reverse engineering spinal-cord injury]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02307-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 16 July 2024; <a href="https://www.nature.com/articles/d41586-024-02307-7">doi:10.1038/d41586-024-02307-7</a></p>A compilation of four single-cell and spatial atlases of spinal-cord injury in mice enables researchers to uncover the principles governing biological responses to such injuries. These discoveries are used to develop a gene therapy that can restore neurological functions in mice.]]></content:encoded>
+            <dc:title><![CDATA[Reverse engineering spinal-cord injury]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-02307-7</dc:identifier>
+            <dc:source>Nature, Published online: 2024-07-16; | doi:10.1038/d41586-024-02307-7</dc:source>
+            <dc:date>2024-07-16</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02307-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02307-7</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02314-8">
+            <title><![CDATA[Animal research is not always king: researchers should explore the alternatives]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02314-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 16 July 2024; <a href="https://www.nature.com/articles/d41586-024-02314-8">doi:10.1038/d41586-024-02314-8</a></p>Technological advances can reduce the numbers of laboratory animals used in studies — but they need to be carefully validated.]]></content:encoded>
+            <dc:title><![CDATA[Animal research is not always king: researchers should explore the alternatives]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-024-02314-8</dc:identifier>
+            <dc:source>Nature, Published online: 2024-07-16; | doi:10.1038/d41586-024-02314-8</dc:source>
+            <dc:date>2024-07-16</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02314-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02314-8</prism:url>
+        </item>
+    
         <item rdf:about="https://www.nature.com/articles/d41586-024-02324-6">
             <title><![CDATA[The geneticist who uses science to free parents wrongly convicted of killing their children]]></title>
             <link>https://www.nature.com/articles/d41586-024-02324-6</link>
@@ -235,6 +310,66 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-02324-6</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-02324-6</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02315-7">
+            <title><![CDATA[Severe turbulence ahead — how scientists can keep air travellers safe in a warming world]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02315-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 16 July 2024; <a href="https://www.nature.com/articles/d41586-024-02315-7">doi:10.1038/d41586-024-02315-7</a></p>From weakening jet streams to causing bumpier flights, climate change is altering atmospheric behaviour. Researchers need to find out how.]]></content:encoded>
+            <dc:title><![CDATA[Severe turbulence ahead — how scientists can keep air travellers safe in a warming world]]></dc:title>
+            <dc:creator>Haoxuan  Yu</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02315-7</dc:identifier>
+            <dc:source>Nature, Published online: 2024-07-16; | doi:10.1038/d41586-024-02315-7</dc:source>
+            <dc:date>2024-07-16</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02315-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02315-7</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02287-8">
+            <title><![CDATA[Freezer holding world’s biggest ancient-ice archive to get ‘future-proofed’]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02287-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 16 July 2024; <a href="https://www.nature.com/articles/d41586-024-02287-8">doi:10.1038/d41586-024-02287-8</a></p>Repository of samples drilled from glaciers and ice caps is replacing a coolant that can harm the ozone layer.]]></content:encoded>
+            <dc:title><![CDATA[Freezer holding world’s biggest ancient-ice archive to get ‘future-proofed’]]></dc:title>
+            <dc:creator>Nicola Jones</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02287-8</dc:identifier>
+            <dc:source>Nature, Published online: 2024-07-16; | doi:10.1038/d41586-024-02287-8</dc:source>
+            <dc:date>2024-07-16</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02287-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02287-8</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02322-8">
+            <title><![CDATA[Can H5N1 spread through cow sneezes? Experiment offers clues]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02322-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 16 July 2024; <a href="https://www.nature.com/articles/d41586-024-02322-8">doi:10.1038/d41586-024-02322-8</a></p>Study suggests the virus can spread through the respiratory system but infected milk is probably driving the outbreak in the US.]]></content:encoded>
+            <dc:title><![CDATA[Can H5N1 spread through cow sneezes? Experiment offers clues]]></dc:title>
+            <dc:creator>Smriti Mallapaty</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02322-8</dc:identifier>
+            <dc:source>Nature, Published online: 2024-07-16; | doi:10.1038/d41586-024-02322-8</dc:source>
+            <dc:date>2024-07-16</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02322-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02322-8</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02337-1">
+            <title><![CDATA[Many plant names are offensive: botanists will vote on whether to change them]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02337-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 16 July 2024; <a href="https://www.nature.com/articles/d41586-024-02337-1">doi:10.1038/d41586-024-02337-1</a></p>Researchers at an international meeting will also consider how to monitor names that have problematic roots.]]></content:encoded>
+            <dc:title><![CDATA[Many plant names are offensive: botanists will vote on whether to change them]]></dc:title>
+            <dc:creator>Ewen Callaway</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02337-1</dc:identifier>
+            <dc:source>Nature, Published online: 2024-07-16; | doi:10.1038/d41586-024-02337-1</dc:source>
+            <dc:date>2024-07-16</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02337-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02337-1</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07768-4">
@@ -1165,141 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-02290-z</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-02290-z</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-02135-9">
-            <title><![CDATA[Speedy stars blow the cover of hidden black hole]]></title>
-            <link>https://www.nature.com/articles/d41586-024-02135-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 10 July 2024; <a href="https://www.nature.com/articles/d41586-024-02135-9">doi:10.1038/d41586-024-02135-9</a></p>Fast-moving stars have been discovered in the middle of the nearby star cluster ω Centauri using two decades of Hubble Space Telescope imaging. The stars offer evidence of a long-sought intermediate-mass black hole.]]></content:encoded>
-            <dc:title><![CDATA[Speedy stars blow the cover of hidden black hole]]></dc:title>
-            <dc:creator>Daryl  Haggard</dc:creator><dc:creator>Adrienne  Cool</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-02135-9</dc:identifier>
-            <dc:source>Nature, Published online: 2024-07-10; | doi:10.1038/d41586-024-02135-9</dc:source>
-            <dc:date>2024-07-10</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-02135-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-02135-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-02277-w">
-            <title><![CDATA[Stars hint at an unusual black hole lurking in our Galaxy]]></title>
-            <link>https://www.nature.com/articles/d41586-024-02277-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 10 July 2024; <a href="https://www.nature.com/articles/d41586-024-02277-w">doi:10.1038/d41586-024-02277-w</a></p>Images taken by the Hubble Space Telescope point to an elusive intermediate-size black hole in the star cluster ω Centauri.]]></content:encoded>
-            <dc:title><![CDATA[Stars hint at an unusual black hole lurking in our Galaxy]]></dc:title>
-            <dc:creator>Davide Castelvecchi</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-02277-w</dc:identifier>
-            <dc:source>Nature, Published online: 2024-07-10; | doi:10.1038/d41586-024-02277-w</dc:source>
-            <dc:date>2024-07-10</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-02277-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-02277-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-02119-9">
-            <title><![CDATA[Alzheimer’s plaques and tangles revealed by 3D microscopy]]></title>
-            <link>https://www.nature.com/articles/d41586-024-02119-9</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 10 July 2024; <a href="https://www.nature.com/articles/d41586-024-02119-9">doi:10.1038/d41586-024-02119-9</a></p>Amyloid-β peptides and tau proteins form filaments in the brain in Alzheimer’s disease. Using an electron microscopy approach to visualize thin slices of brain tissue in 3D, these filaments can be seen in their native environment.]]></content:encoded>
-            <dc:title><![CDATA[Alzheimer’s plaques and tangles revealed by 3D microscopy]]></dc:title>
-            <dc:creator>Sjors H. W. Scheres</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-02119-9</dc:identifier>
-            <dc:source>Nature, Published online: 2024-07-10; | doi:10.1038/d41586-024-02119-9</dc:source>
-            <dc:date>2024-07-10</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-02119-9</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-02119-9</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-02254-3">
-            <title><![CDATA[How anti-obesity drugs cause nausea: finding offers hope for better drugs]]></title>
-            <link>https://www.nature.com/articles/d41586-024-02254-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 10 July 2024; <a href="https://www.nature.com/articles/d41586-024-02254-3">doi:10.1038/d41586-024-02254-3</a></p>The neurons that produce a sick feeling and food aversion are distinct from those that induce a feeling of fullness.]]></content:encoded>
-            <dc:title><![CDATA[How anti-obesity drugs cause nausea: finding offers hope for better drugs]]></dc:title>
-            <dc:creator>Mariana Lenharo</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-02254-3</dc:identifier>
-            <dc:source>Nature, Published online: 2024-07-10; | doi:10.1038/d41586-024-02254-3</dc:source>
-            <dc:date>2024-07-10</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-02254-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-02254-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-02273-0">
-            <title><![CDATA[This lab-grown meat probably tastes like real beef]]></title>
-            <link>https://www.nature.com/articles/d41586-024-02273-0</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 10 July 2024; <a href="https://www.nature.com/articles/d41586-024-02273-0">doi:10.1038/d41586-024-02273-0</a></p>Cultured meat that tastes and smells more appetizing could enhance public perception of artificial steaks.]]></content:encoded>
-            <dc:title><![CDATA[This lab-grown meat probably tastes like real beef]]></dc:title>
-            <dc:creator>Helena Kudiabor</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-02273-0</dc:identifier>
-            <dc:source>Nature, Published online: 2024-07-10; | doi:10.1038/d41586-024-02273-0</dc:source>
-            <dc:date>2024-07-10</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-02273-0</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-02273-0</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-02280-1">
-            <title><![CDATA[Serious errors plague DNA tool that’s a workhorse of biology]]></title>
-            <link>https://www.nature.com/articles/d41586-024-02280-1</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 10 July 2024; <a href="https://www.nature.com/articles/d41586-024-02280-1">doi:10.1038/d41586-024-02280-1</a></p>Researchers analysed thousands of laboratory-made plasmids and discovered that nearly half of them had defects, raising questions of experimental reproducibility.]]></content:encoded>
-            <dc:title><![CDATA[Serious errors plague DNA tool that’s a workhorse of biology]]></dc:title>
-            <dc:creator>Katherine Bourzac</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-02280-1</dc:identifier>
-            <dc:source>Nature, Published online: 2024-07-10; | doi:10.1038/d41586-024-02280-1</dc:source>
-            <dc:date>2024-07-10</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-02280-1</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-02280-1</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-02285-w">
-            <title><![CDATA[Edward C. Stone obituary: physicist who guided Voyager probes to interstellar space]]></title>
-            <link>https://www.nature.com/articles/d41586-024-02285-w</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 10 July 2024; <a href="https://www.nature.com/articles/d41586-024-02285-w">doi:10.1038/d41586-024-02285-w</a></p>Space scientist who took humanity on a tour of the Solar System and beyond, in a journey of discovery like no other.]]></content:encoded>
-            <dc:title><![CDATA[Edward C. Stone obituary: physicist who guided Voyager probes to interstellar space]]></dc:title>
-            <dc:creator>Alan C.   Cummings</dc:creator>
-            <dc:identifier>doi:10.1038/d41586-024-02285-w</dc:identifier>
-            <dc:source>Nature, Published online: 2024-07-10; | doi:10.1038/d41586-024-02285-w</dc:source>
-            <dc:date>2024-07-10</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-02285-w</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-02285-w</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07775-5">
-            <title><![CDATA[Publisher Correction: Titanium:sapphire-on-insulator integrated lasers and amplifiers]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07775-5</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 09 July 2024; <a href="https://www.nature.com/articles/s41586-024-07775-5">doi:10.1038/s41586-024-07775-5</a></p>Publisher Correction: Titanium:sapphire-on-insulator integrated lasers and amplifiers]]></content:encoded>
-            <dc:title><![CDATA[Publisher Correction: Titanium:sapphire-on-insulator integrated lasers and amplifiers]]></dc:title>
-            <dc:creator>Joshua Yang</dc:creator><dc:creator>Kasper Van Gasse</dc:creator><dc:creator>Daniil M. Lukin</dc:creator><dc:creator>Melissa A. Guidry</dc:creator><dc:creator>Geun Ho Ahn</dc:creator><dc:creator>Alexander D. White</dc:creator><dc:creator>Jelena Vučković</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07775-5</dc:identifier>
-            <dc:source>Nature, Published online: 2024-07-09; | doi:10.1038/s41586-024-07775-5</dc:source>
-            <dc:date>2024-07-09</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07775-5</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07775-5</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07794-2">
-            <title><![CDATA[Author Correction: Obesity induces PD-1 on macrophages to suppress anti-tumour immunity]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07794-2</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 09 July 2024; <a href="https://www.nature.com/articles/s41586-024-07794-2">doi:10.1038/s41586-024-07794-2</a></p>Author Correction: Obesity induces PD-1 on macrophages to suppress anti-tumour immunity]]></content:encoded>
-            <dc:title><![CDATA[Author Correction: Obesity induces PD-1 on macrophages to suppress anti-tumour immunity]]></dc:title>
-            <dc:creator>Jackie E. Bader</dc:creator><dc:creator>Melissa M. Wolf</dc:creator><dc:creator>Gian Luca Lupica-Tondo</dc:creator><dc:creator>Matthew Z. Madden</dc:creator><dc:creator>Bradley I. Reinfeld</dc:creator><dc:creator>Emily N. Arner</dc:creator><dc:creator>Emma S. Hathaway</dc:creator><dc:creator>KayLee K. Steiner</dc:creator><dc:creator>Gabriel A. Needle</dc:creator><dc:creator>Zaid Hatem</dc:creator><dc:creator>Madelyn D. Landis</dc:creator><dc:creator>Eden E. Faneuff</dc:creator><dc:creator>Amondrea Blackman</dc:creator><dc:creator>Elysa M. Wolf</dc:creator><dc:creator>Matthew A. Cottam</dc:creator><dc:creator>Xiang Ye</dc:creator><dc:creator>Madison E. Bates</dc:creator><dc:creator>Kyra Smart</dc:creator><dc:creator>Wenjun Wang</dc:creator><dc:creator>Laura V. Pinheiro</dc:creator><dc:creator>Anthos Christofides</dc:creator><dc:creator>DuPreez Smith</dc:creator><dc:creator>Vassiliki A. Boussiotis</dc:creator><dc:creator>Scott M. Haake</dc:creator><dc:creator>Kathryn E. Beckermann</dc:creator><dc:creator>Kathryn E. Wellen</dc:creator><dc:creator>Cynthia A. Reinhart-King</dc:creator><dc:creator>C. Henrique Serezani</dc:creator><dc:creator>Cheng-Han Lee</dc:creator><dc:creator>Christa Aubrey</dc:creator><dc:creator>Heidi Chen</dc:creator><dc:creator>W. Kimryn Rathmell</dc:creator><dc:creator>Alyssa H. Hasty</dc:creator><dc:creator>Jeffrey C. Rathmell</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07794-2</dc:identifier>
-            <dc:source>Nature, Published online: 2024-07-09; | doi:10.1038/s41586-024-07794-2</dc:source>
-            <dc:date>2024-07-09</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07794-2</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07794-2</prism:url>
         </item>
     
 </rdf:RDF>
