@@ -20,6 +20,12 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07811-4"/>
                 
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02352-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02321-9"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02358-w"/>
+                
                     <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07800-7"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02356-y"/>
@@ -77,6 +83,8 @@
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02298-5"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02154-6"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02362-0"/>
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02232-9"/>
                 
@@ -160,14 +168,6 @@
                 
                     <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02156-4"/>
                 
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02267-y"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02199-7"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-024-02200-3"/>
-                
-                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-024-07773-7"/>
-                
             </rdf:Seq>
         </items>
     </channel>
@@ -190,6 +190,51 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/s41586-024-07811-4</prism:doi>
             <prism:url>https://www.nature.com/articles/s41586-024-07811-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02352-2">
+            <title><![CDATA[Long COVID lung damage linked to immune system response]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02352-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 18 July 2024; <a href="https://www.nature.com/articles/d41586-024-02352-2">doi:10.1038/d41586-024-02352-2</a></p>Inhibiting a protein associated with chronic inflammation improves lung health in mice with COVID-19.]]></content:encoded>
+            <dc:title><![CDATA[Long COVID lung damage linked to immune system response]]></dc:title>
+            <dc:creator>Helena Kudiabor</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02352-2</dc:identifier>
+            <dc:source>Nature, Published online: 2024-07-18; | doi:10.1038/d41586-024-02352-2</dc:source>
+            <dc:date>2024-07-18</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02352-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02352-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02321-9">
+            <title><![CDATA[Three-year delay for Indian census frustrates researchers]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02321-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 18 July 2024; <a href="https://www.nature.com/articles/d41586-024-02321-9">doi:10.1038/d41586-024-02321-9</a></p>Without up-to-date data on the population, scientists say studies on fertility, migration and health outcomes have become unreliable.]]></content:encoded>
+            <dc:title><![CDATA[Three-year delay for Indian census frustrates researchers]]></dc:title>
+            <dc:creator>Smriti Mallapaty</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02321-9</dc:identifier>
+            <dc:source>Nature, Published online: 2024-07-18; | doi:10.1038/d41586-024-02321-9</dc:source>
+            <dc:date>2024-07-18</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02321-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02321-9</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02358-w">
+            <title><![CDATA[What is it like to attend a predatory conference?]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02358-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 18 July 2024; <a href="https://www.nature.com/articles/d41586-024-02358-w">doi:10.1038/d41586-024-02358-w</a></p>Nature sent a reporter to find out as part of an investigation into dud events.]]></content:encoded>
+            <dc:title><![CDATA[What is it like to attend a predatory conference?]]></dc:title>
+            <dc:creator>Christine Ro</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02358-w</dc:identifier>
+            <dc:source>Nature, Published online: 2024-07-18; | doi:10.1038/d41586-024-02358-w</dc:source>
+            <dc:date>2024-07-18</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02358-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02358-w</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/s41586-024-07800-7">
@@ -625,6 +670,21 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-02154-6</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-02154-6</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-024-02362-0">
+            <title><![CDATA[Daily briefing: The poetry hidden in PhD thesis acknowledgements]]></title>
+            <link>https://www.nature.com/articles/d41586-024-02362-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 17 July 2024; <a href="https://www.nature.com/articles/d41586-024-02362-0">doi:10.1038/d41586-024-02362-0</a></p>Science writer Tabitha Carvan explores the found poetry in the acknowledgement sections of PhD theses. Plus, researchers should explore the alternatives to animal research and can H5N1 spread through cow sneezes?]]></content:encoded>
+            <dc:title><![CDATA[Daily briefing: The poetry hidden in PhD thesis acknowledgements]]></dc:title>
+            <dc:creator>Flora Graham</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-024-02362-0</dc:identifier>
+            <dc:source>Nature, Published online: 2024-07-17; | doi:10.1038/d41586-024-02362-0</dc:source>
+            <dc:date>2024-07-17</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-024-02362-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-024-02362-0</prism:url>
         </item>
     
         <item rdf:about="https://www.nature.com/articles/d41586-024-02232-9">
@@ -1240,66 +1300,6 @@
             <prism:publicationName>Nature</prism:publicationName>
             <prism:doi>10.1038/d41586-024-02156-4</prism:doi>
             <prism:url>https://www.nature.com/articles/d41586-024-02156-4</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-02267-y">
-            <title><![CDATA[Blowout! Satellites reveal one of the largest methane leaks on record]]></title>
-            <link>https://www.nature.com/articles/d41586-024-02267-y</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 11 July 2024; <a href="https://www.nature.com/articles/d41586-024-02267-y">doi:10.1038/d41586-024-02267-y</a></p>An oil well in Kazakhstan dumped more than 100,000 tonnes of the potent greenhouse gas into the atmosphere.]]></content:encoded>
-            <dc:title><![CDATA[Blowout! Satellites reveal one of the largest methane leaks on record]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-02267-y</dc:identifier>
-            <dc:source>Nature, Published online: 2024-07-11; | doi:10.1038/d41586-024-02267-y</dc:source>
-            <dc:date>2024-07-11</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-02267-y</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-02267-y</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-02199-7">
-            <title><![CDATA[Most accurate clock in history made by ‘quieting’ atoms]]></title>
-            <link>https://www.nature.com/articles/d41586-024-02199-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 11 July 2024; <a href="https://www.nature.com/articles/d41586-024-02199-7">doi:10.1038/d41586-024-02199-7</a></p>Strontium-based timepiece gains or loses only one second every 40 billion years.]]></content:encoded>
-            <dc:title><![CDATA[Most accurate clock in history made by ‘quieting’ atoms]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-02199-7</dc:identifier>
-            <dc:source>Nature, Published online: 2024-07-11; | doi:10.1038/d41586-024-02199-7</dc:source>
-            <dc:date>2024-07-11</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-02199-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-02199-7</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/d41586-024-02200-3">
-            <title><![CDATA[Wine grapes’ sweetness reveals Europe’s climate history]]></title>
-            <link>https://www.nature.com/articles/d41586-024-02200-3</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 11 July 2024; <a href="https://www.nature.com/articles/d41586-024-02200-3">doi:10.1038/d41586-024-02200-3</a></p>Records on the quality of the grape harvest sheds light on 600 years of weather.]]></content:encoded>
-            <dc:title><![CDATA[Wine grapes’ sweetness reveals Europe’s climate history]]></dc:title>
-            
-            <dc:identifier>doi:10.1038/d41586-024-02200-3</dc:identifier>
-            <dc:source>Nature, Published online: 2024-07-11; | doi:10.1038/d41586-024-02200-3</dc:source>
-            <dc:date>2024-07-11</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/d41586-024-02200-3</prism:doi>
-            <prism:url>https://www.nature.com/articles/d41586-024-02200-3</prism:url>
-        </item>
-    
-        <item rdf:about="https://www.nature.com/articles/s41586-024-07773-7">
-            <title><![CDATA[De novo variants in the <i>RNU4-2</i> snRNA cause a frequent neurodevelopmental syndrome]]></title>
-            <link>https://www.nature.com/articles/s41586-024-07773-7</link>
-            <content:encoded>
-                <![CDATA[<p>Nature, Published online: 11 July 2024; <a href="https://www.nature.com/articles/s41586-024-07773-7">doi:10.1038/s41586-024-07773-7</a></p>De novo variants in the <i>RNU4-2</i> snRNA cause a frequent neurodevelopmental syndrome]]></content:encoded>
-            <dc:title><![CDATA[De novo variants in the <i>RNU4-2</i> snRNA cause a frequent neurodevelopmental syndrome]]></dc:title>
-            <dc:creator>Yuyang Chen</dc:creator><dc:creator>Ruebena Dawes</dc:creator><dc:creator>Hyung Chul Kim</dc:creator><dc:creator>Alicia Ljungdahl</dc:creator><dc:creator>Sarah L. Stenton</dc:creator><dc:creator>Susan Walker</dc:creator><dc:creator>Jenny Lord</dc:creator><dc:creator>Gabrielle Lemire</dc:creator><dc:creator>Alexandra C. Martin-Geary</dc:creator><dc:creator>Vijay S. Ganesh</dc:creator><dc:creator>Jialan Ma</dc:creator><dc:creator>Jamie M. Ellingford</dc:creator><dc:creator>Erwan Delage</dc:creator><dc:creator>Elston N. D’Souza</dc:creator><dc:creator>Shan Dong</dc:creator><dc:creator>David R. Adams</dc:creator><dc:creator>Kirsten Allan</dc:creator><dc:creator>Madhura Bakshi</dc:creator><dc:creator>Erin E. Baldwin</dc:creator><dc:creator>Seth I. Berger</dc:creator><dc:creator>Jonathan A. Bernstein</dc:creator><dc:creator>Ishita Bhatnagar</dc:creator><dc:creator>Ed Blair</dc:creator><dc:creator>Natasha J. Brown</dc:creator><dc:creator>Lindsay C. Burrage</dc:creator><dc:creator>Kimberly Chapman</dc:creator><dc:creator>David J. Coman</dc:creator><dc:creator>Alison G. Compton</dc:creator><dc:creator>Chloe A. Cunningham</dc:creator><dc:creator>Precilla D’Souza</dc:creator><dc:creator>Petr Danecek</dc:creator><dc:creator>Emmanuèle C. Délot</dc:creator><dc:creator>Kerith-Rae Dias</dc:creator><dc:creator>Ellen R. Elias</dc:creator><dc:creator>Frances Elmslie</dc:creator><dc:creator>Care-Anne Evans</dc:creator><dc:creator>Lisa Ewans</dc:creator><dc:creator>Kimberly Ezell</dc:creator><dc:creator>Jamie L. Fraser</dc:creator><dc:creator>Lyndon Gallacher</dc:creator><dc:creator>Casie A. Genetti</dc:creator><dc:creator>Anne Goriely</dc:creator><dc:creator>Christina L. Grant</dc:creator><dc:creator>Tobias Haack</dc:creator><dc:creator>Jenny E. Higgs</dc:creator><dc:creator>Anjali G. Hinch</dc:creator><dc:creator>Matthew E. Hurles</dc:creator><dc:creator>Alma Kuechler</dc:creator><dc:creator>Katherine L. Lachlan</dc:creator><dc:creator>Seema R. Lalani</dc:creator><dc:creator>François Lecoquierre</dc:creator><dc:creator>Elsa Leitão</dc:creator><dc:creator>Anna Le Fevre</dc:creator><dc:creator>Richard J. Leventer</dc:creator><dc:creator>Jan E. Liebelt</dc:creator><dc:creator>Sarah Lindsay</dc:creator><dc:creator>Paul J. Lockhart</dc:creator><dc:creator>Alan S. Ma</dc:creator><dc:creator>Ellen F. Macnamara</dc:creator><dc:creator>Sahar Mansour</dc:creator><dc:creator>Taylor M. Maurer</dc:creator><dc:creator>Hector R. Mendez</dc:creator><dc:creator>Kay Metcalfe</dc:creator><dc:creator>Stephen B. Montgomery</dc:creator><dc:creator>Mariya Moosajee</dc:creator><dc:creator>Marie-Cécile Nassogne</dc:creator><dc:creator>Serena Neumann</dc:creator><dc:creator>Michael O’Donoghue</dc:creator><dc:creator>Melanie O’Leary</dc:creator><dc:creator>Elizabeth E. Palmer</dc:creator><dc:creator>Nikhil Pattani</dc:creator><dc:creator>John Phillips</dc:creator><dc:creator>Georgia Pitsava</dc:creator><dc:creator>Ryan Pysar</dc:creator><dc:creator>Heidi L. Rehm</dc:creator><dc:creator>Chloe M. Reuter</dc:creator><dc:creator>Nicole Revencu</dc:creator><dc:creator>Angelika Riess</dc:creator><dc:creator>Rocio Rius</dc:creator><dc:creator>Lance Rodan</dc:creator><dc:creator>Tony Roscioli</dc:creator><dc:creator>Jill A. Rosenfeld</dc:creator><dc:creator>Rani Sachdev</dc:creator><dc:creator>Charles J. Shaw-Smith</dc:creator><dc:creator>Cas Simons</dc:creator><dc:creator>Sanjay M. Sisodiya</dc:creator><dc:creator>Penny Snell</dc:creator><dc:creator>Laura St Clair</dc:creator><dc:creator>Zornitza Stark</dc:creator><dc:creator>Helen S. Stewart</dc:creator><dc:creator>Tiong Yang Tan</dc:creator><dc:creator>Natalie B. Tan</dc:creator><dc:creator>Suzanna E. L. Temple</dc:creator><dc:creator>David R. Thorburn</dc:creator><dc:creator>Cynthia J. Tifft</dc:creator><dc:creator>Eloise Uebergang</dc:creator><dc:creator>Grace E. VanNoy</dc:creator><dc:creator>Pradeep Vasudevan</dc:creator><dc:creator>Eric Vilain</dc:creator><dc:creator>David H. Viskochil</dc:creator><dc:creator>Laura Wedd</dc:creator><dc:creator>Matthew T. Wheeler</dc:creator><dc:creator>Susan M. White</dc:creator><dc:creator>Monica Wojcik</dc:creator><dc:creator>Lynne A. Wolfe</dc:creator><dc:creator>Zoe Wolfenson</dc:creator><dc:creator>Caroline F. Wright</dc:creator><dc:creator>Changrui Xiao</dc:creator><dc:creator>David Zocche</dc:creator><dc:creator>John L. Rubenstein</dc:creator><dc:creator>Eirene Markenscoff-Papadimitriou</dc:creator><dc:creator>Sebastian M. Fica</dc:creator><dc:creator>Diana Baralle</dc:creator><dc:creator>Christel Depienne</dc:creator><dc:creator>Daniel G. MacArthur</dc:creator><dc:creator>Joanna M. M. Howson</dc:creator><dc:creator>Stephan J. Sanders</dc:creator><dc:creator>Anne O’Donnell-Luria</dc:creator><dc:creator>Nicola Whiffin</dc:creator>
-            <dc:identifier>doi:10.1038/s41586-024-07773-7</dc:identifier>
-            <dc:source>Nature, Published online: 2024-07-11; | doi:10.1038/s41586-024-07773-7</dc:source>
-            <dc:date>2024-07-11</dc:date>
-            <prism:publicationName>Nature</prism:publicationName>
-            <prism:doi>10.1038/s41586-024-07773-7</prism:doi>
-            <prism:url>https://www.nature.com/articles/s41586-024-07773-7</prism:url>
         </item>
     
 </rdf:RDF>
